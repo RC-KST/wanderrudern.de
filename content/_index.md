@@ -10,5 +10,3 @@ news:
     text: "Nirina jüngste Äquatorpreisträgerin aller Zeiten"
     img: /bundle/backdrops/griebnitzsee-anfang-skiff.jpg
 ---
-
-
