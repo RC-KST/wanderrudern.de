@@ -6,6 +6,7 @@ rowingclub:
   other: If you want to find an old site, look
 404_here:
   other: here
+
 until:
   other: until
 announcements:
@@ -27,3 +28,7 @@ news:
   other: News
 contact:
   other: Contact
+
+
+marathon_marathonrowing:
+  other: Marathon rowing

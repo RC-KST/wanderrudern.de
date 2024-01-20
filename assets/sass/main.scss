@@ -23,6 +23,13 @@ $content-offset-top: 60pt;
 $content-padding: 15pt;
 $nav-border-radius: 5pt;
 
+
+@media(min-width: 1024px) {
+    .lg\:w-page-container {
+        width: 10rem;
+    }
+}
+
 @font-face {
   font-family: $primary-font;
   src: url('/bundle/noto-sans/NotoSans-Medium.ttf') format("truetype");
@@ -38,12 +45,12 @@ $nav-border-radius: 5pt;
   $backdrop-blur: 5pt;
   $backdrop-opacity: 0.9;
 
-  min-height: 100%;
-  width: 100%;
-  height: auto;
-  position: fixed;
-  top: 0;
-  left: 0;
+  //min-height: 100%;
+  //width: 100%;
+  //height: auto;
+  //position: fixed;
+  //top: 0;
+  //left: 0;
 
   z-index: -1;
   //flex-grow: 1;
@@ -58,15 +65,15 @@ $nav-border-radius: 5pt;
 }
 
 
-html, body {
-  display: flex;
-  //background: $bg-light;
-  color: $fg-light;
-  min-height: 100vh;
-  flex-direction: column;
-  font-family: $primary-font;
-  min-width: $site-min-width;
-}
+//html, body {
+//  display: flex;
+//  //background: $bg-light;
+//  color: $fg-light;
+//  min-height: 100vh;
+//  flex-direction: column;
+//  font-family: $primary-font;
+//  min-width: $site-min-width;
+//}
 
 footer {
   background: $bg-dark;
@@ -145,11 +152,11 @@ ul {
   opacity: 0.5;
 }
 
-.main-content {
-  flex: 1;
-  display: flex;
-  flex-directon: column;
-}
+//.main-content {
+//  flex: 1;
+//  display: flex;
+//  flex-directon: column;
+//}
 
 .dark-blue {
   color: $dark-blue;

@@ -5,7 +5,6 @@
     {{ with .Params.tags }}
     <meta name="keywords" content=" {{ range $index, $ctag := . }} {{if $index}},{{ end }} {{ $ctag | safeHTML }} {{ end }} ">
     {{ end }}
-    <meta name="Test!" content="This is a test">
     <!--<meta name="keywords" content="Wanderrudern,Rudern,wanderrudern,rudern,rowing,Ruderboot,Ruderer,Freizeit,Sport,Fun,Berlin,Kleinmachnow,Stahnsdorf,Teltow,Wassersport,Jugendliche,Jugend,Fahrten,Reisen,reisen,Wanderfahrten,Abenteuer,adventure,Ruderclub,Ruderverein,row,rower,Babelsberg,Potsdam,Zehlendorf">-->
 {{ end }}
 

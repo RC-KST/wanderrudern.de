@@ -1,10 +1,10 @@
 {{ define "main" }}
 
 <div style="display:flex;flex-direction:column;justify-content:flex-start;">
-    <h1>{{ .Title }}</h1>
+    <h1 class="text-2xl font-bold">{{ .Title }}</h1>
 
     {{ with .Params.news }}
-    {{ partial "news_slide.html" . }}
+        {{ partial "news_slide.html" . }}
     {{ end }}
 
     <div class="column-layout-row">

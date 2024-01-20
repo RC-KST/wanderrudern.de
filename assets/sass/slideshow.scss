@@ -51,10 +51,17 @@ $slideshow-height: 200pt;
     top: 0;
   }
   &__image {
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
     position: absolute;
-    top: -50%;
-    width: 100%;
-    vertical-align: middle;
+    top: 0;
+    left: 0;
+    //top: -50%;
+    //width: 100%;
+    //vertical-align: middle;
   }
   &__text {
     color: #f2f2f2;
