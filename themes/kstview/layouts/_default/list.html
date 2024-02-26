@@ -1,0 +1,16 @@
+{{ define "main" }}
+    <div class="filling-container">
+        <h1 class="col-header dark-blue">{{ .Title }}</h1>
+        {{ $paginator := (.Paginate (.Pages.ByParam "end").Reverse 20) }}
+        {{ range $paginator.Pages }}
+        <a href="{{ .RelPermalink }}">
+            <div class="preview-title" href="{{ .RelPermalink }}"> {{ .Title }}</div>
+        </a>
+        <br>
+        {{ end }}
+    </div>
+    <hr class="list__spacer">
+    <div style="display: flex; justify-content: center;">
+    {{ template "_internal/pagination.html" . }}
+    </div>
+{{ end }}

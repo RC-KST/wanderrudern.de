@@ -1,5 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>-->
 {{ with .Params.Title }}
   <title>{{ site.Title }} | {{ .Title }}</title>
 {{ else }}

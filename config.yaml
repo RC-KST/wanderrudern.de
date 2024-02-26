@@ -1,6 +1,8 @@
 baseURL: 'https://wanderrudern.de'
 title: 'Ruderclub Kleinmachnow Stahnsdorf Teltow e.V.'
 
+theme: kstview
+
 taxonomies:
   waters: "waters"
 
