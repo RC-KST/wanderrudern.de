@@ -1,21 +1,22 @@
 {{ define "main" }}
-    <div class="filling-container">
-        <h1 class="col-header dark-blue">{{ .Title }}</h1>
-        {{ $paginator := (.Paginate (.Pages.ByParam "end").Reverse 20) }}
+    <div class="h-full">
+        <h1>{{ .Title }}</h1>
+        {{ $paginator := (.Paginate (.Pages.ByParam "end").Reverse .Site.Params.articles_per_site) }}
         {{ range $paginator.Pages }}
         <a href="{{ .RelPermalink }}">
-            <div class="preview-title" href="{{ .RelPermalink }}"> {{ .Title }}</div>
-            <span>
-                {{ (time .Params.begin).Format "02.01.2006" }}
-                {{ i18n "until" }}
-                {{ (time .Params.end).Format "02.01.2006" }}
-            </span>
+            <div class="px-1 border-0 rounded-md bg-gray-200 my-4">
+                <div class="flex font-bold pb-2" href="{{ .RelPermalink }}"> {{ .Title }}</div>
+                <div>
+                    {{ (time .Params.begin).Format "02.01.2006" }}
+                    {{ i18n "until" }}
+                    {{ (time .Params.end).Format "02.01.2006" }}
+                </div>
+            </div>
         </a>
-        <br>
-        {{ end }}
+    {{ end }}
     </div>
-    <hr class="list__spacer">
-    <div style="display: flex; justify-content: center;">
+    <hr>
+    <div class="flex justify-center">
     {{ template "_internal/pagination.html" . }}
     </div>
 {{ end }}

@@ -1,11 +1,14 @@
 {{ define "head" }}
     {{ with .Params.description }}
-    <meta name="description" content="Der Ruderclub Kleinmachow betreibt Rudern als Freizeitsport für Jugendliche und Erwachsene. Zusätzlich zum normalen Ruderbetrieb werden jedes Jahr viele Wanderfahrten auf Deutschen und Europäischen Gewässern durchgeführt.">
+    <meta name="description" content="{{ . }}">
     {{ end }}
+
     {{ with .Params.tags }}
-    <meta name="keywords" content=" {{ range $index, $ctag := . }} {{if $index}},{{ end }} {{ $ctag | safeHTML }} {{ end }} ">
+    <meta name="keywords" content=" 
+        {{- range $index, $ctag := . -}}
+            {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
+        {{- end -}} ">
     {{ end }}
-    <!--<meta name="keywords" content="Wanderrudern,Rudern,wanderrudern,rudern,rowing,Ruderboot,Ruderer,Freizeit,Sport,Fun,Berlin,Kleinmachnow,Stahnsdorf,Teltow,Wassersport,Jugendliche,Jugend,Fahrten,Reisen,reisen,Wanderfahrten,Abenteuer,adventure,Ruderclub,Ruderverein,row,rower,Babelsberg,Potsdam,Zehlendorf">-->
 {{ end }}
 
 {{ define "main" }}

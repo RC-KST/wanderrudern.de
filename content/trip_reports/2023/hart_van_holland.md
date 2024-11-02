@@ -1,13 +1,13 @@
----
-title: "Hart van Holland"
-draft: false
-begin: "2023-04-06"
-end: "2023-04-09"
-author: Paul
-tags: ["Niederlande", "Regatta"]
-waters: ["Amstel", "Vecht", "Amsterdamer Gewaesser"]
-images: /images/2023/hart_van_holland
----
++++
+title = "Hart van Holland"
+draft = false
+begin = 2023-04-06
+end = 2023-04-09
+author = "Paul"
+tags = ["Niederlande", "Regatta"]
+waters = ["Amstel", "Vecht", "Amsterdamer Gewaesser"]
+images = "/images/2023/hart_van_holland"
++++
 
 # Anfahrt
 

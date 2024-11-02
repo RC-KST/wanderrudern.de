@@ -1,13 +1,13 @@
----
-title: "Sommerwanderfahrt Finnland"
-draft: false
-begin: "2022-05-02"
-end: "2022-05-30"
-author: Tim
-tags: 
-waters: Saimaa
-images: /images/2022/finnland_sommer
----
++++
+title = "Sommerwanderfahrt Finnland"
+draft = false
+begin = 2022-05-02
+end = 2022-05-30
+author = "Tim"
+tags = []
+waters = "Saimaa"
+images = "/images/2022/finnland_sommer"
++++
 
 # Dies ist ein Test
 

@@ -6,6 +6,7 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 
 - Git Versioning Tool
 - Hugo Cli für die Erstellung und das Testen von lokalen Änderungen
+- npm für
 
 ## TODOs
 - [ ] Impressum
@@ -62,6 +63,8 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 # Minor TODOS/Fixes
 - [ ] News fixen (Bild alignment)
 
-### Libs
+### Libs/Dependencies
+- [x] Tailwind (-> npm)
+- [ ] lnr.js (suche inklusive nachladen vom Suchindex)
 - [ ] Alpine-js fuer simples js
 - [ ] Leaflet fuer Anfahrt?

@@ -1,19 +1,6 @@
 $slideshow-height: 200pt;
 
 .slideshow {
-  &__container {
-    cursor: pointer;
-    width: 100%;
-    height: $slideshow-height;
-    overflow: hidden;
-    position: relative;
-    margin: auto;
-    -webkit-transition: opacity .4s ease-in-out;
-    transition: opacity .4s ease-in-out;
-  }
-  &__container:hover {
-    opacity: 0.7;
-  }
   &__slides {
     display: block;
     opacity: 0.0;

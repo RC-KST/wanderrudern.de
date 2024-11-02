@@ -1,7 +1,7 @@
----
-draft: false
-type: marathon
----
++++
+draft = false
+type = "marathon"
++++
 
 ## Dies ist eine zweite Überschrift
 

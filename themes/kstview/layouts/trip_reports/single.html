@@ -1,11 +1,13 @@
 {{ define "head" }}
     {{ with .Params.description }}
-    <meta name="description" content="Der Ruderclub Kleinmachow betreibt Rudern als Freizeitsport für Jugendliche und Erwachsene. Zusätzlich zum normalen Ruderbetrieb werden jedes Jahr viele Wanderfahrten auf Deutschen und Europäischen Gewässern durchgeführt.">
+    <meta name="description" content="{{ . }}">
     {{ end }}
 
-    <meta name="keywords" content="{{ range $index, $ctag := $.Site.Params.defaultMetaTags }}{{ if $index}}, {{ end }}{{ $ctag | safeHTML }}{{ end }}">
     {{ with .Params.tags }}
-    <meta name="keywords" content="{{ range $index, $ctag := . }}{{ if $index}}, {{ end }}{{ $ctag | safeHTML }}{{ end }}">
+    <meta name="keywords" content=" 
+        {{- range $index, $ctag := . -}}
+            {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
+        {{- end -}} ">
     {{ end }}
 {{ end }}
 
@@ -23,7 +25,7 @@
         <!-- Tag navigation may be added later -->
     </div>
 </div>
-<div style="flex-grow: 1;">
+<div class="flex-grow my-2">
     {{ .Content }}
 </div>
 <hr class="bericht__spacer" />

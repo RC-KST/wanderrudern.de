@@ -1,3 +1,3 @@
----
-title: Alle Berichte
----
++++
+title = "Alle Berichte"
++++

@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de" class="h-full">
     <head>
-        <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+        <!--<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>-->
+        <script src="https://unpkg.com/lunr/lunr.js"></script>
+
 
         {{ partial "head-meta.html" }}
 
@@ -9,11 +11,11 @@
             | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
         {{- $styles := $styles | minify | fingerprint | resources.PostCSS -}}
 
-        {{ if hugo.IsProduction }}
-            {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+        {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+        <!--{{ if hugo.IsProduction }}
         {{ else }}
             <script src="https://cdn.tailwindcss.com"></script>
-        {{ end }}
+        {{ end }}-->
 
         <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 
@@ -25,25 +27,34 @@
         <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | resources.ToCSS | resources.Minify }}-->
 
         {{ with .OutputFormats.Get "rss" -}}
-            {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+            {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
         {{ end -}}
 
-        <meta name="Author" content="Stefan Biastock">
-        <meta name="publisher" content="Ruderclub Kleinmachnow">
-        <meta name="copyright" content="Stefan Biastock">
-        <meta name="page-topic" content="Sport">
-        <meta name="page-type" content="Vereinspage">
-        <meta name="revisit-after" content="4 weeks">
+        <meta name="publisher" content="{{.Site.Params.meta.publisher}}">
+        <meta name="copyright" content="{{.Site.Params.meta.copyright}}">
+        <meta name="page-topic" content="{{.Site.Params.meta.page_topic}}">
+        <meta name="page-type" content="{{.Site.Params.meta.page_type}}">
+        <meta name="revisit-after" content="{{.Site.Params.meta.revisit_after}}">
+
+        {{ with .Site.Params.meta.default_tags }}
+        <meta name="keywords" content=" 
+            {{- range $index, $ctag := . -}}
+                {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
+            {{- end -}} ">
+        {{ end }}
 
         {{ block "head" .}} {{ end }}
     </head>
     
-    <body>
-        {{ partial "nav.html" }}
-        <div class=" backdrop min-h-full w-full
-            h-auto fixed top-0 left-0 bg-white"></div>
-        <main class="flex flex-col items-center">
-            <div class="sm:w-full lg:w-screen mt-11" id="content-container">
+    <body class="h-full flex flex-col">
+        {{ partial "nav.html" . }}
+        <div class="min-h-full w-full h-auto fixed top-0 left-0
+                bg-white -z-10 bg-center bg-cover bg-no-repeat
+                blur opacity-90"
+                style="background-image: url('{{.Site.Params.backdrop_url}}');"></div>
+        <main class="flex flex-col items-center flex-grow">
+            <div class="flex flex-grow xs:w-25 sm:w-full lg:w-[60rem] mt-10"
+                id="content-container">
                 <div class="flex flex-grow flex-col flex-nowrap 
                     items-stretch ml-0 mr-0 mt-10 mb-14 p-14
                     rounded-lg bg-gray-100" id="content-scroll">
@@ -51,6 +62,6 @@
                 </div>
             </div>
         </main>
-        {{ partial "footer.html" }}
+        {{ partial "footer.html" . }}
     </body>
 </html>

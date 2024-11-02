@@ -1,0 +1,43 @@
+baseURL = "https://wanderrudern.de"
+title = "Ruderclub Kleinmachnow Stahnsdorf Teltow e.V."
+
+theme = "kstview"
+
+languageCode = "de"
+defaultContentLanguage = "de"
+staticDir = ["static", "images", "site_archive"]
+
+[taxonomies]
+waters = "waters"
+
+[params]
+backdrop_url = "/bundle/backdrops/club-gelaende.jpg"
+articles_per_site = 20
+
+[params.author]
+name = "Paul Seydel"
+email = "Seydel.fnvd@gmail.com"
+
+[params.meta]
+publisher = "Ruderclub Kleinmachnow Stahnsdorf Teltow"
+copyright = "Stefan Biastock"
+page_topic = "Sport"
+page_type = "Vereinspage"
+revisit_after = "4 weeks"
+default_tags = [
+    "Wanderrudern","Rudern","wanderrudern","rudern","rowing","Ruderboot","Ruderer","Freizeit",
+    "Sport","Fun","Berlin", "Kleinmachnow","Stahnsdorf","Teltow","Wassersport","Jugendliche",
+    "Jugend","Fahrten","Reisen","reisen","Wanderfahrten","Abenteuer","adventure","Ruderclub",
+    "Ruderverein","row","rower","Babelsberg","Potsdam","Zehlendorf"
+]
+
+[params.footer]
+facebook = "https://www.facebook.com/wanderrudern"
+
+[languages.de]
+languageName = "Deutsch"
+weight = 20
+
+[languages.en]
+languageName = "English"
+weight = 10

@@ -1,18 +1,22 @@
 <footer>
-<div class="container">
-    <div class="footer-content">
-        <div class="footer-content__left-group">
-            <p>Copyright {{ i18n "rowingclub" }} Kleinmachnow Stahnsdorf Teltow, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</p>
+<div class="max-w-5xl px-4 mx-auto">
+    <div class="flex flex-row mb-5 mt-10">
+        <div class="w-full mr-5">
+            <p>TODO</p>
+            <p>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</p>
         </div>
-        <div class="footer-content__right-group">
+        <div class="w-full">
             <!--<h2 class="footer-content__site-name">{{ site.Title }}</h2>-->
             <p><a href="/impressum" class="">{{ i18n "imprint" }}</a></p>
             <p><a href="/datenschutz">{{ i18n "data_protection"}}</a></p> 
         </div>
     </div>
-    <div class="footer-social">
-        <a href="https://www.facebook.com/wanderrudern" target="_blank" class="icons">
-            <img style="height:30pt;width:auto;" src="/bundle/facebook-icon-light.svg" alt="Facebook">
+    <div class="w-full flex">
+        <a href="{{ .Site.Params.footer.facebook }}"
+            target="_blank" 
+            class="h-auto p-6 bg-contain bg-no-repeat text-xl hover:opacity-50"
+            style="background-image: url('/bundle/facebook-icon-light.svg');">
+            <!--<img class="h-7 w-auto" src="/bundle/facebook-icon-light.svg" alt="Facebook">-->
         </a>
     </div>
 </div>

@@ -1,91 +1,100 @@
-
-<div class="slideshow__container" id="slideshow">
-    <div onclick="slideshow_onclick()">
-        {{ range $v := . }}
+<div>
+    <div class="cursor-pointer w-full max-sm:h-32 h-64 overflow-hidden
+        relative m-auto hover:opacity-90 flex"
+        style="transition: opacity .3s ease-in-out;"
+        id="slideshow">
+        <div class="flex-grow block" onclick="slideshow_onclick()">
+            {{ range $v := . }}
             <div
-                class="slideshow__slides" 
+                class="absolute left-0 top-0 opacity-0 w-full h-full
+                    object-cover bg-cover bg-center slideshow_slides"
+                style="transition: opacity 1s ease-in-out;
+                    background-image: url(&quot;{{ $v.img }}&quot;);"
                 {{ with $v.href }} data-href="{{ . }}" {{ end }}>
-                <img class="slideshow__image" src="{{ $v.img }}" alt=""/> <!--http://farm9.staticflickr.com/8241/8562523343_9bb49b7b7b.jpg-->
-                {{ with $v.text }}<div class="slideshow__text">{{ . }}</div> {{ end }}
+
+                 <!--http://farm9.staticflickr.com/8241/8562523343_9bb49b7b7b.jpg-->
+
+                {{ with $v.text }}
+                <div class="text-center text-white text-lg px-9 py-2
+                    absolute bottom-4 w-full bg-opacity-50 bg-black"
+                >{{ . }}</div>
+                {{ end }}
             </div>
-        {{ end }}
-        <!--
-        <div class="slideshow__slides" data-href="#2">
-            <img class="slideshow__image" src="http://farm9.staticflickr.com/8465/8113424031_72048dd887.jpg" alt=""/>
-            <div class="slideshow__text">Image 02</div>
+            {{ end }}
         </div>
-        -->
+        <a class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
+                text-white font-bold rounded-r-md select-none
+                hover:bg-black hover:bg-opacity-90"
+            style="transition: 0.6s ease;"
+            onclick="slides_next(-1)">&#10094;</a>
+        <a class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
+                text-white font-bold rounded-l-md select-none right-0
+                hover:bg-black hover:bg-opacity-90"
+            style="transition: 0.6s ease;"
+            onclick="slides_next(1)">&#10095;</a>
     </div>
-    <a class="slideshow__prev" onclick="slides_next(-1)">&#10094;</a>
-    <a class="slideshow__next" onclick="slides_next(1)">&#10095;</a>
+    <div class="flex flex-row justify-center py-2 text-center">
+        {{ range $i, $c := . }}
+        <span class="cursor-pointer h-4 w-4 m-1 bg-gray-700 opacity-80 hover:opacity-100
+            rounded-[50%] transition-opacity slideshow_dot"
+            onclick="set_slide({{ $i }})"></span>
+        {{ end }}
+    </div>
+
+    <script>
+        const TIMEOUT_MS = 6 * 1000;
+
+        var slides_tag = document.getElementsByTagName('script');
+        slides_tag = slides_tag[slides_tag.length-1].parentNode;
+
+        let slide_idx = 0;
+        let timeout_id = undefined;
+        function slides_next(n) {
+            set_slide(slide_idx+n)
+        }
+
+        function set_slide(n) {
+            slide_idx = n;
+            clearTimeout(timeout_id);
+            timeout_id = setTimeout(show_slides, TIMEOUT_MS)
+            show_slide(slide_idx);
+        }
+
+        function show_slide(n) {
+            let slides = slides_tag.getElementsByClassName("slideshow_slides");
+            let dots = slides_tag.getElementsByClassName("slideshow_dot");
+
+            if (n >= slides.length) slide_idx = 0;
+            if (n < 0) slide_idx = slides.length-1;
+
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].className = slides[i].className.replace("opacity-100", "opacity-0");
+            }
+            slides[slide_idx].className =
+                slides[slide_idx].className.replace("opacity-0", "opacity-100");
+
+            for (let i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace("opacity-80", "opacity-40");
+            }
+            dots[slide_idx].className = dots[slide_idx].className.replace("opacity-40", "opacity-80");
+        }
+
+        function show_slides() {
+            slide_idx++;
+            show_slide(slide_idx);
+            timeout_id = setTimeout(show_slides, TIMEOUT_MS);
+        }
+
+        function slideshow_onclick() {
+            let slide = slides_tag.getElementsByClassName("slideshow_slides")[slide_idx];
+            if (slide !== undefined && slide.dataset !== undefined && slide.dataset.href !== undefined) {
+                console.log("href", slide.dataset.href);
+                window.open(slide.dataset.href, "_self")
+            } else {
+                console.error(slides_tag.getElementsByClassName("slideshow_slides"))
+            }
+
+        }
+        show_slides();
+    </script>
 </div>
-<br>
-
-<div style="text-align: center;">
-    {{ range $i, $c := . }}
-    <span class="slideshow__dot" onclick="set_slide({{ $i }})"></span>
-    {{ end }}
-</div>
-
-<script>
-    const TIMEOUT_MS = 6 * 1000;
-    let slide_idx = 0;
-    function slides_next(n) {
-        slide_idx += n;
-        show_slide(slide_idx);
-    }
-
-    function set_slide(n) {
-        slide_idx = n;
-        show_slide(slide_idx);
-    }
-
-    function show_slide(n) {
-        let slides = document.getElementsByClassName("slideshow__slides");
-        let dots = document.getElementsByClassName("slideshow__dot");
-
-        if (n >= slides.length) {
-            slide_idx = 0;
-        }
-        if (n < 0) {
-            slide_idx = slides.length-1;
-        }
-        for (let i = 0; i < slides.length; i++) {
-            slides[i].className = slides[i].className.replace(" slideshow__fade", "")
-            //slides[i].style.display = "none";
-            //slides[i].style.opacity = 0.2;
-        }
-        for (let i = 0; i < dots.length; i++) {
-            dots[i].className = dots[i].className.replace(" slideshow__dot-active", "");
-        }
-        //slides[slide_idx].style.display = "block";
-        slides[slide_idx].className += " slideshow__fade";
-        //slides[slide_idx].style.opacity = 1.0;
-        dots[slide_idx].className += " slideshow__dot-active";
-    }
-
-    function show_slides() {
-        slide_idx++;
-        show_slide(slide_idx);
-        setTimeout(show_slides, TIMEOUT_MS);
-    }
-
-    function slideshow_onclick() {
-        let slide = document.getElementsByClassName("slideshow__slides")[slide_idx];
-        if (slide !== undefined && slide.dataset !== undefined && slide.dataset.href !== undefined) {
-            console.log("href", slide.dataset.href);
-            window.open(slide.dataset.href, "_self")
-        } else {
-            console.error(document.getElementsByClassName("slideshow__slides"))
-        }
-        
-    }
-    show_slides();
-</script>
-<!--
-<div class="slideshow-slider">
-    <img class="slideshow-photo" src="http://farm9.staticflickr.com/8465/8113424031_72048dd887.jpg" alt="" />
-    <img class="slideshow-photo" src="http://farm9.staticflickr.com/8241/8562523343_9bb49b7b7b.jpg" alt="" />
-    <img class="slideshow-photo" src="http://farm9.staticflickr.com/8465/8113424031_72048dd887.jpg" alt="" />
-</div>
--->

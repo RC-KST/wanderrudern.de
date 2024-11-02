@@ -1,11 +1,10 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-draft: true
-begin:
-end:
-author:
-tags:
-waters:
-images:
----
-
++++
+title = "{{ replace .Name "-" " " | title }}"
+draft = true
+begin = 
+end =
+author = ""
+tags = []
+waters = []
+images = []
++++
