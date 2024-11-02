@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.114.0
+      HUGO_VERSION: 0.136.5
     steps:
       - name: Install Hugo CLI
         run: |
@@ -39,6 +39,8 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+          #- name: Install pnpm
+          #  run: "curl -fsSL https://get.pnpm.io/install.sh | sh - && source ~/.bashrc && pnpm --version"
       - name: Checkout
         uses: actions/checkout@v3
         with:

@@ -9,7 +9,7 @@
 
         {{- $styles := resources.Get "css/styles.css"
             | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
-        {{- $styles := $styles | minify | fingerprint | resources.PostCSS -}}
+        {{- $styles := $styles | minify | fingerprint | css.PostCSS -}}
 
         {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
         <!--{{ if hugo.IsProduction }}
@@ -19,12 +19,12 @@
 
         <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 
-        {{ $style_main := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify }}
+        {{ $style_main := resources.Get "sass/main.scss" | css.Sass | resources.Minify }}
         <link rel="stylesheet" href={{ $style_main.RelPermalink }}>
-        {{ $style_slideshow := resources.Get "sass/slideshow.scss" | resources.ToCSS | resources.Minify }}
+        {{ $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify }}
         <link rel="stylesheet" href={{ $style_slideshow.RelPermalink }}>
 
-        <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | resources.ToCSS | resources.Minify }}-->
+        <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | css.Sass | resources.Minify }}-->
 
         {{ with .OutputFormats.Get "rss" -}}
             {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
