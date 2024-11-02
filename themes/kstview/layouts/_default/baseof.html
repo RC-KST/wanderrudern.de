@@ -21,8 +21,8 @@
 
         {{$css_options := dict
             "vars" (dict 
-                "font_url" (resources.Get "bundle/noto-sans/NotoSans-Medium.ttf").RelPermalink
-                "backdrop_image" (resources.Get "bundle/backdrops/club-gelaende.jpg").RelPermalink
+                "font_url" (resources.Get .Site.Params.font_url).RelPermalink
+                "backdrop_image" (resources.Get .Site.Params.backdrop_image).RelPermalink
             )
         }}
         {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify }}
@@ -57,7 +57,7 @@
         <div class="min-h-full w-full h-auto fixed top-0 left-0
                 bg-white -z-10 bg-center bg-cover bg-no-repeat
                 blur opacity-90"
-             style="background-image: url('{{ (resources.Get .Site.Params.backdrop_url).RelPermalink }}');"></div>
+             style="background-image: url('{{ (resources.Get .Site.Params.backdrop_image).RelPermalink }}');"></div>
         <main class="flex flex-col items-center flex-grow">
             <div class="flex flex-grow xs:w-25 sm:w-full lg:w-[60rem] mt-10"
                 id="content-container">
