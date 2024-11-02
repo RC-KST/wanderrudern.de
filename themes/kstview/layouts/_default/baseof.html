@@ -19,7 +19,13 @@
 
         <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 
-        {{ $style_main := resources.Get "sass/main.scss" | css.Sass | resources.Minify }}
+        {{$css_options := dict
+            "vars" (dict 
+                "font_url" (resources.Get "bundle/noto-sans/NotoSans-Medium.ttf").RelPermalink
+                "backdrop_image" (resources.Get "bundle/backdrops/club-gelaende.jpg").RelPermalink
+            )
+        }}
+        {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify }}
         <link rel="stylesheet" href={{ $style_main.RelPermalink }}>
         {{ $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify }}
         <link rel="stylesheet" href={{ $style_slideshow.RelPermalink }}>

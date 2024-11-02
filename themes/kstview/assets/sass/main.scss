@@ -1,3 +1,5 @@
+@import "hugo:vars";
+
 $primary-font: 'Noto Sans', sans-serif;
 $heading-font: 'Noto Sans', sans-serif;
 
@@ -32,7 +34,7 @@ $nav-border-radius: 5pt;
 
 @font-face {
   font-family: $primary-font;
-  src: url('/bundle/noto-sans/NotoSans-Medium.ttf') format("truetype");
+  src: url($font-url) format("truetype");
 }
 
 * {
@@ -55,7 +57,7 @@ $nav-border-radius: 5pt;
   z-index: -1;
   //flex-grow: 1;
   background-color: white;
-  background-image: url('/bundle/backdrops/club-gelaende.jpg');
+  background-image: url($backdrop-image);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
