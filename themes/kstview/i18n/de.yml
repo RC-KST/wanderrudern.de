@@ -8,6 +8,7 @@ rowingclub_name:
   other: Falls du eine alte Seite suchst, findest du sie
 404_here:
   other: hier
+
 until:
   other: bis
 announcements:
@@ -35,3 +36,9 @@ footer_all_rights_reserved:
 
 marathon_marathonrowing:
   other: Marathonrudern
+
+cookiebanner_msg:
+  other: Wir nutzen Cookies, um ihre Nutzungserfahrung zu verbessern. Mit dem Besuch stimmen Sie für die Nutzung von Cookies.
+cookiebanner_link:
+  other: Mehr erfahren
+

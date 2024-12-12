@@ -2,7 +2,7 @@
 <html lang="de" class="h-full">
     <head>
         <!--<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>-->
-        <script src="https://unpkg.com/lunr/lunr.js"></script>
+        <!--<script src="https://unpkg.com/lunr/lunr.js"></script>-->
 
 
         {{ partial "head-meta.html" }}
@@ -69,5 +69,10 @@
             </div>
         </main>
         {{ partial "footer.html" . }}
+
+        <script type="text/javascript" id="cookiebanner" src="{{ (resources.Get "js/cookiebanner.js").RelPermalink }}"
+            data-height="20pt"
+            data-message="{{- i18n "cookiebanner_msg" -}}"
+            data-linkmsg="{{- i18n "cookiebanner_link" -}}"></script>
     </body>
 </html>
