@@ -16,7 +16,8 @@
         <a href="{{ .Site.Params.footer.facebook }}"
             target="_blank" 
             class="h-auto p-6 bg-contain bg-no-repeat text-xl hover:opacity-50"
-            style="background-image: url('/bundle/facebook-icon-light.svg');">
+            style="background-image: url(&quot;{{ (resources.Get "bundle/facebook-icon-light.svg").RelPermalink }}&quot;);">
+                
             <!--<img class="h-7 w-auto" src="/bundle/facebook-icon-light.svg" alt="Facebook">-->
         </a>
     </div>

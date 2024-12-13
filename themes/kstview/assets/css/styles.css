@@ -55,11 +55,6 @@
   ol {
     @apply list-inside list-decimal
   }
-
-  @font-face {
-    font-family: Noto Sans;
-    src: url(/bundle/noto-sans/NotoSans-Regular.ttf);
-  }
 }
 
 @layer utilities {
