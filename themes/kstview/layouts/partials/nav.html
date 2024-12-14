@@ -4,14 +4,14 @@
         <a href="{{ relref . "/" }}" class="flex max-w-20">
             <img
                 class="order-[0] max-w-24 h-full rounded-md w-auto p-1 font-bold whitespace-nowrap "
-                src="{{- (resources.Get "bundle/kst_wikingerschiff_simplistic_light.svg").RelPermalink -}}">
+                src="{{- (resources.Get "bundle/kst_wikingerschiff_simplistic_light.svg").Permalink -}}">
             </img>
         </a>
         <div class=" order-1 flex relative m-0 w-auto">
             {{ range .Site.Sections.ByWeight }}
             <li class="order-1 w-full text-center items-center font-bold
                 flex-row flex-nowrap flex mr-3 md:mr-16">
-                <a href="{{ .RelPermalink }}">{{.LinkTitle}}</a>
+                <a href="{{ .Permalink }}">{{.LinkTitle}}</a>
             </li> <!--top-nav__link-->
             {{ end }}
             <!--

@@ -3,9 +3,9 @@
         <h1>{{ .Title }}</h1>
         {{ $paginator := (.Paginate (.Pages.ByParam "end").Reverse .Site.Params.articles_per_site) }}
         {{ range $paginator.Pages }}
-        <a href="{{ .RelPermalink }}">
+        <a href="{{ .Permalink }}">
             <div class="px-1 border-0 rounded-md bg-gray-200 my-4">
-                <div class="flex font-bold pb-2" href="{{ .RelPermalink }}"> {{ .Title }}</div>
+                <div class="flex font-bold pb-2" href="{{ .Permalink }}"> {{ .Title }}</div>
                 <div>
                     {{ (time .Params.begin).Format "02.01.2006" }}
                     {{ i18n "until" }}
