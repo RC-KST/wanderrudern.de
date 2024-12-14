@@ -1,4 +1,5 @@
 baseURL = "https://wanderrudern.de"
+relativeUrls = true
 title = "Ruderclub Kleinmachnow Stahnsdorf Teltow e.V."
 
 theme = "kstview"
