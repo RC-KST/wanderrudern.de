@@ -1,22 +1,20 @@
 <footer class="min-h-24 flex-shrink-0 justify-center p-5 border-2 border-solid
     border-black bg-gray-900 text-white">
-<div class="max-w-5xl px-4 mx-auto">
-    <div class="flex flex-row mb-5 mt-10">
+<div class="max-w-5xl mx-auto my-7">
+    <div class="flex flex-row mb-5">
         <div class="w-full mr-5">
-            <p>TODO</p>
             <p>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</p>
         </div>
         <div class="w-full">
-            <!--<h2 class="footer-content__site-name">{{ site.Title }}</h2>-->
-            <p><a href="/impressum">{{ i18n "imprint" }}</a></p>
-            <p><a href="/datenschutz">{{ i18n "data_protection"}}</a></p> 
+            <p><a href="{{ .RelRef (dict "path" "/rechtliches/impressum" "lang" "de") }}">{{ i18n "imprint" }}</a></p>
+            <p><a href="{{ .RelRef (dict "path" "/rechtliches/datenschutz" "lang" "de") }}">{{ i18n "data_protection"}}</a></p> 
         </div>
     </div>
     <div class="w-full flex">
         <a href="{{ .Site.Params.footer.facebook }}"
             target="_blank" 
             class="h-auto p-6 bg-contain bg-no-repeat text-xl hover:opacity-50"
-            style="background-image: url(&quot;{{ (resources.Get "bundle/facebook-icon-light.svg").RelPermalink }}&quot;);">
+            style="background-image: url(&quot;{{ (resources.Get "bundle/facebook-icon-light.svg").Permalink }}&quot;);">
                 
             <!--<img class="h-7 w-auto" src="/bundle/facebook-icon-light.svg" alt="Facebook">-->
         </a>

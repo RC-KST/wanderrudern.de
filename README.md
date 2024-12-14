@@ -10,16 +10,16 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 
 ## TODOs
 - [ ] Impressum
-    - [ ] Verlinkung im Footer
-    - [ ] name (Clubname, Rechtsform (e.V.?))
-    - [ ] vertretende Persom (Stefan Biastock?)
+    - [X] Verlinkung im Footer
+    - [X] name (Clubname, Rechtsform (e.V.?))
+    - [X] vertretende Persom (Stefan Biastock?)
     - [ ] Ladungsfähige Anschrift
     - [ ] Kontaktdaten (Telefon, Email)
     - [ ] Register (Vereinsregister)
     - [ ] Umsatzsteuer-Identifikations-Nummer (wahrscheinlich nicht?)
 - [ ] Datenschutz-Hinweis (Mit Verlinkung auf Datenschutz-Bestimmungen) (Cookie-Banner)
 - [ ] Datenschutz-Bestimmungen
-    - [ ] Verlinkung im Footer
+    - [X] Verlinkung im Footer
     - [ ] Speicherung der IP-Adressen
     - [ ] Cookie usage, Analyse/Tracking-Tools => Google Analytics
     - [ ] Nutzung Social Media Buttons
@@ -29,17 +29,17 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
         - [ ] Anfahrt
         - [ ] Rowing schedule (en)
         - [ ] Membership fees (en)
-- [ ] Reports
+- [ ] Berichte
     - [x] Pagination
     - [ ] Tags
     - [ ] Waters
     - [ ] Bilder
-- [ ] News
+- [ ] Neuigkeiten
     - [ ] News Layout
     - [ ] Sorting
     - [ ] Next/Prev News
     - [ ] Pagination
-- [ ] Home Page
+- [ ] Homepage
     - [ ] Seite layout
     - [ ] Seite content
 - [ ] Spezielle Seiten
