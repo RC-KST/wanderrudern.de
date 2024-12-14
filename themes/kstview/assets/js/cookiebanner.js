@@ -80,7 +80,7 @@ THE SOFTWARE.
         get: function (key) {
             return decodeURIComponent(doc.cookie.replace(new RegExp('(?:(?:^|.*;)\\s*' + encodeURIComponent(key).replace(/[-.+*]/g, '\\$&') + '\\s*\\=\\s*([^;]*).*$)|^.*$'), '$1')) || null;
         },
-        set: function (key, val, end, path, domain, secure) {
+        set: function (key, val, end, path, domain, secure, samesite) {
             if (!key || /^(?:expires|max-age|path|domain|secure)$/i.test(key)) {
                 return false;
             }
@@ -98,7 +98,7 @@ THE SOFTWARE.
                     break;
                 }
             }
-            doc.cookie = encodeURIComponent(key) + '=' + encodeURIComponent(val) + expires + (domain ? '; domain=' + domain : '') + (path ? '; path=' + path : '') + (secure ? '; secure' : '');
+            doc.cookie = encodeURIComponent(key) + '=' + encodeURIComponent(val) + expires + (domain ? '; domain=' + domain : '') + (path ? '; path=' + path : '') + (secure ? '; secure' : '') + (samesite ? '; SameSite=' + samesite : '');
             return true;
         },
         has: function (key) {
@@ -258,13 +258,14 @@ THE SOFTWARE.
 
             this.default_options = {
                 // autorun: true,
-                cookie: 'cookiebanner-accepted',
+                cookie: 'do_not_track',
                 closeText: '&#10006;',
                 closeStyle: 'float:right;padding-left:5px;',
                 closePrecedes: true,
                 cookiePath: '/',
                 cookieDomain: null,
-                cookieSecure: false,
+                cookieSecure: true,
+                cookieSameSite: 'None',
                 debug: false,
                 expires: Infinity,
                 zindex: 255,
@@ -388,7 +389,7 @@ THE SOFTWARE.
         },
 
         agree: function() {
-            this.cookiejar.set(this.options.cookie, 1, this.options.expires, this.options.cookiePath, (this.options.cookieDomain !== '' ? this.options.cookieDomain : ''), (this.options.cookieSecure ? true : false));
+            this.cookiejar.set(this.options.cookie, 1, this.options.expires, this.options.cookiePath, (this.options.cookieDomain !== '' ? this.options.cookieDomain : ''), (this.options.cookieSecure ? true : false), this.options.cookieSameSite);
             return true;
         },
 

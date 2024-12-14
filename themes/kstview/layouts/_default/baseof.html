@@ -4,8 +4,9 @@
         <!--<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>-->
         <!--<script src="https://unpkg.com/lunr/lunr.js"></script>-->
 
-
         {{ partial "head-meta.html" }}
+
+        <script type="text/javascript" src="{{ (resources.Get "js/cookies.js").RelPermalink }}"></script>
 
         {{- $styles := resources.Get "css/styles.css"
             | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
@@ -55,7 +56,10 @@
             {{- end -}} ">
         {{ end }}
 
+        {{ partial "analytics.html" . }}
+
         {{ block "head" .}} {{ end }}
+
     </head>
     
     <body class="h-full flex flex-col">
@@ -70,6 +74,7 @@
                 <div class="flex flex-grow flex-col flex-nowrap 
                     items-stretch m-0 mb-14 p-14
                     rounded-lg bg-gray-100" id="content-scroll">
+
                     {{ block "main" .}} {{ end }}
                 </div>
             </div>
