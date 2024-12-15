@@ -49,12 +49,19 @@
   }
 
   ul {
-    @apply list-inside list-disc
+    @apply list-outside list-disc
+  }
+  ol {
+    @apply list-outside list-decimal
+  }
+  li {
+    @apply ml-5
   }
 
-  ol {
-    @apply list-inside list-decimal
+  hr {
+    @apply border-solid border-gray-400 rounded-sm border-2 my-2;
   }
+
 }
 
 @layer utilities {
