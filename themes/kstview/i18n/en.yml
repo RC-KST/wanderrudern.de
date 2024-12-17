@@ -15,6 +15,8 @@ announcements:
   other: Announcements
 trip_report_written_by:
   other: geschrieben von
+trip_record_last_modified:
+  other: last_modified
 
 imprint:
   other: Imprint

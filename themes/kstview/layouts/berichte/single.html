@@ -16,12 +16,14 @@
     <h1>{{ .Title }}</h1>
     <hr/>
     <div class="w-full flex justify-between px-0 py-2">
-        <span>
-            {{ if and (isset .Params "begin") (isset .Params "end") }}
-            {{ (time .Params.end).Format "2.01.2006" }} bis {{ (time .Params.begin).Format "2.01.2006" }}
-            {{ end }}
-        </span>
-        <span> {{ i18n "trip_report_written_by" }} {{ .Params.author }} </span>
+        {{ if and (isset .Params "begin") (isset .Params "end") }}
+        <span>{{ (time .Params.end).Format "2.01.2006" }} bis {{ (time .Params.begin).Format "2.01.2006" }}</span>
+        {{ end }}
+        <div class="flex flex-col items-end">
+            <span>{{ with .Date }}{{ i18n "trip_record_last_modified" }}: {{ (time .).Format "2.01.2006" }}{{ end }}</span>
+            <span>{{ i18n "trip_report_written_by" }} {{ .Params.author }}</span>
+        </div>
+
         <!-- Tag navigation may be added later -->
     </div>
 </div>

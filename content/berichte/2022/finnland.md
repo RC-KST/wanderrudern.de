@@ -1,6 +1,7 @@
 +++
 title = "Sommerwanderfahrt Finnland"
 draft = false
+date = 2023-06-01
 begin = 2022-05-02
 end = 2022-05-30
 author = "Tim"

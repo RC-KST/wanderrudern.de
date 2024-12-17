@@ -1,6 +1,9 @@
 {{ define "main" }}
     <div class="h-full">
         <h1>{{ .Title }}</h1>
+
+        {{ .Content }}
+
         {{ $paginator := (.Paginate (.Pages.ByParam "end").Reverse .Site.Params.articles_per_site) }}
         {{ range $paginator.Pages }}
         <a href="{{ .Permalink }}">

@@ -1,5 +1,3 @@
 +++
 title = "Neuigkeiten"
 +++
-
-Got here!
