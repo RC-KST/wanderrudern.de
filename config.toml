@@ -53,11 +53,13 @@ languageName = "English"
 weight = 10
 
 [permalinks.page]
-berichte = '/berichte/:year/:month/:slug/'
-neuigkeiten = '/neuigkeiten/:year/:month/:slug/'
+berichte = '/berichte/:year/:month/:slug'
+neuigkeiten = '/neuigkeiten/:year/:month/:slug'
 
 [permalinks.section]
-berichte = '/berichte/'
-neuigkeiten = '/neuigkeiten/'
+berichte = '/berichte'
+neuigkeiten = '/neuigkeiten'
+intern = "/intern"
 
-
+[renderer]
+unsafe = false
