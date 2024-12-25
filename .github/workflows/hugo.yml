@@ -27,11 +27,11 @@ defaults:
     shell: bash
 
 jobs:
-  show_event:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Show event_name
-        run: "echo ${{ github.event_name }}"
+#  show_event:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Show event_name
+#        run: "echo ${{ github.event_name }}"
   # Build job
   build:
     runs-on: ubuntu-latest
