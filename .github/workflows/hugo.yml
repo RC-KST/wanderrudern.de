@@ -27,10 +27,15 @@ defaults:
     shell: bash
 
 jobs:
+  show_event:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show event_name
+        run: "echo ${{ github.event_name }}"
   # Build job
   build:
     runs-on: ubuntu-latest
-    if: "contains(github.event.head_commit.message, '[build]') || contains(github.event_name, 'workflow')"
+    if: "${{ contains(github.event.head_commit.message, '[build]') || contains(github.event_name, 'workflow') }}"
     env:
       HUGO_VERSION: 0.136.5
     steps:
