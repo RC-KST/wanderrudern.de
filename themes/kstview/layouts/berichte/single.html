@@ -18,11 +18,11 @@
     <div class="w-full flex justify-between px-0 py-2">
         <span>
         {{ if and (isset .Params "begin") (isset .Params "end") }}
-        {{ (time .Params.end).Format "2.01.2006" }} bis {{ (time .Params.begin).Format "2.01.2006" }}
+        {{ (time .Params.end).Format "02.01.2006" }} bis {{ (time .Params.begin).Format "02.01.2006" }}
         {{ end }}
         </span>
         <div class="flex flex-col items-end">
-            <span>{{ with .Date }}{{ i18n "trip_record_last_modified" }}: {{ (time .).Format "2.01.2006" }}{{ end }}</span>
+            <span>{{ with .Date }}{{ i18n "trip_record_last_modified" }}: {{ (time .).Format "02.01.2006" }}{{ end }}</span>
             {{ with .Params.author -}}
                 <span>{{ i18n "trip_report_written_by" }} {{ . }}</span>
             {{- end }}
