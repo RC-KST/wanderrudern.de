@@ -4,15 +4,17 @@
 
         {{ .Content }}
 
-        {{ $paginator := (.Paginate (.Pages.ByParam "end").Reverse .Site.Params.articles_per_site) }}
+        {{ $paginator := (.Paginate (.Pages.ByParam "date").Reverse .Site.Params.articles_per_site) }}
         {{ range $paginator.Pages }}
         <a href="{{ .Permalink }}">
             <div class="px-1 border-0 rounded-md bg-gray-200 my-4">
                 <div class="flex font-bold pb-2" href="{{ .Permalink }}"> {{ .Title }}</div>
                 <div>
-                    {{ (time .Params.begin).Format "02.01.2006" }}
-                    {{ i18n "until" }}
-                    {{ (time .Params.end).Format "02.01.2006" }}
+                    {{- (time .Params.begin).Format "02.01.2006" }}
+                    {{- with .Params.end }}
+                        {{- i18n "until" }}
+                        {{- (time .Params.end).Format "02.01.2006" }}
+                    {{- end -}}
                 </div>
             </div>
         </a>
@@ -20,6 +22,6 @@
     </div>
     <hr>
     <div class="flex justify-center">
-    {{ template "_internal/pagination.html" . }}
+    {{ partial "pagination.html" . }}
     </div>
 {{ end }}

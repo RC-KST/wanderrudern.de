@@ -7,7 +7,7 @@
                 src="{{- (resources.Get "bundle/kst_wikingerschiff_simplistic_light.svg").Permalink -}}">
             </img>
         </a>
-        <div class=" order-1 flex relative w-auto">
+        <div class=" order-1 flex relative w-auto overflow-x-scroll">
             {{ range $nav := .Site.Params.home.nav_items }}
             {{ $page := $.Site.GetPage $nav }}
             <li class="order-1 w-full text-center items-center font-bold
