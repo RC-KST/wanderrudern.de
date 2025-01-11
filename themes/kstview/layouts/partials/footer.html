@@ -6,8 +6,8 @@
             <p>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</p>
         </div>
         <div class="w-full">
-            <p><a class="bg-transparent" href="{{ .RelRef (dict "path" "/intern/impressum" "lang" "de") }}">{{ i18n "imprint" }}</a></p>
-            <p><a class="bg-transparent" href="{{ .RelRef (dict "path" "/intern/datenschutz" "lang" "de") }}">{{ i18n "data_protection"}}</a></p> 
+            <p><a class="bg-transparent" href="{{ .Ref (dict "path" "/intern/impressum" "lang" "de") }}">{{ i18n "imprint" }}</a></p>
+            <p><a class="bg-transparent" href="{{ .Ref (dict "path" "/intern/datenschutz" "lang" "de") }}">{{ i18n "data_protection"}}</a></p> 
         </div>
     </div>
     <div class="w-full flex">
@@ -15,9 +15,9 @@
         <a href="{{ $social.href }}"
             target="_blank" 
             class="relative h-auto min-w-12 min-h-12 m-1 bg-contain bg-no-repeat text-xl hover:opacity-50 bg-transparent"
-                style="background-image: url(&quot;{{ (resources.Get $social.image).RelPermalink }}&quot;);">
+                style="background-image: url(&quot;{{ (resources.Get $social.image).Permalink }}&quot;);">
 
-            <img src="{{ (resources.Get "bundle/external_link_light.svg").RelPermalink }}" width="14pt" class="absolute bottom-0 right-0"></img>
+            <img src="{{ (resources.Get "bundle/external_link_light.svg").Permalink }}" width="14pt" class="absolute bottom-0 right-0"></img>
             <!--<img class="h-7 w-auto" src="/bundle/facebook-icon-light.svg" alt="Facebook">-->
         </a>
         {{ end }}

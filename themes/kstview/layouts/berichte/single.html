@@ -41,13 +41,13 @@
 <div class="flex w-full justify-between">
     <span>
         {{- with .PrevInSection }}
-        <a href="{{ .RelPermalink }}">&laquo; {{ .Title }}</a>
+        <a href="{{ .Permalink }}">&laquo; {{ .Title }}</a>
         {{- end }}
     </span>
 
     <span>
         {{- with .NextInSection }}
-        <span><a href="{{ .RelPermalink }}">{{ .Title }} &raquo;</a>
+        <span><a href="{{ .Permalink }}">{{ .Title }} &raquo;</a>
             {{ end }}
         </span>
     </span>

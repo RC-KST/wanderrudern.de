@@ -5,7 +5,7 @@
         {{ $paginator := (.Paginate (.CurrentSection.Pages.ByLinkTitle).Reverse .Site.Params.list.articles_per_site) -}}
         <div class="flex flex-row flex-wrap items-center justify-start">
             {{- range $paginator.Pages -}}
-            <a href="{{ .RelPermalink }}" class="m-1 p-3 h-20 flex flex-col items-center justify-center">
+            <a href="{{ .Permalink }}" class="m-1 p-3 h-20 flex flex-col items-center justify-center">
                 <div class="border-0 rounded-lg font-bold text-center">{{ .Title }}</div>
             </a>
             {{- end -}}

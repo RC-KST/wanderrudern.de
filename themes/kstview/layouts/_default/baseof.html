@@ -6,7 +6,7 @@
 
         {{- partial "head-meta.html" -}}
 
-        <script type="text/javascript" src="{{ (resources.Get "js/cookies.js").RelPermalink }}"></script>
+        <script type="text/javascript" src="{{ (resources.Get "js/cookies.js").Permalink }}"></script>
 
         {{- $styles := resources.Get "css/styles.css"
             | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
@@ -18,34 +18,34 @@
             <script src="https://cdn.tailwindcss.com"></script>
         {{ end }}-->
 
-        <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+        <link rel="stylesheet" href="{{ $styles.Permalink }}">
         <style>
             @font-face {
                 font-family: Noto Sans;
-                src: url({{ (resources.Get "/bundle/noto-sans/NotoSans-Regular.ttf").RelPermalink }}) format('truetype');
+                src: url({{ (resources.Get "/bundle/noto-sans/NotoSans-Regular.ttf").Permalink }}) format('truetype');
             }
 
             .external-link::after {
-                content: url({{ (resources.Get "/bundle/external_link_light.svg").RelPermalink}});
+                content: url({{ (resources.Get "/bundle/external_link_light.svg").Permalink}});
                 display: block;
             }
         </style>
 
         {{- $css_options := dict
             "vars" (dict 
-                "font_url" (resources.Get .Site.Params.font_url).RelPermalink
-                "backdrop_image" (resources.Get .Site.Params.backdrop_image).RelPermalink
+                "font_url" (resources.Get .Site.Params.font_url).Permalink
+                "backdrop_image" (resources.Get .Site.Params.backdrop_image).Permalink
             )
         -}}
         {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify -}}
-        <link rel="stylesheet" href={{ $style_main.RelPermalink }}>
+        <link rel="stylesheet" href={{ $style_main.Permalink }}>
         {{- $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify -}}
-        <link rel="stylesheet" href={{ $style_slideshow.RelPermalink }}>
+        <link rel="stylesheet" href={{ $style_slideshow.Permalink }}>
 
         <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | css.Sass | resources.Minify }}-->
 
         {{- with .OutputFormats.Get "rss" -}}
-            {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+            {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
         {{ end -}}
 
         <meta name="publisher" content="{{.Site.Params.meta.publisher}}">
@@ -70,7 +70,7 @@
         <div class="min-h-full w-full h-auto fixed top-0 left-0
                 bg-white -z-10 bg-center bg-cover bg-no-repeat
                 blur opacity-90"
-             style="background-image: url(&quot;{{ (resources.Get .Site.Params.backdrop_image).RelPermalink }}&quot;);"></div>
+             style="background-image: url(&quot;{{ (resources.Get .Site.Params.backdrop_image).Permalink }}&quot;);"></div>
         <main class="flex flex-col items-center flex-grow">
             <div class="flex flex-grow xs:w-25 w-full lg:w-[60rem] mt-20 mb-14"
                 id="content-container">
@@ -84,7 +84,7 @@
         </main>
         {{- partial "footer.html" . -}}
 
-        <script type="text/javascript" id="cookiebanner" src="{{ (resources.Get "js/cookiebanner.js").RelPermalink }}"
+        <script type="text/javascript" id="cookiebanner" src="{{ (resources.Get "js/cookiebanner.js").Permalink }}"
             data-height="20pt"
             data-message="{{- i18n "cookiebanner_msg" -}}"
             data-linkmsg="{{- i18n "cookiebanner_link" -}}"></script>

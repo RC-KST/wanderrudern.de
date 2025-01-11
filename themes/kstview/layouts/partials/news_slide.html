@@ -9,7 +9,7 @@
                 class="absolute left-0 top-0 opacity-0 w-full h-full
                     object-cover bg-cover bg-center slideshow_slides"
                 style="transition: opacity 1s ease-in-out;
-                    background-image: url(&quot;{{ (resources.Get $v.img).RelPermalink }}&quot;);"
+                    background-image: url(&quot;{{ (resources.Get $v.img).Permalink }}&quot;);"
                 {{ with $v.href }} data-href="{{ . }}" {{ end }}>
 
                 {{ with $v.text }}
