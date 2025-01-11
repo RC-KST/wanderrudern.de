@@ -1,9 +1,9 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
 date = "{{ .Date }}"
-draft = true
 begin = 
 end =
+draft = true
 author = ""
 tags = []
 waters = []
