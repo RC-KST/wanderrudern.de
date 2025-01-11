@@ -37,17 +37,15 @@
   }
 
   a, a:visited {
-    @apply no-underline;
+    @apply no-underline bg-black/5 rounded;
   }
 
   a:hover {
     @apply opacity-50;
   }
-
   br {
     @apply m-1;
   }
-
   ul {
     @apply list-outside list-disc
   }
