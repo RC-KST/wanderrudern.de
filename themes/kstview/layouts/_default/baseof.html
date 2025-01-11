@@ -4,43 +4,48 @@
         <!--<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>-->
         <!--<script src="https://unpkg.com/lunr/lunr.js"></script>-->
 
-        {{ partial "head-meta.html" }}
+        {{- partial "head-meta.html" -}}
 
-        <script type="text/javascript" src="{{ (resources.Get "js/cookies.js").Permalink }}"></script>
+        <script type="text/javascript" src="{{ (resources.Get "js/cookies.js").RelPermalink }}"></script>
 
         {{- $styles := resources.Get "css/styles.css"
             | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
-        {{- $styles := $styles | minify | fingerprint | css.PostCSS -}}
+        {{ $styles := $styles | minify | fingerprint | css.PostCSS -}}
 
-        {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+        {{ $styles = $styles | minify | fingerprint | resources.PostProcess -}}
         <!--{{ if hugo.IsProduction }}
         {{ else }}
             <script src="https://cdn.tailwindcss.com"></script>
         {{ end }}-->
 
-        <link rel="stylesheet" href="{{ $styles.Permalink }}">
+        <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
         <style>
-          @font-face {
-            font-family: Noto Sans;
-            src: url({{ (resources.Get "/bundle/noto-sans/NotoSans-Regular.ttf").Permalink }}) format('truetype');
-          }
+            @font-face {
+                font-family: Noto Sans;
+                src: url({{ (resources.Get "/bundle/noto-sans/NotoSans-Regular.ttf").RelPermalink }}) format('truetype');
+            }
+
+            .external-link::after {
+                content: url({{ (resources.Get "/bundle/external_link_light.svg").RelPermalink}});
+                display: block;
+            }
         </style>
 
-        {{$css_options := dict
+        {{- $css_options := dict
             "vars" (dict 
-                "font_url" (resources.Get .Site.Params.font_url).Permalink
-                "backdrop_image" (resources.Get .Site.Params.backdrop_image).Permalink
+                "font_url" (resources.Get .Site.Params.font_url).RelPermalink
+                "backdrop_image" (resources.Get .Site.Params.backdrop_image).RelPermalink
             )
-        }}
-        {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify }}
-        <link rel="stylesheet" href={{ $style_main.Permalink }}>
-        {{ $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify }}
-        <link rel="stylesheet" href={{ $style_slideshow.Permalink }}>
+        -}}
+        {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify -}}
+        <link rel="stylesheet" href={{ $style_main.RelPermalink }}>
+        {{- $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify -}}
+        <link rel="stylesheet" href={{ $style_slideshow.RelPermalink }}>
 
         <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | css.Sass | resources.Minify }}-->
 
-        {{ with .OutputFormats.Get "rss" -}}
-            {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+        {{- with .OutputFormats.Get "rss" -}}
+            {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
         {{ end -}}
 
         <meta name="publisher" content="{{.Site.Params.meta.publisher}}">
@@ -49,25 +54,23 @@
         <meta name="page-type" content="{{.Site.Params.meta.page_type}}">
         <meta name="revisit-after" content="{{.Site.Params.meta.revisit_after}}">
 
-        {{ with .Site.Params.meta.default_tags }}
+        {{- with .Site.Params.meta.default_tags -}}
         <meta name="keywords" content=" 
             {{- range $index, $ctag := . -}}
                 {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
             {{- end -}} ">
-        {{ end }}
+        {{- end -}}
 
-        {{ partial "analytics.html" . }}
-
-        {{ block "head" .}} {{ end }}
-
+        {{ partial "analytics.html" . -}}
+        {{- block "head" . }}{{ end -}}
     </head>
     
     <body class="h-full flex flex-col">
-        {{ partial "nav.html" . }}
+        {{- partial "nav.html" . -}}
         <div class="min-h-full w-full h-auto fixed top-0 left-0
                 bg-white -z-10 bg-center bg-cover bg-no-repeat
                 blur opacity-90"
-             style="background-image: url(&quot;{{ (resources.Get .Site.Params.backdrop_image).Permalink }}&quot;);"></div>
+             style="background-image: url(&quot;{{ (resources.Get .Site.Params.backdrop_image).RelPermalink }}&quot;);"></div>
         <main class="flex flex-col items-center flex-grow">
             <div class="flex flex-grow xs:w-25 w-full lg:w-[60rem] mt-20 mb-14"
                 id="content-container">
@@ -75,13 +78,13 @@
                     items-stretch m-0 p-14
                     rounded-lg bg-gray-100" id="content-scroll">
 
-                    {{ block "main" .}} {{ end }}
+                    {{- block "main" .}}{{ end -}}
                 </div>
             </div>
         </main>
-        {{ partial "footer.html" . }}
+        {{- partial "footer.html" . -}}
 
-        <script type="text/javascript" id="cookiebanner" src="{{ (resources.Get "js/cookiebanner.js").Permalink }}"
+        <script type="text/javascript" id="cookiebanner" src="{{ (resources.Get "js/cookiebanner.js").RelPermalink }}"
             data-height="20pt"
             data-message="{{- i18n "cookiebanner_msg" -}}"
             data-linkmsg="{{- i18n "cookiebanner_link" -}}"></script>

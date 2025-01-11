@@ -3,7 +3,7 @@
         {{- range $idx, $img := .Resources.ByType "image" }}
         {{- with $img.Fill "150x150" -}}
         <a class="m-1 cursor-pointer" onclick="openModal({{ $idx }})">
-            <img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $img.Name }}" title="{{ $img.Name }}" />
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $img.Name }}" title="{{ $img.Name }}" />
         </a>
         {{- end }}
         {{- end -}}
@@ -27,7 +27,7 @@
         </div>
     </div>
     <script type="text/javascript">
-    const image_links = [{{- range $idx, $img := .Resources.ByType "image" -}} { "src": "{{- $img.Permalink }}", "title": "{{ $img.Name }}"}, {{- end -}}];
+    const image_links = [{{- range $idx, $img := .Resources.ByType "image" -}} { "src": "{{- $img.RelPermalink }}", "title": "{{ $img.Name }}"}, {{- end -}}];
 
     let slide = -1;
     let xoffset = -1;

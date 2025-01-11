@@ -1,14 +1,14 @@
 {{ define "head" }}
-    {{ with .Params.description }}
+    {{ with .Params.description -}}
     <meta name="description" content="{{ . }}">
-    {{ end }}
+    {{- end -}}
 
-    {{ with .Params.tags }}
+    {{ with .Params.tags -}}
     <meta name="keywords" content=" 
         {{- range $index, $ctag := . -}}
             {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
         {{- end -}} ">
-    {{ end }}
+    {{ end -}}
 {{ end }}
 
 {{ define "main" }}

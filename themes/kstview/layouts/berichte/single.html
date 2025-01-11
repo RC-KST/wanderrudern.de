@@ -1,17 +1,17 @@
 {{ define "head" }}
-    {{ with .Params.description }}
+    {{ with .Params.description -}}
     <meta name="description" content="{{ . }}">
-    {{ end }}
+    {{- end -}}
 
-    {{ with .Params.tags }}
+    {{ with .Params.tags -}}
     <meta name="keywords" content=" 
         {{- range $index, $ctag := . -}}
             {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
         {{- end -}} ">
-    {{ end }}
+    {{ end -}}
 {{ end }}
 
-{{ define "main" }}
+{{ define "main" -}}
 <div class="flex flex-col">
     <h1>{{ .Title }}</h1>
     <hr/>
@@ -32,24 +32,24 @@
     </div>
 </div>
 <div class="flex-grow">
-    {{ .Content }}
+    {{- .Content -}}
 </div>
 <hr/>
 
-{{ partial "images.html" . }}
+{{- partial "images.html" . }}
 <hr/>
 <div class="flex w-full justify-between">
     <span>
-        {{ with .PrevInSection }}
-        <a href="{{ .Permalink }}">&laquo; {{ .Title }}</a>
-        {{ end }}
+        {{- with .PrevInSection }}
+        <a href="{{ .RelPermalink }}">&laquo; {{ .Title }}</a>
+        {{- end }}
     </span>
 
     <span>
-        {{ with .NextInSection }}
-        <span><a href="{{ .Permalink }}">{{ .Title }} &raquo;</a>
+        {{- with .NextInSection }}
+        <span><a href="{{ .RelPermalink }}">{{ .Title }} &raquo;</a>
             {{ end }}
         </span>
     </span>
 </div>
-{{ end }}
+{{- end }}

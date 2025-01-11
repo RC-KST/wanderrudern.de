@@ -1,10 +1,10 @@
 <nav class="fixed top-0 w-full overflow-hidden z-10 text-white">
     <ul class="h-12 bg-primary-light list-none rounded-md flex
         text-lg m-2 flex-nowrap justify-between items-stretch">
-        <a href="{{ ref . "/" }}" class="flex max-w-20">
+        <a href="{{ .RelRef (dict "path" "/") }}" class="flex max-w-20  bg-transparent">
             <img
-                class="order-[0] max-w-24 h-full rounded-md w-auto p-1 font-bold whitespace-nowrap "
-                src="{{- (resources.Get "bundle/kst_wikingerschiff_simplistic_light.svg").Permalink -}}">
+                class="order-[0] min-w-24 max-w-24 h-full rounded-md w-auto p-1 font-bold whitespace-nowrap"
+                src="{{- (resources.Get .Site.Params.icon_image).RelPermalink -}}">
             </img>
         </a>
         <div class=" order-1 flex relative w-auto overflow-x-scroll">
@@ -12,7 +12,7 @@
             {{ $page := $.Site.GetPage $nav }}
             <li class="order-1 w-full text-center items-center font-bold
                 flex-row flex-nowrap flex ml-0 mr-3 md:mr-8">
-                <a href="{{ $page.Permalink }}">{{$page.LinkTitle}}</a>
+                <a class="bg-transparent" href="{{ $page.RelPermalink }}">{{$page.LinkTitle}}</a>
             </li> <!--top-nav__link-->
             {{ end }}
             <!--
