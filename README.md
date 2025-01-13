@@ -15,15 +15,15 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [X] vertretende Persom (Stefan Biastock?)
     - [ ] Ladungsfähige Anschrift
     - [ ] Kontaktdaten (Telefon, Email)
-    - [ ] Register (Vereinsregister)
-    - [ ] Umsatzsteuer-Identifikations-Nummer (wahrscheinlich nicht?)
+    - [X] Register (Vereinsregister)
+    - [X] Umsatzsteuer-Identifikations-Nummer (wahrscheinlich nicht?)
 - [ ] Datenschutz-Hinweis (Mit Verlinkung auf Datenschutz-Bestimmungen) (Cookie-Banner)
-- [ ] Datenschutz-Bestimmungen
+- [X] Datenschutz-Bestimmungen
     - [X] Verlinkung im Footer
-    - [ ] Speicherung der IP-Adressen
-    - [ ] Cookie usage, Analyse/Tracking-Tools => Google Analytics
-    - [ ] Nutzung Social Media Buttons
-    - [ ] => Datenschutz-Generator?
+    - [X] Speicherung der IP-Adressen
+    - [X] Cookie usage, Analyse/Tracking-Tools => Google Analytics
+    - [X] Nutzung Social Media Buttons
+    - [X] => Datenschutz-Generator?
 - [ ] englische Seiten
     - [ ] Introduction (Home Page)
         - [ ] Anfahrt
@@ -33,7 +33,7 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [x] Pagination
     - [ ] Tags
     - [ ] Waters
-    - [ ] Bilder
+    - [X] Bilder
 - [ ] Neuigkeiten
     - [ ] News Layout
     - [ ] Sorting
@@ -49,22 +49,22 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [ ] Clubkleidung?
     - [ ] Vorstand
     - [ ] Wettbewerbe
-- [ ] Drop-Downs in Bar
-- [ ] Mobile Layout
-    - [ ] Hamburger-Menu
-    - [ ] Bild Main site
+- [ ] ~Drop-Downs in Bar~
+- [ ] ~Mobile Layout~
+    - [ ] ~Hamburger-Menu~
+    - [ ] ~Bild Main site~
 - [ ] Add tags inside header for better SEO
 - [ ] Sponsoren
 
 - [ ] Migration alte Seite
-    - [ ] Migration alte Berichte
+    - [X] Migration alte Berichte
     - [ ] alte Seite verlinken (Footer)
 
 # Minor TODOS/Fixes
-- [ ] News fixen (Bild alignment)
+- [X] News fixen (Bild alignment)
 
 ### Libs/Dependencies
 - [x] Tailwind (-> npm)
 - [ ] lnr.js (suche inklusive nachladen vom Suchindex)
-- [ ] Alpine-js fuer simples js
+- [ ] ~Alpine-js fuer simples js~
 - [ ] Leaflet fuer Anfahrt?
