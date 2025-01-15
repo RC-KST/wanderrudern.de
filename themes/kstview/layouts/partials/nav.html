@@ -3,7 +3,7 @@
         text-lg m-2 flex-nowrap justify-between items-stretch">
         <a href="{{ .Ref (dict "path" "/") }}" class="flex max-w-20  bg-transparent">
             <img
-                class="order-[0] min-w-24 max-w-24 h-full rounded-md w-auto p-1 font-bold whitespace-nowrap"
+                class="order-[0] h-full rounded-md w-auto p-1 font-bold whitespace-nowrap"
                 src="{{- (resources.Get .Site.Params.icon_image).Permalink -}}">
             </img>
         </a>
