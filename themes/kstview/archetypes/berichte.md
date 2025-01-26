@@ -1,11 +1,10 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-date = "{{ .Date }}"
+date = {{ .Date }}
 begin = 
 end =
 draft = true
 author = ""
-tags = []
 waters = []
 images = []
 +++
