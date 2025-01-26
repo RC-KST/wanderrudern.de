@@ -4,7 +4,7 @@ translationKey = "_index"
 
 [[news]]
 text = "Der Steg ist da!"
-href = "news/stegbau"
+href = "/"
 img = "bundle/backdrops/club-gelaende.jpg"
 [[news]]
 text = "Nirina jüngste Äquatorpreisträgerin aller Zeiten"
