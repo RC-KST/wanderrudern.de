@@ -7,7 +7,7 @@
                 src="{{- (resources.Get .Site.Params.icon_image).Permalink -}}">
             </img>
         </a>
-        <div class=" order-1 flex relative w-auto overflow-x-scroll">
+        <div class="order-1 flex relative w-auto overflow-x-scroll" style="scrollbar-width: none">
             {{ range $nav := .Site.Params.home.nav_items }}
             {{ $page := $.Site.GetPage $nav }}
             <li class="order-1 w-full text-center items-center font-bold
