@@ -6,7 +6,7 @@
 
   h1, h2, h3, h4, h5, h6 {
     @apply font-extrabold text-black;
-    @apply font-bold py-5;
+    @apply font-bold py-3;
   }
   h1 {
     @apply text-3xl;
@@ -37,7 +37,7 @@
   }
 
   a, a:visited {
-    @apply no-underline bg-black/5 rounded;
+    @apply no-underline bg-black/5 rounded px-2 text-center;
   }
 
   a:hover {

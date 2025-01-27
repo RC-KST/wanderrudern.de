@@ -14,7 +14,7 @@
 
     function setGoogleAnalytics() {
         let do_not_track = (cleanDoNotTrack(navigator.doNotTrack) || cleanDoNotTrack(window.doNotTrack) ||
-            cleanDoNotTrack(navigator.msDoNotTrack) || cleanDoNotTrack(getCookie("do_not_track")) || "no");
+            cleanDoNotTrack(navigator.msDoNotTrack) || cleanDoNotTrack(getCookieField("do_not_track")) || "no");
         do_not_track = do_not_track == "1" || do_not_track == "yes";
         console.log("dnt: ", do_not_track);
         //let do_not_track = dnt == "1" || dnt == "yes";
