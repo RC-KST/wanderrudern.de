@@ -12,9 +12,6 @@ timeout = "120"
 staticDir = ["static", ] # "site_archive"
 # -- build-specifics end --
 
-[taxonomies]
-waters = "waters"
-
 [params]
 backdrop_image = "bundle/backdrops/club-gelaende.jpg"
 icon_image = "bundle/kst_wikingerschiff_simplistic_light.svg"
@@ -32,26 +29,31 @@ author.email = "Seydel.fnvd@gmail.com"
 footer.socials = [
     { image = "bundle/facebook-icon-light.svg", href ="https://www.facebook.com/wanderrudern" },
 ]
+# key is the translation key
+footer.links = { imprint = "/club/impressum", data_protection = "/club/datenschutz" }
 
-[params.meta]
-publisher = "Ruderclub Kleinmachnow Stahnsdorf Teltow"
-copyright = "Stefan Biastock"
-page_topic = "Sport"
-page_type = "Vereinspage"
-revisit_after = "4 weeks"
-default_tags = [
+meta.publisher = "Ruderclub Kleinmachnow Stahnsdorf Teltow"
+meta.copyright = "Stefan Biastock"
+meta.page_topic = "Sport"
+meta.page_type = "Vereinspage"
+meta.revisit_after = "4 weeks"
+meta.default_tags = [
     "Wanderrudern","Rudern","wanderrudern","rudern","rowing","Ruderboot","Ruderer","Freizeit",
     "Sport","Fun","Berlin", "Kleinmachnow","Stahnsdorf","Teltow","Wassersport","Jugendliche",
     "Jugend","Fahrten","Reisen","reisen","Wanderfahrten","Abenteuer","adventure","Ruderclub",
     "Ruderverein","row","rower","Babelsberg","Potsdam","Zehlendorf"
 ]
 
+cookiebanner.more_here = "https://commission.europa.eu/cookies-policy"
+
+[taxonomies]
+gewaesser = "gewaesser"
+land = "land"
 
 [services.googleAnalytics]
 id = ""
 [privacy.GoogleAnalytics]
 disable = true
-
 
 [languages.de]
 languageName = "Deutsch"
