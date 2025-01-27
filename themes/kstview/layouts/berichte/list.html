@@ -4,12 +4,13 @@
 
         {{ .Content }}
 
+        <div>
         {{ $paginator := (.Paginate (.Pages.ByParam "date").Reverse .Site.Params.list.articles_per_site) -}}
         {{- range $paginator.Pages -}}
-        <a href="{{ .Permalink }}">
-            <div class="px-1 border-0 rounded-md bg-gray-200 my-4">
-                <div class="flex font-bold pb-2">{{ .Title }}</div>
-                <div>
+        <a href="{{ .Permalink }}" class="p-0">
+            <div class="px-1 flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4">
+                <div class="font-bold flex flex-row flex-nowrap pb-2">{{ .Title }}</div>
+                <div class="flex flex-row flex-nowrap">
                     {{ (time .Params.begin).Format "02.01.2006" }}
                     {{ with .Params.end }}
                         {{- i18n "until" }}
@@ -18,7 +19,8 @@
                 </div>
             </div>
         </a>
-    {{- end }}
+        {{- end }}
+        </div>
     </div>
     <hr>
     <div class="flex justify-center">
