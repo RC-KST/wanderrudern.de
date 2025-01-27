@@ -3,45 +3,64 @@
 <div class="flex flex-col justify-start">
     <h1>{{ .Title }}</h1>
 
-    {{- if .Params.news }}
+    {{- if .Params.news_slide }}
         {{- partial "news_slide.html" . }}
     {{- end }}
 
-    {{- with .Params.quickacces -}}
+    {{- with .Params.overview -}}
     <div class="flex flex-row">
         <div class="basis-1/2">
+            {{- with .left }}
             <ul>
-                <li><a href="#">Ist rudern das Richtige für mich?</a></li>
-                <li><a href="#">Was ist Wanderrudern?</a></li>
-                <li><a href="#">Wann und wo kann ich rudern?</a></li>
+                {{- range . }}
+                <li><a href="{{ $.Ref (dict "href" .href "lang" "de") }}">{{ i18n .translation_key }}</a></li>
+                {{- end }}
             </ul>
+            {{ end }}
         </div>
         <div class="basis-1/2">
-            <div id="quickaccess">
-                <ul>
-                    <li><a href="#">Die nächsten Monate</a></li>
-                    <li><a href="#">Berichte</a></li>
-                    <li><a href="#">Gäste</a></li>
-                    <li><a href="#">Ansprechpartner</a></li>
-                    <li><a href="#">Ruderrevier</a></li>
-                </ul>
-            </div>
+            {{- with .right }}
+            <ul>
+                {{- range . }}
+                <li><a href="{{ $.Ref (dict "href" .href "lang" "de") }}">{{ i18n .translation_key }}</a></li>
+                {{- end }}
+            </ul>
+            {{- end }}
         </div>
     </div>
     {{- end -}}
 
 
-    <h2>Aktuelles</h2>
+    <div class="flex flex-row">
+        <div class="basis-1/2">
+            <h3 class="w-full text-center">{{ i18n "home_news_und_berichte" }}</h3>
+            <ul>
+                {{- range first $.Site.Params.home.news_count (sort (append
+                    ($.GetPage "/neuigkeiten").RegularPages
+                    ($.GetPage "/berichte").RegularPages
+                )
+                "Date" "desc")
+                }}
+                <li class="list-none w-full flex py-1 px-3">
+                    <a class="w-full grow text-start" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+                {{- end }}
+            </ul>
+        </div>
+        <div class="basis-1/2">
+            <h3 class="w-full text-center">{{ i18n "home_ausschreibungen" }}</h3>
+            <ul>
+                {{- range first $.Site.Params.home.trip_announcement_count (sort ($.GetPage "/ausschreibungen").RegularPages "Date" "desc") }}
+                <li class="list-none w-full">
+                    <a class="w-full" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+                {{- end }}
+            </ul>
+        </div>
+    </div>
     
     {{ .Content }}
 
-    <ul>
-        <li class="text-justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
-        <li class="text-justify">This is some test and i hope you can do it</li>
-    </ul>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
-        <p class="text-justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
     <!--{{ .Content }}-->
 </div>
 

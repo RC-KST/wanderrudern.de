@@ -2,19 +2,31 @@
 title = "Ruderclub Kleinmachnow Stahnsdorf Teltow e.V."
 translationKey = "_index"
 
-[[news]]
+overview.left = [
+    { translation_key = "overview_rowing_is_the_right_thing", href = "/#1" },
+    { translation_key = "overview_what_is_long_rowing", href = "/#2"},
+    { translation_key = "overview_when_and_where_to_row", href = "/#2" },
+]
+overview.right = [
+    { translation_key = "overview_rowing_location", href = "/#1" },
+    { translation_key = "overview_guests", href = "/#2" },
+    { translation_key = "overview_contact_persons", href = "/#2" },
+]
+
+[[news_slide]]
 text = "Der Steg ist da!"
 href = "/"
 img = "bundle/backdrops/club-gelaende.jpg"
-[[news]]
+[[news_slide]]
 text = "Nirina jüngste Äquatorpreisträgerin aller Zeiten"
 img = "bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
-[[news]]
+[[news_slide]]
 text = "Tim, ein weiterer Äquatorpreis für die Chronik"
 img = "bundle/backdrops/club-gelaende.jpg"
-[[news]]
+[[news_slide]]
 text = "Johanna, die zweitjüngste Äquatorpreisträgerin"
 img = "bundle/backdrops/club-gelaende.jpg"
+
 +++
 
 
@@ -23,5 +35,4 @@ img = "bundle/backdrops/club-gelaende.jpg"
 ## Eine Unterschrift
 
 Und ein Text
-
 - Ein anderer Text

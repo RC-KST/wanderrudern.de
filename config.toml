@@ -21,7 +21,9 @@ list.articles_per_site = 50
 list.card_width = "50pt"
 
 # TODO: Use menu items
-home.nav_items = [ "/neuigkeiten", "/ausschreibungen", "/berichte", "/intern" ]
+home.nav_items = [ "/neuigkeiten", "/ausschreibungen", "/berichte", "/club" ]
+home.news_count = 10
+home.trip_announcement_count = 10
 
 author.name = "Paul Seydel"
 author.email = "Seydel.fnvd@gmail.com"
