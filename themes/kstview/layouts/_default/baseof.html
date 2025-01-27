@@ -4,9 +4,10 @@
         <!--<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>-->
         <!--<script src="https://unpkg.com/lunr/lunr.js"></script>-->
 
-        {{- partial "head-meta.html" -}}
+        {{- partial "head-meta.html" . -}}
 
-        <script type="text/javascript" src="{{ (resources.Get "js/cookies.js").Permalink }}"></script>
+        <script type="text/javascript" src="{{ (resources.Get "/js/cookies.js").Permalink }}"></script>
+        <link rel="icon" type="image/x-icon" href="{{- (resources.Get .Site.Params.icon_image).Permalink -}}"/>
 
         {{- $styles := resources.Get "css/styles.css"
             | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
@@ -19,7 +20,7 @@
             <script src="https://cdn.tailwindcss.com"></script>
         {{ end }}-->
 
-        <link rel="stylesheet" href="{{ $styles.Permalink }}">
+        <link rel="stylesheet" href="{{ $styles.Permalink }}" />
         <style>
             @font-face {
                 font-family: Noto Sans;
