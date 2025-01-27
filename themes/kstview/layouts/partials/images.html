@@ -1,8 +1,8 @@
 <div class="w-full flex flex-col justify-center">
-    <div class="flex flex-row flex-wrap flex-shrink">
+    <div class="flex flex-row flex-wrap flex-shrink justify-center">
         {{- range $idx, $img := .Resources.ByType "image" }}
         {{- with $img.Fill "150x150" -}}
-        <a class="m-1 cursor-pointer" onclick="event.stopPropagation(true); openModal({{ $idx }})">
+        <a class="m-1 cursor-pointer px-0" onclick="event.stopPropagation(true); openModal({{ $idx }})">
             <img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $img.Name }}" title="{{ $img.Name }}" />
         </a>
         {{- end }}
@@ -10,15 +10,15 @@
     </div>
     <div id="image_modal" class="hidden z-[1] fixed w-full h-screen left-0 top-0 bg-black/70" onclick="event.stopPropagation(true); closeModal()">
         <div class="flex flex-nowrap h-full w-full">
-            <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-10 mt-20 mb-5 text-2xl text-white">
+            <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-10 mt-20 text-2xl text-white">
                 <div class="flex flex-row flex-nowrap flex-grow items-center">
                     <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90" onclick="event.stopPropagation(true); incModal(-1)">&#10094;</a>
                     <div id="image_modal_image" class="bg-contain bg-center bg-no-repeat h-full flex-grow"></div>
                     <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90" onclick="event.stopPropagation(true); incModal(1)">&#10095;</a>
                 </div>
-                <div class="flex flex-row flex-nowrap justify-center mt-5 items-center">
+                <div class="flex flex-row flex-nowrap justify-center mt-1 items-center">
                     <span id="image_modal_text" class="flex justify-center flex-grow-0"></span>
-                    <a class="flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-5" onclick="event.stopPropagation(true); closeModal()"> &#10006; </a>
+                    <a class="flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-4" onclick="event.stopPropagation(true); closeModal()"> &#10006; </a>
                 </div>
                 <!--<img class="w-full overflow-hidden max-h-screen object-contain"  src="" alt="" title=""/>-->
             </div>
