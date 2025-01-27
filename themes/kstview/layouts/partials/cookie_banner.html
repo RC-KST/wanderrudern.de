@@ -1,2 +1,67 @@
-<div>
+<div id="cookie-banner" style="display: none;"
+    class="pb-10 z-20 fixed w-full h-full flex-col justify-end items-center bg-black/50">
+    <div class="px-10 py-5 w-2/3 bg-gray-200 rounded-lg flex flex-col flex-nowrap items-center text-center text-wrap">
+        <div class="flex flex-col flex-nowrap items-start text-start text-wrap">
+            <p class="mb-3">
+                {{- i18n "cookiebanner_msg" -}}
+            </p>
+            <div class="w-full flex flex-row flex-nowrap justify-between">
+                <a target="_blank" href="{{ .Site.Params.cookiebanner.more_here }}" class="py-1 px-4">
+                    {{- i18n "cookiebanner_more_here" -}}
+                </a>
+                <button class="cursor-pointer rounded bg-blue-300 py-1 px-4 hover:opacity-70"
+                    onclick="setCookieState('accepted', true); cookiesUpdate();">
+                    {{- i18n "cookiebanner_accept_essential_cookies" -}}
+                </button>
+            </div>
+        </div>
+    </div>
 </div>
+<script defer type="text/javascript">
+
+    let COOKIE_STATE_KEY = "cookie_management";
+    let COOKIE_BANNER_ID = "cookie-banner";
+    let COOKIE_CONTENT_CONTAINER = "content-container";
+
+    /**
+     * @param {String} name
+     * @param {Boolean} accepted
+     */
+    function setCookieState(name, decision) {
+        var cookie_management = getCookieField(COOKIE_STATE_KEY);
+        cookie_management[name] = decision;
+        setCookieField(COOKIE_STATE_KEY, cookie_management);
+    }
+
+    function getCookieState() {
+        return getCookieField(COOKIE_STATE_KEY);
+    }
+
+    function cookiesUpdate() {
+        let cookie_state = getCookieState();
+        console.log("Update:", cookie_state);
+        let banner = document.getElementById(COOKIE_BANNER_ID);
+        let content_container = document.getElementById(COOKIE_CONTENT_CONTAINER);
+        if (cookie_state["accepted"]) {
+            banner.style.display = "none";
+            delete content_container.style.user_select;
+            delete content_container.style.pointer_events;
+        } else {
+            banner.style.display = "flex";
+            content_container.style.user_select = "none";
+            content_container.style.pointer_events = "none";
+        }
+    }
+
+    {
+        // Setup cookie management for the cookie banner if not exists already.
+        var management_cookie = getCookieField(COOKIE_STATE_KEY);
+        console.log(`Management cookie: ${JSON.stringify(management_cookie)}`);
+        if (management_cookie === null) {
+            setCookieField("cookie_management", {
+                "accepted": false,
+            });
+        }
+        cookiesUpdate();
+    }
+</script>
