@@ -42,7 +42,7 @@
                 "Date" "desc")
                 }}
                 <li class="list-none w-full flex py-1 px-3">
-                    <a class="w-full grow text-start" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    <a class="w-full grow text-start" href="{{ .Permalink }}">{{ .Title }}</a>
                 </li>
                 {{- end }}
             </ul>
@@ -52,7 +52,7 @@
             <ul>
                 {{- range first $.Site.Params.home.trip_announcement_count (sort ($.GetPage "/ausschreibungen").RegularPages "Date" "desc") }}
                 <li class="list-none w-full">
-                    <a class="w-full" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    <a class="w-full" href="{{ .Permalink }}">{{ .Title }}</a>
                 </li>
                 {{- end }}
             </ul>
