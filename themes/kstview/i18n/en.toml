@@ -11,6 +11,8 @@ home_news_und_berichte = "News and trip reports"
 until = "until"
 trip_report_written_by = "written by"
 trip_record_last_modified = "last modified"
+bericht_laender = "Countries"
+bericht_gewaesser = "Waters"
 
 imprint = "Imprint"
 data_protection = "Data protection"

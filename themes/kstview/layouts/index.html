@@ -8,7 +8,7 @@
     {{- end }}
 
     {{- with .Params.overview -}}
-    <div class="flex flex-row">
+    <div class="flex flex-row mb-10">
         <div class="basis-1/2">
             {{- with .left }}
             <ul>
@@ -41,8 +41,11 @@
                 )
                 "Date" "desc")
                 }}
-                <li class="list-none w-full flex py-1 px-3">
-                    <a class="w-full grow text-start" href="{{ .Permalink }}">{{ .Title }}</a>
+                <li class="list-none ml-0 w-full flex py-1 px-3">
+                    <a class="w-full grow flex text-start flex-row" href="{{ .Permalink }}">
+                        <div class="flex-grow">{{- .Title }}</div>
+                        <div>{{ with .Date }}{{ .Format "02.01.2006" }}{{ end }}</div>
+                    </a>
                 </li>
                 {{- end }}
             </ul>
@@ -51,8 +54,11 @@
             <h3 class="w-full text-center">{{ i18n "home_ausschreibungen" }}</h3>
             <ul>
                 {{- range first $.Site.Params.home.trip_announcement_count (sort ($.GetPage "/ausschreibungen").RegularPages "Date" "desc") }}
-                <li class="list-none w-full">
-                    <a class="w-full" href="{{ .Permalink }}">{{ .Title }}</a>
+                <li class="list-none ml-0 w-full flex py-1 px-3">
+                    <a class="w-full grow flex text-start flex-row" href="{{ .Permalink }}">
+                        <div class="flex-grow">{{- .Title }}</div>
+                        {{ with .Date }}<div>{{ .Format "02.01.2006" }}</div>{{ end }}
+                    </a>
                 </li>
                 {{- end }}
             </ul>

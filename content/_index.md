@@ -13,20 +13,12 @@ overview.right = [
     { translation_key = "overview_contact_persons", href = "/#2" },
 ]
 
-[[news_slide]]
-text = "Der Steg ist da!"
-href = "/"
-img = "bundle/backdrops/club-gelaende.jpg"
-[[news_slide]]
-text = "Nirina jüngste Äquatorpreisträgerin aller Zeiten"
-img = "bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
-[[news_slide]]
-text = "Tim, ein weiterer Äquatorpreis für die Chronik"
-img = "bundle/backdrops/club-gelaende.jpg"
-[[news_slide]]
-text = "Johanna, die zweitjüngste Äquatorpreisträgerin"
-img = "bundle/backdrops/club-gelaende.jpg"
-
+news_slide = [
+    { text = "Der Steg ist da!", href = "neuigkeiten/2023/neuer_steg.md", img = "bundle/backdrops/club-gelaende.jpg" },
+    { text = "Nirina jüngste Äquatorpreisträgerin aller Zeiten", img = "bundle/backdrops/griebnitzsee-anfang-skiff.jpg" },
+    { text = "Tim, ein weiterer Äquatorpreis für die Chronik", img = "bundle/backdrops/club-gelaende.jpg" },
+    { text = "Johanna, die zweitjüngste Äquatorpreisträgerin", img = "bundle/backdrops/club-gelaende.jpg" },
+]
 +++
 
 

@@ -10,8 +10,7 @@
                 class="absolute left-0 top-0 opacity-0 w-full h-full
                     object-cover bg-cover bg-center slideshow_slides"
                 style="transition: opacity 1s ease-in-out;
-                    background-image: url(&quot;{{ (resources.Get $v.img).Permalink }}&quot;);"
-                {{ with $v.href }} data-href="{{ . }}" {{ end }}>
+                    background-image: url(&quot;{{ (resources.Get $v.img).Permalink }}&quot;);">
 
                 {{ with $v.text }}
                 <div class="text-center text-white text-lg px-9 py-2
@@ -45,11 +44,7 @@
 
         const slides_links = [
             {{- range $v := .Params.news_slide }}
-            {{- if $v.href -}}
-                "{{- $page.Ref (dict "path" $v.href) }}"
-            {{- else -}}
-                "#"
-            {{- end }},
+                {{- if $v.href }}"{{- $.Page.Ref (dict "path" $v.href "lang" "de") }}"{{ else }}"#"{{ end }},
             {{- end -}}
         ];
 
