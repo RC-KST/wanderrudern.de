@@ -1,5 +1,3 @@
 +++
 title = "Anfänger"
 +++
-
-Lorem Ipsum
