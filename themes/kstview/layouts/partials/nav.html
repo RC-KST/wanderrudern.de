@@ -1,7 +1,7 @@
 <nav class="fixed top-0 w-full overflow-hidden z-10 text-white">
     <ul class="h-12 bg-primary-light list-none rounded-md flex
         text-lg m-2 flex-nowrap justify-between items-stretch">
-        <a href="{{ .Ref (dict "path" "/") }}" class="flex bg-transparent">
+        <a href="{{ (.GetPage "/").Permalink }}" class="flex bg-transparent">
             <img
                 class="order-[0] h-full max-w-20 rounded-md p-1 font-bold whitespace-nowrap"
                 src="{{- (resources.Get .Site.Params.icon_image).Permalink -}}">

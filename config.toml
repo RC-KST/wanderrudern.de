@@ -47,10 +47,12 @@ meta.default_tags = [
 ]
 
 cookiebanner.more_here = "https://commission.europa.eu/cookies-policy"
+cookiebanner.data_protection = "/club/datenshutz"
 
 [taxonomies]
-gewaesser = "gewaesser"
-land = "land"
+"gewässer" = "gewässer"
+"land" = "länder"
+#"tag" = "tags"
 
 [services.googleAnalytics]
 id = ""
@@ -68,6 +70,7 @@ weight = 10
 [permalinks.page]
 berichte = '/berichte/:year/:month/:slug'
 neuigkeiten = '/neuigkeiten/:year/:month/:slug'
+ausschreibungen = '/ausschreibungen/:year/:month/:slug'
 
 [renderer]
 unsafe = false

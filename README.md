@@ -29,10 +29,10 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
         - [ ] Anfahrt
         - [ ] Rowing schedule (en)
         - [ ] Membership fees (en)
-- [ ] Berichte
+- [x] Berichte
     - [x] Pagination
-    - [ ] Tags
-    - [ ] Waters
+    - [x] Tags
+    - [x] Waters
     - [X] Bilder
 - [ ] Neuigkeiten
     - [ ] News Layout

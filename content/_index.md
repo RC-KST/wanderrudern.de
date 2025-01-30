@@ -21,7 +21,6 @@ news_slide = [
 ]
 +++
 
-
 # Eine Überschrift
 
 ## Eine Unterschrift

@@ -36,9 +36,10 @@
     @apply leading-6
   }
 
-  a, a:visited {
-    @apply no-underline bg-black/5 rounded px-2 text-center;
+  a {
+    @apply no-underline bg-black bg-opacity-5 rounded px-2 text-center;
   }
+  a:visited{}
 
   a:hover {
     @apply opacity-50;
