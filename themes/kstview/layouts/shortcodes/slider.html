@@ -1,0 +1,99 @@
+<!--
+    Arguments:
+    - id: slide id, allows for multiple slides per page
+    - entries: slideshow entries
+-->
+<div>
+    {{- $slideshow_id := .Get "id" }}
+    {{- $sid := $slideshow_id | safeJS }}
+    {{- $page := $.Page }}
+    <div class="cursor-pointer w-full h-40 sm:h-64 overflow-hidden
+        relative m-auto hover:opacity-90 flex"
+        style="transition: opacity .3s ease-in-out;"
+        id="slideshow_{{ $slideshow_id }}">
+        <div class="flex-grow block" onclick="slideshow_onclick_{{ $sid }}()">
+            {{ .Inner }}
+        </div>
+        <a class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
+                text-white font-bold rounded-r-md select-none
+                hover:bg-black hover:bg-opacity-90"
+            style="transition: 0.6s ease;"
+            onclick="slides_next_{{$sid}}(-1)">&#10094;</a>
+        <a class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
+                text-white font-bold rounded-l-md select-none right-0
+                hover:bg-black hover:bg-opacity-90"
+            style="transition: 0.6s ease;"
+            onclick="slides_next_{{$sid}}(1)">&#10095;</a>
+    </div>
+    <div class="flex flex-row justify-center py-2 text-center" id="dot_{{ $slideshow_id }}">
+    </div>
+
+    <script>
+        const TIMEOUT_MS_{{$sid}} = 6 * 1000;
+
+        // TODO: Should work without any changes?
+        var slides_tag_{{$sid}} = document.getElementsByTagName('script');
+        slides_tag_{{$sid}} = slides_tag_{{$sid}}[slides_tag_{{$sid}}.length-1].parentNode;
+
+        let slide_idx_{{$sid}} = 0;
+        let timeout_id_{{$sid}} = undefined;
+
+        function slides_next_{{$sid}}(n) {
+            set_slide_{{$sid}}(slide_idx_{{$sid}}+n)
+        }
+
+        function set_slide_{{$sid}}(n) {
+            slide_idx_{{$sid}} = n;
+            clearTimeout(timeout_id_{{$sid}});
+            timeout_id_{{$sid}} = setTimeout(show_slides_{{$sid}}, TIMEOUT_MS_{{$sid}})
+            show_slide_{{$sid}}(slide_idx_{{$sid}});
+        }
+
+        function show_slide_{{$sid}}(n) {
+            let slides = slides_tag_{{$sid}}.getElementsByClassName("slideshow_slides_{{$sid}}");
+            let dots = slides_tag_{{$sid}}.getElementsByClassName("slideshow_dot_{{$sid}}");
+
+            if (n >= slides.length) slide_idx_{{$sid}} = 0;
+            if (n < 0) slide_idx_{{$sid}} = slides.length-1;
+
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].className = slides[i].className.replace("opacity-100", "opacity-0");
+            }
+            slides[slide_idx_{{$sid}}].className =
+                slides[slide_idx_{{$sid}}].className.replace("opacity-0", "opacity-100");
+
+            for (let i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace("opacity-80", "opacity-40");
+            }
+            dots[slide_idx_{{$sid}}].className =
+                dots[slide_idx_{{$sid}}].className.replace("opacity-40", "opacity-80");
+        }
+
+        function show_slides_{{$sid}}() {
+            slide_idx_{{$sid}}++;
+            show_slide_{{$sid}}(slide_idx_{{$sid}});
+            timeout_id_{{$sid}} = setTimeout(show_slides_{{$sid}}, TIMEOUT_MS_{{$sid}});
+        }
+
+        function slideshow_onclick_{{$sid}}() {
+            let slides = slides_tag_{{$sid}}.getElementsByClassName("slideshow_slides_{{$sid}}");
+            console.log("Got slides for onclick: ", slides);
+            let href = slides[slide_idx_{{$sid}}].getAttribute("data-href");
+            console.log("next href: ", href)
+            window.open(href, "_self");
+        }
+
+        function setup_slide_dots_{{$sid}}() {
+            let slides = slides_tag_{{$sid}}.getElementsByClassName("slideshow_slides_{{$sid}}");
+            let nodes_parent = document.getElementById("dot_{{$sid}}")
+            for (let i = 0; i < slides.length; i++) {
+                const new_node = document.createElement("span");
+                new_node.className = "cursor-pointer h-4 w-4 m-1 bg-gray-700 opacity-80 hover:opacity-100 rounded-[50%] transition-opacity slideshow_dot_{{ $sid }}";
+                new_node.onclick = function() { set_slide_{{$sid}}(i) };
+                nodes_parent.appendChild(new_node);
+            }
+        }
+        setup_slide_dots_{{$sid}}();
+        show_slides_{{$sid}}();
+    </script>
+</div>

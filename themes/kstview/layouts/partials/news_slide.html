@@ -5,7 +5,7 @@
         style="transition: opacity .3s ease-in-out;"
         id="slideshow">
         <div class="flex-grow block" onclick="slideshow_onclick()">
-            {{ range $v := .Params.news_slide }}
+            {{ range $v := .news_slide }}
             <div
                 class="absolute left-0 top-0 opacity-0 w-full h-full
                     object-cover bg-cover bg-center slideshow_slides"
@@ -32,7 +32,7 @@
             onclick="slides_next(1)">&#10095;</a>
     </div>
     <div class="flex flex-row justify-center py-2 text-center">
-        {{ range $i, $c := .Params.news_slide }}
+        {{ range $i, $c := .news_slide }}
         <span class="cursor-pointer h-4 w-4 m-1 bg-gray-700 opacity-80 hover:opacity-100
             rounded-[50%] transition-opacity slideshow_dot"
             onclick="set_slide({{ $i }})"></span>
@@ -43,7 +43,7 @@
         const TIMEOUT_MS = 6 * 1000;
 
         const slides_links = [
-            {{- range $v := .Params.news_slide }}
+            {{- range $v := .news_slide }}
                 {{- if $v.href }}"{{- $.Page.Ref (dict "path" $v.href "lang" "de") }}"{{ else }}"#"{{ end }},
             {{- end -}}
         ];

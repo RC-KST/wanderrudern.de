@@ -1,3 +1,5 @@
+_merge = "deep"
+
 title = "Ruderclub Kleinmachnow Stahnsdorf Teltow e.V."
 baseURL = "https://wanderrudern.de"
 
@@ -26,7 +28,7 @@ home.news_count = 10
 home.trip_announcement_count = 10
 
 author.name = "Paul Seydel"
-author.email = "Seydel.fnvd@gmail.com"
+author.email = "website@rckst.de"
 
 footer.socials = [
     { image = "bundle/facebook-icon-light.svg", href ="https://www.facebook.com/wanderrudern" },
@@ -52,12 +54,7 @@ cookiebanner.data_protection = "/club/datenshutz"
 [taxonomies]
 "gewässer" = "gewässer"
 "land" = "länder"
-#"tag" = "tags"
-
-[services.googleAnalytics]
-id = ""
-[privacy.GoogleAnalytics]
-disable = true
+"jahr" = "jahre"
 
 [languages.de]
 languageName = "Deutsch"
@@ -66,11 +63,3 @@ weight = 20
 [languages.en]
 languageName = "English"
 weight = 10
-
-[permalinks.page]
-berichte = '/berichte/:year/:month/:slug'
-neuigkeiten = '/neuigkeiten/:year/:month/:slug'
-ausschreibungen = '/ausschreibungen/:year/:month/:slug'
-
-[renderer]
-unsafe = false

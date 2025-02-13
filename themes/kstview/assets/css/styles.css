@@ -33,7 +33,7 @@
   }
 
   p {
-    @apply leading-6
+    @apply leading-6 my-1
   }
 
   a {

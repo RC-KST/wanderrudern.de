@@ -1,0 +1,17 @@
+{{- $href := .Get "href"}}
+{{- $text := .Get "text" }}
+{{- $img := .Get "img" }}
+{{- $slideshow_id := .Parent.Get "id" }}
+<div
+    class="absolute left-0 top-0 opacity-0 w-full h-full
+        object-cover bg-cover bg-center slideshow_slides_{{ $slideshow_id }}"
+    style="transition: opacity 1s ease-in-out;
+        background-image: url(&quot;{{ (resources.Get $img).Permalink }}&quot;);"
+    data-href="{{- if $href }}{{- $.Page.Ref (dict "path" $href "lang" "de") }}{{ else }}#{{ end }}"
+>
+    {{ with $text }}
+    <div class="text-center text-white text-lg px-9 py-2
+        absolute bottom-4 w-full bg-opacity-50 bg-black"
+    >{{ . }}</div>
+    {{ end }}
+</div>
