@@ -2,7 +2,7 @@ languageCode = "de"
 defaultContentLanguage = "de"
 
 # -- build-specifics start --
-#relativeUrls = true
+relativeUrls = true
 timeout = "120"
 # -- build-specifics end --
 
@@ -21,5 +21,6 @@ disable = true
 
 #[markup.goldmark.parser]
 #wrapStandAloneImageWithinParagraph = false
+
 [security]
 enableInlineShortcodes = true
