@@ -5,9 +5,6 @@ title = "Marathonrudern"
 title = "Eurega Bootsaustattung"
 src = "images/eurega_bootsaustattung.jpg"
 [[images]]
-title = "Eurega, wenn alles geschafft ist!"
-src = "images/eurega_wenn_alles_geschafft_ist.jpg"
-[[images]]
 title = "Genf 2023 alle Boote"
 src = "images/genf_2023_alle_boote.jpg"
 [[images]]
@@ -89,6 +86,8 @@ Wir KSTler (Nirina, Johanna, Paul, Tim) stehen gerne für Fragen bereit und freu
 Fragen und Anregungen bitte an Nirina: ([{{< vorstand-email "Ruderwart Marathon">}}](mailto:{{< vorstand-email "Ruderwart Marathon">}})).
 
 Gerne organisieren wir auch vereinsübergreifenden Bootstransporte zu Marathonregatten.
+
+![Wenn alles geschafft ist](images/eurega_wenn_alles_geschafft_ist.jpg)
 
 {{< separator >}}
 
