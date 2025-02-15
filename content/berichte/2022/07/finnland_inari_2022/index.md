@@ -1,270 +1,270 @@
 +++
-title = "Inari Finnland 2022"
+title = "Finnland Inari 2022"
 date = 2022-07-07T01:00:00+02:00
 begin = "2022-07-01"
-[[resources]]
-name = "warten auf die Fähre in Rostock 2022"
+[[images]]
+title = "warten auf die Fähre in Rostock 2022"
 src = "images/warten_auf_die_Fahre_in_Rostock_2022.jpg"
-[[resources]]
-name = "Parkplatz für die Ruderboote auf der Stena Fähre 2022"
+[[images]]
+title = "Parkplatz für die Ruderboote auf der Stena Fähre 2022"
 src = "images/Parkplatz_fur_die_Ruderboote_auf_der_Stena_Fahre_2022.jpg"
-[[resources]]
-name = "Abendessen mit Aussicht auf die Stockholmer Schären 2022"
+[[images]]
+title = "Abendessen mit Aussicht auf die Stockholmer Schären 2022"
 src = "images/Abendessen_mit_Aussicht_auf_die_Stockholmer_Scharen_2022.jpg"
-[[resources]]
-name = "Jugend beim Abendessen auf der Silja Fähre 2022"
+[[images]]
+title = "Jugend beim Abendessen auf der Silja Fähre 2022"
 src = "images/Jugend_beim_Abendessen_auf_der_Silja_Fahre_2022.jpg"
-[[resources]]
-name = "Isabel beim Karaoke Silja Fähre 2022"
+[[images]]
+title = "Isabel beim Karaoke Silja Fähre 2022"
 src = "images/Isabel_beim_Karaoke_Silja_Fahre_2022.jpg"
-[[resources]]
-name = "Inrigger auf Anhänger Inari 2022"
+[[images]]
+title = "Inrigger auf Anhänger Inari 2022"
 src = "images/Inrigger_auf_Anhanger_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboot abladen am Ivalojoki in Ivalo 2022"
+[[images]]
+title = "Ruderboot abladen am Ivalojoki in Ivalo 2022"
 src = "images/Ruderboot_abladen_am_Ivalojoki_in_Ivalo_2022.jpg"
-[[resources]]
-name = "Inrigger am Ufer des Ivalojoki 2022"
+[[images]]
+title = "Inrigger am Ufer des Ivalojoki 2022"
 src = "images/Inrigger_am_Ufer_des_Ivalojoki_2022.jpg"
-[[resources]]
-name = "Ankunft des Bootstransports in Ivalo 2022"
+[[images]]
+title = "Ankunft des Bootstransports in Ivalo 2022"
 src = "images/Ankunft_des_Bootstransports_in_Ivalo_2022.jpg"
-[[resources]]
-name = "Melina mit Mückennetz auf dem Ivalojoki 2022"
+[[images]]
+title = "Melina mit Mückennetz auf dem Ivalojoki 2022"
 src = "images/Melina_mit_Muckennetz_auf_dem_Ivalojoki_2022.jpg"
-[[resources]]
-name = "Ruderboote auf dem Inari See 2022"
+[[images]]
+title = "Ruderboote auf dem Inari See 2022"
 src = "images/Ruderboote_auf_dem_Inari_See_2022.jpg"
-[[resources]]
-name = "Inrigger auf dem Inari 2022"
+[[images]]
+title = "Inrigger auf dem Inari 2022"
 src = "images/Inrigger_auf_dem_Inari_2022.jpg"
-[[resources]]
-name = "Steuerfrau Melina auf dem Ivalojoki 2022"
+[[images]]
+title = "Steuerfrau Melina auf dem Ivalojoki 2022"
 src = "images/Steuerfrau_Melina_auf_dem_Ivalojoki_2022.jpg"
-[[resources]]
-name = "Ruderboote vor Felsen Inari 2022"
+[[images]]
+title = "Ruderboote vor Felsen Inari 2022"
 src = "images/Ruderboote_vor_Felsen_Inari_2022.jpg"
-[[resources]]
-name = "Anlegen an den Klippen Ukkonjärvi 2022"
+[[images]]
+title = "Anlegen an den Klippen Ukkonjärvi 2022"
 src = "images/Anlegen_an_den_Klippen_Ukkonjarvi_2022.jpg"
-[[resources]]
-name = "Enge Durchfahrt zum Ukkonjärvi 2022"
+[[images]]
+title = "Enge Durchfahrt zum Ukkonjärvi 2022"
 src = "images/Enge_Durchfahrt_zum_Ukkonjarvi_2022.jpg"
-[[resources]]
-name = "Abstieg in die Eishöhle Inari 2022"
+[[images]]
+title = "Abstieg in die Eishöhle Inari 2022"
 src = "images/Abstieg_in_die_Eishohle_Inari_2022.jpg"
-[[resources]]
-name = "Girlies im Fels Inari 2022"
+[[images]]
+title = "Girlies im Fels Inari 2022"
 src = "images/Girlies_im_Fels_Inari_2022.jpg"
-[[resources]]
-name = "Marika im Fels Inari 2022"
+[[images]]
+title = "Marika im Fels Inari 2022"
 src = "images/Marika_im_Fels_Inari_2022.jpg"
-[[resources]]
-name = "Einstieg in die Eishölle Inari 2022"
+[[images]]
+title = "Einstieg in die Eishölle Inari 2022"
 src = "images/Einstieg_in_die_Eisholle_Inari_2022.jpg"
-[[resources]]
-name = "Eishöhle auf Insel im Inari 2022"
+[[images]]
+title = "Eishöhle auf Insel im Inari 2022"
 src = "images/Eishohle_auf_Insel_im_Inari_2022.jpg"
-[[resources]]
-name = "Ruderer auf einsamer Insel im Inari 2022"
+[[images]]
+title = "Ruderer auf einsamer Insel im Inari 2022"
 src = "images/Ruderer_auf_einsamer_Insel_im_Inari_2022.jpg"
-[[resources]]
-name = "Vier Inrigger Ruderboote am Steg Inari 2022"
+[[images]]
+title = "Vier Inrigger Ruderboote am Steg Inari 2022"
 src = "images/Vier_Inrigger_Ruderboote_am_Steg_Inari_2022.jpg"
-[[resources]]
-name = "Abendessen am Biwakplatz Inari 2022"
+[[images]]
+title = "Abendessen am Biwakplatz Inari 2022"
 src = "images/Abendessen_am_Biwakplatz_Inari_2022.jpg"
-[[resources]]
-name = "Johanna David mit Jagdtrophäe Inari 2022"
+[[images]]
+title = "Johanna David mit Jagdtrophäe Inari 2022"
 src = "images/Johanna_David_mit_Jagdtrophae_Inari_2022.jpg"
-[[resources]]
-name = "David im Fels Inari 2022"
+[[images]]
+title = "David im Fels Inari 2022"
 src = "images/David_im_Fels_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboote an Ukko Inari 2022"
+[[images]]
+title = "Ruderboote an Ukko Inari 2022"
 src = "images/Ruderboote_an_Ukko_Inari_2022.jpg"
-[[resources]]
-name = "Girlie Inrigger Inari 2022"
+[[images]]
+title = "Girlie Inrigger Inari 2022"
 src = "images/Girlie_Inrigger_Inari_2022.jpg"
-[[resources]]
-name = "Ruderer auf Ukko Inari 2022"
+[[images]]
+title = "Ruderer auf Ukko Inari 2022"
 src = "images/Ruderer_auf_Ukko_Inari_2022.jpg"
-[[resources]]
-name = "Maria im Inrigger Inari 2022"
+[[images]]
+title = "Maria im Inrigger Inari 2022"
 src = "images/Maria_im_Inrigger_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboot auf dem Weg nach Inari 2022"
+[[images]]
+title = "Ruderboot auf dem Weg nach Inari 2022"
 src = "images/Ruderboot_auf_dem_Weg_nach_Inari_2022.jpg"
-[[resources]]
-name = "Inari Campingplatz Hütte mit Ruderern 2022"
+[[images]]
+title = "Inari Campingplatz Hütte mit Ruderern 2022"
 src = "images/Inari_Campingplatz_Hutte_mit_Ruderern_2022.jpg"
-[[resources]]
-name = "Inrigger Inari am Ufer 2022"
+[[images]]
+title = "Inrigger Inari am Ufer 2022"
 src = "images/Inrigger_Inari_am_Ufer_2022.jpg"
-[[resources]]
-name = "Ukko Felseninsel im Inari See 2022"
+[[images]]
+title = "Ukko Felseninsel im Inari See 2022"
 src = "images/Ukko_Felseninsel_im_Inari_See_2022.jpg"
-[[resources]]
-name = "Ruderboot vor Ukko Inari 2022"
+[[images]]
+title = "Ruderboot vor Ukko Inari 2022"
 src = "images/Ruderboot_vor_Ukko_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboote vertäuen an einer Insel im Inari 2022"
+[[images]]
+title = "Ruderboote vertäuen an einer Insel im Inari 2022"
 src = "images/Ruderboote_vertauen_an_einer_Insel_im_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboot an einer Wildnishütte Inari 2022"
+[[images]]
+title = "Ruderboot an einer Wildnishütte Inari 2022"
 src = "images/Ruderboot_an_einer_Wildnishutte_Inari_2022.jpg"
-[[resources]]
-name = "Inari See endlose Weite Ruderboot 2022"
+[[images]]
+title = "Inari See endlose Weite Ruderboot 2022"
 src = "images/Inari_See_endlose_Weite_Ruderboot_2022.jpg"
-[[resources]]
-name = "Ruderboot Inari 2022"
+[[images]]
+title = "Ruderboot Inari 2022"
 src = "images/Ruderboot_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboot macht Pause Inari 2022"
+[[images]]
+title = "Ruderboot macht Pause Inari 2022"
 src = "images/Ruderboot_macht_Pause_Inari_2022.jpg"
-[[resources]]
-name = "beladenes Ruderboot Inari 2022"
+[[images]]
+title = "beladenes Ruderboot Inari 2022"
 src = "images/beladenes_Ruderboot_Inari_2022.jpg"
-[[resources]]
-name = "Ruderboot einsamer Biwakplatz Inari 2022"
+[[images]]
+title = "Ruderboot einsamer Biwakplatz Inari 2022"
 src = "images/Ruderboot_einsamer_Biwakplatz_Inari_2022.jpg"
-[[resources]]
-name = "Nördlichste Binnenwasserstraße der Welt Inari 2022"
+[[images]]
+title = "Nördlichste Binnenwasserstraße der Welt Inari 2022"
 src = "images/Nordlichste_Binnenwasserstrasse_der_Welt_Inari_2022.jpg"
-[[resources]]
-name = "Bootsschleppe zum Soulisjärvi Inari 2022"
+[[images]]
+title = "Bootsschleppe zum Soulisjärvi Inari 2022"
 src = "images/Bootsschleppe_zum_Soulisjarvi_Inari_2022.jpg"
-[[resources]]
-name = "Bootsschleppe zum Soulisjärvi mit Ruderboot Inari 2022"
+[[images]]
+title = "Bootsschleppe zum Soulisjärvi mit Ruderboot Inari 2022"
 src = "images/Bootsschleppe_zum_Soulisjarvi_mit_Ruderboot_Inari_2022.jpg"
-[[resources]]
-name = "Bootsschleppe zum Soulisjärvi aufwärts Inari 2022"
+[[images]]
+title = "Bootsschleppe zum Soulisjärvi aufwärts Inari 2022"
 src = "images/Bootsschleppe_zum_Soulisjarvi_aufwarts_Inari_2022.jpg"
-[[resources]]
-name = "Erholungspause auf dem Steg Inari 2022"
+[[images]]
+title = "Erholungspause auf dem Steg Inari 2022"
 src = "images/Erholungspause_auf_dem_Steg_Inari_2022.jpg"
-[[resources]]
-name = "Klares Wasser am Soulisjärvi Inari 2022"
+[[images]]
+title = "Klares Wasser am Soulisjärvi Inari 2022"
 src = "images/Klares_Wasser_am_Soulisjarvi_Inari_2022.jpg"
-[[resources]]
-name = "die ersten fast reifen Multebeeren Inari 2022"
+[[images]]
+title = "die ersten fast reifen Multebeeren Inari 2022"
 src = "images/die_ersten_fast_reifen_Multebeeren_Inari_2022.jpg"
-[[resources]]
-name = "Am Nordende des Soulisjärvi Inari 2022"
+[[images]]
+title = "Am Nordende des Soulisjärvi Inari 2022"
 src = "images/Am_Nordende_des_Soulisjarvi_Inari_2022.jpg"
-[[resources]]
-name = "Tim Melina an der Nordhütte Inari 2022"
+[[images]]
+title = "Tim Melina an der Nordhütte Inari 2022"
 src = "images/Tim_Melina_an_der_Nordhutte_Inari_2022.jpg"
-[[resources]]
-name = "Isabel im Ruderboot Soulisjärvi 2022"
+[[images]]
+title = "Isabel im Ruderboot Soulisjärvi 2022"
 src = "images/Isabel_im_Ruderboot_Soulisjarvi_2022.jpg"
-[[resources]]
-name = "Platzregen an der Nordhütte Inari 2022"
+[[images]]
+title = "Platzregen an der Nordhütte Inari 2022"
 src = "images/Platzregen_an_der_Nordhutte_Inari_2022.jpg"
-[[resources]]
-name = "Biwakplatz auf einer Insel Inari 2022"
+[[images]]
+title = "Biwakplatz auf einer Insel Inari 2022"
 src = "images/Biwakplatz_auf_einer_Insel_Inari_2022.jpg"
-[[resources]]
-name = "Ruderer am Zulauf des Soulisjärvi Inari 2022"
+[[images]]
+title = "Ruderer am Zulauf des Soulisjärvi Inari 2022"
 src = "images/Ruderer_am_Zulauf_des_Soulisjarvi_Inari_2022.jpg"
-[[resources]]
-name = "Boote gegen den Sturm sichern Inari 2022"
+[[images]]
+title = "Boote gegen den Sturm sichern Inari 2022"
 src = "images/Boote_gegen_den_Sturm_sichern_Inari_2022.jpg"
-[[resources]]
-name = "Insel im Inari 2022"
+[[images]]
+title = "Insel im Inari 2022"
 src = "images/Insel_im_Inari_2022.jpg"
-[[resources]]
-name = "Abendessen auf einem Biwakplatz Inari 2022"
+[[images]]
+title = "Abendessen auf einem Biwakplatz Inari 2022"
 src = "images/Abendessen_auf_einem_Biwakplatz_Inari_2022.jpg"
-[[resources]]
-name = "Einsame Bucht Inari 2022"
+[[images]]
+title = "Einsame Bucht Inari 2022"
 src = "images/Einsame_Bucht_Inari_2022.jpg"
-[[resources]]
-name = "Lars im Ruderboot Inari 2022"
+[[images]]
+title = "Lars im Ruderboot Inari 2022"
 src = "images/Lars_im_Ruderboot_Inari_2022.jpg"
-[[resources]]
-name = "Girlie Inrigger vor Insel Inari 2022"
+[[images]]
+title = "Girlie Inrigger vor Insel Inari 2022"
 src = "images/Girlie_Inrigger_vor_Insel_Inari_2022.jpg"
-[[resources]]
-name = "Nervöser Blick ins Wasser Inari 2022"
+[[images]]
+title = "Nervöser Blick ins Wasser Inari 2022"
 src = "images/Nervoser_Blick_ins_Wasser_Inari_2022.jpg"
-[[resources]]
-name = "Weite des Inari See 2022"
+[[images]]
+title = "Weite des Inari See 2022"
 src = "images/Weite_des_Inari_See_2022.jpg"
-[[resources]]
-name = "Kirche in Nellim 2022"
+[[images]]
+title = "Kirche in Nellim 2022"
 src = "images/Kirche_in_Nellim_2022.jpg"
-[[resources]]
-name = "Nellim Kirche 2022"
+[[images]]
+title = "Nellim Kirche 2022"
 src = "images/Nellim_Kirche_2022.jpg"
-[[resources]]
-name = "Nellim Wilderness Hotel Inari 2022"
+[[images]]
+title = "Nellim Wilderness Hotel Inari 2022"
 src = "images/Nellim_Wilderness_Hotel_Inari_2022.jpg"
-[[resources]]
-name = "Orthodoxe Kirche von Nellim 2022"
+[[images]]
+title = "Orthodoxe Kirche von Nellim 2022"
 src = "images/Orthodoxe_Kirche_von_Nellim_2022.jpg"
-[[resources]]
-name = "Luxus Herberge in Nellim 2022"
+[[images]]
+title = "Luxus Herberge in Nellim 2022"
 src = "images/Luxus_Herberge_in_Nellim_2022.jpg"
-[[resources]]
-name = "Feuerstelle auf Biwakplatz 2022"
+[[images]]
+title = "Feuerstelle auf Biwakplatz 2022"
 src = "images/Feuerstelle_auf_Biwakplatz_2022.jpg"
-[[resources]]
-name = "Biwakplatz auf winziger Insel 2022"
+[[images]]
+title = "Biwakplatz auf winziger Insel 2022"
 src = "images/Biwakplatz_auf_winziger_Insel_2022.jpg"
-[[resources]]
-name = "Rentiere vor dem Haus Inari 2022"
+[[images]]
+title = "Rentiere vor dem Haus Inari 2022"
 src = "images/Rentiere_vor_dem_Haus_Inari_2022.jpg"
-[[resources]]
-name = "Mitternachtssonne am Inari 2022"
+[[images]]
+title = "Mitternachtssonne am Inari 2022"
 src = "images/Mitternachtssonne_am_Inari_2022.jpg"
-[[resources]]
-name = "Harry Potter wieder im Sonderquartier Inari 2022"
+[[images]]
+title = "Harry Potter wieder im Sonderquartier Inari 2022"
 src = "images/Harry_Potter_wieder_im_Sonderquartier_Inari_2022.jpg"
-[[resources]]
-name = "Hütte Campingplatz Ukkonjärvi Inari 2022"
+[[images]]
+title = "Hütte Campingplatz Ukkonjärvi Inari 2022"
 src = "images/Hutte_Campingplatz_Ukkonjarvi_Inari_2022.jpg"
-[[resources]]
-name = "Warten auf das Ende des Regens Inari 2022"
+[[images]]
+title = "Warten auf das Ende des Regens Inari 2022"
 src = "images/Warten_auf_das_Ende_des_Regens_Inari_2022.jpg"
-[[resources]]
-name = "der kleine Tim beim Weihnachtsmann am Polarkreis"
+[[images]]
+title = "der kleine Tim beim Weihnachtsmann am Polarkreis"
 src = "images/der_kleine_Tim_beim_Weihnachtsmann_am_Polarkreis.jpg"
-[[resources]]
-name = "Ruderer am Polarkreis 2022"
+[[images]]
+title = "Ruderer am Polarkreis 2022"
 src = "images/Ruderer_am_Polarkreis_2022.jpg"
-[[resources]]
-name = "Ruderer beim Weihnachtsmann 2022"
+[[images]]
+title = "Ruderer beim Weihnachtsmann 2022"
 src = "images/Ruderer_beim_Weihnachtsmann_2022.jpg"
-[[resources]]
-name = "Rentier an der Strasse Inari 2022"
+[[images]]
+title = "Rentier an der Strasse Inari 2022"
 src = "images/Rentier_an_der_Strasse_Inari_2022.jpg"
-[[resources]]
-name = "Sortieren und Aufladen in Ivalo 2022"
+[[images]]
+title = "Sortieren und Aufladen in Ivalo 2022"
 src = "images/Sortieren_und_Aufladen_in_Ivalo_2022.jpg"
-[[resources]]
-name = "Helsinki Ruderboote vor der Sija Symphony 2022"
+[[images]]
+title = "Helsinki Ruderboote vor der Sija Symphony 2022"
 src = "images/Helsinki_Ruderboote_vor_der_Sija_Symphony_2022.jpg"
-[[resources]]
-name = "David vor dem Dom in Helsinki 2022"
+[[images]]
+title = "David vor dem Dom in Helsinki 2022"
 src = "images/David_vor_dem_Dom_in_Helsinki_2022.jpg"
-[[resources]]
-name = "Dom von Helsinki mit Ruderern 2022"
+[[images]]
+title = "Dom von Helsinki mit Ruderern 2022"
 src = "images/Dom_von_Helsinki_mit_Ruderern_2022.jpg"
-[[resources]]
-name = "Abendessen Hostel in Jyväskylä 2022"
+[[images]]
+title = "Abendessen Hostel in Jyväskylä 2022"
 src = "images/Abendessen_Hostel_in_Jyvaskyla_2022.jpg"
-[[resources]]
-name = "Sija Symphony Promenade 2022"
+[[images]]
+title = "Sija Symphony Promenade 2022"
 src = "images/Sija_Symphony_Promenade_2022.jpg"
-[[resources]]
-name = "Tim Jo im Kinderland 2022"
+[[images]]
+title = "Tim Jo im Kinderland 2022"
 src = "images/Tim_Jo_im_Kinderland_2022.jpg"
-[[resources]]
-name = "Kinderland auf der Sija Symphony 2022"
+[[images]]
+title = "Kinderland auf der Sija Symphony 2022"
 src = "images/Kinderland_auf_der_Sija_Symphony_2022.jpg"
-[[resources]]
-name = "David im Bällebad 2022"
+[[images]]
+title = "David im Bällebad 2022"
 src = "images/David_im_Ballebad_2022.jpg"
 
 +++
@@ -430,13 +430,13 @@ Für Nachahmer der Hinweis: Macht solch eine Fahrt nicht mit C-Booten. Mit gedec
 
 Unsere
 
-[Inrigger](/home/pauls/projects/website_kst/old/html/javascript:openpopup_4f8d('https:/baumgarten-bootsbau.de/boote/inrigger-doppel3er/'))
+[Inrigger](https:/baumgarten-bootsbau.de/boote/inrigger-doppel3er/)
 
 sind definitiv die bessere Idee.
 
 Die Obleute sollten sehr erfahren sein. Unser
 
-[5er Obmannschein](/home/pauls/projects/website_kst/old/html/obmannsstufen.html)
+[5er Obmannschein](/berichte/2022/obmannsstufen)
 
 (oder ein dänisches Langtuur-Patent) sind dringend zu empfehlen.
 

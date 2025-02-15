@@ -8,13 +8,10 @@ theme = "kstview"
 languageCode = "de"
 defaultContentLanguage = "de"
 
-# -- build-specifics start --
-relativeUrls = true
-timeout = "120"
-staticDir = ["static", ] # "site_archive"
-# -- build-specifics end --
+staticDir = ["static", "archive"] # "site_archive"
 
 [params]
+archive_base = "/archive"
 backdrop_image = "bundle/backdrops/club-gelaende.jpg"
 icon_image = "bundle/kst_wikingerschiff_simplistic_light.svg"
 
@@ -23,7 +20,12 @@ list.articles_per_site = 50
 list.card_width = "50pt"
 
 # TODO: Use menu items
-home.nav_items = [ "/neuigkeiten", "/ausschreibungen", "/berichte", "/club" ]
+home.nav_items."Club" = "/club"
+home.nav_items."Neuigkeiten" = "/neuigkeiten"
+home.nav_items."Berichte" = "/berichte"
+home.nav_items."Ausschreibungen" = "/ausschreibungen"
+
+home.english_basepage = "/introduction"
 home.news_count = 10
 home.trip_announcement_count = 10
 
@@ -49,17 +51,82 @@ meta.default_tags = [
 ]
 
 cookiebanner.more_here = "https://commission.europa.eu/cookies-policy"
-cookiebanner.data_protection = "/club/datenshutz"
+cookiebanner.data_protection = "/club/datenschutz"
+
+[[params.vorstand]]
+position = ["1. Vorstand", "Sport/Wanderruderwart"]
+name = "Stefan Biastock"
+email = "info@wanderrudern.de"
+nummer = "0172-405 92 53"
+
+[[params.vorstand]]
+position = ["2. Vorstand", "Verwaltung"]
+name = "Martin Beilfuß"
+email = "martin@wanderrudern.de"
+nummer = "033203-24948"
+
+[[params.vorstand]]
+position = "Kassenwart"
+name = "Dr. Ulrich Schmidt"
+email = "kassenwart@wanderrudern.de"
+
+[[params.vorstand]]
+position = "Schriftführer"
+name = ""
+email = "post@wanderrudern.de"
+
+[[params.vorstand]]
+position = "Ruderwart Erwachsene"
+name = ["Thomas Schmidt-Lehmann", "Florian Coesfeld", "Peter Strauß"]
+email = "rudern@wanderrudern.de"
+
+[[params.vorstand]]
+position = "Ruderwart Jugend"
+name = ["Carlos Fisch" , "Timo Schlichting"]
+email = "jugendwart@wanderrudern.de"
+
+[[params.vorstand]]
+position = "Ruderwart Marathon"
+name = "Nirina Beilfuß"
+email = "marathon@wanderrudern.de"
+
+[[params.vorstand]]
+position = "Bootswarte"
+name = ["Wolfgang Petri", "Tim Czemper"]
+email = "bootswart@wanderrudern.de"
+nummer = ["0173-2355261", "0176-79259096"]
+
+[[params.vorstand]]
+position = "Hauswart"
+name = "Sandro Genrich"
+email = "hauswart@wanderrudern.de"
+
+[[params.vorstand]]
+position = "PR-Öffentlichkeit"
+name = "Simone Pelzer"
+email = "pressewart@wanderrudern.de"
+nummer = "0173-4609836"
+
+[[params.vorstand]]
+position = "PR-Sponsoring"
+name = "Kai Wadewitz"
+email = "sponsoring@wanderrudern.de"
+
+[[params.vorstand]]
+position = "Veranstaltungen"
+name = ""
+email = ""
 
 [taxonomies]
 "gewässer" = "gewässer"
 "land" = "länder"
-"jahr" = "jahre"
+"typ" = "typen"
 
-[languages.de]
-languageName = "Deutsch"
-weight = 20
+#[languages.de]
+#weight = 20
+#languageName = "Deutsch"
+#
+#[languages.en]
+#weight = 10
+#languageName = "English"
 
-[languages.en]
-languageName = "English"
-weight = 10

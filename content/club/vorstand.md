@@ -1,0 +1,5 @@
++++
+title = "Vorstand"
++++
+
+{{< vorstand-table >}}

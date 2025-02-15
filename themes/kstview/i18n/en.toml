@@ -1,6 +1,7 @@
 rowingclub = "Rowingclub"
 rowingclub_name = "Rowingclub Kleinmachnow Stahnsdorf Teltow"
 
+home_other_lang = "Deutsch"
 home_ausschreibungen = "Announcements"
 home_news_und_berichte = "News and trip reports"
 
@@ -11,8 +12,11 @@ home_news_und_berichte = "News and trip reports"
 until = "until"
 trip_report_written_by = "written by"
 trip_record_last_modified = "last modified"
+
+bericht_jahr = "Year"
 bericht_laender = "Countries"
 bericht_gewaesser = "Waters"
+bericht_gruppierung = "Grouping"
 
 imprint = "Imprint"
 data_protection = "Data protection"

@@ -1,0 +1,7 @@
+{{- $key := .Get 0 }}
+{{- range index site.Params.vorstand }}
+    {{- if eq .position $key }}
+        {{- printf "mailto:%s" .email }}
+        {{- break }}
+    {{- end }}
+{{- end }}

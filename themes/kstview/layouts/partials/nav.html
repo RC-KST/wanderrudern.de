@@ -8,20 +8,12 @@
             </img>
         </a>
         <div class="order-1 flex relative w-auto overflow-x-auto">
-            {{ range $nav := .Site.Params.home.nav_items }}
-            {{ $page := $.Site.GetPage $nav }}
+            {{ range $name, $link := $.Site.Params.home.nav_items }}
             <li class="order-1 w-full text-center items-center font-bold
                 flex-row flex-nowrap flex ml-0 mr-3 md:mr-8">
-                <a class="bg-transparent" href="{{ $page.Permalink }}">{{$page.LinkTitle}}</a>
-            </li> <!--top-nav__link-->
+                <a class="bg-transparent" href="{{ $.Ref (dict "path" $link "lang" "de") }}">{{ $name | strings.Title }}</a>
+            </li>
             {{ end }}
-            <!--
-            <li class="top-nav__link"><a href="/termine">{{ i18n "events" }}</a></li>
-            <li class="top-nav__link"><a href="/trip_reports">{{ i18n "trip_reports" }}</a></li>
-            <li class="top-nav__link"><a href="/beginners">{{ i18n "beginner" }}</a></li>
-            <li class="top-nav__link"><a href="/news">{{ i18n "news" }}</a></li>
-            -->
-            <!--<li class="top-nav__link"><a href="#"><img class="top-nav__icons" src="/bundle/search-icon-light.svg"></a></li>-->
         </div>
     </ul>
 </nav>

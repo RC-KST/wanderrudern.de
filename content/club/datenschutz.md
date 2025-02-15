@@ -3,8 +3,6 @@ title = "Datenschutz"
 weight = 2
 +++
 
-## Datenschutz
-
 Wir informieren Sie nachfolgend gemäß den gesetzlichen Vorgaben des Datenschutzrechts (insb. gemäß BDSG n.F. und der europäischen Datenschutz-Grundverordnung ‚DS-GVO‘) über die Art, den Umfang und Zweck der Verarbeitung personenbezogener Daten durch unser Unternehmen. Diese Datenschutzerklärung gilt auch für unsere Websites und Sozial-Media-Profile. Bezüglich der Definition von Begriffen wie etwa „personenbezogene Daten“ oder „Verarbeitung“ verweisen wir auf Art. 4 DS-GVO.
 
   
@@ -136,38 +134,6 @@ Wir setzen keine automatische Entscheidungsfindung oder ein Profiling ein.
     
 6.  **Widerspruch und „Opt-Out“:** Das Speichern von Cookies auf Ihrer Festplatte können Sie unabhängig von einer Einwilligung oder gesetzlichen Erlaubnis allgemein verhindern, indem Sie in Ihren Browser-Einstellungen „keine Cookies akzeptieren“ wählen. Dies kann aber eine Funktionseinschränkung unserer Angebote zur Folge haben. Sie können dem Einsatz von Cookies von Drittanbietern zu Werbezwecken über ein sog. „Opt-out“ über diese amerikanische Website (https://optout.aboutads.info) oder diese europäische Website (http://www.youronlinechoices.com/de/praferenzmanagement/) widersprechen.  
       
-    
-
-  
-**Google Analytics**
-
-1.  Wir haben das Webseitenanalyse-Tool „Google Analytics“ (**Dienstanbieter:** Google Ireland Limited, Registernr.: 368047, Gordon House, Barrow Street, Dublin 4, Irland) auf unserer Website integriert.  
-      
-    
-2.  **Datenkategorien und Beschreibung der Datenverarbeitung:** User-ID, IP-Adresse (anonymisiert). Beim Besuch unserer Website setzt Google einen Cookie auf Ihren Computer, um die Benutzung unserer Website durch Sie analysieren zu können. Wir haben die IP-Anonymisierung „anonymizeIP“ aktiviert, wodurch die IP-Adressen nur gekürzt weiterverarbeitet werden. Auf dieser Webseite wird Ihre IP-Adresse von Google daher innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Webseite wird Google diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere, mit der Websitenutzung und der Internetnutzung verbundene, Dienstleistungen gegenüber dem Verantwortlichen zu erbringen. Wir haben darüber hinaus die geräteübergreifende Analyse von Website-Besuchern aktiviert, die über eine sog. User-ID durchgeführt wird. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Weitere Informationen zu Datennutzung bei Google Analytics finden Sie hier: [https://www.google.com/analytics/terms/de.html](https://www.google.com/analytics/terms/de.html) (Nutzungsbedingungen von Analytics), [https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=de) (Hinweise zum Datenschutz bei Analytics) und Googles Datenschutzerklärung [https://policies.google.com/privacy](https://policies.google.com/privacy).  
-      
-    
-3.  **Zweck der Verarbeitung:** Die Nutzung von Google Analytics dient dem Zweck der Analyse, Optimierung und Verbesserung unserer Website.  
-      
-    
-4.  **Rechtsgrundlagen:** Haben Sie für Verarbeitung Ihrer personenbezogenen Daten mittels „Google Analytics“ vom Drittanbieter Ihre Einwilligung erteilt („Opt-in“), dann ist Art. 6 Abs. 1 S. 1 lit. a) DS-GVO die Rechtsgrundlage. Rechtsgrundlage ist zudem unser in den obigen Zwecken liegendes berechtigtes Interesse (der Analyse, Optimierung und Verbesserung unserer Website) an der Datenverarbeitung nach Art. 6 Abs. 1 S.1 lit. f) DS-GVO. Bei Services, die im Zusammenhang mit einem Vertrag erbracht werden, erfolgt das Tracking und die Analyse des Nutzerhaltens nach Art. 6 Abs. 1 S. 1 lit. b) DS-GVO, um mit den dadurch gewonnen Informationen, optimierte Services zur Erfüllung des Vertragszwecks anbieten zu können.  
-      
-    
-5.  **Speicherdauer:** Die von uns gesendeten und mit Cookies, Nutzerkennungen (z. B. User-ID) oder Werbe-IDs verknüpften Daten werden nach Monaten automatisch gelöscht. Die Löschung von Daten, deren Aufbewahrungsdauer erreicht ist, erfolgt automatisch einmal im Monat.  
-      
-    
-6.  **Datenübermittlung/Empfängerkategorie:** Google, Irland und USA. Wir haben zudem mit Google eine Vereinbarung zur Auftragsverarbeitung nach Art. 28 DS-GVO geschlossen.  
-      
-    
-7.  **Widerspruchs- und Beseitigungsmöglichkeiten („Opt-Out“):**  
-    -Das Speichern von Cookies auf Ihrer Festplatte können Sie allgemein verhindern, indem Sie in Ihren Browser-Einstellungen „keine Cookies akzeptieren“ wählen. Dies kann aber eine Funktionseinschränkung unserer Angebote zur Folge haben. Sie können darüber hinaus die Erfassung der, durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen, Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de)  
-      
-    -Als Alternative zum obigen Browser-Plugin können Sie die Erfassung durch Google Analytics unterbinden, indem Sie **\[TODO\_\_hier bitte\_\_den Analytics Opt-Out Link Ihrer Webseite einfügen\]** klicken. Durch den Klick wird ein „Opt-out“-Cookie gesetzt, das die Erfassung Ihrer Daten beim Besuch dieser Webseite zukünftig verhindert. Dieses Cookie gilt nur für unsere Webseite und Ihren aktuellen Browser und hat nur solange Bestand bis Sie Ihre Cookies löschen. In dem Falle müssten Sie das Cookie erneut setzen.  
-      
-    -Die **geräteübergreifende Nutzeranalyse** können Sie in Ihrem Google-Account unter „Meine Daten > persönliche Daten“ deaktivieren.  
-      
-    
-
   
 **YouTube-Videos**
 

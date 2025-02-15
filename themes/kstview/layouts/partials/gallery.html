@@ -1,23 +1,29 @@
+{{- $images := page.Params.images }}
 <div class="w-full flex flex-col justify-center">
-    <div class="flex flex-row flex-wrap flex-shrink justify-center">
-        {{- range $idx, $img := sort ($.Page.Resources.ByType "image") "Params.weight" }}
-        {{- with $img.Fill "150x150" -}}
-        <a class="m-1 cursor-pointer px-0" onclick="event.stopPropagation(true); openModal({{ $idx }})">
-            <img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $img.Title }}" title="{{ $img.Title }}" />
-        </a>
-        {{- end }}
+    <div id="gallery_container" class="flex flex-row flex-wrap flex-shrink justify-center">
+        {{- range $idx, $img := $images }}
+            {{- $image_resource := page.Resources.Get $img.src}}
+            {{- with $image_resource.Fill "150x150" -}}
+            <a data-href="{{ $image_resource.Permalink }}" class="m-1 cursor-pointer px-0" onclick="event.stopPropagation(true); openModal({{ $idx }})">
+                <img src="{{ .Permalink }}"
+                    width="{{ .Width }}"
+                    height="{{ .Height }}"
+                    alt="{{ $img.title }}"
+                    title="{{ $img.title }}" />
+            </a>
+            {{- end }}
         {{- end -}}
     </div>
-    <div id="image_modal" class="hidden z-[1] fixed w-full h-screen left-0 top-0 bg-black/70" onclick="event.stopPropagation(true); closeModal()">
+    <div id="gallery_modal" class="hidden z-[1] fixed w-full h-screen left-0 top-0 bg-black/70" onclick="event.stopPropagation(true); closeModal()">
         <div class="flex flex-nowrap h-full w-full">
             <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-10 mt-20 text-2xl text-white">
                 <div class="flex flex-row flex-nowrap flex-grow items-center">
                     <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90" onclick="event.stopPropagation(true); incModal(-1)">&#10094;</a>
-                    <div id="image_modal_image" class="bg-contain bg-center bg-no-repeat h-full flex-grow"></div>
+                    <div id="gallery_modal_image" class="bg-contain bg-center bg-no-repeat h-full flex-grow" onclick="event.stopPropagation(true)"></div>
                     <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90" onclick="event.stopPropagation(true); incModal(1)">&#10095;</a>
                 </div>
                 <div class="flex flex-row flex-nowrap justify-center mt-1 items-center">
-                    <span id="image_modal_text" class="flex justify-center flex-grow-0"></span>
+                    <span id="gallery_modal_text" class="flex justify-center flex-grow-0"></span>
                     <a class="flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-4" onclick="event.stopPropagation(true); closeModal()"> &#10006; </a>
                 </div>
                 <!--<img class="w-full overflow-hidden max-h-screen object-contain"  src="" alt="" title=""/>-->
@@ -25,36 +31,34 @@
         </div>
     </div>
     <script type="text/javascript">
-    const image_links = [{{- range $idx, $img := $.Page.Resources.ByType "image" -}} { "src": "{{- $img.Permalink }}", "title": "{{ $img.Title }}"}, {{- end -}}];
+    const images_len = document.getElementById("gallery_container").children.length;
 
     let slide = -1;
     let xoffset = -1;
     let yoffset = -1;
 
     function incModal(inc) {
-        openModal((slide + image_links.length + inc) % image_links.length);
+        openModal((slide + images_len + inc) % images_len);
     }
 
     function openModal(idx) {
+        const images = document.getElementById("gallery_container").children;
         slide = idx;
         if (idx == -1) return closeModal();
         xoffset = window.pageXOffset;
         yoffset = window.pageYOffset;
         window.onscroll = () => window.scroll(xoffset, yoffset)
 
-        let modal_img_container = document.getElementById("image_modal");
+        let modal_img_container = document.getElementById("gallery_modal");
         modal_img_container.style.display = "block";
 
-        let text_container = document.getElementById("image_modal_text");
-        text_container.innerText = `${slide + 1} / ${image_links.length}`;
+        let text_container = document.getElementById("gallery_modal_text");
+        text_container.innerText = `${slide + 1} / ${images_len}`;
 
 
-        let img = document.getElementById("image_modal_image");
-        img.style.backgroundImage = `url(${image_links[slide]["src"]})`;
-        //let img = modal_img_container.getElementsByTagName("img")[0];
-        //img.setAttribute("src", image_links[slide]["src"]);
-        //img.setAttribute("alt", image_links[slide]["title"]);
-        //img.setAttribute("title", image_links[slide]["title"]);
+        let image_href = images[slide].getAttribute("data-href");
+        let img = document.getElementById("gallery_modal_image");
+        img.style.backgroundImage = `url(${image_href})`;
     }
 
     function closeModal() {
@@ -62,17 +66,18 @@
         window.onscroll = undefined;
         xoffset = -1;
         yoffset = -1;
-        var modal_img_container = document.getElementById("image_modal");
+        var modal_img_container = document.getElementById("gallery_modal");
         modal_img_container.style.display = "none";
 
 
-        let img = document.getElementById("image_modal_image");
+        let img = document.getElementById("gallery_modal_image");
         img.style.backgroundImage = "";
         //let img = modal_img_container.getElementsByTagName("img")[0];
         //img.setAttribute("src", "");
         //img.setAttribute("alt", "");
         //img.setAttribute("title", "");
-        console.log("image", img);
+
+        //console.log("image", img);
     }
 
     document.addEventListener('keydown', function(event) {

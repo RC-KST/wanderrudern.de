@@ -1,6 +1,7 @@
 rowingclub = "Ruderclub"
 rowingclub_name = "Ruderclub Kleinmachnow Stahnsdorf Teltow"
 
+home_other_lang = "English"
 home_ausschreibungen = "Ausschreibungen"
 home_news_und_berichte = "Neuigkeiten und Berichte"
 
@@ -11,8 +12,11 @@ home_news_und_berichte = "Neuigkeiten und Berichte"
 until = "bis"
 trip_report_written_by = "geschrieben von"
 trip_record_last_modified = "letzte Änderung"
+
+bericht_jahr = "Jahr"
 bericht_laender = "Länder"
 bericht_gewaesser = "Gewässer"
+bericht_gruppierung = "Gruppierung"
 
 imprint = "Impressum"
 data_protection = "Datenschutz"

@@ -1,0 +1,55 @@
+<div class="flex flex-col flex-nowrap items-center py-5 text-[10pt]">
+    <table class="min-w-80 border border-gray-200">
+        <tbody>
+            {{- range $entry := site.Params.vorstand }}
+            <tr class="even:bg-gray-200">
+                <td class="py-2 px-3 text-start border border-gray-300">
+                    {{- if or (not $entry.position) (eq $entry.position "") }}
+                        {{- printf "-"}}
+                    {{- else }}
+                        {{- if reflect.IsSlice $entry.position }}
+                            {{- range $entry.position }}<p>{{ . }}</p>{{ end }}
+                        {{- else }}
+                            {{- $entry.position -}}
+                        {{- end }}
+                    {{- end -}}
+                </td>
+                <td class="py-2 px-3 text-start border border-gray-300">
+                    {{- if or (not $entry.name) (eq $entry.name "") }}
+                        {{- printf "-"}}
+                    {{- else }}
+                        {{- if reflect.IsSlice $entry.name }}
+                            {{- range $entry.name }}<p>{{ . }}</p>{{ end }}
+                        {{- else }}
+                            {{- $entry.name }}
+                        {{- end }}
+                    {{- end -}}
+                </td>
+                <td class="py-2 px-3 text-start border border-gray-300">
+                    {{- if or (not $entry.email) (eq $entry.email "") }}
+                        {{- printf "-"}}
+                    {{- else }}
+
+                        {{- if reflect.IsSlice $entry.email }}
+                            {{- range $entry.email }}<p>{{ . }}</p>{{ end }}
+                        {{- else }}
+                            <a href="mailto:{{$entry.email}}">{{ $entry.email }}</a>
+                        {{- end }}
+                    {{- end -}}
+                </td>
+                <td class="py-2 px-3 text-start border border-gray-300">
+                    {{- if or (not $entry.nummer) (eq $entry.nummer "") }}
+                        {{- printf "-"}}
+                    {{- else }}
+                        {{- if reflect.IsSlice $entry.nummer }}
+                            {{- range $entry.nummer }}<p>{{ . }}</p>{{ end }}
+                        {{- else }}
+                            {{- $entry.nummer }}
+                        {{- end }}
+                    {{- end -}}
+                </td>
+            </tr>
+            {{- end }}
+        </tbody>
+    </table>
+</div>

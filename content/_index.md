@@ -1,29 +1,32 @@
 +++
 title = "Ruderclub Kleinmachnow Stahnsdorf Teltow e.V."
 translationKey = "_index"
-
-overview.left = [
-    { translation_key = "overview_rowing_is_the_right_thing", href = "/#1" },
-    { translation_key = "overview_what_is_long_rowing", href = "/#2"},
-    { translation_key = "overview_when_and_where_to_row", href = "/#2" },
-]
-overview.right = [
-    { translation_key = "overview_rowing_location", href = "/#1" },
-    { translation_key = "overview_guests", href = "/#2" },
-    { translation_key = "overview_contact_persons", href = "/#2" },
-]
-
-news_slide = [
-    { text = "Der Steg ist da!", href = "neuigkeiten/2023/neuer_steg.md", img = "bundle/backdrops/club-gelaende.jpg" },
-    { text = "Nirina jüngste Äquatorpreisträgerin aller Zeiten", img = "bundle/backdrops/griebnitzsee-anfang-skiff.jpg" },
-    { text = "Tim, ein weiterer Äquatorpreis für die Chronik", img = "bundle/backdrops/club-gelaende.jpg" },
-    { text = "Johanna, die zweitjüngste Äquatorpreisträgerin", img = "bundle/backdrops/club-gelaende.jpg" },
-]
 +++
 
-# Eine Überschrift
+{{< slider id="home" >}}
+    {{< slider-entry
+        text="Der Steg ist da!"
+        img="bundle/backdrops/club-gelaende.jpg"
+        href="#1" >}}
+    {{< slider-entry
+        text="Nirina jüngste Äquatorpreisträgerin aller Zeiten"
+        img="bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
+        href="#2" >}},
+{{< /slider >}}
 
-## Eine Unterschrift
+{{< column-layout >}}
+{{% col %}}
+- [Was ist Wanderrudern](/club/infos/was-ist-wanderrudern)
+- [Wann und wo rudern?](/club/infos/wann-und-wo-rudern)
+{{% /col %}}
+{{% col %}}
+- [Ruderrevier](/club/infos/ruderrevier)
+- [Gäste](/club/gaeste)
+- [Kontakt](/club/vorstand)
+{{% /col %}}
+{{< /column-layout >}}
 
-Und ein Text
-- Ein anderer Text
+{{< column-layout >}}
+    {{< col >}}{{< previous-news-and-reports >}}{{< /col >}}
+    {{< col >}}{{< newest-upcoming >}}{{< /col >}}
+{{< /column-layout >}}

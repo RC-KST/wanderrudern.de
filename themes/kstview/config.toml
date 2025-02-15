@@ -2,9 +2,8 @@ languageCode = "de"
 defaultContentLanguage = "de"
 
 # -- build-specifics start --
-relativeUrls = true
+#relativeUrls = true
 timeout = "120"
-staticDir = ["static", ] # "site_archive"
 # -- build-specifics end --
 
 [services.googleAnalytics]
@@ -12,19 +11,15 @@ id = ""
 [privacy.GoogleAnalytics]
 disable = true
 
-[permalinks.page]
-berichte = '/berichte/:year/:month/:slug'
-neuigkeiten = '/neuigkeiten/:year/:month/:slug'
-ausschreibungen = '/ausschreibungen/:year/:month/:slug'
+#[permalinks.page]
+#berichte = '/berichte/:year/:month/:slug'
+#neuigkeiten = '/neuigkeiten/:year/:month/:slug'
+#ausschreibungen = '/ausschreibungen/:year/:month/:slug'
 
-[renderer]
-unsafe = false
+#[renderer]
+#unsafe = false
 
-[languages.de]
-languageCode = "de"
-
-[languages.en]
-languageCode = "en"
-
-[markup.goldmark.parser]
-wrapStandAloneImageWithinParagraph = false
+#[markup.goldmark.parser]
+#wrapStandAloneImageWithinParagraph = false
+[security]
+enableInlineShortcodes = true

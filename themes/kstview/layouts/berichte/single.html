@@ -33,9 +33,10 @@
         <!-- Tag navigation may be added later -->
     </div>
 </div>
+{{- if .Params.images }}
 <hr/>
-
-{{- partial "images.html" . }}
+{{- partial "gallery.html" . }}
+{{- end }}
 
 <hr/>
 <div class="flex w-full justify-between">

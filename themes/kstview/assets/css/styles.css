@@ -33,7 +33,11 @@
   }
 
   p {
-    @apply leading-6 my-1
+    @apply leading-6 my-1 text-justify
+  }
+
+  strong {
+    @apply font-bold
   }
 
   a {

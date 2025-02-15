@@ -1,8 +1,11 @@
 <div class="flex flex-col flex-nowrap items-center py-5">
+{{- $head := true}}
+{{- if and (.Get 1) (eq (.Get 1) "nohead") }}{{- $head := false}}{{- end }}
 {{- with $file := .Get 0 }}
     {{- with ($.Page.Resources.Get $file) }}
         {{- with . | transform.Unmarshal (dict "delimiter" ";") }}
         <table class="min-w-80 border border-gray-200">
+            {{- if $head }}
             <thead class="text-white">
                 <tr class="bg-primary-light">
                     {{- range index . 0 }}
@@ -10,6 +13,7 @@
                     {{- end }}
                 </tr>
             </thead>
+            {{- end }}
             <tbody>
                 {{- range after 1 . }}
                 <tr class="even:bg-gray-200">

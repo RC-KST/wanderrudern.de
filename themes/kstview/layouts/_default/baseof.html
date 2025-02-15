@@ -1,24 +1,16 @@
 <!DOCTYPE html>
-<html lang="de" class="h-full">
+<html lang="{{ .Language.Lang }}" class="h-full">
     <head>
-        <!--<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>-->
-        <!--<script src="https://unpkg.com/lunr/lunr.js"></script>-->
-
         {{- partial "head-meta.html" . -}}
 
         <script type="text/javascript" src="{{ (resources.Get "/js/cookies.js").Permalink }}"></script>
         <link rel="icon" type="image/x-icon" href="{{- (resources.Get .Site.Params.icon_image).Permalink -}}"/>
 
         {{- $styles := resources.Get "css/styles.css"
-            | postCSS (dict "config" "../../assets/css/postcss.config.js") -}}
-        {{ $styles := $styles | minify | fingerprint | css.PostCSS -}}
+            | postCSS (dict "config" "../../assets/css/postcss.config.js") }}
+        {{- $styles := $styles | minify | fingerprint | css.PostCSS }}
 
-        {{ $styles = $styles | minify | fingerprint | resources.PostProcess -}}
-
-        <!--{{ if hugo.IsProduction }}
-        {{ else }}
-            <script src="https://cdn.tailwindcss.com"></script>
-        {{ end }}-->
+        {{- $styles = $styles | minify | fingerprint | resources.PostProcess -}}
 
         <link rel="stylesheet" href="{{ $styles.Permalink }}" />
         <style>
@@ -39,16 +31,16 @@
                 "backdrop_image" (resources.Get .Site.Params.backdrop_image).Permalink
             )
         -}}
-        {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify -}}
+        {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify }}
         <link rel="stylesheet" href={{ $style_main.Permalink }}>
-        {{- $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify -}}
+        {{- $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify }}
         <link rel="stylesheet" href={{ $style_slideshow.Permalink }}>
 
         <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | css.Sass | resources.Minify }}-->
 
-        {{- with .OutputFormats.Get "rss" -}}
-            {{ printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-        {{ end -}}
+        {{- with .OutputFormats.Get "rss" }}
+            {{- printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+        {{- end -}}
 
         <meta name="publisher" content="{{.Site.Params.meta.publisher}}">
         <meta name="copyright" content="{{.Site.Params.meta.copyright}}">
@@ -60,10 +52,11 @@
         <meta name="keywords" content=" 
             {{- range $index, $ctag := . -}}
                 {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
-            {{- end -}} ">
-        {{- end -}}
+            {{- end -}}">
+        {{- end }}
 
-        {{ partial "analytics.html" . -}}
+        {{- partial "analytics.html" . }}
+
         {{- block "head" . }}{{ end -}}
     </head>
     
@@ -78,7 +71,20 @@
                 id="content-container">
                 <div class="flex flex-grow flex-col flex-nowrap items-stretch m-0 p-2 md:p-10
                     rounded-lg bg-gray-100" id="content-scroll">
-                    {{- block "main" .}}{{ end -}}
+                    <div class="w-full flex flex-row flex-nowrap content-between">
+                        <div class="grow">{{- if not .IsHome }}{{- partial "breadcrumbs.html" . }}{{- end }}</div>
+
+                        {{- $ref := site.GetPage site.Params.home.english_basepage }}
+                        {{- $is_english_introduction := eq $ref.Path $.Page.Path }}
+                        {{- if $is_english_introduction }}{{- $ref = site.GetPage "/" }}{{- end }}
+                        {{- if or .IsHome $is_english_introduction }}
+                            <div class="flex flex-row justify-end">
+                                <a href="{{ $ref.Permalink }}">{{- if $is_english_introduction }}Deutsch{{- else }}English{{- end }}</a>
+                            </div>
+                        {{- end }}
+                    </div>
+
+                    {{- block "main" . }}{{ end -}}
                 </div>
             </div>
         </main>

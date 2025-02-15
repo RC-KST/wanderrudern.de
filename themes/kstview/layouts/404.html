@@ -1,6 +1,6 @@
 {{ define "main" }}
 <h1> {{ i18n "404_site_doesnt_exist" }} </h1>
 <div>
-    {{ i18n "404_if_you_search_something_look" }} <b><a href="/old">{{ i18n "404_here" }}</a></b>
+    {{ i18n "404_if_you_search_something_look" }} <b><a href="{{ site.Params.old_base }}">{{ i18n "404_here" }}</a></b>
 </div>
 {{ end }}
