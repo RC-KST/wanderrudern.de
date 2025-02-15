@@ -1,7 +1,23 @@
 {{- $key := .Get 0 }}
+{{- $email := "" }}
 {{- range index site.Params.vorstand }}
-    {{- if eq .position $key }}
-        {{- printf "mailto:%s" .email }}
-        {{- break }}
+    {{- $entry := . }}
+    {{- if reflect.IsSlice .position }}
+        {{- range .position }}
+            {{- if eq . $key }}
+                {{- if reflect.IsSlice $entry.email }}
+                    {{- $email = (index $entry.email 0) }}
+                {{- else }}
+                    {{- $email = $entry.email }}
+                {{- end }}
+                {{- break }}
+            {{- end }}
+        {{- end }}
+    {{- else }}
+        {{- if eq .position $key }}
+            {{- $email = .email }}
+            {{- break }}
+        {{- end }}
     {{- end }}
 {{- end }}
+{{- printf "mailto:%s" $email }}

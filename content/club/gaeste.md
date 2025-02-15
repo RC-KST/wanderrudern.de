@@ -7,7 +7,7 @@ Bitte beachten Sie dass unser Bootshaus sehr einfach ausgestattet ist. Für klei
 
 Auf Grund der baulichen Situation ist momentan nur Zelten möglich, Kosten 5 Euro pro Person.
 
-Anmeldungen an den [Vorsitzenden]({{< vorstand-email-link "erster_vorsitzender" >}}) oder [Hauswart]({{< vorstand-email-link "hauswart" >}})
+Anmeldungen an den [Vorsitzenden]({{< vorstand-email-link "1. Vorstand" >}}) oder [Hauswart]({{< vorstand-email-link "Hauswart" >}})
 
 Der **Verleih von Booten** an andere Rudervereine ist möglich. Es stehen bis zu 4 Wandervierer und 4 Wanderzweier zur Verfügung. 8 Euro/Bootsplatz/Tag. Die Boote sind nicht versichert. Für Schäden haftet der Nutzer.
 Wir helfen gerne bei der Planung einer Wanderfahrt.

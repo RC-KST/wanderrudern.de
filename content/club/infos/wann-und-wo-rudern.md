@@ -8,19 +8,19 @@ Wer früher einmal gerudert hat und es mal wieder probieren will, aber auch wer 
 ### Wo kann man  rudern?
 Der Club liegt in Stahnsdorf, Bäkepromenade direkt unterhalb der Machnower Schleuse. [zur Umgebungskarte](#TODO)
 
-Einen Blick auf unser Ruderrevier können Sie [hier](../ruderrevier) werfen.
+Einen Blick auf unser Ruderrevier können Sie [hier](../ruderrevier.md) werfen.
 
 ### Wann können Anfänger kommen?
-Anfänger können jederzeit zu einem der [Sporttermine](../../wochentermine) kommen.
+Anfänger können jederzeit zu einem der [Sporttermine](../../wochentermine.md) kommen.
 
-Im Mai startet ein  [Anfänger- Ruderkurs für Erwachsene](/ausschreibungen/2025/05/ruderkurs). Der Kurs für die Jugendlichen startet im März.
+Im Mai startet ein  [Anfänger- Ruderkurs für Erwachsene](/ausschreibungen/2025/05/ruderkurs.md). Der Kurs für die Jugendlichen startet im März.
 
 ### Was kostet das Rudern beim RC KST?
-[Preistabelle](../mitgliedspreise)
+[Preistabelle](../mitgliedspreise.md)
 
 Was für Kleidung ist nötig?
 Dem Wetter angemessene Sportkleidung. Die Hosen und Pullover sollten jedoch nicht zu weit sein, da man sonst leicht in der Rollbahn hängen bleibt.
 
-Clubkleidung findet man [hier](../clubkleidung).
+Clubkleidung findet man [hier](../clubkleidung.md).
 
-Wer weitere Fragen hat, hier sind die [Ansprechpartner](/club/vorstand)
+Wer weitere Fragen hat, hier sind die [Ansprechpartner](/club/vorstand.md)
