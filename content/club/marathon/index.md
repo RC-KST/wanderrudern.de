@@ -74,7 +74,7 @@ Wir halten uns das ganze Jahr über selbstständig fit. Dies kann mit Hilfe der 
 
 Zusätzlich nehmen wir regelmäßig an Wanderfahrten des RC KST teil, gerade an solchen, bei denen höhere Kilometerleistungen erbracht werden. Die Teilnahme an Wanderfahrten legt die konditionellen Grundlagen, die uns das Rudern über lange Strecken ermöglichen und stellt gleichzeitig eine gute Möglichkeit zum Teambuilding dar.
 
-[Hier geht es zu den Trainingsterminen + Wanderfahrten + Regatten 2024](https://wanderrudern.de/html/marathontermine2024.html/TODO)
+[Hier geht es zu den Trainingsterminen + Wanderfahrten + Regatten 2024](/ausschreibungen/2024/marathontermine.md)
 
 Im Vorfeld vor Regatten entscheiden die einzelnen Mannschaften individuell, in welchem Umfang sie sich auf die Regatta vorbereiten wollen. Dies kann von nur 3 gemeinsamen Ruderterminen bis hin zu einer mehr-monatigen Vorbereitungszeit mit monatlich 2 Langstrecken- und mehreren Kurzstrecken-Trainings reichen. Die Bereitschaft für die eine oder die andere Art der Vorbereitung entscheidet dabei über die Zusammensetzungen der Mannschaften.
 
@@ -86,7 +86,7 @@ Fragen?
 
 Wir KSTler (Nirina, Johanna, Paul, Tim) stehen gerne für Fragen bereit und freuen uns über alle, die mit uns in einem Boot sitzen oder Marathonwettkämpfe gegen uns bestreiten. Für Ideen und Anregungen haben wir immer ein offenes Ohr.
 
-Fragen und Anregungen bitte an Nirina  ([marathon@wanderrudern.de](mailto:marathon@wanderrudern.de)).
+Fragen und Anregungen bitte an Nirina: ([{{< vorstand-email "Ruderwart Marathon">}}](mailto:{{< vorstand-email "Ruderwart Marathon">}})).
 
 Gerne organisieren wir auch vereinsübergreifenden Bootstransporte zu Marathonregatten.
 
