@@ -21,6 +21,8 @@ disable = true
 
 #[markup.goldmark.parser]
 #wrapStandAloneImageWithinParagraph = false
+[markup.goldmark.renderHooks.link]
+enableDefault = true
 
 [security]
 enableInlineShortcodes = true

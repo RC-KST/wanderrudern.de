@@ -1,4 +1,4 @@
-_merge = "deep"
+_merge = "shallow" # deep
 
 title = "Ruderclub Kleinmachnow Stahnsdorf Teltow e.V."
 baseURL = "https://wanderrudern.de"
@@ -8,7 +8,7 @@ theme = "kstview"
 languageCode = "de"
 defaultContentLanguage = "de"
 
-staticDir = ["static", "archive"] # "site_archive"
+staticDir = ["static"] #, "archive"]
 
 [params]
 archive_base = "/archive"
@@ -29,19 +29,21 @@ home.english_basepage = "/introduction"
 home.news_count = 10
 home.trip_announcement_count = 10
 
-author.name = "Paul Seydel"
-author.email = "website@rckst.de"
+author.name = "Stefan Biastock"
+author.email = "info@wanderrudern.de"
 
 footer.socials = [
     { image = "bundle/facebook-icon-light.svg", href ="https://www.facebook.com/wanderrudern" },
 ]
+
 # key is the translation key
-footer.links = { imprint = "/club/impressum", data_protection = "/club/datenschutz" }
+footer.links.imprint = "/club/impressum"
+footer.links.data_protection = "/club/datenschutz"
 
 meta.publisher = "Ruderclub Kleinmachnow Stahnsdorf Teltow"
 meta.copyright = "Stefan Biastock"
 meta.page_topic = "Sport"
-meta.page_type = "Vereinspage"
+meta.page_type = "Vereinsseite"
 meta.revisit_after = "4 weeks"
 meta.default_tags = [
     "Wanderrudern","Rudern","wanderrudern","rudern","rowing","Ruderboot","Ruderer","Freizeit",
