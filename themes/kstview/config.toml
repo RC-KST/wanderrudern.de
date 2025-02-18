@@ -16,8 +16,8 @@ disable = true
 #neuigkeiten = '/neuigkeiten/:year/:month/:slug'
 #ausschreibungen = '/ausschreibungen/:year/:month/:slug'
 
-#[renderer]
-#unsafe = false
+[markup.goldmark.renderer]
+unsafe = true
 
 #[markup.goldmark.parser]
 #wrapStandAloneImageWithinParagraph = false

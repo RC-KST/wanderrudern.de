@@ -1,7 +1,11 @@
 +++
 title = "Island 2022"
+author = ""
 date = 2022-08-08T01:00:00+02:00
 begin = "2022-08-01"
+"gewässer" = ["inn", "aller", "oste", "oder", "po", "etsch"]
+"länder" = ["dänemark"]
+"typ" = "wanderfahrt"
 [[images]]
 title = "Inrigger auf dem Weg nach Island 2022"
 src = "images/Inrigger_auf_dem_Weg_nach_Island_2022.jpg"

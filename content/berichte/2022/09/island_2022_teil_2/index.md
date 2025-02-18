@@ -1,7 +1,11 @@
 +++
 title = "Island 2022"
+author = ""
 date = 2022-09-09T01:00:00+02:00
 begin = "2022-09-01"
+"gewässer" = ["oste", "oder", "po"]
+"länder" = ["deutschland", "frankreich"]
+"typ" = "wanderfahrt"
 [[images]]
 title = "Fossatun mit Elfenhäusern Island 2022"
 src = "images/Fossatun_mit_Elfenhausern_Island_2022.jpg"

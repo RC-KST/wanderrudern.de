@@ -1,7 +1,11 @@
 +++
 title = "Finnland Inari 2022"
+author = ""
 date = 2022-07-07T01:00:00+02:00
 begin = "2022-07-01"
+"gewässer" = ["inn", "saar", "aller", "oste", "oder", "po", "erne", "saimaa", "nitsijärvi", "ivalojoki"]
+"länder" = ["finnland", "schweden"]
+"typ" = "wanderfahrt"
 [[images]]
 title = "warten auf die Fähre in Rostock 2022"
 src = "images/warten_auf_die_Fahre_in_Rostock_2022.jpg"
