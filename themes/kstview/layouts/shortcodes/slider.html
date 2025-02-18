@@ -11,24 +11,31 @@
         relative m-auto hover:opacity-90 flex"
         style="transition: opacity .3s ease-in-out;"
         id="slideshow_{{ $slideshow_id }}">
-        <div class="flex-grow block" onclick="slideshow_onclick_{{ $sid }}()">
+        <div id="slideshow-{{$slideshow_id}}-container" class="flex-grow block">
             {{ .Inner }}
         </div>
-        <a class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
+        <a id="slideshow-{{ $slideshow_id }}-prev" class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
                 text-white font-bold rounded-r-md select-none
                 hover:bg-black hover:bg-opacity-90"
             style="transition: 0.6s ease;"
-            onclick="slides_next_{{$sid}}(-1)">&#10094;</a>
-        <a class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
+            >&#10094;</a>
+        <a id="slideshow-{{ $slideshow_id }}-next" class="text-2xl cursor-pointer absolute top-1/2 w-auto mt-[-22pt] p-4 
                 text-white font-bold rounded-l-md select-none right-0
                 hover:bg-black hover:bg-opacity-90"
             style="transition: 0.6s ease;"
-            onclick="slides_next_{{$sid}}(1)">&#10095;</a>
+            >&#10095;</a>
     </div>
     <div class="flex flex-row justify-center py-2 text-center" id="dot_{{ $slideshow_id }}">
     </div>
 
     <script>
+        const slider = document.getElementById("slider");
+        {
+            document.getElementById("slideshow-{{ $slideshow_id }}-container").addEventListener("click", slideshow_onclick_{{ $sid }});
+            document.getElementById("slideshow-{{ $slideshow_id }}-prev").addEventListener("click", function() { slides_next_{{$sid}}(-1); })
+            document.getElementById("slideshow-{{ $slideshow_id }}-next").addEventListener("click", function() { slides_next_{{$sid}}(1); })
+        }
+
         const TIMEOUT_MS_{{$sid}} = 6 * 1000;
 
         // TODO: Should work without any changes?

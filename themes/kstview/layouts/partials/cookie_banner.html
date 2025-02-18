@@ -9,8 +9,7 @@
                 <a target="_blank" href="{{ .Site.Params.cookiebanner.more_here }}" class="py-1 px-4">
                     {{- i18n "cookiebanner_more_here" -}}
                 </a>
-                <button class="cursor-pointer rounded bg-blue-300 py-1 px-4 hover:opacity-70"
-                    onclick="setCookieState('accepted', true); cookiesUpdate();">
+                <button id="cookie-banner-accept" class="cursor-pointer rounded bg-blue-300 py-1 px-4 hover:opacity-70">
                     {{- i18n "cookiebanner_accept_essential_cookies" -}}
                 </button>
             </div>
@@ -18,6 +17,11 @@
     </div>
 </div>
 <script defer type="text/javascript">
+
+    document.getElementById("cookie-banner-accept").addEventListener("click", function() {
+        setCookieState('accepted', true);
+        cookiesUpdate();
+    });
 
     let COOKIE_STATE_KEY = "cookie_management";
     let COOKIE_BANNER_ID = "cookie-banner";

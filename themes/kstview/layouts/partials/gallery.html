@@ -1,10 +1,10 @@
 {{- $images := page.Params.images }}
 <div class="w-full flex flex-col justify-center">
-    <div id="gallery_container" class="flex flex-row flex-wrap flex-shrink justify-center">
+    <div id="gallery-container" class="flex flex-row flex-wrap flex-shrink justify-center">
         {{- range $idx, $img := $images }}
             {{- $image_resource := page.Resources.Get $img.src}}
             {{- with $image_resource.Fill "150x150" -}}
-            <a data-href="{{ $image_resource.Permalink }}" class="m-1 cursor-pointer px-0" onclick="event.stopPropagation(true); openModal({{ $idx }})">
+            <a data-href="{{ $image_resource.Permalink }}" class="gallery-container-image m-1 cursor-pointer px-0">
                 <img src="{{ .Permalink }}"
                     width="{{ .Width }}"
                     height="{{ .Height }}"
@@ -14,28 +14,61 @@
             {{- end }}
         {{- end -}}
     </div>
-    <div id="gallery_modal" class="hidden z-20 fixed w-full h-screen left-0 top-0 bg-black/70" onclick="event.stopPropagation(true); closeModal()">
+    <div id="gallery-modal" class="gallery-modal-close-btn hidden z-20 fixed w-full h-screen left-0 top-0 bg-black/70">
         <div class="flex flex-nowrap h-full w-full">
             <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-5 mt-2 text-2xl text-white">
                 <div class="flex flex-row flex-nowrap flex-grow items-center">
-                    <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden" onclick="event.stopPropagation(true); incModal(-1)">&#10094;</a>
-                    <div id="gallery_modal_image" class="bg-contain bg-center bg-no-repeat h-full flex-grow" onclick="event.stopPropagation(true)"></div>
-                    <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden" onclick="event.stopPropagation(true); incModal(1)">&#10095;</a>
+                    <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10094;</a>
+                    <div id="gallery-modal-image" class="bg-contain bg-center bg-no-repeat h-full flex-grow"></div>
+                    <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10095;</a>
                 </div>
                 <div class="flex flex-row justify-around flex-nowrap">
-                    <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden" onclick="event.stopPropagation(true); incModal(-1)">&#10094;</a>
+                    <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden">&#10094;</a>
                     <div class="flex flex-row flex-nowrap justify-center mt-[0.5] items-center">
-                        <span id="gallery_modal_text" class="flex justify-center flex-grow-0"></span>
-                        <a class="flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-2" onclick="event.stopPropagation(true); closeModal()"> &#10006; </a>
+                        <span id="gallery-modal-text" class="flex justify-center flex-grow-0"></span>
+                        <a class="gallery-modal-close-btn flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-2"> &#10006; </a>
                     </div>
-                    <a class="cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden" onclick="event.stopPropagation(true); incModal(1)">&#10095;</a>
+                    <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden">&#10095;</a>
                 </div>
                 <!--<img class="w-full overflow-hidden max-h-screen object-contain"  src="" alt="" title=""/>-->
             </div>
         </div>
     </div>
     <script type="text/javascript">
-    const images_len = document.getElementById("gallery_container").children.length;
+
+    const gallery = document.getElementById("gallery-container");
+    {
+        const container_images = gallery.getElementsByClassName("gallery-container-image");
+        for (let i = 0; i < container_images.length; i++) container_images[i].addEventListener("click", function() {
+            event.stopPropagation(true);
+            openModal(i);
+        });
+
+        const prev_btns = gallery.getElementsByClassName("gallery-modal-prev-btn");
+        for (let i = 0; i < prev_btns.length; i++) {
+            prev_btns[i].addEventListener("click", function() {
+                event.stopPropagation(true);
+                incModal(-1);
+            });
+        }
+        const next_btns = gallery.getElementsByClassName("gallery-modal-next-btn");
+        for (let i = 0; i < next_btns.length; i++) {
+            next_btns[i].addEventListener("click", function() {
+                event.stopPropagation(true);
+                incModal(1);
+            });
+        }
+
+        const close_elements = gallery.getElementsByClassName("gallery-modal-close-btn")
+        for (let i = 0; i < close_elements.length; i++) {
+            close_elements[i].addEventListener("click", function() {
+                event.stopPropagation(true);
+                closeModal();
+            });
+        }
+    }
+
+    const images_len = gallery.children.length;
 
     let slide = -1;
     let xoffset = -1;
@@ -46,22 +79,22 @@
     }
 
     function openModal(idx) {
-        const images = document.getElementById("gallery_container").children;
+        const images = document.getElementById("gallery-container").children;
         slide = idx;
         if (idx == -1) return closeModal();
         xoffset = window.pageXOffset;
         yoffset = window.pageYOffset;
         window.onscroll = () => window.scroll(xoffset, yoffset)
 
-        let modal_img_container = document.getElementById("gallery_modal");
+        let modal_img_container = document.getElementById("gallery-modal");
         modal_img_container.style.display = "block";
 
-        let text_container = document.getElementById("gallery_modal_text");
+        let text_container = document.getElementById("gallery-modal-text");
         text_container.innerText = `${slide + 1} / ${images_len}`;
 
 
         let image_href = images[slide].getAttribute("data-href");
-        let img = document.getElementById("gallery_modal_image");
+        let img = document.getElementById("gallery-modal-image");
         img.style.backgroundImage = `url(${image_href})`;
     }
 
@@ -70,11 +103,11 @@
         window.onscroll = undefined;
         xoffset = -1;
         yoffset = -1;
-        var modal_img_container = document.getElementById("gallery_modal");
+        var modal_img_container = document.getElementById("gallery-modal");
         modal_img_container.style.display = "none";
 
 
-        let img = document.getElementById("gallery_modal_image");
+        let img = document.getElementById("gallery-modal-image");
         img.style.backgroundImage = "";
         //let img = modal_img_container.getElementsByTagName("img")[0];
         //img.setAttribute("src", "");
