@@ -33,7 +33,7 @@
   }
 
   p {
-    @apply leading-6 my-1 text-justify
+    @apply leading-6 my-3 text-justify
   }
 
   strong {
