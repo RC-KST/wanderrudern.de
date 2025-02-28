@@ -16,6 +16,7 @@ translationKey = "_index"
 
 {{< column-layout >}}
 {{% col %}}
+- [Rudertermine](/club/wochentermine.md)
 - [Marathonrudern](/club/marathon)
 - [Was ist Wanderrudern](/club/infos/was-ist-wanderrudern)
 - [Wann und wo rudern?](/club/infos/wann-und-wo-rudern)

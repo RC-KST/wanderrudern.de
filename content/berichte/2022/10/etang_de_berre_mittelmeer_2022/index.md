@@ -3,9 +3,9 @@ title = "Etang de Berre Mittelmeer 2022"
 author = ""
 date = 2022-10-10T01:00:00+02:00
 begin = "2022-10-01"
-"gewässer" = ["drau", "rhein", "aller", "teltowkanal", "oder", "rhone", "etang de berre", "po", "erne"]
+"gewässer" = ["oder", "rhone", "mittelmeer", "etang de berre"]
 "länder" = ["deutschland", "frankreich"]
-"typ" = "wanderfahrt"
+"typ" = "marathon"
 [[images]]
 title = "Girlies im Quartier La Couronne Marseille 2022"
 src = "images/Girlies_im_Quartier_La_Couronne_Marseille_2022.jpg"
@@ -206,6 +206,13 @@ title = "Rückreise aus Südfrankreich 2022"
 src = "images/Ruckreise_aus_Sudfrankreich_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Südfranzösische Küste bei Marseille
 

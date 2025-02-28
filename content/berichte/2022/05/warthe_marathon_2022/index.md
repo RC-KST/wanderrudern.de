@@ -3,9 +3,9 @@ title = "Warthe Marathon 2022"
 author = ""
 date = 2022-05-05T01:00:00+02:00
 begin = "2022-05-01"
-"gewässer" = ["aller", "elbe", "oste", "warthe", "po"]
+"gewässer" = ["warthe"]
 "länder" = []
-"typ" = "wanderfahrt"
+"typ" = "marathon"
 [[images]]
 title = "Ruderboot am Start Warthemarathon 2022"
 src = "images/Ruderboot_am_Start_Warthemarathon_2022.jpg"
@@ -50,6 +50,13 @@ title = "Ruderboot Start in Zatom Stary Warthe 2022"
 src = "images/Ruderboot_Start_in_Zatom_Stary_Warthe_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Warthe Marathon
 

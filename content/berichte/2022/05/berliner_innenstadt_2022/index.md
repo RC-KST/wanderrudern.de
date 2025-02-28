@@ -3,7 +3,7 @@ title = "Berliner Innenstadt 2022"
 author = ""
 date = 2022-05-05T01:00:00+02:00
 begin = "2022-05-01"
-"gewässer" = ["inn", "aller", "havel", "spree", "teltowkanal", "wannsee", "po"]
+"gewässer" = ["inn", "teltowkanal", "wannsee"]
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -62,6 +62,13 @@ title = "Schleuse Plötzensee Flaggenboot Ruderboot 2022"
 src = "images/Schleuse_Plotzensee_Flaggenboot_Ruderboot_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Berliner Innenstadt
 

@@ -3,7 +3,7 @@ title = "Island 2022"
 author = ""
 date = 2022-08-08T01:00:00+02:00
 begin = "2022-08-01"
-"gewässer" = ["inn", "aller", "oste", "oder", "po", "etsch"]
+"gewässer" = ["oder"]
 "länder" = ["dänemark"]
 "typ" = "wanderfahrt"
 [[images]]
@@ -332,6 +332,13 @@ title = "Abendessen im Hotel Siglufjördur Island 2022"
 src = "images/Abendessen_im_Hotel_Siglufjordur_Island_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Island- Wanderfahrt Teil 1
 

@@ -129,6 +129,7 @@ email = ""
 #languageName = "Deutsch"
 #
 #[languages.en]
+#disabled = true
 #weight = 10
 #languageName = "English"
 

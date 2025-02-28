@@ -3,7 +3,7 @@ title = "Spreewald 2022"
 author = ""
 date = 2022-10-10T01:00:00+02:00
 begin = "2022-10-01"
-"gewässer" = ["aller", "dahme", "spree", "teltowkanal", "spreewald", "köthener see"]
+"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see"]
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -38,6 +38,13 @@ title = "Schleuse Lübben mit Ruderbooten Spreewald 2022"
 src = "images/Schleuse_Lubben_mit_Ruderbooten_Spreewald_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Spreewald Wanderfahrt
 

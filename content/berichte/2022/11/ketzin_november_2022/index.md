@@ -3,7 +3,7 @@ title = "Ketzin November 2022"
 author = ""
 date = 2022-11-11T01:00:00+02:00
 begin = "2022-11-01"
-"gewässer" = ["po"]
+"gewässer" = []
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -32,6 +32,13 @@ title = "Sonnenuntergang am Trebbelsee Ketzin Herbst 2022"
 src = "images/Sonnenuntergang_am_Trebbelsee_Ketzin_Herbst_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Ketzin- Wochenendfahrt
 

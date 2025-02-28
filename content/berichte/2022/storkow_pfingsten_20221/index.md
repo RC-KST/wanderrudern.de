@@ -3,7 +3,7 @@ title = "Storkow Pfingsten 2022"
 author = ""
 date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
-"gewässer" = ["inn", "saar", "aller", "dahme", "oste", "teltowkanal", "wolziger see", "scharmützelsee", "po"]
+"gewässer" = ["dahme", "teltowkanal", "wolziger see", "scharmützelsee"]
 "länder" = ["deutschland"]
 "typ" = "wanderfahrt"
 [[images]]
@@ -41,6 +41,13 @@ title = "Ruderboot Springsee 2022"
 src = "images/Ruderboot_Springsee_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Storkow - Springsee
 

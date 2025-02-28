@@ -3,9 +3,9 @@ title = "Wiking Sternfahrt 2022"
 author = ""
 date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
-"gewässer" = ["elbe", "spree", "teltowkanal"]
+"gewässer" = ["spree", "teltowkanal"]
 "länder" = []
-"typ" = "wanderfahrt"
+"typ" = "marathon"
 [[images]]
 title = "Partytisch des RC KST Wiking 2022"
 src = "images/Partytisch_des_RC_KST_Wiking_2022.jpg"
@@ -23,6 +23,13 @@ title = "Schleuse Kleinmachnow Wiking 2022"
 src = "images/Schleuse_Kleinmachnow_Wiking_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Wiking- Sternfahrt 2018
 

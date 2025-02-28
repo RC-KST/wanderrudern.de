@@ -5,7 +5,7 @@ date = 2022-04-04T01:00:00+02:00
 begin = "2022-04-01"
 "gewässer" = []
 "länder" = []
-"typ" = "wanderfahrt"
+"typ" = "veranstaltung"
 [[images]]
 title = "Proberudern 2022"
 src = "images/Proberudern_2022.jpg"
@@ -41,6 +41,13 @@ title = "Ruderergometer im Einsatz Tag der offenen Tür Rudern 2022"
 src = "images/Ruderergometer_im_Einsatz_Tag_der_offenen_Tur_Rudern_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Tag der offenen Tür 2022
 

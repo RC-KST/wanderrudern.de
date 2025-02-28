@@ -1,5 +1,6 @@
 +++
 title = "Preistabelle Mitgliedschaften"
+weight = 50
 +++
 
 {{< csv-to-table "preise.csv" >}}

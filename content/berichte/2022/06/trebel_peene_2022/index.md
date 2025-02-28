@@ -3,7 +3,7 @@ title = "Trebel Peene 2022"
 author = ""
 date = 2022-06-06T01:00:00+02:00
 begin = "2022-06-01"
-"gewässer" = ["inn", "aller", "peene", "trebel"]
+"gewässer" = ["peene", "trebel"]
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -59,6 +59,13 @@ title = "Abendidyll Nehringen Pferde an der Tränke 2022"
 src = "images/Abendidyll_Nehringen_Pferde_an_der_Tranke_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Trebel - Peene Wanderfahrt
 

@@ -1,6 +1,6 @@
 +++
 title = "Impressum"
-weight = 1
+weight = 0
 +++
 
 ## Impressum

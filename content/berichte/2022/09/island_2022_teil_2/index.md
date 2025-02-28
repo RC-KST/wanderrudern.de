@@ -3,7 +3,7 @@ title = "Island 2022"
 author = ""
 date = 2022-09-09T01:00:00+02:00
 begin = "2022-09-01"
-"gewässer" = ["oste", "oder", "po"]
+"gewässer" = ["oder"]
 "länder" = ["deutschland", "frankreich"]
 "typ" = "wanderfahrt"
 [[images]]
@@ -185,6 +185,13 @@ title = "Inrigger vor dem Eisberg Island 2022"
 src = "images/Inrigger_vor_dem_Eisberg_Island_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Island- Wanderfahrt
 

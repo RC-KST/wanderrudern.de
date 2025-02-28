@@ -9,6 +9,13 @@ begin = "2022-01-01"
 
 +++
 
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
 # DRV- Wanderruderpreis 2021
 
 

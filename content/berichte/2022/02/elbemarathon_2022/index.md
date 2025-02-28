@@ -3,9 +3,9 @@ title = "Elbemarathon 2022"
 author = ""
 date = 2022-02-02T01:00:00+02:00
 begin = "2022-02-01"
-"gewässer" = ["aller", "elbe"]
+"gewässer" = ["elbe"]
 "länder" = []
-"typ" = "wanderfahrt"
+"typ" = "marathon"
 [[images]]
 title = "Ankunft Wittenberg Elbe 2022"
 src = "images/Ankunft_Wittenberg_Elbe_2022.jpg"
@@ -32,6 +32,13 @@ title = "Ruderboot Elbe Marathon 2022"
 src = "images/Ruderboot_Elbe_Marathon_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Elbe- Marathon Februar 2022
 

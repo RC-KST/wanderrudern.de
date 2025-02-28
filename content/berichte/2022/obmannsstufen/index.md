@@ -3,11 +3,18 @@ title = "Finnland Inari 2022"
 author = ""
 date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
-"gewässer" = ["donau", "inn", "rhein", "weser", "elbe", "havel", "teltowkanal", "wannsee", "oder", "erne"]
+"gewässer" = ["donau", "inn", "teltowkanal"]
 "länder" = ["finnland"]
 "typ" = "wanderfahrt"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Obmannsstufen beim RC Kleinmachnow - Stahnsdorf - Teltow
 

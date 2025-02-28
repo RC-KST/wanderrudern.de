@@ -3,7 +3,7 @@ title = "Finnland Inari 2022"
 author = ""
 date = 2022-07-07T01:00:00+02:00
 begin = "2022-07-01"
-"gewässer" = ["inn", "saar", "aller", "oste", "oder", "po", "erne", "saimaa", "nitsijärvi", "ivalojoki"]
+"gewässer" = ["inn", "oder", "nitsijärvi", "ivalojoki"]
 "länder" = ["finnland", "schweden"]
 "typ" = "wanderfahrt"
 [[images]]
@@ -272,6 +272,13 @@ title = "David im Bällebad 2022"
 src = "images/David_im_Ballebad_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Finnland
 

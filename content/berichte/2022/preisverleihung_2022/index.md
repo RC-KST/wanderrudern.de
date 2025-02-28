@@ -5,7 +5,7 @@ date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
 "gewässer" = []
 "länder" = []
-"typ" = "wanderfahrt"
+"typ" = "veranstaltung"
 [[images]]
 title = "Wolfgang Festakt 2022"
 src = "images/Wolfgang_Festakt_2022.jpg"
@@ -47,6 +47,13 @@ title = "Medaillen des Ruderclub Kleinmachnow"
 src = "images/Medaillen_des_Ruderclub_Kleinmachnow.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Preisverleihungen im Rahmen des Tag der Offenen Tür
 

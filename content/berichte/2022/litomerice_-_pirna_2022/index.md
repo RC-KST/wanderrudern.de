@@ -3,7 +3,7 @@ title = "Litomerice - Pirna 2022"
 author = ""
 date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
-"gewässer" = ["elbe", "po"]
+"gewässer" = []
 "länder" = ["deutschland"]
 "typ" = "wanderfahrt"
 [[images]]
@@ -29,6 +29,13 @@ title = "Ruderer Elbsandsteingebirge Elbe 2022"
 src = "images/Ruderer_Elbsandsteingebirge_Elbe_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Adventswanderfahrt 2022
 

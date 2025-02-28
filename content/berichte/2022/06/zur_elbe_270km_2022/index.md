@@ -60,6 +60,13 @@ src = "images/Ruderer_im_Boot_Pause_Marathon_2022.jpg"
 
 +++
 
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
 # Stahnsdorf - Schnackenburg/Elbe
 
 

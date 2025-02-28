@@ -3,9 +3,9 @@ title = "Tour du Lac Leman 2022"
 author = ""
 date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
-"gewässer" = ["inn", "rhein", "aller", "oste", "oder", "netze", "bug", "po", "erne", "shannon"]
+"gewässer" = ["rhein", "oder", "bug", "shannon"]
 "länder" = ["schweiz"]
-"typ" = "wanderfahrt"
+"typ" = "marathon"
 [[images]]
 title = "Baumgarten Marathon Genf 2022"
 src = "images/Baumgarten_Marathon_Genf_2022.jpg"
@@ -53,6 +53,13 @@ title = "Lac Leman 2022 Mittagessen"
 src = "images/Lac_Leman_2022_Mittagessen.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # 160 km in 14h:22min
 

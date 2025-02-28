@@ -3,7 +3,7 @@ title = "Rhein Silvester 2022"
 author = ""
 date = 2022-05-05T01:00:00+02:00
 begin = "2022-05-01"
-"gewässer" = ["rhein", "main", "neckar", "lahn", "mosel", "oste"]
+"gewässer" = ["rhein", "neckar"]
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -62,6 +62,13 @@ title = "Silvesteressen in Dormagen 2022"
 src = "images/Silvesteressen_in_Dormagen_2022.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Rhein- Wanderfahrt
 

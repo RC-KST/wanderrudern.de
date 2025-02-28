@@ -1,5 +1,6 @@
 +++
 title = "Gäste"
+weight = 10
 +++
 
 **Übernachtungen für Wasserwanderer** sind bei uns möglich.

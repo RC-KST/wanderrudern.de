@@ -3,7 +3,7 @@ title = "Ketzin Maerz 2022"
 author = ""
 date = 2022-03-03T01:00:00+02:00
 begin = "2022-03-01"
-"gewässer" = ["inn", "havel", "po"]
+"gewässer" = ["havel"]
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -35,6 +35,13 @@ title = "LRV Brandenburg Versammlung"
 src = "images/LRV_Brandenburg_Versammlung.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Ketzin - Brandenburg/Havel
 

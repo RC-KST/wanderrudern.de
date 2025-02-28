@@ -13,32 +13,34 @@
             </a>
             {{- end }}
         {{- end -}}
-    </div>
-    <div id="gallery-modal" class="gallery-modal-close-btn hidden z-20 fixed w-full h-screen left-0 top-0 bg-black/70">
-        <div class="flex flex-nowrap h-full w-full">
-            <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-5 mt-2 text-2xl text-white">
-                <div class="flex flex-row flex-nowrap flex-grow items-center">
-                    <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10094;</a>
-                    <div id="gallery-modal-image" class="bg-contain bg-center bg-no-repeat h-full flex-grow"></div>
-                    <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10095;</a>
-                </div>
-                <div class="flex flex-row justify-around flex-nowrap">
-                    <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden">&#10094;</a>
-                    <div class="flex flex-row flex-nowrap justify-center mt-[0.5] items-center">
-                        <span id="gallery-modal-text" class="flex justify-center flex-grow-0"></span>
-                        <a class="gallery-modal-close-btn flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-2"> &#10006; </a>
+        <div id="gallery-modal" class="gallery-modal-close-btn hidden z-20 fixed w-full h-screen left-0 top-0 bg-black/70">
+            <div class="flex flex-nowrap h-full w-full">
+                <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-5 mt-2 text-2xl text-white">
+                    <div class="flex flex-row flex-nowrap flex-grow items-center">
+                        <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10094;</a>
+                        <div id="gallery-modal-image" class="bg-contain bg-center bg-no-repeat h-full flex-grow"></div>
+                        <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10095;</a>
                     </div>
-                    <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden">&#10095;</a>
+                    <div class="flex flex-row justify-around flex-nowrap">
+                        <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden">&#10094;</a>
+                        <div class="flex flex-row flex-nowrap justify-center mt-[0.5] items-center">
+                            <span id="gallery-modal-text" class="flex justify-center flex-grow-0"></span>
+                            <a class="gallery-modal-close-btn flex flex-row flex-nowrap flex-grow-0 justify-center cursor-pointer rounded text-white p-2"> &#10006; </a>
+                        </div>
+                        <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline md:hidden">&#10095;</a>
+                    </div>
+                    <!--<img class="w-full overflow-hidden max-h-screen object-contain"  src="" alt="" title=""/>-->
                 </div>
-                <!--<img class="w-full overflow-hidden max-h-screen object-contain"  src="" alt="" title=""/>-->
             </div>
         </div>
     </div>
     <script type="text/javascript">
 
     const gallery = document.getElementById("gallery-container");
+    let images_len = 0;
     {
         const container_images = gallery.getElementsByClassName("gallery-container-image");
+        images_len = container_images.length;
         for (let i = 0; i < container_images.length; i++) container_images[i].addEventListener("click", function() {
             event.stopPropagation(true);
             openModal(i);
@@ -68,7 +70,6 @@
         }
     }
 
-    const images_len = gallery.children.length;
 
     let slide = -1;
     let xoffset = -1;

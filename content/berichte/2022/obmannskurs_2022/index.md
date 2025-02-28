@@ -3,7 +3,7 @@ title = "Obmannskurs 2022"
 author = ""
 date = 2022-01-01T01:00:00+02:00
 begin = "2022-01-01"
-"gewässer" = ["po"]
+"gewässer" = []
 "länder" = []
 "typ" = "wanderfahrt"
 [[images]]
@@ -14,6 +14,13 @@ title = "Obammnskurs 2022 das neue Ergometer"
 src = "images/Obammnskurs_2022_das_neue_Ergometer.jpg"
 
 +++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
 
 # Obmannskurs 2022
 

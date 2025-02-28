@@ -45,6 +45,13 @@ src = "images/Ziel_Elbe_November_2022_Hinzdorf_Gluhwein.jpg"
 
 +++
 
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
 # Stahnsdorf zur Elbe 191 km
 
 
