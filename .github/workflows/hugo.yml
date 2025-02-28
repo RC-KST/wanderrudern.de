@@ -36,10 +36,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: "${{ contains(github.event.head_commit.message, '[build]') || contains(github.event_name, 'workflow') }}"
+    if: github.ref == 'refs/heads/master'
     env:
       HUGO_VERSION: 0.136.5
     steps:
-      - uses: actions/checkout@v4
+      #- uses: actions/checkout@v4
       
       - name: Install Hugo CLI
         run: |
@@ -59,11 +60,13 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
+            util_hashing
             node_modules
             resources
             public
           key: buildstate
-    
+      - name: Create Hashfile
+        run: "./util/create_file_hashes.sh"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -81,6 +84,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          name: site-output-artifact
           path: ./public
 #      - name: Save cache
 #      - uses: actions/cache/save@v4
@@ -102,3 +106,43 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy_sftp:
+    environment:
+      name: couchramen-it
+    runs-on: ubuntu-latest
+    needs: build
+    env:
+      BASEURL: https://couchramen-it.de
+    steps:
+      #- uses: actions/checkout@v4
+      #- uses: actions/download-artifact@v4
+      
+
+      - name: Install lftp
+        run: |
+          sudo apt-get update -qy
+          sudo apt-get install -y lftp
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site-output-artifact
+          path: ./public
+
+      - name: Diff artifact files and create Sftp Batchfile
+        run: "./util/diff_files.sh"
+      - name: Upload
+        run: |
+          lftp \
+            -u "$SFTP_USER,$SFTP_PASSWORD" \
+            -p 22 \
+            sftp://ssh.strato.de \
+            <./util_hashing/update.sftp
+
+
