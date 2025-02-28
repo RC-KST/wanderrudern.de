@@ -34,26 +34,26 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [x] Tags
     - [x] Waters
     - [X] Bilder
-- [ ] Neuigkeiten
-    - [ ] News Layout
-    - [ ] Sorting
-    - [ ] Next/Prev News
-    - [ ] Pagination
-- [ ] Homepage
-    - [ ] Seite layout
-    - [ ] Seite content
+- [x] Neuigkeiten
+    - [x] News Layout
+    - [x] Sorting
+    - [x] Next/Prev News
+    - [x] Pagination
+- [x] Homepage
+    - [x] Seite layout
+    - [x] Seite content
 - [ ] Spezielle Seiten
     - [ ] Anfahrt
     - [ ] Ruderzeiten
-    - [ ] Mitglieder-Beiträge
+    - [x] Mitglieder-Beiträge
     - [ ] Clubkleidung?
     - [ ] Vorstand
-    - [ ] Wettbewerbe
+    - [x] Wettbewerbe
 - [ ] ~Drop-Downs in Bar~
 - [ ] ~Mobile Layout~
     - [ ] ~Hamburger-Menu~
     - [ ] ~Bild Main site~
-- [ ] Add tags inside header for better SEO
+- [x] Add tags inside header for better SEO
 - [ ] Sponsoren
 
 - [ ] Migration alte Seite
@@ -65,6 +65,6 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 
 ### Libs/Dependencies
 - [x] Tailwind (-> npm)
-- [ ] lnr.js (suche inklusive nachladen vom Suchindex)
+- [ ] ~lnr.js (suche inklusive nachladen vom Suchindex)~
 - [ ] ~Alpine-js fuer simples js~
-- [ ] Leaflet fuer Anfahrt?
+- [ ] ~Leaflet fuer Anfahrt?~ (for now)
