@@ -127,12 +127,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
           name: site-output-artifact
           path: ./public
+      - name: Extract artifact
+        run: "cd ./public && tar -xf ./artifact.tar"
 
       - name: Diff artifact files and create Sftp Batchfile
         run: "./util/diff_files.sh"
