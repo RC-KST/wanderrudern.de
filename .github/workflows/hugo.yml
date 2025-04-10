@@ -154,6 +154,9 @@ jobs:
       - name: Diff artifact files and create Sftp Batchfile
         run: "./util/diff_files.py"
       - name: Upload
+        env:
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
         run: |
           lftp \
             -u "$SFTP_USER,$SFTP_PASSWORD" \
