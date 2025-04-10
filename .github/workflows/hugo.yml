@@ -68,13 +68,12 @@ jobs:
 
       - name: Create Hashfile
         run: "./util/create_file_hashes.py"
-      - name: Commit new Hashfile
-        run: |
-          git config --global user.name 'CI'
-          git config --global user.email 'asderuiner@gmail.com'
-          git add -f ./util_hashing/hashes.chk
-          git commit -m "hasfile update"
-          git push
+      - name: Upload file hashes as an Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: hashes
+          path: ./util_hashing/hashes.chk
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -130,10 +129,17 @@ jobs:
         run: |
           sudo apt-get update -qy
           sudo apt-get install -y lftp python3
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
+      - name: Download hashes artifact
+        run: "mkdir -p ./.util_hashing"
+        uses: actions/download-artifact@v4
+        with:
+          name: hashes
+          path: ./util_hashing/
           
       - name: Download artifact
         uses: actions/download-artifact@v4
