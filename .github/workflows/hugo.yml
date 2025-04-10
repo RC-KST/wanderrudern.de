@@ -27,15 +27,10 @@ defaults:
     shell: bash
 
 jobs:
-#  show_event:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Show event_name
-#        run: "echo ${{ github.event_name }}"
   # Build job
   build:
     runs-on: ubuntu-latest
-    if: "${{ github.ref == 'refs/heads/main' && (contains(github.event.head_commit.message, '[build]') || contains(github.event_name, 'workflow')) }}"
+    if: "${{ github.ref == 'refs/heads/main' }}" # && (contains(github.event.head_commit.message, '[build]') || contains(github.event_name, 'workflow'))
     env:
       HUGO_VERSION: 0.136.5
     steps:
@@ -74,11 +69,6 @@ jobs:
 
       - name: Create Hashfile
         run: "./util/create_file_hashes.py"
-        #- name: Upload file hashes as an Artifact
-        #  uses: actions/upload-artifact@v4
-        #  with:
-        #    name: hashes
-        #    path: ./util_hashing/hashes.chk
 
       - name: Setup Pages
         id: pages
@@ -172,6 +162,7 @@ jobs:
 
       - name: Diff artifact files and create Sftp Batchfile
         run: "./util/diff_files.py"
+
       - name: Upload
         env:
           SFTP_USER: ${{ secrets.SFTP_USER }}
@@ -182,5 +173,4 @@ jobs:
             -p 22 \
             sftp://ssh.strato.de \
             <./util_hashing/update.sftp
-
 
