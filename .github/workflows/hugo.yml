@@ -69,7 +69,7 @@ jobs:
       - name: Create Hashfile
         run: "./util/create_file_hashes.py"
       - name: Upload file hashes as an Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: hashes
           path: ./util_hashing/hashes.chk
