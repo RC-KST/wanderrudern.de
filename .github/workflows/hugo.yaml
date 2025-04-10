@@ -84,7 +84,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ vars.PAGE_BASE_URL }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
