@@ -40,7 +40,10 @@ jobs:
       HUGO_VERSION: 0.136.5
     steps:
       #- uses: actions/checkout@v4
-      
+      - name: Install python3
+        run: |
+          sudo apt-get update -qy
+          sudo apt-get install -y python3
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
@@ -55,17 +58,22 @@ jobs:
           submodules: recursive
 
       - name: Cache build state
-        id: cache-node_modules
         uses: actions/cache@v4
         with:
           path: |
-            util_hashing
             node_modules
             resources
             public
           key: buildstate
+
       - name: Create Hashfile
-        run: "./util/create_file_hashes.sh"
+        run: "./util/create_file_hashes.py"
+      - name: Commit new Hashfile
+        run: |
+          git config --global user.name 'CI'
+          git config --global user.email 'asderuiner@gmail.com'
+          git commit -am "hasfile update"
+          git push
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -85,14 +93,15 @@ jobs:
         with:
           name: site-output-artifact
           path: ./public
-#      - name: Save cache
-#      - uses: actions/cache/save@v4
-#        with:
-#          path: |
-#            node_modules
-#            resources
-#            public
-#          key: buildstate
+
+      - name: Save cache
+      - uses: actions/cache/save@v4
+        with:
+          path: |
+            node_modules
+            resources
+            public
+          key: buildstate
 
   # Deployment job
   deploy:
@@ -118,11 +127,10 @@ jobs:
       #- uses: actions/download-artifact@v4
       
 
-      - name: Install lftp
+      - name: Install lftp and python3
         run: |
           sudo apt-get update -qy
-          sudo apt-get install -y lftp
-
+          sudo apt-get install -y lftp python3
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -137,7 +145,7 @@ jobs:
         run: "cd ./public && tar -xf ./artifact.tar"
 
       - name: Diff artifact files and create Sftp Batchfile
-        run: "./util/diff_files.sh"
+        run: "./util/diff_files.py"
       - name: Upload
         run: |
           lftp \
