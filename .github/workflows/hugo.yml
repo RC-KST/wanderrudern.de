@@ -66,13 +66,19 @@ jobs:
             public
           key: buildstate
 
+      - name: Cache hash file
+        uses: actions/cache@v4
+        with:
+          path: util_hashing/hashes.chk
+          key: update_hashes
+
       - name: Create Hashfile
         run: "./util/create_file_hashes.py"
-      - name: Upload file hashes as an Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: hashes
-          path: ./util_hashing/hashes.chk
+        #- name: Upload file hashes as an Artifact
+        #  uses: actions/upload-artifact@v4
+        #  with:
+        #    name: hashes
+        #    path: ./util_hashing/hashes.chk
 
       - name: Setup Pages
         id: pages
@@ -142,20 +148,28 @@ jobs:
           submodules: recursive
 
       - name: Create working directory
-        run: "mkdir -p ./.util_hashing"
-      - name: Download hashes artifact
-        uses: actions/download-artifact@v4
+        run: "mkdir -p ./util_hashing"
+
+      - name: Cache hash file
+        uses: actions/cache@v4
         with:
-          name: hashes
-          path: ./util_hashing/
+          path: util_hashing/hashes.chk
+          key: update_hashes
+
+      #- name: Download hashes artifact
+      #  uses: actions/download-artifact@v4
+      #  with:
+      #    name: hashes
+      #    path: ./util_hashing/
           
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
           name: site-output-artifact
           path: ./public
+
       - name: Extract artifact
-        run: "cd ./public && tar -xf ./artifact.tar"
+        run: "cd ./public && tar -xf ./artifact.tar && rm artifact.tar"
 
       - name: Diff artifact files and create Sftp Batchfile
         run: "./util/diff_files.py"
