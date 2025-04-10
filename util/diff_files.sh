@@ -9,8 +9,6 @@ SFTP_BATCH_FILE="$UTIL_HASHING_PATH/update.sftp"
 HASHES_FILE="$UTIL_HASHING_PATH/hashes.chk"
 PUBLIC_PATH=$(realpath "$WDIR/../public")
 
-mkdir -p $UTIL_HASHING_PATH;
-test -e "$HASHES_FILE" || touch $HASHES_FILE
 
 CHANGED=($(sha256sum --ignore-missing -c $HASHES_FILE | awk 'match($0, /^([^:]*): +FAILED/, a) { print a[1] }'))
 
@@ -50,7 +48,7 @@ printf "\n\n"
 #done
 
 # Clear and rewrite header section sftp script
-mkdir -p 
+mkdir -p $UTIL_HASHING_PATH
 cat >$SFTP_BATCH_FILE << EOF
 
 EOF
@@ -83,6 +81,6 @@ bye;
 
 EOF
 
-echo ================== OUTPUT FILE ==================
-
-cat $SFTP_BATCH_FILE
+echo ================== OUTPUT FILE GENERATED ==================
+#
+#cat $SFTP_BATCH_FILE
