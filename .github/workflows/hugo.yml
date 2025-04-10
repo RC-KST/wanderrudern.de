@@ -135,8 +135,7 @@ jobs:
         run: |
           mkdir -p ~/.ssh
           printf "ssh.strato.de ssh-ed25519 %s\n" "$REMOTE_PUBLIC_KEY" >> ~/.ssh/known_hosts
-      #- uses: actions/checkout@v4
-      #- uses: actions/download-artifact@v4
+
       - name: Install lftp and python3
         run: |
           sudo apt-get update -qy
