@@ -62,7 +62,7 @@ jobs:
           key: buildstate
 
       - name: Cache hash file
-        if: "{{ !contains(github.event.head_commit.message, '[full]') }}"
+        if: "${{ !contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache@v4
         with:
           path: util_hashing/hashes.chk
@@ -141,7 +141,7 @@ jobs:
         run: "mkdir -p ./util_hashing"
 
       - name: Cache hash file
-        if: "{{ !contains(github.event.head_commit.message, '[full]') }}"
+        if: "${{ ! contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache@v4
         with:
           path: util_hashing/hashes.chk
