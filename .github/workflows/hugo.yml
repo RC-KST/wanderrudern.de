@@ -72,7 +72,8 @@ jobs:
         run: |
           git config --global user.name 'CI'
           git config --global user.email 'asderuiner@gmail.com'
-          git commit -am "hasfile update"
+          git add ./util_hashing/hashes.chk
+          git commit -m "hasfile update"
           git push
       - name: Setup Pages
         id: pages
