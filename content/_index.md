@@ -14,14 +14,17 @@ translationKey = "_index"
         href="#2" >}},
 {{< /slider >}}
 
+{{< center >}}{{< /center >}}
+
 {{< column-layout >}}
 {{% col %}}
+- [Marathonrudern](/club/marathon.md)
 - [Rudertermine](/club/wochentermine.md)
-- [Marathonrudern](/club/marathon)
-- [Was ist Wanderrudern](/club/infos/was-ist-wanderrudern)
-- [Wann und wo rudern?](/club/infos/wann-und-wo-rudern)
+- [Was ist Wanderrudern](/club/infos/was-ist-wanderrudern.md)
+- [Wann und wo rudern?](/club/infos/wann-und-wo-rudern.md)
 {{% /col %}}
 {{% col %}}
+- [Mitglied werden](/club/infos/mitgliedschaft)
 - [Ruderrevier](/club/infos/ruderrevier)
 - [Gäste](/club/gaeste)
 - [Kontakt](/club/vorstand)

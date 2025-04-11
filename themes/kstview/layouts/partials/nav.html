@@ -7,13 +7,17 @@
                 src="{{- (resources.Get .Site.Params.icon_image).Permalink -}}">
             </img>
         </a>
+        {{ with site.Menus.main -}}
         <div class="order-1 flex relative w-auto overflow-x-auto">
-            {{ range $name, $link := $.Site.Params.home.nav_items }}
-            <li class="order-1 w-full text-center items-center font-bold
-                flex-row flex-nowrap flex ml-0 mr-3 md:mr-8">
-                <a class="bg-transparent" href="{{ $.Ref (dict "path" $link "lang" "de") }}">{{ $name | strings.Title }}</a>
+            {{ range . }}
+            <li class="order-1 w-full ml-0 mr-3 md:mr-8
+                rounded-md {{ if $.IsMenuCurrent .Menu . }}bg-black/40{{ end }}">
+                <div class="w-full h-full flex-row flex-nowrap flex text-center items-center font-bold">
+                    <a class="bg-transparent" href="{{ .URL }}">{{ .Name }}</a>
+                </div>
             </li>
-            {{ end }}
+            {{ end -}}
         </div>
+        {{ end -}}
     </ul>
 </nav>

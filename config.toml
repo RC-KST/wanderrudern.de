@@ -36,6 +36,7 @@ footer.socials = [
     { image = "bundle/facebook-icon-light.svg", href ="https://www.facebook.com/wanderrudern" },
 ]
 
+
 # key is the translation key
 footer.links.imprint = "/club/impressum"
 footer.links.data_protection = "/club/datenschutz"
@@ -54,6 +55,23 @@ meta.default_tags = [
 
 cookiebanner.more_here = "https://commission.europa.eu/cookies-policy"
 cookiebanner.data_protection = "/club/datenschutz"
+
+[[menus.main]]
+name = "Club"
+pageRef = "/club"
+weight = 10
+[[menus.main]]
+name = "Neuigkeiten"
+pageRef = "/neuigkeiten"
+weight = 20
+[[menus.main]]
+name = "Berichte"
+pageRef = "/berichte"
+weight = 30
+[[menus.main]]
+name = "Ausschreibungen"
+pageRef = "/ausschreibungen"
+weight = 40
 
 [[params.vorstand]]
 position = ["1. Vorstand", "Sport/Wanderruderwart"]
