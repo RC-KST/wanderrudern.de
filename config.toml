@@ -20,10 +20,10 @@ list.articles_per_site = 50
 list.card_width = "50pt"
 
 # TODO: Use menu items
-home.nav_items."Club" = "/club"
-home.nav_items."Neuigkeiten" = "/neuigkeiten"
-home.nav_items."Berichte" = "/berichte"
-home.nav_items."Ausschreibungen" = "/ausschreibungen"
+#home.nav_items."Club" = "/club"
+#home.nav_items."Neuigkeiten" = "/neuigkeiten"
+#home.nav_items."Berichte" = "/berichte"
+#home.nav_items."Ausschreibungen" = "/ausschreibungen"
 
 home.english_basepage = "/introduction"
 home.news_count = 10
@@ -56,22 +56,22 @@ meta.default_tags = [
 cookiebanner.more_here = "https://commission.europa.eu/cookies-policy"
 cookiebanner.data_protection = "/club/datenschutz"
 
-[[menus.main]]
-name = "Club"
-pageRef = "/club"
-weight = 10
-[[menus.main]]
-name = "Neuigkeiten"
-pageRef = "/neuigkeiten"
-weight = 20
-[[menus.main]]
-name = "Berichte"
-pageRef = "/berichte"
-weight = 30
-[[menus.main]]
-name = "Ausschreibungen"
-pageRef = "/ausschreibungen"
-weight = 40
+#[[menus.main]]
+#name = "Club"
+#pageRef = "/club"
+#weight = 10
+#[[menus.main]]
+#name = "Neuigkeiten"
+#pageRef = "/neuigkeiten"
+#weight = 20
+#[[menus.main]]
+#name = "Berichte"
+#pageRef = "/berichte"
+#weight = 30
+#[[menus.main]]
+#name = "Ausschreibungen"
+#pageRef = "/ausschreibungen"
+#weight = 40
 
 [[params.vorstand]]
 position = ["1. Vorstand", "Sport/Wanderruderwart"]

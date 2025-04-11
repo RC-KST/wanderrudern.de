@@ -47,7 +47,7 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [ ] Ruderzeiten
     - [x] Mitglieder-Beiträge
     - [ ] Clubkleidung?
-    - [ ] Vorstand
+    - [x] Vorstand
     - [x] Wettbewerbe
 - [ ] ~Drop-Downs in Bar~
 - [ ] ~Mobile Layout~
