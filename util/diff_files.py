@@ -54,7 +54,7 @@ def main():
     rm_files = removed
 
     out_str = ""
-    dirs_created: dict[str, None] = {}
+    dirs_created: dict[str, None] = { "/": None }
     for file in put_files:
         file_remote = f"{REMOTE_WDIR}/{os.path.relpath(file, PUBLIC_PATH)}"
         remote_dirname = os.path.dirname(file_remote)

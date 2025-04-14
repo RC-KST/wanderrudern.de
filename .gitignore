@@ -4,4 +4,5 @@
 /node_modules/
 /util_hashing/
 /.env
+/.source_env
 __pycache__/
