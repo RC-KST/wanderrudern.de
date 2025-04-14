@@ -1,4 +1,4 @@
-<nav class="fixed top-0  w-full h-auto z-10 text-white">
+<nav id="nav" class="fixed top-0  w-full h-auto z-10 text-white">
     <div class="h-auto flex flex-row bg-primary-light rounded-md text-lg mx-2 mt-2 flex-nowrap justify-between">
         <a href="{{ (.GetPage "/").Permalink }}" class="flex bg-transparent">
             <img
@@ -7,8 +7,8 @@
             </img>
         </a>
         {{ with site.Menus.main -}}
-        <div class="flex flex-row h-auto w-auto">
-            {{ range . }}
+        <div class="flex-row h-auto w-auto hidden md:flex">
+            {{ range . -}}
             <div class="group relative flex">
                 <a class="h-auto my-1 py-1 ml-0 mr-3 md:mr-8 rounded-md font-bold
                     {{ if or ($.HasMenuCurrent .Menu .) ($.IsMenuCurrent .Menu .) }}bg-black/40{{ else }}bg-transparent{{ end }}
@@ -23,14 +23,45 @@
                     {{ end -}}
                 </div>
             </div>
-            <!--
-                <a class="bg-transparent h-auto" href="{{ .URL }}">{{ .Name }}</a>
-            -->
-
             {{ end -}}
         </div>
+
+
+        <button id="topbar-btn" class="flex text-center md:hidden text-2xl pr-3 m-1">
+            <i class="text-center">&equiv;</i>
+        </button>
         {{ end -}}
     </div>
+    <div id="topbar-panel" class="right-0 w-full text-black md:hidden" style="display: none;">
+        <div class="flex flex-col flex-nowrap m-2 rounded bg-white shadow-sm">
+            {{ with site.Menus.main -}}
+            {{ range . -}}
+            <a class="h-auto my-1 py-1 ml-0 mr-3 md:mr-8 rounded-md font-bold
+                {{ if or ($.HasMenuCurrent .Menu .) ($.IsMenuCurrent .Menu .) }}bg-black/40{{ else }}bg-transparent{{ end }}
+                " href="{{ .URL }}">
+                {{ .Name }}
+            </a>
+            {{ end -}}
+            {{ end -}}
+        </div>
+    </div>
+
+    <script>
+        const nav = document.getElementById("nav");
+        const topbar_btn = document.getElementById("topbar-btn");
+        const topbar_panel = document.getElementById("topbar-panel");
+
+        topbar_btn.addEventListener("click", function() {
+            console.log(topbar_panel.attributes["class"]);
+            topbar_panel.style.display = (topbar_panel.style.display === "none") ? "block" : "none";
+        });
+
+        // Handle autoclosing the topbar on resize
+        const width_match = window.matchMedia("(min-width: 768px)");
+        width_match.addEventListener("change", function() {
+            if (width_match.matches) topbar_panel.style.display = "none";
+        });
+    </script>
     <!--
     <div class="h-auto w-full flex flex-row">
         <div class="m-8 p-5">This is some test</div>
