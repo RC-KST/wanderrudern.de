@@ -2,16 +2,16 @@
 <div class="w-full flex flex-col justify-center">
     <div id="gallery-container" class="flex flex-row flex-wrap flex-shrink justify-center">
         {{- range $idx, $img := $images }}
-            {{- $image_resource := page.Resources.Get $img.src}}
-            {{- with $image_resource.Fill "150x150" -}}
-            <a data-href="{{ $image_resource.Permalink }}" class="gallery-container-image m-1 cursor-pointer px-0">
-                <img src="{{ .Permalink }}"
-                    width="{{ .Width }}"
-                    height="{{ .Height }}"
-                    alt="{{ $img.title }}"
-                    title="{{ $img.title }}" />
-            </a>
-            {{- end }}
+            {{- $image_resource := page.Resources.Get $img.src }}
+            {{- with $image_resource }} {{- with .Fill "150x150" }}
+                <a data-href="{{ $image_resource.Permalink }}" class="gallery-container-image m-1 cursor-pointer px-0">
+                    <img src="{{ .Permalink }}"
+                        width="{{ .Width }}"
+                        height="{{ .Height }}"
+                        alt="{{ $img.title }}"
+                        title="{{ $img.title }}" />
+                </a>
+            {{- end }} {{- end }}
         {{- end -}}
         <div id="gallery-modal" class="gallery-modal-close-btn hidden z-20 fixed w-full h-screen left-0 top-0 bg-black/70">
             <div class="flex flex-nowrap h-full w-full">

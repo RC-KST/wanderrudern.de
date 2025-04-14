@@ -56,23 +56,6 @@ meta.default_tags = [
 cookiebanner.more_here = "https://commission.europa.eu/cookies-policy"
 cookiebanner.data_protection = "/club/datenschutz"
 
-#[[menus.main]]
-#name = "Club"
-#pageRef = "/club"
-#weight = 10
-#[[menus.main]]
-#name = "Neuigkeiten"
-#pageRef = "/neuigkeiten"
-#weight = 20
-#[[menus.main]]
-#name = "Berichte"
-#pageRef = "/berichte"
-#weight = 30
-#[[menus.main]]
-#name = "Ausschreibungen"
-#pageRef = "/ausschreibungen"
-#weight = 40
-
 [[params.vorstand]]
 position = ["1. Vorstand", "Sport/Wanderruderwart"]
 name = "Stefan Biastock"
@@ -136,6 +119,70 @@ email = "sponsoring@wanderrudern.de"
 position = "Veranstaltungen"
 name = ""
 email = ""
+
+
+[[menus.main]]
+name = "Club"
+pageRef = "/club"
+weight = 60
+[[menus.main]]
+name = "Neuigkeiten"
+pageRef = "/neuigkeiten"
+weight = 50
+[[menus.main]]
+name = "Berichte"
+pageRef = "/berichte"
+weight = 40
+[[menus.main]]
+name = "Ausschreibungen"
+pageRef = "/ausschreibungen"
+weight = 30
+
+[[menus.main]]
+name = "Anfänger"
+pageRef = "/club/anfaenger"
+weight = 10
+parent = "Club"
+[[menus.main]]
+name = "Marathon"
+pageRef = "/club/marathon"
+weight = 20
+parent = "Club"
+[[menus.main]]
+name = "Clubkleidung"
+pageRef = "/club/clubkleidung"
+weight = 30
+parent = "Club"
+[[menus.main]]
+name = "Schulungen"
+pageRef = "/club/schulungen"
+weight = 40
+parent = "Club"
+[[menus.main]]
+name = "Gäste"
+pageRef = "/club/gaeste"
+weight = 50
+parent = "Club"
+[[menus.main]]
+name = "Vorstand"
+pageRef = "/club/vorstand"
+weight = 60
+parent = "Club"
+[[menus.main]]
+name = "Wochentermine"
+pageRef = "/club/wochentermine"
+weight = 70
+parent = "Club"
+[[menus.main]]
+name = "Datenschutz"
+pageRef = "/club/datenschutz"
+weight = 80
+parent = "Club"
+[[menus.main]]
+name = "Impressum"
+pageRef = "/club/impressum"
+weight = 90
+parent = "Club"
 
 [taxonomies]
 "gewässer" = "gewässer"

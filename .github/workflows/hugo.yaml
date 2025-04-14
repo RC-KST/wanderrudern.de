@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     if: "${{ github.ref == 'refs/heads/main' }}" # && (contains(github.event.head_commit.message, '[build]') || contains(github.event_name, 'workflow'))
     env:
-      HUGO_VERSION: 0.136.5
+      HUGO_VERSION: 0.146.3
     steps:
       #- uses: actions/checkout@v4
       - name: Install python3

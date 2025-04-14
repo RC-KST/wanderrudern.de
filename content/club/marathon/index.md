@@ -1,5 +1,6 @@
 +++
 title = "Marathonrudern"
+weight = 10
 
 [[images]]
 title = "Eurega Bootsaustattung"

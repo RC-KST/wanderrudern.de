@@ -20,12 +20,12 @@ translationKey = "_index"
 {{% col %}}
 - [Marathonrudern](/club/marathon)
 - [Rudertermine](/club/wochentermine)
-- [Was ist Wanderrudern](/club/infos/was-ist-wanderrudern)
-- [Wann und wo rudern?](/club/infos/wann-und-wo-rudern)
+- [Was ist Wanderrudern](/club/anfaenger/was-ist-wanderrudern)
+- [Wann und wo rudern?](/club/anfaenger/wann-und-wo-rudern)
 {{% /col %}}
 {{% col %}}
-- [Mitglied werden](/club/infos/mitgliedschaft)
-- [Ruderrevier](/club/infos/ruderrevier)
+- [Mitglied werden](/club/anfaenger/mitgliedschaft)
+- [Ruderrevier](/club/anfaenger/ruderrevier)
 - [Gäste](/club/gaeste)
 - [Kontakt](/club/vorstand)
 {{% /col %}}

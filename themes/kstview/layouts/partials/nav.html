@@ -1,23 +1,40 @@
-<nav class="fixed top-0 w-full overflow-hidden z-10 text-white">
-    <ul class="h-12 bg-primary-light list-none rounded-md flex
-        text-lg m-2 flex-nowrap justify-between items-stretch">
+<nav class="fixed top-0  w-full h-auto z-10 text-white">
+    <div class="h-auto flex flex-row bg-primary-light rounded-md text-lg mx-2 mt-2 flex-nowrap justify-between">
         <a href="{{ (.GetPage "/").Permalink }}" class="flex bg-transparent">
             <img
-                class="order-[0] h-full max-w-20 rounded-md p-1 font-bold whitespace-nowrap"
+                class="h-auto max-w-20 rounded-md p-1 font-bold whitespace-nowrap"
                 src="{{- (resources.Get .Site.Params.icon_image).Permalink -}}">
             </img>
         </a>
         {{ with site.Menus.main -}}
-        <div class="order-1 flex relative w-auto overflow-x-auto">
+        <div class="flex flex-row h-auto w-auto">
             {{ range . }}
-            <li class="order-1 w-full ml-0 mr-3 md:mr-8
-                rounded-md {{ if $.IsMenuCurrent .Menu . }}bg-black/40{{ end }}">
-                <div class="w-full h-full flex-row flex-nowrap flex text-center items-center font-bold">
-                    <a class="bg-transparent" href="{{ .URL }}">{{ .Name }}</a>
+            <div class="group relative flex">
+                <a class="h-auto my-1 py-1 ml-0 mr-3 md:mr-8 rounded-md font-bold
+                    {{ if or ($.HasMenuCurrent .Menu .) ($.IsMenuCurrent .Menu .) }}bg-black/40{{ else }}bg-transparent{{ end }}
+                    " href="{{ .URL }}">
+                    {{ .Name }}
+                </a>
+                <div class="flex flex-col absolute invisible group-hover:visible bg-gray-600 min-w-10 z-20 rounded top-10 right-0">
+                    {{ with .Children -}}
+                    {{ range . -}}
+                    <a class="bg-transparent my-1 mx-2" href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end -}}
+                    {{ end -}}
                 </div>
-            </li>
+            </div>
+            <!--
+                <a class="bg-transparent h-auto" href="{{ .URL }}">{{ .Name }}</a>
+            -->
+
             {{ end -}}
         </div>
         {{ end -}}
-    </ul>
+    </div>
+    <!--
+    <div class="h-auto w-full flex flex-row">
+        <div class="m-8 p-5">This is some test</div>
+        <div class="">And this</div>
+    </div>
+    -->
 </nav>

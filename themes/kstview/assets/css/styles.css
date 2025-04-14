@@ -41,7 +41,7 @@
   }
 
   a {
-    @apply no-underline bg-black bg-opacity-5 rounded px-2 text-center;
+    @apply no-underline bg-black bg-opacity-5 rounded px-2;
   }
   a:visited{}
 

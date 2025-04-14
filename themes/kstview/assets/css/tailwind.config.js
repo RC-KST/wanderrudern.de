@@ -9,8 +9,7 @@ module.exports = {
       sans: ["Noto Sans", "sans-serif"],
       serif: ["serif"],
     },
-    extend: {
-    },
+    extend: {},
   },
   plugins: [],
 }
