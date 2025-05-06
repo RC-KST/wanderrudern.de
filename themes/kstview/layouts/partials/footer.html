@@ -1,13 +1,15 @@
-<footer class="min-h-24 flex-shrink-0 justify-center p-5 border-2 border-solid
+<footer class="min-h-10 flex-shrink-0 justify-center p-5 border-2 border-solid
     border-black bg-gray-900 text-white">
-<div class="max-w-5xl mx-auto my-7">
-    <div class="flex flex-row mb-5">
-        <div class="w-full mr-5">
-            <p>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</p>
+<div class="max-w-5xl">
+    <div class="flex flex-col md:flex-row mb-3">
+        <div class="w-full mr-5 mb-3">
+            <div>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</div>
         </div>
         <div class="w-full">
             {{- range $key, $link := .Site.Params.footer.links }}
-                <p><a class="bg-transparent" href="{{ $.Page.Ref (dict "path" $link "lang" "de") }}">{{ i18n $key }}</a></p>
+                <div>
+                    <a class="px-0 bg-transparent" href="{{ $.Page.Ref (dict "path" $link "lang" "de") }}">{{ i18n $key }}</a>
+                </div>
             {{ end }}
         </div>
     </div>
