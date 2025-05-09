@@ -1,0 +1,33 @@
++++
+title = "Schleusenfest Kleinmachnow 2011"
+author = ""
+date = 2011-01-01T01:00:00+02:00
+begin = "2011-01-01"
+"gewässer" = ["oder"]
+"länder" = []
+"typ" = "wanderfahrt"
+[[images]]
+title = "Family Trainer Schleusenfest Kleinmachnow 2011"
+src = "images/Family_Trainer_Schleusenfest_Kleinmachnow_2011.jpg"
+[[images]]
+title = "Barke RC KST Schleusenfest Kleinmachnow 2011"
+src = "images/Barke_RC_KST_Schleusenfest_Kleinmachnow_2011.jpg"
+[[images]]
+title = "Ruderbarke am Steg Schleusenfest Kleinmachnow 2011"
+src = "images/Ruderbarke_am_Steg_Schleusenfest_Kleinmachnow_2011.jpg"
+
++++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
+# Schleusenfest Kleinmachnow 2011
+
+
+Eine der Hauptattraktionen war die Doppelrumpfbarke des Ruderclubs Kleinmachnow.
+
+Man konnte entweder mitrudern oder sich nur durch die Gegend rudern lassen.

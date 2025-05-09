@@ -1,0 +1,21 @@
++++
+title = "Preisverleihung LRV Berlin 2007"
+author = ""
+date = 2007-05-05T01:00:00+02:00
+begin = "2007-05-01"
+"gewässer" = []
+"länder" = []
+"typ" = "wanderfahrt"
+
++++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
+# Die neue Barke zum ersten Mal auf heimatlichen Gewässern
+
+

@@ -1,0 +1,104 @@
++++
+title = "elbe_Hamburg93"
+author = ""
+date = 1993-10-10T01:00:00+02:00
+begin = "1993-10-01"
+"gewässer" = ["mosel", "aller", "elbe", "havel", "plauer see"]
+"länder" = []
+"typ" = "wanderfahrt"
+[[images]]
+title = "Ketzin Ruderer im Quartier"
+src = "images/ketzin2.jpg"
+[[images]]
+title = "Franzi in einer Sportschleuse"
+src = "images/franzi_in_schleuse.jpg"
+[[images]]
+title = "Ruderboot treideln auf der Gülper Havel"
+src = "images/treideln.jpg"
+[[images]]
+title = "Nils auf der Elbe Steuermann"
+src = "images/nils_sendemasten.jpg"
+[[images]]
+title = "Ablegen mit Ruderboot vom Elbestrand"
+src = "images/ablegen_strand.jpg"
+[[images]]
+title = "franzi am strand"
+src = "images/franzi_strand.jpg"
+[[images]]
+title = "andre am strand"
+src = "images/andre_strand.jpg"
+[[images]]
+title = "anna am strand"
+src = "images/anna_strand.jpg"
+[[images]]
+title = "nils am strand"
+src = "images/nils_strand.jpg"
+[[images]]
+title = "Fussweg zum Rudererquartier in Dömitz"
+src = "images/doemitz_fu_weg.jpg"
+[[images]]
+title = "sonnenuntergang"
+src = "images/sonnenuntergang.jpg"
+[[images]]
+title = "lauenburg quartier im Ruderclub"
+src = "images/lauenburg_quartier.jpg"
+[[images]]
+title = "andre"
+src = "images/andre.jpg"
+[[images]]
+title = "Hamburg Stadtbesichtigung Ruderer"
+src = "images/hh_strasse.jpg"
+
++++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
+# Der   Anfang
+
+
+Freitag, den 1. Oktober anno domini 1993. Bei Einbruch der Dunkelheit sticht, völlig überladen und unter anderem mit zwei Steuerbordersatzskulls der Mosel bestens ausgerüstet, die  Allemannia in (Wann-) See. Die Ausleger unter Wasser, ein Spielhall der Wellen, Opfer der Naturgewalten, steuert sie im Dunkel der hereinbrechenden Nacht einer für die nächsten zehn Tage ungewissen Zukunft entgegen.  Unter dem Kommando von Mr. To-live-and-let-die, auch unter dem Namen Stefan Biastock bekannt, stehen Anna Friederike H., Franziska Katharina R., Nils Olaf S. und André L Doch wie ist es dazu gekommen? Nachdem wir uns  beide erst drei Tage vor Abfahrt bei Stefan angemeldet hatten, war geplant, zu sechst mit Mosel und Wagner um 16.30 Uhr abzulegen, um nicht allzu lange nach Einbruch der Dunkelheit (!) im 27 km entfernten Ketzin  anzukommen. Als nun die beiden Boote im Wasser und komplett beladen waren, wartete alles nur noch auf Dörtje. Doch Dörtje kam nicht. Unter großem allseitigen "Frohlocken" entluden wir die Boote und trugen sie  in die Bootshalle zurück. Da die seetauglichen Vierer mit Steuermann nicht abkömmlich waren, blieb uns nichts anderes übrig, als die Allemannia herauszuholen, zu beladen und mit ihr die Fahrt anzutreten.. Nachdem hinter  dem Großen Tiefehorn die Gefahr abzutauchen wenigstens vorläufig gebannt zu sein schien, weil sich die Wogen etwas geglättet hatten, steuerte uns André trotz guter Lichtverhältnisse (Vollmond!) vor dem Jungfernsee in  eine Reuse. Ohne weitere besondere Vorkommnisse erreichten wir in Ketzin den dortigen Ruder- und Yachtclub, wo wir zunächst wegen des zu kurzen und zu hohen, wackelnden Schwimmsteges ein schwieriges Anlegemanöver zu  absolvieren hatten. Die letztlich größte Herausforderung des Tages bestand darin, das vollgelaufene und unter anderem (!) mit 60 1-l FruchtsattTetra- Packs -die uns im Laufe der Fahrt noch viele angenehme Stunden bei  Sodbrennen und Fruchtsäure- Schocks bereiten sollten - beladene Boot an Land zu hieven. Bemerkenswert ist daß Stefan, um die Fahrtkosten zu senken, ohne Auto drei Einkäufe à 45 kg bei Aldi getätigt und zu sich in den  vierten Stock hochgeschleppt hat Vielen Dank, Stefan! Wir kamen im ersten Stock des Vereinheims auf weichem Teppichboden in einem trockenen, geheizten Raum sehr gut unter. In der Baracke auf dem Vereinsgelände waren  auch zwei kriminelle Jugendliche zur Resozialisierung untergebracht, die wir am nächsten Morgen mit unserem Frühstück beim Fernsehen gestört haben. An diesem Tag haben wir es gemächlich angehen lassen. Nachdem wir am  Morgen das Problem mit der Beladung gelöst hatten und durch die Sportbootschleuse in Brandenburg geschleust wurden, ernteten wir auf dem Plauer See bei starkem Seegang vermutlich wegen unserer Üherladung, unseres  offensichtlichen Wagemuts und unserer famosen Rudertechnik ("Darf ich mal 'nen Vorschlag machen?!") erstaunte Blicke und wurden sogar von einem nebenher fahrenden Motorboot aus eine Zeit lang gefilmt. Nach  einer 36-km Tour stießen wir in Plaue auf ein Quartier, das sich nicht gewaschen hatte: Durch die Männerumkleide des P.R.C. gegen mangelnde Hygiene eigentlich bestens abgehärtet, wurde uns dennoch ganz anders, als aus  den Wasserhähnen eine urin-gelhe Flüssigkeit herauskam (in der wir später unsere Tortellini zuhreiten mußten!) und uns ein pestilenzartiger Gestank in die Nase stach. Allerdings haben uns zwei Abstecher in eine  Dorfkneipe, bei denen sich Anna und Franziska nicht sonderlich zurückgehalten haben, und das Pulten auf dem Ergometer im Vereinsheim, durch das André zu Mr. 670-Watt wurde ("cogito ergo sum -Ich glaub, ich hin der  Ergo"), für die Mißlichkeiten entschädigt. An diesem Abend taten sich Abgründe auf, als sich Anna und Franziska in einem nicht enden wollenden Lach- und Kreischkrampf ergingen und Stefan den Fehler beging, ihnen  weiteren Anlaß für neue schreiartige Lachanfälle zu geben, von denen wir im weiteren Verlauf der Fahrt noch einige erleiden mußten. Im übrigen gelang es Anna leider nur allzu oft, ihre Wünsche gegenüber den anderen  Fahrtenteilnehmern durchzusetzen, indem sie ihrer Stimme einen bittenden, weinerlichen Unterton beilegte und die anderen becircte. Wenn dies ausnahmsweise nicht fruchtete, forderte sie ihre Interessen energisch ein.  Dann ließ sich Stefan jedesmal zu folgendem, von Daniel als Jugendbetreuer erstmals im Verein angebrachten Asterix-Zitat hinreißen: "Ich will, ich will, und wenn ich nicht bekomme, was ich will, dann halte ich die  Luft an, bis was passiert!"
+
+Der zweite Tag
+
+Beim Frühstück erwies sich André als Grobmotoriker, als er über die von Stefan fallenartig angelegte Gasleitung stolperte und den Gasherd mitsamt dem darauf  befindlichen mit Milch gefüllten Kochtopf zu Boden gerissen hat. Es sah im ersten Moment wie eine große Sauerei aus. schuf aber im nachhinein den nützlichen Zwang, in dem Vereinsheim wohl zum ersten Mal seit Jahren  aufzuwischen.
+
+Im Regen legten wir ab, beschlossen aber schon nach wenigen Schlägen, mehr naßgeschwitzt als naßgeregnet, unsere Regensachen auszuziehen. Fast zeitgleich setzte auch der Regen aus. Jedoch sorgte André -  in diesen Momenten auch des öfteren "Pottsau" genannt-  für einige Erfrischung, indem er mit seiner ganz persönlichen Rudernote, die er auch für den Rest der Fahrt beibehielt, die hinter ihm Sitzenden von  Zeit zu Zeit ordentlich naßspritzte. Nach 38 km in Rathenow angekommen, erfrischten wir uns mit ein paar Bockbieren, auf die uns zwei Gestalten aufmerksam gemacht hatten, die von der Feier zum 90jährigen Bestehen des  Rathenower Ruderclubs am Vorabend als einzige übrig geblieben waren und ihren Nachdurst stillten. Zwar mußten wir trotz Anmeldung lange auf den Einlaß in unser Quartier warten, wurden dafür jedoch mit einer Unterkunft,  die mit vier Liegen und zwei Tischen für Stefan ausgestattet war, entschädigt. Ein Hochgenuß war unsere erste ausgiebige Dusch- Session. Special guest des Abends war Daniel, der in die Pampas ausgezogen war, um für  seinen Vater Bahnschilder zu organisieren, und auf dem Rückweg nach Berlin die Gelegenheit wahrnahm, mit uns einen feurigen Texas- Topf ("der sich gewaschen hat") zu verdrücken. Während wir beide uns,  unrasiert, mit Bier und Zigaretten, dazu noch André in den gammligen Vereins- Steuermanns- Pelz eingehüllt ("Wie die letzten Penner!") in die Bootshalle zu Männergesprächen zurückzogen, absolvierte Anna bei  Stefan ihre theoretische Obmannsprüfung.
+
+Der dritte Tag
+
+Weil die Rathenower Hauptschleuse kaputt war und die Sportbootschleuse nur in zwei Sommermonaten geöffnet ist und auch angesichts der kaputten  Hauptschleuse nicht geöffnet wurde, waren wir gezwungen die Allemannia samt Gepäck 500 m weit umzutragen. An diesem Tag, als wir einen beträchtlichen Teil der Strecke auf einem Nebenarm der Havel zurücklegten,  durchquerten wir einige selbst zu bedienende Schleusen, durch die uns Anna souverän hindurchschleuste. Da wir in dem flachen Wasser des Nebenarms mehrmals auf Grund gelaufen waren, ließ uns Mr. To-live-and-let-die,  alias Prinz Eisenhart einige Male in das eiskalte Wasser aussteigen, um das Boot zu schieben. Das Wasser war so kalt, daß es an den Beinen nur so zeckte. Mit Blutegeln brauchte man bei dieser Wassertemperatur zum Glück  nicht zu rechnen. Nachdem wir eine wegen des zum Teil seichten Wassers anstrengende Etappe von 42 km zurückgelegt hatten, landeten wir am späten Nachmittag in unserem Nachtquartier, einem Havelberger Kanu- Club. Bald  darauf machten wir uns auf den Weg zu dem auf einem Berg liegenden und die Stadt beherrschenden Stadtdom. Es war schon dunkel, als wir in unseren völlig überheizten Schlafraum zurückkehrten. Dort warf nach dem  Abendessen (Buletten mit Reis und Salat) DJ Nils die dort befindliche Club- Disco mit Licht- und Laser- Orgel an. Die "Party Night" zu fünft konnte beginnen -wenn auch unter einigen Vorbehalten unseres  Fahrtenleiters, daß die laute Musik eventuell bis auf den nebenan liegenden Camping- Platz dringen könnte, obschon sie anderthalb Meter hinter der Haustür kaum noch wahrzunehmen war.
+
+Der vierte Tag
+
+Die  folgende Etappe ging nach dem 45 km entfernten Wittenberge. Da nicht geklärt werden konnte, oh die Schleusen im Havelunterlauf noch passierbar waren, nahmen wir den direkten Weg zur Elbe über den Elbe- Havel- Kanal, auf  dem wir eine Extra- Schleusung aufs Niveau der Elhe bekommen haben. In der Schleusenkammer entdeckte Franziska an der Wand eine Menge fetter Spinnen und offenbarte ihre besondere Zuneigung zu diesen possierlichen,  leicht beharrten Tierchen, indem sie sie anstubste. Ferner entdeckte sie dort in einer Nische auch eine Kröte, mit der sie spontan auf Tuchfühlung ging, Nach wenigen Kilometern erreichten wir die Elbe, auf der wir von  nun an nach Hamburg schipperten. Den letzten Kilometer durch den Wittenherger Hafen durchquerten wir in einem Moment maßloser Selbstüberschätzung im Rennschlag Einigermaßen erschöpft legten wir am dortigen Kanu- Club an  und wurden von Stefan sofort dazu angehalten, das Boot zu entladen und auszuschöpfen. Anna und Franziska faßten diese Gelegenheit heim Schopfe, das Boot von Grund auf zu säubern. In der Bootshalle fanden wir zu unser  aller Freude sogar Betten vor. Als Anna und Franziska wieder einmal in einen sehr heftigen Schrei -und Lachkrampf ausbrachen und damit sogar das im Erdgeschoß wohnende Hausmeisterehepaar auf-schreckten, sahen wir uns  gezwungen, die beiden Schreihälse herauszutragen. Wir nahmen am Abend noch einen 3,5 km langen Fußmarsch nach Wittenberge auf uns; doch die Stadt war nicht allzu anheimelnd, so daß wir uns schon bald auf den Rückweg  machten, Während in den Clubräumen hinter einer dünnen Trennwand Zeugen Jehovas ihren Gottesdienst abhielten und sich in Askese ergingen, hielten wir nebenan in der Küche unser allabendliches, an diesem Abend jedoch  besonders ausgiebiges und lautes Gelage ab. Den warmen Abend ließen wir unter klarem Sternenhimmel auf dem Steg ausklingen.
+
+Der fünfte Tag
+
+An diesem Tag sind wir die 55 km nach Dömitz durchgerudert. ohne auch  nur einmal anzulegen. Die körperlichen Strapazen verstanden wirjedoch mit viel Albernheit, unter anderem mit vollkommen aus dem Zusammenhang gerissenen "Albatros“  und "Smile« -Rufen (mithin Monty-  Python- Zitaten, von denen wir auch nicht wußten, was sie sollten) - zu überspielen.
+
+Da es in Dömitz keinen Ruder- Club gab, legten wir am Steg der Wasserschutzpolizei an. Sofort machte sich Stefan, uns am Steg  zurücklassend, auf den Weg, die Pension zu suchen, in der wir uns für die Übernachtung angemeldet hatten, und kehrte erst erheblich später, zu unserem Erstaunen auf einem Fahrrad, zurück. Nur das nötigste Gepäck  geschultert bzw. auf das Fahrrad geladen, machten wir uns zur Pension auf. Auf dem Deich erwischte uns ein selten heftiger Platzregen. Vollkommen durchnäßt und aufgeweicht, wurden wir von dem alten Herrn Bär in dessen  Pension aufgenommen. Die Gastfreundschaft ging sogar so weit, daß Stefan ein Paar trockener Schuhe zur Verfügung gestellt wurde. Abends gingen wir in ein Restaurant Essen, kehrten zweimal in dieselbe gammlige Kneipe ein  und besichtigten zu guter letzt die Stadtfestung.
+
+Die Hammer-(Tor-)Tour
+
+Es war eine regelrechte Sünde, aus den kuscheligen Betten so früh aufzustehen; aber es war unbedingt erforderlich, da uns eine  67-km-Etappe, mithin die längste Etappe der Fahrt bevorstand. Nach einem liebevoll kredenzten, vorzüglichen und reichlichen Frühstück schrieben wir uns ins Gästebuch ein und ließen dabei unserer Kreativität freien Laut  Die dankenden Worte wurden allerdings durch einen unerträglich schlechten Schüttelreim abgeschlossen. Nachdem das Fahrrad, das uns die Bärs zusammen mit einem Anhänger für den Transport unserer Sachen zum Boot zur  Verfügung gestellt hatten, zurückgebracht worden war, traten wir unsere vorletzte und längste Etappe wagemutig an. Auf der Elbe ließ uns das Wetter beim Rudern das erste und einzige Mal im Stich: Wir hatten eine Stunde  lang Regen. Später wurden uns aufgrund Stefans Fahrweise vier mit uns elbwärts fahrende Frachter lästig. Es war für die Mannschaft enervierend, ständig von einer Flußseite auf die andere zu wechseln und dann -auf einer  67-km-Tour mit halber Kraft dahinzudümpeln, anstatt einmal anzuhalten und die ganzen Frachtdampfer vorbeizulassen. Aber Stefan drängte die Zeit, so daß er zu diesem Zeitpunkt keine Pause zulassen wollte. Dennoch legten  wir nach etwa drei Fünfteln der Etappe bei inzwischen absolut genialem Superspitzenwetter an einem herrlichen, naturgeschützten Elbsandstrand an, wo wir uns, um den Rest der Etappe erträglicher zu gestalten, (fast) alle  an einem halben Liter Bier zusammen mit Keks und Schokolade erquickten. Beim Ablegen stand Franziska in ihren Strumpfhosen (!) auf einmal bis über die Knie im kalten Elbwasser, wozu sie nur bemerkte: "Jetzt hin ich  glücklich!" Bei der Überquerung des 555. Elbkilometers (Schnapskilometer) nahm ein jeder von uns einen zu sich. Die verbleibenden 15 km vergingen wie im Fluge. Erst am Steg merkten wir, was wir uns angetan hatten.  Das in Stefans Wanderruderführer mit drei Sternen ausgezeichnete Quartier war unter aller Sau. Denn was dort nach und nach an Insekten, Amöben, Würmern und weiß der Teufel was für Lebensformen hervorkroch, ließ uns  erschaudern. Nach dem Blick hinter eine ominöse Holzkiste in einer Ecke fühlten wir uns in Indiana Jones Tempel des Todes versetzt ("Hier reicht kein Kammerjäger mehr aus; hier braucht man den Exorzisten!").  Zu allem Überdruß verhinderte ein immer wieder einsetzendes Motorengeräusch einen beständigen Schlaf.
+
+1etzter Rudertag - Abrudern
+
+Nachdem das Boot unter unsäglichen Qualen ins Wasser gehoben worden war,  wartete wieder einmal alles auf André. Zu seiner Entschuldigung ist in diesem Fall jedoch hervorzubringen, daß er an diesem Morgen die Brötchen gekauft hat. Wir erwarteten auflaufende Flut und legten daher bereits um  Viertel nach acht ab. Nachdem wir die große Schleuse bei Geesthacht passiert hatten, waren wir den Gezeiten ausgesetzt. Es kam uns zum Schluß vor, als ob wir gegen die Strömung ruderten. Später stellte sich anhand des  Tidenkalenders heraus, daß dies nicht der Fall war. Unsere Fehleinschätzung mochte vom leichten Gegenwind und unserer körperlichen Erschöpfung - vor allem von der 67-km-Tour am Vortag-  herrühren. So erreichten wir  nach insgesamt 45 km gegen drei Uhr kurz hinter Elbekilometer 614 den Harburger Ruder- Club. Dort hoben wir das Boot in einem letzten Aufbäumen an Land, machten es für die Überführung fertig und entdeckten dabei das  Leck, durch das in den letzten Etappen nicht wenig Wasser ins Boot eingedrungen war. Nachdem Franziska André derart durchmassiert hatte, daß er nur so behaglich knurrte und aufstöhnte und nach einem oppulenten  Spaghetti- Essen, Duschen und der ersten Rasur nach acht Tagen, nach der wir uns kaum wiedererkannten, machten wir noch einen dreistündigen Abendspaziergang durch die Hamburg- Wilhelms-burger Vorstadttristesse.
+
+Ausklang -Zwei Tage Hamburg
+
+Wir hatten den ganzen Sonnabend und noch den halben Sonntag Zeit, uns Hamburg anzusehen, bevor wir mit der Bahn nach Berlin zurückkehren mußten. Der Sonnabend wurde mit frischen  Brötchen eröffnet, die Stefan (Woher hat der Mann diese Energie'?), als unsereins noch schlief, von einem mehrere Kilometer entfernten Bäcker geholt hat. Mit Bus und Bahn fuhren wir in die Hamburger Innenstadt, die wir  durchlaufen und dabei die Hauptsehenswürdigkeiten angesehen haben: die Freihandelszone mit den allen Backstein- Kontorhäusern, den Michel (Stefan auf dem Turm, der Rest im äußerst sehenswerten Inneren mit  kammermusikalischer Untermalung während einer Taufe), die Landungsbrücken in St. Pauli (Fischbrötchen) und die Einkaufsstraßen, wobei jedoch die Interessen insgesamt etwas auseinandergingen. Nach einem kurzen Abstecher  zurück in den Ruder- Club, um unser Abendessen,  zwei Teller heißes Wasser mit Tomatengeschmack und Spurenelementen von Nudeln und anderem Kleinkram (Stefan: "Die Tütensuppe war doch ganz gut,  oder?"),  zu uns zu nehmen, kehrten wir ins Hamburger Nacht]eben zurück. Wir hatten vor, uns "Das Phantom der Oper" anzusehen, weshalb wir uns schon am Vormittag in eine Warteliste für nicht  abgeholte Karten eingetragen hatten. Wir konnten leider nicht mehr als drei Karten für 60,- DM erschwingen.  Nils hat einer offensichtlich versetzten, gutaussehenden Dame eine 120,- DM-Karte, André einem älteren  Herrn eine 180,- DM- Karte für 60,- DM abgeschwatzt, so daß wir beide in einer Anwandlung menschlichen Großmuts unsere Karten Anna und Franziska vermachten, so daß sie sich mit Stefan das Phantom ansehen durften,  während wir beide ganz allein in einer fremden Stadt, vollkommen auf uns selbst gestellt, die nächste Kneipe ("Peppers*) anliefen. Das war das Beste, was wir tun konnten: Denn dort erhielten wir neben einer  vorzüglichen amerikanischen Pizza und zwei Weizen jede Menge Informationen aufgeschrieben, was wir mit dem Abend noch anfangen konnten. Und so klapperten wir die uns empfohlenen Adressen auf der Reeperbahn nach und nach  ab. Am besten gefallen haben uns der "Kaiserkeller" (Große Freiheit) mit Disco und Live-Konzerten auf zwei Etagen und das "Lemitz" mit Tequila für 3,- DM.
+
+Am nächsten Morgen berichteten uns beiden  die anderen, was sie noch nach dem Musical erlebt hatten: Anna wurde unmittelbar vor dem Theater von einem "Irren" aus 5 m Entfernung mit einer Gaspistole mitten ins Gesicht geschossen. Der "Irre"  wurde von zwei Polizisten in Zivil überwältigt. Anna, Franziska und Stefan wurden anschließend unter Blaulicht in ein Krankenhaus gefahren, wo Anna dann in einer langen Prozedur, sogar mit Betäubung, die Augen  ausgespült wurden. Glücklicherweise konnte sie gleich nach der Behandlung aus der ärztlichen Obhut entlassen werden. Gegen zwei Uhr erreichten sie nach einem nächtlichen McDonalds- Besuch und einer S-Bahn- Odyssee den  Harburger Ruder- Club.
+
+Netterweise wurden wir am Sonntagmorgen von ein paar Alten Herren zum Hamburger Hauptbahnhof gefahren, die sich während unseres Frühstücks im Vereinsheim zu einem Frühschoppen eingefunden  hatten, bei dem sie was weggekippt und eine Musik gehört haben, daß man sich nur so wundern konnte. In Hamburg angekommen, besichtigten wir alle bis auf Stefan die unmittelbar am Hauptbahnhof gelegene Hamburger  Kunsthalle. Stefan zog es hingegen in den Hagenbeck- Zoo. Die gerade neueröffnete Kunsthalle erwies sich als außerordentlich sehenswert: Besonders die Sammlung von Werken alter Meister und die Beuys'schen Installationen  waren bemerkenswert. Anschließend zog es uns an diesem sommerlich- warmen Tag an die Alster zum Eis- Essen. Am Bahnhof trafen wir wieder Stefan und setzten uns in den Zug nach Berlin, in dem wir von Franziska und Anna -  hinter verschlossenen Abteilvorhängen- massagemäßig zum letzten Mal so richtig in die Mangel genommen wurden, daß die Leute vor dem Abteil sonst was denken mußten. Kurz vor acht Uhr abends fuhren wir mit zehnminütiger  Verspätung in den Bahnhof Zoo ein. Eine erlebnisreiche Ruderfahrt, die uns noch lange in Erinnerung bleiben wird, war zu Ende.
+
+André Lietzmann
+
+Nils Schuster

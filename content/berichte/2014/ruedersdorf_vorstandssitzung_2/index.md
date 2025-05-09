@@ -1,0 +1,43 @@
++++
+title = "Ruedersdorf Vorstandssitzung 2014"
+author = ""
+date = 2014-01-01T01:00:00+02:00
+begin = "2014-01-01"
+"gewässer" = []
+"länder" = []
+"typ" = "wanderfahrt"
+[[images]]
+title = "Baumgarten E-Vierer in Ruedersdorf 2014"
+src = "images/Baumgarten_E-Vierer_in_Ruedersdorf_2014.jpg"
+[[images]]
+title = "Schleuse Kleinmachnow Schleusen im Dunkeln 2014"
+src = "images/Schleuse_Kleinmachnow_Schleusen_im_Dunkeln_2014.jpg"
+[[images]]
+title = "abend bei wiking dezember 2014"
+src = "images/abend_bei_wiking_dezember_2014.jpg"
+
++++
+
+
+*Dieser Bericht wurde automatisch migriert*
+
+Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
+
+
+
+# Vorstandssitzung des LRV Brandenburg in Rüdersdorf
+
+
+Die alljährliche Versammlung der Vereinsvorsitzenden aus Brandenburg sollte dieses Mal in Rüdersdorf stattfinden.
+
+An- und Abreise mit dem Auto kann ja jeder. Wir entschieden uns für das Ruderboot.
+
+Freitag bei Einbruch der Dunkelheit schleusten wir Kleinmachnow durch und ruderten dann 20 km zum RV Wiking in Neukölln.
+
+Am Samstag ging es sehr früh aufs Wasser. Über Britzer Zweigkanal, nach Treptow durch Oberschöneweide nach Köpenick, dann über den Müggelsee und die Müggelspree zur Woltersdorfer Schleuse und dann zum Kalksee. Nach 30 km waren wir da. Pünktlich eine Stunde vor Beginn der Sitzung.
+
+Abends besuchten wir noch den Rüdersdorfer Weihnachtsmarkt.
+
+Sonntag 50 km zurück nach Stahnsdorf in 6 Stunden kein Problem, leichte Strömung zunächst bewölkt dann kam bei 3 Grad Plus sogar die Sonne raus.
+
+Nächstes Jahr ist die Versammlung in KW, da rudern wir bestimmt wieder hin.
