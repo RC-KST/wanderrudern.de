@@ -1,0 +1,17 @@
+{{/* Renders a video tag with the given width and height from the video */}}
+
+{{- $preload := "auto" }}
+{{- with .preload }}{{ $preload = . }}{{ end }}
+{{- $with_controls := true }}
+{{- with .with_controls }}{{ $with_controls = . }}{{ end }}
+{{- $muted := true }}
+{{- with .muted }}{{ $muted = . }}{{ end }}
+
+{{- $resource := page.Resources.Get .src }}
+<video
+    {{ if $with_controls }}controls{{ end }}
+    {{ if $muted }}muted{{ end }}
+    preload="{{ $preload }}">
+    <source src="{{ $resource.Permalink }}" type="{{ $resource.MediaType }}"/>
+    This video is not supported by your browser
+</video>

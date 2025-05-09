@@ -2,11 +2,15 @@
 title = "{{ replace .Name "-" " " | replace .Name "_" " " | title }}"
 date = {{ .Date }}
 draft = true
-begin = 
-end =
+begin = ""
+end = ""
 author = ""
-images = []
 "gewässer" = []
 "länder" = []
-"typ" = "Wanderfahrt"
+# "wanderfahrt" | "marathon" | "veranstaltung"
+"typ" = "wanderfahrt"
+
+#[[images]]
+#title = ""
+#src = ""
 +++
