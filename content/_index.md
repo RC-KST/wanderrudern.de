@@ -1,6 +1,6 @@
 +++
 title = "Home"
-translationKey = "_index"
+lang_change = "/club/beginner.md"
 +++
 
 {{< slider id="home" >}}

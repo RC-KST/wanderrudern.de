@@ -36,7 +36,7 @@
         <h4 class="text-center">{{ strings.Title (i18n "bericht_jahr") }}</h4>
         <div class="flex flex-row flex-wrap justify-center">
             {{- range .Page.Pages.GroupByPublishDate "2006" }}
-            <a class="mx-1 my-0.5 rounded-full bg-primary-light text-white" href="{{ ($.GetPage (printf "/jahr/%s" .Key)).Permalink }}">{{ strings.Title .Key }}</a>
+            <a class="mx-1 my-0.5 rounded-full bg-primary-light text-white" href="{{ ($.GetPage ((printf "/jahr/%s" .Key))).Permalink }}">{{ strings.Title .Key }}</a>
             {{- end }}
         </div>
         {{- range $tax, $tax_v := $.Site.Taxonomies }}

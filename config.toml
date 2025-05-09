@@ -189,12 +189,3 @@ parent = "Club"
 "land" = "länder"
 "typ" = "typen"
 
-#[languages.de]
-#weight = 20
-#languageName = "Deutsch"
-#
-#[languages.en]
-#disabled = true
-#weight = 10
-#languageName = "English"
-

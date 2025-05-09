@@ -26,3 +26,56 @@ enableDefault = true
 
 [security]
 enableInlineShortcodes = true
+
+#[languages.de]
+#weight = 20
+#languageName = "Deutsch"
+#
+#[languages.en]
+##disabled = true
+#weight = 10
+#languageName = "English"
+
+# Mount german to english language pages
+#[[module.mounts]]
+#source = "content"
+#target = "content"
+#lang = "en"
+
+# default mounts
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'content'
+target = 'content'
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'data'
+target = 'data'
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'layouts'
+target = 'layouts'
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'i18n'
+target = 'i18n'
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'archetypes'
+target = 'archetypes'
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'assets'
+target = 'assets'
+[[module.mounts]]
+disableWatch = false
+lang = ''
+source = 'static'
+target = 'static'
+

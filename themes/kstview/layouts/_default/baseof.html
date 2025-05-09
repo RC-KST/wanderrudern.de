@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ .Language.Lang }}" class="h-full">
+{{- $lang := site.Language.Lang }}
+{{- with page.Params.language }}{{ $lang = . | safeHTML }}{{- end }}
+
+<html lang="{{ $lang }}" class="h-full">
     <head>
         {{- partial "head-meta.html" . -}}
 
         <script type="text/javascript" src="{{ (resources.Get "/js/cookies.js").Permalink }}"></script>
-        <link rel="icon" type="image/x-icon" href="{{- (resources.Get .Site.Params.icon_image).Permalink -}}"/>
+        <link rel="icon" type="image/x-icon" href="{{- (resources.Get site.Params.icon_image).Permalink -}}"/>
 
         {{- $styles := resources.Get "css/styles.css"
             | postCSS (dict "config" "../../assets/css/postcss.config.js") }}
@@ -27,8 +30,8 @@
 
         {{- $css_options := dict
             "vars" (dict 
-                "font_url" (resources.Get .Site.Params.font_url).Permalink
-                "backdrop_image" (resources.Get .Site.Params.backdrop_image).Permalink
+                "font_url" (resources.Get site.Params.font_url).Permalink
+                "backdrop_image" (resources.Get site.Params.backdrop_image).Permalink
             )
         -}}
         {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify }}
@@ -39,16 +42,16 @@
         <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | css.Sass | resources.Minify }}-->
 
         {{- with .OutputFormats.Get "rss" }}
-            {{- printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+            {{- printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
         {{- end -}}
 
-        <meta name="publisher" content="{{.Site.Params.meta.publisher}}">
-        <meta name="copyright" content="{{.Site.Params.meta.copyright}}">
-        <meta name="page-topic" content="{{.Site.Params.meta.page_topic}}">
-        <meta name="page-type" content="{{.Site.Params.meta.page_type}}">
-        <meta name="revisit-after" content="{{.Site.Params.meta.revisit_after}}">
+        <meta name="publisher" content="{{site.Params.meta.publisher}}">
+        <meta name="copyright" content="{{site.Params.meta.copyright}}">
+        <meta name="page-topic" content="{{site.Params.meta.page_topic}}">
+        <meta name="page-type" content="{{site.Params.meta.page_type}}">
+        <meta name="revisit-after" content="{{site.Params.meta.revisit_after}}">
 
-        {{- with .Site.Params.meta.default_tags -}}
+        {{- with site.Params.meta.default_tags -}}
         <meta name="keywords" content=" 
             {{- range $index, $ctag := . -}}
                 {{- if $index -}},{{- end -}} {{- $ctag | safeHTML -}}
@@ -65,7 +68,7 @@
         <div class="min-h-full w-full h-auto fixed top-0 left-0
                 bg-white -z-10 bg-center bg-cover bg-no-repeat
                 blur opacity-90"
-             style="background-image: url(&quot;{{ (resources.Get .Site.Params.backdrop_image).Permalink }}&quot;);"></div>
+             style="background-image: url(&quot;{{ (resources.Get site.Params.backdrop_image).Permalink }}&quot;);"></div>
         <main class="flex flex-col items-center flex-grow">
             <div class="flex flex-grow xs:w-25 w-full lg:w-[60rem] mt-20 mb-14"
                 id="content-container">
@@ -73,15 +76,26 @@
                     rounded-lg bg-gray-100" id="content-scroll">
                     <div class="w-full flex flex-row flex-nowrap content-between">
                         <div class="grow">{{- if not .IsHome }}{{- partial "breadcrumbs.html" . }}{{- end }}</div>
-
-                        {{- $ref := site.GetPage site.Params.home.english_basepage }}
-                        {{- $is_english_introduction := eq $ref.Path $.Page.Path }}
-                        {{- if $is_english_introduction }}{{- $ref = site.GetPage "/" }}{{- end }}
-                        {{- if or .IsHome $is_english_introduction }}
+                        {{- with page.Params.lang_change }}
+                        {{- with site.GetPage . }}
                             <div class="flex flex-row justify-end">
-                                <a href="{{ $ref.Permalink }}">{{- if $is_english_introduction }}Deutsch{{- else }}English{{- end }}</a>
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
                             </div>
                         {{- end }}
+                        {{- end }}
+
+                        {{/* find link given language url 
+                        {{- with $lang_change := page.Params.lang_change }}
+                            {{- $ref := (site.GetPage $lang_change.path) }}
+                            {{- range $ref.AllTranslations }}
+                                {{- if eq $lang_change.lang .Lang }}
+                                    <div class="flex flex-row justify-end">
+                                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                    </div>
+                                {{- end }}
+                            {{- end }}
+
+                        {{- end }}*/}}
                     </div>
 
                     {{- block "main" . }}{{ end -}}

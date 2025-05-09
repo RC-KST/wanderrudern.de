@@ -1,4 +1,4 @@
 +++
 title = "Wochentermine"
-weight = 35
+weight = 40
 +++
