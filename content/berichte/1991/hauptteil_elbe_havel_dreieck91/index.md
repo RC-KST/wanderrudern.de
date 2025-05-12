@@ -1,11 +1,12 @@
 +++
-title = "elbe_havel_dreieck91"
+title = "Elbe Havel Dreieck 91"
 author = ""
 date = 1991-01-01T01:00:00+02:00
 begin = "1991-01-01"
-"gewässer" = ["elbe", "havel", "oste", "plauer see", "oder"]
-"länder" = []
+"gewässer" = ["elbe", "havel", "plauer see"]
+"länder" = ["deutschland"]
 "typ" = "wanderfahrt"
+
 [[images]]
 title = "Gepäck am Steg zum Beladen in die Ruderboote"
 src = "images/gepaeck_steg.jpg"
@@ -36,18 +37,11 @@ src = "images/volles_boot.jpg"
 [[images]]
 title = "Rathenow beim Frühstück am Rudersteg"
 src = "images/rathenow.jpg"
-
 +++
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
 # Vorbereitung zur Osterfahrt
-
 
 Nachdem wir im letzten Jahr acht  zwei- bis dreitägige private Ruderlager gemacht hatten, wollten wir in diesem Jahr eine längere private Ruderfahrt unternehmen.
 
@@ -63,7 +57,7 @@ Bei den Jungen fanden sich nach anfänglichen Schwierigkeiten zehn Ruderer die m
 
 Wer jemals eine größere Party gegeben hat und dafür einkaufen mußte, kann sich vorstellen, wieviel zehn Personen in zehn Tagen essen und was das  für einen Lebensmittelleinkauf vorrausetzt. Leider gingen einige Leute mal wieder nach dem Motto: ich habe was besseres zu tun als einzukaufen. Es mußte milder Zwang ausgeübt werden, um sie zum Einkaufen zu bewegen.  Einige Intelligenzbestien kamen zwar bereitwillig mit, vergaßen aber, daß man zum Einkaufen auch Beutel, Taschen oder Rucksäcke braucht.
 
-Elbe- Havel- Wanderfahrt
+## Elbe- Havel- Wanderfahrt
 
 Karfreitag: Wannsee- Ketzin
 
@@ -103,7 +97,7 @@ Das  Bootshaus war sowieso eine Klasse für sich. Die Übernachtung war mit 2 D
 
 Nach dem kulturellen Fehlschlag vom Vortag wurden wir diesmal entschädigt. Tangermünde hat eine vollständig erhaltene Stadtmauer. Der bauliche Zustand war gut, für DDR-  Verhältnisse sogar hervorragend. Tangermünde braucht sich hinter Rothenburg wirklich nicht zu verstecken. Selbst unsere anerkannten Kulturmuffel kamen freiwillig mit zur Stadtbesichtigung.
 
-Tangermünde- Havelberg 38 km
+### Tangermünde - Havelberg 38 km
 
 Der Tag sollte eigentlich eine Erholung nach der Knüppeltour vom Vortag werden. 38 km mit Elbströmung erschien uns geradezu lachhaft. Leider kam es anders. Als wir uns gegen Mittag  endlich entschließen konnten abzulegen, g0ß es immer noch in Strömen, wie schon den ganzen Vormittag. Dazu kam noch ein anfangs kräftiger Nebel und das alles bei Temperaturen um 10 Grad.
 
@@ -111,7 +105,7 @@ Wir kamen dank der Strömung  schnell vorwärts und gegen 14.30 Uhr passierten 
 
 Das Quartier war warm und trocken und es gab sogar warme Duschen. Die Stadtbesichtigung war niederschmetternd (gerade nach Tangermünde am Vortag). Havelberg besitzt zwar auch eine Altstadt,  die zweifellos auch einmal recht schön war und sogar einen Dom, aber alles machte den Eindruck totaler Verwahrlosung. Die Gebäude schienen seit 50 Jahren weder Putz noch Farbe gesehen zu haben.
 
-Havelberg- Rathenow 45 km
+### Havelberg - Rathenow 45 km
 
 Dies war die Etappe vor der alle ein wenig Angst hatten. Von nun an ging es gegen die Havelströmung aufwärts. Wir hatten am Vortag schon erfahren, daß oberhalb die Wehre geöffnet worden  sind um Wasser abzulassen. Die Havel führte Hochwasser und, zahlreiche Wiesen rechts und links des Flußes waren überschwemmt. Mehrmals mußten wir überlegen was eigentlich der Fluß und was ein Altarm oder  Überschwemmungsgebiet. Die Strömung lief mit etwa 4 km/h gegen uns. Das einzige Erfreuliche war, daß das Wetter langsam besser wurde. Am Morgen hatte es noch leicht geregnet. Der Regen hörte auf und am späten Nachmittag  kam sogar die Sonne wieder einmal heraus.
 
@@ -121,7 +115,7 @@ Mit etwas Mühe  schafften wir die Schleuse Rathenow noch vor dem Schließen (1
 
 Eigentlich wäre spätestens hier ein Pausentag  eingeplant gewesen, die Mannschaft sprach sich aber mehrheitlich dagegen aus.
 
-Rathenow-Plaue 38 km
+### Rathenow-Plaue 38 km
 
 Heute hatten wir zum ersten Mal die Gelegenheit etwas einzukaufen. Einigen waren die Süßigkeiten ausgegangen.  Deshalb legten wir erst gegen Mittag ab. Nach der Hälfte der Strecke ließ die Gegenströmung zwar etwas nach, aber dafür machte uns zunehmend Gegenwind zu schaffen, der im Vergleich zum Vortag noch zugenommen hatte. Dazu  kam noch, daß einige der Ruderer von der letzten Etappe mehr geschwächt waren als sie zugeben wollten. Dafür war das Wetter zum ersten Mal seit Tagen wieder richtig gut 18 Grad und Sonnenschein.
 
@@ -129,7 +123,7 @@ An der letzten  Schleuse vor Plaue benutzten wir diesmal nicht die Hauptschleus
 
 Kurz  vor dem Ziel versuchte dann noch ein Steuermann eines unserer Boote zu versenken, indem er mit Rennschlag in eine riesige Wellenfront eines Tankers hereinfuhr. Das Boot schaffte die restlichen Kilometer trotz der gut  100 Liter Wasser im Boot.
 
-Die letzten zwei Tage 37 und 30 km
+### Die letzten zwei Tage 37 und 30 km
 
 In Plaue waren wir am Ausgangspunkt unserer Runde angekommen. Nun ging es nur noch über die schon bekannten Strecken (ohne nennenswerte Strömung!).  Einen Tag später erreichten wir, bei leichtem Nieselregen Ketzin. Von Ketzin ging es über den Sacrow- Paretzer- Kanal zurück nach Wannsee.
 

@@ -3,7 +3,7 @@ title = "Tour de Lac Leman 2023"
 author = ""
 date = 2023-05-05T01:00:00+02:00
 begin = "2023-05-01"
-"gewässer" = ["oste", "shannon"]
+"gewässer" = ["lac leman"]
 "länder" = ["schweiz"]
 "typ" = "marathon"
 [[images]]

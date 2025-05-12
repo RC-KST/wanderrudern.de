@@ -1,11 +1,13 @@
 +++
-title = "Naab - Donau 2024"
-author = ""
-date = 2024-09-09T01:00:00+02:00
-begin = "2024-09-01"
-"gewässer" = ["donau", "naab"]
+title = "Tour du Lac Leman 2024"
+author = "Paul"
+date = "2024-10-04"
+begin = "2024-09-26"
+end = "2024-09-30"
+"gewässer" = ["lac leman"]
 "länder" = ["schweiz"]
 "typ" = "marathon"
+
 [[images]]
 title = "Baumgarten Marathon Tour du Lac Leman 2024"
 src = "images/Baumgarten_Marathon_Tour_du_Lac_Leman_2024.jpg"
@@ -42,20 +44,7 @@ src = "images/Lac_Leman_2_Gang.jpg"
 [[images]]
 title = "Lac Leman 3 Gang"
 src = "images/Lac_Leman_3_Gang.jpg"
-
 +++
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
-# Tour du Lac Leman 2024
-
-
-September 2024
 
 Inoffizielle Weltmeisterschaft der Marathon-Ruderer
 
@@ -83,4 +72,4 @@ Wir bedanken uns bei Lars vom (RRC 1885), Freddi vom BRV 1882 e.V. und Manuel vo
 
 All das, so dass wir bei dieser Veranstaltung überhaupt dabei sein konnten, da wegen Krankheit und Verletzungen leider 3 unserer 5 ursprünglichen Ruderinnen und Ruderer ausfielen.
 
-Und Dank gilt Stefan, der es uns ermöglichte, dass unser Boot rechtzeitig an Ort und Stelle war.
+Und Dank gilt außerdem Stefan, der es uns ermöglichte, dass unser Boot rechtzeitig an Ort und Stelle war.

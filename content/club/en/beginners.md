@@ -1,5 +1,5 @@
 +++
-title = "Beginner"
+title = "Beginners"
 weight = 90
 language = "en"
 +++

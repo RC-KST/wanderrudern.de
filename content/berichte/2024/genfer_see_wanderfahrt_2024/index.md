@@ -1,9 +1,9 @@
 +++
-title = "Naab - Donau 2024"
+title = "Wanderfahrt Genfer See"
 author = ""
-date = 2024-09-09T01:00:00+02:00
+date = 2024-10-11
 begin = "2024-09-01"
-"gewässer" = ["donau", "naab"]
+"gewässer" = ["lac leman"]
 "länder" = ["frankreich", "schweiz"]
 "typ" = "marathon"
 [[images]]
@@ -42,20 +42,7 @@ src = "images/Nerds_vom_CERN_in_Genf_2024.jpg"
 [[images]]
 title = "Ruderer Bucht von Genf 2024"
 src = "images/Ruderer_Bucht_von_Genf_2024.jpg"
-
 +++
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
-# Wanderfahrt Genfer See
-
-
-September 2024
 
 Direkt im Anschluss an das Wanderrudertreffen in Regensburg fuhr der Bootsanhänger weiter nach Süden. Nach einer Übernachtung in Bregenz erreichten wir Excenevex am Genfer See. Dieser Ort liegt kurz vor der Schweizer Grenze am französischen Ufer.
 
