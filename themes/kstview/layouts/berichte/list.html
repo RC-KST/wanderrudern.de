@@ -12,13 +12,8 @@
                 <div class="px-1 flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4">
                     <div class="font-bold flex flex-row flex-nowrap pb-2">{{ .Title }}</div>
                     <div class="flex flex-row flex-nowrap">
-                        {{- if .Params.begin }}
-                            {{- (time .Params.begin).Format "02.01.2006" }}
-                        {{- end }}
-                        {{- with .Params.end }}
-                            {{- i18n " until " }}
-                            {{- (time .Params.end).Format "02.01.2006" }}
-                        {{- end }}
+                        {{- if .Params.begin }}{{ (time .Params.begin).Format "02.01.2006" }}{{- end }}
+                        {{- with .Params.end }} - {{ (time .).Format "02.01.2006" }}{{- end }}
                     </div>
                 </div>
             </a>

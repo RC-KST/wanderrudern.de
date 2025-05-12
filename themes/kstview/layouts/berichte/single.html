@@ -13,18 +13,15 @@
 
 {{ define "main" -}}
 <div class="flex flex-col">
-    <h1>{{ .Title }}</h1>
-    <hr/>
-    <div class="flex-grow">{{ .Content }}</div>
     <hr/>
     <div class="w-full flex justify-between px-0 py-2">
         <span>
         {{ if and (isset .Params "begin") (isset .Params "end") }}
-        {{ (time .Params.end).Format "02.01.2006" }} bis {{ (time .Params.begin).Format "02.01.2006" }}
+        {{ (time .Params.begin).Format "02.01.2006" }} {{ i18n "until" }} {{ (time .Params.end).Format "02.01.2006" }}
         {{ end }}
         </span>
         <div class="flex flex-col items-end">
-            <span>{{ with .Date }}{{ i18n "trip_record_last_modified" }}: {{ (time .).Format "02.01.2006" }}{{ end }}</span>
+            <span>{{ with .Date }}{{ (time .).Format "02.01.2006" }}{{ end }}</span>
             {{ with .Params.author -}}
                 <span>{{ i18n "trip_report_written_by" }} {{ . }}</span>
             {{- end }}
@@ -32,6 +29,9 @@
 
         <!-- Tag navigation may be added later -->
     </div>
+    <hr/>
+    <h1>{{ .Title }}</h1>
+    <div class="flex-grow">{{ .Content }}</div>
 </div>
 {{- if .Params.images }}
 <hr/>
