@@ -1,6 +1,9 @@
 +++
 title = "Home"
-lang_change = "/club/beginner.md"
+
+[lang_change]
+label = "English"
+path = "/club/en/beginners.md"
 +++
 
 {{< slider id="home" >}}
@@ -13,8 +16,6 @@ lang_change = "/club/beginner.md"
         img="bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
         href="#2" >}},
 {{< /slider >}}
-
-{{< center >}}{{< /center >}}
 
 {{< column-layout >}}
 {{% col %}}

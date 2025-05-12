@@ -77,25 +77,13 @@
                     <div class="w-full flex flex-row flex-nowrap content-between">
                         <div class="grow">{{- if not .IsHome }}{{- partial "breadcrumbs.html" . }}{{- end }}</div>
                         {{- with page.Params.lang_change }}
-                        {{- with site.GetPage . }}
-                            <div class="flex flex-row justify-end">
-                                <a href="{{ .Permalink }}">{{ .Title }}</a>
-                            </div>
-                        {{- end }}
-                        {{- end }}
-
-                        {{/* find link given language url 
-                        {{- with $lang_change := page.Params.lang_change }}
-                            {{- $ref := (site.GetPage $lang_change.path) }}
-                            {{- range $ref.AllTranslations }}
-                                {{- if eq $lang_change.lang .Lang }}
-                                    <div class="flex flex-row justify-end">
-                                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                                    </div>
-                                {{- end }}
+                            {{- $label := .label }}
+                            {{- with $p := site.GetPage .path }}
+                                <div class="flex flex-row justify-end">
+                                    <a href="{{ $p.Permalink }}">{{ $label }} - {{ .Title }}</a>
+                                </div>
                             {{- end }}
-
-                        {{- end }}*/}}
+                        {{- end }}
                     </div>
 
                     {{- block "main" . }}{{ end -}}
