@@ -67,6 +67,7 @@ jobs:
         with:
           path: util_hashing/hashes.chk
           key: update_hashes
+          save-always: true
 
       - name: Create Hashfile
         run: "./util/create_file_hashes.py"
@@ -147,6 +148,8 @@ jobs:
         with:
           path: util_hashing/hashes.chk
           key: update_hashes
+          save-always: true
+        
 
       #- name: Download hashes artifact
       #  uses: actions/download-artifact@v4
