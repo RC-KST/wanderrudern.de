@@ -1,25 +1,21 @@
-+++
-title = "Ketzin Fruehjahr 2016"
-author = ""
-date = 2016-03-03T01:00:00+02:00
-begin = "2016-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jugendboot in Ketzin Maerz 2016"
-src = "images/Jugendboot_in_Ketzin_Maerz_2016.jpg"
-[[images]]
-title = "Indisches Mittagessen der Ruderer Ketzin Maerz 2016"
-src = "images/Indisches_Mittagessen_der_Ruderer_Ketzin_Maerz_2016.jpg"
-[[images]]
-title = "Urzeitrinder in Brandenburg Ketzin Maerz 2016"
-src = "images/Urzeitrinder_in_Brandenburg_Ketzin_Maerz_2016.jpg"
-[[images]]
-title = "Sonntag rueckweg nach Stahnsdorf Ketzin 2016"
-src = "images/Sonntag_rueckweg_nach_Stahnsdorf_Ketzin_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-03-01"
+date: "2016-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Jugendboot_in_Ketzin_Maerz_2016.jpg
+  title: Jugendboot in Ketzin Maerz 2016
+- src: images/Indisches_Mittagessen_der_Ruderer_Ketzin_Maerz_2016.jpg
+  title: Indisches Mittagessen der Ruderer Ketzin Maerz 2016
+- src: images/Urzeitrinder_in_Brandenburg_Ketzin_Maerz_2016.jpg
+  title: Urzeitrinder in Brandenburg Ketzin Maerz 2016
+- src: images/Sonntag_rueckweg_nach_Stahnsdorf_Ketzin_2016.jpg
+  title: Sonntag rueckweg nach Stahnsdorf Ketzin 2016
+länder: []
+title: Ketzin Fruehjahr 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

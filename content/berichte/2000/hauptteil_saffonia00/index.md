@@ -1,16 +1,17 @@
-+++
-title = "Saffonia 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["spree", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse Plötzensee RUderboot"
-src = "images/saffonia.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- spree
+- wannsee
+images:
+- src: images/saffonia.jpg
+  title: Schleuse Plötzensee RUderboot
+länder: []
+title: Saffonia 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

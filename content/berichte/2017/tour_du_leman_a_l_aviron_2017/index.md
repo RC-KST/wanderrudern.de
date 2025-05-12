@@ -1,25 +1,21 @@
-+++
-title = "Tour du Léman á l´Aviron 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Lac Leman vor dem Start 2017 HP"
-src = "images/Lac_Leman_vor_dem_Start_2017_HP.jpg"
-[[images]]
-title = "Genfer See Regatta Boot 2017"
-src = "images/Genfer_See_Regatta_Boot_2017.jpg"
-[[images]]
-title = "Mannschaft Genfer See 2017"
-src = "images/Mannschaft_Genfer_See_2017.jpg"
-[[images]]
-title = "Blick ueber Genf 2017"
-src = "images/Blick_ueber_Genf_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Lac_Leman_vor_dem_Start_2017_HP.jpg
+  title: Lac Leman vor dem Start 2017 HP
+- src: images/Genfer_See_Regatta_Boot_2017.jpg
+  title: Genfer See Regatta Boot 2017
+- src: images/Mannschaft_Genfer_See_2017.jpg
+  title: Mannschaft Genfer See 2017
+- src: images/Blick_ueber_Genf_2017.jpg
+  title: Blick ueber Genf 2017
+länder: []
+title: Tour du Léman á l´Aviron 2017
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

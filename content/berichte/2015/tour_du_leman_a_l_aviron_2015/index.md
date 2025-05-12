@@ -1,16 +1,15 @@
-+++
-title = "Tour du Léman à lAviron 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Tour du Lac Leman Aviron 2015"
-src = "images/Tour_du_Lac_Leman_Aviron_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Tour_du_Lac_Leman_Aviron_2015.jpg
+  title: Tour du Lac Leman Aviron 2015
+länder: []
+title: "Tour du Léman à l\x92Aviron 2015"
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

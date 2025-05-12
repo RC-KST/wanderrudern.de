@@ -1,28 +1,23 @@
-+++
-title = "Sternfahrt 2011"
-author = ""
-date = 2011-06-06T01:00:00+02:00
-begin = "2011-06-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer bei der Sternfahrt Kleinmachnow 2011"
-src = "images/Ruderer_bei_der_Sternfahrt_Kleinmachnow_2011.jpg"
-[[images]]
-title = "Annika am Bierstand Sternfahrt Kleinmachnow 2011"
-src = "images/Annika_am_Bierstand_Sternfahrt_Kleinmachnow_2011.jpg"
-[[images]]
-title = "Feldbetten Aufbau zur Sternfahrt Kleinmachnow 2011"
-src = "images/Feldbetten_Aufbau_zur_Sternfahrt_Kleinmachnow_2011.jpg"
-[[images]]
-title = "Clunflagge Kleinmachnow als Kuchen Sternfahrt Kleinmachnow 2011"
-src = "images/Clunflagge_Kleinmachnow_als_Kuchen_Sternfahrt_Kleinmachnow_2011.jpg"
-[[images]]
-title = "Waffel Stand Sternfahrt Kleinmachnow 2011"
-src = "images/Waffel_Stand_Sternfahrt_Kleinmachnow_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-06-01"
+date: "2011-06-06T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderer_bei_der_Sternfahrt_Kleinmachnow_2011.jpg
+  title: Ruderer bei der Sternfahrt Kleinmachnow 2011
+- src: images/Annika_am_Bierstand_Sternfahrt_Kleinmachnow_2011.jpg
+  title: Annika am Bierstand Sternfahrt Kleinmachnow 2011
+- src: images/Feldbetten_Aufbau_zur_Sternfahrt_Kleinmachnow_2011.jpg
+  title: Feldbetten Aufbau zur Sternfahrt Kleinmachnow 2011
+- src: images/Clunflagge_Kleinmachnow_als_Kuchen_Sternfahrt_Kleinmachnow_2011.jpg
+  title: Clunflagge Kleinmachnow als Kuchen Sternfahrt Kleinmachnow 2011
+- src: images/Waffel_Stand_Sternfahrt_Kleinmachnow_2011.jpg
+  title: Waffel Stand Sternfahrt Kleinmachnow 2011
+länder: []
+title: Sternfahrt 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

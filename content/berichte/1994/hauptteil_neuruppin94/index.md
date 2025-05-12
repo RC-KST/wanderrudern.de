@@ -1,19 +1,20 @@
-+++
-title = "Neuruppin 1994"
-author = ""
-date = 1994-11-11T01:00:00+02:00
-begin = "1994-11-01"
-"gewässer" = ["ruppiner see", "oder", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "im Wasser unter der Brücke"
-src = "images/imWasser.jpg"
-[[images]]
-title = "bobby wildwasser neuruppin"
-src = "images/bobby_NP95.jpg"
-
-+++
+---
+author: ""
+begin: "1994-11-01"
+date: "1994-11-11T01:00:00+02:00"
+gewässer:
+- ruppiner see
+- oder
+- bug
+images:
+- src: images/imWasser.jpg
+  title: im Wasser unter der Brücke
+- src: images/bobby_NP95.jpg
+  title: bobby wildwasser neuruppin
+länder: []
+title: Neuruppin 1994
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

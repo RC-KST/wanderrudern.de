@@ -1,13 +1,12 @@
-+++
-title = "Preisverleihung Berlin 2012"
-author = ""
-date = 2012-05-05T01:00:00+02:00
-begin = "2012-05-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2012-05-01"
+date: "2012-05-05T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Preisverleihung Berlin 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

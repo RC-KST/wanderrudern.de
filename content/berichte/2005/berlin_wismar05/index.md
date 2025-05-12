@@ -1,55 +1,45 @@
-+++
-title = "Berlin_Wismar05"
-author = ""
-date = 2005-10-10T01:00:00+02:00
-begin = "2005-10-01"
-"gewässer" = ["elbe", "havel", "ostsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Patrik beim Rollsitz wechseln 01"
-src = "images/Patrik_beim_Rollsitz_wechseln_01.jpg"
-[[images]]
-title = "Steffel entspannt sich immer noch 10"
-src = "images/Steffel_entspannt_sich_immer_noch_10.jpg"
-[[images]]
-title = "Joerg, Paula und Katrin sind voellig fertig 11"
-src = "images/Joerg__Paula_und_Katrin_sind_voellig_fertig_11.jpg"
-[[images]]
-title = "Joerg rudert Paula und Stefan umher 20"
-src = "images/Joerg_rudert_Paula_und_Stefan_umher_20.jpg"
-[[images]]
-title = "Voegel an der Elbe 19"
-src = "images/Voegel_an_der_Elbe_19.jpg"
-[[images]]
-title = "Wind auf der Elbe, Katrins Frisur haelt 17"
-src = "images/Wind_auf_der_Elbe__Katrins_Frisur_haelt_17.jpg"
-[[images]]
-title = "Elbe- Luebeck- Kanal Landschaft 30"
-src = "images/Elbe-_Luebeck-_Kanal_Landschaft_30.jpg"
-[[images]]
-title = "Geirangerfjord unterhaelt sich mit Fremden  24"
-src = "images/Geirangerfjord_unterhaelt_sich_mit_Fremden__24.jpg"
-[[images]]
-title = "Eine Bruecke, eine Bruecke hoj, hoj, hoj, hoj 26"
-src = "images/Eine_Bruecke__eine_Bruecke_hoj__hoj__hoj__hoj_26.jpg"
-[[images]]
-title = "Patrik im Boot Schleuse"
-src = "images/Patrik_im_Boot_08.jpg"
-[[images]]
-title = "Herbstfahrt05 Ruden auf der Havel"
-src = "images/Herbstfahrt05_vierer.jpg"
-[[images]]
-title = "Malte schlaeft fast ein 18"
-src = "images/Malte_schlaeft_fast_ein_18.jpg"
-[[images]]
-title = "Malte und Steffel 04"
-src = "images/Malte_und_Steffel_04.jpg"
-[[images]]
-title = "Ein Kunstwerk an der Schleuse 25"
-src = "images/Ein_Kunstwerk_an_der_Schleuse_25.jpg"
-
-+++
+---
+author: ""
+begin: "2005-10-01"
+date: "2005-10-10T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- ostsee
+- oder
+images:
+- src: images/Patrik_beim_Rollsitz_wechseln_01.jpg
+  title: Patrik beim Rollsitz wechseln 01
+- src: images/Steffel_entspannt_sich_immer_noch_10.jpg
+  title: Steffel entspannt sich immer noch 10
+- src: images/Joerg__Paula_und_Katrin_sind_voellig_fertig_11.jpg
+  title: Joerg, Paula und Katrin sind voellig fertig 11
+- src: images/Joerg_rudert_Paula_und_Stefan_umher_20.jpg
+  title: Joerg rudert Paula und Stefan umher 20
+- src: images/Voegel_an_der_Elbe_19.jpg
+  title: Voegel an der Elbe 19
+- src: images/Wind_auf_der_Elbe__Katrins_Frisur_haelt_17.jpg
+  title: Wind auf der Elbe, Katrins Frisur haelt 17
+- src: images/Elbe-_Luebeck-_Kanal_Landschaft_30.jpg
+  title: Elbe- Luebeck- Kanal Landschaft 30
+- src: images/Geirangerfjord_unterhaelt_sich_mit_Fremden__24.jpg
+  title: Geirangerfjord unterhaelt sich mit Fremden  24
+- src: images/Eine_Bruecke__eine_Bruecke_hoj__hoj__hoj__hoj_26.jpg
+  title: Eine Bruecke, eine Bruecke hoj, hoj, hoj, hoj 26
+- src: images/Patrik_im_Boot_08.jpg
+  title: Patrik im Boot Schleuse
+- src: images/Herbstfahrt05_vierer.jpg
+  title: Herbstfahrt05 Ruden auf der Havel
+- src: images/Malte_schlaeft_fast_ein_18.jpg
+  title: Malte schlaeft fast ein 18
+- src: images/Malte_und_Steffel_04.jpg
+  title: Malte und Steffel 04
+- src: images/Ein_Kunstwerk_an_der_Schleuse_25.jpg
+  title: Ein Kunstwerk an der Schleuse 25
+länder: []
+title: Berlin_Wismar05
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

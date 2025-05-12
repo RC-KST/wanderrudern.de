@@ -1,37 +1,32 @@
-+++
-title = "Lubeck95"
-author = ""
-date = 1995-09-09T01:00:00+02:00
-begin = "1995-09-01"
-"gewässer" = ["elbe", "plauer see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "werben ruderboot am ufer"
-src = "images/werben_boot.jpg"
-[[images]]
-title = "fussweg nach werben"
-src = "images/ueberschwemmung.jpg"
-[[images]]
-title = "bobby  auf elbe beim rudern"
-src = "images/bobby_elbe.jpg"
-[[images]]
-title = "fest mit ruderern"
-src = "images/fest.jpg"
-[[images]]
-title = "Elebe Lübeck Kanal Ruderer"
-src = "images/luebeck_kanal.jpg"
-[[images]]
-title = "windjammer Travemünde"
-src = "images/windjammer.jpg"
-[[images]]
-title = "Bobby rudert durch Lübeck"
-src = "images/Luebeck95.jpg"
-[[images]]
-title = "finncarrier neben ruderboot"
-src = "images/finncarrier.jpg"
-
-+++
+---
+author: ""
+begin: "1995-09-01"
+date: "1995-09-09T01:00:00+02:00"
+gewässer:
+- elbe
+- plauer see
+- oder
+images:
+- src: images/werben_boot.jpg
+  title: werben ruderboot am ufer
+- src: images/ueberschwemmung.jpg
+  title: fussweg nach werben
+- src: images/bobby_elbe.jpg
+  title: bobby  auf elbe beim rudern
+- src: images/fest.jpg
+  title: fest mit ruderern
+- src: images/luebeck_kanal.jpg
+  title: Elebe Lübeck Kanal Ruderer
+- src: images/windjammer.jpg
+  title: windjammer Travemünde
+- src: images/Luebeck95.jpg
+  title: Bobby rudert durch Lübeck
+- src: images/finncarrier.jpg
+  title: finncarrier neben ruderboot
+länder: []
+title: Lubeck95
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

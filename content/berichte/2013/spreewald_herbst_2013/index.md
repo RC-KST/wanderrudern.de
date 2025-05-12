@@ -1,37 +1,34 @@
-+++
-title = "Spreewald Herbst 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "bootsschleppe maerkisch buchholz herbst 2013"
-src = "images/bootsschleppe_maerkisch_buchholz_herbst_2013.jpg"
-[[images]]
-title = "Jonathan gross wasserburg schleuse 2013"
-src = "images/Jonathan_gross_wasserburg_schleuse_2013.jpg"
-[[images]]
-title = "Ruder-dreier im Unterspreewald Herbst 2013"
-src = "images/Ruder-dreier_im_Unterspreewald_Herbst_2013.jpg"
-[[images]]
-title = "Jonathan an schaffotschleuse schlepzig 2013"
-src = "images/Jonathan_an_schaffotschleuse_schlepzig_2013.jpg"
-[[images]]
-title = "schaffotschleuse schlepzig 2013"
-src = "images/schaffotschleuse_schlepzig_2013.jpg"
-[[images]]
-title = "Ruderstrecke im Spreewald 2013"
-src = "images/Ruderstrecke_im_Spreewald_2013.jpg"
-[[images]]
-title = "blockierte Schleuse grosses fliess 2013"
-src = "images/blockierte_Schleuse_grosses_fliess_2013.jpg"
-[[images]]
-title = "Laura in Burg im Spreewald 2013"
-src = "images/Laura_in_Burg_im_Spreewald_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- köthener see
+images:
+- src: images/bootsschleppe_maerkisch_buchholz_herbst_2013.jpg
+  title: bootsschleppe maerkisch buchholz herbst 2013
+- src: images/Jonathan_gross_wasserburg_schleuse_2013.jpg
+  title: Jonathan gross wasserburg schleuse 2013
+- src: images/Ruder-dreier_im_Unterspreewald_Herbst_2013.jpg
+  title: Ruder-dreier im Unterspreewald Herbst 2013
+- src: images/Jonathan_an_schaffotschleuse_schlepzig_2013.jpg
+  title: Jonathan an schaffotschleuse schlepzig 2013
+- src: images/schaffotschleuse_schlepzig_2013.jpg
+  title: schaffotschleuse schlepzig 2013
+- src: images/Ruderstrecke_im_Spreewald_2013.jpg
+  title: Ruderstrecke im Spreewald 2013
+- src: images/blockierte_Schleuse_grosses_fliess_2013.jpg
+  title: blockierte Schleuse grosses fliess 2013
+- src: images/Laura_in_Burg_im_Spreewald_2013.jpg
+  title: Laura in Burg im Spreewald 2013
+länder: []
+title: Spreewald Herbst 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,15 @@
-+++
-title = "Kroatien 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["oder"]
-"länder" = ["deutschland", "österreich"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- oder
+länder:
+- deutschland
+- österreich
+title: Kroatien 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

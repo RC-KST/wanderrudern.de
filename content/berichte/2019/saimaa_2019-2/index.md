@@ -1,250 +1,176 @@
-+++
-title = "Finnland Saimaa 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["inn", "oder", "saimaa", "juojärvi"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Til Felix gepaeckboot 2019"
-src = "images/Til_Felix_gepaeckboot_2019.jpg"
-[[images]]
-title = "wieder auf der route 2019"
-src = "images/wieder_auf_der_route_2019.jpg"
-[[images]]
-title = "Inrigger 3x+ Saimaa 2019"
-src = "images/Inrigger_3x__Saimaa_2019.jpg"
-[[images]]
-title = "Biwakplatz Summa 2019"
-src = "images/Biwakplatz_Summa_2019.jpg"
-[[images]]
-title = "Baden im Kanal 2019"
-src = "images/Baden_im_Kanal_2019.jpg"
-[[images]]
-title = "Holzhacken Johanna 2019"
-src = "images/Holzhacken_Johanna_2019.jpg"
-[[images]]
-title = "Maria Felix im Inselgewirr 2019"
-src = "images/Maria_Felix_im_Inselgewirr_2019.jpg"
-[[images]]
-title = "in den Nebenarmen 2019"
-src = "images/in_den_Nebenarmen_2019.jpg"
-[[images]]
-title = "Inrigger neben uns 2019"
-src = "images/Inrigger_neben_uns_2019.jpg"
-[[images]]
-title = "Arbeitsteilung beim Wasserpumpen 2019"
-src = "images/Arbeitsteilung_beim_Wasserpumpen_2019.jpg"
-[[images]]
-title = "Sonnenuntergang Summa 2019"
-src = "images/Sonnenuntergang_Summa_2019.jpg"
-[[images]]
-title = "VL hat endlich seinen Schaukelstuhl 2019"
-src = "images/VL_hat_endlich_seinen_Schaukelstuhl_2019.jpg"
-[[images]]
-title = "Kartenspielen im Haus 2019"
-src = "images/Kartenspielen_im_Haus_2019.jpg"
-[[images]]
-title = "Felix unendliche weiten 2019"
-src = "images/Felix_unendliche_weiten_2019.jpg"
-[[images]]
-title = "Inrigger vor der Seeflaeche 2019"
-src = "images/Inrigger_vor_der_Seeflaeche_2019.jpg"
-[[images]]
-title = "Historisches Ferienhaus 2019"
-src = "images/Historisches_Ferienhaus_2019.jpg"
-[[images]]
-title = "Villa Kunterbunt Finnland 2019"
-src = "images/Villa_Kunterbunt_Finnland_2019.jpg"
-[[images]]
-title = "vor der Schleusentreppe Varistaipale 2019"
-src = "images/vor_der_Schleusentreppe_Varistaipale_2019.jpg"
-[[images]]
-title = "Weg zum Ferienhaus 2019"
-src = "images/Weg_zum_Ferienhaus_2019.jpg"
-[[images]]
-title = "Juosjaervi 2019"
-src = "images/Juosjaervi_2019.jpg"
-[[images]]
-title = "Schleusentreppe es sprudelt ein wenig 2019"
-src = "images/Schleusentreppe_es_sprudelt_ein_wenig_2019.jpg"
-[[images]]
-title = "Schleusentreppe erste Stufe geschafft 2019"
-src = "images/Schleusentreppe_erste_Stufe_geschafft_2019.jpg"
-[[images]]
-title = "zweite Schleusentreppe 2019"
-src = "images/zweite_Schleusentreppe_2019.jpg"
-[[images]]
-title = "Einsame Insel Juosjaervi 2019"
-src = "images/Einsame_Insel_Juosjaervi_2019.jpg"
-[[images]]
-title = "Abendessen Biwakplatz 2019"
-src = "images/Abendessen_Biwakplatz_2019.jpg"
-[[images]]
-title = "Sonnenuntergang Juojaervi 2019"
-src = "images/Sonnenuntergang_Juojaervi_2019.jpg"
-[[images]]
-title = "Einsame Insel Handy funktioniert immer ist ja nicht Brandenburg 2019"
-src = "images/Einsame_Insel_Handy_funktioniert_immer_ist_ja_nicht_Brandenburg_2019.jpg"
-[[images]]
-title = "auf dem Weg zum Kloster 2019"
-src = "images/auf_dem_Weg_zum_Kloster_2019.jpg"
-[[images]]
-title = "Isabel mit MS Sergei Valamo 2019"
-src = "images/Isabel_mit_MS_Sergei_Valamo_2019.jpg"
-[[images]]
-title = "Saimaa kurz vor dem Kloster 2019"
-src = "images/Saimaa_kurz_vor_dem_Kloster_2019.jpg"
-[[images]]
-title = "Ruderer in Valamo 2019"
-src = "images/Ruderer_in_Valamo_2019.jpg"
-[[images]]
-title = "Pilgerinnen vor Valamo 2019"
-src = "images/Pilgerinnen_vor_Valamo_2019.jpg"
-[[images]]
-title = "Max im Kloster 2019+"
-src = "images/Max_im_Kloster_2019_.jpg"
-[[images]]
-title = "Kloster Valamo Ruderer 2019"
-src = "images/Kloster_Valamo_Ruderer_2019.jpg"
-[[images]]
-title = "Isabel macht Pause 2019"
-src = "images/Isabel_macht_Pause_2019.jpg"
-[[images]]
-title = "Saimaa in der Schleuse Finnland 2019"
-src = "images/Saimaa_in_der_Schleuse_Finnland_2019.jpg"
-[[images]]
-title = "Schleusentreppe Finnland 2019"
-src = "images/Schleusentreppe_Finnland_2019.jpg"
-[[images]]
-title = "Felix grosse Schleusentreppe 2019"
-src = "images/Felix_grosse_Schleusentreppe_2019.jpg"
-[[images]]
-title = "am Lagerfeuer auf dem Biwakplatz 2019"
-src = "images/am_Lagerfeuer_auf_dem_Biwakplatz_2019.jpg"
-[[images]]
-title = "Isabel Wehr von Karvio 2019"
-src = "images/Isabel_Wehr_von_Karvio_2019.jpg"
-[[images]]
-title = "Felix als Muskelmann 2019"
-src = "images/Felix_als_Muskelmann_2019.jpg"
-[[images]]
-title = "die kleinen mal wieder am Handy 2019"
-src = "images/die_kleinen_mal_wieder_am_Handy_2019.jpg"
-[[images]]
-title = "Rohrdurchfahrt Finnland 2019"
-src = "images/Rohrdurchfahrt_Finnland_2019.jpg"
-[[images]]
-title = "maedels machen sich landfein 2019"
-src = "images/maedels_machen_sich_landfein_2019.jpg"
-[[images]]
-title = "Isabel gut behuetet 2019"
-src = "images/Isabel_gut_behuetet_2019.jpg"
-[[images]]
-title = "da muessen wir durch Finnland 2019"
-src = "images/da_muessen_wir_durch_Finnland_2019.jpg"
-[[images]]
-title = "Inrigger zwischen Inseln 2019"
-src = "images/Inrigger_zwischen_Inseln_2019.jpg"
-[[images]]
-title = "Maria im Robbenschutzgebiet 2019"
-src = "images/Maria_im_Robbenschutzgebiet_2019.jpg"
-[[images]]
-title = "Pause auf einer Klippe 2019"
-src = "images/Pause_auf_einer_Klippe_2019.jpg"
-[[images]]
-title = "fast baywatch Finnland 2019"
-src = "images/fast_baywatch_Finnland_2019.jpg"
-[[images]]
-title = "und noch mal meerjungfrau aber mit Handy 2019"
-src = "images/und_noch_mal_meerjungfrau_aber_mit_Handy_2019.jpg"
-[[images]]
-title = "frischwasser pumpen 2019"
-src = "images/frischwasser_pumpen_2019.jpg"
-[[images]]
-title = "Zeltaufbau am Yachthafen 2019"
-src = "images/Zeltaufbau_am_Yachthafen_2019.jpg"
-[[images]]
-title = "Max ist warm 2019"
-src = "images/Max_ist_warm_2019.jpg"
-[[images]]
-title = "pause hinter dem Orivesi 2019"
-src = "images/pause_hinter_dem_Orivesi_2019.jpg"
-[[images]]
-title = "Isabel in der Rohrdurchfahrt 2019"
-src = "images/Isabel_in_der_Rohrdurchfahrt_2019.jpg"
-[[images]]
-title = "es wird gefaehrlich gross 2019"
-src = "images/es_wird_gefaehrlich_gross_2019.jpg"
-[[images]]
-title = "Orivesi zeigt uns mal was wirklich Wellen sind 2019"
-src = "images/Orivesi_zeigt_uns_mal_was_wirklich_Wellen_sind_2019.jpg"
-[[images]]
-title = "Grillen in Savonranta 2019"
-src = "images/Grillen_in_Savonranta_2019.jpg"
-[[images]]
-title = "wir haben den Orivesi ueberstanden 2019"
-src = "images/wir_haben_den_Orivesi_ueberstanden_2019.jpg"
-[[images]]
-title = "Til und der ruppige See 2019"
-src = "images/Til_und_der_ruppige_See_2019.jpg"
-[[images]]
-title = "Biwakplatz auf einer INsel 2019"
-src = "images/Biwakplatz_auf_einer_INsel_2019.jpg"
-[[images]]
-title = "Ruderer auf dem Saimaa 2019"
-src = "images/Ruderer_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Bunkerbesichtigung 2019"
-src = "images/Bunkerbesichtigung_2019.jpg"
-[[images]]
-title = "Pause an der Salpa Linie 2019"
-src = "images/Pause_an_der_Salpa_Linie_2019.jpg"
-[[images]]
-title = "Inrigger Hjaelmaren vor Sonnenuntergang 2019"
-src = "images/Inrigger_Hjaelmaren_vor_Sonnenuntergang_2019.jpg"
-[[images]]
-title = "Mannschaft am Lagerfeuer 2019"
-src = "images/Mannschaft_am_Lagerfeuer_2019.jpg"
-[[images]]
-title = "Boote ueber der Brandungslinie gelagert 2019"
-src = "images/Boote_ueber_der_Brandungslinie_gelagert_2019.jpg"
-[[images]]
-title = "Zelte aufbauen im Wald 2019"
-src = "images/Zelte_aufbauen_im_Wald_2019.jpg"
-[[images]]
-title = "mal wieder ein Rohr 2019"
-src = "images/mal_wieder_ein_Rohr_2019.jpg"
-[[images]]
-title = "Yachthafen Kerimaeki 2019"
-src = "images/Yachthafen_Kerimaeki_2019.jpg"
-[[images]]
-title = "Isabel im Boot 2019"
-src = "images/Isabel_im_Boot_2019.jpg"
-[[images]]
-title = "es wird mal wieder ruppig 2019"
-src = "images/es_wird_mal_wieder_ruppig_2019.jpg"
-[[images]]
-title = "Kerimaeki Holzkirche 2019"
-src = "images/Kerimaeki_Holzkirche_2019.jpg"
-[[images]]
-title = "Tim im Inrigger 2019"
-src = "images/Tim_im_Inrigger_2019.jpg"
-[[images]]
-title = "enge Bruecke Finnland 2019"
-src = "images/enge_Bruecke_Finnland_2019.jpg"
-[[images]]
-title = "Inrigger in wellen 2019"
-src = "images/Inrigger_in_wellen_2019.jpg"
-[[images]]
-title = "Multebeeren 2019"
-src = "images/Multebeeren_2019.jpg"
-[[images]]
-title = "Punkaharju Abendessen 2019"
-src = "images/Punkaharju_Abendessen_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- oder
+- saimaa
+- juojärvi
+images:
+- src: images/Til_Felix_gepaeckboot_2019.jpg
+  title: Til Felix gepaeckboot 2019
+- src: images/wieder_auf_der_route_2019.jpg
+  title: wieder auf der route 2019
+- src: images/Inrigger_3x__Saimaa_2019.jpg
+  title: Inrigger 3x+ Saimaa 2019
+- src: images/Biwakplatz_Summa_2019.jpg
+  title: Biwakplatz Summa 2019
+- src: images/Baden_im_Kanal_2019.jpg
+  title: Baden im Kanal 2019
+- src: images/Holzhacken_Johanna_2019.jpg
+  title: Holzhacken Johanna 2019
+- src: images/Maria_Felix_im_Inselgewirr_2019.jpg
+  title: Maria Felix im Inselgewirr 2019
+- src: images/in_den_Nebenarmen_2019.jpg
+  title: in den Nebenarmen 2019
+- src: images/Inrigger_neben_uns_2019.jpg
+  title: Inrigger neben uns 2019
+- src: images/Arbeitsteilung_beim_Wasserpumpen_2019.jpg
+  title: Arbeitsteilung beim Wasserpumpen 2019
+- src: images/Sonnenuntergang_Summa_2019.jpg
+  title: Sonnenuntergang Summa 2019
+- src: images/VL_hat_endlich_seinen_Schaukelstuhl_2019.jpg
+  title: VL hat endlich seinen Schaukelstuhl 2019
+- src: images/Kartenspielen_im_Haus_2019.jpg
+  title: Kartenspielen im Haus 2019
+- src: images/Felix_unendliche_weiten_2019.jpg
+  title: Felix unendliche weiten 2019
+- src: images/Inrigger_vor_der_Seeflaeche_2019.jpg
+  title: Inrigger vor der Seeflaeche 2019
+- src: images/Historisches_Ferienhaus_2019.jpg
+  title: Historisches Ferienhaus 2019
+- src: images/Villa_Kunterbunt_Finnland_2019.jpg
+  title: Villa Kunterbunt Finnland 2019
+- src: images/vor_der_Schleusentreppe_Varistaipale_2019.jpg
+  title: vor der Schleusentreppe Varistaipale 2019
+- src: images/Weg_zum_Ferienhaus_2019.jpg
+  title: Weg zum Ferienhaus 2019
+- src: images/Juosjaervi_2019.jpg
+  title: Juosjaervi 2019
+- src: images/Schleusentreppe_es_sprudelt_ein_wenig_2019.jpg
+  title: Schleusentreppe es sprudelt ein wenig 2019
+- src: images/Schleusentreppe_erste_Stufe_geschafft_2019.jpg
+  title: Schleusentreppe erste Stufe geschafft 2019
+- src: images/zweite_Schleusentreppe_2019.jpg
+  title: zweite Schleusentreppe 2019
+- src: images/Einsame_Insel_Juosjaervi_2019.jpg
+  title: Einsame Insel Juosjaervi 2019
+- src: images/Abendessen_Biwakplatz_2019.jpg
+  title: Abendessen Biwakplatz 2019
+- src: images/Sonnenuntergang_Juojaervi_2019.jpg
+  title: Sonnenuntergang Juojaervi 2019
+- src: images/Einsame_Insel_Handy_funktioniert_immer_ist_ja_nicht_Brandenburg_2019.jpg
+  title: Einsame Insel Handy funktioniert immer ist ja nicht Brandenburg 2019
+- src: images/auf_dem_Weg_zum_Kloster_2019.jpg
+  title: auf dem Weg zum Kloster 2019
+- src: images/Isabel_mit_MS_Sergei_Valamo_2019.jpg
+  title: Isabel mit MS Sergei Valamo 2019
+- src: images/Saimaa_kurz_vor_dem_Kloster_2019.jpg
+  title: Saimaa kurz vor dem Kloster 2019
+- src: images/Ruderer_in_Valamo_2019.jpg
+  title: Ruderer in Valamo 2019
+- src: images/Pilgerinnen_vor_Valamo_2019.jpg
+  title: Pilgerinnen vor Valamo 2019
+- src: images/Max_im_Kloster_2019_.jpg
+  title: Max im Kloster 2019+
+- src: images/Kloster_Valamo_Ruderer_2019.jpg
+  title: Kloster Valamo Ruderer 2019
+- src: images/Isabel_macht_Pause_2019.jpg
+  title: Isabel macht Pause 2019
+- src: images/Saimaa_in_der_Schleuse_Finnland_2019.jpg
+  title: Saimaa in der Schleuse Finnland 2019
+- src: images/Schleusentreppe_Finnland_2019.jpg
+  title: Schleusentreppe Finnland 2019
+- src: images/Felix_grosse_Schleusentreppe_2019.jpg
+  title: Felix grosse Schleusentreppe 2019
+- src: images/am_Lagerfeuer_auf_dem_Biwakplatz_2019.jpg
+  title: am Lagerfeuer auf dem Biwakplatz 2019
+- src: images/Isabel_Wehr_von_Karvio_2019.jpg
+  title: Isabel Wehr von Karvio 2019
+- src: images/Felix_als_Muskelmann_2019.jpg
+  title: Felix als Muskelmann 2019
+- src: images/die_kleinen_mal_wieder_am_Handy_2019.jpg
+  title: die kleinen mal wieder am Handy 2019
+- src: images/Rohrdurchfahrt_Finnland_2019.jpg
+  title: Rohrdurchfahrt Finnland 2019
+- src: images/maedels_machen_sich_landfein_2019.jpg
+  title: maedels machen sich landfein 2019
+- src: images/Isabel_gut_behuetet_2019.jpg
+  title: Isabel gut behuetet 2019
+- src: images/da_muessen_wir_durch_Finnland_2019.jpg
+  title: da muessen wir durch Finnland 2019
+- src: images/Inrigger_zwischen_Inseln_2019.jpg
+  title: Inrigger zwischen Inseln 2019
+- src: images/Maria_im_Robbenschutzgebiet_2019.jpg
+  title: Maria im Robbenschutzgebiet 2019
+- src: images/Pause_auf_einer_Klippe_2019.jpg
+  title: Pause auf einer Klippe 2019
+- src: images/fast_baywatch_Finnland_2019.jpg
+  title: fast baywatch Finnland 2019
+- src: images/und_noch_mal_meerjungfrau_aber_mit_Handy_2019.jpg
+  title: und noch mal meerjungfrau aber mit Handy 2019
+- src: images/frischwasser_pumpen_2019.jpg
+  title: frischwasser pumpen 2019
+- src: images/Zeltaufbau_am_Yachthafen_2019.jpg
+  title: Zeltaufbau am Yachthafen 2019
+- src: images/Max_ist_warm_2019.jpg
+  title: Max ist warm 2019
+- src: images/pause_hinter_dem_Orivesi_2019.jpg
+  title: pause hinter dem Orivesi 2019
+- src: images/Isabel_in_der_Rohrdurchfahrt_2019.jpg
+  title: Isabel in der Rohrdurchfahrt 2019
+- src: images/es_wird_gefaehrlich_gross_2019.jpg
+  title: es wird gefaehrlich gross 2019
+- src: images/Orivesi_zeigt_uns_mal_was_wirklich_Wellen_sind_2019.jpg
+  title: Orivesi zeigt uns mal was wirklich Wellen sind 2019
+- src: images/Grillen_in_Savonranta_2019.jpg
+  title: Grillen in Savonranta 2019
+- src: images/wir_haben_den_Orivesi_ueberstanden_2019.jpg
+  title: wir haben den Orivesi ueberstanden 2019
+- src: images/Til_und_der_ruppige_See_2019.jpg
+  title: Til und der ruppige See 2019
+- src: images/Biwakplatz_auf_einer_INsel_2019.jpg
+  title: Biwakplatz auf einer INsel 2019
+- src: images/Ruderer_auf_dem_Saimaa_2019.jpg
+  title: Ruderer auf dem Saimaa 2019
+- src: images/Bunkerbesichtigung_2019.jpg
+  title: Bunkerbesichtigung 2019
+- src: images/Pause_an_der_Salpa_Linie_2019.jpg
+  title: Pause an der Salpa Linie 2019
+- src: images/Inrigger_Hjaelmaren_vor_Sonnenuntergang_2019.jpg
+  title: Inrigger Hjaelmaren vor Sonnenuntergang 2019
+- src: images/Mannschaft_am_Lagerfeuer_2019.jpg
+  title: Mannschaft am Lagerfeuer 2019
+- src: images/Boote_ueber_der_Brandungslinie_gelagert_2019.jpg
+  title: Boote ueber der Brandungslinie gelagert 2019
+- src: images/Zelte_aufbauen_im_Wald_2019.jpg
+  title: Zelte aufbauen im Wald 2019
+- src: images/mal_wieder_ein_Rohr_2019.jpg
+  title: mal wieder ein Rohr 2019
+- src: images/Yachthafen_Kerimaeki_2019.jpg
+  title: Yachthafen Kerimaeki 2019
+- src: images/Isabel_im_Boot_2019.jpg
+  title: Isabel im Boot 2019
+- src: images/es_wird_mal_wieder_ruppig_2019.jpg
+  title: es wird mal wieder ruppig 2019
+- src: images/Kerimaeki_Holzkirche_2019.jpg
+  title: Kerimaeki Holzkirche 2019
+- src: images/Tim_im_Inrigger_2019.jpg
+  title: Tim im Inrigger 2019
+- src: images/enge_Bruecke_Finnland_2019.jpg
+  title: enge Bruecke Finnland 2019
+- src: images/Inrigger_in_wellen_2019.jpg
+  title: Inrigger in wellen 2019
+- src: images/Multebeeren_2019.jpg
+  title: Multebeeren 2019
+- src: images/Punkaharju_Abendessen_2019.jpg
+  title: Punkaharju Abendessen 2019
+länder:
+- finnland
+title: Finnland Saimaa 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

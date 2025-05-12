@@ -1,34 +1,28 @@
-+++
-title = "Meissen - Coswig 2015"
-author = ""
-date = 2015-02-02T01:00:00+02:00
-begin = "2015-02-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboote aufladen in Coswig 2015"
-src = "images/Ruderboote_aufladen_in_Coswig_2015.jpg"
-[[images]]
-title = "ablegen ruderboot  meissen Elbe 2015"
-src = "images/ablegen_ruderboot__meissen_Elbe_2015.jpg"
-[[images]]
-title = "Ruderboote RC KST Muehlberg 2015"
-src = "images/Ruderboote_RC_KST_Muehlberg_2015.jpg"
-[[images]]
-title = "Abendessen der Ruderer in Torgau 2015"
-src = "images/Abendessen_der_Ruderer_in_Torgau_2015.jpg"
-[[images]]
-title = "Ruderinnen auf der Elbe 2015"
-src = "images/Ruderinnen_auf_der_Elbe_2015.jpg"
-[[images]]
-title = "Anfahrt auf Torgau im Ruderboot Elbe 2015"
-src = "images/Anfahrt_auf_Torgau_im_Ruderboot_Elbe_2015.jpg"
-[[images]]
-title = "Seilfahre Elbe 2015"
-src = "images/Seilfahre_Elbe_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-02-01"
+date: "2015-02-02T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Ruderboote_aufladen_in_Coswig_2015.jpg
+  title: Ruderboote aufladen in Coswig 2015
+- src: images/ablegen_ruderboot__meissen_Elbe_2015.jpg
+  title: ablegen ruderboot  meissen Elbe 2015
+- src: images/Ruderboote_RC_KST_Muehlberg_2015.jpg
+  title: Ruderboote RC KST Muehlberg 2015
+- src: images/Abendessen_der_Ruderer_in_Torgau_2015.jpg
+  title: Abendessen der Ruderer in Torgau 2015
+- src: images/Ruderinnen_auf_der_Elbe_2015.jpg
+  title: Ruderinnen auf der Elbe 2015
+- src: images/Anfahrt_auf_Torgau_im_Ruderboot_Elbe_2015.jpg
+  title: Anfahrt auf Torgau im Ruderboot Elbe 2015
+- src: images/Seilfahre_Elbe_2015.jpg
+  title: Seilfahre Elbe 2015
+länder: []
+title: Meissen - Coswig 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

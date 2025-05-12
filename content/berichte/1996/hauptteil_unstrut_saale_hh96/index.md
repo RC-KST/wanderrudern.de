@@ -1,55 +1,47 @@
-+++
-title = "unstrut_saale_hh96"
-author = ""
-date = 1996-03-03T01:00:00+02:00
-begin = "1996-03-01"
-"gewässer" = ["elbe", "saale", "unstrut", "wannsee", "oder", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Zuganreise der Ruderer"
-src = "images/im_zug.jpg"
-[[images]]
-title = "Mädchenvierer auf der Saale"
-src = "images/vierer96.jpg"
-[[images]]
-title = "gruselquartier weissenfels ruderclub"
-src = "images/gruselquartier.jpg"
-[[images]]
-title = "schleusentor öffnen"
-src = "images/schleusenarbeiten.jpg"
-[[images]]
-title = "schleuse mit Ruderboot Ostern im Schnee"
-src = "images/schleuse.jpg"
-[[images]]
-title = "bernburg Carola beim Rudern"
-src = "images/bernburg96.jpg"
-[[images]]
-title = "benedikt ostereier suchen Wittenberge"
-src = "images/benedikt_ostereier.jpg"
-[[images]]
-title = "gameln im Ruderboot"
-src = "images/gameln.jpg"
-[[images]]
-title = "christoph kocht auf dem Steuerplatz"
-src = "images/christoph_kochen.jpg"
-[[images]]
-title = "schiffshebewerk Ruderer"
-src = "images/schiffshebewerk.jpg"
-[[images]]
-title = "hebewerk"
-src = "images/hebewerk.jpg"
-[[images]]
-title = "ilmenau einsetzen mit dem Ruderboot"
-src = "images/ilmenau.jpg"
-[[images]]
-title = "Elbe-Seitenkanal-Brücke Ilmenau"
-src = "images/esk_bruecke.jpg"
-[[images]]
-title = "hamburg hafen Christoph im Ruderboot"
-src = "images/hamburg_hafen.jpg"
-
-+++
+---
+author: ""
+begin: "1996-03-01"
+date: "1996-03-03T01:00:00+02:00"
+gewässer:
+- elbe
+- saale
+- unstrut
+- wannsee
+- oder
+- bug
+images:
+- src: images/im_zug.jpg
+  title: Zuganreise der Ruderer
+- src: images/vierer96.jpg
+  title: Mädchenvierer auf der Saale
+- src: images/gruselquartier.jpg
+  title: gruselquartier weissenfels ruderclub
+- src: images/schleusenarbeiten.jpg
+  title: schleusentor öffnen
+- src: images/schleuse.jpg
+  title: schleuse mit Ruderboot Ostern im Schnee
+- src: images/bernburg96.jpg
+  title: bernburg Carola beim Rudern
+- src: images/benedikt_ostereier.jpg
+  title: benedikt ostereier suchen Wittenberge
+- src: images/gameln.jpg
+  title: gameln im Ruderboot
+- src: images/christoph_kochen.jpg
+  title: christoph kocht auf dem Steuerplatz
+- src: images/schiffshebewerk.jpg
+  title: schiffshebewerk Ruderer
+- src: images/hebewerk.jpg
+  title: hebewerk
+- src: images/ilmenau.jpg
+  title: ilmenau einsetzen mit dem Ruderboot
+- src: images/esk_bruecke.jpg
+  title: Elbe-Seitenkanal-Brücke Ilmenau
+- src: images/hamburg_hafen.jpg
+  title: hamburg hafen Christoph im Ruderboot
+länder: []
+title: unstrut_saale_hh96
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

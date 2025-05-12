@@ -1,115 +1,83 @@
-+++
-title = "Loipoldhof 2008"
-author = ""
-date = 2008-08-08T01:00:00+02:00
-begin = "2008-08-01"
-"gewässer" = ["oder", "po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Gipfel des Pleschnitzzinken Ruderclub Kleinmachnow 08"
-src = "images/Gipfel_des_Pleschnitzzinken_Ruderclub_Kleinmachnow_08.jpg"
-[[images]]
-title = "Levon am Pleschnitzzinken 08"
-src = "images/Levon_am_Pleschnitzzinken_08.jpg"
-[[images]]
-title = "Ruderer beim Abstieg L08"
-src = "images/Ruderer_beim_Abstieg_L08.jpg"
-[[images]]
-title = "Ochsenkarhoehe L08"
-src = "images/Ochsenkarhoehe_L08.jpg"
-[[images]]
-title = "AnkunftPleschnitzalm2"
-src = "images/AnkunftPleschnitzalm2.jpg"
-[[images]]
-title = "Bodensee4"
-src = "images/Bodensee4.jpg"
-[[images]]
-title = "Spateckschafe1"
-src = "images/Spateckschafe1.jpg"
-[[images]]
-title = "Ruderer auf dem Kochofen L08"
-src = "images/Ruderer_auf_dem_Kochofen_L08.jpg"
-[[images]]
-title = "Kochofen1 L08"
-src = "images/Kochofen1_L08.jpg"
-[[images]]
-title = "Ruderer auf dem Spateck L08"
-src = "images/Ruderer_auf_dem_Spateck_L08.jpg"
-[[images]]
-title = "Ruderer auf dem Schusterstuhl L08"
-src = "images/Ruderer_auf_dem_Schusterstuhl_L08.jpg"
-[[images]]
-title = "Spateck vom Schusterstuhl L08"
-src = "images/Spateck_vom_Schusterstuhl_L08.jpg"
-[[images]]
-title = "Spateck3 L08"
-src = "images/Spateck3_L08.jpg"
-[[images]]
-title = "Stoderkreuz L08"
-src = "images/Stoderkreuz_L08.jpg"
-[[images]]
-title = "Rittisberg Gipfel3 L08"
-src = "images/Rittisberg_Gipfel3_L08.jpg"
-[[images]]
-title = "Sommerrodelbahn L08"
-src = "images/Sommerrodelbahn_L08.jpg"
-[[images]]
-title = "Kleine Wildstelle L08"
-src = "images/Kleine_Wildstelle_L08.jpg"
-[[images]]
-title = "Ruderer auf der Hochwildstelle L08"
-src = "images/Ruderer_auf_der_Hochwildstelle_L08.jpg"
-[[images]]
-title = "Hochwildstelle L08"
-src = "images/Hochwildstelle_L08.jpg"
-[[images]]
-title = "Levon und Moritz an der Neualmscharte L08"
-src = "images/Levon_und_Moritz_an_der_Neualmscharte_L08.jpg"
-[[images]]
-title = "An der Kleinen Wildstelle3 L08"
-src = "images/An_der_Kleinen_Wildstelle3_L08.jpg"
-[[images]]
-title = "Scharte vor hochwildstelle L08"
-src = "images/Scharte_vor_hochwildstelle_L08.jpg"
-[[images]]
-title = "Neualmscharte von Woedlhuette1"
-src = "images/Neualmscharte_von_Woedlhuette1.jpg"
-[[images]]
-title = "AufstiegSee1 L08"
-src = "images/AufstiegSee1_L08.jpg"
-[[images]]
-title = "Goldlaken3"
-src = "images/Goldlaken3.jpg"
-[[images]]
-title = "AufstiegSee2"
-src = "images/AufstiegSee2.jpg"
-[[images]]
-title = "Kinder am See2 L08"
-src = "images/Kinder_am_See2_L08.jpg"
-[[images]]
-title = "Blick auf den Knallstein L08"
-src = "images/Blick_auf_den_Knallstein_L08.jpg"
-[[images]]
-title = "Endanstieg Grosser Knallstein L08"
-src = "images/Endanstieg_Grosser_Knallstein_L08.jpg"
-[[images]]
-title = "Ruderer auf dem Grossen Knallstein L08"
-src = "images/Ruderer_auf_dem_Grossen_Knallstein_L08.jpg"
-[[images]]
-title = "Berglandschaft am Knallstein L08"
-src = "images/Berglandschaft_am_Knallstein_L08.jpg"
-[[images]]
-title = "Loipoldhof mit Spielplatz L08"
-src = "images/Loipoldhof_mit_Spielplatz_L08.jpg"
-[[images]]
-title = "Trampolin Loipoldhof L08"
-src = "images/Trampolin_Loipoldhof_L08.jpg"
-[[images]]
-title = "VorderTuer L08"
-src = "images/VorderTuer_L08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-08-01"
+date: "2008-08-08T01:00:00+02:00"
+gewässer:
+- oder
+- po
+images:
+- src: images/Gipfel_des_Pleschnitzzinken_Ruderclub_Kleinmachnow_08.jpg
+  title: Gipfel des Pleschnitzzinken Ruderclub Kleinmachnow 08
+- src: images/Levon_am_Pleschnitzzinken_08.jpg
+  title: Levon am Pleschnitzzinken 08
+- src: images/Ruderer_beim_Abstieg_L08.jpg
+  title: Ruderer beim Abstieg L08
+- src: images/Ochsenkarhoehe_L08.jpg
+  title: Ochsenkarhoehe L08
+- src: images/AnkunftPleschnitzalm2.jpg
+  title: AnkunftPleschnitzalm2
+- src: images/Bodensee4.jpg
+  title: Bodensee4
+- src: images/Spateckschafe1.jpg
+  title: Spateckschafe1
+- src: images/Ruderer_auf_dem_Kochofen_L08.jpg
+  title: Ruderer auf dem Kochofen L08
+- src: images/Kochofen1_L08.jpg
+  title: Kochofen1 L08
+- src: images/Ruderer_auf_dem_Spateck_L08.jpg
+  title: Ruderer auf dem Spateck L08
+- src: images/Ruderer_auf_dem_Schusterstuhl_L08.jpg
+  title: Ruderer auf dem Schusterstuhl L08
+- src: images/Spateck_vom_Schusterstuhl_L08.jpg
+  title: Spateck vom Schusterstuhl L08
+- src: images/Spateck3_L08.jpg
+  title: Spateck3 L08
+- src: images/Stoderkreuz_L08.jpg
+  title: Stoderkreuz L08
+- src: images/Rittisberg_Gipfel3_L08.jpg
+  title: Rittisberg Gipfel3 L08
+- src: images/Sommerrodelbahn_L08.jpg
+  title: Sommerrodelbahn L08
+- src: images/Kleine_Wildstelle_L08.jpg
+  title: Kleine Wildstelle L08
+- src: images/Ruderer_auf_der_Hochwildstelle_L08.jpg
+  title: Ruderer auf der Hochwildstelle L08
+- src: images/Hochwildstelle_L08.jpg
+  title: Hochwildstelle L08
+- src: images/Levon_und_Moritz_an_der_Neualmscharte_L08.jpg
+  title: Levon und Moritz an der Neualmscharte L08
+- src: images/An_der_Kleinen_Wildstelle3_L08.jpg
+  title: An der Kleinen Wildstelle3 L08
+- src: images/Scharte_vor_hochwildstelle_L08.jpg
+  title: Scharte vor hochwildstelle L08
+- src: images/Neualmscharte_von_Woedlhuette1.jpg
+  title: Neualmscharte von Woedlhuette1
+- src: images/AufstiegSee1_L08.jpg
+  title: AufstiegSee1 L08
+- src: images/Goldlaken3.jpg
+  title: Goldlaken3
+- src: images/AufstiegSee2.jpg
+  title: AufstiegSee2
+- src: images/Kinder_am_See2_L08.jpg
+  title: Kinder am See2 L08
+- src: images/Blick_auf_den_Knallstein_L08.jpg
+  title: Blick auf den Knallstein L08
+- src: images/Endanstieg_Grosser_Knallstein_L08.jpg
+  title: Endanstieg Grosser Knallstein L08
+- src: images/Ruderer_auf_dem_Grossen_Knallstein_L08.jpg
+  title: Ruderer auf dem Grossen Knallstein L08
+- src: images/Berglandschaft_am_Knallstein_L08.jpg
+  title: Berglandschaft am Knallstein L08
+- src: images/Loipoldhof_mit_Spielplatz_L08.jpg
+  title: Loipoldhof mit Spielplatz L08
+- src: images/Trampolin_Loipoldhof_L08.jpg
+  title: Trampolin Loipoldhof L08
+- src: images/VorderTuer_L08.jpg
+  title: VorderTuer L08
+länder: []
+title: Loipoldhof 2008
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,25 @@
-+++
-title = "Tegelort-Wanderfahrt 2011"
-author = ""
-date = 2011-09-09T01:00:00+02:00
-begin = "2011-09-01"
-"gewässer" = ["havel", "tegler see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Nirina Gideon Oberhavel vor Oranienburg 2011"
-src = "images/Nirina_Gideon_Oberhavel_vor_Oranienburg_2011.jpg"
-[[images]]
-title = "Ruderboote in Schlosshafen Oranienburg Tegelort 2011"
-src = "images/Ruderboote_in_Schlosshafen_Oranienburg_Tegelort_2011.jpg"
-[[images]]
-title = "Ruderboote Tegelort am Steg 2011"
-src = "images/Ruderboote_Tegelort_am_Steg_2011.jpg"
-[[images]]
-title = "Grillen Tegelort 2011"
-src = "images/Grillen_Tegelort_2011.jpg"
-[[images]]
-title = "Badestrand Havel Ruderer Tegelort 2011"
-src = "images/Badestrand_Havel_Ruderer_Tegelort_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-09-01"
+date: "2011-09-09T01:00:00+02:00"
+gewässer:
+- havel
+- tegler see
+images:
+- src: images/Nirina_Gideon_Oberhavel_vor_Oranienburg_2011.jpg
+  title: Nirina Gideon Oberhavel vor Oranienburg 2011
+- src: images/Ruderboote_in_Schlosshafen_Oranienburg_Tegelort_2011.jpg
+  title: Ruderboote in Schlosshafen Oranienburg Tegelort 2011
+- src: images/Ruderboote_Tegelort_am_Steg_2011.jpg
+  title: Ruderboote Tegelort am Steg 2011
+- src: images/Grillen_Tegelort_2011.jpg
+  title: Grillen Tegelort 2011
+- src: images/Badestrand_Havel_Ruderer_Tegelort_2011.jpg
+  title: Badestrand Havel Ruderer Tegelort 2011
+länder: []
+title: Tegelort-Wanderfahrt 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

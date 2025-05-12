@@ -1,19 +1,19 @@
-+++
-title = "KSB ehrt Johanna 2015"
-author = ""
-date = 2015-07-07T01:00:00+02:00
-begin = "2015-07-01"
-"gewässer" = ["spreewald", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ehrenamtspreis Johanna KSB PM 2015"
-src = "images/Ehrenamtspreis_Johanna_KSB_PM_2015.jpg"
-[[images]]
-title = "johanna preisverleihung ksb"
-src = "images/johanna_preisverleihung_ksb.jpg"
-
-+++
+---
+author: ""
+begin: "2015-07-01"
+date: "2015-07-07T01:00:00+02:00"
+gewässer:
+- spreewald
+- oder
+images:
+- src: images/Ehrenamtspreis_Johanna_KSB_PM_2015.jpg
+  title: Ehrenamtspreis Johanna KSB PM 2015
+- src: images/johanna_preisverleihung_ksb.jpg
+  title: johanna preisverleihung ksb
+länder: []
+title: KSB ehrt Johanna 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

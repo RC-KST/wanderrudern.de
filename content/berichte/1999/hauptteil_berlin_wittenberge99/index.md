@@ -1,16 +1,19 @@
-+++
-title = "berlin_wittenberg99"
-author = ""
-date = 1999-06-06T01:00:00+02:00
-begin = "1999-06-01"
-"gewässer" = ["havel", "plauer see", "oder", "saimaa"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "laura liegt im Ruderboot"
-src = "images/laura.jpg"
-
-+++
+---
+author: ""
+begin: "1999-06-01"
+date: "1999-06-06T01:00:00+02:00"
+gewässer:
+- havel
+- plauer see
+- oder
+- saimaa
+images:
+- src: images/laura.jpg
+  title: laura liegt im Ruderboot
+länder: []
+title: berlin_wittenberg99
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

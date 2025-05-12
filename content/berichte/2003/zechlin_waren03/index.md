@@ -1,22 +1,22 @@
-+++
-title = "Zechlin Waren 2003"
-author = ""
-date = 2003-01-01T01:00:00+02:00
-begin = "2003-01-01"
-"gewässer" = ["aller", "mecklenburger seenplatte", "labussee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot "
-src = "images/robert_sophia.jpg"
-[[images]]
-title = "auf der Müritz"
-src = "images/mueritz_mb03.jpg"
-[[images]]
-title = "Kochen in Waren beim Ruderverein"
-src = "images/kochen_mb0302.jpg"
-
-+++
+---
+author: ""
+begin: "2003-01-01"
+date: "2003-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- mecklenburger seenplatte
+- labussee
+images:
+- src: images/robert_sophia.jpg
+  title: 'Ruderboot '
+- src: images/mueritz_mb03.jpg
+  title: auf der Müritz
+- src: images/kochen_mb0302.jpg
+  title: Kochen in Waren beim Ruderverein
+länder: []
+title: Zechlin Waren 2003
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

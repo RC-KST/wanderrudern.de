@@ -1,25 +1,21 @@
-+++
-title = "Arbeitseinsatz September 06"
-author = ""
-date = 2006-09-09T01:00:00+02:00
-begin = "2006-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Arbeitseinsatz Schuppen2"
-src = "images/Arbeitseinsatz_Schuppen2.jpg"
-[[images]]
-title = "Arbeitseinsatz Schuppen1"
-src = "images/Arbeitseinsatz_Schuppen1.jpg"
-[[images]]
-title = "Arebeitseinsatz Pavilion3"
-src = "images/Arebeitseinsatz_Pavilion3.jpg"
-[[images]]
-title = "Arebeitseinsatz Pavilion2"
-src = "images/Arebeitseinsatz_Pavilion2.jpg"
-
-+++
+---
+author: ""
+begin: "2006-09-01"
+date: "2006-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Arbeitseinsatz_Schuppen2.jpg
+  title: Arbeitseinsatz Schuppen2
+- src: images/Arbeitseinsatz_Schuppen1.jpg
+  title: Arbeitseinsatz Schuppen1
+- src: images/Arebeitseinsatz_Pavilion3.jpg
+  title: Arebeitseinsatz Pavilion3
+- src: images/Arebeitseinsatz_Pavilion2.jpg
+  title: Arebeitseinsatz Pavilion2
+länder: []
+title: Arbeitseinsatz September 06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

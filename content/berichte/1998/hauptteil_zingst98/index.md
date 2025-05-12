@@ -1,16 +1,18 @@
-+++
-title = "zingst 1998"
-author = ""
-date = 1998-01-01T01:00:00+02:00
-begin = "1998-01-01"
-"gewässer" = ["ostsee", "bug"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "krystina mit rettungsweste auf der ostsee"
-src = "images/krystina_zi98.jpg"
-
-+++
+---
+author: ""
+begin: "1998-01-01"
+date: "1998-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- bug
+images:
+- src: images/krystina_zi98.jpg
+  title: krystina mit rettungsweste auf der ostsee
+länder:
+- finnland
+title: zingst 1998
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

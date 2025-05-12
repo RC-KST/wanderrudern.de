@@ -1,151 +1,110 @@
-+++
-title = "Venedig Silvester 2012"
-author = ""
-date = 2012-12-12T01:00:00+02:00
-begin = "2012-12-01"
-"gewässer" = ["oder", "mittelmeer", "lagune von venedig"]
-"länder" = ["deutschland", "italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Mannschaft vor dem Quartier Venedig 2012"
-src = "images/Mannschaft_vor_dem_Quartier_Venedig_2012.jpg"
-[[images]]
-title = "Auf der Adria bei Jesolo Venedig 2012"
-src = "images/Auf_der_Adria_bei_Jesolo_Venedig_2012.jpg"
-[[images]]
-title = "Ruderer am Strand bei Punta Sabbioni Venedig 2012"
-src = "images/Ruderer_am_Strand_bei_Punta_Sabbioni_Venedig_2012.jpg"
-[[images]]
-title = "Zweier landet am Strand bei Punta Sabbioni Venedig 2012"
-src = "images/Zweier_landet_am_Strand_bei_Punta_Sabbioni_Venedig_2012.jpg"
-[[images]]
-title = "E-Dreier vor dem Griechenlandfaehre Venedig 2012"
-src = "images/E-Dreier_vor_dem_Griechenlandfaehre_Venedig_2012.jpg"
-[[images]]
-title = "Gondel auf der Lagune Venedig 2012"
-src = "images/Gondel_auf_der_Lagune_Venedig_2012.jpg"
-[[images]]
-title = "Einsame Lagune Venedig 2012"
-src = "images/Einsame_Lagune_Venedig_2012.jpg"
-[[images]]
-title = "Nirina und LingLing Venedig 2012"
-src = "images/Nirina_und_LingLing_Venedig_2012.jpg"
-[[images]]
-title = "Einsames Haus in der Lagune Venedig 2012"
-src = "images/Einsames_Haus_in_der_Lagune_Venedig_2012.jpg"
-[[images]]
-title = "Sille im Nebel Venedig 2013"
-src = "images/Sille_im_Nebel_Venedig_2013.jpg"
-[[images]]
-title = "Silvesterfeuerwerk Venedig 2012"
-src = "images/Silvesterfeuerwerk_Venedig_2012.jpg"
-[[images]]
-title = "Silvester Ferienhaus Jesolo Venedig 2012"
-src = "images/Silvester_Ferienhaus_Jesolo_Venedig_2012.jpg"
-[[images]]
-title = "Kanal nach Treporti Venedig 2013"
-src = "images/Kanal_nach_Treporti_Venedig_2013.jpg"
-[[images]]
-title = "Burano Boote im Kanal Venedig 2013"
-src = "images/Burano_Boote_im_Kanal_Venedig_2013.jpg"
-[[images]]
-title = "Ruderboot vor Burano Venedig 2013"
-src = "images/Ruderboot_vor_Burano_Venedig_2013.jpg"
-[[images]]
-title = "Burano Kanal Venedig 2013"
-src = "images/Burano_Kanal_Venedig_2013.jpg"
-[[images]]
-title = "Ruderer in Burano Venedig 2013"
-src = "images/Ruderer_in_Burano_Venedig_2013.jpg"
-[[images]]
-title = "Abendessen Neujahr 2013 Venedig"
-src = "images/Abendessen_Neujahr_2013_Venedig.jpg"
-[[images]]
-title = "Spitze aus Burano Venedig 2013"
-src = "images/Spitze_aus_Burano_Venedig_2013.jpg"
-[[images]]
-title = "Ruderboot bei Burano Venedig 2013"
-src = "images/Ruderboot_bei_Burano_Venedig_2013.jpg"
-[[images]]
-title = "Markusplatz Venedig 2013"
-src = "images/Markusplatz_Venedig_2013.jpg"
-[[images]]
-title = "Jonathan in Venedig 2013"
-src = "images/Jonathan_in_Venedig_2013.jpg"
-[[images]]
-title = "Glasshop Venedig 2013"
-src = "images/Glasshop_Venedig_2013.jpg"
-[[images]]
-title = "Glaskunst Venedig 2013"
-src = "images/Glaskunst_Venedig_2013.jpg"
-[[images]]
-title = "Schiefer turm von burano venedig 2013"
-src = "images/Schiefer_turm_von_burano_venedig_2013.jpg"
-[[images]]
-title = "Venedig Kanal 2013"
-src = "images/Venedig_Kanal_2013.jpg"
-[[images]]
-title = "Bruecke Kanal Venedig 2013"
-src = "images/Bruecke_Kanal_Venedig_2013.jpg"
-[[images]]
-title = "Aufwaermen im Restauarant Venedig 2013"
-src = "images/Aufwaermen_im_Restauarant_Venedig_2013.jpg"
-[[images]]
-title = "Dreier auf der Lagune Venedig 2013"
-src = "images/Dreier_auf_der_Lagune_Venedig_2013.jpg"
-[[images]]
-title = "Murano Ufer Venedig 2013"
-src = "images/Murano_Ufer_Venedig_2013.jpg"
-[[images]]
-title = "Ruderboote in Murano Venedig 2013"
-src = "images/Ruderboote_in_Murano_Venedig_2013.jpg"
-[[images]]
-title = "Murano Venedig 2013"
-src = "images/Murano_Venedig_2013.jpg"
-[[images]]
-title = "Grossgondel im Museum Venedig 2013"
-src = "images/Grossgondel_im_Museum_Venedig_2013.jpg"
-[[images]]
-title = "Einfahrt zum Canale Grande Venedig 2013"
-src = "images/Einfahrt_zum_Canale_Grande_Venedig_2013.jpg"
-[[images]]
-title = "jede menge gondeln vor rialto venedig 2013"
-src = "images/jede_menge_gondeln_vor_rialto_venedig_2013.jpg"
-[[images]]
-title = "Ruderboot vor der Rialto Bruecke Venedig 2013"
-src = "images/Ruderboot_vor_der_Rialto_Bruecke_Venedig_2013.jpg"
-[[images]]
-title = "Nebenkanal es wird enger Venedig 2013"
-src = "images/Nebenkanal_es_wird_enger_Venedig_2013.jpg"
-[[images]]
-title = "Palazzos am Canale Grande Venedig 2013"
-src = "images/Palazzos_am_Canale_Grande_Venedig_2013.jpg"
-[[images]]
-title = "Casino von Venedig ohne James Bond aber mit Jonathan Venedig 2013"
-src = "images/Casino_von_Venedig_ohne_James_Bond_aber_mit_Jonathan_Venedig_2013.jpg"
-[[images]]
-title = "asiatische touristin in venedig 2013"
-src = "images/asiatische_touristin_in_venedig_2013.jpg"
-[[images]]
-title = "Venedig Downtown 2013"
-src = "images/Venedig_Downtown_2013.jpg"
-[[images]]
-title = "unter der Seufzerbruecke Venedig  2013"
-src = "images/unter_der_Seufzerbruecke_Venedig__2013.jpg"
-[[images]]
-title = "Markusplatz vom Ruderboot aus Venedig 2013"
-src = "images/Markusplatz_vom_Ruderboot_aus_Venedig_2013.jpg"
-[[images]]
-title = "Chaos vor dem Bahnhog von Venedig 2013"
-src = "images/Chaos_vor_dem_Bahnhog_von_Venedig_2013.jpg"
-[[images]]
-title = "wieder in Punta sabbioni Venedig 2013"
-src = "images/wieder_in_Punta_sabbioni_Venedig_2013.jpg"
-[[images]]
-title = "Alpen im Januar ohne Schnee Venedig 2013"
-src = "images/Alpen_im_Januar_ohne_Schnee_Venedig_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2012-12-01"
+date: "2012-12-12T01:00:00+02:00"
+gewässer:
+- oder
+- mittelmeer
+- lagune von venedig
+images:
+- src: images/Mannschaft_vor_dem_Quartier_Venedig_2012.jpg
+  title: Mannschaft vor dem Quartier Venedig 2012
+- src: images/Auf_der_Adria_bei_Jesolo_Venedig_2012.jpg
+  title: Auf der Adria bei Jesolo Venedig 2012
+- src: images/Ruderer_am_Strand_bei_Punta_Sabbioni_Venedig_2012.jpg
+  title: Ruderer am Strand bei Punta Sabbioni Venedig 2012
+- src: images/Zweier_landet_am_Strand_bei_Punta_Sabbioni_Venedig_2012.jpg
+  title: Zweier landet am Strand bei Punta Sabbioni Venedig 2012
+- src: images/E-Dreier_vor_dem_Griechenlandfaehre_Venedig_2012.jpg
+  title: E-Dreier vor dem Griechenlandfaehre Venedig 2012
+- src: images/Gondel_auf_der_Lagune_Venedig_2012.jpg
+  title: Gondel auf der Lagune Venedig 2012
+- src: images/Einsame_Lagune_Venedig_2012.jpg
+  title: Einsame Lagune Venedig 2012
+- src: images/Nirina_und_LingLing_Venedig_2012.jpg
+  title: Nirina und LingLing Venedig 2012
+- src: images/Einsames_Haus_in_der_Lagune_Venedig_2012.jpg
+  title: Einsames Haus in der Lagune Venedig 2012
+- src: images/Sille_im_Nebel_Venedig_2013.jpg
+  title: Sille im Nebel Venedig 2013
+- src: images/Silvesterfeuerwerk_Venedig_2012.jpg
+  title: Silvesterfeuerwerk Venedig 2012
+- src: images/Silvester_Ferienhaus_Jesolo_Venedig_2012.jpg
+  title: Silvester Ferienhaus Jesolo Venedig 2012
+- src: images/Kanal_nach_Treporti_Venedig_2013.jpg
+  title: Kanal nach Treporti Venedig 2013
+- src: images/Burano_Boote_im_Kanal_Venedig_2013.jpg
+  title: Burano Boote im Kanal Venedig 2013
+- src: images/Ruderboot_vor_Burano_Venedig_2013.jpg
+  title: Ruderboot vor Burano Venedig 2013
+- src: images/Burano_Kanal_Venedig_2013.jpg
+  title: Burano Kanal Venedig 2013
+- src: images/Ruderer_in_Burano_Venedig_2013.jpg
+  title: Ruderer in Burano Venedig 2013
+- src: images/Abendessen_Neujahr_2013_Venedig.jpg
+  title: Abendessen Neujahr 2013 Venedig
+- src: images/Spitze_aus_Burano_Venedig_2013.jpg
+  title: Spitze aus Burano Venedig 2013
+- src: images/Ruderboot_bei_Burano_Venedig_2013.jpg
+  title: Ruderboot bei Burano Venedig 2013
+- src: images/Markusplatz_Venedig_2013.jpg
+  title: Markusplatz Venedig 2013
+- src: images/Jonathan_in_Venedig_2013.jpg
+  title: Jonathan in Venedig 2013
+- src: images/Glasshop_Venedig_2013.jpg
+  title: Glasshop Venedig 2013
+- src: images/Glaskunst_Venedig_2013.jpg
+  title: Glaskunst Venedig 2013
+- src: images/Schiefer_turm_von_burano_venedig_2013.jpg
+  title: Schiefer turm von burano venedig 2013
+- src: images/Venedig_Kanal_2013.jpg
+  title: Venedig Kanal 2013
+- src: images/Bruecke_Kanal_Venedig_2013.jpg
+  title: Bruecke Kanal Venedig 2013
+- src: images/Aufwaermen_im_Restauarant_Venedig_2013.jpg
+  title: Aufwaermen im Restauarant Venedig 2013
+- src: images/Dreier_auf_der_Lagune_Venedig_2013.jpg
+  title: Dreier auf der Lagune Venedig 2013
+- src: images/Murano_Ufer_Venedig_2013.jpg
+  title: Murano Ufer Venedig 2013
+- src: images/Ruderboote_in_Murano_Venedig_2013.jpg
+  title: Ruderboote in Murano Venedig 2013
+- src: images/Murano_Venedig_2013.jpg
+  title: Murano Venedig 2013
+- src: images/Grossgondel_im_Museum_Venedig_2013.jpg
+  title: Grossgondel im Museum Venedig 2013
+- src: images/Einfahrt_zum_Canale_Grande_Venedig_2013.jpg
+  title: Einfahrt zum Canale Grande Venedig 2013
+- src: images/jede_menge_gondeln_vor_rialto_venedig_2013.jpg
+  title: jede menge gondeln vor rialto venedig 2013
+- src: images/Ruderboot_vor_der_Rialto_Bruecke_Venedig_2013.jpg
+  title: Ruderboot vor der Rialto Bruecke Venedig 2013
+- src: images/Nebenkanal_es_wird_enger_Venedig_2013.jpg
+  title: Nebenkanal es wird enger Venedig 2013
+- src: images/Palazzos_am_Canale_Grande_Venedig_2013.jpg
+  title: Palazzos am Canale Grande Venedig 2013
+- src: images/Casino_von_Venedig_ohne_James_Bond_aber_mit_Jonathan_Venedig_2013.jpg
+  title: Casino von Venedig ohne James Bond aber mit Jonathan Venedig 2013
+- src: images/asiatische_touristin_in_venedig_2013.jpg
+  title: asiatische touristin in venedig 2013
+- src: images/Venedig_Downtown_2013.jpg
+  title: Venedig Downtown 2013
+- src: images/unter_der_Seufzerbruecke_Venedig__2013.jpg
+  title: unter der Seufzerbruecke Venedig  2013
+- src: images/Markusplatz_vom_Ruderboot_aus_Venedig_2013.jpg
+  title: Markusplatz vom Ruderboot aus Venedig 2013
+- src: images/Chaos_vor_dem_Bahnhog_von_Venedig_2013.jpg
+  title: Chaos vor dem Bahnhog von Venedig 2013
+- src: images/wieder_in_Punta_sabbioni_Venedig_2013.jpg
+  title: wieder in Punta sabbioni Venedig 2013
+- src: images/Alpen_im_Januar_ohne_Schnee_Venedig_2013.jpg
+  title: Alpen im Januar ohne Schnee Venedig 2013
+länder:
+- deutschland
+- italien
+title: Venedig Silvester 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

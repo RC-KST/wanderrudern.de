@@ -1,25 +1,22 @@
-+++
-title = "LItomerice - Pirna 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer im Whirlpool Decin 2017"
-src = "images/Ruderer_im_Whirlpool_Decin_2017.jpg"
-[[images]]
-title = "Einsetzen der Ruderboote in LOvosice 2017"
-src = "images/Einsetzen_der_Ruderboote_in_LOvosice_2017.jpg"
-[[images]]
-title = "Elbe in Lovosice 2017"
-src = "images/Elbe_in_Lovosice_2017.jpg"
-[[images]]
-title = "Isabel vor der Bastei 2017"
-src = "images/Isabel_vor_der_Bastei_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderer_im_Whirlpool_Decin_2017.jpg
+  title: Ruderer im Whirlpool Decin 2017
+- src: images/Einsetzen_der_Ruderboote_in_LOvosice_2017.jpg
+  title: Einsetzen der Ruderboote in LOvosice 2017
+- src: images/Elbe_in_Lovosice_2017.jpg
+  title: Elbe in Lovosice 2017
+- src: images/Isabel_vor_der_Bastei_2017.jpg
+  title: Isabel vor der Bastei 2017
+länder:
+- tschechien
+title: LItomerice - Pirna 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

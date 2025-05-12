@@ -1,100 +1,75 @@
-+++
-title = "Camargue 2006"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["oder", "rhone", "mittelmeer"]
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "camargue06 party"
-src = "images/camargue06_party2.jpg"
-[[images]]
-title = "camargue06 zimmer ruderer beim Gelage"
-src = "images/camargue06_zimmer1.jpg"
-[[images]]
-title = "camargue06_steffel_matze"
-src = "images/camargue06_steffel_matze.jpg"
-[[images]]
-title = "camargue06 sophie im Zimmer"
-src = "images/camargue06_sophie.jpg"
-[[images]]
-title = "camargue06 c-vierer"
-src = "images/camargue06_c-vierer.jpg"
-[[images]]
-title = "camargue06 franzis traum"
-src = "images/camargue06_franzis_traum.jpg"
-[[images]]
-title = "camargue06_grandemotte_boote"
-src = "images/camargue06_grandemotte_boote.jpg"
-[[images]]
-title = "camargue06 franzi Zweier-Ruderboot"
-src = "images/camargue06_franzi_zweier.jpg"
-[[images]]
-title = "cam06 franzi stefan im Ruderboot"
-src = "images/cam06_franzi_stefan.jpg"
-[[images]]
-title = "camargue06_stefan"
-src = "images/camargue06_stefan.jpg"
-[[images]]
-title = "camargue06 malte am steg ruderboot"
-src = "images/camargue06_malte.jpg"
-[[images]]
-title = "camargue06 panzer vor der brandung"
-src = "images/camargue06_panzer-brandung.jpg"
-[[images]]
-title = "camargue06 rennruderer"
-src = "images/camargue06_rennruderer.jpg"
-[[images]]
-title = "Le Grau du Roi Rudern aviron"
-src = "images/cam06_seevierer3.jpg"
-[[images]]
-title = "Le Grau du Roi Kanalmündung"
-src = "images/cam06_ausfahrt4.jpg"
-[[images]]
-title = "camargue ausfahrt aus dem Hafen"
-src = "images/cam06_ausfahrt2.jpg"
-[[images]]
-title = "Le Grau du Roi Leuchtturm"
-src = "images/cam06_ausfahrt.jpg"
-[[images]]
-title = "cam06_ausfahrt5"
-src = "images/cam06_ausfahrt5.jpg"
-[[images]]
-title = "Ruderer Le Grau du Roi"
-src = "images/cam06_gruppe2.jpg"
-[[images]]
-title = "camargue06 weingut"
-src = "images/camargue06_wein.jpg"
-[[images]]
-title = "camargue06 weinstoecke"
-src = "images/camargue06_weinstoecke.jpg"
-[[images]]
-title = "camargue06_weinprobe"
-src = "images/camargue06_weinprobe.jpg"
-[[images]]
-title = "camargue06 ruderer am strand"
-src = "images/camargue06_panzer_mannschaft.jpg"
-[[images]]
-title = "camargue06_seevierer4"
-src = "images/camargue06_seevierer4.jpg"
-[[images]]
-title = "camargue06 winter sommer ruderer"
-src = "images/camargue06_winter_sommer.jpg"
-[[images]]
-title = "camargue_joerg_paula2"
-src = "images/camargue_joerg_paula2.jpg"
-[[images]]
-title = "camargue06 lesbaux paula"
-src = "images/camargue06_lesbaux_paula302.jpg"
-[[images]]
-title = "camargue06 lesbaux mannschaft Ruderer"
-src = "images/camargue06_lesbaux_mannschaft.jpg"
-[[images]]
-title = "Abendessen mit Werner Hoth"
-src = "images/camargue06_restaurant2.jpg"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- rhone
+- mittelmeer
+images:
+- src: images/camargue06_party2.jpg
+  title: camargue06 party
+- src: images/camargue06_zimmer1.jpg
+  title: camargue06 zimmer ruderer beim Gelage
+- src: images/camargue06_steffel_matze.jpg
+  title: camargue06_steffel_matze
+- src: images/camargue06_sophie.jpg
+  title: camargue06 sophie im Zimmer
+- src: images/camargue06_c-vierer.jpg
+  title: camargue06 c-vierer
+- src: images/camargue06_franzis_traum.jpg
+  title: camargue06 franzis traum
+- src: images/camargue06_grandemotte_boote.jpg
+  title: camargue06_grandemotte_boote
+- src: images/camargue06_franzi_zweier.jpg
+  title: camargue06 franzi Zweier-Ruderboot
+- src: images/cam06_franzi_stefan.jpg
+  title: cam06 franzi stefan im Ruderboot
+- src: images/camargue06_stefan.jpg
+  title: camargue06_stefan
+- src: images/camargue06_malte.jpg
+  title: camargue06 malte am steg ruderboot
+- src: images/camargue06_panzer-brandung.jpg
+  title: camargue06 panzer vor der brandung
+- src: images/camargue06_rennruderer.jpg
+  title: camargue06 rennruderer
+- src: images/cam06_seevierer3.jpg
+  title: Le Grau du Roi Rudern aviron
+- src: images/cam06_ausfahrt4.jpg
+  title: Le Grau du Roi Kanalmündung
+- src: images/cam06_ausfahrt2.jpg
+  title: camargue ausfahrt aus dem Hafen
+- src: images/cam06_ausfahrt.jpg
+  title: Le Grau du Roi Leuchtturm
+- src: images/cam06_ausfahrt5.jpg
+  title: cam06_ausfahrt5
+- src: images/cam06_gruppe2.jpg
+  title: Ruderer Le Grau du Roi
+- src: images/camargue06_wein.jpg
+  title: camargue06 weingut
+- src: images/camargue06_weinstoecke.jpg
+  title: camargue06 weinstoecke
+- src: images/camargue06_weinprobe.jpg
+  title: camargue06_weinprobe
+- src: images/camargue06_panzer_mannschaft.jpg
+  title: camargue06 ruderer am strand
+- src: images/camargue06_seevierer4.jpg
+  title: camargue06_seevierer4
+- src: images/camargue06_winter_sommer.jpg
+  title: camargue06 winter sommer ruderer
+- src: images/camargue_joerg_paula2.jpg
+  title: camargue_joerg_paula2
+- src: images/camargue06_lesbaux_paula302.jpg
+  title: camargue06 lesbaux paula
+- src: images/camargue06_lesbaux_mannschaft.jpg
+  title: camargue06 lesbaux mannschaft Ruderer
+- src: images/camargue06_restaurant2.jpg
+  title: Abendessen mit Werner Hoth
+länder:
+- frankreich
+title: Camargue 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

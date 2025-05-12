@@ -1,115 +1,82 @@
-+++
-title = "Schweden Asnen 2023"
-author = ""
-date = 2023-08-08T01:00:00+02:00
-begin = "2023-08-01"
-"gewässer" = []
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Fährhafen Rostock Schweden 2023"
-src = "images/Fahrhafen_Rostock_Schweden_2023.jpg"
-[[images]]
-title = "Frühstück der Ruderer Asnen 2023"
-src = "images/Fruhstuck_der_Ruderer_Asnen_2023.jpg"
-[[images]]
-title = "Vrigstadt Gard am Asnen 2023"
-src = "images/Vrigstadt_Gard_am_Asnen_2023.jpg"
-[[images]]
-title = "Elch Deko im Wohnzimmer Asnen 2023"
-src = "images/Elch_Deko_im_Wohnzimmer_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote abladen am Asnen 2023"
-src = "images/Ruderboote_abladen_am_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote vor Gentno Gard 2023"
-src = "images/Ruderboote_vor_Gentno_Gard_2023.jpg"
-[[images]]
-title = "E-Zweier auf dem Asnen 2023"
-src = "images/E-Zweier_auf_dem_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboot auf dem Asnen 2023"
-src = "images/Ruderboot_auf_dem_Asnen_2023.jpg"
-[[images]]
-title = "Loki auf dem Asnen 2023"
-src = "images/Loki_auf_dem_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote Mittagspause in Urshult 2023"
-src = "images/Ruderboote_Mittagspause_in_Urshult_2023.jpg"
-[[images]]
-title = "Huseby Bruk Wehr 2023"
-src = "images/Huseby_Bruk_Wehr_2023.jpg"
-[[images]]
-title = "Huseby Bruk Mittagspause der Ruderer 2023"
-src = "images/Huseby_Bruk_Mittagspause_der_Ruderer_2023.jpg"
-[[images]]
-title = "E-Vierer vor Felsen Asnen 2023"
-src = "images/E-Vierer_vor_Felsen_Asnen_2023.jpg"
-[[images]]
-title = "Einkauf bei Schwarzmarkt Asnen 2023"
-src = "images/Einkauf_bei_Schwarzmarkt_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote bei Alshult Asnen 2023"
-src = "images/Ruderboote_bei_Alshult_Asnen_2023.jpg"
-[[images]]
-title = "Baumgarten E-Boote im Päckchen Asnen 2023"
-src = "images/Baumgarten_E-Boote_im_Packchen_Asnen_2023.jpg"
-[[images]]
-title = "Farmorstugan Salon Asnen 2023"
-src = "images/Farmorstugan_Salon_Asnen_2023.jpg"
-[[images]]
-title = "Grillen auf Vrigstadt Gard Asnen 2023"
-src = "images/Grillen_auf_Vrigstadt_Gard_Asnen_2023.jpg"
-[[images]]
-title = "Gewitterfront in Kalsvik Asnen 2023"
-src = "images/Gewitterfront_in_Kalsvik_Asnen_2023.jpg"
-[[images]]
-title = "Mittagspause Kalvik den Regen abwarten Asnen 2023"
-src = "images/Mittagspause_Kalvik_den_Regen_abwarten_Asnen_2023.jpg"
-[[images]]
-title = "Wasserstrasse am Asnen 2023"
-src = "images/Wasserstrasse_am_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote im Schilf Asnen"
-src = "images/Ruderboote_im_Schilf_Asnen.jpg"
-[[images]]
-title = "Wasserweg auf dem Asnen 2023"
-src = "images/Wasserweg_auf_dem_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote auf dem Asnen 2023"
-src = "images/Ruderboote_auf_dem_Asnen_2023.jpg"
-[[images]]
-title = "Kanal zum Lidhemssjön Asnen 2023"
-src = "images/Kanal_zum_Lidhemssjon_Asnen_2023.jpg"
-[[images]]
-title = "Bogenbrücke bei Jät Asnen 2023"
-src = "images/Bogenbrucke_bei_Jat_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote Kalsvik am Strand Asnen 2023"
-src = "images/Ruderboote_Kalsvik_am_Strand_Asnen_2023.jpg"
-[[images]]
-title = "Baumgarten E-Dreier mit Steuermann Asnen 2023"
-src = "images/Baumgarten_E-Dreier_mit_Steuermann_Asnen_2023.jpg"
-[[images]]
-title = "Wehr bei Dunshult Asnen 2023"
-src = "images/Wehr_bei_Dunshult_Asnen_2023.jpg"
-[[images]]
-title = "Ferienhaus am Asnen 2023"
-src = "images/Ferienhaus_am_Asnen_2023.jpg"
-[[images]]
-title = "Ruderboote vor Inseln im Asnen 2023"
-src = "images/Ruderboote_vor_Inseln_im_Asnen_2023.jpg"
-[[images]]
-title = "KST Flaggen am Asnen 2023"
-src = "images/KST_Flaggen_am_Asnen_2023.jpg"
-[[images]]
-title = "Steinige Durchfahrt am Asnen 2023"
-src = "images/Steinige_Durchfahrt_am_Asnen_2023.jpg"
-[[images]]
-title = "Elche gucken Asnen 2023"
-src = "images/Elche_gucken_Asnen_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-08-01"
+date: "2023-08-08T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Fahrhafen_Rostock_Schweden_2023.jpg
+  title: Fährhafen Rostock Schweden 2023
+- src: images/Fruhstuck_der_Ruderer_Asnen_2023.jpg
+  title: Frühstück der Ruderer Asnen 2023
+- src: images/Vrigstadt_Gard_am_Asnen_2023.jpg
+  title: Vrigstadt Gard am Asnen 2023
+- src: images/Elch_Deko_im_Wohnzimmer_Asnen_2023.jpg
+  title: Elch Deko im Wohnzimmer Asnen 2023
+- src: images/Ruderboote_abladen_am_Asnen_2023.jpg
+  title: Ruderboote abladen am Asnen 2023
+- src: images/Ruderboote_vor_Gentno_Gard_2023.jpg
+  title: Ruderboote vor Gentno Gard 2023
+- src: images/E-Zweier_auf_dem_Asnen_2023.jpg
+  title: E-Zweier auf dem Asnen 2023
+- src: images/Ruderboot_auf_dem_Asnen_2023.jpg
+  title: Ruderboot auf dem Asnen 2023
+- src: images/Loki_auf_dem_Asnen_2023.jpg
+  title: Loki auf dem Asnen 2023
+- src: images/Ruderboote_Mittagspause_in_Urshult_2023.jpg
+  title: Ruderboote Mittagspause in Urshult 2023
+- src: images/Huseby_Bruk_Wehr_2023.jpg
+  title: Huseby Bruk Wehr 2023
+- src: images/Huseby_Bruk_Mittagspause_der_Ruderer_2023.jpg
+  title: Huseby Bruk Mittagspause der Ruderer 2023
+- src: images/E-Vierer_vor_Felsen_Asnen_2023.jpg
+  title: E-Vierer vor Felsen Asnen 2023
+- src: images/Einkauf_bei_Schwarzmarkt_Asnen_2023.jpg
+  title: Einkauf bei Schwarzmarkt Asnen 2023
+- src: images/Ruderboote_bei_Alshult_Asnen_2023.jpg
+  title: Ruderboote bei Alshult Asnen 2023
+- src: images/Baumgarten_E-Boote_im_Packchen_Asnen_2023.jpg
+  title: Baumgarten E-Boote im Päckchen Asnen 2023
+- src: images/Farmorstugan_Salon_Asnen_2023.jpg
+  title: Farmorstugan Salon Asnen 2023
+- src: images/Grillen_auf_Vrigstadt_Gard_Asnen_2023.jpg
+  title: Grillen auf Vrigstadt Gard Asnen 2023
+- src: images/Gewitterfront_in_Kalsvik_Asnen_2023.jpg
+  title: Gewitterfront in Kalsvik Asnen 2023
+- src: images/Mittagspause_Kalvik_den_Regen_abwarten_Asnen_2023.jpg
+  title: Mittagspause Kalvik den Regen abwarten Asnen 2023
+- src: images/Wasserstrasse_am_Asnen_2023.jpg
+  title: Wasserstrasse am Asnen 2023
+- src: images/Ruderboote_im_Schilf_Asnen.jpg
+  title: Ruderboote im Schilf Asnen
+- src: images/Wasserweg_auf_dem_Asnen_2023.jpg
+  title: Wasserweg auf dem Asnen 2023
+- src: images/Ruderboote_auf_dem_Asnen_2023.jpg
+  title: Ruderboote auf dem Asnen 2023
+- src: images/Kanal_zum_Lidhemssjon_Asnen_2023.jpg
+  title: Kanal zum Lidhemssjön Asnen 2023
+- src: images/Bogenbrucke_bei_Jat_Asnen_2023.jpg
+  title: Bogenbrücke bei Jät Asnen 2023
+- src: images/Ruderboote_Kalsvik_am_Strand_Asnen_2023.jpg
+  title: Ruderboote Kalsvik am Strand Asnen 2023
+- src: images/Baumgarten_E-Dreier_mit_Steuermann_Asnen_2023.jpg
+  title: Baumgarten E-Dreier mit Steuermann Asnen 2023
+- src: images/Wehr_bei_Dunshult_Asnen_2023.jpg
+  title: Wehr bei Dunshult Asnen 2023
+- src: images/Ferienhaus_am_Asnen_2023.jpg
+  title: Ferienhaus am Asnen 2023
+- src: images/Ruderboote_vor_Inseln_im_Asnen_2023.jpg
+  title: Ruderboote vor Inseln im Asnen 2023
+- src: images/KST_Flaggen_am_Asnen_2023.jpg
+  title: KST Flaggen am Asnen 2023
+- src: images/Steinige_Durchfahrt_am_Asnen_2023.jpg
+  title: Steinige Durchfahrt am Asnen 2023
+- src: images/Elche_gucken_Asnen_2023.jpg
+  title: Elche gucken Asnen 2023
+länder:
+- schweden
+title: Schweden Asnen 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

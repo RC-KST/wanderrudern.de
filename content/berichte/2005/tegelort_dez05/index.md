@@ -1,22 +1,19 @@
-+++
-title = "Tegelort Dezember 2005"
-author = ""
-date = 2005-12-12T01:00:00+02:00
-begin = "2005-12-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Tegelort im Eis Ruderboot"
-src = "images/Tegelort_im_Eis.jpg"
-[[images]]
-title = "Rudernboot im Schnee"
-src = "images/Geirangerfjord_im_Schnee.jpg"
-[[images]]
-title = "Schneeengel Ruderer"
-src = "images/Schneeengel.jpg"
-
-+++
+---
+author: ""
+begin: "2005-12-01"
+date: "2005-12-12T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Tegelort_im_Eis.jpg
+  title: Tegelort im Eis Ruderboot
+- src: images/Geirangerfjord_im_Schnee.jpg
+  title: Rudernboot im Schnee
+- src: images/Schneeengel.jpg
+  title: Schneeengel Ruderer
+länder: []
+title: Tegelort Dezember 2005
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

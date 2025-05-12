@@ -1,19 +1,20 @@
-+++
-title = "Aequatorpreis Tim 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["donau", "naab", "aller"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kallmuenz Naab"
-src = "images/Kallmuenz_Naab.jpg"
-[[images]]
-title = "Steinerne Brücke Regensburg"
-src = "images/Steinerne_Brucke_Regensburg.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- naab
+- aller
+images:
+- src: images/Kallmuenz_Naab.jpg
+  title: Kallmuenz Naab
+- src: images/Steinerne_Brucke_Regensburg.jpg
+  title: Steinerne Brücke Regensburg
+länder: []
+title: Aequatorpreis Tim 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

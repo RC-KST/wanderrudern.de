@@ -1,70 +1,54 @@
-+++
-title = "Stahnsdorf - Hamburg 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["elbe", "havel", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Berlin-Hamburg-2024_Ankunft_Werder"
-src = "images/Berlin-Hamburg-2024_Ankunft_Werder.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Flusskreuzer_Brahm_in_Brandenburg-Havel"
-src = "images/Berlin-Hamburg-2024_Flusskreuzer_Brahm_in_Brandenburg-Havel.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Mittagspause_hintere_Brandenburg-Havel"
-src = "images/Berlin-Hamburg-2024_Mittagspause_hintere_Brandenburg-Havel.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_das_wichtigste_sind_Lebkuchen"
-src = "images/Berlin-Hamburg-2024_das_wichtigste_sind_Lebkuchen.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_eine_weitere_Schleuse"
-src = "images/Berlin-Hamburg-2024_eine_weitere_Schleuse.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Schleuse_Garz"
-src = "images/Berlin-Hamburg-2024_Schleuse_Garz.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Schleuse_Bahnitz_von_aussen"
-src = "images/Berlin-Hamburg-2024_Schleuse_Bahnitz_von_aussen.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Havelberg"
-src = "images/Berlin-Hamburg-2024_Havelberg.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Gemütliches_Frühstück_auf_der_Elbe"
-src = "images/Berlin-Hamburg-2024_Gemutliches_Fruhstuck_auf_der_Elbe.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_wheinachtliche_Stimmung_bei_ueber_30_Grad"
-src = "images/Berlin-Hamburg-2024_wheinachtliche_Stimmung_bei_ueber_30_Grad.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Havellandschaft"
-src = "images/Berlin-Hamburg-2024_Havellandschaft.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Pause_und_Abkühlung"
-src = "images/Berlin-Hamburg-2024_Pause_und_Abkuhlung.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Zwei_Frachter_und_Stefan"
-src = "images/Berlin-Hamburg-2024_Zwei_Frachter_und_Stefan.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Elbphilharmonie_mit_Boot"
-src = "images/Berlin-Hamburg-2024_Elbphilharmonie_mit_Boot.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Bei_Nebel_auf_der_Innenalster"
-src = "images/Berlin-Hamburg-2024_Bei_Nebel_auf_der_Innenalster.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_von_der_ELbe_zur_Alster"
-src = "images/Berlin-Hamburg-2024_von_der_ELbe_zur_Alster.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Stau_auf_der_Alster"
-src = "images/Berlin-Hamburg-2024_Stau_auf_der_Alster.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_Kinderboot_macht_Badepause"
-src = "images/Berlin-Hamburg-2024_Kinderboot_macht_Badepause.jpg"
-[[images]]
-title = "Berlin-Hamburg-2024_viel_los_auf_der_Alster"
-src = "images/Berlin-Hamburg-2024_viel_los_auf_der_Alster.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- wannsee
+images:
+- src: images/Berlin-Hamburg-2024_Ankunft_Werder.jpg
+  title: Berlin-Hamburg-2024_Ankunft_Werder
+- src: images/Berlin-Hamburg-2024_Flusskreuzer_Brahm_in_Brandenburg-Havel.jpg
+  title: Berlin-Hamburg-2024_Flusskreuzer_Brahm_in_Brandenburg-Havel
+- src: images/Berlin-Hamburg-2024_Mittagspause_hintere_Brandenburg-Havel.jpg
+  title: Berlin-Hamburg-2024_Mittagspause_hintere_Brandenburg-Havel
+- src: images/Berlin-Hamburg-2024_das_wichtigste_sind_Lebkuchen.jpg
+  title: Berlin-Hamburg-2024_das_wichtigste_sind_Lebkuchen
+- src: images/Berlin-Hamburg-2024_eine_weitere_Schleuse.jpg
+  title: Berlin-Hamburg-2024_eine_weitere_Schleuse
+- src: images/Berlin-Hamburg-2024_Schleuse_Garz.jpg
+  title: Berlin-Hamburg-2024_Schleuse_Garz
+- src: images/Berlin-Hamburg-2024_Schleuse_Bahnitz_von_aussen.jpg
+  title: Berlin-Hamburg-2024_Schleuse_Bahnitz_von_aussen
+- src: images/Berlin-Hamburg-2024_Havelberg.jpg
+  title: Berlin-Hamburg-2024_Havelberg
+- src: images/Berlin-Hamburg-2024_Gemutliches_Fruhstuck_auf_der_Elbe.jpg
+  title: Berlin-Hamburg-2024_Gemütliches_Frühstück_auf_der_Elbe
+- src: images/Berlin-Hamburg-2024_wheinachtliche_Stimmung_bei_ueber_30_Grad.jpg
+  title: Berlin-Hamburg-2024_wheinachtliche_Stimmung_bei_ueber_30_Grad
+- src: images/Berlin-Hamburg-2024_Havellandschaft.jpg
+  title: Berlin-Hamburg-2024_Havellandschaft
+- src: images/Berlin-Hamburg-2024_Pause_und_Abkuhlung.jpg
+  title: Berlin-Hamburg-2024_Pause_und_Abkühlung
+- src: images/Berlin-Hamburg-2024_Zwei_Frachter_und_Stefan.jpg
+  title: Berlin-Hamburg-2024_Zwei_Frachter_und_Stefan
+- src: images/Berlin-Hamburg-2024_Elbphilharmonie_mit_Boot.jpg
+  title: Berlin-Hamburg-2024_Elbphilharmonie_mit_Boot
+- src: images/Berlin-Hamburg-2024_Bei_Nebel_auf_der_Innenalster.jpg
+  title: Berlin-Hamburg-2024_Bei_Nebel_auf_der_Innenalster
+- src: images/Berlin-Hamburg-2024_von_der_ELbe_zur_Alster.jpg
+  title: Berlin-Hamburg-2024_von_der_ELbe_zur_Alster
+- src: images/Berlin-Hamburg-2024_Stau_auf_der_Alster.jpg
+  title: Berlin-Hamburg-2024_Stau_auf_der_Alster
+- src: images/Berlin-Hamburg-2024_Kinderboot_macht_Badepause.jpg
+  title: Berlin-Hamburg-2024_Kinderboot_macht_Badepause
+- src: images/Berlin-Hamburg-2024_viel_los_auf_der_Alster.jpg
+  title: Berlin-Hamburg-2024_viel_los_auf_der_Alster
+länder: []
+title: Stahnsdorf - Hamburg 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

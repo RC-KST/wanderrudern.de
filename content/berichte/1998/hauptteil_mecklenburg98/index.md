@@ -1,19 +1,21 @@
-+++
-title = "Mecklenburg 1998"
-author = ""
-date = 1998-01-01T01:00:00+02:00
-begin = "1998-01-01"
-"gewässer" = ["havel", "mecklenburger seenplatte", "wannsee", "oder"]
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "lecken zechlin Ruder-Steg"
-src = "images/zechlin.jpg"
-[[images]]
-title = "Mädchen im Boot"
-src = "images/MB98_martina.jpg"
-
-+++
+---
+author: ""
+begin: "1998-01-01"
+date: "1998-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- mecklenburger seenplatte
+- wannsee
+- oder
+images:
+- src: images/zechlin.jpg
+  title: lecken zechlin Ruder-Steg
+- src: images/MB98_martina.jpg
+  title: Mädchen im Boot
+länder: []
+title: Mecklenburg 1998
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

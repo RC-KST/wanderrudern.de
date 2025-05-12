@@ -1,106 +1,77 @@
-+++
-title = "Schweden Stora Le 2024"
-author = ""
-date = 2024-08-08T01:00:00+02:00
-begin = "2024-08-01"
-"gewässer" = []
-"länder" = ["norwegen", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Karte Stora Lee 2024"
-src = "images/Karte_Stora_Lee_2024.png"
-[[images]]
-title = "Lebensmitteleinkäufe Stora le 2024"
-src = "images/Lebensmitteleinkaufe_Stora_le_2024.jpg"
-[[images]]
-title = "Lebensmittel für die Wanderfahrt Stora le 2024"
-src = "images/Lebensmittel_fur_die_Wanderfahrt_Stora_le_2024.jpg"
-[[images]]
-title = "Stena Fähre 2024"
-src = "images/Stena_Fahre_2024.jpg"
-[[images]]
-title = "Ruderboote am Stora Le Camping 2024"
-src = "images/Ruderboote_am_Stora_Le_Camping_2024.jpg"
-[[images]]
-title = "Ruderboote auf dem Stora Le 2024"
-src = "images/Ruderboote_auf_dem_Stora_Le_2024.jpg"
-[[images]]
-title = "Ruderboote vor Insel Stora Le 2024"
-src = "images/Ruderboote_vor_Insel_Stora_Le_2024.jpg"
-[[images]]
-title = "E-Vierer mit Steuermann Stora Le 2024"
-src = "images/E-Vierer_mit_Steuermann_Stora_Le_2024.jpg"
-[[images]]
-title = "Schleusentreppe Lennartsfors Stora Le 2024"
-src = "images/Schleusentreppe_Lennartsfors_Stora_Le_2024.jpg"
-[[images]]
-title = "Terasse mit Blick auf den Stora Le 2024"
-src = "images/Terasse_mit_Blick_auf_den_Stora_Le_2024.jpg"
-[[images]]
-title = "verlassener Kanal Foxen 2024"
-src = "images/verlassener_Kanal_Foxen_2024.jpg"
-[[images]]
-title = "Kanal am Foxen 2024"
-src = "images/Kanal_am_Foxen_2024.jpg"
-[[images]]
-title = "Kanal blockiert Foxen 2024"
-src = "images/Kanal_blockiert_Foxen_2024.jpg"
-[[images]]
-title = "LingLings Alptraum Stora Le 2024"
-src = "images/LingLings_Alptraum_Stora_Le_2024.jpg"
-[[images]]
-title = "Stora Le Hütte 2024"
-src = "images/Stora_Le_Hutte_2024.jpg"
-[[images]]
-title = "Ruderboot hinter Insel Stora Le 2024"
-src = "images/Ruderboot_hinter_Insel_Stora_Le_2024.jpg"
-[[images]]
-title = "Boote auf dem Campingplatz 2024 Stora Le"
-src = "images/Boote_auf_dem_Campingplatz_2024_Stora_Le.jpg"
-[[images]]
-title = "Blick auf den Stora Le 2024"
-src = "images/Blick_auf_den_Stora_Le_2024.jpg"
-[[images]]
-title = "Sackgasse zum Halden Kanal 2024"
-src = "images/Sackgasse_zum_Halden_Kanal_2024.jpg"
-[[images]]
-title = "LingLing auf der Festung Halden 2024"
-src = "images/LingLing_auf_der_Festung_Halden_2024.jpg"
-[[images]]
-title = "Ruderer auf dem Foxen 2024"
-src = "images/Ruderer_auf_dem_Foxen_2024.jpg"
-[[images]]
-title = "Anlegestelle Stora Le Campingplatz 2024"
-src = "images/Anlegestelle_Stora_Le_Campingplatz_2024.jpg"
-[[images]]
-title = "Schleusenkanal Lennartsfors 2024"
-src = "images/Schleusenkanal_Lennartsfors_2024.jpg"
-[[images]]
-title = "Ruderer im Boot Stora Lee 2024"
-src = "images/Ruderer_im_Boot_Stora_Lee_2024.jpg"
-[[images]]
-title = "Ruderboote Mittagspause Lennartsfors 2024"
-src = "images/Ruderboote_Mittagspause_Lennartsfors_2024.jpg"
-[[images]]
-title = "Ruderboote am Strand Stora Le 2024"
-src = "images/Ruderboote_am_Strand_Stora_Le_2024.jpg"
-[[images]]
-title = "Festung Halden Stora Le 2024"
-src = "images/Festung_Halden_Stora_Le_2024.jpg"
-[[images]]
-title = "Geburtstagskind mit Kuchen Stora Le 2024"
-src = "images/Geburtstagskind_mit_Kuchen_Stora_Le_2024.jpg"
-[[images]]
-title = "Cafe in Halden Stora Le 2024"
-src = "images/Cafe_in_Halden_Stora_Le_2024.jpg"
-[[images]]
-title = "Norwegen Troll 2024"
-src = "images/Norwegen_Troll_2024.jpg"
-[[images]]
-title = "Stena Line Schären vor Göteborg 2024"
-src = "images/Stena_Line_Scharen_vor_Goteborg_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-08-01"
+date: "2024-08-08T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Karte_Stora_Lee_2024.png
+  title: Karte Stora Lee 2024
+- src: images/Lebensmitteleinkaufe_Stora_le_2024.jpg
+  title: Lebensmitteleinkäufe Stora le 2024
+- src: images/Lebensmittel_fur_die_Wanderfahrt_Stora_le_2024.jpg
+  title: Lebensmittel für die Wanderfahrt Stora le 2024
+- src: images/Stena_Fahre_2024.jpg
+  title: Stena Fähre 2024
+- src: images/Ruderboote_am_Stora_Le_Camping_2024.jpg
+  title: Ruderboote am Stora Le Camping 2024
+- src: images/Ruderboote_auf_dem_Stora_Le_2024.jpg
+  title: Ruderboote auf dem Stora Le 2024
+- src: images/Ruderboote_vor_Insel_Stora_Le_2024.jpg
+  title: Ruderboote vor Insel Stora Le 2024
+- src: images/E-Vierer_mit_Steuermann_Stora_Le_2024.jpg
+  title: E-Vierer mit Steuermann Stora Le 2024
+- src: images/Schleusentreppe_Lennartsfors_Stora_Le_2024.jpg
+  title: Schleusentreppe Lennartsfors Stora Le 2024
+- src: images/Terasse_mit_Blick_auf_den_Stora_Le_2024.jpg
+  title: Terasse mit Blick auf den Stora Le 2024
+- src: images/verlassener_Kanal_Foxen_2024.jpg
+  title: verlassener Kanal Foxen 2024
+- src: images/Kanal_am_Foxen_2024.jpg
+  title: Kanal am Foxen 2024
+- src: images/Kanal_blockiert_Foxen_2024.jpg
+  title: Kanal blockiert Foxen 2024
+- src: images/LingLings_Alptraum_Stora_Le_2024.jpg
+  title: LingLings Alptraum Stora Le 2024
+- src: images/Stora_Le_Hutte_2024.jpg
+  title: Stora Le Hütte 2024
+- src: images/Ruderboot_hinter_Insel_Stora_Le_2024.jpg
+  title: Ruderboot hinter Insel Stora Le 2024
+- src: images/Boote_auf_dem_Campingplatz_2024_Stora_Le.jpg
+  title: Boote auf dem Campingplatz 2024 Stora Le
+- src: images/Blick_auf_den_Stora_Le_2024.jpg
+  title: Blick auf den Stora Le 2024
+- src: images/Sackgasse_zum_Halden_Kanal_2024.jpg
+  title: Sackgasse zum Halden Kanal 2024
+- src: images/LingLing_auf_der_Festung_Halden_2024.jpg
+  title: LingLing auf der Festung Halden 2024
+- src: images/Ruderer_auf_dem_Foxen_2024.jpg
+  title: Ruderer auf dem Foxen 2024
+- src: images/Anlegestelle_Stora_Le_Campingplatz_2024.jpg
+  title: Anlegestelle Stora Le Campingplatz 2024
+- src: images/Schleusenkanal_Lennartsfors_2024.jpg
+  title: Schleusenkanal Lennartsfors 2024
+- src: images/Ruderer_im_Boot_Stora_Lee_2024.jpg
+  title: Ruderer im Boot Stora Lee 2024
+- src: images/Ruderboote_Mittagspause_Lennartsfors_2024.jpg
+  title: Ruderboote Mittagspause Lennartsfors 2024
+- src: images/Ruderboote_am_Strand_Stora_Le_2024.jpg
+  title: Ruderboote am Strand Stora Le 2024
+- src: images/Festung_Halden_Stora_Le_2024.jpg
+  title: Festung Halden Stora Le 2024
+- src: images/Geburtstagskind_mit_Kuchen_Stora_Le_2024.jpg
+  title: Geburtstagskind mit Kuchen Stora Le 2024
+- src: images/Cafe_in_Halden_Stora_Le_2024.jpg
+  title: Cafe in Halden Stora Le 2024
+- src: images/Norwegen_Troll_2024.jpg
+  title: Norwegen Troll 2024
+- src: images/Stena_Line_Scharen_vor_Goteborg_2024.jpg
+  title: Stena Line Schären vor Göteborg 2024
+länder:
+- norwegen
+- schweden
+title: Schweden Stora Le 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,26 @@
-+++
-title = "Anrudern Bootstaufe RC KST 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["warthe", "orivesi"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Medaillen der Wanderruderwettbewerbe 2010"
-src = "images/Medaillen_der_Wanderruderwettbewerbe_2010.jpg"
-[[images]]
-title = "Nirina mit Goldmedaille 2010"
-src = "images/Nirina_mit_Goldmedaille_2010.jpg"
-[[images]]
-title = "Bootstaufe RC Kleinmachnow 2010"
-src = "images/Bootstaufe_RC_Kleinmachnow_2010.jpg"
-[[images]]
-title = "Neue Ruderboote auf dem Wasser AR2010"
-src = "images/Neue_Ruderboote_auf_dem_Wasser_AR2010.jpg"
-[[images]]
-title = "Neuer Baumgarten E-Vierer RC KST 2010"
-src = "images/Neuer_Baumgarten_E-Vierer_RC_KST_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+- orivesi
+images:
+- src: images/Medaillen_der_Wanderruderwettbewerbe_2010.jpg
+  title: Medaillen der Wanderruderwettbewerbe 2010
+- src: images/Nirina_mit_Goldmedaille_2010.jpg
+  title: Nirina mit Goldmedaille 2010
+- src: images/Bootstaufe_RC_Kleinmachnow_2010.jpg
+  title: Bootstaufe RC Kleinmachnow 2010
+- src: images/Neue_Ruderboote_auf_dem_Wasser_AR2010.jpg
+  title: Neue Ruderboote auf dem Wasser AR2010
+- src: images/Neuer_Baumgarten_E-Vierer_RC_KST_2010.jpg
+  title: Neuer Baumgarten E-Vierer RC KST 2010
+länder:
+- deutschland
+title: Anrudern Bootstaufe RC KST 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

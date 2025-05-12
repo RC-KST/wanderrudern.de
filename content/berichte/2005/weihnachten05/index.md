@@ -1,22 +1,19 @@
-+++
-title = "Weihnachten05"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse_Kleinmachnow_Weihnachten05"
-src = "images/Schleuse_Kleinmachnow_Weihnachten05.jpg"
-[[images]]
-title = "Teltowkanal_Weihnachten05"
-src = "images/Teltowkanal_Weihnachten05.jpg"
-[[images]]
-title = "Flaggenmast Stahnsdorf Ruderclub"
-src = "images/Flagge2_weihnachten05.jpg"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Schleuse_Kleinmachnow_Weihnachten05.jpg
+  title: Schleuse_Kleinmachnow_Weihnachten05
+- src: images/Teltowkanal_Weihnachten05.jpg
+  title: Teltowkanal_Weihnachten05
+- src: images/Flagge2_weihnachten05.jpg
+  title: Flaggenmast Stahnsdorf Ruderclub
+länder: []
+title: Weihnachten05
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

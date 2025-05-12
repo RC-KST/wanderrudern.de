@@ -1,28 +1,24 @@
-+++
-title = "Preisverleihung Berlin 2012"
-author = ""
-date = 2012-03-03T01:00:00+02:00
-begin = "2012-03-01"
-"gewässer" = ["wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kinderklasse maennlich Gold + Silber"
-src = "images/Kinderklasse_maennlich_Gold___Silber.jpg"
-[[images]]
-title = "Kinderklasse weiblich Gold Silber Bronze"
-src = "images/Kinderklasse_weiblich_Gold_Silber_Bronze.jpg"
-[[images]]
-title = "Jugend weiblich Gold + Silber"
-src = "images/Jugend_weiblich_Gold___Silber.jpg"
-[[images]]
-title = "Frauen C Silber"
-src = "images/Frauen_C_Silber.jpg"
-[[images]]
-title = "Maenner C Silber"
-src = "images/Maenner_C_Silber.jpg"
-
-+++
+---
+author: ""
+begin: "2012-03-01"
+date: "2012-03-03T01:00:00+02:00"
+gewässer:
+- wannsee
+images:
+- src: images/Kinderklasse_maennlich_Gold___Silber.jpg
+  title: Kinderklasse maennlich Gold + Silber
+- src: images/Kinderklasse_weiblich_Gold_Silber_Bronze.jpg
+  title: Kinderklasse weiblich Gold Silber Bronze
+- src: images/Jugend_weiblich_Gold___Silber.jpg
+  title: Jugend weiblich Gold + Silber
+- src: images/Frauen_C_Silber.jpg
+  title: Frauen C Silber
+- src: images/Maenner_C_Silber.jpg
+  title: Maenner C Silber
+länder: []
+title: Preisverleihung Berlin 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

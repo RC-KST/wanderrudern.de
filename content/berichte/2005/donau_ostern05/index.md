@@ -1,13 +1,18 @@
-+++
-title = "Donau Ostern 2005"
-author = ""
-date = 2005-05-05T01:00:00+02:00
-begin = "2005-05-01"
-"gewässer" = ["donau", "ilz", "oste", "oder"]
-"länder" = ["deutschland", "österreich"]
-"typ" = "marathon"
-
-+++
+---
+author: ""
+begin: "2005-05-01"
+date: "2005-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- ilz
+- oste
+- oder
+länder:
+- deutschland
+- österreich
+title: Donau Ostern 2005
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,43 +1,34 @@
-+++
-title = "Warthe Marathon 2024"
-author = ""
-date = 2024-01-01T01:00:00+02:00
-begin = "2024-01-01"
-"gewässer" = ["warthe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Marathon Ruderer Warthe 2024"
-src = "images/Marathon_Ruderer_Warthe_2024.jpg"
-[[images]]
-title = "Warthe bei Kolo 2024"
-src = "images/Warthe_bei_Kolo_2024.jpg"
-[[images]]
-title = "E-Dreier auf dem Weg nach Pyzdry 2024"
-src = "images/E-Dreier_auf_dem_Weg_nach_Pyzdry_2024.jpg"
-[[images]]
-title = "Bratanki Kneipe in Posen 2024"
-src = "images/Bratanki_Kneipe_in_Posen_2024.jpg"
-[[images]]
-title = "Abenessen in Stary Zatom 20224"
-src = "images/Abenessen_in_Stary_Zatom_20224.jpg"
-[[images]]
-title = "E-Zweier an der Warthe 2024"
-src = "images/E-Zweier_an_der_Warthe_2024.jpg"
-[[images]]
-title = "Ruderer in Pyzdry 2024"
-src = "images/Ruderer_in_Pyzdry_2024.jpg"
-[[images]]
-title = "Auwälder an der Warthe 2024"
-src = "images/Auwalder_an_der_Warthe_2024.jpg"
-[[images]]
-title = "Schwebebalken für Ruderer Warthe 2024"
-src = "images/Schwebebalken_fur_Ruderer_Warthe_2024.jpg"
-[[images]]
-title = "Adller an der Warthe 2024"
-src = "images/Adller_an_der_Warthe_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-01-01"
+date: "2024-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Marathon_Ruderer_Warthe_2024.jpg
+  title: Marathon Ruderer Warthe 2024
+- src: images/Warthe_bei_Kolo_2024.jpg
+  title: Warthe bei Kolo 2024
+- src: images/E-Dreier_auf_dem_Weg_nach_Pyzdry_2024.jpg
+  title: E-Dreier auf dem Weg nach Pyzdry 2024
+- src: images/Bratanki_Kneipe_in_Posen_2024.jpg
+  title: Bratanki Kneipe in Posen 2024
+- src: images/Abenessen_in_Stary_Zatom_20224.jpg
+  title: Abenessen in Stary Zatom 20224
+- src: images/E-Zweier_an_der_Warthe_2024.jpg
+  title: E-Zweier an der Warthe 2024
+- src: images/Ruderer_in_Pyzdry_2024.jpg
+  title: Ruderer in Pyzdry 2024
+- src: images/Auwalder_an_der_Warthe_2024.jpg
+  title: Auwälder an der Warthe 2024
+- src: images/Schwebebalken_fur_Ruderer_Warthe_2024.jpg
+  title: Schwebebalken für Ruderer Warthe 2024
+- src: images/Adller_an_der_Warthe_2024.jpg
+  title: Adller an der Warthe 2024
+länder: []
+title: Warthe Marathon 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

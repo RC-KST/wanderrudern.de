@@ -1,85 +1,68 @@
-+++
-title = "Frankreich Camargue 10"
-author = ""
-date = 2010-02-02T01:00:00+02:00
-begin = "2010-02-01"
-"gewässer" = ["rhein", "rhone", "vidourle", "canal du rhone a sete", "mittelmeer"]
-"länder" = ["deutschland", "frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anhaenger aus dem Schee buddeln C10"
-src = "images/Anhaenger_aus_dem_Schee_buddeln_C10.jpg"
-[[images]]
-title = "Camargue Pferde direkt vor dem Hotel C10"
-src = "images/Camargue_Pferde_direkt_vor_dem_Hotel_C10.jpg"
-[[images]]
-title = "Ruderboot Leuchtturm Le Grau du Roi C10"
-src = "images/Ruderboot_Leuchtturm_Le_Grau_du_Roi_C10.jpg"
-[[images]]
-title = "auf dem Mittelmeer vor Le Grau du Roi C10"
-src = "images/auf_dem_Mittelmeer_vor_Le_Grau_du_Roi_C10.jpg"
-[[images]]
-title = "Touristenattraktion Ruderboot an der Mole C10"
-src = "images/Touristenattraktion_Ruderboot_an_der_Mole_C10.jpg"
-[[images]]
-title = "Ruderboot in Le Grau du Roi C10"
-src = "images/Ruderboot_in_Le_Grau_du_Roi_C10.jpg"
-[[images]]
-title = "Hotelausicht Le Grau du Roi C10"
-src = "images/Hotelausicht_Le_Grau_du_Roi_C10.jpg"
-[[images]]
-title = "Sonnenuntergang Le Grau du Roi C10"
-src = "images/Sonnenuntergang_Le_Grau_du_Roi_C10.jpg"
-[[images]]
-title = "Fischerboot vor Sonnenuntergang C10"
-src = "images/Fischerboot_vor_Sonnenuntergang_C10.jpg"
-[[images]]
-title = "Camargue Pferde am Canal du Rhone a Sete C10"
-src = "images/Camargue_Pferde_am_Canal_du_Rhone_a_Sete_C10.jpg"
-[[images]]
-title = "Ruderzweier Lange Gerade vor Canon C10"
-src = "images/Ruderzweier_Lange_Gerade_vor_Canon_C10.jpg"
-[[images]]
-title = "Nirina auf dem Mittelmeer C10"
-src = "images/Nirina_auf_dem_Mittelmeer_C10.jpg"
-[[images]]
-title = "Anlege Vierer am Mittelmeer C10"
-src = "images/Anlege_Vierer_am_Mittelmeer_C10.jpg"
-[[images]]
-title = "Ruderboote am Strand C10"
-src = "images/Ruderboote_am_Strand_C10.jpg"
-[[images]]
-title = "Ruderboot vor der Kueste der kleinen Camargue 10"
-src = "images/Ruderboot_vor_der_Kueste_der_kleinen_Camargue_10.jpg"
-[[images]]
-title = "Ruderboote im Hafen von Aigues Mortes C10"
-src = "images/Ruderboote_im_Hafen_von_Aigues_Mortes_C10.jpg"
-[[images]]
-title = "Mauern von Aigues Mortes C10"
-src = "images/Mauern_von_Aigues_Mortes_C10.jpg"
-[[images]]
-title = "Ruderer auf dem Wehrgang Aigues Mortes C10"
-src = "images/Ruderer_auf_dem_Wehrgang_Aigues_Mortes_C10.jpg"
-[[images]]
-title = "Salzberge bei Aigues Mortes C10"
-src = "images/Salzberge_bei_Aigues_Mortes_C10.jpg"
-[[images]]
-title = "Kloster in Arles C10"
-src = "images/Kloster_in_Arles_C10.jpg"
-[[images]]
-title = "Maedchen im Kloster C10"
-src = "images/Maedchen_im_Kloster_C10.jpg"
-[[images]]
-title = "Le Beaux C10"
-src = "images/Le_Beaux_C10.jpg"
-[[images]]
-title = "Moritz auf der Schleuder C10"
-src = "images/Moritz_auf_der_Schleuder_C10.jpg"
-[[images]]
-title = "Baux C10"
-src = "images/Baux_C10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-02-01"
+date: "2010-02-02T01:00:00+02:00"
+gewässer:
+- rhein
+- rhone
+- vidourle
+- canal du rhone a sete
+- mittelmeer
+images:
+- src: images/Anhaenger_aus_dem_Schee_buddeln_C10.jpg
+  title: Anhaenger aus dem Schee buddeln C10
+- src: images/Camargue_Pferde_direkt_vor_dem_Hotel_C10.jpg
+  title: Camargue Pferde direkt vor dem Hotel C10
+- src: images/Ruderboot_Leuchtturm_Le_Grau_du_Roi_C10.jpg
+  title: Ruderboot Leuchtturm Le Grau du Roi C10
+- src: images/auf_dem_Mittelmeer_vor_Le_Grau_du_Roi_C10.jpg
+  title: auf dem Mittelmeer vor Le Grau du Roi C10
+- src: images/Touristenattraktion_Ruderboot_an_der_Mole_C10.jpg
+  title: Touristenattraktion Ruderboot an der Mole C10
+- src: images/Ruderboot_in_Le_Grau_du_Roi_C10.jpg
+  title: Ruderboot in Le Grau du Roi C10
+- src: images/Hotelausicht_Le_Grau_du_Roi_C10.jpg
+  title: Hotelausicht Le Grau du Roi C10
+- src: images/Sonnenuntergang_Le_Grau_du_Roi_C10.jpg
+  title: Sonnenuntergang Le Grau du Roi C10
+- src: images/Fischerboot_vor_Sonnenuntergang_C10.jpg
+  title: Fischerboot vor Sonnenuntergang C10
+- src: images/Camargue_Pferde_am_Canal_du_Rhone_a_Sete_C10.jpg
+  title: Camargue Pferde am Canal du Rhone a Sete C10
+- src: images/Ruderzweier_Lange_Gerade_vor_Canon_C10.jpg
+  title: Ruderzweier Lange Gerade vor Canon C10
+- src: images/Nirina_auf_dem_Mittelmeer_C10.jpg
+  title: Nirina auf dem Mittelmeer C10
+- src: images/Anlege_Vierer_am_Mittelmeer_C10.jpg
+  title: Anlege Vierer am Mittelmeer C10
+- src: images/Ruderboote_am_Strand_C10.jpg
+  title: Ruderboote am Strand C10
+- src: images/Ruderboot_vor_der_Kueste_der_kleinen_Camargue_10.jpg
+  title: Ruderboot vor der Kueste der kleinen Camargue 10
+- src: images/Ruderboote_im_Hafen_von_Aigues_Mortes_C10.jpg
+  title: Ruderboote im Hafen von Aigues Mortes C10
+- src: images/Mauern_von_Aigues_Mortes_C10.jpg
+  title: Mauern von Aigues Mortes C10
+- src: images/Ruderer_auf_dem_Wehrgang_Aigues_Mortes_C10.jpg
+  title: Ruderer auf dem Wehrgang Aigues Mortes C10
+- src: images/Salzberge_bei_Aigues_Mortes_C10.jpg
+  title: Salzberge bei Aigues Mortes C10
+- src: images/Kloster_in_Arles_C10.jpg
+  title: Kloster in Arles C10
+- src: images/Maedchen_im_Kloster_C10.jpg
+  title: Maedchen im Kloster C10
+- src: images/Le_Beaux_C10.jpg
+  title: Le Beaux C10
+- src: images/Moritz_auf_der_Schleuder_C10.jpg
+  title: Moritz auf der Schleuder C10
+- src: images/Baux_C10.jpg
+  title: Baux C10
+länder:
+- deutschland
+- frankreich
+title: Frankreich Camargue 10
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

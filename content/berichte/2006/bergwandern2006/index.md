@@ -1,79 +1,58 @@
-+++
-title = "Bergwandern2006"
-author = ""
-date = 2006-08-08T01:00:00+02:00
-begin = "2006-08-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Weg zum Gutenberghaus"
-src = "images/loipold06S_002.jpg"
-[[images]]
-title = "Weg zum Gutenberghaus"
-src = "images/loipold06S_003.jpg"
-[[images]]
-title = "Hölltalsee "
-src = "images/loipold06_010.jpg"
-[[images]]
-title = "Levon auf der Silberkarhütte"
-src = "images/loipold06S_025.jpg"
-[[images]]
-title = "Silberkarhütte"
-src = "images/loipold06S_028.jpg"
-[[images]]
-title = "Hölltalsee Malte"
-src = "images/loipold06S_021.jpg"
-[[images]]
-title = "Silberkarklamm"
-src = "images/loipold06S_129.JPG"
-[[images]]
-title = "Silberkarklamm Levon"
-src = "images/loipold06S_128.JPG"
-[[images]]
-title = "Kochofen Gipfel Ruderer Loipoldhof"
-src = "images/loipold06S_029.jpg"
-[[images]]
-title = "Lisa Marie + Levon Kochofen"
-src = "images/loipold06_013.jpg"
-[[images]]
-title = "loipold06S_039"
-src = "images/loipold06S_039.jpg"
-[[images]]
-title = "Kalkspitze loipoldhof"
-src = "images/loipold06_019.jpg"
-[[images]]
-title = "Kalkspitze loipoldhof"
-src = "images/loipold06_020.jpg"
-[[images]]
-title = "loipold06S_051"
-src = "images/loipold06S_051.jpg"
-[[images]]
-title = "loipold06S_071"
-src = "images/loipold06S_071.jpg"
-[[images]]
-title = "loipold06S_069"
-src = "images/loipold06S_069.jpg"
-[[images]]
-title = "Pleschnitzzinken Loipoldhof"
-src = "images/loipold06_036.jpg"
-[[images]]
-title = "Pleschnitzzinken Loipoldhof"
-src = "images/loipold06_044.jpg"
-[[images]]
-title = "Gamskarspitze Loipoldhof"
-src = "images/loipold06_046.jpg"
-[[images]]
-title = "Loipoldhof Spielplatz"
-src = "images/loipold06_057.jpg"
-[[images]]
-title = "Loipoldhof"
-src = "images/loipold06_078.jpg"
-[[images]]
-title = "Obersee Loipoldhof"
-src = "images/loipold06_063.jpg"
-
-+++
+---
+author: ""
+begin: "2006-08-01"
+date: "2006-08-08T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/loipold06S_002.jpg
+  title: Weg zum Gutenberghaus
+- src: images/loipold06S_003.jpg
+  title: Weg zum Gutenberghaus
+- src: images/loipold06_010.jpg
+  title: 'Hölltalsee '
+- src: images/loipold06S_025.jpg
+  title: Levon auf der Silberkarhütte
+- src: images/loipold06S_028.jpg
+  title: Silberkarhütte
+- src: images/loipold06S_021.jpg
+  title: Hölltalsee Malte
+- src: images/loipold06S_129.JPG
+  title: Silberkarklamm
+- src: images/loipold06S_128.JPG
+  title: Silberkarklamm Levon
+- src: images/loipold06S_029.jpg
+  title: Kochofen Gipfel Ruderer Loipoldhof
+- src: images/loipold06_013.jpg
+  title: Lisa Marie + Levon Kochofen
+- src: images/loipold06S_039.jpg
+  title: loipold06S_039
+- src: images/loipold06_019.jpg
+  title: Kalkspitze loipoldhof
+- src: images/loipold06_020.jpg
+  title: Kalkspitze loipoldhof
+- src: images/loipold06S_051.jpg
+  title: loipold06S_051
+- src: images/loipold06S_071.jpg
+  title: loipold06S_071
+- src: images/loipold06S_069.jpg
+  title: loipold06S_069
+- src: images/loipold06_036.jpg
+  title: Pleschnitzzinken Loipoldhof
+- src: images/loipold06_044.jpg
+  title: Pleschnitzzinken Loipoldhof
+- src: images/loipold06_046.jpg
+  title: Gamskarspitze Loipoldhof
+- src: images/loipold06_057.jpg
+  title: Loipoldhof Spielplatz
+- src: images/loipold06_078.jpg
+  title: Loipoldhof
+- src: images/loipold06_063.jpg
+  title: Obersee Loipoldhof
+länder: []
+title: Bergwandern2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,151 +1,112 @@
-+++
-title = "Mecklenburg Umfahrt 2020"
-author = ""
-date = 2020-01-01T01:00:00+02:00
-begin = "2020-01-01"
-"gewässer" = ["elbe", "havel", "plauer see", "trebelsee", "narew"]
-"länder" = ["deutschland", "polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote beladen in Stahnsdorf Mecklenbur 2020"
-src = "images/Ruderboote_beladen_in_Stahnsdorf_Mecklenbur_2020.jpg"
-[[images]]
-title = "Brandenburg Havel kurz vor der Sportbootschleuse Mecklenburg 2020"
-src = "images/Brandenburg_Havel_kurz_vor_der_Sportbootschleuse_Mecklenburg_2020.jpg"
-[[images]]
-title = "Abendessen der Ruderer Brandenburg Havel Alte Feuerwache Mecklenburg 2020"
-src = "images/Abendessen_der_Ruderer_Brandenburg_Havel_Alte_Feuerwache_Mecklenburg_2020.jpg"
-[[images]]
-title = "Boote beladen Alte Feuerwache Brandenburg Mecklenburg 2020"
-src = "images/Boote_beladen_Alte_Feuerwache_Brandenburg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schloss Plaue Mecklenburg 2020"
-src = "images/Schloss_Plaue_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zweier auf der Havel Mecklenburg 2020"
-src = "images/Zweier_auf_der_Havel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Milow Badepause Mecklenburg 2020"
-src = "images/Milow_Badepause_Mecklenburg_2020.jpg"
-[[images]]
-title = "Shopping in Rathenow mit Schubkarre Mecklenburg 2020"
-src = "images/Shopping_in_Rathenow_mit_Schubkarre_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderer in Rathenow Mecklenburg 2020"
-src = "images/Ruderer_in_Rathenow_Mecklenburg_2020.jpg"
-[[images]]
-title = "Havel Ruderer warten vor der Schleuse Mecklenburg 2020"
-src = "images/Havel_Ruderer_warten_vor_der_Schleuse_Mecklenburg_2020.jpg"
-[[images]]
-title = "Badepause Guelper Havel Mecklenburg 2020"
-src = "images/Badepause_Guelper_Havel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderboot Guelper Havel Mecklenburg 2020"
-src = "images/Ruderboot_Guelper_Havel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Gewitterpause Strodehne Mecklenburg 2020"
-src = "images/Gewitterpause_Strodehne_Mecklenburg_2020.jpg"
-[[images]]
-title = "Doris Schleuse Havelberg Mecklenburg 2020"
-src = "images/Doris_Schleuse_Havelberg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Muendung der Havel in die Elbe Mecklenburg 2020"
-src = "images/Muendung_der_Havel_in_die_Elbe_Mecklenburg_2020.jpg"
-[[images]]
-title = "Girlies Alte Schule Schnackenburg Mecklenburg 2020"
-src = "images/Girlies_Alte_Schule_Schnackenburg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Alte Schule Schnackenburg Mecklenburg 2020"
-src = "images/Alte_Schule_Schnackenburg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schnackenburg Ruderboote Mecklenburg 2020"
-src = "images/Schnackenburg_Ruderboote_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderboot auf der Elbe Mecklenburg 2020"
-src = "images/Ruderboot_auf_der_Elbe_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderboote in der Elde Schleuse Mecklenburg 2002"
-src = "images/Ruderboote_in_der_Elde_Schleuse_Mecklenburg_2002.jpg"
-[[images]]
-title = "Eldena Yachthafen Abendessen Mecklenburg 2020"
-src = "images/Eldena_Yachthafen_Abendessen_Mecklenburg_2020.jpg"
-[[images]]
-title = "Auf der Elde Ruderer Mecklenburg 2020"
-src = "images/Auf_der_Elde_Ruderer_Mecklenburg_2020.jpg"
-[[images]]
-title = "Johanna Max Elde MEcklenburg 2020"
-src = "images/Johanna_Max_Elde_MEcklenburg_2020.jpg"
-[[images]]
-title = "Neustadt Glewe Yachthafen Zelte Mecklenburg 2020"
-src = "images/Neustadt_Glewe_Yachthafen_Zelte_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schaffotschleuse Elde Mecklenburg 2020"
-src = "images/Schaffotschleuse_Elde_Mecklenburg_2020.jpg"
-[[images]]
-title = "Einfahrt nach Schwerin Ruderboot Rudern Mecklenburg 2020"
-src = "images/Einfahrt_nach_Schwerin_Ruderboot_Rudern_Mecklenburg_2020.jpg"
-[[images]]
-title = "Balkon mit Schlossblick Schwerin Mecklenburg 2020"
-src = "images/Balkon_mit_Schlossblick_Schwerin_Mecklenburg_2020.jpg"
-[[images]]
-title = "Yachthafen Neustadt Glewe Ruderer Mecklenburg 2020"
-src = "images/Yachthafen_Neustadt_Glewe_Ruderer_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schweriner Schloss vom Ruderboot gesehen Mecklenburg 2020"
-src = "images/Schweriner_Schloss_vom_Ruderboot_gesehen_Mecklenburg_2020.jpg"
-[[images]]
-title = "Stadtrundfahrt Schwerin Rudern MEcklenburg 2020"
-src = "images/Stadtrundfahrt_Schwerin_Rudern_MEcklenburg_2020.jpg"
-[[images]]
-title = "Langer Graben Schwerin Rudern Mecklenburg 2020"
-src = "images/Langer_Graben_Schwerin_Rudern_Mecklenburg_2020.jpg"
-[[images]]
-title = "Kochen bei der Schweriner RG Mecklenburg 2020"
-src = "images/Kochen_bei_der_Schweriner_RG_Mecklenburg_2020.jpg"
-[[images]]
-title = "Pfaffenteich nicht erreicht Mecklenburg 2020"
-src = "images/Pfaffenteich_nicht_erreicht_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zweier vor der Grotte Schwerin Mecklenburg 2020"
-src = "images/Zweier_vor_der_Grotte_Schwerin_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schweriner Schloss von Land Mecklenburg 2020"
-src = "images/Schweriner_Schloss_von_Land_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderer in der Grotte MEcklenburg 2020"
-src = "images/Ruderer_in_der_Grotte_MEcklenburg_2020.jpg"
-[[images]]
-title = "Schweriner Aussensee Mecklenburg 2020"
-src = "images/Schweriner_Aussensee_Mecklenburg_2020.jpg"
-[[images]]
-title = "Johanna darf wieder grillen Schwerin 2020"
-src = "images/Johanna_darf_wieder_grillen_Schwerin_2020.jpg"
-[[images]]
-title = "Wehr zum Pfaffenteich Schwerin Mecklenburg 2020"
-src = "images/Wehr_zum_Pfaffenteich_Schwerin_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schwerin Abendessen Mecklenburg 2020"
-src = "images/Schwerin_Abendessen_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schweriner See Ruderboote Mecklenburg 2020"
-src = "images/Schweriner_See_Ruderboote_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schleuse Im Regen Elde Mecklenburg 2020"
-src = "images/Schleuse_Im_Regen_Elde_Mecklenburg_2020.jpg"
-[[images]]
-title = "Pension in Parchim Ruderer Mecklenburg 2020"
-src = "images/Pension_in_Parchim_Ruderer_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderinnen auf der Elde Mecklenburg 2020"
-src = "images/Ruderinnen_auf_der_Elde_Mecklenburg_2020.jpg"
-[[images]]
-title = "Bermuda Dreieck Zelte aufbauen bevor der Regen kommt Mecklenburg 2020"
-src = "images/Bermuda_Dreieck_Zelte_aufbauen_bevor_der_Regen_kommt_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zelten im Bermuda Dreieck Mecklenburg 2020"
-src = "images/Zelten_im_Bermuda_Dreieck_Mecklenburg_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-01-01"
+date: "2020-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- trebelsee
+- narew
+images:
+- src: images/Ruderboote_beladen_in_Stahnsdorf_Mecklenbur_2020.jpg
+  title: Ruderboote beladen in Stahnsdorf Mecklenbur 2020
+- src: images/Brandenburg_Havel_kurz_vor_der_Sportbootschleuse_Mecklenburg_2020.jpg
+  title: Brandenburg Havel kurz vor der Sportbootschleuse Mecklenburg 2020
+- src: images/Abendessen_der_Ruderer_Brandenburg_Havel_Alte_Feuerwache_Mecklenburg_2020.jpg
+  title: Abendessen der Ruderer Brandenburg Havel Alte Feuerwache Mecklenburg 2020
+- src: images/Boote_beladen_Alte_Feuerwache_Brandenburg_Mecklenburg_2020.jpg
+  title: Boote beladen Alte Feuerwache Brandenburg Mecklenburg 2020
+- src: images/Schloss_Plaue_Mecklenburg_2020.jpg
+  title: Schloss Plaue Mecklenburg 2020
+- src: images/Zweier_auf_der_Havel_Mecklenburg_2020.jpg
+  title: Zweier auf der Havel Mecklenburg 2020
+- src: images/Milow_Badepause_Mecklenburg_2020.jpg
+  title: Milow Badepause Mecklenburg 2020
+- src: images/Shopping_in_Rathenow_mit_Schubkarre_Mecklenburg_2020.jpg
+  title: Shopping in Rathenow mit Schubkarre Mecklenburg 2020
+- src: images/Ruderer_in_Rathenow_Mecklenburg_2020.jpg
+  title: Ruderer in Rathenow Mecklenburg 2020
+- src: images/Havel_Ruderer_warten_vor_der_Schleuse_Mecklenburg_2020.jpg
+  title: Havel Ruderer warten vor der Schleuse Mecklenburg 2020
+- src: images/Badepause_Guelper_Havel_Mecklenburg_2020.jpg
+  title: Badepause Guelper Havel Mecklenburg 2020
+- src: images/Ruderboot_Guelper_Havel_Mecklenburg_2020.jpg
+  title: Ruderboot Guelper Havel Mecklenburg 2020
+- src: images/Gewitterpause_Strodehne_Mecklenburg_2020.jpg
+  title: Gewitterpause Strodehne Mecklenburg 2020
+- src: images/Doris_Schleuse_Havelberg_Mecklenburg_2020.jpg
+  title: Doris Schleuse Havelberg Mecklenburg 2020
+- src: images/Muendung_der_Havel_in_die_Elbe_Mecklenburg_2020.jpg
+  title: Muendung der Havel in die Elbe Mecklenburg 2020
+- src: images/Girlies_Alte_Schule_Schnackenburg_Mecklenburg_2020.jpg
+  title: Girlies Alte Schule Schnackenburg Mecklenburg 2020
+- src: images/Alte_Schule_Schnackenburg_Mecklenburg_2020.jpg
+  title: Alte Schule Schnackenburg Mecklenburg 2020
+- src: images/Schnackenburg_Ruderboote_Mecklenburg_2020.jpg
+  title: Schnackenburg Ruderboote Mecklenburg 2020
+- src: images/Ruderboot_auf_der_Elbe_Mecklenburg_2020.jpg
+  title: Ruderboot auf der Elbe Mecklenburg 2020
+- src: images/Ruderboote_in_der_Elde_Schleuse_Mecklenburg_2002.jpg
+  title: Ruderboote in der Elde Schleuse Mecklenburg 2002
+- src: images/Eldena_Yachthafen_Abendessen_Mecklenburg_2020.jpg
+  title: Eldena Yachthafen Abendessen Mecklenburg 2020
+- src: images/Auf_der_Elde_Ruderer_Mecklenburg_2020.jpg
+  title: Auf der Elde Ruderer Mecklenburg 2020
+- src: images/Johanna_Max_Elde_MEcklenburg_2020.jpg
+  title: Johanna Max Elde MEcklenburg 2020
+- src: images/Neustadt_Glewe_Yachthafen_Zelte_Mecklenburg_2020.jpg
+  title: Neustadt Glewe Yachthafen Zelte Mecklenburg 2020
+- src: images/Schaffotschleuse_Elde_Mecklenburg_2020.jpg
+  title: Schaffotschleuse Elde Mecklenburg 2020
+- src: images/Einfahrt_nach_Schwerin_Ruderboot_Rudern_Mecklenburg_2020.jpg
+  title: Einfahrt nach Schwerin Ruderboot Rudern Mecklenburg 2020
+- src: images/Balkon_mit_Schlossblick_Schwerin_Mecklenburg_2020.jpg
+  title: Balkon mit Schlossblick Schwerin Mecklenburg 2020
+- src: images/Yachthafen_Neustadt_Glewe_Ruderer_Mecklenburg_2020.jpg
+  title: Yachthafen Neustadt Glewe Ruderer Mecklenburg 2020
+- src: images/Schweriner_Schloss_vom_Ruderboot_gesehen_Mecklenburg_2020.jpg
+  title: Schweriner Schloss vom Ruderboot gesehen Mecklenburg 2020
+- src: images/Stadtrundfahrt_Schwerin_Rudern_MEcklenburg_2020.jpg
+  title: Stadtrundfahrt Schwerin Rudern MEcklenburg 2020
+- src: images/Langer_Graben_Schwerin_Rudern_Mecklenburg_2020.jpg
+  title: Langer Graben Schwerin Rudern Mecklenburg 2020
+- src: images/Kochen_bei_der_Schweriner_RG_Mecklenburg_2020.jpg
+  title: Kochen bei der Schweriner RG Mecklenburg 2020
+- src: images/Pfaffenteich_nicht_erreicht_Mecklenburg_2020.jpg
+  title: Pfaffenteich nicht erreicht Mecklenburg 2020
+- src: images/Zweier_vor_der_Grotte_Schwerin_Mecklenburg_2020.jpg
+  title: Zweier vor der Grotte Schwerin Mecklenburg 2020
+- src: images/Schweriner_Schloss_von_Land_Mecklenburg_2020.jpg
+  title: Schweriner Schloss von Land Mecklenburg 2020
+- src: images/Ruderer_in_der_Grotte_MEcklenburg_2020.jpg
+  title: Ruderer in der Grotte MEcklenburg 2020
+- src: images/Schweriner_Aussensee_Mecklenburg_2020.jpg
+  title: Schweriner Aussensee Mecklenburg 2020
+- src: images/Johanna_darf_wieder_grillen_Schwerin_2020.jpg
+  title: Johanna darf wieder grillen Schwerin 2020
+- src: images/Wehr_zum_Pfaffenteich_Schwerin_Mecklenburg_2020.jpg
+  title: Wehr zum Pfaffenteich Schwerin Mecklenburg 2020
+- src: images/Schwerin_Abendessen_Mecklenburg_2020.jpg
+  title: Schwerin Abendessen Mecklenburg 2020
+- src: images/Schweriner_See_Ruderboote_Mecklenburg_2020.jpg
+  title: Schweriner See Ruderboote Mecklenburg 2020
+- src: images/Schleuse_Im_Regen_Elde_Mecklenburg_2020.jpg
+  title: Schleuse Im Regen Elde Mecklenburg 2020
+- src: images/Pension_in_Parchim_Ruderer_Mecklenburg_2020.jpg
+  title: Pension in Parchim Ruderer Mecklenburg 2020
+- src: images/Ruderinnen_auf_der_Elde_Mecklenburg_2020.jpg
+  title: Ruderinnen auf der Elde Mecklenburg 2020
+- src: images/Bermuda_Dreieck_Zelte_aufbauen_bevor_der_Regen_kommt_Mecklenburg_2020.jpg
+  title: Bermuda Dreieck Zelte aufbauen bevor der Regen kommt Mecklenburg 2020
+- src: images/Zelten_im_Bermuda_Dreieck_Mecklenburg_2020.jpg
+  title: Zelten im Bermuda Dreieck Mecklenburg 2020
+länder:
+- deutschland
+- polen
+title: Mecklenburg Umfahrt 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,61 +1,45 @@
-+++
-title = "Drachenboot-Rudercup 2013"
-author = ""
-date = 2013-04-04T01:00:00+02:00
-begin = "2013-04-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Logo-Thiel-top04"
-src = "images/Logo-Thiel-top04.gif"
-[[images]]
-title = "Logo-Thiel-bottom04"
-src = "images/Logo-Thiel-bottom04.gif"
-[[images]]
-title = "Drachenboot auf dem Teltowkanal 2013"
-src = "images/Drachenboot_auf_dem_Teltowkanal_2013.jpg"
-[[images]]
-title = "Drachenboote auf dem Teltowkanal 2013"
-src = "images/Drachenboote_auf_dem_Teltowkanal_2013.jpg"
-[[images]]
-title = "Sieger im Parteirennen SPD Team Wicklein 2013"
-src = "images/Sieger_im_Parteirennen_SPD_Team_Wicklein_2013.jpg"
-[[images]]
-title = "TV Reporter im Ruderboot Drachenboot-Rudercup 2013"
-src = "images/TV_Reporter_im_Ruderboot_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Ergebnis Familien Drachenboot-Rudercup 2013"
-src = "images/Ergebnis_Familien_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Abbau Behelfsdach Bootshalle Drachenboot-Rudercup 2013"
-src = "images/Abbau_Behelfsdach_Bootshalle_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Regattasprecher Drachenboot-Rudercup 2013"
-src = "images/Regattasprecher_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Zuschauer beim Drachenboot-Rudercup 2013"
-src = "images/Zuschauer_beim_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Zeitnehmer Drachenboot-Rudercup 2013"
-src = "images/Zeitnehmer_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Zuschauer in der provisorischen Bootshalle Drachenboot-Rudercup 2013"
-src = "images/Zuschauer_in_der_provisorischen_Bootshalle_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Cocktailbar beim Drachenboot-Rudercup 2013"
-src = "images/Cocktailbar_beim_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Startbuero Drachenboot-Rudercup 2013"
-src = "images/Startbuero_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Zieleinlauf Drachenboot-Rudercup 2013"
-src = "images/Zieleinlauf_Drachenboot-Rudercup_2013.jpg"
-[[images]]
-title = "Zielsteg Drachenboot-Rudercup 2013"
-src = "images/Zielsteg_Drachenboot-Rudercup_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-04-01"
+date: "2013-04-04T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Logo-Thiel-top04.gif
+  title: Logo-Thiel-top04
+- src: images/Logo-Thiel-bottom04.gif
+  title: Logo-Thiel-bottom04
+- src: images/Drachenboot_auf_dem_Teltowkanal_2013.jpg
+  title: Drachenboot auf dem Teltowkanal 2013
+- src: images/Drachenboote_auf_dem_Teltowkanal_2013.jpg
+  title: Drachenboote auf dem Teltowkanal 2013
+- src: images/Sieger_im_Parteirennen_SPD_Team_Wicklein_2013.jpg
+  title: Sieger im Parteirennen SPD Team Wicklein 2013
+- src: images/TV_Reporter_im_Ruderboot_Drachenboot-Rudercup_2013.jpg
+  title: TV Reporter im Ruderboot Drachenboot-Rudercup 2013
+- src: images/Ergebnis_Familien_Drachenboot-Rudercup_2013.jpg
+  title: Ergebnis Familien Drachenboot-Rudercup 2013
+- src: images/Abbau_Behelfsdach_Bootshalle_Drachenboot-Rudercup_2013.jpg
+  title: Abbau Behelfsdach Bootshalle Drachenboot-Rudercup 2013
+- src: images/Regattasprecher_Drachenboot-Rudercup_2013.jpg
+  title: Regattasprecher Drachenboot-Rudercup 2013
+- src: images/Zuschauer_beim_Drachenboot-Rudercup_2013.jpg
+  title: Zuschauer beim Drachenboot-Rudercup 2013
+- src: images/Zeitnehmer_Drachenboot-Rudercup_2013.jpg
+  title: Zeitnehmer Drachenboot-Rudercup 2013
+- src: images/Zuschauer_in_der_provisorischen_Bootshalle_Drachenboot-Rudercup_2013.jpg
+  title: Zuschauer in der provisorischen Bootshalle Drachenboot-Rudercup 2013
+- src: images/Cocktailbar_beim_Drachenboot-Rudercup_2013.jpg
+  title: Cocktailbar beim Drachenboot-Rudercup 2013
+- src: images/Startbuero_Drachenboot-Rudercup_2013.jpg
+  title: Startbuero Drachenboot-Rudercup 2013
+- src: images/Zieleinlauf_Drachenboot-Rudercup_2013.jpg
+  title: Zieleinlauf Drachenboot-Rudercup 2013
+- src: images/Zielsteg_Drachenboot-Rudercup_2013.jpg
+  title: Zielsteg Drachenboot-Rudercup 2013
+länder: []
+title: Drachenboot-Rudercup 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

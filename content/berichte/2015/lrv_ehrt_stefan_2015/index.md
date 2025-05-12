@@ -1,16 +1,16 @@
-+++
-title = "LRV ehrt Stefan 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = ["erne"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Silberne Ehrennadel des LRV Stefan"
-src = "images/Silberne_Ehrennadel_des_LRV_Stefan.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer:
+- erne
+images:
+- src: images/Silberne_Ehrennadel_des_LRV_Stefan.jpg
+  title: Silberne Ehrennadel des LRV Stefan
+länder: []
+title: LRV ehrt Stefan 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

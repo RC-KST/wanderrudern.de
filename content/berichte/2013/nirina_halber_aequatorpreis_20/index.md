@@ -1,16 +1,15 @@
-+++
-title = "Anrudern 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Halber Aequatorpreis fuer Nirina Anrudern 2013"
-src = "images/Halber_Aequatorpreis_fuer_Nirina_Anrudern_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Halber_Aequatorpreis_fuer_Nirina_Anrudern_2013.jpg
+  title: Halber Aequatorpreis fuer Nirina Anrudern 2013
+länder: []
+title: Anrudern 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

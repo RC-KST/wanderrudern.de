@@ -1,52 +1,42 @@
-+++
-title = "EUREGA 2023"
-author = ""
-date = 2023-05-05T01:00:00+02:00
-begin = "2023-05-01"
-"gewässer" = ["rhein", "oder", "shannon"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Baumgarten C4x+ Marathon EUREGA 2023"
-src = "images/Baumgarten_C4x__Marathon_EUREGA_2023.jpg"
-[[images]]
-title = "Lorelei Schutzhafen EUREGA 2023"
-src = "images/Lorelei_Schutzhafen_EUREGA_2023.jpg"
-[[images]]
-title = "Start EUREGA 2023 Baumgarten Marathon C4x+"
-src = "images/Start_EUREGA_2023_Baumgarten_Marathon_C4x_.jpg"
-[[images]]
-title = "Mittelrheintal EUREGA 2023"
-src = "images/Mittelrheintal_EUREGA_2023.jpg"
-[[images]]
-title = "Ruderboote mit Raddampfer EUREGA 2023"
-src = "images/Ruderboote_mit_Raddampfer_EUREGA_2023.jpg"
-[[images]]
-title = "Koblenz EUREGA 2023"
-src = "images/Koblenz_EUREGA_2023.jpg"
-[[images]]
-title = "EUREGA Bonner RV 2023"
-src = "images/EUREGA_Bonner_RV_2023.jpg"
-[[images]]
-title = "Mixed Mannschaft Kleinmachnow EUREGA 2023"
-src = "images/Mixed_Mannschaft_Kleinmachnow_EUREGA_2023.jpg"
-[[images]]
-title = "Siegerehrung EUREGA 2023"
-src = "images/Siegerehrung_EUREGA_2023.jpg"
-[[images]]
-title = "Rhein in Flammen 2023"
-src = "images/Rhein_in_Flammen_2023.jpg"
-[[images]]
-title = "EUREGA 2023 Route"
-src = "images/EUREGA_2023_Route.jpg"
-[[images]]
-title = "Verpflegung eines Marathon Ruderers EUREGA 2023"
-src = "images/Verpflegung_eines_Marathon_Ruderers_EUREGA_2023.jpg"
-[[images]]
-title = "Logo Eurega"
-src = "images/Logo_Eurega.png"
-
-+++
+---
+author: ""
+begin: "2023-05-01"
+date: "2023-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+- oder
+- shannon
+images:
+- src: images/Baumgarten_C4x__Marathon_EUREGA_2023.jpg
+  title: Baumgarten C4x+ Marathon EUREGA 2023
+- src: images/Lorelei_Schutzhafen_EUREGA_2023.jpg
+  title: Lorelei Schutzhafen EUREGA 2023
+- src: images/Start_EUREGA_2023_Baumgarten_Marathon_C4x_.jpg
+  title: Start EUREGA 2023 Baumgarten Marathon C4x+
+- src: images/Mittelrheintal_EUREGA_2023.jpg
+  title: Mittelrheintal EUREGA 2023
+- src: images/Ruderboote_mit_Raddampfer_EUREGA_2023.jpg
+  title: Ruderboote mit Raddampfer EUREGA 2023
+- src: images/Koblenz_EUREGA_2023.jpg
+  title: Koblenz EUREGA 2023
+- src: images/EUREGA_Bonner_RV_2023.jpg
+  title: EUREGA Bonner RV 2023
+- src: images/Mixed_Mannschaft_Kleinmachnow_EUREGA_2023.jpg
+  title: Mixed Mannschaft Kleinmachnow EUREGA 2023
+- src: images/Siegerehrung_EUREGA_2023.jpg
+  title: Siegerehrung EUREGA 2023
+- src: images/Rhein_in_Flammen_2023.jpg
+  title: Rhein in Flammen 2023
+- src: images/EUREGA_2023_Route.jpg
+  title: EUREGA 2023 Route
+- src: images/Verpflegung_eines_Marathon_Ruderers_EUREGA_2023.jpg
+  title: Verpflegung eines Marathon Ruderers EUREGA 2023
+- src: images/Logo_Eurega.png
+  title: Logo Eurega
+länder: []
+title: EUREGA 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

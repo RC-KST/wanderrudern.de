@@ -1,25 +1,23 @@
-+++
-title = "Ketzin 2015 Frühjahr"
-author = ""
-date = 2015-03-03T01:00:00+02:00
-begin = "2015-03-01"
-"gewässer" = ["havel", "wublitz"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer im Malabar Maerz 2015"
-src = "images/Ruderer_im_Malabar_Maerz_2015.jpg"
-[[images]]
-title = "Ruderboot Start in Ketzin Maerz 2015"
-src = "images/Ruderboot_Start_in_Ketzin_Maerz_2015.jpg"
-[[images]]
-title = "Ruderboote Brandenburg Havel Maerz 2015"
-src = "images/Ruderboote_Brandenburg_Havel_Maerz_2015.jpg"
-[[images]]
-title = "Indisches Brot Malabar Maerz 2015"
-src = "images/Indisches_Brot_Malabar_Maerz_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-03-01"
+date: "2015-03-03T01:00:00+02:00"
+gewässer:
+- havel
+- wublitz
+images:
+- src: images/Ruderer_im_Malabar_Maerz_2015.jpg
+  title: Ruderer im Malabar Maerz 2015
+- src: images/Ruderboot_Start_in_Ketzin_Maerz_2015.jpg
+  title: Ruderboot Start in Ketzin Maerz 2015
+- src: images/Ruderboote_Brandenburg_Havel_Maerz_2015.jpg
+  title: Ruderboote Brandenburg Havel Maerz 2015
+- src: images/Indisches_Brot_Malabar_Maerz_2015.jpg
+  title: Indisches Brot Malabar Maerz 2015
+länder: []
+title: Ketzin 2015 Frühjahr
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,24 @@
-+++
-title = "Stahnsdorf Havelberg 08"
-author = ""
-date = 2008-05-05T01:00:00+02:00
-begin = "2008-05-01"
-"gewässer" = ["elbe", "havel", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot auf der unteren Havel 08"
-src = "images/Ruderboot_auf_der_unteren_Havel_08.jpg"
-[[images]]
-title = "Ruderclub Kleinmachnow bei Plaue 08"
-src = "images/Ruderclub_Kleinmachnow_bei_Plaue_08.jpg"
-[[images]]
-title = "Zweier auf dem Plauer See 08"
-src = "images/Zweier_auf_dem_Plauer_See_08.jpg"
-[[images]]
-title = "Ruderer in Havelberg 08"
-src = "images/Ruderer_in_Havelberg_08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-05-01"
+date: "2008-05-05T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- teltowkanal
+images:
+- src: images/Ruderboot_auf_der_unteren_Havel_08.jpg
+  title: Ruderboot auf der unteren Havel 08
+- src: images/Ruderclub_Kleinmachnow_bei_Plaue_08.jpg
+  title: Ruderclub Kleinmachnow bei Plaue 08
+- src: images/Zweier_auf_dem_Plauer_See_08.jpg
+  title: Zweier auf dem Plauer See 08
+- src: images/Ruderer_in_Havelberg_08.jpg
+  title: Ruderer in Havelberg 08
+länder: []
+title: Stahnsdorf Havelberg 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

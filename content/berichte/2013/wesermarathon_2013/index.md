@@ -1,31 +1,27 @@
-+++
-title = "Wesermarathon 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Masters RC KST Wesermarathon 2013"
-src = "images/Masters_RC_KST_Wesermarathon_2013.jpg"
-[[images]]
-title = "Kassel Start der Vorfahrt Wesermarathon 2013"
-src = "images/Kassel_Start_der_Vorfahrt_Wesermarathon_2013.jpg"
-[[images]]
-title = "Wesermarathon 2013"
-src = "images/Wesermarathon_2013.jpg"
-[[images]]
-title = "Ruderer in Kassel Wesermarathon 2013"
-src = "images/Ruderer_in_Kassel_Wesermarathon_2013.jpg"
-[[images]]
-title = "Hochseilfaehre Wesermarathon 2013"
-src = "images/Hochseilfaehre_Wesermarathon_2013.jpg"
-[[images]]
-title = "Jo und LingLing am Weserstein 2013"
-src = "images/Jo_und_LingLing_am_Weserstein_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+images:
+- src: images/Masters_RC_KST_Wesermarathon_2013.jpg
+  title: Masters RC KST Wesermarathon 2013
+- src: images/Kassel_Start_der_Vorfahrt_Wesermarathon_2013.jpg
+  title: Kassel Start der Vorfahrt Wesermarathon 2013
+- src: images/Wesermarathon_2013.jpg
+  title: Wesermarathon 2013
+- src: images/Ruderer_in_Kassel_Wesermarathon_2013.jpg
+  title: Ruderer in Kassel Wesermarathon 2013
+- src: images/Hochseilfaehre_Wesermarathon_2013.jpg
+  title: Hochseilfaehre Wesermarathon 2013
+- src: images/Jo_und_LingLing_am_Weserstein_2013.jpg
+  title: Jo und LingLing am Weserstein 2013
+länder: []
+title: Wesermarathon 2013
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,34 +1,29 @@
-+++
-title = "Wesermarathon 2006"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["weser", "oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Schleuse Eschwege Ruderer"
-src = "images/WM06_Schleuse_Eschwege.jpg"
-[[images]]
-title = "muenden wehr"
-src = "images/wm06_muenden_wehr.jpg"
-[[images]]
-title = "muenden im wasser Ruderboot Wehr"
-src = "images/wm06_muenden_imwasser03.jpg"
-[[images]]
-title = "muenden umtrage Ruderer"
-src = "images/wm06_muenden_umtrage.jpg"
-[[images]]
-title = "Wesermarathon km9 Ruderer"
-src = "images/WM06_KM9.jpg"
-[[images]]
-title = "Schule Münden Übernachtung Ruderer"
-src = "images/wm06_schule4.jpg"
-[[images]]
-title = "Malte Sophie Ruderboot"
-src = "images/wm06_KM113.jpg"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- oder
+images:
+- src: images/WM06_Schleuse_Eschwege.jpg
+  title: Schleuse Eschwege Ruderer
+- src: images/wm06_muenden_wehr.jpg
+  title: muenden wehr
+- src: images/wm06_muenden_imwasser03.jpg
+  title: muenden im wasser Ruderboot Wehr
+- src: images/wm06_muenden_umtrage.jpg
+  title: muenden umtrage Ruderer
+- src: images/WM06_KM9.jpg
+  title: Wesermarathon km9 Ruderer
+- src: images/wm06_schule4.jpg
+  title: Schule Münden Übernachtung Ruderer
+- src: images/wm06_KM113.jpg
+  title: Malte Sophie Ruderboot
+länder: []
+title: Wesermarathon 2006
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

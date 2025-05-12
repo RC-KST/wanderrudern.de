@@ -1,22 +1,22 @@
-+++
-title = "Wanderfahrt Stroemsholm  Kanal Maelar 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["oder"]
-"länder" = ["deutschland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schwedische Insellandschaft S10"
-src = "images/Schwedische_Insellandschaft_S10.jpg"
-[[images]]
-title = "Felsen am Ufer des Maelar S10"
-src = "images/Felsen_am_Ufer_des_Maelar_S10.jpg"
-[[images]]
-title = "Schwedische Uferlandschaft S10"
-src = "images/Schwedische_Uferlandschaft_S10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Schwedische_Insellandschaft_S10.jpg
+  title: Schwedische Insellandschaft S10
+- src: images/Felsen_am_Ufer_des_Maelar_S10.jpg
+  title: Felsen am Ufer des Maelar S10
+- src: images/Schwedische_Uferlandschaft_S10.jpg
+  title: Schwedische Uferlandschaft S10
+länder:
+- deutschland
+- schweden
+title: Wanderfahrt Stroemsholm  Kanal Maelar 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

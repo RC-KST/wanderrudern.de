@@ -1,61 +1,47 @@
-+++
-title = "Warthe 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = ["warthe"]
-"länder" = ["polen"]
-"typ" = "marathon"
-[[images]]
-title = "Hotel Sara in Kolo 2015"
-src = "images/Hotel_Sara_in_Kolo_2015.jpg"
-[[images]]
-title = "Ablegen in Kolo 2015"
-src = "images/Ablegen_in_Kolo_2015.jpg"
-[[images]]
-title = "Ruderboot in Kolo 2015"
-src = "images/Ruderboot_in_Kolo_2015.jpg"
-[[images]]
-title = "Burg in Kolo Warthe 2015"
-src = "images/Burg_in_Kolo_Warthe_2015.jpg"
-[[images]]
-title = "Dreier mit Steuermann auf der Warthe 2015"
-src = "images/Dreier_mit_Steuermann_auf_der_Warthe_2015.jpg"
-[[images]]
-title = "Warthe bei Konin 2015"
-src = "images/Warthe_bei_Konin_2015.jpg"
-[[images]]
-title = "Warthe bei Kolo 2015"
-src = "images/Warthe_bei_Kolo_2015.jpg"
-[[images]]
-title = "Start in Pyzdry 2015"
-src = "images/Start_in_Pyzdry_2015.jpg"
-[[images]]
-title = "Rudervierer auf der Warthe 2015"
-src = "images/Rudervierer_auf_der_Warthe_2015.jpg"
-[[images]]
-title = "Auenlandschaft Warthe 2015"
-src = "images/Auenlandschaft_Warthe_2015.jpg"
-[[images]]
-title = "Jugendvierer auf der Warthe 2015"
-src = "images/Jugendvierer_auf_der_Warthe_2015.jpg"
-[[images]]
-title = "Ruderinen Abends in Zatom Stary 2015"
-src = "images/Ruderinen_Abends_in_Zatom_Stary_2015.jpg"
-[[images]]
-title = "Ruderboot Warthe 2015"
-src = "images/Ruderboot_Warthe_2015.jpg"
-[[images]]
-title = "Boote einsetzen Zatom Stary 2015"
-src = "images/Boote_einsetzen_Zatom_Stary_2015.jpg"
-[[images]]
-title = "Boote aussetzen an der Warthe 2015"
-src = "images/Boote_aussetzen_an_der_Warthe_2015.jpg"
-[[images]]
-title = "Boote aufladen an der Warthe 2015"
-src = "images/Boote_aufladen_an_der_Warthe_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Hotel_Sara_in_Kolo_2015.jpg
+  title: Hotel Sara in Kolo 2015
+- src: images/Ablegen_in_Kolo_2015.jpg
+  title: Ablegen in Kolo 2015
+- src: images/Ruderboot_in_Kolo_2015.jpg
+  title: Ruderboot in Kolo 2015
+- src: images/Burg_in_Kolo_Warthe_2015.jpg
+  title: Burg in Kolo Warthe 2015
+- src: images/Dreier_mit_Steuermann_auf_der_Warthe_2015.jpg
+  title: Dreier mit Steuermann auf der Warthe 2015
+- src: images/Warthe_bei_Konin_2015.jpg
+  title: Warthe bei Konin 2015
+- src: images/Warthe_bei_Kolo_2015.jpg
+  title: Warthe bei Kolo 2015
+- src: images/Start_in_Pyzdry_2015.jpg
+  title: Start in Pyzdry 2015
+- src: images/Rudervierer_auf_der_Warthe_2015.jpg
+  title: Rudervierer auf der Warthe 2015
+- src: images/Auenlandschaft_Warthe_2015.jpg
+  title: Auenlandschaft Warthe 2015
+- src: images/Jugendvierer_auf_der_Warthe_2015.jpg
+  title: Jugendvierer auf der Warthe 2015
+- src: images/Ruderinen_Abends_in_Zatom_Stary_2015.jpg
+  title: Ruderinen Abends in Zatom Stary 2015
+- src: images/Ruderboot_Warthe_2015.jpg
+  title: Ruderboot Warthe 2015
+- src: images/Boote_einsetzen_Zatom_Stary_2015.jpg
+  title: Boote einsetzen Zatom Stary 2015
+- src: images/Boote_aussetzen_an_der_Warthe_2015.jpg
+  title: Boote aussetzen an der Warthe 2015
+- src: images/Boote_aufladen_an_der_Warthe_2015.jpg
+  title: Boote aufladen an der Warthe 2015
+länder:
+- polen
+title: Warthe 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

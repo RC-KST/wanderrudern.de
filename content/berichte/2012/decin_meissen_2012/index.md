@@ -1,31 +1,26 @@
-+++
-title = "Decin Meissen 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote rigggern in Decin 2012"
-src = "images/Boote_rigggern_in_Decin_2012.jpg"
-[[images]]
-title = "Kneipe Decin 2012"
-src = "images/Kneipe_Decin_2012.jpg"
-[[images]]
-title = "Dauerregen Elbsandsteingebirge Decin 2012"
-src = "images/Dauerregen_Elbsandsteingebirge_Decin_2012.jpg"
-[[images]]
-title = "Adventsschmuck am Boot Pirna 2012"
-src = "images/Adventsschmuck_am_Boot_Pirna_2012.jpg"
-[[images]]
-title = "Das Wetter wird besser Decin 2012"
-src = "images/Das_Wetter_wird_besser_Decin_2012.jpg"
-[[images]]
-title = "Downtown Dresden Decin 2012"
-src = "images/Downtown_Dresden_Decin_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Boote_rigggern_in_Decin_2012.jpg
+  title: Boote rigggern in Decin 2012
+- src: images/Kneipe_Decin_2012.jpg
+  title: Kneipe Decin 2012
+- src: images/Dauerregen_Elbsandsteingebirge_Decin_2012.jpg
+  title: Dauerregen Elbsandsteingebirge Decin 2012
+- src: images/Adventsschmuck_am_Boot_Pirna_2012.jpg
+  title: Adventsschmuck am Boot Pirna 2012
+- src: images/Das_Wetter_wird_besser_Decin_2012.jpg
+  title: Das Wetter wird besser Decin 2012
+- src: images/Downtown_Dresden_Decin_2012.jpg
+  title: Downtown Dresden Decin 2012
+länder: []
+title: Decin Meissen 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

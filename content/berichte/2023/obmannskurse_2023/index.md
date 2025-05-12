@@ -1,19 +1,17 @@
-+++
-title = "Obmannskurse 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs Erwachsene 2023_"
-src = "images/Obmannskurs_Erwachsene_2023_.jpg"
-[[images]]
-title = "Obmannskurs Jugendliche 2023_"
-src = "images/Obmannskurs_Jugendliche_2023_.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_Erwachsene_2023_.jpg
+  title: Obmannskurs Erwachsene 2023_
+- src: images/Obmannskurs_Jugendliche_2023_.jpg
+  title: Obmannskurs Jugendliche 2023_
+länder: []
+title: Obmannskurse 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

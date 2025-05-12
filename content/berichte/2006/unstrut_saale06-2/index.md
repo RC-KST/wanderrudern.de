@@ -1,13 +1,14 @@
-+++
-title = "Unstrut_Saale06"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["saale", "unstrut"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- saale
+- unstrut
+länder: []
+title: Unstrut_Saale06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

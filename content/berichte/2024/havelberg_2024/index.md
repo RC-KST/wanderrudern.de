@@ -1,40 +1,34 @@
-+++
-title = "Havelberg 2024"
-author = ""
-date = 2024-07-07T01:00:00+02:00
-begin = "2024-07-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderzweier ankunft in Ketzin Havelberg 2024"
-src = "images/Ruderzweier_ankunft_in_Ketzin_Havelberg_2024.jpg"
-[[images]]
-title = "Biwak in Ketzin Havelberg 2024"
-src = "images/Biwak_in_Ketzin_Havelberg_2024.jpg"
-[[images]]
-title = "Zeltplatz in Ketzin Havelberg 2024"
-src = "images/Zeltplatz_in_Ketzin_Havelberg_2024.jpg"
-[[images]]
-title = "Carlos Timo untere Havel im Ruderboot Havelberg 2024"
-src = "images/Carlos_Timo_untere_Havel_im_Ruderboot_Havelberg_2024.jpg"
-[[images]]
-title = "Ruderverein Plaue Mittagspause Havelberg 2024"
-src = "images/Ruderverein_Plaue_Mittagspause_Havelberg_2024.jpg"
-[[images]]
-title = "Pizzaessen in Rathenow Havelberg 2024"
-src = "images/Pizzaessen_in_Rathenow_Havelberg_2024.jpg"
-[[images]]
-title = "Schleuse Rathenow Havelberg 2024"
-src = "images/Schleuse_Rathenow_Havelberg_2024.jpg"
-[[images]]
-title = "Biwakplatz Gülper Havel Havelberg 2024"
-src = "images/Biwakplatz_Gulper_Havel_Havelberg_2024.jpg"
-[[images]]
-title = "Havelberg erreicht 2024"
-src = "images/Havelberg_erreicht_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-07-01"
+date: "2024-07-07T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Ruderzweier_ankunft_in_Ketzin_Havelberg_2024.jpg
+  title: Ruderzweier ankunft in Ketzin Havelberg 2024
+- src: images/Biwak_in_Ketzin_Havelberg_2024.jpg
+  title: Biwak in Ketzin Havelberg 2024
+- src: images/Zeltplatz_in_Ketzin_Havelberg_2024.jpg
+  title: Zeltplatz in Ketzin Havelberg 2024
+- src: images/Carlos_Timo_untere_Havel_im_Ruderboot_Havelberg_2024.jpg
+  title: Carlos Timo untere Havel im Ruderboot Havelberg 2024
+- src: images/Ruderverein_Plaue_Mittagspause_Havelberg_2024.jpg
+  title: Ruderverein Plaue Mittagspause Havelberg 2024
+- src: images/Pizzaessen_in_Rathenow_Havelberg_2024.jpg
+  title: Pizzaessen in Rathenow Havelberg 2024
+- src: images/Schleuse_Rathenow_Havelberg_2024.jpg
+  title: Schleuse Rathenow Havelberg 2024
+- src: images/Biwakplatz_Gulper_Havel_Havelberg_2024.jpg
+  title: Biwakplatz Gülper Havel Havelberg 2024
+- src: images/Havelberg_erreicht_2024.jpg
+  title: Havelberg erreicht 2024
+länder: []
+title: Havelberg 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

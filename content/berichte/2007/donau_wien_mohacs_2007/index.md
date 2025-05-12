@@ -1,268 +1,191 @@
-+++
-title = "Donau Wien Mohacs 2007"
-author = ""
-date = 2007-04-04T01:00:00+02:00
-begin = "2007-04-01"
-"gewässer" = ["donau", "donaukanal", "oste", "oder"]
-"länder" = ["deutschland", "österreich", "ungarn", "slowakei"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Burgtheater Wien DWM07"
-src = "images/Burgtheater_Wien_DWM07.JPG"
-[[images]]
-title = "Schoenbrunn_DWM07"
-src = "images/Schoenbrunn_DWM07.JPG"
-[[images]]
-title = "Irrgarten_DWM07"
-src = "images/Irrgarten_DWM07.JPG"
-[[images]]
-title = "auf der Gloriette DWM07"
-src = "images/auf_der_Gloriette_DWM07.JPG"
-[[images]]
-title = "Schlosspark_DWM07"
-src = "images/Schlosspark_DWM07.JPG"
-[[images]]
-title = "Wilde Maus Wien DWM07"
-src = "images/Wilde_Maus_Wien_DWM07.JPG"
-[[images]]
-title = "E Vierer Schleuse Nussdorf DWM07"
-src = "images/E_Vierer_Schleuse_Nussdorf_DWM07.JPG"
-[[images]]
-title = "E Zweier Schleuse Nussdorf DWM07"
-src = "images/E_Zweier_Schleuse_Nussdorf_DWM07.JPG"
-[[images]]
-title = "Donauhort Wien Rudereruebernachtung DWM07"
-src = "images/Donauhort_Wien_Rudereruebernachtung_DWM07.JPG"
-[[images]]
-title = "Schleuse Nussdorf DWM07"
-src = "images/Schleuse_Nussdorf_DWM07.JPG"
-[[images]]
-title = "Ruderer bei Donauhort DWM07"
-src = "images/Ruderer_bei_Donauhort_DWM07.JPG"
-[[images]]
-title = "Donaukanal DWM07"
-src = "images/Donaukanal_DWM07.jpg"
-[[images]]
-title = "Hainburg DWM07"
-src = "images/Hainburg_DWM07.jpg"
-[[images]]
-title = "Rudervierer auf der Donau DWM07"
-src = "images/Rudervierer_auf_der_Donau_DWM07.jpg"
-[[images]]
-title = "KIesbank in der Donau DWM07"
-src = "images/KIesbank_in_der_Donau_DWM07.jpg"
-[[images]]
-title = "Kreuzfahrer hainburg DWM07"
-src = "images/Kreuzfahrer_hainburg_DWM07.jpg"
-[[images]]
-title = "bratislava ufo DWM07"
-src = "images/bratislava_ufo_DWM07.jpg"
-[[images]]
-title = "Katrin_kraftraum_DWM07"
-src = "images/Katrin_kraftraum_DWM07.JPG"
-[[images]]
-title = "Boote aufladen in Bratislava"
-src = "images/Boote_aufladen_in_Bratislava.jpg"
-[[images]]
-title = "Levon Manuel Bratislava DWM07"
-src = "images/Levon_Manuel_Bratislava_DWM07.jpg"
-[[images]]
-title = "Anhaenger beladen Bratisla va DWM07"
-src = "images/Anhaenger_beladen_Bratisla_va_DWM07.JPG"
-[[images]]
-title = "Bratislava Ruderclub DWM07"
-src = "images/Bratislava_Ruderclub_DWM07.JPG"
-[[images]]
-title = "Bratislava_mannschaft DWM07"
-src = "images/Bratislava_mannschaft_DWM07.JPG"
-[[images]]
-title = "Treppe Bratislava DWM07"
-src = "images/Treppe_Bratislava_DWM07.jpg"
-[[images]]
-title = "Brunnen in Bratislava DWM07"
-src = "images/Brunnen_in_Bratislava_DWM07.JPG"
-[[images]]
-title = "Paula in Bratislava DWM07"
-src = "images/Paula_in_Bratislava_DWM07.JPG"
-[[images]]
-title = "Ruderer in Bratislava DWM07"
-src = "images/Ruderer_in_Bratislava_DWM07.JPG"
-[[images]]
-title = "Ruderer auf dem Weg zur Burg Bratislava  DWM07"
-src = "images/Ruderer_auf_dem_Weg_zur_Burg_Bratislava__DWM07.JPG"
-[[images]]
-title = "Thomas Victor in Bratislava DWM07"
-src = "images/Thomas_Victor_in_Bratislava_DWM07.JPG"
-[[images]]
-title = "Ufobruecke Bratislava DWM07"
-src = "images/Ufobruecke_Bratislava_DWM07.JPG"
-[[images]]
-title = "Levon auf der Mossoni-DonauDWM07"
-src = "images/Levon_auf_der_Mossoni-DonauDWM07.JPG"
-[[images]]
-title = "Boote an der Mossoni Donau DWM07"
-src = "images/Boote_an_der_Mossoni_Donau_DWM07.JPG"
-[[images]]
-title = "Csarda an der Mossoni Donau DWM07"
-src = "images/Csarda_an_der_Mossoni_Donau_DWM07.JPG"
-[[images]]
-title = "Einsatzstelle Rajka DWM07"
-src = "images/Einsatzstelle_Rajka_DWM07.JPG"
-[[images]]
-title = "rajka mossoni donau DWM07"
-src = "images/rajka_mossoni_donau_DWM07.jpg"
-[[images]]
-title = "Stefan Mirko Gondel DWM07"
-src = "images/Stefan_Mirko_Gondel_DWM07.JPG"
-[[images]]
-title = "Gondel und Skiff DWM07"
-src = "images/Gondel_und_Skiff_DWM07.JPG"
-[[images]]
-title = "Ruderclub Mosson Magyarova DWM07"
-src = "images/Ruderclub_Mosson_Magyarova_DWM07.jpg"
-[[images]]
-title = "Sophie in VenezianischerGondel DWM07"
-src = "images/Sophie_in_VenezianischerGondel_DWM07.JPG"
-[[images]]
-title = "Mossini Duna DWM07"
-src = "images/Mossini_Duna_DWM07.jpg"
-[[images]]
-title = "Paula Mossoni Donau DWM07"
-src = "images/Paula_Mossoni_Donau_DWM07.JPG"
-[[images]]
-title = "Mossoni Duna Katrin DWM07"
-src = "images/Mossoni_Duna_Katrin_DWM07.jpg"
-[[images]]
-title = "der schnarcher im Ruderkasten DWM07"
-src = "images/der_schnarcher_im_Ruderkasten_DWM07.JPG"
-[[images]]
-title = "Ruderclub Gyoer DWM07"
-src = "images/Ruderclub_Gyoer_DWM07.jpg"
-[[images]]
-title = "KOmarno Europaplatz DWM07"
-src = "images/KOmarno_Europaplatz_DWM07.JPG"
-[[images]]
-title = "Parkbank Komarno DWM07"
-src = "images/Parkbank_Komarno_DWM07.JPG"
-[[images]]
-title = "Festung Komarno DWM07"
-src = "images/Festung_Komarno_DWM07.jpg"
-[[images]]
-title = "drei Damen DWM07"
-src = "images/drei_Damen_DWM07.JPG"
-[[images]]
-title = "Donau bei Esztergom DWM07"
-src = "images/Donau_bei_Esztergom_DWM07.JPG"
-[[images]]
-title = "Esztergom im Nebenarm DWM07"
-src = "images/Esztergom_im_Nebenarm_DWM07.jpg"
-[[images]]
-title = "Denkmal Esztergom DWM07"
-src = "images/Denkmal_Esztergom_DWM07.JPG"
-[[images]]
-title = "Paula DWM07"
-src = "images/Paula_DWM07.JPG"
-[[images]]
-title = "Esztergom_Burgberg DWM07"
-src = "images/Esztergom_Burgberg_DWM07.JPG"
-[[images]]
-title = "Esztergom Abendessen kochen DWM07"
-src = "images/Esztergom_Abendessen_kochen_DWM07.JPG"
-[[images]]
-title = "Ruderer in Esztergom DWM07"
-src = "images/Ruderer_in_Esztergom_DWM07.jpg"
-[[images]]
-title = "Visegrad_DWM07"
-src = "images/Visegrad_DWM07.JPG"
-[[images]]
-title = "Aussicht Esztergom DWM07"
-src = "images/Aussicht_Esztergom_DWM07.JPG"
-[[images]]
-title = "Visegrad am Kiesstrand DWM07"
-src = "images/Visegrad_am_Kiesstrand_DWM07.jpg"
-[[images]]
-title = "Schwertkampf Visegrad DWM07"
-src = "images/Schwertkampf_Visegrad_DWM07.jpg"
-[[images]]
-title = "Sophie Levon Donaustrand DWM07"
-src = "images/Sophie_Levon_Donaustrand_DWM07.JPG"
-[[images]]
-title = "Levon Sophie im Ruderboot DWM07"
-src = "images/Levon_Sophie_im_Ruderboot_DWM07.JPG"
-[[images]]
-title = "Schilderwut DWM07"
-src = "images/Schilderwut_DWM07.JPG"
-[[images]]
-title = "Levon in Budapest DWM07"
-src = "images/Levon_in_Budapest_DWM07.JPG"
-[[images]]
-title = "Budapest Ruderclub DWM07"
-src = "images/Budapest_Ruderclub_DWM07.JPG"
-[[images]]
-title = "Matthiaskirche DWM07"
-src = "images/Matthiaskirche_DWM07.JPG"
-[[images]]
-title = "Fischerbastei DWM07"
-src = "images/Fischerbastei_DWM07.JPG"
-[[images]]
-title = "Ungarische Krone DWM07"
-src = "images/Ungarische_Krone_DWM07.JPG"
-[[images]]
-title = "Treppe in Budpest mit Ruderern DWM07"
-src = "images/Treppe_in_Budpest_mit_Ruderern_DWM07.jpg"
-[[images]]
-title = "Betende Ruderer DWM07"
-src = "images/Betende_Ruderer_DWM07.JPG"
-[[images]]
-title = "Budapest Skyline DWM07"
-src = "images/Budapest_Skyline_DWM07.JPG"
-[[images]]
-title = "Budpester U-Bahn DWM07"
-src = "images/Budpester_U-Bahn_DWM07.jpg"
-[[images]]
-title = "Kinderboot auf dem Weg nach Dunajvaros DWM07"
-src = "images/Kinderboot_auf_dem_Weg_nach_Dunajvaros_DWM07.JPG"
-[[images]]
-title = "Levon Sophie im Ruderzweier DWM07"
-src = "images/Levon_Sophie_im_Ruderzweier_DWM07.JPG"
-[[images]]
-title = "Sophie Levon am Strand DWM07"
-src = "images/Sophie_Levon_am_Strand_DWM07.JPG"
-[[images]]
-title = "Sophie Levon einsamer Strand DWM07"
-src = "images/Sophie_Levon_einsamer_Strand_DWM07.JPG"
-[[images]]
-title = "Victor Thomas im Ruderboot DWM07"
-src = "images/Victor_Thomas_im_Ruderboot_DWM07.jpg"
-[[images]]
-title = "Malte Sophie auf der Donau DWM07"
-src = "images/Malte_Sophie_auf_der_Donau_DWM07.jpg"
-[[images]]
-title = "Bahnhof Mohacs DWM07"
-src = "images/Bahnhof_Mohacs_DWM07.JPG"
-[[images]]
-title = "Donau bei Mohacs DWM07"
-src = "images/Donau_bei_Mohacs_DWM07.JPG"
-[[images]]
-title = "Schildkroete DWM07"
-src = "images/Schildkroete_DWM07.jpg"
-[[images]]
-title = "Masters auf der Donau DWM07"
-src = "images/Masters_auf_der_Donau_DWM07.JPG"
-[[images]]
-title = "Start nach Mohacs DWM07"
-src = "images/Start_nach_Mohacs_DWM07.JPG"
-[[images]]
-title = "Ferkeltaxe DWM07"
-src = "images/Ferkeltaxe_DWM07.JPG"
-[[images]]
-title = "Lager in Budapest DWM07"
-src = "images/Lager_in_Budapest_DWM07.JPG"
-[[images]]
-title = "Paula schlaeft DWM07"
-src = "images/Paula_schlaeft_DWM07.JPG"
-
-+++
+---
+author: ""
+begin: "2007-04-01"
+date: "2007-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- donaukanal
+- oste
+- oder
+images:
+- src: images/Burgtheater_Wien_DWM07.JPG
+  title: Burgtheater Wien DWM07
+- src: images/Schoenbrunn_DWM07.JPG
+  title: Schoenbrunn_DWM07
+- src: images/Irrgarten_DWM07.JPG
+  title: Irrgarten_DWM07
+- src: images/auf_der_Gloriette_DWM07.JPG
+  title: auf der Gloriette DWM07
+- src: images/Schlosspark_DWM07.JPG
+  title: Schlosspark_DWM07
+- src: images/Wilde_Maus_Wien_DWM07.JPG
+  title: Wilde Maus Wien DWM07
+- src: images/E_Vierer_Schleuse_Nussdorf_DWM07.JPG
+  title: E Vierer Schleuse Nussdorf DWM07
+- src: images/E_Zweier_Schleuse_Nussdorf_DWM07.JPG
+  title: E Zweier Schleuse Nussdorf DWM07
+- src: images/Donauhort_Wien_Rudereruebernachtung_DWM07.JPG
+  title: Donauhort Wien Rudereruebernachtung DWM07
+- src: images/Schleuse_Nussdorf_DWM07.JPG
+  title: Schleuse Nussdorf DWM07
+- src: images/Ruderer_bei_Donauhort_DWM07.JPG
+  title: Ruderer bei Donauhort DWM07
+- src: images/Donaukanal_DWM07.jpg
+  title: Donaukanal DWM07
+- src: images/Hainburg_DWM07.jpg
+  title: Hainburg DWM07
+- src: images/Rudervierer_auf_der_Donau_DWM07.jpg
+  title: Rudervierer auf der Donau DWM07
+- src: images/KIesbank_in_der_Donau_DWM07.jpg
+  title: KIesbank in der Donau DWM07
+- src: images/Kreuzfahrer_hainburg_DWM07.jpg
+  title: Kreuzfahrer hainburg DWM07
+- src: images/bratislava_ufo_DWM07.jpg
+  title: bratislava ufo DWM07
+- src: images/Katrin_kraftraum_DWM07.JPG
+  title: Katrin_kraftraum_DWM07
+- src: images/Boote_aufladen_in_Bratislava.jpg
+  title: Boote aufladen in Bratislava
+- src: images/Levon_Manuel_Bratislava_DWM07.jpg
+  title: Levon Manuel Bratislava DWM07
+- src: images/Anhaenger_beladen_Bratisla_va_DWM07.JPG
+  title: Anhaenger beladen Bratisla va DWM07
+- src: images/Bratislava_Ruderclub_DWM07.JPG
+  title: Bratislava Ruderclub DWM07
+- src: images/Bratislava_mannschaft_DWM07.JPG
+  title: Bratislava_mannschaft DWM07
+- src: images/Treppe_Bratislava_DWM07.jpg
+  title: Treppe Bratislava DWM07
+- src: images/Brunnen_in_Bratislava_DWM07.JPG
+  title: Brunnen in Bratislava DWM07
+- src: images/Paula_in_Bratislava_DWM07.JPG
+  title: Paula in Bratislava DWM07
+- src: images/Ruderer_in_Bratislava_DWM07.JPG
+  title: Ruderer in Bratislava DWM07
+- src: images/Ruderer_auf_dem_Weg_zur_Burg_Bratislava__DWM07.JPG
+  title: Ruderer auf dem Weg zur Burg Bratislava  DWM07
+- src: images/Thomas_Victor_in_Bratislava_DWM07.JPG
+  title: Thomas Victor in Bratislava DWM07
+- src: images/Ufobruecke_Bratislava_DWM07.JPG
+  title: Ufobruecke Bratislava DWM07
+- src: images/Levon_auf_der_Mossoni-DonauDWM07.JPG
+  title: Levon auf der Mossoni-DonauDWM07
+- src: images/Boote_an_der_Mossoni_Donau_DWM07.JPG
+  title: Boote an der Mossoni Donau DWM07
+- src: images/Csarda_an_der_Mossoni_Donau_DWM07.JPG
+  title: Csarda an der Mossoni Donau DWM07
+- src: images/Einsatzstelle_Rajka_DWM07.JPG
+  title: Einsatzstelle Rajka DWM07
+- src: images/rajka_mossoni_donau_DWM07.jpg
+  title: rajka mossoni donau DWM07
+- src: images/Stefan_Mirko_Gondel_DWM07.JPG
+  title: Stefan Mirko Gondel DWM07
+- src: images/Gondel_und_Skiff_DWM07.JPG
+  title: Gondel und Skiff DWM07
+- src: images/Ruderclub_Mosson_Magyarova_DWM07.jpg
+  title: Ruderclub Mosson Magyarova DWM07
+- src: images/Sophie_in_VenezianischerGondel_DWM07.JPG
+  title: Sophie in VenezianischerGondel DWM07
+- src: images/Mossini_Duna_DWM07.jpg
+  title: Mossini Duna DWM07
+- src: images/Paula_Mossoni_Donau_DWM07.JPG
+  title: Paula Mossoni Donau DWM07
+- src: images/Mossoni_Duna_Katrin_DWM07.jpg
+  title: Mossoni Duna Katrin DWM07
+- src: images/der_schnarcher_im_Ruderkasten_DWM07.JPG
+  title: der schnarcher im Ruderkasten DWM07
+- src: images/Ruderclub_Gyoer_DWM07.jpg
+  title: Ruderclub Gyoer DWM07
+- src: images/KOmarno_Europaplatz_DWM07.JPG
+  title: KOmarno Europaplatz DWM07
+- src: images/Parkbank_Komarno_DWM07.JPG
+  title: Parkbank Komarno DWM07
+- src: images/Festung_Komarno_DWM07.jpg
+  title: Festung Komarno DWM07
+- src: images/drei_Damen_DWM07.JPG
+  title: drei Damen DWM07
+- src: images/Donau_bei_Esztergom_DWM07.JPG
+  title: Donau bei Esztergom DWM07
+- src: images/Esztergom_im_Nebenarm_DWM07.jpg
+  title: Esztergom im Nebenarm DWM07
+- src: images/Denkmal_Esztergom_DWM07.JPG
+  title: Denkmal Esztergom DWM07
+- src: images/Paula_DWM07.JPG
+  title: Paula DWM07
+- src: images/Esztergom_Burgberg_DWM07.JPG
+  title: Esztergom_Burgberg DWM07
+- src: images/Esztergom_Abendessen_kochen_DWM07.JPG
+  title: Esztergom Abendessen kochen DWM07
+- src: images/Ruderer_in_Esztergom_DWM07.jpg
+  title: Ruderer in Esztergom DWM07
+- src: images/Visegrad_DWM07.JPG
+  title: Visegrad_DWM07
+- src: images/Aussicht_Esztergom_DWM07.JPG
+  title: Aussicht Esztergom DWM07
+- src: images/Visegrad_am_Kiesstrand_DWM07.jpg
+  title: Visegrad am Kiesstrand DWM07
+- src: images/Schwertkampf_Visegrad_DWM07.jpg
+  title: Schwertkampf Visegrad DWM07
+- src: images/Sophie_Levon_Donaustrand_DWM07.JPG
+  title: Sophie Levon Donaustrand DWM07
+- src: images/Levon_Sophie_im_Ruderboot_DWM07.JPG
+  title: Levon Sophie im Ruderboot DWM07
+- src: images/Schilderwut_DWM07.JPG
+  title: Schilderwut DWM07
+- src: images/Levon_in_Budapest_DWM07.JPG
+  title: Levon in Budapest DWM07
+- src: images/Budapest_Ruderclub_DWM07.JPG
+  title: Budapest Ruderclub DWM07
+- src: images/Matthiaskirche_DWM07.JPG
+  title: Matthiaskirche DWM07
+- src: images/Fischerbastei_DWM07.JPG
+  title: Fischerbastei DWM07
+- src: images/Ungarische_Krone_DWM07.JPG
+  title: Ungarische Krone DWM07
+- src: images/Treppe_in_Budpest_mit_Ruderern_DWM07.jpg
+  title: Treppe in Budpest mit Ruderern DWM07
+- src: images/Betende_Ruderer_DWM07.JPG
+  title: Betende Ruderer DWM07
+- src: images/Budapest_Skyline_DWM07.JPG
+  title: Budapest Skyline DWM07
+- src: images/Budpester_U-Bahn_DWM07.jpg
+  title: Budpester U-Bahn DWM07
+- src: images/Kinderboot_auf_dem_Weg_nach_Dunajvaros_DWM07.JPG
+  title: Kinderboot auf dem Weg nach Dunajvaros DWM07
+- src: images/Levon_Sophie_im_Ruderzweier_DWM07.JPG
+  title: Levon Sophie im Ruderzweier DWM07
+- src: images/Sophie_Levon_am_Strand_DWM07.JPG
+  title: Sophie Levon am Strand DWM07
+- src: images/Sophie_Levon_einsamer_Strand_DWM07.JPG
+  title: Sophie Levon einsamer Strand DWM07
+- src: images/Victor_Thomas_im_Ruderboot_DWM07.jpg
+  title: Victor Thomas im Ruderboot DWM07
+- src: images/Malte_Sophie_auf_der_Donau_DWM07.jpg
+  title: Malte Sophie auf der Donau DWM07
+- src: images/Bahnhof_Mohacs_DWM07.JPG
+  title: Bahnhof Mohacs DWM07
+- src: images/Donau_bei_Mohacs_DWM07.JPG
+  title: Donau bei Mohacs DWM07
+- src: images/Schildkroete_DWM07.jpg
+  title: Schildkroete DWM07
+- src: images/Masters_auf_der_Donau_DWM07.JPG
+  title: Masters auf der Donau DWM07
+- src: images/Start_nach_Mohacs_DWM07.JPG
+  title: Start nach Mohacs DWM07
+- src: images/Ferkeltaxe_DWM07.JPG
+  title: Ferkeltaxe DWM07
+- src: images/Lager_in_Budapest_DWM07.JPG
+  title: Lager in Budapest DWM07
+- src: images/Paula_schlaeft_DWM07.JPG
+  title: Paula schlaeft DWM07
+länder:
+- deutschland
+- österreich
+- ungarn
+- slowakei
+title: Donau Wien Mohacs 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

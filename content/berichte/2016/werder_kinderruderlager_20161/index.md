@@ -1,25 +1,23 @@
-+++
-title = "Werder Kinderruderlager 2016"
-author = ""
-date = 2016-07-07T01:00:00+02:00
-begin = "2016-07-01"
-"gewässer" = ["havel", "zernsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kinderruderer Werder 2016"
-src = "images/Kinderruderer_Werder_2016.jpg"
-[[images]]
-title = "Ruderboot auf dem Zernsee Werder 2016"
-src = "images/Ruderboot_auf_dem_Zernsee_Werder_2016.jpg"
-[[images]]
-title = "Ruderer im REDO Ketzin 2016"
-src = "images/Ruderer_im_REDO_Ketzin_2016.jpg"
-[[images]]
-title = "Malte Sophie XXL Restaurant Redo Ketzin 2016"
-src = "images/Malte_Sophie_XXL_Restaurant_Redo_Ketzin_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-07-01"
+date: "2016-07-07T01:00:00+02:00"
+gewässer:
+- havel
+- zernsee
+images:
+- src: images/Kinderruderer_Werder_2016.jpg
+  title: Kinderruderer Werder 2016
+- src: images/Ruderboot_auf_dem_Zernsee_Werder_2016.jpg
+  title: Ruderboot auf dem Zernsee Werder 2016
+- src: images/Ruderer_im_REDO_Ketzin_2016.jpg
+  title: Ruderer im REDO Ketzin 2016
+- src: images/Malte_Sophie_XXL_Restaurant_Redo_Ketzin_2016.jpg
+  title: Malte Sophie XXL Restaurant Redo Ketzin 2016
+länder: []
+title: Werder Kinderruderlager 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

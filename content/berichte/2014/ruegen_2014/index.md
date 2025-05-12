@@ -1,55 +1,44 @@
-+++
-title = "Ruegen 2014"
-author = ""
-date = 2014-08-08T01:00:00+02:00
-begin = "2014-08-01"
-"gewässer" = ["rügen", "oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote aufriggern in Mukran Rügen 2014"
-src = "images/Boote_aufriggern_in_Mukran_Rugen_2014.jpg"
-[[images]]
-title = "JiaJia auf der Ostsee 2014"
-src = "images/JiaJia_auf_der_Ostsee_2014.jpg"
-[[images]]
-title = "Inrigger vor Ruegen 2014"
-src = "images/Inrigger_vor_Ruegen_2014.jpg"
-[[images]]
-title = "Ruderer vor der Seebruecke 2014"
-src = "images/Ruderer_vor_der_Seebruecke_2014.jpg"
-[[images]]
-title = "Stubbenkammer von Land aus 2014"
-src = "images/Stubbenkammer_von_Land_aus_2014.jpg"
-[[images]]
-title = "Koenigsstuhl Ruegen 2014"
-src = "images/Koenigsstuhl_Ruegen_2014.jpg"
-[[images]]
-title = "Am Strand unterhalb der Kreidefelsen 2014"
-src = "images/Am_Strand_unterhalb_der_Kreidefelsen_2014.jpg"
-[[images]]
-title = "Moenchsgut es geht endlich weiter 2014"
-src = "images/Moenchsgut_es_geht_endlich_weiter_2014.jpg"
-[[images]]
-title = "zuviele Wellen vor Ruegen 2014"
-src = "images/zuviele_Wellen_vor_Ruegen_2014.jpg"
-[[images]]
-title = "rund um das Suedperd 2014"
-src = "images/rund_um_das_Suedperd_2014.jpg"
-[[images]]
-title = "Stubbenkammer vom ruderboot aus 2014"
-src = "images/Stubbenkammer_vom_ruderboot_aus_2014.jpg"
-[[images]]
-title = "koenigsstuhl vom ruderboot 2014"
-src = "images/koenigsstuhl_vom_ruderboot_2014.jpg"
-[[images]]
-title = "blick auf arkona wer findet das ruderboot 2014"
-src = "images/blick_auf_arkona_wer_findet_das_ruderboot_2014.jpg"
-[[images]]
-title = "kap arkona ruderinnen 2014"
-src = "images/kap_arkona_ruderinnen_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-08-01"
+date: "2014-08-08T01:00:00+02:00"
+gewässer:
+- rügen
+- oder
+images:
+- src: images/Boote_aufriggern_in_Mukran_Rugen_2014.jpg
+  title: Boote aufriggern in Mukran Rügen 2014
+- src: images/JiaJia_auf_der_Ostsee_2014.jpg
+  title: JiaJia auf der Ostsee 2014
+- src: images/Inrigger_vor_Ruegen_2014.jpg
+  title: Inrigger vor Ruegen 2014
+- src: images/Ruderer_vor_der_Seebruecke_2014.jpg
+  title: Ruderer vor der Seebruecke 2014
+- src: images/Stubbenkammer_von_Land_aus_2014.jpg
+  title: Stubbenkammer von Land aus 2014
+- src: images/Koenigsstuhl_Ruegen_2014.jpg
+  title: Koenigsstuhl Ruegen 2014
+- src: images/Am_Strand_unterhalb_der_Kreidefelsen_2014.jpg
+  title: Am Strand unterhalb der Kreidefelsen 2014
+- src: images/Moenchsgut_es_geht_endlich_weiter_2014.jpg
+  title: Moenchsgut es geht endlich weiter 2014
+- src: images/zuviele_Wellen_vor_Ruegen_2014.jpg
+  title: zuviele Wellen vor Ruegen 2014
+- src: images/rund_um_das_Suedperd_2014.jpg
+  title: rund um das Suedperd 2014
+- src: images/Stubbenkammer_vom_ruderboot_aus_2014.jpg
+  title: Stubbenkammer vom ruderboot aus 2014
+- src: images/koenigsstuhl_vom_ruderboot_2014.jpg
+  title: koenigsstuhl vom ruderboot 2014
+- src: images/blick_auf_arkona_wer_findet_das_ruderboot_2014.jpg
+  title: blick auf arkona wer findet das ruderboot 2014
+- src: images/kap_arkona_ruderinnen_2014.jpg
+  title: kap arkona ruderinnen 2014
+länder:
+- deutschland
+title: Ruegen 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

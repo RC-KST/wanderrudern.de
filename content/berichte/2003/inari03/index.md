@@ -1,61 +1,46 @@
-+++
-title = "inari 2003"
-author = ""
-date = 2003-01-01T01:00:00+02:00
-begin = "2003-01-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "porsangenfjord Ruderer"
-src = "images/mannschaft_fjord.jpg"
-[[images]]
-title = "Rentier"
-src = "images/rentier.jpg"
-[[images]]
-title = "Beladenes Ruderboot"
-src = "images/joki_norina_greta.jpg"
-[[images]]
-title = "ablegen Ivalo Ruderboote"
-src = "images/joki_laura.jpg"
-[[images]]
-title = "wildwasser2"
-src = "images/wildwasser2.jpg"
-[[images]]
-title = "boote_entladen"
-src = "images/boote_entladen.jpg"
-[[images]]
-title = "Ruderboote am Ufer"
-src = "images/boote_insel.jpg"
-[[images]]
-title = "Lappenzelt Ruderboote"
-src = "images/lappenzelt2.jpg"
-[[images]]
-title = "Wildnishütte Sevettijärvelle"
-src = "images/NordHuette1.jpg"
-[[images]]
-title = "Ruderer vor der Hütte"
-src = "images/nordhuette3.jpg"
-[[images]]
-title = "dreigrazien"
-src = "images/dreigrazien.jpg"
-[[images]]
-title = "MidNightSun1"
-src = "images/MidNightSun1.jpg"
-[[images]]
-title = "Besichtigung in Nellim Ruderer"
-src = "images/kirko-weg.jpg"
-[[images]]
-title = "Mannschaft an der Stromschnelle"
-src = "images/Felsen.jpg"
-[[images]]
-title = "Laura beim Karaoke"
-src = "images/karaoke.jpg"
-[[images]]
-title = "letzteHuette"
-src = "images/letzteHuette.jpg"
-
-+++
+---
+author: ""
+begin: "2003-01-01"
+date: "2003-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/mannschaft_fjord.jpg
+  title: porsangenfjord Ruderer
+- src: images/rentier.jpg
+  title: Rentier
+- src: images/joki_norina_greta.jpg
+  title: Beladenes Ruderboot
+- src: images/joki_laura.jpg
+  title: ablegen Ivalo Ruderboote
+- src: images/wildwasser2.jpg
+  title: wildwasser2
+- src: images/boote_entladen.jpg
+  title: boote_entladen
+- src: images/boote_insel.jpg
+  title: Ruderboote am Ufer
+- src: images/lappenzelt2.jpg
+  title: Lappenzelt Ruderboote
+- src: images/NordHuette1.jpg
+  title: Wildnishütte Sevettijärvelle
+- src: images/nordhuette3.jpg
+  title: Ruderer vor der Hütte
+- src: images/dreigrazien.jpg
+  title: dreigrazien
+- src: images/MidNightSun1.jpg
+  title: MidNightSun1
+- src: images/kirko-weg.jpg
+  title: Besichtigung in Nellim Ruderer
+- src: images/Felsen.jpg
+  title: Mannschaft an der Stromschnelle
+- src: images/karaoke.jpg
+  title: Laura beim Karaoke
+- src: images/letzteHuette.jpg
+  title: letzteHuette
+länder: []
+title: inari 2003
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

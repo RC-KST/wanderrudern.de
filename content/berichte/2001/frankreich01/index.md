@@ -1,37 +1,35 @@
-+++
-title = "Camargue 2001"
-author = ""
-date = 2001-01-01T01:00:00+02:00
-begin = "2001-01-01"
-"gewässer" = ["mosel", "oder", "canal du midi", "vidourle", "mittelmeer"]
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Le Grau du Roi Rudern"
-src = "images/stadtausfahrt.jpg"
-[[images]]
-title = "Le Grau du Roi Ruderboot Vierer"
-src = "images/Vierer_meer.jpg"
-[[images]]
-title = "Werner Anke und Malte auf dem Mittelmeer"
-src = "images/Motorboot.jpg"
-[[images]]
-title = "Strand mit Ruderbooten"
-src = "images/strand_le_grau.jpg"
-[[images]]
-title = "Anke übt rudern"
-src = "images/anke_einer.jpg"
-[[images]]
-title = "port_camargue"
-src = "images/port_camargue.jpg"
-[[images]]
-title = "Camargue Pferde"
-src = "images/pferde.jpg"
-[[images]]
-title = "Ruderboot Frankreich"
-src = "images/vierer_kanal.jpg"
-
-+++
+---
+author: ""
+begin: "2001-01-01"
+date: "2001-01-01T01:00:00+02:00"
+gewässer:
+- mosel
+- oder
+- canal du midi
+- vidourle
+- mittelmeer
+images:
+- src: images/stadtausfahrt.jpg
+  title: Le Grau du Roi Rudern
+- src: images/Vierer_meer.jpg
+  title: Le Grau du Roi Ruderboot Vierer
+- src: images/Motorboot.jpg
+  title: Werner Anke und Malte auf dem Mittelmeer
+- src: images/strand_le_grau.jpg
+  title: Strand mit Ruderbooten
+- src: images/anke_einer.jpg
+  title: Anke übt rudern
+- src: images/port_camargue.jpg
+  title: port_camargue
+- src: images/pferde.jpg
+  title: Camargue Pferde
+- src: images/vierer_kanal.jpg
+  title: Ruderboot Frankreich
+länder:
+- frankreich
+title: Camargue 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,7 +1,7 @@
-+++
-title = "Wann und wo rudern?"
-weight = 30
-+++
+---
+title: Wann und wo rudern?
+weight: 30
+---
 
 Die untere Altersgrenze liegt bei 8 Jahren, nach oben ist keine Grenze gesetzt. Unsere ältesten Ruderer sind bereits über 70, aber das ist keinesfalls die obere Grenze. Das sind auch nicht unbedingt Leute, die schon seit 30 Jahren rudern. Man kann auch in diesem Alter noch das Rudern erlernen.
 Wer früher einmal gerudert hat und es mal wieder probieren will, aber auch wer noch nie gerudert hat kann bei uns rudern (lernen).

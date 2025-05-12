@@ -1,16 +1,35 @@
-+++
-title = "WRT Saarbrücken 2021"
-author = ""
-date = 2021-08-08T01:00:00+02:00
-begin = "2021-08-01"
-"gewässer" = ["rhein", "neckar", "saar", "saale", "unstrut", "nordsee", "oder", "canal du midi", "shannon", "porsangenfjord"]
-"länder" = ["deutschland", "frankreich", "niederlande", "finnland", "norwegen", "schweden", "polen", "italien", "schweiz", "irland"]
-"typ" = "marathon"
-[[images]]
-title = "Patrik Äquatorpreis WRT2021"
-src = "images/Patrik_Aquatorpreis_WRT2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-08-01"
+date: "2021-08-08T01:00:00+02:00"
+gewässer:
+- rhein
+- neckar
+- saar
+- saale
+- unstrut
+- nordsee
+- oder
+- canal du midi
+- shannon
+- porsangenfjord
+images:
+- src: images/Patrik_Aquatorpreis_WRT2021.jpg
+  title: Patrik Äquatorpreis WRT2021
+länder:
+- deutschland
+- frankreich
+- niederlande
+- finnland
+- norwegen
+- schweden
+- polen
+- italien
+- schweiz
+- irland
+title: WRT Saarbrücken 2021
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

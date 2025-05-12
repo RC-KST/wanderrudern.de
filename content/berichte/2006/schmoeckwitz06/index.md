@@ -1,37 +1,31 @@
-+++
-title = "Schmoeckwitz06"
-author = ""
-date = 2006-10-10T01:00:00+02:00
-begin = "2006-10-01"
-"gewässer" = ["teltowkanal", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse Kleinmachnow  Herbst 06"
-src = "images/Schleuse_Kleinmachnow__Herbst_06.jpg"
-[[images]]
-title = "Schmoeckwitz Steg 06"
-src = "images/Schmoeckwitz_Steg_06.jpg"
-[[images]]
-title = "Schmoeckwitz Saal 06"
-src = "images/Schmoeckwitz_Saal_06.jpg"
-[[images]]
-title = "AH Ruderboot  RC KST 06"
-src = "images/AH_Ruderboot__RC_KST_06.jpg"
-[[images]]
-title = "Schmoeckwitz einsteigen 06"
-src = "images/Schmoeckwitz_einsteigen_06.jpg"
-[[images]]
-title = "Schmoeckwitz Party 06"
-src = "images/Schmoeckwitz_Party_06.jpg"
-[[images]]
-title = "Schmoeckwitz Boote 06"
-src = "images/Schmoeckwitz_Boote_06.jpg"
-[[images]]
-title = "Wiking Essraum 06"
-src = "images/Wiking_Essraum_06.jpg"
-
-+++
+---
+author: ""
+begin: "2006-10-01"
+date: "2006-10-10T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- oder
+images:
+- src: images/Schleuse_Kleinmachnow__Herbst_06.jpg
+  title: Schleuse Kleinmachnow  Herbst 06
+- src: images/Schmoeckwitz_Steg_06.jpg
+  title: Schmoeckwitz Steg 06
+- src: images/Schmoeckwitz_Saal_06.jpg
+  title: Schmoeckwitz Saal 06
+- src: images/AH_Ruderboot__RC_KST_06.jpg
+  title: AH Ruderboot  RC KST 06
+- src: images/Schmoeckwitz_einsteigen_06.jpg
+  title: Schmoeckwitz einsteigen 06
+- src: images/Schmoeckwitz_Party_06.jpg
+  title: Schmoeckwitz Party 06
+- src: images/Schmoeckwitz_Boote_06.jpg
+  title: Schmoeckwitz Boote 06
+- src: images/Wiking_Essraum_06.jpg
+  title: Wiking Essraum 06
+länder: []
+title: Schmoeckwitz06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

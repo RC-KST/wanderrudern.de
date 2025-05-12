@@ -1,25 +1,21 @@
-+++
-title = "Sommerfest 2018"
-author = ""
-date = 2018-09-09T01:00:00+02:00
-begin = "2018-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Johanna im Hochseilgarten Familienfest Stahnsdorf 2018"
-src = "images/Johanna_im_Hochseilgarten_Familienfest_Stahnsdorf_2018.jpg"
-[[images]]
-title = "Werbeteam Kleinmachnow Kinderfest 2018"
-src = "images/Werbeteam_Kleinmachnow_Kinderfest_2018.jpg"
-[[images]]
-title = "Werbeteam Stahnsdorf Familienfest 2018"
-src = "images/Werbeteam_Stahnsdorf_Familienfest_2018.jpg"
-[[images]]
-title = "Familienfest Stahnsdorf 2018"
-src = "images/Familienfest_Stahnsdorf_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-09-01"
+date: "2018-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Johanna_im_Hochseilgarten_Familienfest_Stahnsdorf_2018.jpg
+  title: Johanna im Hochseilgarten Familienfest Stahnsdorf 2018
+- src: images/Werbeteam_Kleinmachnow_Kinderfest_2018.jpg
+  title: Werbeteam Kleinmachnow Kinderfest 2018
+- src: images/Werbeteam_Stahnsdorf_Familienfest_2018.jpg
+  title: Werbeteam Stahnsdorf Familienfest 2018
+- src: images/Familienfest_Stahnsdorf_2018.jpg
+  title: Familienfest Stahnsdorf 2018
+länder: []
+title: Sommerfest 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

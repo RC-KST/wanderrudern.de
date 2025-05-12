@@ -1,22 +1,19 @@
-+++
-title = "Marathon 2018"
-author = ""
-date = 2018-06-06T01:00:00+02:00
-begin = "2018-06-01"
-"gewässer" = []
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Pokal Noord Hollandtocht 2018"
-src = "images/Pokal_Noord_Hollandtocht_2018.jpg"
-[[images]]
-title = "Sieger Noord Hollandtocht 2018"
-src = "images/Sieger_Noord_Hollandtocht_2018.jpg"
-[[images]]
-title = "Sieger AllYouCanRow 2018"
-src = "images/Sieger_AllYouCanRow_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-06-01"
+date: "2018-06-06T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Pokal_Noord_Hollandtocht_2018.jpg
+  title: Pokal Noord Hollandtocht 2018
+- src: images/Sieger_Noord_Hollandtocht_2018.jpg
+  title: Sieger Noord Hollandtocht 2018
+- src: images/Sieger_AllYouCanRow_2018.jpg
+  title: Sieger AllYouCanRow 2018
+länder: []
+title: Marathon 2018
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

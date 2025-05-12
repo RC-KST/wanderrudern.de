@@ -1,19 +1,17 @@
-+++
-title = "Obmannskurs 2024"
-author = ""
-date = 2024-01-01T01:00:00+02:00
-begin = "2024-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs 2024 Jugend_"
-src = "images/Obmannskurs_2024_Jugend_.jpg"
-[[images]]
-title = "Obmannskurs 2024 Erwachsene"
-src = "images/Obmannskurs_2024_Erwachsene.jpg"
-
-+++
+---
+author: ""
+begin: "2024-01-01"
+date: "2024-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_2024_Jugend_.jpg
+  title: Obmannskurs 2024 Jugend_
+- src: images/Obmannskurs_2024_Erwachsene.jpg
+  title: Obmannskurs 2024 Erwachsene
+länder: []
+title: Obmannskurs 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

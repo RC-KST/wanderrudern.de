@@ -1,28 +1,24 @@
-+++
-title = "Quer durch Berlin 08"
-author = ""
-date = 2008-06-06T01:00:00+02:00
-begin = "2008-06-01"
-"gewässer" = ["pielisjoki"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "quer_durch_berlin_regatta_046"
-src = "images/quer_durch_berlin_regatta_046.jpg"
-[[images]]
-title = "quer_durch_berlin_regatta_014"
-src = "images/quer_durch_berlin_regatta_014.jpg"
-[[images]]
-title = "quer_durch_berlin_regatta_054"
-src = "images/quer_durch_berlin_regatta_054.jpg"
-[[images]]
-title = "Dreamteam_nach_Zieleinlauf Q08"
-src = "images/Dreamteam_nach_Zieleinlauf_Q08.jpg"
-[[images]]
-title = "quer_durch_berlin_regatta_025"
-src = "images/quer_durch_berlin_regatta_025.jpg"
-
-+++
+---
+author: ""
+begin: "2008-06-01"
+date: "2008-06-06T01:00:00+02:00"
+gewässer:
+- pielisjoki
+images:
+- src: images/quer_durch_berlin_regatta_046.jpg
+  title: quer_durch_berlin_regatta_046
+- src: images/quer_durch_berlin_regatta_014.jpg
+  title: quer_durch_berlin_regatta_014
+- src: images/quer_durch_berlin_regatta_054.jpg
+  title: quer_durch_berlin_regatta_054
+- src: images/Dreamteam_nach_Zieleinlauf_Q08.jpg
+  title: Dreamteam_nach_Zieleinlauf Q08
+- src: images/quer_durch_berlin_regatta_025.jpg
+  title: quer_durch_berlin_regatta_025
+länder: []
+title: Quer durch Berlin 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

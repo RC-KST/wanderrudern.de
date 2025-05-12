@@ -1,25 +1,21 @@
-+++
-title = "Obmannskurs 2020 Jugend"
-author = ""
-date = 2020-01-01T01:00:00+02:00
-begin = "2020-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannspruefung 2020 Jugend"
-src = "images/Obmannspruefung_2020_Jugend.jpg"
-[[images]]
-title = "Obmannskurs Jugend 2020 Fuerstenwalde"
-src = "images/Obmannskurs_Jugend_2020_Fuerstenwalde.jpg"
-[[images]]
-title = "Obmannskurs Ruderkasten 2020 JUgend"
-src = "images/Obmannskurs_Ruderkasten_2020_JUgend.jpg"
-[[images]]
-title = "Obmannskurs 2020 Jugend"
-src = "images/Obmannskurs_2020_Jugend.jpg"
-
-+++
+---
+author: ""
+begin: "2020-01-01"
+date: "2020-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannspruefung_2020_Jugend.jpg
+  title: Obmannspruefung 2020 Jugend
+- src: images/Obmannskurs_Jugend_2020_Fuerstenwalde.jpg
+  title: Obmannskurs Jugend 2020 Fuerstenwalde
+- src: images/Obmannskurs_Ruderkasten_2020_JUgend.jpg
+  title: Obmannskurs Ruderkasten 2020 JUgend
+- src: images/Obmannskurs_2020_Jugend.jpg
+  title: Obmannskurs 2020 Jugend
+länder: []
+title: Obmannskurs 2020 Jugend
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

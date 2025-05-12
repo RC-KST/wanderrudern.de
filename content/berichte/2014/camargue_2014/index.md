@@ -1,76 +1,61 @@
-+++
-title = "Camargue 2014"
-author = ""
-date = 2014-02-02T01:00:00+02:00
-begin = "2014-02-01"
-"gewässer" = ["rhone", "vidourle", "canal du rhone a sete", "mittelmeer"]
-"länder" = ["deutschland", "frankreich"]
-"typ" = "marathon"
-[[images]]
-title = "Wanderruder Berlin Essen 2014 - 1"
-src = "images/Wanderruder_Berlin_Essen_2014_-_1.jpg"
-[[images]]
-title = "Boote abladen le Grau 2014"
-src = "images/Boote_abladen_le_Grau_2014.jpg"
-[[images]]
-title = "hafenausfahrt le grau du roi 2014-1"
-src = "images/hafenausfahrt_le_grau_du_roi_2014-1.jpg"
-[[images]]
-title = "aigues mortes vom turm constanze 2014"
-src = "images/aigues_mortes_vom_turm_constanze_2014.jpg"
-[[images]]
-title = "canal du rhone a sete 2014"
-src = "images/canal_du_rhone_a_sete_2014.jpg"
-[[images]]
-title = "ruderer im mittelmeer le grau 2014"
-src = "images/ruderer_im_mittelmeer_le_grau_2014.jpg"
-[[images]]
-title = "Vierer vor Grande Motte 2014"
-src = "images/Vierer_vor_Grande_Motte_2014.jpg"
-[[images]]
-title = "mittelmeer nach palavas 2014"
-src = "images/mittelmeer_nach_palavas_2014.jpg"
-[[images]]
-title = "Baumgarten Inrigger 3+ auf dem Mittelmeer 2014"
-src = "images/Baumgarten_Inrigger_3__auf_dem_Mittelmeer_2014.jpg"
-[[images]]
-title = "palavas le flot eisdiele 2014"
-src = "images/palavas_le_flot_eisdiele_2014.jpg"
-[[images]]
-title = "canal du rhone a sete rennruderer 2014"
-src = "images/canal_du_rhone_a_sete_rennruderer_2014.jpg"
-[[images]]
-title = "wellen vor der Mole Le grau du roi 2014"
-src = "images/wellen_vor_der_Mole_Le_grau_du_roi_2014.jpg"
-[[images]]
-title = "Dreier vor Le grau du Roi 2014"
-src = "images/Dreier_vor_Le_grau_du_Roi_2014.jpg"
-[[images]]
-title = "dreier in wellen vor port camargue 2014"
-src = "images/dreier_in_wellen_vor_port_camargue_2014.jpg"
-[[images]]
-title = "ruderboote vor port camargue wellen 2014"
-src = "images/ruderboote_vor_port_camargue_wellen_2014.jpg"
-[[images]]
-title = "Ruderer grande motte 2014"
-src = "images/Ruderer_grande_motte_2014.jpg"
-[[images]]
-title = "Ruderer am strand grande motte 2014"
-src = "images/Ruderer_am_strand_grande_motte_2014.jpg"
-[[images]]
-title = "steg grande motte 2014"
-src = "images/steg_grande_motte_2014.jpg"
-[[images]]
-title = "flamingos am etang 2014"
-src = "images/flamingos_am_etang_2014.jpg"
-[[images]]
-title = "sperrwerk vidourle 2014"
-src = "images/sperrwerk_vidourle_2014.jpg"
-[[images]]
-title = "thomas auf dem mittelmeer 2014"
-src = "images/thomas_auf_dem_mittelmeer_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-02-01"
+date: "2014-02-02T01:00:00+02:00"
+gewässer:
+- rhone
+- vidourle
+- canal du rhone a sete
+- mittelmeer
+images:
+- src: images/Wanderruder_Berlin_Essen_2014_-_1.jpg
+  title: Wanderruder Berlin Essen 2014 - 1
+- src: images/Boote_abladen_le_Grau_2014.jpg
+  title: Boote abladen le Grau 2014
+- src: images/hafenausfahrt_le_grau_du_roi_2014-1.jpg
+  title: hafenausfahrt le grau du roi 2014-1
+- src: images/aigues_mortes_vom_turm_constanze_2014.jpg
+  title: aigues mortes vom turm constanze 2014
+- src: images/canal_du_rhone_a_sete_2014.jpg
+  title: canal du rhone a sete 2014
+- src: images/ruderer_im_mittelmeer_le_grau_2014.jpg
+  title: ruderer im mittelmeer le grau 2014
+- src: images/Vierer_vor_Grande_Motte_2014.jpg
+  title: Vierer vor Grande Motte 2014
+- src: images/mittelmeer_nach_palavas_2014.jpg
+  title: mittelmeer nach palavas 2014
+- src: images/Baumgarten_Inrigger_3__auf_dem_Mittelmeer_2014.jpg
+  title: Baumgarten Inrigger 3+ auf dem Mittelmeer 2014
+- src: images/palavas_le_flot_eisdiele_2014.jpg
+  title: palavas le flot eisdiele 2014
+- src: images/canal_du_rhone_a_sete_rennruderer_2014.jpg
+  title: canal du rhone a sete rennruderer 2014
+- src: images/wellen_vor_der_Mole_Le_grau_du_roi_2014.jpg
+  title: wellen vor der Mole Le grau du roi 2014
+- src: images/Dreier_vor_Le_grau_du_Roi_2014.jpg
+  title: Dreier vor Le grau du Roi 2014
+- src: images/dreier_in_wellen_vor_port_camargue_2014.jpg
+  title: dreier in wellen vor port camargue 2014
+- src: images/ruderboote_vor_port_camargue_wellen_2014.jpg
+  title: ruderboote vor port camargue wellen 2014
+- src: images/Ruderer_grande_motte_2014.jpg
+  title: Ruderer grande motte 2014
+- src: images/Ruderer_am_strand_grande_motte_2014.jpg
+  title: Ruderer am strand grande motte 2014
+- src: images/steg_grande_motte_2014.jpg
+  title: steg grande motte 2014
+- src: images/flamingos_am_etang_2014.jpg
+  title: flamingos am etang 2014
+- src: images/sperrwerk_vidourle_2014.jpg
+  title: sperrwerk vidourle 2014
+- src: images/thomas_auf_dem_mittelmeer_2014.jpg
+  title: thomas auf dem mittelmeer 2014
+länder:
+- deutschland
+- frankreich
+title: Camargue 2014
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

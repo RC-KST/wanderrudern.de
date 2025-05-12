@@ -1,25 +1,21 @@
-+++
-title = "Schuelerrudern Kant 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote beim Schuelerrudern 2015"
-src = "images/Boote_beim_Schuelerrudern_2015.jpg"
-[[images]]
-title = "Schuelerrudern Stoelpchensee 2015"
-src = "images/Schuelerrudern_Stoelpchensee_2015.jpg"
-[[images]]
-title = "Chaos am Steg 2015"
-src = "images/Chaos_am_Steg_2015.jpg"
-[[images]]
-title = "Kant Gymnasium Schuelerruderer 2015"
-src = "images/Kant_Gymnasium_Schuelerruderer_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Boote_beim_Schuelerrudern_2015.jpg
+  title: Boote beim Schuelerrudern 2015
+- src: images/Schuelerrudern_Stoelpchensee_2015.jpg
+  title: Schuelerrudern Stoelpchensee 2015
+- src: images/Chaos_am_Steg_2015.jpg
+  title: Chaos am Steg 2015
+- src: images/Kant_Gymnasium_Schuelerruderer_2015.jpg
+  title: Kant Gymnasium Schuelerruderer 2015
+länder: []
+title: Schuelerrudern Kant 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

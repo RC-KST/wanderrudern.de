@@ -1,67 +1,55 @@
-+++
-title = "Saimaa 1996"
-author = ""
-date = 1996-07-07T01:00:00+02:00
-begin = "1996-07-01"
-"gewässer" = ["oder", "saimaa", "kermajärvi"]
-"länder" = ["deutschland", "finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "siljaline fähre ruderer"
-src = "images/siljaline.jpg"
-[[images]]
-title = "bobby isabel das junge Glück"
-src = "images/bobby_isabel.jpg"
-[[images]]
-title = "kabine silja bobby benedikt"
-src = "images/kabine.jpg"
-[[images]]
-title = "abendessen mit frischen pilzen Saimaa"
-src = "images/abendessen96.jpg"
-[[images]]
-title = "abendstimmung am ufer des Saimaa"
-src = "images/abendstimmung.jpg"
-[[images]]
-title = "peter benedikt im Zweier "
-src = "images/peter_benedikt.jpg"
-[[images]]
-title = "savonlinna mit ruderboot"
-src = "images/savonlinna.jpg"
-[[images]]
-title = "schaufel_1"
-src = "images/schaufel_1.jpg"
-[[images]]
-title = "moskitonetz saimaa"
-src = "images/moskitonetz.jpg"
-[[images]]
-title = "lagerfeuer am strand des Saimaa"
-src = "images/lagerfeuer96.jpg"
-[[images]]
-title = "isabel katja baden im Saimaasee"
-src = "images/isabel_katja.jpg"
-[[images]]
-title = "bobby liegestütz"
-src = "images/bobby_liegestuetz.jpg"
-[[images]]
-title = "Dschungelpfad Saimaa Ruderboot"
-src = "images/im_Urwald.jpg"
-[[images]]
-title = "umtrage am Saimaa See im Dschungel und Sumpf"
-src = "images/umtrage.jpg"
-[[images]]
-title = "rohr finnischer Kanal Saimaa Ruderboot"
-src = "images/rohr.jpg"
-[[images]]
-title = "katja finnische Schleuse"
-src = "images/katja.jpg"
-[[images]]
-title = "boot am  abend Saimaa"
-src = "images/boot_am__abend.jpg"
-[[images]]
-title = "vierer Ruderboot saimaa"
-src = "images/vierer_saimaa96.jpg"
-
-+++
+---
+author: ""
+begin: "1996-07-01"
+date: "1996-07-07T01:00:00+02:00"
+gewässer:
+- oder
+- saimaa
+- kermajärvi
+images:
+- src: images/siljaline.jpg
+  title: siljaline fähre ruderer
+- src: images/bobby_isabel.jpg
+  title: bobby isabel das junge Glück
+- src: images/kabine.jpg
+  title: kabine silja bobby benedikt
+- src: images/abendessen96.jpg
+  title: abendessen mit frischen pilzen Saimaa
+- src: images/abendstimmung.jpg
+  title: abendstimmung am ufer des Saimaa
+- src: images/peter_benedikt.jpg
+  title: 'peter benedikt im Zweier '
+- src: images/savonlinna.jpg
+  title: savonlinna mit ruderboot
+- src: images/schaufel_1.jpg
+  title: schaufel_1
+- src: images/moskitonetz.jpg
+  title: moskitonetz saimaa
+- src: images/lagerfeuer96.jpg
+  title: lagerfeuer am strand des Saimaa
+- src: images/isabel_katja.jpg
+  title: isabel katja baden im Saimaasee
+- src: images/bobby_liegestuetz.jpg
+  title: bobby liegestütz
+- src: images/im_Urwald.jpg
+  title: Dschungelpfad Saimaa Ruderboot
+- src: images/umtrage.jpg
+  title: umtrage am Saimaa See im Dschungel und Sumpf
+- src: images/rohr.jpg
+  title: rohr finnischer Kanal Saimaa Ruderboot
+- src: images/katja.jpg
+  title: katja finnische Schleuse
+- src: images/boot_am__abend.jpg
+  title: boot am  abend Saimaa
+- src: images/vierer_saimaa96.jpg
+  title: vierer Ruderboot saimaa
+länder:
+- deutschland
+- finnland
+- schweden
+title: Saimaa 1996
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

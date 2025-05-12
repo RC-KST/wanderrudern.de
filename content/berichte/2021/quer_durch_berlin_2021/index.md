@@ -1,25 +1,21 @@
-+++
-title = "Quer durch Berlin 2021"
-author = ""
-date = 2021-10-10T01:00:00+02:00
-begin = "2021-10-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Quer durch Berlin 2021 RC KST Mannschaft"
-src = "images/Quer_durch_Berlin_2021_RC_KST_Mannschaft.jpg"
-[[images]]
-title = "Baumgarten Marathon Vierer Quer durch Berlin 2021"
-src = "images/Baumgarten_Marathon_Vierer_Quer_durch_Berlin_2021.jpg"
-[[images]]
-title = "Mannschaft Quer durch Berlin 2021"
-src = "images/Mannschaft_Quer_durch_Berlin_2021.jpg"
-[[images]]
-title = "Bootsanhänger Quer durch Berlin 2021 Baumgarten Marathon C-Vierer"
-src = "images/Bootsanhanger_Quer_durch_Berlin_2021_Baumgarten_Marathon_C-Vierer.jpg"
-
-+++
+---
+author: ""
+begin: "2021-10-01"
+date: "2021-10-10T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Quer_durch_Berlin_2021_RC_KST_Mannschaft.jpg
+  title: Quer durch Berlin 2021 RC KST Mannschaft
+- src: images/Baumgarten_Marathon_Vierer_Quer_durch_Berlin_2021.jpg
+  title: Baumgarten Marathon Vierer Quer durch Berlin 2021
+- src: images/Mannschaft_Quer_durch_Berlin_2021.jpg
+  title: Mannschaft Quer durch Berlin 2021
+- src: images/Bootsanhanger_Quer_durch_Berlin_2021_Baumgarten_Marathon_C-Vierer.jpg
+  title: Bootsanhänger Quer durch Berlin 2021 Baumgarten Marathon C-Vierer
+länder: []
+title: Quer durch Berlin 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

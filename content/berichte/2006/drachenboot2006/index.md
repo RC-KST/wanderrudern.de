@@ -1,100 +1,73 @@
-+++
-title = "drachenboot2006"
-author = ""
-date = 2006-07-07T01:00:00+02:00
-begin = "2006-07-01"
-"gewässer" = ["oder", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Logo-Thiel-top04"
-src = "images/Logo-Thiel-top04.gif"
-[[images]]
-title = "Logo-Thiel-bottom04"
-src = "images/Logo-Thiel-bottom04.gif"
-[[images]]
-title = "Zuschauer Drachenbootcup"
-src = "images/Zuschauer_Drachenbootcup.JPG"
-[[images]]
-title = "Drehorgelspielerin"
-src = "images/Drehorgelspielerin.JPG"
-[[images]]
-title = "100_0458"
-src = "images/100_0458.JPG"
-[[images]]
-title = "100_0452"
-src = "images/100_0452.JPG"
-[[images]]
-title = "100_0470"
-src = "images/100_0470.JPG"
-[[images]]
-title = "100_0471"
-src = "images/100_0471.JPG"
-[[images]]
-title = "100_0447"
-src = "images/100_0447.JPG"
-[[images]]
-title = "Ruderer Kleinmachnow"
-src = "images/Ruderer_Kleinmachnow.JPG"
-[[images]]
-title = "100_0473"
-src = "images/100_0473.JPG"
-[[images]]
-title = "100_0474"
-src = "images/100_0474.JPG"
-[[images]]
-title = "100_0477"
-src = "images/100_0477.JPG"
-[[images]]
-title = "100_0480"
-src = "images/100_0480.JPG"
-[[images]]
-title = "100_0484"
-src = "images/100_0484.JPG"
-[[images]]
-title = "100_0486"
-src = "images/100_0486.JPG"
-[[images]]
-title = "100_0487"
-src = "images/100_0487.JPG"
-[[images]]
-title = "100_0492"
-src = "images/100_0492.JPG"
-[[images]]
-title = "regatta-1"
-src = "images/regatta-1.jpg"
-[[images]]
-title = "regatta-3"
-src = "images/regatta-3.jpg"
-[[images]]
-title = "regatta-7"
-src = "images/regatta-7.jpg"
-[[images]]
-title = "regatta-20"
-src = "images/regatta-20.jpg"
-[[images]]
-title = "regatta-5"
-src = "images/regatta-5.jpg"
-[[images]]
-title = "Zuschauer Drachenbootcup02"
-src = "images/Zuschauer_Drachenbootcup02.JPG"
-[[images]]
-title = "regatta-23"
-src = "images/regatta-23.jpg"
-[[images]]
-title = "regatta-21"
-src = "images/regatta-21.jpg"
-[[images]]
-title = "Drehorgel"
-src = "images/Drehorgel.JPG"
-[[images]]
-title = "Drachenboote im Rennen"
-src = "images/Drachenboote_im_Rennen.JPG"
-[[images]]
-title = "Zuschauer Drachenbootrennen"
-src = "images/Zuschauer_Drachenbootrennen.JPG"
-
-+++
+---
+author: ""
+begin: "2006-07-01"
+date: "2006-07-07T01:00:00+02:00"
+gewässer:
+- oder
+- bug
+images:
+- src: images/Logo-Thiel-top04.gif
+  title: Logo-Thiel-top04
+- src: images/Logo-Thiel-bottom04.gif
+  title: Logo-Thiel-bottom04
+- src: images/Zuschauer_Drachenbootcup.JPG
+  title: Zuschauer Drachenbootcup
+- src: images/Drehorgelspielerin.JPG
+  title: Drehorgelspielerin
+- src: images/100_0458.JPG
+  title: "100_0458"
+- src: images/100_0452.JPG
+  title: "100_0452"
+- src: images/100_0470.JPG
+  title: "100_0470"
+- src: images/100_0471.JPG
+  title: "100_0471"
+- src: images/100_0447.JPG
+  title: "100_0447"
+- src: images/Ruderer_Kleinmachnow.JPG
+  title: Ruderer Kleinmachnow
+- src: images/100_0473.JPG
+  title: "100_0473"
+- src: images/100_0474.JPG
+  title: "100_0474"
+- src: images/100_0477.JPG
+  title: "100_0477"
+- src: images/100_0480.JPG
+  title: "100_0480"
+- src: images/100_0484.JPG
+  title: "100_0484"
+- src: images/100_0486.JPG
+  title: "100_0486"
+- src: images/100_0487.JPG
+  title: "100_0487"
+- src: images/100_0492.JPG
+  title: "100_0492"
+- src: images/regatta-1.jpg
+  title: regatta-1
+- src: images/regatta-3.jpg
+  title: regatta-3
+- src: images/regatta-7.jpg
+  title: regatta-7
+- src: images/regatta-20.jpg
+  title: regatta-20
+- src: images/regatta-5.jpg
+  title: regatta-5
+- src: images/Zuschauer_Drachenbootcup02.JPG
+  title: Zuschauer Drachenbootcup02
+- src: images/regatta-23.jpg
+  title: regatta-23
+- src: images/regatta-21.jpg
+  title: regatta-21
+- src: images/Drehorgel.JPG
+  title: Drehorgel
+- src: images/Drachenboote_im_Rennen.JPG
+  title: Drachenboote im Rennen
+- src: images/Zuschauer_Drachenbootrennen.JPG
+  title: Zuschauer Drachenbootrennen
+länder: []
+title: drachenboot2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

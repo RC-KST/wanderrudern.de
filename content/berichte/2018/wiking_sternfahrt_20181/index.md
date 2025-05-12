@@ -1,34 +1,29 @@
-+++
-title = "Wiking Sternfahrt 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot vor der Oberbaumbruecke Wiking 2018"
-src = "images/Ruderboot_vor_der_Oberbaumbruecke_Wiking_2018.jpg"
-[[images]]
-title = "Ruderer auf dem Landwehrkanal Wiking 2018"
-src = "images/Ruderer_auf_dem_Landwehrkanal_Wiking_2018.jpg"
-[[images]]
-title = "Ruderboot unter der Hochbahn in Kreuzberg Wiking 2018"
-src = "images/Ruderboot_unter_der_Hochbahn_in_Kreuzberg_Wiking_2018.jpg"
-[[images]]
-title = "Ruderboote Spree Treptower Park Wiking 2018"
-src = "images/Ruderboote_Spree_Treptower_Park_Wiking_2018.jpg"
-[[images]]
-title = "Ruderboot vor dem Verkehrsmuseum Wiking 2018"
-src = "images/Ruderboot_vor_dem_Verkehrsmuseum_Wiking_2018.jpg"
-[[images]]
-title = "Ruderer in der Oberschleuse Wiking 2018"
-src = "images/Ruderer_in_der_Oberschleuse_Wiking_2018.jpg"
-[[images]]
-title = "Wiking Sternfahrt 2018"
-src = "images/Wiking_Sternfahrt_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Ruderboot_vor_der_Oberbaumbruecke_Wiking_2018.jpg
+  title: Ruderboot vor der Oberbaumbruecke Wiking 2018
+- src: images/Ruderer_auf_dem_Landwehrkanal_Wiking_2018.jpg
+  title: Ruderer auf dem Landwehrkanal Wiking 2018
+- src: images/Ruderboot_unter_der_Hochbahn_in_Kreuzberg_Wiking_2018.jpg
+  title: Ruderboot unter der Hochbahn in Kreuzberg Wiking 2018
+- src: images/Ruderboote_Spree_Treptower_Park_Wiking_2018.jpg
+  title: Ruderboote Spree Treptower Park Wiking 2018
+- src: images/Ruderboot_vor_dem_Verkehrsmuseum_Wiking_2018.jpg
+  title: Ruderboot vor dem Verkehrsmuseum Wiking 2018
+- src: images/Ruderer_in_der_Oberschleuse_Wiking_2018.jpg
+  title: Ruderer in der Oberschleuse Wiking 2018
+- src: images/Wiking_Sternfahrt_2018.jpg
+  title: Wiking Sternfahrt 2018
+länder: []
+title: Wiking Sternfahrt 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

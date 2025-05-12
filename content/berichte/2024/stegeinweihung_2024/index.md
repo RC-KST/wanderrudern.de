@@ -1,40 +1,31 @@
-+++
-title = "Stegeinweihung 2024"
-author = ""
-date = 2024-03-03T01:00:00+02:00
-begin = "2024-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Martin schneidet den Steg Kuchen an 2024"
-src = "images/Martin_schneidet_den_Steg_Kuchen_an_2024.jpg"
-[[images]]
-title = "Taufe des E-Dreiers mit Steuermann Asnen 2024"
-src = "images/Taufe_des_E-Dreiers_mit_Steuermann_Asnen_2024.jpg"
-[[images]]
-title = "Torte zur Stegeinweihung 2024"
-src = "images/Torte_zur_Stegeinweihung_2024.jpg"
-[[images]]
-title = "Rotes Band bei der Stegeinweihung 2024"
-src = "images/Rotes_Band_bei_der_Stegeinweihung_2024.jpg"
-[[images]]
-title = "Taufe des C-Vierers mit Steuermann Ivalojoki 2024"
-src = "images/Taufe_des_C-Vierers_mit_Steuermann_Ivalojoki_2024.jpg"
-[[images]]
-title = "Ruderclub Kleinmachnow Stahnsdorf Teltow Stegeinweihung 2024"
-src = "images/Ruderclub_Kleinmachnow_Stahnsdorf_Teltow_Stegeinweihung_2024.jpg"
-[[images]]
-title = "Stegeinweihung Gaeste beim Ruderclub KST 2024"
-src = "images/Stegeinweihung_Gaeste_beim_Ruderclub_KST_2024.jpg"
-[[images]]
-title = "Taufe der Barke Dnister 2024"
-src = "images/Taufe_der_Barke_Dnister_2024.jpg"
-[[images]]
-title = "Barke Dnister Ruderclub Kleinmachnow 2024"
-src = "images/Barke_Dnister_Ruderclub_Kleinmachnow_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-03-01"
+date: "2024-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Martin_schneidet_den_Steg_Kuchen_an_2024.jpg
+  title: Martin schneidet den Steg Kuchen an 2024
+- src: images/Taufe_des_E-Dreiers_mit_Steuermann_Asnen_2024.jpg
+  title: Taufe des E-Dreiers mit Steuermann Asnen 2024
+- src: images/Torte_zur_Stegeinweihung_2024.jpg
+  title: Torte zur Stegeinweihung 2024
+- src: images/Rotes_Band_bei_der_Stegeinweihung_2024.jpg
+  title: Rotes Band bei der Stegeinweihung 2024
+- src: images/Taufe_des_C-Vierers_mit_Steuermann_Ivalojoki_2024.jpg
+  title: Taufe des C-Vierers mit Steuermann Ivalojoki 2024
+- src: images/Ruderclub_Kleinmachnow_Stahnsdorf_Teltow_Stegeinweihung_2024.jpg
+  title: Ruderclub Kleinmachnow Stahnsdorf Teltow Stegeinweihung 2024
+- src: images/Stegeinweihung_Gaeste_beim_Ruderclub_KST_2024.jpg
+  title: Stegeinweihung Gaeste beim Ruderclub KST 2024
+- src: images/Taufe_der_Barke_Dnister_2024.jpg
+  title: Taufe der Barke Dnister 2024
+- src: images/Barke_Dnister_Ruderclub_Kleinmachnow_2024.jpg
+  title: Barke Dnister Ruderclub Kleinmachnow 2024
+länder: []
+title: Stegeinweihung 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

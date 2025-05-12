@@ -1,19 +1,20 @@
-+++
-title = "Ketzin 2015 Herbst"
-author = ""
-date = 2015-11-11T01:00:00+02:00
-begin = "2015-11-01"
-"gewässer" = ["elbe", "havel", "trebelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Vierer auf dem Trebelsee Ketzin Herbst 2015"
-src = "images/Vierer_auf_dem_Trebelsee_Ketzin_Herbst_2015.jpg"
-[[images]]
-title = "Ketzin Graeben Ketzin Herbst 2015"
-src = "images/Ketzin_Graeben_Ketzin_Herbst_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-11-01"
+date: "2015-11-11T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- trebelsee
+images:
+- src: images/Vierer_auf_dem_Trebelsee_Ketzin_Herbst_2015.jpg
+  title: Vierer auf dem Trebelsee Ketzin Herbst 2015
+- src: images/Ketzin_Graeben_Ketzin_Herbst_2015.jpg
+  title: Ketzin Graeben Ketzin Herbst 2015
+länder: []
+title: Ketzin 2015 Herbst
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

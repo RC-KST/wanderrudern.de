@@ -1,28 +1,25 @@
-+++
-title = "Decin99"
-author = ""
-date = 1999-01-01T01:00:00+02:00
-begin = "1999-01-01"
-"gewässer" = ["elbe", "po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Einsetzen der Barke in Decin"
-src = "images/barke_ufer.jpg"
-[[images]]
-title = "Einsamer Ruderer in der Barke"
-src = "images/barke_kai.jpg"
-[[images]]
-title = "Mannschaft in der Barke"
-src = "images/decin.jpg"
-[[images]]
-title = "Barkenfahrt im Elbsandsteingebirge"
-src = "images/barke2.jpg"
-[[images]]
-title = "Pirna in der Kneipe Ruderer"
-src = "images/pirna.jpg"
-
-+++
+---
+author: ""
+begin: "1999-01-01"
+date: "1999-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- po
+images:
+- src: images/barke_ufer.jpg
+  title: Einsetzen der Barke in Decin
+- src: images/barke_kai.jpg
+  title: Einsamer Ruderer in der Barke
+- src: images/decin.jpg
+  title: Mannschaft in der Barke
+- src: images/barke2.jpg
+  title: Barkenfahrt im Elbsandsteingebirge
+- src: images/pirna.jpg
+  title: Pirna in der Kneipe Ruderer
+länder: []
+title: Decin99
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,21 @@
-+++
-title = "Arbeitseinsatz Fruehjahr 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Letzter Pfosten fuer das neue Lager Februar 2013"
-src = "images/Letzter_Pfosten_fuer_das_neue_Lager_Februar_2013.jpg"
-[[images]]
-title = "Rollsitzreparaturen Februar 2013"
-src = "images/Rollsitzreparaturen_Februar_2013.jpg"
-[[images]]
-title = "Arbeitseinsatz Bootsreparaturen Februar 2013"
-src = "images/Arbeitseinsatz_Bootsreparaturen_Februar_2013.jpg"
-[[images]]
-title = "Jonathans Buddelkasten Februar 2013"
-src = "images/Jonathans_Buddelkasten_Februar_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Letzter_Pfosten_fuer_das_neue_Lager_Februar_2013.jpg
+  title: Letzter Pfosten fuer das neue Lager Februar 2013
+- src: images/Rollsitzreparaturen_Februar_2013.jpg
+  title: Rollsitzreparaturen Februar 2013
+- src: images/Arbeitseinsatz_Bootsreparaturen_Februar_2013.jpg
+  title: Arbeitseinsatz Bootsreparaturen Februar 2013
+- src: images/Jonathans_Buddelkasten_Februar_2013.jpg
+  title: Jonathans Buddelkasten Februar 2013
+länder: []
+title: Arbeitseinsatz Fruehjahr 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,21 @@
-+++
-title = "Clubgelaende2003"
-author = ""
-date = 2003-02-02T01:00:00+02:00
-begin = "2003-02-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Einsatz1"
-src = "images/Einsatz1.jpg"
-[[images]]
-title = "gehweg"
-src = "images/gehweg.jpg"
-[[images]]
-title = "stahlgerust"
-src = "images/stahlgerust.jpg"
-[[images]]
-title = "fundament"
-src = "images/fundament.jpg"
-
-+++
+---
+author: ""
+begin: "2003-02-01"
+date: "2003-02-02T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Einsatz1.jpg
+  title: Einsatz1
+- src: images/gehweg.jpg
+  title: gehweg
+- src: images/stahlgerust.jpg
+  title: stahlgerust
+- src: images/fundament.jpg
+  title: fundament
+länder: []
+title: Clubgelaende2003
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

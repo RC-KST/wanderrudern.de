@@ -1,43 +1,35 @@
-+++
-title = "oder schwedt stettin 2016"
-author = ""
-date = 2016-06-06T01:00:00+02:00
-begin = "2016-06-01"
-"gewässer" = ["oder"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ostoder Stettin 2016"
-src = "images/Ostoder_Stettin_2016.jpg"
-[[images]]
-title = "Werfthafen Stettin 2016"
-src = "images/Werfthafen_Stettin_2016.jpg"
-[[images]]
-title = "Dschungel im Regen Stettin 2016"
-src = "images/Dschungel_im_Regen_Stettin_2016.jpg"
-[[images]]
-title = "Oderbruch Ruderboot Stettin 2016"
-src = "images/Oderbruch_Ruderboot_Stettin_2016.jpg"
-[[images]]
-title = "Hochseefrachter Hafen Stettin 2016"
-src = "images/Hochseefrachter_Hafen_Stettin_2016.jpg"
-[[images]]
-title = "Vierer Stettin im Hafen 2016"
-src = "images/Vierer_Stettin_im_Hafen_2016.jpg"
-[[images]]
-title = "Stettin Downtown 2016"
-src = "images/Stettin_Downtown_2016.jpg"
-[[images]]
-title = "Rudervierer Stettin 2016"
-src = "images/Rudervierer_Stettin_2016.jpg"
-[[images]]
-title = "Vierer im Dschungel Stettin 2016"
-src = "images/Vierer_im_Dschungel_Stettin_2016.jpg"
-[[images]]
-title = "Hohensaaten friedrichsthaler wasserstrasse mit VL Stettin 2016"
-src = "images/Hohensaaten_friedrichsthaler_wasserstrasse_mit_VL_Stettin_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-06-01"
+date: "2016-06-06T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Ostoder_Stettin_2016.jpg
+  title: Ostoder Stettin 2016
+- src: images/Werfthafen_Stettin_2016.jpg
+  title: Werfthafen Stettin 2016
+- src: images/Dschungel_im_Regen_Stettin_2016.jpg
+  title: Dschungel im Regen Stettin 2016
+- src: images/Oderbruch_Ruderboot_Stettin_2016.jpg
+  title: Oderbruch Ruderboot Stettin 2016
+- src: images/Hochseefrachter_Hafen_Stettin_2016.jpg
+  title: Hochseefrachter Hafen Stettin 2016
+- src: images/Vierer_Stettin_im_Hafen_2016.jpg
+  title: Vierer Stettin im Hafen 2016
+- src: images/Stettin_Downtown_2016.jpg
+  title: Stettin Downtown 2016
+- src: images/Rudervierer_Stettin_2016.jpg
+  title: Rudervierer Stettin 2016
+- src: images/Vierer_im_Dschungel_Stettin_2016.jpg
+  title: Vierer im Dschungel Stettin 2016
+- src: images/Hohensaaten_friedrichsthaler_wasserstrasse_mit_VL_Stettin_2016.jpg
+  title: Hohensaaten friedrichsthaler wasserstrasse mit VL Stettin 2016
+länder:
+- polen
+title: oder schwedt stettin 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

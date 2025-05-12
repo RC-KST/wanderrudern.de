@@ -1,37 +1,30 @@
-+++
-title = "Elbemarathon 2022"
-author = ""
-date = 2022-02-02T01:00:00+02:00
-begin = "2022-02-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ankunft Wittenberg Elbe 2022"
-src = "images/Ankunft_Wittenberg_Elbe_2022.jpg"
-[[images]]
-title = "Ruderboote ablegen in Meisen Elbe 2022"
-src = "images/Ruderboote_ablegen_in_Meisen_Elbe_2022.jpg"
-[[images]]
-title = "Reparatur Spuelmaschine Meissen 2022"
-src = "images/Reparatur_Spuelmaschine_Meissen_2022.jpg"
-[[images]]
-title = "Johanna an der Pricke Torgau 2022"
-src = "images/Johanna_an_der_Pricke_Torgau_2022.jpg"
-[[images]]
-title = "Ablegen Torgau Elbe 2022"
-src = "images/Ablegen_Torgau_Elbe_2022.jpg"
-[[images]]
-title = "Ruderboot Elbe Marathon bei Sonne 2022"
-src = "images/Ruderboot_Elbe_Marathon_bei_Sonne_2022.jpg"
-[[images]]
-title = "Torgau der Nebel hebt sich 2022"
-src = "images/Torgau_der_Nebel_hebt_sich_2022.jpg"
-[[images]]
-title = "Ruderboot Elbe Marathon 2022"
-src = "images/Ruderboot_Elbe_Marathon_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-02-01"
+date: "2022-02-02T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Ankunft_Wittenberg_Elbe_2022.jpg
+  title: Ankunft Wittenberg Elbe 2022
+- src: images/Ruderboote_ablegen_in_Meisen_Elbe_2022.jpg
+  title: Ruderboote ablegen in Meisen Elbe 2022
+- src: images/Reparatur_Spuelmaschine_Meissen_2022.jpg
+  title: Reparatur Spuelmaschine Meissen 2022
+- src: images/Johanna_an_der_Pricke_Torgau_2022.jpg
+  title: Johanna an der Pricke Torgau 2022
+- src: images/Ablegen_Torgau_Elbe_2022.jpg
+  title: Ablegen Torgau Elbe 2022
+- src: images/Ruderboot_Elbe_Marathon_bei_Sonne_2022.jpg
+  title: Ruderboot Elbe Marathon bei Sonne 2022
+- src: images/Torgau_der_Nebel_hebt_sich_2022.jpg
+  title: Torgau der Nebel hebt sich 2022
+- src: images/Ruderboot_Elbe_Marathon_2022.jpg
+  title: Ruderboot Elbe Marathon 2022
+länder: []
+title: Elbemarathon 2022
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

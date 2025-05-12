@@ -1,37 +1,35 @@
-+++
-title = "Dahme-Spree-Umfahrt 2018"
-author = ""
-date = 2018-05-05T01:00:00+02:00
-begin = "2018-05-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "schwielochsee", "neuendorfer see", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Muegelsee bei Sturm Dahme Spree 2018"
-src = "images/Muegelsee_bei_Sturm_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Kuddels Lustige Stube Dahme Spree 2018"
-src = "images/Kuddels_Lustige_Stube_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Ruderinnen Kruepelsee Dahme Spree 2018"
-src = "images/Ruderinnen_Kruepelsee_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Ruderboot Koepenick Dahme Spree 2018"
-src = "images/Ruderboot_Koepenick_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Bindower Fliess Dahme Spree 2018"
-src = "images/Bindower_Fliess_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Jochen am Grill Leissnitz Dahme Spree 2018"
-src = "images/Jochen_am_Grill_Leissnitz_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Leissnitz Ruderboote Dahme Spree 2018"
-src = "images/Leissnitz_Ruderboote_Dahme_Spree_2018.jpg"
-[[images]]
-title = "Mueggelspree Dahme Spree 2018"
-src = "images/Mueggelspree_Dahme_Spree_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-05-01"
+date: "2018-05-05T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- schwielochsee
+- neuendorfer see
+- köthener see
+images:
+- src: images/Muegelsee_bei_Sturm_Dahme_Spree_2018.jpg
+  title: Muegelsee bei Sturm Dahme Spree 2018
+- src: images/Kuddels_Lustige_Stube_Dahme_Spree_2018.jpg
+  title: Kuddels Lustige Stube Dahme Spree 2018
+- src: images/Ruderinnen_Kruepelsee_Dahme_Spree_2018.jpg
+  title: Ruderinnen Kruepelsee Dahme Spree 2018
+- src: images/Ruderboot_Koepenick_Dahme_Spree_2018.jpg
+  title: Ruderboot Koepenick Dahme Spree 2018
+- src: images/Bindower_Fliess_Dahme_Spree_2018.jpg
+  title: Bindower Fliess Dahme Spree 2018
+- src: images/Jochen_am_Grill_Leissnitz_Dahme_Spree_2018.jpg
+  title: Jochen am Grill Leissnitz Dahme Spree 2018
+- src: images/Leissnitz_Ruderboote_Dahme_Spree_2018.jpg
+  title: Leissnitz Ruderboote Dahme Spree 2018
+- src: images/Mueggelspree_Dahme_Spree_2018.jpg
+  title: Mueggelspree Dahme Spree 2018
+länder: []
+title: Dahme-Spree-Umfahrt 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

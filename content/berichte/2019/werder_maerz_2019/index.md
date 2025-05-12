@@ -1,31 +1,27 @@
-+++
-title = "Werder Maerz 2019"
-author = ""
-date = 2019-03-03T01:00:00+02:00
-begin = "2019-03-01"
-"gewässer" = ["havel", "wublitz"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Werder Arielle 2019"
-src = "images/Werder_Arielle_2019.jpg"
-[[images]]
-title = "Sonnenuntergang am Schwielowsee 2019"
-src = "images/Sonnenuntergang_am_Schwielowsee_2019.jpg"
-[[images]]
-title = "RC KST Boote in Werder 2019"
-src = "images/RC_KST_Boote_in_Werder_2019.jpg"
-[[images]]
-title = "Schloss Ketzin 2019"
-src = "images/Schloss_Ketzin_2019.jpg"
-[[images]]
-title = "Datsche Ketzin 2019"
-src = "images/Datsche_Ketzin_2019.jpg"
-[[images]]
-title = "Haus Ketzin 2019"
-src = "images/Haus_Ketzin_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-03-01"
+date: "2019-03-03T01:00:00+02:00"
+gewässer:
+- havel
+- wublitz
+images:
+- src: images/Werder_Arielle_2019.jpg
+  title: Werder Arielle 2019
+- src: images/Sonnenuntergang_am_Schwielowsee_2019.jpg
+  title: Sonnenuntergang am Schwielowsee 2019
+- src: images/RC_KST_Boote_in_Werder_2019.jpg
+  title: RC KST Boote in Werder 2019
+- src: images/Schloss_Ketzin_2019.jpg
+  title: Schloss Ketzin 2019
+- src: images/Datsche_Ketzin_2019.jpg
+  title: Datsche Ketzin 2019
+- src: images/Haus_Ketzin_2019.jpg
+  title: Haus Ketzin 2019
+länder: []
+title: Werder Maerz 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

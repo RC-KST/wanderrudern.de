@@ -1,136 +1,102 @@
-+++
-title = "Dahme Spree Umfahrt 2020"
-author = ""
-date = 2020-08-08T01:00:00+02:00
-begin = "2020-08-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Teltowkanal in Richtung Spreewald 2020"
-src = "images/Teltowkanal_in_Richtung_Spreewald_2020.jpg"
-[[images]]
-title = "Wendenschloss Spreewald 2020"
-src = "images/Wendenschloss_Spreewald_2020.jpg"
-[[images]]
-title = "Badepause Krueppelsee Spreewald 2020"
-src = "images/Badepause_Krueppelsee_Spreewald_2020.jpg"
-[[images]]
-title = "Badepause Hoelzener See Spreewald 2020"
-src = "images/Badepause_Hoelzener_See_Spreewald_2020.jpg"
-[[images]]
-title = "Girlie Dreier im Spreewald 2020"
-src = "images/Girlie_Dreier_im_Spreewald_2020.jpg"
-[[images]]
-title = "Jugendherberge Luebben Spreewald 2020"
-src = "images/Jugendherberge_Luebben_Spreewald_2020.jpg"
-[[images]]
-title = "DJH Luebben Spreewald 2020"
-src = "images/DJH_Luebben_Spreewald_2020.jpg"
-[[images]]
-title = "Erster Biberkontakt im Spreewald 2020"
-src = "images/Erster_Biberkontakt_im_Spreewald_2020.jpg"
-[[images]]
-title = "Frauen in der Spreewaldschleuse 2020"
-src = "images/Frauen_in_der_Spreewaldschleuse_2020.jpg"
-[[images]]
-title = "Rudererboot Spreewald 2020"
-src = "images/Rudererboot_Spreewald_2020.jpg"
-[[images]]
-title = "Abendessen Luebben Ruderer Spreewald 2020"
-src = "images/Abendessen_Luebben_Ruderer_Spreewald_2020.jpg"
-[[images]]
-title = "Melina und die grossen Jungs Spreewald 2020"
-src = "images/Melina_und_die_grossen_Jungs_Spreewald_2020.jpg"
-[[images]]
-title = "Schleuse Alt Schadow Spreewald 2020"
-src = "images/Schleuse_Alt_Schadow_Spreewald_2020.jpg"
-[[images]]
-title = "Spreebruecke Spreewald 2020"
-src = "images/Spreebruecke_Spreewald_2020.jpg"
-[[images]]
-title = "Kinderboot Alte Spree Spreewald 2020"
-src = "images/Kinderboot_Alte_Spree_Spreewald_2020.jpg"
-[[images]]
-title = "Shoppen fuer Ruderer in Goyatz Spreewald 2020"
-src = "images/Shoppen_fuer_Ruderer_in_Goyatz_Spreewald_2020.jpg"
-[[images]]
-title = "Badesteg Leissnitz Spreewald 2020"
-src = "images/Badesteg_Leissnitz_Spreewald_2020.jpg"
-[[images]]
-title = "Melina am Steuer Spreewald 2020"
-src = "images/Melina_am_Steuer_Spreewald_2020.jpg"
-[[images]]
-title = "Leissnitz Start am Morgen Spreewald 2020"
-src = "images/Leissnitz_Start_am_Morgen_Spreewald_2020.jpg"
-[[images]]
-title = "Inrigger 3x+ Spreewald 2020"
-src = "images/Inrigger_3x__Spreewald_2020.jpg"
-[[images]]
-title = "Lena Wergenseeschleuse Spreewald 2020"
-src = "images/Lena_Wergenseeschleuse_Spreewald_2020.jpg"
-[[images]]
-title = "Ruderboot entladen am Hausboot Spreewald 2020"
-src = "images/Ruderboot_entladen_am_Hausboot_Spreewald_2020.jpg"
-[[images]]
-title = "Ruderboot am Hausboot Spreewald 2020"
-src = "images/Ruderboot_am_Hausboot_Spreewald_2020.jpg"
-[[images]]
-title = "Baden im Yachthafen Muellrose Spreewald 2020"
-src = "images/Baden_im_Yachthafen_Muellrose_Spreewald_2020.jpg"
-[[images]]
-title = "Ruderer auf dem Sonnendeck Spreewald 2020"
-src = "images/Ruderer_auf_dem_Sonnendeck_Spreewald_2020.jpg"
-[[images]]
-title = "Ruderer in Muellrose Spreewald 2020"
-src = "images/Ruderer_in_Muellrose_Spreewald_2020.jpg"
-[[images]]
-title = "Ruderboote auf dem Wergensee Spreewald 2020"
-src = "images/Ruderboote_auf_dem_Wergensee_Spreewald_2020.jpg"
-[[images]]
-title = "Schleuse zur Drahendorfer Spree 2020"
-src = "images/Schleuse_zur_Drahendorfer_Spree_2020.jpg"
-[[images]]
-title = "Ruderboot Drahendorfer Spree 2020"
-src = "images/Ruderboot_Drahendorfer_Spree_2020.jpg"
-[[images]]
-title = "Hangelsberg am Strand Spreewald 2020"
-src = "images/Hangelsberg_am_Strand_Spreewald_2020.jpg"
-[[images]]
-title = "Hangelsberg unser Balkon Spree 2020"
-src = "images/Hangelsberg_unser_Balkon_Spree_2020.jpg"
-[[images]]
-title = "Start in Hangelsberg Spreewald 2020"
-src = "images/Start_in_Hangelsberg_Spreewald_2020.jpg"
-[[images]]
-title = "Ruderinnen auf der Mueggelspree 2020"
-src = "images/Ruderinnen_auf_der_Mueggelspree_2020.jpg"
-[[images]]
-title = "Baden an der Mueggelspree 2020"
-src = "images/Baden_an_der_Mueggelspree_2020.jpg"
-[[images]]
-title = "Ruderinnen im Gosener Graben 2020"
-src = "images/Ruderinnen_im_Gosener_Graben_2020.jpg"
-[[images]]
-title = "Kinderruderboot auf dem Seddin 2020"
-src = "images/Kinderruderboot_auf_dem_Seddin_2020.jpg"
-[[images]]
-title = "Inrigger 3x+ auf dem Seddin 2020"
-src = "images/Inrigger_3x__auf_dem_Seddin_2020.jpg"
-[[images]]
-title = "Boote vertaeuen Schmoeckwitz 2020"
-src = "images/Boote_vertaeuen_Schmoeckwitz_2020.jpg"
-[[images]]
-title = "Start am Morgen in Schmoeckwitz 2020"
-src = "images/Start_am_Morgen_in_Schmoeckwitz_2020.jpg"
-[[images]]
-title = "Teltowkanal auf dem Rueckweg Spreewald 2020"
-src = "images/Teltowkanal_auf_dem_Rueckweg_Spreewald_2020.jpg"
-[[images]]
-title = "Motorboot Chaos vor der Machnower Schleuse Spreewald 2020"
-src = "images/Motorboot_Chaos_vor_der_Machnower_Schleuse_Spreewald_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-08-01"
+date: "2020-08-08T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+images:
+- src: images/Teltowkanal_in_Richtung_Spreewald_2020.jpg
+  title: Teltowkanal in Richtung Spreewald 2020
+- src: images/Wendenschloss_Spreewald_2020.jpg
+  title: Wendenschloss Spreewald 2020
+- src: images/Badepause_Krueppelsee_Spreewald_2020.jpg
+  title: Badepause Krueppelsee Spreewald 2020
+- src: images/Badepause_Hoelzener_See_Spreewald_2020.jpg
+  title: Badepause Hoelzener See Spreewald 2020
+- src: images/Girlie_Dreier_im_Spreewald_2020.jpg
+  title: Girlie Dreier im Spreewald 2020
+- src: images/Jugendherberge_Luebben_Spreewald_2020.jpg
+  title: Jugendherberge Luebben Spreewald 2020
+- src: images/DJH_Luebben_Spreewald_2020.jpg
+  title: DJH Luebben Spreewald 2020
+- src: images/Erster_Biberkontakt_im_Spreewald_2020.jpg
+  title: Erster Biberkontakt im Spreewald 2020
+- src: images/Frauen_in_der_Spreewaldschleuse_2020.jpg
+  title: Frauen in der Spreewaldschleuse 2020
+- src: images/Rudererboot_Spreewald_2020.jpg
+  title: Rudererboot Spreewald 2020
+- src: images/Abendessen_Luebben_Ruderer_Spreewald_2020.jpg
+  title: Abendessen Luebben Ruderer Spreewald 2020
+- src: images/Melina_und_die_grossen_Jungs_Spreewald_2020.jpg
+  title: Melina und die grossen Jungs Spreewald 2020
+- src: images/Schleuse_Alt_Schadow_Spreewald_2020.jpg
+  title: Schleuse Alt Schadow Spreewald 2020
+- src: images/Spreebruecke_Spreewald_2020.jpg
+  title: Spreebruecke Spreewald 2020
+- src: images/Kinderboot_Alte_Spree_Spreewald_2020.jpg
+  title: Kinderboot Alte Spree Spreewald 2020
+- src: images/Shoppen_fuer_Ruderer_in_Goyatz_Spreewald_2020.jpg
+  title: Shoppen fuer Ruderer in Goyatz Spreewald 2020
+- src: images/Badesteg_Leissnitz_Spreewald_2020.jpg
+  title: Badesteg Leissnitz Spreewald 2020
+- src: images/Melina_am_Steuer_Spreewald_2020.jpg
+  title: Melina am Steuer Spreewald 2020
+- src: images/Leissnitz_Start_am_Morgen_Spreewald_2020.jpg
+  title: Leissnitz Start am Morgen Spreewald 2020
+- src: images/Inrigger_3x__Spreewald_2020.jpg
+  title: Inrigger 3x+ Spreewald 2020
+- src: images/Lena_Wergenseeschleuse_Spreewald_2020.jpg
+  title: Lena Wergenseeschleuse Spreewald 2020
+- src: images/Ruderboot_entladen_am_Hausboot_Spreewald_2020.jpg
+  title: Ruderboot entladen am Hausboot Spreewald 2020
+- src: images/Ruderboot_am_Hausboot_Spreewald_2020.jpg
+  title: Ruderboot am Hausboot Spreewald 2020
+- src: images/Baden_im_Yachthafen_Muellrose_Spreewald_2020.jpg
+  title: Baden im Yachthafen Muellrose Spreewald 2020
+- src: images/Ruderer_auf_dem_Sonnendeck_Spreewald_2020.jpg
+  title: Ruderer auf dem Sonnendeck Spreewald 2020
+- src: images/Ruderer_in_Muellrose_Spreewald_2020.jpg
+  title: Ruderer in Muellrose Spreewald 2020
+- src: images/Ruderboote_auf_dem_Wergensee_Spreewald_2020.jpg
+  title: Ruderboote auf dem Wergensee Spreewald 2020
+- src: images/Schleuse_zur_Drahendorfer_Spree_2020.jpg
+  title: Schleuse zur Drahendorfer Spree 2020
+- src: images/Ruderboot_Drahendorfer_Spree_2020.jpg
+  title: Ruderboot Drahendorfer Spree 2020
+- src: images/Hangelsberg_am_Strand_Spreewald_2020.jpg
+  title: Hangelsberg am Strand Spreewald 2020
+- src: images/Hangelsberg_unser_Balkon_Spree_2020.jpg
+  title: Hangelsberg unser Balkon Spree 2020
+- src: images/Start_in_Hangelsberg_Spreewald_2020.jpg
+  title: Start in Hangelsberg Spreewald 2020
+- src: images/Ruderinnen_auf_der_Mueggelspree_2020.jpg
+  title: Ruderinnen auf der Mueggelspree 2020
+- src: images/Baden_an_der_Mueggelspree_2020.jpg
+  title: Baden an der Mueggelspree 2020
+- src: images/Ruderinnen_im_Gosener_Graben_2020.jpg
+  title: Ruderinnen im Gosener Graben 2020
+- src: images/Kinderruderboot_auf_dem_Seddin_2020.jpg
+  title: Kinderruderboot auf dem Seddin 2020
+- src: images/Inrigger_3x__auf_dem_Seddin_2020.jpg
+  title: Inrigger 3x+ auf dem Seddin 2020
+- src: images/Boote_vertaeuen_Schmoeckwitz_2020.jpg
+  title: Boote vertaeuen Schmoeckwitz 2020
+- src: images/Start_am_Morgen_in_Schmoeckwitz_2020.jpg
+  title: Start am Morgen in Schmoeckwitz 2020
+- src: images/Teltowkanal_auf_dem_Rueckweg_Spreewald_2020.jpg
+  title: Teltowkanal auf dem Rueckweg Spreewald 2020
+- src: images/Motorboot_Chaos_vor_der_Machnower_Schleuse_Spreewald_2020.jpg
+  title: Motorboot Chaos vor der Machnower Schleuse Spreewald 2020
+länder:
+- polen
+title: Dahme Spree Umfahrt 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

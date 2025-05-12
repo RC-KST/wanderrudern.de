@@ -1,50 +1,40 @@
-+++
-title = "Tour du Lac Leman 2024"
-author = "Paul"
-date = "2024-10-04"
-begin = "2024-09-26"
-end = "2024-09-30"
-"gewässer" = ["lac leman"]
-"länder" = ["schweiz"]
-"typ" = "marathon"
-
-[[images]]
-title = "Baumgarten Marathon Tour du Lac Leman 2024"
-src = "images/Baumgarten_Marathon_Tour_du_Lac_Leman_2024.jpg"
-[[images]]
-title = "Start zum Genfer See Marathon 2024"
-src = "images/Start_zum_Genfer_See_Marathon_2024.jpg"
-[[images]]
-title = "Baumgarten C-Vierer fertig für die Tour du Lac Leman 2024"
-src = "images/Baumgarten_C-Vierer_fertig_fur_die_Tour_du_Lac_Leman_2024.jpg"
-[[images]]
-title = "Tour du Lac Leman 2024 vor dem Start"
-src = "images/Tour_du_Lac_Leman_2024_vor_dem_Start.jpg"
-[[images]]
-title = "Tour du Lac Leman 2024 Ruderer"
-src = "images/Tour_du_Lac_Leman_2024_Ruderer.jpg"
-[[images]]
-title = "Ruderer Tour du Lac Leman 2024"
-src = "images/Ruderer_Tour_du_Lac_Leman_2024.jpg"
-[[images]]
-title = "Baumgarten Marathon Ruderboot Ziel Genfer See Marathon 2024"
-src = "images/Baumgarten_Marathon_Ruderboot_Ziel_Genfer_See_Marathon_2024.jpg"
-[[images]]
-title = "Sieger Novizen Tour du Lac Leman 2024"
-src = "images/Sieger_Novizen_Tour_du_Lac_Leman_2024.jpg"
-[[images]]
-title = "Mittagessen Genf für die Teilnehmer Tour du Lac Leman 2024"
-src = "images/Mittagessen_Genf_fur_die_Teilnehmer_Tour_du_Lac_Leman_2024.jpg"
-[[images]]
-title = "Lac Leman 1 Gang"
-src = "images/Lac_Leman_1_Gang.jpg"
-[[images]]
-title = "Lac Leman 2 Gang"
-src = "images/Lac_Leman_2_Gang.jpg"
-[[images]]
-title = "Lac Leman 3 Gang"
-src = "images/Lac_Leman_3_Gang.jpg"
-+++
+---
+author: Paul
+begin: "2024-09-26"
+date: "2024-10-04"
+end: "2024-09-30"
+gewässer:
+- lac leman
+images:
+- src: images/Baumgarten_Marathon_Tour_du_Lac_Leman_2024.jpg
+  title: Baumgarten Marathon Tour du Lac Leman 2023
+- src: images/Start_zum_Genfer_See_Marathon_2024.jpg
+  title: Start zum Genfer See Marathon 2024
+- src: images/Baumgarten_C-Vierer_fertig_fur_die_Tour_du_Lac_Leman_2024.jpg
+  title: Baumgarten C-Vierer fertig für die Tour du Lac Leman 2024
+- src: images/Tour_du_Lac_Leman_2024_vor_dem_Start.jpg
+  title: Tour du Lac Leman 2024 vor dem Start
+- src: images/Tour_du_Lac_Leman_2024_Ruderer.jpg
+  title: Tour du Lac Leman 2024 Ruderer
+- src: images/Ruderer_Tour_du_Lac_Leman_2024.jpg
+  title: Ruderer Tour du Lac Leman 2024
+- src: images/Baumgarten_Marathon_Ruderboot_Ziel_Genfer_See_Marathon_2024.jpg
+  title: Baumgarten Marathon Ruderboot Ziel Genfer See Marathon 2024
+- src: images/Sieger_Novizen_Tour_du_Lac_Leman_2024.jpg
+  title: Sieger Novizen Tour du Lac Leman 2024
+- src: images/Mittagessen_Genf_fur_die_Teilnehmer_Tour_du_Lac_Leman_2024.jpg
+  title: Mittagessen Genf für die Teilnehmer Tour du Lac Leman 2024
+- src: images/Lac_Leman_1_Gang.jpg
+  title: Lac Leman 1 Gang
+- src: images/Lac_Leman_2_Gang.jpg
+  title: Lac Leman 2 Gang
+- src: images/Lac_Leman_3_Gang.jpg
+  title: Lac Leman 3 Gang
+länder:
+- schweiz
+title: Tour du Lac Leman 2024
+typ: marathon
+---
 
 Inoffizielle Weltmeisterschaft der Marathon-Ruderer
 

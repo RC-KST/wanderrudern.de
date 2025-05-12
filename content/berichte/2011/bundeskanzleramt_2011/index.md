@@ -1,40 +1,32 @@
-+++
-title = "Bundeskanzleramt 2011"
-author = ""
-date = 2011-02-02T01:00:00+02:00
-begin = "2011-02-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kleinmachnower Ruderboote in Spandau Ka11"
-src = "images/Kleinmachnower_Ruderboote_in_Spandau_Ka11.jpg"
-[[images]]
-title = "Eiszapfen Ka11"
-src = "images/Eiszapfen_Ka11.jpg"
-[[images]]
-title = "Spreemuendung Ka11"
-src = "images/Spreemuendung_Ka11.jpg"
-[[images]]
-title = "Bernd am Kanzleramt 11"
-src = "images/Bernd_am_Kanzleramt_11.jpg"
-[[images]]
-title = "Luftwaffenhubschrauber Kanzleramt 11"
-src = "images/Luftwaffenhubschrauber_Kanzleramt_11.jpg"
-[[images]]
-title = "Ruderboote am Schloss Bellevue Ka11"
-src = "images/Ruderboote_am_Schloss_Bellevue_Ka11.jpg"
-[[images]]
-title = "Ruderzweier im Tiergarten Ka11"
-src = "images/Ruderzweier_im_Tiergarten_Ka11.jpg"
-[[images]]
-title = "Schleuse Charlottenburg Ruderer Ka11"
-src = "images/Schleuse_Charlottenburg_Ruderer_Ka11.jpg"
-[[images]]
-title = "Ruderer am Steg in Spandau Ka11"
-src = "images/Ruderer_am_Steg_in_Spandau_Ka11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-02-01"
+date: "2011-02-02T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Kleinmachnower_Ruderboote_in_Spandau_Ka11.jpg
+  title: Kleinmachnower Ruderboote in Spandau Ka11
+- src: images/Eiszapfen_Ka11.jpg
+  title: Eiszapfen Ka11
+- src: images/Spreemuendung_Ka11.jpg
+  title: Spreemuendung Ka11
+- src: images/Bernd_am_Kanzleramt_11.jpg
+  title: Bernd am Kanzleramt 11
+- src: images/Luftwaffenhubschrauber_Kanzleramt_11.jpg
+  title: Luftwaffenhubschrauber Kanzleramt 11
+- src: images/Ruderboote_am_Schloss_Bellevue_Ka11.jpg
+  title: Ruderboote am Schloss Bellevue Ka11
+- src: images/Ruderzweier_im_Tiergarten_Ka11.jpg
+  title: Ruderzweier im Tiergarten Ka11
+- src: images/Schleuse_Charlottenburg_Ruderer_Ka11.jpg
+  title: Schleuse Charlottenburg Ruderer Ka11
+- src: images/Ruderer_am_Steg_in_Spandau_Ka11.jpg
+  title: Ruderer am Steg in Spandau Ka11
+länder: []
+title: Bundeskanzleramt 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

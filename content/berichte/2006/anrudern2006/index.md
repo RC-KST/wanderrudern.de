@@ -1,37 +1,29 @@
-+++
-title = "Anrudern2006"
-author = ""
-date = 2006-03-03T01:00:00+02:00
-begin = "2006-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Preisverleihung Anrudern Stahnsdorf"
-src = "images/Anrudern06_medaillen3.jpg"
-[[images]]
-title = "Bootstaufe Eismeer Lina"
-src = "images/Anrudern06_taufe_eismeer.jpg"
-[[images]]
-title = "Bürgermeister Enser Anrudern Stahnsdorf"
-src = "images/Anrudern06_Enser.jpg"
-[[images]]
-title = "Anrudern06_lui"
-src = "images/Anrudern06_lui.jpg"
-[[images]]
-title = "Anrudern06_tor"
-src = "images/Anrudern06_tor.jpg"
-[[images]]
-title = "Anrudern06_Lager"
-src = "images/Anrudern06_Lager.jpg"
-[[images]]
-title = "Anrudern06_medaillen2"
-src = "images/Anrudern06_medaillen2.jpg"
-[[images]]
-title = "Anrudern06_schleuse"
-src = "images/Anrudern06_schleuse.jpg"
-
-+++
+---
+author: ""
+begin: "2006-03-01"
+date: "2006-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Anrudern06_medaillen3.jpg
+  title: Preisverleihung Anrudern Stahnsdorf
+- src: images/Anrudern06_taufe_eismeer.jpg
+  title: Bootstaufe Eismeer Lina
+- src: images/Anrudern06_Enser.jpg
+  title: Bürgermeister Enser Anrudern Stahnsdorf
+- src: images/Anrudern06_lui.jpg
+  title: Anrudern06_lui
+- src: images/Anrudern06_tor.jpg
+  title: Anrudern06_tor
+- src: images/Anrudern06_Lager.jpg
+  title: Anrudern06_Lager
+- src: images/Anrudern06_medaillen2.jpg
+  title: Anrudern06_medaillen2
+- src: images/Anrudern06_schleuse.jpg
+  title: Anrudern06_schleuse
+länder: []
+title: Anrudern2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,43 +1,37 @@
-+++
-title = "Niederlande Hart van Holland 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["donau"]
-"länder" = ["niederlande", "irland", "serbien"]
-"typ" = "marathon"
-[[images]]
-title = "Schleuse in Utrecht mit vielen Ruderbooten Hart van Holland 2023"
-src = "images/Schleuse_in_Utrecht_mit_vielen_Ruderbooten_Hart_van_Holland_2023.jpg"
-[[images]]
-title = "Gruppenfoto Ruderer Hart van Holland 2023"
-src = "images/Gruppenfoto_Ruderer_Hart_van_Holland_2023.jpg"
-[[images]]
-title = "Vierer auf der Vecht Hart van Hollan 2023"
-src = "images/Vierer_auf_der_Vecht_Hart_van_Hollan_2023.jpg"
-[[images]]
-title = "Unter der Brücke Hart van Hollan 2023"
-src = "images/Unter_der_Brucke_Hart_van_Hollan_2023.jpg"
-[[images]]
-title = "Schleuse Utrecht Hart van Holland 2023"
-src = "images/Schleuse_Utrecht_Hart_van_Holland_2023.jpg"
-[[images]]
-title = "Ruderboot als Osternest Hart van Holland 2023"
-src = "images/Ruderboot_als_Osternest_Hart_van_Holland_2023.jpg"
-[[images]]
-title = "Kanu Battle Hart van Holland 2023"
-src = "images/Kanu_Battle_Hart_van_Holland_2023.jpg"
-[[images]]
-title = "Holländischen Bootsanhänger fahrfähig machen Hart van Holland 2023"
-src = "images/Hollandischen_Bootsanhanger_fahrfahig_machen_Hart_van_Holland_2023.jpg"
-[[images]]
-title = "Hart van Holland 2023 Ruderstrecke"
-src = "images/Hart_van_Holland_2023_Ruderstrecke.jpeg"
-[[images]]
-title = "Holländische Gruppenstärkung Hart van Holland 2023"
-src = "images/Hollandische_Gruppenstarkung_Hart_van_Holland_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- donau
+images:
+- src: images/Schleuse_in_Utrecht_mit_vielen_Ruderbooten_Hart_van_Holland_2023.jpg
+  title: Schleuse in Utrecht mit vielen Ruderbooten Hart van Holland 2023
+- src: images/Gruppenfoto_Ruderer_Hart_van_Holland_2023.jpg
+  title: Gruppenfoto Ruderer Hart van Holland 2023
+- src: images/Vierer_auf_der_Vecht_Hart_van_Hollan_2023.jpg
+  title: Vierer auf der Vecht Hart van Hollan 2023
+- src: images/Unter_der_Brucke_Hart_van_Hollan_2023.jpg
+  title: Unter der Brücke Hart van Hollan 2023
+- src: images/Schleuse_Utrecht_Hart_van_Holland_2023.jpg
+  title: Schleuse Utrecht Hart van Holland 2023
+- src: images/Ruderboot_als_Osternest_Hart_van_Holland_2023.jpg
+  title: Ruderboot als Osternest Hart van Holland 2023
+- src: images/Kanu_Battle_Hart_van_Holland_2023.jpg
+  title: Kanu Battle Hart van Holland 2023
+- src: images/Hollandischen_Bootsanhanger_fahrfahig_machen_Hart_van_Holland_2023.jpg
+  title: Holländischen Bootsanhänger fahrfähig machen Hart van Holland 2023
+- src: images/Hart_van_Holland_2023_Ruderstrecke.jpeg
+  title: Hart van Holland 2023 Ruderstrecke
+- src: images/Hollandische_Gruppenstarkung_Hart_van_Holland_2023.jpg
+  title: Holländische Gruppenstärkung Hart van Holland 2023
+länder:
+- niederlande
+- irland
+- serbien
+title: Niederlande Hart van Holland 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

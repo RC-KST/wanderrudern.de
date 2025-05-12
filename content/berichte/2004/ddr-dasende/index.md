@@ -1,13 +1,12 @@
-+++
-title = "Decin04"
-author = ""
-date = 2004-01-01T01:00:00+02:00
-begin = "2004-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2004-01-01"
+date: "2004-01-01T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Decin04
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

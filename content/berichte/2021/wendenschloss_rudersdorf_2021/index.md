@@ -1,34 +1,30 @@
-+++
-title = "Wendenschloss Rüdersdorf 2021"
-author = ""
-date = 2021-09-09T01:00:00+02:00
-begin = "2021-09-01"
-"gewässer" = ["dahme", "spree", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer auf der Dahme Herbst 2021"
-src = "images/Ruderer_auf_der_Dahme_Herbst_2021.jpg"
-[[images]]
-title = "Camilla im Ruderboot Stienitzsee 2021"
-src = "images/Camilla_im_Ruderboot_Stienitzsee_2021.jpg"
-[[images]]
-title = "Ruderjugend auf dem Müggelsee 2021"
-src = "images/Ruderjugend_auf_dem_Muggelsee_2021.jpg"
-[[images]]
-title = "Ruderinnen im Gosener Graben 2021"
-src = "images/Ruderinnen_im_Gosener_Graben_2021.jpg"
-[[images]]
-title = "Ruderboot im Dickicht Rüdersdorf 2021"
-src = "images/Ruderboot_im_Dickicht_Rudersdorf_2021.jpg"
-[[images]]
-title = "Boote aufladen in Rüdersdorf 2021"
-src = "images/Boote_aufladen_in_Rudersdorf_2021.jpg"
-[[images]]
-title = "Schiffstunnel am Stienitzsee 2021"
-src = "images/Schiffstunnel_am_Stienitzsee_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-09-01"
+date: "2021-09-09T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+images:
+- src: images/Ruderer_auf_der_Dahme_Herbst_2021.jpg
+  title: Ruderer auf der Dahme Herbst 2021
+- src: images/Camilla_im_Ruderboot_Stienitzsee_2021.jpg
+  title: Camilla im Ruderboot Stienitzsee 2021
+- src: images/Ruderjugend_auf_dem_Muggelsee_2021.jpg
+  title: Ruderjugend auf dem Müggelsee 2021
+- src: images/Ruderinnen_im_Gosener_Graben_2021.jpg
+  title: Ruderinnen im Gosener Graben 2021
+- src: images/Ruderboot_im_Dickicht_Rudersdorf_2021.jpg
+  title: Ruderboot im Dickicht Rüdersdorf 2021
+- src: images/Boote_aufladen_in_Rudersdorf_2021.jpg
+  title: Boote aufladen in Rüdersdorf 2021
+- src: images/Schiffstunnel_am_Stienitzsee_2021.jpg
+  title: Schiffstunnel am Stienitzsee 2021
+länder: []
+title: Wendenschloss Rüdersdorf 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

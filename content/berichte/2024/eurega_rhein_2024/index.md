@@ -1,43 +1,36 @@
-+++
-title = "EUREGA Rhein 2024"
-author = ""
-date = 2024-02-02T01:00:00+02:00
-begin = "2024-02-01"
-"gewässer" = ["rhein", "aller", "shannon"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Baumgarten C4x+ im Lorelei Hafen EUREGA 2024"
-src = "images/Baumgarten_C4x__im_Lorelei_Hafen_EUREGA_2024.jpg"
-[[images]]
-title = "Neuwied EUREGA Marathon RUderboot 2024"
-src = "images/Neuwied_EUREGA_Marathon_RUderboot_2024.jpg"
-[[images]]
-title = "Ruderer des RC KST bei der EUREGA 2024"
-src = "images/Ruderer_des_RC_KST_bei_der_EUREGA_2024.jpg"
-[[images]]
-title = "Siegreiche Ruderer EUREGA 2024"
-src = "images/Siegreiche_Ruderer_EUREGA_2024.jpg"
-[[images]]
-title = "Kinder Ruderer EUREGA 2024 mit WaWa"
-src = "images/Kinder_Ruderer_EUREGA_2024_mit_WaWa.jpg"
-[[images]]
-title = "Goarshausen Abendessen EUREGA 2024"
-src = "images/Goarshausen_Abendessen_EUREGA_2024.jpg"
-[[images]]
-title = "Baumgarten RS-Class auf dem Startsteg zur EUREGA 2024"
-src = "images/Baumgarten_RS-Class_auf_dem_Startsteg_zur_EUREGA_2024.jpg"
-[[images]]
-title = "Start EUREGA 2024 in Neuwied"
-src = "images/Start_EUREGA_2024_in_Neuwied.jpg"
-[[images]]
-title = "Kindermannschaft im Ziel EUREGA 2024"
-src = "images/Kindermannschaft_im_Ziel_EUREGA_2024.jpg"
-[[images]]
-title = "EUREGA 2024 Pieliskoki Ruderer"
-src = "images/EUREGA_2024_Pieliskoki_Ruderer.jpg"
-
-+++
+---
+author: ""
+begin: "2024-02-01"
+date: "2024-02-02T01:00:00+02:00"
+gewässer:
+- rhein
+- aller
+- shannon
+images:
+- src: images/Baumgarten_C4x__im_Lorelei_Hafen_EUREGA_2024.jpg
+  title: Baumgarten C4x+ im Lorelei Hafen EUREGA 2024
+- src: images/Neuwied_EUREGA_Marathon_RUderboot_2024.jpg
+  title: Neuwied EUREGA Marathon RUderboot 2024
+- src: images/Ruderer_des_RC_KST_bei_der_EUREGA_2024.jpg
+  title: Ruderer des RC KST bei der EUREGA 2024
+- src: images/Siegreiche_Ruderer_EUREGA_2024.jpg
+  title: Siegreiche Ruderer EUREGA 2024
+- src: images/Kinder_Ruderer_EUREGA_2024_mit_WaWa.jpg
+  title: Kinder Ruderer EUREGA 2024 mit WaWa
+- src: images/Goarshausen_Abendessen_EUREGA_2024.jpg
+  title: Goarshausen Abendessen EUREGA 2024
+- src: images/Baumgarten_RS-Class_auf_dem_Startsteg_zur_EUREGA_2024.jpg
+  title: Baumgarten RS-Class auf dem Startsteg zur EUREGA 2024
+- src: images/Start_EUREGA_2024_in_Neuwied.jpg
+  title: Start EUREGA 2024 in Neuwied
+- src: images/Kindermannschaft_im_Ziel_EUREGA_2024.jpg
+  title: Kindermannschaft im Ziel EUREGA 2024
+- src: images/EUREGA_2024_Pieliskoki_Ruderer.jpg
+  title: EUREGA 2024 Pieliskoki Ruderer
+länder: []
+title: EUREGA Rhein 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,16 +1,20 @@
-+++
-title = "Neuruppin 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["aller", "havel", "ruppiner see", "wannsee"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Neuruppinwanderfahrt 2013"
-src = "images/Neuruppinwanderfahrt_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- havel
+- ruppiner see
+- wannsee
+images:
+- src: images/Neuruppinwanderfahrt_2013.jpg
+  title: Neuruppinwanderfahrt 2013
+länder:
+- finnland
+title: Neuruppin 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

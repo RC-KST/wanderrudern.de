@@ -1,4 +1,4 @@
-+++
-title = "Ausschreibungen"
-weight = 40
-+++
+---
+title: Ausschreibungen
+weight: 40
+---

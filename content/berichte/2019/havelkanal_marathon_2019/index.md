@@ -1,25 +1,22 @@
-+++
-title = "Havelkanal Marathon 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Havelkanal Marathon 2019 Sonnenaufgang auf der Havel"
-src = "images/Havelkanal_Marathon_2019_Sonnenaufgang_auf_der_Havel.jpg"
-[[images]]
-title = "Havelkanal Marathon 2019 nach 90 km"
-src = "images/Havelkanal_Marathon_2019_nach_90_km.jpg"
-[[images]]
-title = "Havelkanal Marathon 2019 Machnower Schleuse"
-src = "images/Havelkanal_Marathon_2019_Machnower_Schleuse.jpg"
-[[images]]
-title = "Havelkanal Marathon 2019 nach 40 km"
-src = "images/Havelkanal_Marathon_2019_nach_40_km.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Havelkanal_Marathon_2019_Sonnenaufgang_auf_der_Havel.jpg
+  title: Havelkanal Marathon 2019 Sonnenaufgang auf der Havel
+- src: images/Havelkanal_Marathon_2019_nach_90_km.jpg
+  title: Havelkanal Marathon 2019 nach 90 km
+- src: images/Havelkanal_Marathon_2019_Machnower_Schleuse.jpg
+  title: Havelkanal Marathon 2019 Machnower Schleuse
+- src: images/Havelkanal_Marathon_2019_nach_40_km.jpg
+  title: Havelkanal Marathon 2019 nach 40 km
+länder: []
+title: Havelkanal Marathon 2019
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,16 +1,15 @@
-+++
-title = "Anrudern Bootstaufe RC KST 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "preisverleihung LRV Berlin RC KST02"
-src = "images/preisverleihung_LRV_Berlin_RC_KST02.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/preisverleihung_LRV_Berlin_RC_KST02.jpg
+  title: preisverleihung LRV Berlin RC KST02
+länder: []
+title: Anrudern Bootstaufe RC KST 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

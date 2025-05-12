@@ -1,49 +1,39 @@
-+++
-title = "Saale 2018 Camburg - Alsleben"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["saale", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Einsetzstelle Camburg Saale 2018"
-src = "images/Einsetzstelle_Camburg_Saale_2018.jpg"
-[[images]]
-title = "Inrigger auf der Saale 2018"
-src = "images/Inrigger_auf_der_Saale_2018.jpg"
-[[images]]
-title = "Ruderer auf der oberen Saale 2018"
-src = "images/Ruderer_auf_der_oberen_Saale_2018.jpg"
-[[images]]
-title = "Burg ueber der Saale 2018"
-src = "images/Burg_ueber_der_Saale_2018.jpg"
-[[images]]
-title = "Felswand Saale 2018"
-src = "images/Felswand_Saale_2018.jpg"
-[[images]]
-title = "Biergarten an der Saale 2018"
-src = "images/Biergarten_an_der_Saale_2018.jpg"
-[[images]]
-title = "Ruderer Saale 2018"
-src = "images/Ruderer_Saale_2018.jpg"
-[[images]]
-title = "Umtragestelle Bad Koesen Saale 2018"
-src = "images/Umtragestelle_Bad_Koesen_Saale_2018.jpg"
-[[images]]
-title = "WaWa auf der Saale 2018"
-src = "images/WaWa_auf_der_Saale_2018.jpg"
-[[images]]
-title = "Ruderer in Weissenfels Saale 2018"
-src = "images/Ruderer_in_Weissenfels_Saale_2018.jpg"
-[[images]]
-title = "Saale Wehr 2018"
-src = "images/Saale_Wehr_2018.jpg"
-[[images]]
-title = "Burg Wettin Saale 2018"
-src = "images/Burg_Wettin_Saale_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- saale
+- oder
+images:
+- src: images/Einsetzstelle_Camburg_Saale_2018.jpg
+  title: Einsetzstelle Camburg Saale 2018
+- src: images/Inrigger_auf_der_Saale_2018.jpg
+  title: Inrigger auf der Saale 2018
+- src: images/Ruderer_auf_der_oberen_Saale_2018.jpg
+  title: Ruderer auf der oberen Saale 2018
+- src: images/Burg_ueber_der_Saale_2018.jpg
+  title: Burg ueber der Saale 2018
+- src: images/Felswand_Saale_2018.jpg
+  title: Felswand Saale 2018
+- src: images/Biergarten_an_der_Saale_2018.jpg
+  title: Biergarten an der Saale 2018
+- src: images/Ruderer_Saale_2018.jpg
+  title: Ruderer Saale 2018
+- src: images/Umtragestelle_Bad_Koesen_Saale_2018.jpg
+  title: Umtragestelle Bad Koesen Saale 2018
+- src: images/WaWa_auf_der_Saale_2018.jpg
+  title: WaWa auf der Saale 2018
+- src: images/Ruderer_in_Weissenfels_Saale_2018.jpg
+  title: Ruderer in Weissenfels Saale 2018
+- src: images/Saale_Wehr_2018.jpg
+  title: Saale Wehr 2018
+- src: images/Burg_Wettin_Saale_2018.jpg
+  title: Burg Wettin Saale 2018
+länder: []
+title: Saale 2018 Camburg - Alsleben
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

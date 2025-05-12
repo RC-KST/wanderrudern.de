@@ -1,28 +1,24 @@
-+++
-title = "Anrudern 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = []
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Proberudern beim Anrudern Kleinmachnow 2012"
-src = "images/Proberudern_beim_Anrudern_Kleinmachnow_2012.jpg"
-[[images]]
-title = "Jonathan beim proberudern 2012 Anrudern1"
-src = "images/Jonathan_beim_proberudern_2012_Anrudern1.jpg"
-[[images]]
-title = "Ruderer Anrudern Kleinmachnow 2012"
-src = "images/Ruderer_Anrudern_Kleinmachnow_2012.jpg"
-[[images]]
-title = "der vositzende bei der verleihung der preise Anrudern 2012 kleinmachnow"
-src = "images/der_vositzende_bei_der_verleihung_der_preise_Anrudern_2012_kleinmachnow.jpg"
-[[images]]
-title = "preise zum anrudern 2012 Kleinmachnow"
-src = "images/preise_zum_anrudern_2012_Kleinmachnow.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Proberudern_beim_Anrudern_Kleinmachnow_2012.jpg
+  title: Proberudern beim Anrudern Kleinmachnow 2012
+- src: images/Jonathan_beim_proberudern_2012_Anrudern1.jpg
+  title: Jonathan beim proberudern 2012 Anrudern1
+- src: images/Ruderer_Anrudern_Kleinmachnow_2012.jpg
+  title: Ruderer Anrudern Kleinmachnow 2012
+- src: images/der_vositzende_bei_der_verleihung_der_preise_Anrudern_2012_kleinmachnow.jpg
+  title: der vositzende bei der verleihung der preise Anrudern 2012 kleinmachnow
+- src: images/preise_zum_anrudern_2012_Kleinmachnow.jpg
+  title: preise zum anrudern 2012 Kleinmachnow
+länder:
+- deutschland
+title: Anrudern 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

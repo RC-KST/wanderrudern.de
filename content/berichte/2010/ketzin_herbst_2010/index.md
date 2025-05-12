@@ -1,22 +1,21 @@
-+++
-title = "Ketzin Herbst 2010"
-author = ""
-date = 2010-11-11T01:00:00+02:00
-begin = "2010-11-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderervierer auf dem Sacrow Paretzer Kanal K10"
-src = "images/Ruderervierer_auf_dem_Sacrow_Paretzer_Kanal_K10.jpg"
-[[images]]
-title = "Ruderzweier auf dem Weg nach Brandenburg K10"
-src = "images/Ruderzweier_auf_dem_Weg_nach_Brandenburg_K10.jpg"
-[[images]]
-title = "Vierer in Brandenburg K10"
-src = "images/Vierer_in_Brandenburg_K10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-11-01"
+date: "2010-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Ruderervierer_auf_dem_Sacrow_Paretzer_Kanal_K10.jpg
+  title: Ruderervierer auf dem Sacrow Paretzer Kanal K10
+- src: images/Ruderzweier_auf_dem_Weg_nach_Brandenburg_K10.jpg
+  title: Ruderzweier auf dem Weg nach Brandenburg K10
+- src: images/Vierer_in_Brandenburg_K10.jpg
+  title: Vierer in Brandenburg K10
+länder: []
+title: Ketzin Herbst 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,37 +1,33 @@
-+++
-title = "Saale Naumburg nach Bernburg"
-author = ""
-date = 1994-01-01T01:00:00+02:00
-begin = "1994-01-01"
-"gewässer" = ["mosel", "saale", "unstrut", "havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Äpfel lauen an der Schleuse"
-src = "images/aepfel_klauen.jpg"
-[[images]]
-title = "an der schleuse Ruderer"
-src = "images/an_der_schleuse.jpg"
-[[images]]
-title = "anna auf der Saale"
-src = "images/anna.jpg"
-[[images]]
-title = "jochen ruderboot"
-src = "images/jochen_boot.jpg"
-[[images]]
-title = "ruderboot tragen"
-src = "images/boot_tragen.jpg"
-[[images]]
-title = "bobby kniet auf dem Rollsitz"
-src = "images/bobby_kniend.jpg"
-[[images]]
-title = "damen dusche ruderer"
-src = "images/dusche.jpg"
-[[images]]
-title = "bernburg aufladen der Ruderboote"
-src = "images/bernburg.jpg"
-
-+++
+---
+author: ""
+begin: "1994-01-01"
+date: "1994-01-01T01:00:00+02:00"
+gewässer:
+- mosel
+- saale
+- unstrut
+- havel
+images:
+- src: images/aepfel_klauen.jpg
+  title: Äpfel lauen an der Schleuse
+- src: images/an_der_schleuse.jpg
+  title: an der schleuse Ruderer
+- src: images/anna.jpg
+  title: anna auf der Saale
+- src: images/jochen_boot.jpg
+  title: jochen ruderboot
+- src: images/boot_tragen.jpg
+  title: ruderboot tragen
+- src: images/bobby_kniend.jpg
+  title: bobby kniet auf dem Rollsitz
+- src: images/dusche.jpg
+  title: damen dusche ruderer
+- src: images/bernburg.jpg
+  title: bernburg aufladen der Ruderboote
+länder: []
+title: Saale Naumburg nach Bernburg
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,19 @@
-+++
-title = "Landeswanderrudertreffen Neuruppin"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Party beim WRT Neuruppin 2012"
-src = "images/Party_beim_WRT_Neuruppin_2012.jpg"
-[[images]]
-title = "Ruppiner Kanal 2012"
-src = "images/Ruppiner_Kanal_2012.jpg"
-[[images]]
-title = "Ruppiner See _2012"
-src = "images/Ruppiner_See__2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Party_beim_WRT_Neuruppin_2012.jpg
+  title: Party beim WRT Neuruppin 2012
+- src: images/Ruppiner_Kanal_2012.jpg
+  title: Ruppiner Kanal 2012
+- src: images/Ruppiner_See__2012.jpg
+  title: Ruppiner See _2012
+länder: []
+title: Landeswanderrudertreffen Neuruppin
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

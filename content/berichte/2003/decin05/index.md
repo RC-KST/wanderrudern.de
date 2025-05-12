@@ -1,40 +1,34 @@
-+++
-title = "Decin05"
-author = ""
-date = 2003-12-12T01:00:00+02:00
-begin = "2003-12-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barkenfahrt 2005 Steuerleute"
-src = "images/Barkenfahrt_2005_003.jpg"
-[[images]]
-title = "Barkenfahrt 2005 Manuel"
-src = "images/Barkenfahrt_2005_029.jpg"
-[[images]]
-title = "Barkenfahrt 2005 Steg Dresden"
-src = "images/Barkenfahrt_2005_055.jpg"
-[[images]]
-title = "Barkenfahrt 2005 060"
-src = "images/Barkenfahrt_2005_060.jpg"
-[[images]]
-title = "Barkenfahrt 2005 067"
-src = "images/Barkenfahrt_2005_067.jpg"
-[[images]]
-title = "Barkenfahrt 2005 Elbe"
-src = "images/Barkenfahrt_2005_015.jpg"
-[[images]]
-title = "Barkenfahrt 2005 Dresden"
-src = "images/Barkenfahrt_2005_040.jpg"
-[[images]]
-title = "Barkenfahrt 2005 Weihnachtsbaum"
-src = "images/Barkenfahrt_2005_057.jpg"
-[[images]]
-title = "Barkenfahrt 2005 063"
-src = "images/Barkenfahrt_2005_063.jpg"
-
-+++
+---
+author: ""
+begin: "2003-12-01"
+date: "2003-12-12T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Barkenfahrt_2005_003.jpg
+  title: Barkenfahrt 2005 Steuerleute
+- src: images/Barkenfahrt_2005_029.jpg
+  title: Barkenfahrt 2005 Manuel
+- src: images/Barkenfahrt_2005_055.jpg
+  title: Barkenfahrt 2005 Steg Dresden
+- src: images/Barkenfahrt_2005_060.jpg
+  title: Barkenfahrt 2005 060
+- src: images/Barkenfahrt_2005_067.jpg
+  title: Barkenfahrt 2005 067
+- src: images/Barkenfahrt_2005_015.jpg
+  title: Barkenfahrt 2005 Elbe
+- src: images/Barkenfahrt_2005_040.jpg
+  title: Barkenfahrt 2005 Dresden
+- src: images/Barkenfahrt_2005_057.jpg
+  title: Barkenfahrt 2005 Weihnachtsbaum
+- src: images/Barkenfahrt_2005_063.jpg
+  title: Barkenfahrt 2005 063
+länder:
+- tschechien
+title: Decin05
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,37 +1,30 @@
-+++
-title = "Jugend Wanderrudertreffen Brandenburg 2007"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sacrow Paretzer Kanal nach dem Regen07"
-src = "images/Sacrow_Paretzer_Kanal_nach_dem_Regen07.JPG"
-[[images]]
-title = "Ruderboote beim Wanderrudertreffen"
-src = "images/Ruderboote_beim_Wanderrudertreffen.jpg"
-[[images]]
-title = "Sven und Stefan"
-src = "images/Sven_und_Stefan.jpg"
-[[images]]
-title = "Ruderclub Kleinmachnow am Beetzsee"
-src = "images/Ruderclub_Kleinmachnow_am_Beetzsee.jpg"
-[[images]]
-title = "Ruderer am Beetzsee 07"
-src = "images/Ruderer_am_Beetzsee_07.JPG"
-[[images]]
-title = "Steg an der Regattastrecke Beetzsee"
-src = "images/Steg_an_der_Regattastrecke_Beetzsee.jpg"
-[[images]]
-title = "Mittagspause am Beetzsee"
-src = "images/Mittagspause_am_Beetzsee.jpg"
-[[images]]
-title = "Zielturm Beetzsee"
-src = "images/Zielturm_Beetzsee.jpg"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Sacrow_Paretzer_Kanal_nach_dem_Regen07.JPG
+  title: Sacrow Paretzer Kanal nach dem Regen07
+- src: images/Ruderboote_beim_Wanderrudertreffen.jpg
+  title: Ruderboote beim Wanderrudertreffen
+- src: images/Sven_und_Stefan.jpg
+  title: Sven und Stefan
+- src: images/Ruderclub_Kleinmachnow_am_Beetzsee.jpg
+  title: Ruderclub Kleinmachnow am Beetzsee
+- src: images/Ruderer_am_Beetzsee_07.JPG
+  title: Ruderer am Beetzsee 07
+- src: images/Steg_an_der_Regattastrecke_Beetzsee.jpg
+  title: Steg an der Regattastrecke Beetzsee
+- src: images/Mittagspause_am_Beetzsee.jpg
+  title: Mittagspause am Beetzsee
+- src: images/Zielturm_Beetzsee.jpg
+  title: Zielturm Beetzsee
+länder: []
+title: Jugend Wanderrudertreffen Brandenburg 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

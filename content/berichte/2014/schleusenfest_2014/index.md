@@ -1,25 +1,21 @@
-+++
-title = "Schleusenfest 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Infostand des Ruderclub KST auf dem Schleusenfest kleinmachnow 2014"
-src = "images/Infostand_des_Ruderclub_KST_auf_dem_Schleusenfest_kleinmachnow_2014.jpg"
-[[images]]
-title = "Kirchboot beim Schleusenfest Kleinmachnow 2014"
-src = "images/Kirchboot_beim_Schleusenfest_Kleinmachnow_2014.jpg"
-[[images]]
-title = "Kirchboot und Dampfer beim Schleusenfest Kleinmachnow 2014"
-src = "images/Kirchboot_und_Dampfer_beim_Schleusenfest_Kleinmachnow_2014.jpg"
-[[images]]
-title = "Ruderboote beim Schleusenfest Kleinmachnow 2014"
-src = "images/Ruderboote_beim_Schleusenfest_Kleinmachnow_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Infostand_des_Ruderclub_KST_auf_dem_Schleusenfest_kleinmachnow_2014.jpg
+  title: Infostand des Ruderclub KST auf dem Schleusenfest kleinmachnow 2014
+- src: images/Kirchboot_beim_Schleusenfest_Kleinmachnow_2014.jpg
+  title: Kirchboot beim Schleusenfest Kleinmachnow 2014
+- src: images/Kirchboot_und_Dampfer_beim_Schleusenfest_Kleinmachnow_2014.jpg
+  title: Kirchboot und Dampfer beim Schleusenfest Kleinmachnow 2014
+- src: images/Ruderboote_beim_Schleusenfest_Kleinmachnow_2014.jpg
+  title: Ruderboote beim Schleusenfest Kleinmachnow 2014
+länder: []
+title: Schleusenfest 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

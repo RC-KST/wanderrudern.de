@@ -1,112 +1,82 @@
-+++
-title = "Elbe Marathon 2023"
-author = ""
-date = 2023-02-02T01:00:00+02:00
-begin = "2023-02-01"
-"gewässer" = ["weser", "elbe", "moldau"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboot auf der Binnenalster 2023"
-src = "images/Ruderboot_auf_der_Binnenalster_2023.jpg"
-[[images]]
-title = "Hamburg Rathaus Ruderboot vom RC KST ELbe 2023"
-src = "images/Hamburg_Rathaus_Ruderboot_vom_RC_KST_ELbe_2023.jpg"
-[[images]]
-title = "Teichwiesen nach 830 km rudern Elbe 2023"
-src = "images/Teichwiesen_nach_830_km_rudern_Elbe_2023.jpg"
-[[images]]
-title = "Fahrtenleiterin mit ihren Osterhasen Elbe 2023"
-src = "images/Fahrtenleiterin_mit_ihren_Osterhasen_Elbe_2023.jpg"
-[[images]]
-title = "Kolin Elbe Marathon 2023"
-src = "images/Kolin_Elbe_Marathon_2023.jpg"
-[[images]]
-title = "Start in Kolin Elbe 2023"
-src = "images/Start_in_Kolin_Elbe_2023.jpg"
-[[images]]
-title = "Elbe Schleuse mit Schloss 2023"
-src = "images/Elbe_Schleuse_mit_Schloss_2023.jpg"
-[[images]]
-title = "Ruderboote in Kolin Elbe 2023"
-src = "images/Ruderboote_in_Kolin_Elbe_2023.jpg"
-[[images]]
-title = "E-Dreier bei Brandys Elbe 2023"
-src = "images/E-Dreier_bei_Brandys_Elbe_2023.jpg"
-[[images]]
-title = "Brandys Ruderverein Quartier Elbe 2023"
-src = "images/Brandys_Ruderverein_Quartier_Elbe_2023.jpg"
-[[images]]
-title = "Fahrtenleiterin Elbe 2023"
-src = "images/Fahrtenleiterin_Elbe_2023.jpg"
-[[images]]
-title = "E-Ruderboote obere Elbe 2023"
-src = "images/E-Ruderboote_obere_Elbe_2023.jpg"
-[[images]]
-title = "Elbe 2023 Melnik"
-src = "images/Elbe_2023_Melnik.jpg"
-[[images]]
-title = "Restaurant in Leitmeritz Elbe 2023"
-src = "images/Restaurant_in_Leitmeritz_Elbe_2023.jpg"
-[[images]]
-title = "Vulkankegel an der Elbe 2023"
-src = "images/Vulkankegel_an_der_Elbe_2023.jpg"
-[[images]]
-title = "Start bei Sonnenaufgang in Litomerice Ruderboote Elbe 2023"
-src = "images/Start_bei_Sonnenaufgang_in_Litomerice_Ruderboote_Elbe_2023.jpg"
-[[images]]
-title = "Elb-Sandsteingebirge Elbe 2023"
-src = "images/Elb-Sandsteingebirge_Elbe_2023.jpg"
-[[images]]
-title = "Schloss Pillnitz Elbe 2023"
-src = "images/Schloss_Pillnitz_Elbe_2023.jpg"
-[[images]]
-title = "Pirna Elbe 2023"
-src = "images/Pirna_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboot in Dresden Elbe 2023"
-src = "images/Ruderboot_in_Dresden_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboote in Torgau im Schnee Elbe 2023"
-src = "images/Ruderboote_in_Torgau_im_Schnee_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboote auf der Elbe Torgau 2023"
-src = "images/Ruderboote_auf_der_Elbe_Torgau_2023.jpg"
-[[images]]
-title = "Steuermann im Schneetreiben Elbe 2023"
-src = "images/Steuermann_im_Schneetreiben_Elbe_2023.jpg"
-[[images]]
-title = "Ruderclub Aken Elbe 2023"
-src = "images/Ruderclub_Aken_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboote in Schneelandschaft Elbe 2023"
-src = "images/Ruderboote_in_Schneelandschaft_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboote im Schnee Aken Elbe 2023"
-src = "images/Ruderboote_im_Schnee_Aken_Elbe_2023.jpg"
-[[images]]
-title = "Lenzen Elbe 2023"
-src = "images/Lenzen_Elbe_2023.jpg"
-[[images]]
-title = "Schnee auf den Streben im Ruderboot Elbe 2023"
-src = "images/Schnee_auf_den_Streben_im_Ruderboot_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboot Pause im Schnee Elbe 2023"
-src = "images/Ruderboot_Pause_im_Schnee_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboot Schleuse Geesthacht 2023"
-src = "images/Ruderboot_Schleuse_Geesthacht_2023.jpg"
-[[images]]
-title = "Hamburg Speicherstadt Elbe 2023"
-src = "images/Hamburg_Speicherstadt_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboot vor dem Spiegel Elbe 2023"
-src = "images/Ruderboot_vor_dem_Spiegel_Elbe_2023.jpg"
-[[images]]
-title = "Ruderboote vom Schnee befreien Elbe 2023"
-src = "images/Ruderboote_vom_Schnee_befreien_Elbe_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-02-01"
+date: "2023-02-02T01:00:00+02:00"
+gewässer:
+- weser
+- elbe
+- moldau
+images:
+- src: images/Ruderboot_auf_der_Binnenalster_2023.jpg
+  title: Ruderboot auf der Binnenalster 2023
+- src: images/Hamburg_Rathaus_Ruderboot_vom_RC_KST_ELbe_2023.jpg
+  title: Hamburg Rathaus Ruderboot vom RC KST ELbe 2023
+- src: images/Teichwiesen_nach_830_km_rudern_Elbe_2023.jpg
+  title: Teichwiesen nach 830 km rudern Elbe 2023
+- src: images/Fahrtenleiterin_mit_ihren_Osterhasen_Elbe_2023.jpg
+  title: Fahrtenleiterin mit ihren Osterhasen Elbe 2023
+- src: images/Kolin_Elbe_Marathon_2023.jpg
+  title: Kolin Elbe Marathon 2023
+- src: images/Start_in_Kolin_Elbe_2023.jpg
+  title: Start in Kolin Elbe 2023
+- src: images/Elbe_Schleuse_mit_Schloss_2023.jpg
+  title: Elbe Schleuse mit Schloss 2023
+- src: images/Ruderboote_in_Kolin_Elbe_2023.jpg
+  title: Ruderboote in Kolin Elbe 2023
+- src: images/E-Dreier_bei_Brandys_Elbe_2023.jpg
+  title: E-Dreier bei Brandys Elbe 2023
+- src: images/Brandys_Ruderverein_Quartier_Elbe_2023.jpg
+  title: Brandys Ruderverein Quartier Elbe 2023
+- src: images/Fahrtenleiterin_Elbe_2023.jpg
+  title: Fahrtenleiterin Elbe 2023
+- src: images/E-Ruderboote_obere_Elbe_2023.jpg
+  title: E-Ruderboote obere Elbe 2023
+- src: images/Elbe_2023_Melnik.jpg
+  title: Elbe 2023 Melnik
+- src: images/Restaurant_in_Leitmeritz_Elbe_2023.jpg
+  title: Restaurant in Leitmeritz Elbe 2023
+- src: images/Vulkankegel_an_der_Elbe_2023.jpg
+  title: Vulkankegel an der Elbe 2023
+- src: images/Start_bei_Sonnenaufgang_in_Litomerice_Ruderboote_Elbe_2023.jpg
+  title: Start bei Sonnenaufgang in Litomerice Ruderboote Elbe 2023
+- src: images/Elb-Sandsteingebirge_Elbe_2023.jpg
+  title: Elb-Sandsteingebirge Elbe 2023
+- src: images/Schloss_Pillnitz_Elbe_2023.jpg
+  title: Schloss Pillnitz Elbe 2023
+- src: images/Pirna_Elbe_2023.jpg
+  title: Pirna Elbe 2023
+- src: images/Ruderboot_in_Dresden_Elbe_2023.jpg
+  title: Ruderboot in Dresden Elbe 2023
+- src: images/Ruderboote_in_Torgau_im_Schnee_Elbe_2023.jpg
+  title: Ruderboote in Torgau im Schnee Elbe 2023
+- src: images/Ruderboote_auf_der_Elbe_Torgau_2023.jpg
+  title: Ruderboote auf der Elbe Torgau 2023
+- src: images/Steuermann_im_Schneetreiben_Elbe_2023.jpg
+  title: Steuermann im Schneetreiben Elbe 2023
+- src: images/Ruderclub_Aken_Elbe_2023.jpg
+  title: Ruderclub Aken Elbe 2023
+- src: images/Ruderboote_in_Schneelandschaft_Elbe_2023.jpg
+  title: Ruderboote in Schneelandschaft Elbe 2023
+- src: images/Ruderboote_im_Schnee_Aken_Elbe_2023.jpg
+  title: Ruderboote im Schnee Aken Elbe 2023
+- src: images/Lenzen_Elbe_2023.jpg
+  title: Lenzen Elbe 2023
+- src: images/Schnee_auf_den_Streben_im_Ruderboot_Elbe_2023.jpg
+  title: Schnee auf den Streben im Ruderboot Elbe 2023
+- src: images/Ruderboot_Pause_im_Schnee_Elbe_2023.jpg
+  title: Ruderboot Pause im Schnee Elbe 2023
+- src: images/Ruderboot_Schleuse_Geesthacht_2023.jpg
+  title: Ruderboot Schleuse Geesthacht 2023
+- src: images/Hamburg_Speicherstadt_Elbe_2023.jpg
+  title: Hamburg Speicherstadt Elbe 2023
+- src: images/Ruderboot_vor_dem_Spiegel_Elbe_2023.jpg
+  title: Ruderboot vor dem Spiegel Elbe 2023
+- src: images/Ruderboote_vom_Schnee_befreien_Elbe_2023.jpg
+  title: Ruderboote vom Schnee befreien Elbe 2023
+länder: []
+title: Elbe Marathon 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

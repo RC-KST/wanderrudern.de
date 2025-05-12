@@ -1,16 +1,15 @@
-+++
-title = "Obmannskurs 2025"
-author = ""
-date = 2025-01-01T01:00:00+02:00
-begin = "2025-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs 2025-1"
-src = "images/Obmannskurs_2025-1.jpg"
-
-+++
+---
+author: ""
+begin: "2025-01-01"
+date: "2025-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_2025-1.jpg
+  title: Obmannskurs 2025-1
+länder: []
+title: Obmannskurs 2025
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

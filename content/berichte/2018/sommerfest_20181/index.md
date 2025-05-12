@@ -1,25 +1,21 @@
-+++
-title = "Kinderfest Familienfest 2018"
-author = ""
-date = 2018-09-09T01:00:00+02:00
-begin = "2018-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sommerfest Ruderclub KST 2018"
-src = "images/Sommerfest_Ruderclub_KST_2018.jpg"
-[[images]]
-title = "Sommerfest beim Ruderclub in Stahnsdorf 2018"
-src = "images/Sommerfest_beim_Ruderclub_in_Stahnsdorf_2018.jpg"
-[[images]]
-title = "Neuer Bootsanhaenger Stahnsdorfer Buergermeister 2018"
-src = "images/Neuer_Bootsanhaenger_Stahnsdorfer_Buergermeister_2018.jpg"
-[[images]]
-title = "Neuer Bootsanhaenger Uebergabe durch BM Albers 2018"
-src = "images/Neuer_Bootsanhaenger_Uebergabe_durch_BM_Albers_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-09-01"
+date: "2018-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Sommerfest_Ruderclub_KST_2018.jpg
+  title: Sommerfest Ruderclub KST 2018
+- src: images/Sommerfest_beim_Ruderclub_in_Stahnsdorf_2018.jpg
+  title: Sommerfest beim Ruderclub in Stahnsdorf 2018
+- src: images/Neuer_Bootsanhaenger_Stahnsdorfer_Buergermeister_2018.jpg
+  title: Neuer Bootsanhaenger Stahnsdorfer Buergermeister 2018
+- src: images/Neuer_Bootsanhaenger_Uebergabe_durch_BM_Albers_2018.jpg
+  title: Neuer Bootsanhaenger Uebergabe durch BM Albers 2018
+länder: []
+title: Kinderfest Familienfest 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

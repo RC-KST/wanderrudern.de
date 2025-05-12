@@ -1,19 +1,19 @@
-+++
-title = "Spandauer Weihnachtsmarkt 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["havel", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote bei Hevella rausnehmen im Graupelschauer 2014"
-src = "images/Boote_bei_Hevella_rausnehmen_im_Graupelschauer_2014.jpg"
-[[images]]
-title = "Ruderboote RC KST im Graupelschauer bei Hevella 2014"
-src = "images/Ruderboote_RC_KST_im_Graupelschauer_bei_Hevella_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- wannsee
+images:
+- src: images/Boote_bei_Hevella_rausnehmen_im_Graupelschauer_2014.jpg
+  title: Boote bei Hevella rausnehmen im Graupelschauer 2014
+- src: images/Ruderboote_RC_KST_im_Graupelschauer_bei_Hevella_2014.jpg
+  title: Ruderboote RC KST im Graupelschauer bei Hevella 2014
+länder: []
+title: Spandauer Weihnachtsmarkt 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

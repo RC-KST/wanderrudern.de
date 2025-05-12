@@ -1,103 +1,84 @@
-+++
-title = "Polenblog 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = ["oder", "bromberger kanal", "weichsel", "nogat", "oberländischer kanal", "czarna hancza", "jagelonen kanal", "jez jezoriak", "po"]
-"länder" = ["deutschland", "polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Thorn Hafen 2015"
-src = "images/Thorn_Hafen_2015.jpg"
-[[images]]
-title = "Ruderboot vor Torun 2015"
-src = "images/Ruderboot_vor_Torun_2015.jpg"
-[[images]]
-title = "Vierer auf der Weichsel bei Bromberg 2015"
-src = "images/Vierer_auf_der_Weichsel_bei_Bromberg_2015.jpg"
-[[images]]
-title = "Girlies auf der Weichsel ruderboot 2015"
-src = "images/Girlies_auf_der_Weichsel_ruderboot_2015.jpg"
-[[images]]
-title = "Abzweig Nogat aus Weichsel 2015"
-src = "images/Abzweig_Nogat_aus_Weichsel_2015.jpg"
-[[images]]
-title = "Nogatschleuse 2015"
-src = "images/Nogatschleuse_2015.jpg"
-[[images]]
-title = "Graudenz verschlammter Hafen Ruderinnen 2015"
-src = "images/Graudenz_verschlammter_Hafen_Ruderinnen_2015.jpg"
-[[images]]
-title = "Ruderboot Unterlauf der Weichsel 2015"
-src = "images/Ruderboot_Unterlauf_der_Weichsel_2015.jpg"
-[[images]]
-title = "Abzweig in Jagelonen Kanal 2015"
-src = "images/Abzweig_in_Jagelonen_Kanal_2015.jpg"
-[[images]]
-title = "Marienburg Ruderer 2015"
-src = "images/Marienburg_Ruderer_2015.jpg"
-[[images]]
-title = "Nogatschleuse Unterlauf 2015"
-src = "images/Nogatschleuse_Unterlauf_2015.jpg"
-[[images]]
-title = "Ruderinnen auf der Nogat 2015"
-src = "images/Ruderinnen_auf_der_Nogat_2015.jpg"
-[[images]]
-title = "Elblag downtown 2015 n"
-src = "images/Elblag_downtown_2015_n.jpg"
-[[images]]
-title = "Elblag Hafen 2015"
-src = "images/Elblag_Hafen_2015.jpg"
-[[images]]
-title = "Jez Druzno Sumpfsee hinter elblag 2015"
-src = "images/Jez_Druzno_Sumpfsee_hinter_elblag_2015.jpg"
-[[images]]
-title = "Schiefe Ebene oberlaendischer kanal 2015"
-src = "images/Schiefe_Ebene_oberlaendischer_kanal_2015.jpg"
-[[images]]
-title = "Schiefe Ebene kanal elblaski 2015"
-src = "images/Schiefe_Ebene_kanal_elblaski_2015.jpg"
-[[images]]
-title = "Bergfahrt mit dem Bootswagen Polen 2015"
-src = "images/Bergfahrt_mit_dem_Bootswagen_Polen_2015.jpg"
-[[images]]
-title = "auf dem Bootswagen angelegt Polen 2015"
-src = "images/auf_dem_Bootswagen_angelegt_Polen_2015.jpg"
-[[images]]
-title = "Gegenverkehr auf der schiefen ebene 2015"
-src = "images/Gegenverkehr_auf_der_schiefen_ebene_2015.jpg"
-[[images]]
-title = "Bootswagen auf der schiefen ebene 2015"
-src = "images/Bootswagen_auf_der_schiefen_ebene_2015.jpg"
-[[images]]
-title = "wieder mal mitten im Sumpf Oberlaendischer kanal 2015"
-src = "images/wieder_mal_mitten_im_Sumpf_Oberlaendischer_kanal_2015.jpg"
-[[images]]
-title = "Rudererquartier in einer Burg Polen 2015"
-src = "images/Rudererquartier_in_einer_Burg_Polen_2015.jpg"
-[[images]]
-title = "Zimmerflucht im Burghotel Polen 2015"
-src = "images/Zimmerflucht_im_Burghotel_Polen_2015.jpg"
-[[images]]
-title = "Jez Jezoriak ruppiges Rudern 2015"
-src = "images/Jez_Jezoriak_ruppiges_Rudern_2015.jpg"
-[[images]]
-title = "Rudern auf der Oberlaendischen Seenplatte 2015"
-src = "images/Rudern_auf_der_Oberlaendischen_Seenplatte_2015.jpg"
-[[images]]
-title = "Quartier in Siemiany Polen 2015"
-src = "images/Quartier_in_Siemiany_Polen_2015.jpg"
-[[images]]
-title = "Restaurant Zikade in Siemiany 2015n"
-src = "images/Restaurant_Zikade_in_Siemiany_2015n.jpg"
-[[images]]
-title = "Ilawa Stadtsee 2015"
-src = "images/Ilawa_Stadtsee_2015.jpg"
-[[images]]
-title = "Oberland karte"
-src = "images/Oberland_karte.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- bromberger kanal
+- weichsel
+- nogat
+- oberländischer kanal
+- czarna hancza
+- jagelonen kanal
+- jez jezoriak
+- po
+images:
+- src: images/Thorn_Hafen_2015.jpg
+  title: Thorn Hafen 2015
+- src: images/Ruderboot_vor_Torun_2015.jpg
+  title: Ruderboot vor Torun 2015
+- src: images/Vierer_auf_der_Weichsel_bei_Bromberg_2015.jpg
+  title: Vierer auf der Weichsel bei Bromberg 2015
+- src: images/Girlies_auf_der_Weichsel_ruderboot_2015.jpg
+  title: Girlies auf der Weichsel ruderboot 2015
+- src: images/Abzweig_Nogat_aus_Weichsel_2015.jpg
+  title: Abzweig Nogat aus Weichsel 2015
+- src: images/Nogatschleuse_2015.jpg
+  title: Nogatschleuse 2015
+- src: images/Graudenz_verschlammter_Hafen_Ruderinnen_2015.jpg
+  title: Graudenz verschlammter Hafen Ruderinnen 2015
+- src: images/Ruderboot_Unterlauf_der_Weichsel_2015.jpg
+  title: Ruderboot Unterlauf der Weichsel 2015
+- src: images/Abzweig_in_Jagelonen_Kanal_2015.jpg
+  title: Abzweig in Jagelonen Kanal 2015
+- src: images/Marienburg_Ruderer_2015.jpg
+  title: Marienburg Ruderer 2015
+- src: images/Nogatschleuse_Unterlauf_2015.jpg
+  title: Nogatschleuse Unterlauf 2015
+- src: images/Ruderinnen_auf_der_Nogat_2015.jpg
+  title: Ruderinnen auf der Nogat 2015
+- src: images/Elblag_downtown_2015_n.jpg
+  title: Elblag downtown 2015 n
+- src: images/Elblag_Hafen_2015.jpg
+  title: Elblag Hafen 2015
+- src: images/Jez_Druzno_Sumpfsee_hinter_elblag_2015.jpg
+  title: Jez Druzno Sumpfsee hinter elblag 2015
+- src: images/Schiefe_Ebene_oberlaendischer_kanal_2015.jpg
+  title: Schiefe Ebene oberlaendischer kanal 2015
+- src: images/Schiefe_Ebene_kanal_elblaski_2015.jpg
+  title: Schiefe Ebene kanal elblaski 2015
+- src: images/Bergfahrt_mit_dem_Bootswagen_Polen_2015.jpg
+  title: Bergfahrt mit dem Bootswagen Polen 2015
+- src: images/auf_dem_Bootswagen_angelegt_Polen_2015.jpg
+  title: auf dem Bootswagen angelegt Polen 2015
+- src: images/Gegenverkehr_auf_der_schiefen_ebene_2015.jpg
+  title: Gegenverkehr auf der schiefen ebene 2015
+- src: images/Bootswagen_auf_der_schiefen_ebene_2015.jpg
+  title: Bootswagen auf der schiefen ebene 2015
+- src: images/wieder_mal_mitten_im_Sumpf_Oberlaendischer_kanal_2015.jpg
+  title: wieder mal mitten im Sumpf Oberlaendischer kanal 2015
+- src: images/Rudererquartier_in_einer_Burg_Polen_2015.jpg
+  title: Rudererquartier in einer Burg Polen 2015
+- src: images/Zimmerflucht_im_Burghotel_Polen_2015.jpg
+  title: Zimmerflucht im Burghotel Polen 2015
+- src: images/Jez_Jezoriak_ruppiges_Rudern_2015.jpg
+  title: Jez Jezoriak ruppiges Rudern 2015
+- src: images/Rudern_auf_der_Oberlaendischen_Seenplatte_2015.jpg
+  title: Rudern auf der Oberlaendischen Seenplatte 2015
+- src: images/Quartier_in_Siemiany_Polen_2015.jpg
+  title: Quartier in Siemiany Polen 2015
+- src: images/Restaurant_Zikade_in_Siemiany_2015n.jpg
+  title: Restaurant Zikade in Siemiany 2015n
+- src: images/Ilawa_Stadtsee_2015.jpg
+  title: Ilawa Stadtsee 2015
+- src: images/Oberland_karte.jpg
+  title: Oberland karte
+länder:
+- deutschland
+- polen
+title: Polenblog 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

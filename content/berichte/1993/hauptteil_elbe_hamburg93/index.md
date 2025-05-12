@@ -1,55 +1,46 @@
-+++
-title = "elbe_Hamburg93"
-author = ""
-date = 1993-10-10T01:00:00+02:00
-begin = "1993-10-01"
-"gewässer" = ["mosel", "aller", "elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ketzin Ruderer im Quartier"
-src = "images/ketzin2.jpg"
-[[images]]
-title = "Franzi in einer Sportschleuse"
-src = "images/franzi_in_schleuse.jpg"
-[[images]]
-title = "Ruderboot treideln auf der Gülper Havel"
-src = "images/treideln.jpg"
-[[images]]
-title = "Nils auf der Elbe Steuermann"
-src = "images/nils_sendemasten.jpg"
-[[images]]
-title = "Ablegen mit Ruderboot vom Elbestrand"
-src = "images/ablegen_strand.jpg"
-[[images]]
-title = "franzi am strand"
-src = "images/franzi_strand.jpg"
-[[images]]
-title = "andre am strand"
-src = "images/andre_strand.jpg"
-[[images]]
-title = "anna am strand"
-src = "images/anna_strand.jpg"
-[[images]]
-title = "nils am strand"
-src = "images/nils_strand.jpg"
-[[images]]
-title = "Fussweg zum Rudererquartier in Dömitz"
-src = "images/doemitz_fu_weg.jpg"
-[[images]]
-title = "sonnenuntergang"
-src = "images/sonnenuntergang.jpg"
-[[images]]
-title = "lauenburg quartier im Ruderclub"
-src = "images/lauenburg_quartier.jpg"
-[[images]]
-title = "andre"
-src = "images/andre.jpg"
-[[images]]
-title = "Hamburg Stadtbesichtigung Ruderer"
-src = "images/hh_strasse.jpg"
-
-+++
+---
+author: ""
+begin: "1993-10-01"
+date: "1993-10-10T01:00:00+02:00"
+gewässer:
+- mosel
+- aller
+- elbe
+- havel
+- plauer see
+images:
+- src: images/ketzin2.jpg
+  title: Ketzin Ruderer im Quartier
+- src: images/franzi_in_schleuse.jpg
+  title: Franzi in einer Sportschleuse
+- src: images/treideln.jpg
+  title: Ruderboot treideln auf der Gülper Havel
+- src: images/nils_sendemasten.jpg
+  title: Nils auf der Elbe Steuermann
+- src: images/ablegen_strand.jpg
+  title: Ablegen mit Ruderboot vom Elbestrand
+- src: images/franzi_strand.jpg
+  title: franzi am strand
+- src: images/andre_strand.jpg
+  title: andre am strand
+- src: images/anna_strand.jpg
+  title: anna am strand
+- src: images/nils_strand.jpg
+  title: nils am strand
+- src: images/doemitz_fu_weg.jpg
+  title: Fussweg zum Rudererquartier in Dömitz
+- src: images/sonnenuntergang.jpg
+  title: sonnenuntergang
+- src: images/lauenburg_quartier.jpg
+  title: lauenburg quartier im Ruderclub
+- src: images/andre.jpg
+  title: andre
+- src: images/hh_strasse.jpg
+  title: Hamburg Stadtbesichtigung Ruderer
+länder: []
+title: elbe_Hamburg93
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

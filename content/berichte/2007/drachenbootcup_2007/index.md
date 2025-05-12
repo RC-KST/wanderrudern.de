@@ -1,79 +1,59 @@
-+++
-title = "Drachenbootcup 2007"
-author = ""
-date = 2007-09-09T01:00:00+02:00
-begin = "2007-09-01"
-"gewässer" = ["oder", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Drachenboot am Steg in Kleinmachnow"
-src = "images/Drachenboot_am_Steg_in_Kleinmachnow.jpg"
-[[images]]
-title = "Mannschaften am Steg DB07"
-src = "images/Mannschaften_am_Steg_DB07.jpg"
-[[images]]
-title = "Wikinger beim Drachenbootcup 07"
-src = "images/Wikinger_beim_Drachenbootcup_07.jpg"
-[[images]]
-title = "Elfen und andere Zuschauer DB07"
-src = "images/Elfen_und_andere_Zuschauer_DB07.jpg"
-[[images]]
-title = "Drachenbootcup Siegerehrung DB07"
-src = "images/Drachenbootcup_Siegerehrung_DB07.jpg"
-[[images]]
-title = "Sieger beim Drachenbootrudern 07"
-src = "images/Sieger_beim_Drachenbootrudern_07.jpg"
-[[images]]
-title = "Siegerehrung Drachenbootrudern 07"
-src = "images/Siegerehrung_Drachenbootrudern_07.jpg"
-[[images]]
-title = "Erster Platz bei den Profis DB07"
-src = "images/Erster_Platz_bei_den_Profis_DB07.jpg"
-[[images]]
-title = "Drachenbootruderer am Steg 07"
-src = "images/Drachenbootruderer_am_Steg_07.jpg"
-[[images]]
-title = "Sandro als Regattasprecher DB07"
-src = "images/Sandro_als_Regattasprecher_DB07.jpg"
-[[images]]
-title = "Zieleinlauf DB07"
-src = "images/Zieleinlauf_DB07.jpg"
-[[images]]
-title = "Wikingerschiff DB07"
-src = "images/Wikingerschiff_DB07.jpg"
-[[images]]
-title = "Wikinger vom Teltower Carneval Club 07"
-src = "images/Wikinger_vom_Teltower_Carneval_Club_07.jpg"
-[[images]]
-title = "Siegerehrung Drachenboot 07"
-src = "images/Siegerehrung_Drachenboot_07.jpg"
-[[images]]
-title = "Wettkampf-2xD-Vierer"
-src = "images/Wettkampf-2xD-Vierer.jpg"
-[[images]]
-title = "Zweiter Platz bei den Profis DB07"
-src = "images/Zweiter_Platz_bei_den_Profis_DB07.jpg"
-[[images]]
-title = "Drachenkopf DB07"
-src = "images/Drachenkopf_DB07.jpg"
-[[images]]
-title = "Siegreiches Ruderboot DB07"
-src = "images/Siegreiches_Ruderboot_DB07.jpg"
-[[images]]
-title = "Wikinger beim Rudern DB07"
-src = "images/Wikinger_beim_Rudern_DB07.jpg"
-[[images]]
-title = "Anzeigetafel DB07"
-src = "images/Anzeigetafel_DB07.jpg"
-[[images]]
-title = "Siegerehrung Drachenbootcup 07"
-src = "images/Siegerehrung_Drachenbootcup_07.jpg"
-[[images]]
-title = "Dritter Platz bei den Profis DB07"
-src = "images/Dritter_Platz_bei_den_Profis_DB07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-09-01"
+date: "2007-09-09T01:00:00+02:00"
+gewässer:
+- oder
+- bug
+images:
+- src: images/Drachenboot_am_Steg_in_Kleinmachnow.jpg
+  title: Drachenboot am Steg in Kleinmachnow
+- src: images/Mannschaften_am_Steg_DB07.jpg
+  title: Mannschaften am Steg DB07
+- src: images/Wikinger_beim_Drachenbootcup_07.jpg
+  title: Wikinger beim Drachenbootcup 07
+- src: images/Elfen_und_andere_Zuschauer_DB07.jpg
+  title: Elfen und andere Zuschauer DB07
+- src: images/Drachenbootcup_Siegerehrung_DB07.jpg
+  title: Drachenbootcup Siegerehrung DB07
+- src: images/Sieger_beim_Drachenbootrudern_07.jpg
+  title: Sieger beim Drachenbootrudern 07
+- src: images/Siegerehrung_Drachenbootrudern_07.jpg
+  title: Siegerehrung Drachenbootrudern 07
+- src: images/Erster_Platz_bei_den_Profis_DB07.jpg
+  title: Erster Platz bei den Profis DB07
+- src: images/Drachenbootruderer_am_Steg_07.jpg
+  title: Drachenbootruderer am Steg 07
+- src: images/Sandro_als_Regattasprecher_DB07.jpg
+  title: Sandro als Regattasprecher DB07
+- src: images/Zieleinlauf_DB07.jpg
+  title: Zieleinlauf DB07
+- src: images/Wikingerschiff_DB07.jpg
+  title: Wikingerschiff DB07
+- src: images/Wikinger_vom_Teltower_Carneval_Club_07.jpg
+  title: Wikinger vom Teltower Carneval Club 07
+- src: images/Siegerehrung_Drachenboot_07.jpg
+  title: Siegerehrung Drachenboot 07
+- src: images/Wettkampf-2xD-Vierer.jpg
+  title: Wettkampf-2xD-Vierer
+- src: images/Zweiter_Platz_bei_den_Profis_DB07.jpg
+  title: Zweiter Platz bei den Profis DB07
+- src: images/Drachenkopf_DB07.jpg
+  title: Drachenkopf DB07
+- src: images/Siegreiches_Ruderboot_DB07.jpg
+  title: Siegreiches Ruderboot DB07
+- src: images/Wikinger_beim_Rudern_DB07.jpg
+  title: Wikinger beim Rudern DB07
+- src: images/Anzeigetafel_DB07.jpg
+  title: Anzeigetafel DB07
+- src: images/Siegerehrung_Drachenbootcup_07.jpg
+  title: Siegerehrung Drachenbootcup 07
+- src: images/Dritter_Platz_bei_den_Profis_DB07.jpg
+  title: Dritter Platz bei den Profis DB07
+länder: []
+title: Drachenbootcup 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

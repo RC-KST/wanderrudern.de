@@ -1,46 +1,37 @@
-+++
-title = "Oder 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["oder"]
-"länder" = ["polen"]
-"typ" = "marathon"
-[[images]]
-title = "Marktplatz Breslau Oder 2012"
-src = "images/Marktplatz_Breslau_Oder_2012.jpg"
-[[images]]
-title = "Ruderinnen Schleuse Rendzina Oder 2012"
-src = "images/Ruderinnen_Schleuse_Rendzina_Oder_2012.jpg"
-[[images]]
-title = "Vierer vor dem Kloster Leubus Oder 2012"
-src = "images/Vierer_vor_dem_Kloster_Leubus_Oder_2012.jpg"
-[[images]]
-title = "Maedchen Oder 2012"
-src = "images/Maedchen_Oder_2012.jpg"
-[[images]]
-title = "Ruderboot auf der Oder 2012"
-src = "images/Ruderboot_auf_der_Oder_2012.jpg"
-[[images]]
-title = "Der achte Zwerg ist wieder da Oder2012"
-src = "images/Der_achte_Zwerg_ist_wieder_da_Oder2012.jpg"
-[[images]]
-title = "Ruderboot Yachthafen Cigacice Oder 2012"
-src = "images/Ruderboot_Yachthafen_Cigacice_Oder_2012.jpg"
-[[images]]
-title = "Bambi am Steuer Oder 2012"
-src = "images/Bambi_am_Steuer_Oder_2012.jpg"
-[[images]]
-title = "Nirina und Claudia am Ruderboot Oder 2012"
-src = "images/Nirina_und_Claudia_am_Ruderboot_Oder_2012.jpg"
-[[images]]
-title = "Kilometer 509 Ruderboot an der Buhne Oder 2012"
-src = "images/Kilometer_509_Ruderboot_an_der_Buhne_Oder_2012.jpg"
-[[images]]
-title = "Frankfurt am Ruderverein Oder 2012"
-src = "images/Frankfurt_am_Ruderverein_Oder_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Marktplatz_Breslau_Oder_2012.jpg
+  title: Marktplatz Breslau Oder 2012
+- src: images/Ruderinnen_Schleuse_Rendzina_Oder_2012.jpg
+  title: Ruderinnen Schleuse Rendzina Oder 2012
+- src: images/Vierer_vor_dem_Kloster_Leubus_Oder_2012.jpg
+  title: Vierer vor dem Kloster Leubus Oder 2012
+- src: images/Maedchen_Oder_2012.jpg
+  title: Maedchen Oder 2012
+- src: images/Ruderboot_auf_der_Oder_2012.jpg
+  title: Ruderboot auf der Oder 2012
+- src: images/Der_achte_Zwerg_ist_wieder_da_Oder2012.jpg
+  title: Der achte Zwerg ist wieder da Oder2012
+- src: images/Ruderboot_Yachthafen_Cigacice_Oder_2012.jpg
+  title: Ruderboot Yachthafen Cigacice Oder 2012
+- src: images/Bambi_am_Steuer_Oder_2012.jpg
+  title: Bambi am Steuer Oder 2012
+- src: images/Nirina_und_Claudia_am_Ruderboot_Oder_2012.jpg
+  title: Nirina und Claudia am Ruderboot Oder 2012
+- src: images/Kilometer_509_Ruderboot_an_der_Buhne_Oder_2012.jpg
+  title: Kilometer 509 Ruderboot an der Buhne Oder 2012
+- src: images/Frankfurt_am_Ruderverein_Oder_2012.jpg
+  title: Frankfurt am Ruderverein Oder 2012
+länder:
+- polen
+title: Oder 2012
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

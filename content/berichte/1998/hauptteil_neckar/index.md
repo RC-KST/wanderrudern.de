@@ -1,31 +1,29 @@
-+++
-title = "neckar"
-author = ""
-date = 1998-01-01T01:00:00+02:00
-begin = "1998-01-01"
-"gewässer" = ["neckar", "oder", "bug"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "barke stuttgart Neckar rudern"
-src = "images/barke_stuttgart.jpg"
-[[images]]
-title = "kai steuer barke Ruderboot neckar"
-src = "images/kai_steuer.jpg"
-[[images]]
-title = "timo rudert alleine eine Barke"
-src = "images/timo_alleine.jpg"
-[[images]]
-title = "aussicht auf die Mosel"
-src = "images/aussicht2.jpg"
-[[images]]
-title = "barke im nebel auf dem Neckar"
-src = "images/barke_nebel.jpg"
-[[images]]
-title = "kahnschleuse heilbronn ruderboot barke"
-src = "images/kahnschleuse_heilbronn.jpg"
-
-+++
+---
+author: ""
+begin: "1998-01-01"
+date: "1998-01-01T01:00:00+02:00"
+gewässer:
+- neckar
+- oder
+- bug
+images:
+- src: images/barke_stuttgart.jpg
+  title: barke stuttgart Neckar rudern
+- src: images/kai_steuer.jpg
+  title: kai steuer barke Ruderboot neckar
+- src: images/timo_alleine.jpg
+  title: timo rudert alleine eine Barke
+- src: images/aussicht2.jpg
+  title: aussicht auf die Mosel
+- src: images/barke_nebel.jpg
+  title: barke im nebel auf dem Neckar
+- src: images/kahnschleuse_heilbronn.jpg
+  title: kahnschleuse heilbronn ruderboot barke
+länder:
+- deutschland
+title: neckar
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

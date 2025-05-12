@@ -1,31 +1,25 @@
-+++
-title = "Pyronale mit Ruderboot 2016"
-author = ""
-date = 2016-05-05T01:00:00+02:00
-begin = "2016-05-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "auf dem Weg zur Pyronale 2016"
-src = "images/auf_dem_Weg_zur_Pyronale_2016.jpg"
-[[images]]
-title = "C5x+ auf dem Weg von der Pyronale 2016"
-src = "images/C5x__auf_dem_Weg_von_der_Pyronale_2016.jpg"
-[[images]]
-title = "Pyronale Feuerwerk 2016-5"
-src = "images/Pyronale_Feuerwerk_2016-5.jpg"
-[[images]]
-title = "Pyronale Feuerwerk 2016-4"
-src = "images/Pyronale_Feuerwerk_2016-4.jpg"
-[[images]]
-title = "Pyronale Feuerwerk 2016"
-src = "images/Pyronale_Feuerwerk_2016.jpg"
-[[images]]
-title = "Pyronale Feuerwerk 2016-2"
-src = "images/Pyronale_Feuerwerk_2016-2.jpg"
-
-+++
+---
+author: ""
+begin: "2016-05-01"
+date: "2016-05-05T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/auf_dem_Weg_zur_Pyronale_2016.jpg
+  title: auf dem Weg zur Pyronale 2016
+- src: images/C5x__auf_dem_Weg_von_der_Pyronale_2016.jpg
+  title: C5x+ auf dem Weg von der Pyronale 2016
+- src: images/Pyronale_Feuerwerk_2016-5.jpg
+  title: Pyronale Feuerwerk 2016-5
+- src: images/Pyronale_Feuerwerk_2016-4.jpg
+  title: Pyronale Feuerwerk 2016-4
+- src: images/Pyronale_Feuerwerk_2016.jpg
+  title: Pyronale Feuerwerk 2016
+- src: images/Pyronale_Feuerwerk_2016-2.jpg
+  title: Pyronale Feuerwerk 2016-2
+länder: []
+title: Pyronale mit Ruderboot 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

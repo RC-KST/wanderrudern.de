@@ -1,40 +1,32 @@
-+++
-title = "Oste Marathon Hemmoor 2013"
-author = ""
-date = 2013-06-06T01:00:00+02:00
-begin = "2013-06-01"
-"gewässer" = ["oste"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Riggern der Boote Hemmoor 2013"
-src = "images/Riggern_der_Boote_Hemmoor_2013.jpg"
-[[images]]
-title = "auf der Oste Hemmoor 2013"
-src = "images/auf_der_Oste_Hemmoor_2013.jpg"
-[[images]]
-title = "Ostesperrwerk Hemmoor 2013"
-src = "images/Ostesperrwerk_Hemmoor_2013.jpg"
-[[images]]
-title = "Pause bei Oste km 70 Hemmoor 2013"
-src = "images/Pause_bei_Oste_km_70_Hemmoor_2013.jpg"
-[[images]]
-title = "Containerfrachter am Osteriff 2013"
-src = "images/Containerfrachter_am_Osteriff_2013.jpg"
-[[images]]
-title = "Brandung vom Containerschiff am Osteriff Hemmoor 2013"
-src = "images/Brandung_vom_Containerschiff_am_Osteriff_Hemmoor_2013.jpg"
-[[images]]
-title = "Viererbesatzung auf dem Osteriff Hemmoor 2013"
-src = "images/Viererbesatzung_auf_dem_Osteriff_Hemmoor_2013.jpg"
-[[images]]
-title = "Oste Hechthausen Hemmoor 2013"
-src = "images/Oste_Hechthausen_Hemmoor_2013.jpg"
-[[images]]
-title = "so sehen Sieger aus Hemmoor 2013"
-src = "images/so_sehen_Sieger_aus_Hemmoor_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-06-01"
+date: "2013-06-06T01:00:00+02:00"
+gewässer:
+- oste
+images:
+- src: images/Riggern_der_Boote_Hemmoor_2013.jpg
+  title: Riggern der Boote Hemmoor 2013
+- src: images/auf_der_Oste_Hemmoor_2013.jpg
+  title: auf der Oste Hemmoor 2013
+- src: images/Ostesperrwerk_Hemmoor_2013.jpg
+  title: Ostesperrwerk Hemmoor 2013
+- src: images/Pause_bei_Oste_km_70_Hemmoor_2013.jpg
+  title: Pause bei Oste km 70 Hemmoor 2013
+- src: images/Containerfrachter_am_Osteriff_2013.jpg
+  title: Containerfrachter am Osteriff 2013
+- src: images/Brandung_vom_Containerschiff_am_Osteriff_Hemmoor_2013.jpg
+  title: Brandung vom Containerschiff am Osteriff Hemmoor 2013
+- src: images/Viererbesatzung_auf_dem_Osteriff_Hemmoor_2013.jpg
+  title: Viererbesatzung auf dem Osteriff Hemmoor 2013
+- src: images/Oste_Hechthausen_Hemmoor_2013.jpg
+  title: Oste Hechthausen Hemmoor 2013
+- src: images/so_sehen_Sieger_aus_Hemmoor_2013.jpg
+  title: so sehen Sieger aus Hemmoor 2013
+länder: []
+title: Oste Marathon Hemmoor 2013
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

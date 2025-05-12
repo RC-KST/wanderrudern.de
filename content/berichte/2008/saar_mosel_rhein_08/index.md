@@ -1,124 +1,96 @@
-+++
-title = "Saar Mosel Rhein 08"
-author = ""
-date = 2008-03-03T01:00:00+02:00
-begin = "2008-03-01"
-"gewässer" = ["rhein", "mosel", "saar", "oste", "oder"]
-"länder" = ["deutschland", "tschechien", "ungarn", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "franzoesischen Aquadukt SMR08"
-src = "images/franzoesischen_Aquadukt_SMR08.jpg"
-[[images]]
-title = "Saarschleuse Lina SMR08"
-src = "images/Saarschleuse_Lina_SMR08.jpg"
-[[images]]
-title = "Saarschleife Sophie Stefan Zweier SMR08"
-src = "images/Saarschleife_Sophie_Stefan_Zweier_SMR08.jpg"
-[[images]]
-title = "Industrie an der Saar SMR08"
-src = "images/Industrie_an_der_Saar_SMR08.jpg"
-[[images]]
-title = "Saarburg Wasserfall SMR08"
-src = "images/Saarburg_Wasserfall_SMR08.jpg"
-[[images]]
-title = "saarburg Ruderer auf dem Weg zur Burg SMR08"
-src = "images/saarburg_Ruderer_auf_dem_Weg_zur_Burg_SMR08.jpg"
-[[images]]
-title = "Weg zur Burg SMR08"
-src = "images/Weg_zur_Burg_SMR08.jpg"
-[[images]]
-title = "Osterfahrt Ruderclub Saarburg SMR08"
-src = "images/Osterfahrt_Ruderclub_Saarburg_SMR08.jpg"
-[[images]]
-title = "Osterfahrt 2008 049"
-src = "images/Osterfahrt_2008_049.jpg"
-[[images]]
-title = "Osterfahrt 2008 072"
-src = "images/Osterfahrt_2008_072.jpg"
-[[images]]
-title = "Porta Nigra SMR08"
-src = "images/Porta_Nigra_SMR08.jpg"
-[[images]]
-title = "Ruderer Porta Nigra SMR08"
-src = "images/Ruderer_Porta_Nigra_SMR08.jpg"
-[[images]]
-title = "Ruderer in Trier SMR08"
-src = "images/Ruderer_in_Trier_SMR08.jpg"
-[[images]]
-title = "Kaiserthermen Trier SMR08"
-src = "images/Kaiserthermen_Trier_SMR08.jpg"
-[[images]]
-title = "Unter den Thermen SMR08"
-src = "images/Unter_den_Thermen_SMR08.jpg"
-[[images]]
-title = "Lina Chrishe rudern SMR08"
-src = "images/Lina_Chrishe_rudern_SMR08.jpg"
-[[images]]
-title = "Moselhochwasser SMR08"
-src = "images/Moselhochwasser_SMR08.jpg"
-[[images]]
-title = "Chrishe SMR08"
-src = "images/Chrishe_SMR08.jpg"
-[[images]]
-title = "Baumgarten Bus in Priesport SMR08"
-src = "images/Baumgarten_Bus_in_Priesport_SMR08.jpg"
-[[images]]
-title = "Ruderer auf der Burg Traben Trabach SMR08"
-src = "images/Ruderer_auf_der_Burg_Traben_Trabach_SMR08.jpg"
-[[images]]
-title = "traben trabach Ruderer auf der Burgruine SMR08"
-src = "images/traben_trabach_Ruderer_auf_der_Burgruine_SMR08.jpg"
-[[images]]
-title = "Traben Trabach SMR08"
-src = "images/Traben_Trabach_SMR08.jpg"
-[[images]]
-title = "Autobahnbruecke Mosel SMR08"
-src = "images/Autobahnbruecke_Mosel_SMR08.jpg"
-[[images]]
-title = "Abkuerzung SMR08"
-src = "images/Abkuerzung_SMR08.jpg"
-[[images]]
-title = "Wanderer SMR08"
-src = "images/Wanderer_SMR08.jpg"
-[[images]]
-title = "Ruderboote im Schnee Burg Cochem SMR08"
-src = "images/Ruderboote_im_Schnee_Burg_Cochem_SMR08.jpg"
-[[images]]
-title = "Sophie bei Sauwetter SMR08"
-src = "images/Sophie_bei_Sauwetter_SMR08.jpg"
-[[images]]
-title = "Schokolade Koeln SMR08"
-src = "images/Schokolade_Koeln_SMR08.jpg"
-[[images]]
-title = "Schokoladenmuseum Koeln SMR08"
-src = "images/Schokoladenmuseum_Koeln_SMR08.jpg"
-[[images]]
-title = "Bischof in Koeln SMR08"
-src = "images/Bischof_in_Koeln_SMR08.jpg"
-[[images]]
-title = "Koelner Dom SMR08"
-src = "images/Koelner_Dom_SMR08.jpg"
-[[images]]
-title = "Im Dom Keoln SMR08"
-src = "images/Im_Dom_Keoln_SMR08.jpg"
-[[images]]
-title = "Ruderer am Koelner Dom SMR08"
-src = "images/Ruderer_am_Koelner_Dom_SMR08.jpg"
-[[images]]
-title = "Malte auf dem Rhein SMR08"
-src = "images/Malte_auf_dem_Rhein_SMR08.jpg"
-[[images]]
-title = "Schiffswellen auf dem Rhein SMR08"
-src = "images/Schiffswellen_auf_dem_Rhein_SMR08.jpg"
-[[images]]
-title = "Frachter auf dem Rhein mit Ruderboot SMR08"
-src = "images/Frachter_auf_dem_Rhein_mit_Ruderboot_SMR08.jpg"
-[[images]]
-title = "Industrie am Rhein SMR08"
-src = "images/Industrie_am_Rhein_SMR08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-03-01"
+date: "2008-03-03T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+- saar
+- oste
+- oder
+images:
+- src: images/franzoesischen_Aquadukt_SMR08.jpg
+  title: franzoesischen Aquadukt SMR08
+- src: images/Saarschleuse_Lina_SMR08.jpg
+  title: Saarschleuse Lina SMR08
+- src: images/Saarschleife_Sophie_Stefan_Zweier_SMR08.jpg
+  title: Saarschleife Sophie Stefan Zweier SMR08
+- src: images/Industrie_an_der_Saar_SMR08.jpg
+  title: Industrie an der Saar SMR08
+- src: images/Saarburg_Wasserfall_SMR08.jpg
+  title: Saarburg Wasserfall SMR08
+- src: images/saarburg_Ruderer_auf_dem_Weg_zur_Burg_SMR08.jpg
+  title: saarburg Ruderer auf dem Weg zur Burg SMR08
+- src: images/Weg_zur_Burg_SMR08.jpg
+  title: Weg zur Burg SMR08
+- src: images/Osterfahrt_Ruderclub_Saarburg_SMR08.jpg
+  title: Osterfahrt Ruderclub Saarburg SMR08
+- src: images/Osterfahrt_2008_049.jpg
+  title: Osterfahrt 2008 049
+- src: images/Osterfahrt_2008_072.jpg
+  title: Osterfahrt 2008 072
+- src: images/Porta_Nigra_SMR08.jpg
+  title: Porta Nigra SMR08
+- src: images/Ruderer_Porta_Nigra_SMR08.jpg
+  title: Ruderer Porta Nigra SMR08
+- src: images/Ruderer_in_Trier_SMR08.jpg
+  title: Ruderer in Trier SMR08
+- src: images/Kaiserthermen_Trier_SMR08.jpg
+  title: Kaiserthermen Trier SMR08
+- src: images/Unter_den_Thermen_SMR08.jpg
+  title: Unter den Thermen SMR08
+- src: images/Lina_Chrishe_rudern_SMR08.jpg
+  title: Lina Chrishe rudern SMR08
+- src: images/Moselhochwasser_SMR08.jpg
+  title: Moselhochwasser SMR08
+- src: images/Chrishe_SMR08.jpg
+  title: Chrishe SMR08
+- src: images/Baumgarten_Bus_in_Priesport_SMR08.jpg
+  title: Baumgarten Bus in Priesport SMR08
+- src: images/Ruderer_auf_der_Burg_Traben_Trabach_SMR08.jpg
+  title: Ruderer auf der Burg Traben Trabach SMR08
+- src: images/traben_trabach_Ruderer_auf_der_Burgruine_SMR08.jpg
+  title: traben trabach Ruderer auf der Burgruine SMR08
+- src: images/Traben_Trabach_SMR08.jpg
+  title: Traben Trabach SMR08
+- src: images/Autobahnbruecke_Mosel_SMR08.jpg
+  title: Autobahnbruecke Mosel SMR08
+- src: images/Abkuerzung_SMR08.jpg
+  title: Abkuerzung SMR08
+- src: images/Wanderer_SMR08.jpg
+  title: Wanderer SMR08
+- src: images/Ruderboote_im_Schnee_Burg_Cochem_SMR08.jpg
+  title: Ruderboote im Schnee Burg Cochem SMR08
+- src: images/Sophie_bei_Sauwetter_SMR08.jpg
+  title: Sophie bei Sauwetter SMR08
+- src: images/Schokolade_Koeln_SMR08.jpg
+  title: Schokolade Koeln SMR08
+- src: images/Schokoladenmuseum_Koeln_SMR08.jpg
+  title: Schokoladenmuseum Koeln SMR08
+- src: images/Bischof_in_Koeln_SMR08.jpg
+  title: Bischof in Koeln SMR08
+- src: images/Koelner_Dom_SMR08.jpg
+  title: Koelner Dom SMR08
+- src: images/Im_Dom_Keoln_SMR08.jpg
+  title: Im Dom Keoln SMR08
+- src: images/Ruderer_am_Koelner_Dom_SMR08.jpg
+  title: Ruderer am Koelner Dom SMR08
+- src: images/Malte_auf_dem_Rhein_SMR08.jpg
+  title: Malte auf dem Rhein SMR08
+- src: images/Schiffswellen_auf_dem_Rhein_SMR08.jpg
+  title: Schiffswellen auf dem Rhein SMR08
+- src: images/Frachter_auf_dem_Rhein_mit_Ruderboot_SMR08.jpg
+  title: Frachter auf dem Rhein mit Ruderboot SMR08
+- src: images/Industrie_am_Rhein_SMR08.jpg
+  title: Industrie am Rhein SMR08
+länder:
+- deutschland
+- tschechien
+- ungarn
+- serbien
+title: Saar Mosel Rhein 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

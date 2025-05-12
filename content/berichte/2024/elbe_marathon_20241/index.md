@@ -1,34 +1,28 @@
-+++
-title = "Elbe Marathon 2024"
-author = ""
-date = 2024-03-03T01:00:00+02:00
-begin = "2024-03-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderer in Pirna Maerz 2024"
-src = "images/Ruderer_in_Pirna_Maerz_2024.jpg"
-[[images]]
-title = "Ruderer in Lovosice 2024"
-src = "images/Ruderer_in_Lovosice_2024.jpg"
-[[images]]
-title = "Bastei Maerz 2024"
-src = "images/Bastei_Maerz_2024.jpg"
-[[images]]
-title = "Dresden Stadtdurchfahrt mit dem RUderboot Maerz 2024"
-src = "images/Dresden_Stadtdurchfahrt_mit_dem_RUderboot_Maerz_2024.jpg"
-[[images]]
-title = "Ruderboot im Elbsandstein Maerz 2024"
-src = "images/Ruderboot_im_Elbsandstein_Maerz_2024.jpg"
-[[images]]
-title = "Burg Schreckenstein mit Ruderboot 2024"
-src = "images/Burg_Schreckenstein_mit_Ruderboot_2024.jpg"
-[[images]]
-title = "Ruderer in Torgau Elbemarathon 2024"
-src = "images/Ruderer_in_Torgau_Elbemarathon_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-03-01"
+date: "2024-03-03T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Ruderer_in_Pirna_Maerz_2024.jpg
+  title: Ruderer in Pirna Maerz 2024
+- src: images/Ruderer_in_Lovosice_2024.jpg
+  title: Ruderer in Lovosice 2024
+- src: images/Bastei_Maerz_2024.jpg
+  title: Bastei Maerz 2024
+- src: images/Dresden_Stadtdurchfahrt_mit_dem_RUderboot_Maerz_2024.jpg
+  title: Dresden Stadtdurchfahrt mit dem RUderboot Maerz 2024
+- src: images/Ruderboot_im_Elbsandstein_Maerz_2024.jpg
+  title: Ruderboot im Elbsandstein Maerz 2024
+- src: images/Burg_Schreckenstein_mit_Ruderboot_2024.jpg
+  title: Burg Schreckenstein mit Ruderboot 2024
+- src: images/Ruderer_in_Torgau_Elbemarathon_2024.jpg
+  title: Ruderer in Torgau Elbemarathon 2024
+länder: []
+title: Elbe Marathon 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

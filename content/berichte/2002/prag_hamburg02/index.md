@@ -1,46 +1,38 @@
-+++
-title = "Prag Hamburg 2002"
-author = ""
-date = 2002-02-02T01:00:00+02:00
-begin = "2002-02-01"
-"gewässer" = ["elbe", "moldau", "nordsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Karlsbrücke Prag"
-src = "images/prag_bruecke02.jpg"
-[[images]]
-title = "Festung Elbe"
-src = "images/festung.jpg"
-[[images]]
-title = "Festung  Elbe"
-src = "images/elbe02_aussicht.jpg"
-[[images]]
-title = "Ruderboot Elbe"
-src = "images/vierer_elbe.jpg"
-[[images]]
-title = "muehlberg"
-src = "images/muehlberg.jpg"
-[[images]]
-title = "ablegen"
-src = "images/ablegen.jpg"
-[[images]]
-title = "hundertwasser"
-src = "images/hundertwasser.jpg"
-[[images]]
-title = "Martina Tangermünde"
-src = "images/martina_stadtmauer.jpg"
-[[images]]
-title = "Tangermünde Überschwemmte Wiesen"
-src = "images/seen.jpg"
-[[images]]
-title = "Vierer Zollkanal Hamburg"
-src = "images/hh1.jpg"
-[[images]]
-title = "Hambuger Hafen Ruderboot Ruderer"
-src = "images/hh_hafen.jpg"
-
-+++
+---
+author: ""
+begin: "2002-02-01"
+date: "2002-02-02T01:00:00+02:00"
+gewässer:
+- elbe
+- moldau
+- nordsee
+images:
+- src: images/prag_bruecke02.jpg
+  title: Karlsbrücke Prag
+- src: images/festung.jpg
+  title: Festung Elbe
+- src: images/elbe02_aussicht.jpg
+  title: Festung  Elbe
+- src: images/vierer_elbe.jpg
+  title: Ruderboot Elbe
+- src: images/muehlberg.jpg
+  title: muehlberg
+- src: images/ablegen.jpg
+  title: ablegen
+- src: images/hundertwasser.jpg
+  title: hundertwasser
+- src: images/martina_stadtmauer.jpg
+  title: Martina Tangermünde
+- src: images/seen.jpg
+  title: Tangermünde Überschwemmte Wiesen
+- src: images/hh1.jpg
+  title: Vierer Zollkanal Hamburg
+- src: images/hh_hafen.jpg
+  title: Hambuger Hafen Ruderboot Ruderer
+länder: []
+title: Prag Hamburg 2002
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

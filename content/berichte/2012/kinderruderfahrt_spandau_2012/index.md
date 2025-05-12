@@ -1,25 +1,24 @@
-+++
-title = "Kinderruderfahrt Spandau 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["havel", "spree", "tegler see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jo und Paul im Zweier Kinderfahrt 2012"
-src = "images/Jo_und_Paul_im_Zweier_Kinderfahrt_2012.jpg"
-[[images]]
-title = "Nirina auf dem Tegler See Kinderfahrt 2012"
-src = "images/Nirina_auf_dem_Tegler_See_Kinderfahrt_2012.jpg"
-[[images]]
-title = "Ablegen Kleinmachnow Kinderfahrt 2012"
-src = "images/Ablegen_Kleinmachnow_Kinderfahrt_2012.jpg"
-[[images]]
-title = "Abendessen kochen Dresdenia 2012"
-src = "images/Abendessen_kochen_Dresdenia_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+- tegler see
+images:
+- src: images/Jo_und_Paul_im_Zweier_Kinderfahrt_2012.jpg
+  title: Jo und Paul im Zweier Kinderfahrt 2012
+- src: images/Nirina_auf_dem_Tegler_See_Kinderfahrt_2012.jpg
+  title: Nirina auf dem Tegler See Kinderfahrt 2012
+- src: images/Ablegen_Kleinmachnow_Kinderfahrt_2012.jpg
+  title: Ablegen Kleinmachnow Kinderfahrt 2012
+- src: images/Abendessen_kochen_Dresdenia_2012.jpg
+  title: Abendessen kochen Dresdenia 2012
+länder: []
+title: Kinderruderfahrt Spandau 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

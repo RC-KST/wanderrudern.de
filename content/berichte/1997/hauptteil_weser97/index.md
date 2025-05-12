@@ -1,22 +1,24 @@
-+++
-title = "Weser 1997"
-author = ""
-date = 1997-04-04T01:00:00+02:00
-begin = "1997-04-01"
-"gewässer" = ["weser", "werra", "aller", "wannsee", "oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "martina_WM97"
-src = "images/martina_WM97.jpg"
-[[images]]
-title = "bremen stadtmusikanten und ruderer"
-src = "images/bremen.jpg"
-[[images]]
-title = "vor bremerhaven an einer Fähre"
-src = "images/bremerhaven.jpg"
-
-+++
+---
+author: ""
+begin: "1997-04-01"
+date: "1997-04-04T01:00:00+02:00"
+gewässer:
+- weser
+- werra
+- aller
+- wannsee
+- oder
+images:
+- src: images/martina_WM97.jpg
+  title: martina_WM97
+- src: images/bremen.jpg
+  title: bremen stadtmusikanten und ruderer
+- src: images/bremerhaven.jpg
+  title: vor bremerhaven an einer Fähre
+länder: []
+title: Weser 1997
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

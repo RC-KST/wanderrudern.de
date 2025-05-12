@@ -1,82 +1,63 @@
-+++
-title = "Inari 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["bug", "porsangenfjord", "inarisee", "ivalojoki"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Napapiiri Arctic Circle Ruderer"
-src = "images/polarkreis.jpg"
-[[images]]
-title = "Mannschaft im Ruderboot gamelt"
-src = "images/vierer_gameln.jpg"
-[[images]]
-title = "Am Ufer des Ivalojoki Ruderboote beladen"
-src = "images/ivalojoki.jpg"
-[[images]]
-title = "mannschaft jachthafen Inari"
-src = "images/mannschaft_jachthafen_Inari00.jpg"
-[[images]]
-title = "Finnischer Yachthafen Ruderboote"
-src = "images/kochen_jachthafen.jpg"
-[[images]]
-title = "Martina rudert auf dem Inari"
-src = "images/martina_schlag.jpg"
-[[images]]
-title = "Badene Ruderer am Inarisee"
-src = "images/inari00_ufer.jpg"
-[[images]]
-title = "sonnenuntergang Inari"
-src = "images/sonnenuntergang_Inari.jpg"
-[[images]]
-title = "Bootsschleppe Inari"
-src = "images/bootswagen.jpg"
-[[images]]
-title = "Stromschnelle Inari treideln"
-src = "images/wildwasser1.jpg"
-[[images]]
-title = "Stromschnelle Inari treideln Ruderboot"
-src = "images/wildwasser4.jpg"
-[[images]]
-title = "Bootsschleppe Inarisee"
-src = "images/bootsschleppe_neu.jpg"
-[[images]]
-title = "Wikingerumtrage am Inari"
-src = "images/umtrage1.jpg"
-[[images]]
-title = "durch Wald und Sumpf mit dem Ruderboot"
-src = "images/umtrage3.jpg"
-[[images]]
-title = "Eishöhle Inari"
-src = "images/eishoehle.jpg"
-[[images]]
-title = "Nicolai mit Eis"
-src = "images/eis.jpg"
-[[images]]
-title = "Ruderer auf dem Gipfel am Inari"
-src = "images/aussicht.jpg"
-[[images]]
-title = "Klettern in den Felsen Inari"
-src = "images/berg_martina_nicolai.jpg"
-[[images]]
-title = "Geert mit Mückennetz"
-src = "images/geert.jpg"
-[[images]]
-title = "Kai sichert die Sauna vor Mücken"
-src = "images/kai_dach.jpg"
-[[images]]
-title = "lagerfeuer Inari"
-src = "images/lagerfeuer_Inari2000.jpg"
-[[images]]
-title = "Steg vor der Eishöhle Inari"
-src = "images/boote_stege.jpg"
-[[images]]
-title = "Endlose Weiten des Inari"
-src = "images/endlose_weiten.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- bug
+- porsangenfjord
+- inarisee
+- ivalojoki
+images:
+- src: images/polarkreis.jpg
+  title: Napapiiri Arctic Circle Ruderer
+- src: images/vierer_gameln.jpg
+  title: Mannschaft im Ruderboot gamelt
+- src: images/ivalojoki.jpg
+  title: Am Ufer des Ivalojoki Ruderboote beladen
+- src: images/mannschaft_jachthafen_Inari00.jpg
+  title: mannschaft jachthafen Inari
+- src: images/kochen_jachthafen.jpg
+  title: Finnischer Yachthafen Ruderboote
+- src: images/martina_schlag.jpg
+  title: Martina rudert auf dem Inari
+- src: images/inari00_ufer.jpg
+  title: Badene Ruderer am Inarisee
+- src: images/sonnenuntergang_Inari.jpg
+  title: sonnenuntergang Inari
+- src: images/bootswagen.jpg
+  title: Bootsschleppe Inari
+- src: images/wildwasser1.jpg
+  title: Stromschnelle Inari treideln
+- src: images/wildwasser4.jpg
+  title: Stromschnelle Inari treideln Ruderboot
+- src: images/bootsschleppe_neu.jpg
+  title: Bootsschleppe Inarisee
+- src: images/umtrage1.jpg
+  title: Wikingerumtrage am Inari
+- src: images/umtrage3.jpg
+  title: durch Wald und Sumpf mit dem Ruderboot
+- src: images/eishoehle.jpg
+  title: Eishöhle Inari
+- src: images/eis.jpg
+  title: Nicolai mit Eis
+- src: images/aussicht.jpg
+  title: Ruderer auf dem Gipfel am Inari
+- src: images/berg_martina_nicolai.jpg
+  title: Klettern in den Felsen Inari
+- src: images/geert.jpg
+  title: Geert mit Mückennetz
+- src: images/kai_dach.jpg
+  title: Kai sichert die Sauna vor Mücken
+- src: images/lagerfeuer_Inari2000.jpg
+  title: lagerfeuer Inari
+- src: images/boote_stege.jpg
+  title: Steg vor der Eishöhle Inari
+- src: images/endlose_weiten.jpg
+  title: Endlose Weiten des Inari
+länder: []
+title: Inari 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

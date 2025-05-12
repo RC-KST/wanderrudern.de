@@ -1,124 +1,94 @@
-+++
-title = "Irland 2019"
-author = ""
-date = 2019-08-08T01:00:00+02:00
-begin = "2019-08-01"
-"gewässer" = ["oder", "lough erne", "erne", "shannon"]
-"länder" = ["frankreich", "belgien", "irland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Cherbourg Bootsanhaenger 2019"
-src = "images/Cherbourg_Bootsanhaenger_2019.jpg"
-[[images]]
-title = "Ruderer Irlandflagge Stena Horizon 2019"
-src = "images/Ruderer_Irlandflagge_Stena_Horizon_2019.jpg"
-[[images]]
-title = "Stena Horizon vor Frankreich 2019"
-src = "images/Stena_Horizon_vor_Frankreich_2019.jpg"
-[[images]]
-title = "Blick auf Enniskillen Erne 2019"
-src = "images/Blick_auf_Enniskillen_Erne_2019.jpg"
-[[images]]
-title = "Einfahrt Ruderclub Enniskillen 2019"
-src = "images/Einfahrt_Ruderclub_Enniskillen_2019.jpg"
-[[images]]
-title = "Burg von Enniskillen Erne 2019"
-src = "images/Burg_von_Enniskillen_Erne_2019.jpg"
-[[images]]
-title = "Westville Appartements Enniskillen Erne 2019"
-src = "images/Westville_Appartements_Enniskillen_Erne_2019.jpg"
-[[images]]
-title = "Portora Ruderclub Enniskillen 2019"
-src = "images/Portora_Ruderclub_Enniskillen_2019.jpg"
-[[images]]
-title = "Ruinen Upper Lough Erne 2019"
-src = "images/Ruinen_Upper_Lough_Erne_2019.jpg"
-[[images]]
-title = "Upper Lough Erne 2019"
-src = "images/Upper_Lough_Erne_2019.jpg"
-[[images]]
-title = "Ruderboote am Upper Lough Erne 2019"
-src = "images/Ruderboote_am_Upper_Lough_Erne_2019.jpg"
-[[images]]
-title = "Eingang zur Kirchenruine White Island 2019"
-src = "images/Eingang_zur_Kirchenruine_White_Island_2019.jpg"
-[[images]]
-title = "White Island Kirchenruine Erne 2019"
-src = "images/White_Island_Kirchenruine_Erne_2019.jpg"
-[[images]]
-title = "White Island Erne 2019"
-src = "images/White_Island_Erne_2019.jpg"
-[[images]]
-title = "Studenten in der Irischen Kneipe Enniskillen 2019"
-src = "images/Studenten_in_der_Irischen_Kneipe_Enniskillen_2019.jpg"
-[[images]]
-title = "Ruderer Irischer Pub Enniskillen 2019"
-src = "images/Ruderer_Irischer_Pub_Enniskillen_2019.jpg"
-[[images]]
-title = "Lower Lough Erne 2019"
-src = "images/Lower_Lough_Erne_2019.jpg"
-[[images]]
-title = "Ruderer auf dem Erne 2019"
-src = "images/Ruderer_auf_dem_Erne_2019.jpg"
-[[images]]
-title = "Crom Castle Bootshaus Erne 2019"
-src = "images/Crom_Castle_Bootshaus_Erne_2019.jpg"
-[[images]]
-title = "Crom Castle Ruinen Erne 2019"
-src = "images/Crom_Castle_Ruinen_Erne_2019.jpg"
-[[images]]
-title = "Belturbet unterhalb Wehr Erne 2019"
-src = "images/Belturbet_unterhalb_Wehr_Erne_2019.jpg"
-[[images]]
-title = "Belturbet Bruecke mit Wildwasser Erne 2019"
-src = "images/Belturbet_Bruecke_mit_Wildwasser_Erne_2019.jpg"
-[[images]]
-title = "Belturbet Kirche Erne 2019"
-src = "images/Belturbet_Kirche_Erne_2019.jpg"
-[[images]]
-title = "Belturbet Abendessen Erne 2019"
-src = "images/Belturbet_Abendessen_Erne_2019.jpg"
-[[images]]
-title = "Shannon Erne Kanal Irland 2019"
-src = "images/Shannon_Erne_Kanal_Irland_2019.jpg"
-[[images]]
-title = "Shannon Erne Kanal Ruderboote vor der Schleuse Irland 2019"
-src = "images/Shannon_Erne_Kanal_Ruderboote_vor_der_Schleuse_Irland_2019.jpg"
-[[images]]
-title = "Uli beim Schleusen am Shannon Erne kanal Irland 2019"
-src = "images/Uli_beim_Schleusen_am_Shannon_Erne_kanal_Irland_2019.jpg"
-[[images]]
-title = "Ballinamore Riversdale Erne 2019"
-src = "images/Ballinamore_Riversdale_Erne_2019.jpg"
-[[images]]
-title = "Ballinamore Wohnzimmer Irland 2019"
-src = "images/Ballinamore_Wohnzimmer_Irland_2019.jpg"
-[[images]]
-title = "Castlefore Lock letzte Schleuse aufwaerts Irland 2019"
-src = "images/Castlefore_Lock_letzte_Schleuse_aufwaerts_Irland_2019.jpg"
-[[images]]
-title = "eine der letzten Schleusen vor dem Shannon Irland 2019"
-src = "images/eine_der_letzten_Schleusen_vor_dem_Shannon_Irland_2019.jpg"
-[[images]]
-title = "Ballyconnell Kanal Bruecke Irland 2019"
-src = "images/Ballyconnell_Kanal_Bruecke_Irland_2019.jpg"
-[[images]]
-title = "Scheitelhaltung Ballinamore Kanal Irland 2019"
-src = "images/Scheitelhaltung_Ballinamore_Kanal_Irland_2019.jpg"
-[[images]]
-title = "Kanalschleuse Ballyconnell Kanal Irland 2019"
-src = "images/Kanalschleuse_Ballyconnell_Kanal_Irland_2019.jpg"
-[[images]]
-title = "Leitrim Pseudo historischer Bau Irland 2019"
-src = "images/Leitrim_Pseudo_historischer_Bau_Irland_2019.jpg"
-[[images]]
-title = "Quartier Carrick Irland 2019"
-src = "images/Quartier_Carrick_Irland_2019.jpg"
-[[images]]
-title = "Carrick am Steg Irland 2019"
-src = "images/Carrick_am_Steg_Irland_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-08-01"
+date: "2019-08-08T01:00:00+02:00"
+gewässer:
+- oder
+- lough erne
+- erne
+- shannon
+images:
+- src: images/Cherbourg_Bootsanhaenger_2019.jpg
+  title: Cherbourg Bootsanhaenger 2019
+- src: images/Ruderer_Irlandflagge_Stena_Horizon_2019.jpg
+  title: Ruderer Irlandflagge Stena Horizon 2019
+- src: images/Stena_Horizon_vor_Frankreich_2019.jpg
+  title: Stena Horizon vor Frankreich 2019
+- src: images/Blick_auf_Enniskillen_Erne_2019.jpg
+  title: Blick auf Enniskillen Erne 2019
+- src: images/Einfahrt_Ruderclub_Enniskillen_2019.jpg
+  title: Einfahrt Ruderclub Enniskillen 2019
+- src: images/Burg_von_Enniskillen_Erne_2019.jpg
+  title: Burg von Enniskillen Erne 2019
+- src: images/Westville_Appartements_Enniskillen_Erne_2019.jpg
+  title: Westville Appartements Enniskillen Erne 2019
+- src: images/Portora_Ruderclub_Enniskillen_2019.jpg
+  title: Portora Ruderclub Enniskillen 2019
+- src: images/Ruinen_Upper_Lough_Erne_2019.jpg
+  title: Ruinen Upper Lough Erne 2019
+- src: images/Upper_Lough_Erne_2019.jpg
+  title: Upper Lough Erne 2019
+- src: images/Ruderboote_am_Upper_Lough_Erne_2019.jpg
+  title: Ruderboote am Upper Lough Erne 2019
+- src: images/Eingang_zur_Kirchenruine_White_Island_2019.jpg
+  title: Eingang zur Kirchenruine White Island 2019
+- src: images/White_Island_Kirchenruine_Erne_2019.jpg
+  title: White Island Kirchenruine Erne 2019
+- src: images/White_Island_Erne_2019.jpg
+  title: White Island Erne 2019
+- src: images/Studenten_in_der_Irischen_Kneipe_Enniskillen_2019.jpg
+  title: Studenten in der Irischen Kneipe Enniskillen 2019
+- src: images/Ruderer_Irischer_Pub_Enniskillen_2019.jpg
+  title: Ruderer Irischer Pub Enniskillen 2019
+- src: images/Lower_Lough_Erne_2019.jpg
+  title: Lower Lough Erne 2019
+- src: images/Ruderer_auf_dem_Erne_2019.jpg
+  title: Ruderer auf dem Erne 2019
+- src: images/Crom_Castle_Bootshaus_Erne_2019.jpg
+  title: Crom Castle Bootshaus Erne 2019
+- src: images/Crom_Castle_Ruinen_Erne_2019.jpg
+  title: Crom Castle Ruinen Erne 2019
+- src: images/Belturbet_unterhalb_Wehr_Erne_2019.jpg
+  title: Belturbet unterhalb Wehr Erne 2019
+- src: images/Belturbet_Bruecke_mit_Wildwasser_Erne_2019.jpg
+  title: Belturbet Bruecke mit Wildwasser Erne 2019
+- src: images/Belturbet_Kirche_Erne_2019.jpg
+  title: Belturbet Kirche Erne 2019
+- src: images/Belturbet_Abendessen_Erne_2019.jpg
+  title: Belturbet Abendessen Erne 2019
+- src: images/Shannon_Erne_Kanal_Irland_2019.jpg
+  title: Shannon Erne Kanal Irland 2019
+- src: images/Shannon_Erne_Kanal_Ruderboote_vor_der_Schleuse_Irland_2019.jpg
+  title: Shannon Erne Kanal Ruderboote vor der Schleuse Irland 2019
+- src: images/Uli_beim_Schleusen_am_Shannon_Erne_kanal_Irland_2019.jpg
+  title: Uli beim Schleusen am Shannon Erne kanal Irland 2019
+- src: images/Ballinamore_Riversdale_Erne_2019.jpg
+  title: Ballinamore Riversdale Erne 2019
+- src: images/Ballinamore_Wohnzimmer_Irland_2019.jpg
+  title: Ballinamore Wohnzimmer Irland 2019
+- src: images/Castlefore_Lock_letzte_Schleuse_aufwaerts_Irland_2019.jpg
+  title: Castlefore Lock letzte Schleuse aufwaerts Irland 2019
+- src: images/eine_der_letzten_Schleusen_vor_dem_Shannon_Irland_2019.jpg
+  title: eine der letzten Schleusen vor dem Shannon Irland 2019
+- src: images/Ballyconnell_Kanal_Bruecke_Irland_2019.jpg
+  title: Ballyconnell Kanal Bruecke Irland 2019
+- src: images/Scheitelhaltung_Ballinamore_Kanal_Irland_2019.jpg
+  title: Scheitelhaltung Ballinamore Kanal Irland 2019
+- src: images/Kanalschleuse_Ballyconnell_Kanal_Irland_2019.jpg
+  title: Kanalschleuse Ballyconnell Kanal Irland 2019
+- src: images/Leitrim_Pseudo_historischer_Bau_Irland_2019.jpg
+  title: Leitrim Pseudo historischer Bau Irland 2019
+- src: images/Quartier_Carrick_Irland_2019.jpg
+  title: Quartier Carrick Irland 2019
+- src: images/Carrick_am_Steg_Irland_2019.jpg
+  title: Carrick am Steg Irland 2019
+länder:
+- frankreich
+- belgien
+- irland
+title: Irland 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

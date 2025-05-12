@@ -1,13 +1,12 @@
-+++
-title = "Bergwandern2004_1"
-author = ""
-date = 2001-01-01T01:00:00+02:00
-begin = "2001-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2001-01-01"
+date: "2001-01-01T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Bergwandern2004_1
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

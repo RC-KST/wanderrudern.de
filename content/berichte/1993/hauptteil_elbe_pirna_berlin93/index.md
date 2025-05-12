@@ -1,58 +1,51 @@
-+++
-title = "elbe_pirna_berlin93"
-author = ""
-date = 1993-01-01T01:00:00+02:00
-begin = "1993-01-01"
-"gewässer" = ["donau", "weser", "elbe", "saale", "havel", "plauer see", "wannsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Frühstück in Pirna am Ruderclub"
-src = "images/fruehstueck.jpg"
-[[images]]
-title = "blaues wunder Steuermann"
-src = "images/blaues_wunder.jpg"
-[[images]]
-title = "dresden Ruderboot"
-src = "images/dresden.jpg"
-[[images]]
-title = "stadtbesichtigung meissen"
-src = "images/stadtbesichtigung.jpg"
-[[images]]
-title = "Vierermannschaft rudernd"
-src = "images/hannes.jpg"
-[[images]]
-title = "in torgau"
-src = "images/intorgau.jpg"
-[[images]]
-title = "Torgau_dc"
-src = "images/Torgau_dc.jpg"
-[[images]]
-title = "Nünchritz Kanuklub"
-src = "images/nuenchritz.jpg"
-[[images]]
-title = "nÃ¼nchritz_essen"
-src = "images/nuenchritz_essen.jpg"
-[[images]]
-title = "imboot"
-src = "images/imboot.jpg"
-[[images]]
-title = "nebel am Elbufer Ruderboot"
-src = "images/nebel.jpg"
-[[images]]
-title = "schleuse oben Ruderboot"
-src = "images/schleuse_oben2.jpg"
-[[images]]
-title = "kochen matze micha"
-src = "images/kochen_matze_micha.jpg"
-[[images]]
-title = "schilfdurchfahrt Ruderboot"
-src = "images/schilfdc.jpg"
-[[images]]
-title = "feier ketzin"
-src = "images/feier.jpg"
-
-+++
+---
+author: ""
+begin: "1993-01-01"
+date: "1993-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- weser
+- elbe
+- saale
+- havel
+- plauer see
+- wannsee
+- oder
+images:
+- src: images/fruehstueck.jpg
+  title: Frühstück in Pirna am Ruderclub
+- src: images/blaues_wunder.jpg
+  title: blaues wunder Steuermann
+- src: images/dresden.jpg
+  title: dresden Ruderboot
+- src: images/stadtbesichtigung.jpg
+  title: stadtbesichtigung meissen
+- src: images/hannes.jpg
+  title: Vierermannschaft rudernd
+- src: images/intorgau.jpg
+  title: in torgau
+- src: images/Torgau_dc.jpg
+  title: Torgau_dc
+- src: images/nuenchritz.jpg
+  title: Nünchritz Kanuklub
+- src: images/nuenchritz_essen.jpg
+  title: nÃ¼nchritz_essen
+- src: images/imboot.jpg
+  title: imboot
+- src: images/nebel.jpg
+  title: nebel am Elbufer Ruderboot
+- src: images/schleuse_oben2.jpg
+  title: schleuse oben Ruderboot
+- src: images/kochen_matze_micha.jpg
+  title: kochen matze micha
+- src: images/schilfdc.jpg
+  title: schilfdurchfahrt Ruderboot
+- src: images/feier.jpg
+  title: feier ketzin
+länder: []
+title: elbe_pirna_berlin93
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

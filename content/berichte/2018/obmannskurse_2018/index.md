@@ -1,22 +1,19 @@
-+++
-title = "Obmannskurse 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs Ruderkasten 2018"
-src = "images/Obmannskurs_Ruderkasten_2018.jpg"
-[[images]]
-title = "Obmannskurs Erwachsene 2018"
-src = "images/Obmannskurs_Erwachsene_2018.jpg"
-[[images]]
-title = "Obmannskurs Jugend 2018"
-src = "images/Obmannskurs_Jugend_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_Ruderkasten_2018.jpg
+  title: Obmannskurs Ruderkasten 2018
+- src: images/Obmannskurs_Erwachsene_2018.jpg
+  title: Obmannskurs Erwachsene 2018
+- src: images/Obmannskurs_Jugend_2018.jpg
+  title: Obmannskurs Jugend 2018
+länder: []
+title: Obmannskurse 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

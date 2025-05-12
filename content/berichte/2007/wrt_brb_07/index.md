@@ -1,19 +1,19 @@
-+++
-title = "Brandenburger Wanderrudertreffen 2007"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["wannsee", "schwielowsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Wanderrudertreffen Brandenburg 07"
-src = "images/Wanderrudertreffen_Brandenburg_07.JPG"
-[[images]]
-title = "Insel Kaelberwerder Rc Kleinmachnow 07"
-src = "images/Insel_Kaelberwerder_Rc_Kleinmachnow_07.JPG"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- wannsee
+- schwielowsee
+images:
+- src: images/Wanderrudertreffen_Brandenburg_07.JPG
+  title: Wanderrudertreffen Brandenburg 07
+- src: images/Insel_Kaelberwerder_Rc_Kleinmachnow_07.JPG
+  title: Insel Kaelberwerder Rc Kleinmachnow 07
+länder: []
+title: Brandenburger Wanderrudertreffen 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

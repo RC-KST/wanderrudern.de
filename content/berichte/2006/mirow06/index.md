@@ -1,19 +1,19 @@
-+++
-title = "Mirow 2006"
-author = ""
-date = 2006-09-09T01:00:00+02:00
-begin = "2006-09-01"
-"gewässer" = ["müritz", "inarisee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Mirow06 bolter kanal ruderboot"
-src = "images/Mirow06_bolterkanal.jpg"
-[[images]]
-title = "Mirow06 mueritz rudern"
-src = "images/Mirow06_mueritz.jpg"
-
-+++
+---
+author: ""
+begin: "2006-09-01"
+date: "2006-09-09T01:00:00+02:00"
+gewässer:
+- müritz
+- inarisee
+images:
+- src: images/Mirow06_bolterkanal.jpg
+  title: Mirow06 bolter kanal ruderboot
+- src: images/Mirow06_mueritz.jpg
+  title: Mirow06 mueritz rudern
+länder: []
+title: Mirow 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

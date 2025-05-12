@@ -1,37 +1,32 @@
-+++
-title = "Werder-Plaue 2019"
-author = ""
-date = 2019-11-11T01:00:00+02:00
-begin = "2019-11-01"
-"gewässer" = ["havel", "plauer see", "trebelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Hans Otto Theater vom Ruderboot 2019"
-src = "images/Hans_Otto_Theater_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Start in Werder November 2019"
-src = "images/Start_in_Werder_November_2019.jpg"
-[[images]]
-title = "Ankunft im Dunkeln in Plaue 2019"
-src = "images/Ankunft_im_Dunkeln_in_Plaue_2019.jpg"
-[[images]]
-title = "Nachtfahrt nach Werder November 2019"
-src = "images/Nachtfahrt_nach_Werder_November_2019.jpg"
-[[images]]
-title = "Potsdam Alte Fahrt im Dunkeln November 2019"
-src = "images/Potsdam_Alte_Fahrt_im_Dunkeln_November_2019.jpg"
-[[images]]
-title = "auf dem Weg zum Malabar November 2019"
-src = "images/auf_dem_Weg_zum_Malabar_November_2019.jpg"
-[[images]]
-title = "Mittagessen Malabar November 2019"
-src = "images/Mittagessen_Malabar_November_2019.jpg"
-[[images]]
-title = "Plaue beim Ruderclub November 2019"
-src = "images/Plaue_beim_Ruderclub_November_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-11-01"
+date: "2019-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- plauer see
+- trebelsee
+images:
+- src: images/Hans_Otto_Theater_vom_Ruderboot_2019.jpg
+  title: Hans Otto Theater vom Ruderboot 2019
+- src: images/Start_in_Werder_November_2019.jpg
+  title: Start in Werder November 2019
+- src: images/Ankunft_im_Dunkeln_in_Plaue_2019.jpg
+  title: Ankunft im Dunkeln in Plaue 2019
+- src: images/Nachtfahrt_nach_Werder_November_2019.jpg
+  title: Nachtfahrt nach Werder November 2019
+- src: images/Potsdam_Alte_Fahrt_im_Dunkeln_November_2019.jpg
+  title: Potsdam Alte Fahrt im Dunkeln November 2019
+- src: images/auf_dem_Weg_zum_Malabar_November_2019.jpg
+  title: auf dem Weg zum Malabar November 2019
+- src: images/Mittagessen_Malabar_November_2019.jpg
+  title: Mittagessen Malabar November 2019
+- src: images/Plaue_beim_Ruderclub_November_2019.jpg
+  title: Plaue beim Ruderclub November 2019
+länder: []
+title: Werder-Plaue 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

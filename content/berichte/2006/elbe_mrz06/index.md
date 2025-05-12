@@ -1,13 +1,14 @@
-+++
-title = "Elbe_Mrz06"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["elbe"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+länder:
+- italien
+title: Elbe_Mrz06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

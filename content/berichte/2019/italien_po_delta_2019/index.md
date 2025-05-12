@@ -1,163 +1,116 @@
-+++
-title = "Italien Po Delta 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["po", "lagune von venedig"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rosenheim am Steg 2019"
-src = "images/Rosenheim_am_Steg_2019.jpg"
-[[images]]
-title = "Bruecke ueber Po 2019"
-src = "images/Bruecke_ueber_Po_2019.jpg"
-[[images]]
-title = "Bootstransport Ca Vendramin Po 2019"
-src = "images/Bootstransport_Ca_Vendramin_Po_2019.jpg"
-[[images]]
-title = "Sonnenuntergang Ca Vendramin Po 2019"
-src = "images/Sonnenuntergang_Ca_Vendramin_Po_2019.jpg"
-[[images]]
-title = "Abendessen Italien Po Delta 2019"
-src = "images/Abendessen_Italien_Po_Delta_2019.jpg"
-[[images]]
-title = "Ablegen in Ostiglia Po 2019"
-src = "images/Ablegen_in_Ostiglia_Po_2019.jpg"
-[[images]]
-title = "Wolly auf dem Po 2019"
-src = "images/Wolly_auf_dem_Po_2019.jpg"
-[[images]]
-title = "Ruderboot Ostiglia Po 2019"
-src = "images/Ruderboot_Ostiglia_Po_2019.jpg"
-[[images]]
-title = "Start in Ostiglia Po 2019"
-src = "images/Start_in_Ostiglia_Po_2019.jpg"
-[[images]]
-title = "Inrigger auf dem Po 2019"
-src = "images/Inrigger_auf_dem_Po_2019.jpg"
-[[images]]
-title = "Blondinen auf dem Po 2019"
-src = "images/Blondinen_auf_dem_Po_2019.jpg"
-[[images]]
-title = "Schiefer Turm am Po 2019"
-src = "images/Schiefer_Turm_am_Po_2019.jpg"
-[[images]]
-title = "Sonnenaufgang Ca Vendramin Po 2019"
-src = "images/Sonnenaufgang_Ca_Vendramin_Po_2019.jpg"
-[[images]]
-title = "Warten im Nebel Po 2019"
-src = "images/Warten_im_Nebel_Po_2019.jpg"
-[[images]]
-title = "Gasse in  Ferarra Po 2019"
-src = "images/Gasse_in__Ferarra_Po_2019.jpg"
-[[images]]
-title = "Weihnachtsmarkt Ferarra Po 2019"
-src = "images/Weihnachtsmarkt_Ferarra_Po_2019.jpg"
-[[images]]
-title = "Kastell in Ferarra Po 2019"
-src = "images/Kastell_in_Ferarra_Po_2019.jpg"
-[[images]]
-title = "Nirina im Schlamm Po 2019"
-src = "images/Nirina_im_Schlamm_Po_2019.jpg"
-[[images]]
-title = "Schlammschlacht am Po 2019"
-src = "images/Schlammschlacht_am_Po_2019.jpg"
-[[images]]
-title = "au dem Po man beachte den Flusskilometer 2019"
-src = "images/au_dem_Po_man_beachte_den_Flusskilometer_2019.jpg"
-[[images]]
-title = "Girlies im Schlamm Po 2019"
-src = "images/Girlies_im_Schlamm_Po_2019.jpg"
-[[images]]
-title = "Landschaft am Po 2019"
-src = "images/Landschaft_am_Po_2019.jpg"
-[[images]]
-title = "Po di Goro 2019"
-src = "images/Po_di_Goro_2019.jpg"
-[[images]]
-title = "Schild Po di Goro 2019"
-src = "images/Schild_Po_di_Goro_2019.jpg"
-[[images]]
-title = "Vegetarierin beim Salamieinkauf Po 2019"
-src = "images/Vegetarierin_beim_Salamieinkauf_Po_2019.jpg"
-[[images]]
-title = "Ruderboot Pontonbrücke Po di Goro 2019"
-src = "images/Ruderboot_Pontonbrucke_Po_di_Goro_2019.jpg"
-[[images]]
-title = "Pontonbruecke schliesst wieder Po 2019"
-src = "images/Pontonbruecke_schliesst_wieder_Po_2019.jpg"
-[[images]]
-title = "Pontonbruecke am Po 2019"
-src = "images/Pontonbruecke_am_Po_2019.jpg"
-[[images]]
-title = "Messer bei LingLing dumme Idee Po 2019"
-src = "images/Messer_bei_LingLing_dumme_Idee_Po_2019.jpg"
-[[images]]
-title = "Fondue zu Silvester Po 2019"
-src = "images/Fondue_zu_Silvester_Po_2019.jpg"
-[[images]]
-title = "Auf dem Weg zur Adria 2019"
-src = "images/Auf_dem_Weg_zur_Adria_2019.jpg"
-[[images]]
-title = "fondue Silvester 2019"
-src = "images/fondue_Silvester_2019.jpg"
-[[images]]
-title = "Aussetzen im Fischereihafen Po 2019"
-src = "images/Aussetzen_im_Fischereihafen_Po_2019.jpg"
-[[images]]
-title = "Silvesterfeuerwerk Po 2019"
-src = "images/Silvesterfeuerwerk_Po_2019.jpg"
-[[images]]
-title = "Lingling als Feuerteufel Po 2019"
-src = "images/Lingling_als_Feuerteufel_Po_2019.jpg"
-[[images]]
-title = "Melina mit Treibgut Po 2020"
-src = "images/Melina_mit_Treibgut_Po_2020.jpg"
-[[images]]
-title = "Inrigger auf der Adria 2020"
-src = "images/Inrigger_auf_der_Adria_2020.jpg"
-[[images]]
-title = "Adriastrand erster Januar 2020"
-src = "images/Adriastrand_erster_Januar_2020.jpg"
-[[images]]
-title = "Adria mit wenig Sicht Po 2020"
-src = "images/Adria_mit_wenig_Sicht_Po_2020.jpg"
-[[images]]
-title = "Boote im Yachthafen Pila Po 2020"
-src = "images/Boote_im_Yachthafen_Pila_Po_2020.jpg"
-[[images]]
-title = "Adriakueste im Januar 2020"
-src = "images/Adriakueste_im_Januar_2020.jpg"
-[[images]]
-title = "Not OP am Steuer Po 2020"
-src = "images/Not_OP_am_Steuer_Po_2020.jpg"
-[[images]]
-title = "Chioggia Kanal 2020"
-src = "images/Chioggia_Kanal_2020.jpg"
-[[images]]
-title = "Ruderer Chioggia 2020"
-src = "images/Ruderer_Chioggia_2020.jpg"
-[[images]]
-title = "Aufladen im Nebel Po 2020"
-src = "images/Aufladen_im_Nebel_Po_2020.jpg"
-[[images]]
-title = "Kanal in Chioggia 2020"
-src = "images/Kanal_in_Chioggia_2020.jpg"
-[[images]]
-title = "Schokolade Chioggia 2020"
-src = "images/Schokolade_Chioggia_2020.jpg"
-[[images]]
-title = "Kirche in Chioggia 2020"
-src = "images/Kirche_in_Chioggia_2020.jpg"
-[[images]]
-title = "Rathaus Chioggia 2020"
-src = "images/Rathaus_Chioggia_2020.jpg"
-[[images]]
-title = "Chioggia Bruecke 2020"
-src = "images/Chioggia_Bruecke_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- po
+- lagune von venedig
+images:
+- src: images/Rosenheim_am_Steg_2019.jpg
+  title: Rosenheim am Steg 2019
+- src: images/Bruecke_ueber_Po_2019.jpg
+  title: Bruecke ueber Po 2019
+- src: images/Bootstransport_Ca_Vendramin_Po_2019.jpg
+  title: Bootstransport Ca Vendramin Po 2019
+- src: images/Sonnenuntergang_Ca_Vendramin_Po_2019.jpg
+  title: Sonnenuntergang Ca Vendramin Po 2019
+- src: images/Abendessen_Italien_Po_Delta_2019.jpg
+  title: Abendessen Italien Po Delta 2019
+- src: images/Ablegen_in_Ostiglia_Po_2019.jpg
+  title: Ablegen in Ostiglia Po 2019
+- src: images/Wolly_auf_dem_Po_2019.jpg
+  title: Wolly auf dem Po 2019
+- src: images/Ruderboot_Ostiglia_Po_2019.jpg
+  title: Ruderboot Ostiglia Po 2019
+- src: images/Start_in_Ostiglia_Po_2019.jpg
+  title: Start in Ostiglia Po 2019
+- src: images/Inrigger_auf_dem_Po_2019.jpg
+  title: Inrigger auf dem Po 2019
+- src: images/Blondinen_auf_dem_Po_2019.jpg
+  title: Blondinen auf dem Po 2019
+- src: images/Schiefer_Turm_am_Po_2019.jpg
+  title: Schiefer Turm am Po 2019
+- src: images/Sonnenaufgang_Ca_Vendramin_Po_2019.jpg
+  title: Sonnenaufgang Ca Vendramin Po 2019
+- src: images/Warten_im_Nebel_Po_2019.jpg
+  title: Warten im Nebel Po 2019
+- src: images/Gasse_in__Ferarra_Po_2019.jpg
+  title: Gasse in  Ferarra Po 2019
+- src: images/Weihnachtsmarkt_Ferarra_Po_2019.jpg
+  title: Weihnachtsmarkt Ferarra Po 2019
+- src: images/Kastell_in_Ferarra_Po_2019.jpg
+  title: Kastell in Ferarra Po 2019
+- src: images/Nirina_im_Schlamm_Po_2019.jpg
+  title: Nirina im Schlamm Po 2019
+- src: images/Schlammschlacht_am_Po_2019.jpg
+  title: Schlammschlacht am Po 2019
+- src: images/au_dem_Po_man_beachte_den_Flusskilometer_2019.jpg
+  title: au dem Po man beachte den Flusskilometer 2019
+- src: images/Girlies_im_Schlamm_Po_2019.jpg
+  title: Girlies im Schlamm Po 2019
+- src: images/Landschaft_am_Po_2019.jpg
+  title: Landschaft am Po 2019
+- src: images/Po_di_Goro_2019.jpg
+  title: Po di Goro 2019
+- src: images/Schild_Po_di_Goro_2019.jpg
+  title: Schild Po di Goro 2019
+- src: images/Vegetarierin_beim_Salamieinkauf_Po_2019.jpg
+  title: Vegetarierin beim Salamieinkauf Po 2019
+- src: images/Ruderboot_Pontonbrucke_Po_di_Goro_2019.jpg
+  title: Ruderboot Pontonbrücke Po di Goro 2019
+- src: images/Pontonbruecke_schliesst_wieder_Po_2019.jpg
+  title: Pontonbruecke schliesst wieder Po 2019
+- src: images/Pontonbruecke_am_Po_2019.jpg
+  title: Pontonbruecke am Po 2019
+- src: images/Messer_bei_LingLing_dumme_Idee_Po_2019.jpg
+  title: Messer bei LingLing dumme Idee Po 2019
+- src: images/Fondue_zu_Silvester_Po_2019.jpg
+  title: Fondue zu Silvester Po 2019
+- src: images/Auf_dem_Weg_zur_Adria_2019.jpg
+  title: Auf dem Weg zur Adria 2019
+- src: images/fondue_Silvester_2019.jpg
+  title: fondue Silvester 2019
+- src: images/Aussetzen_im_Fischereihafen_Po_2019.jpg
+  title: Aussetzen im Fischereihafen Po 2019
+- src: images/Silvesterfeuerwerk_Po_2019.jpg
+  title: Silvesterfeuerwerk Po 2019
+- src: images/Lingling_als_Feuerteufel_Po_2019.jpg
+  title: Lingling als Feuerteufel Po 2019
+- src: images/Melina_mit_Treibgut_Po_2020.jpg
+  title: Melina mit Treibgut Po 2020
+- src: images/Inrigger_auf_der_Adria_2020.jpg
+  title: Inrigger auf der Adria 2020
+- src: images/Adriastrand_erster_Januar_2020.jpg
+  title: Adriastrand erster Januar 2020
+- src: images/Adria_mit_wenig_Sicht_Po_2020.jpg
+  title: Adria mit wenig Sicht Po 2020
+- src: images/Boote_im_Yachthafen_Pila_Po_2020.jpg
+  title: Boote im Yachthafen Pila Po 2020
+- src: images/Adriakueste_im_Januar_2020.jpg
+  title: Adriakueste im Januar 2020
+- src: images/Not_OP_am_Steuer_Po_2020.jpg
+  title: Not OP am Steuer Po 2020
+- src: images/Chioggia_Kanal_2020.jpg
+  title: Chioggia Kanal 2020
+- src: images/Ruderer_Chioggia_2020.jpg
+  title: Ruderer Chioggia 2020
+- src: images/Aufladen_im_Nebel_Po_2020.jpg
+  title: Aufladen im Nebel Po 2020
+- src: images/Kanal_in_Chioggia_2020.jpg
+  title: Kanal in Chioggia 2020
+- src: images/Schokolade_Chioggia_2020.jpg
+  title: Schokolade Chioggia 2020
+- src: images/Kirche_in_Chioggia_2020.jpg
+  title: Kirche in Chioggia 2020
+- src: images/Rathaus_Chioggia_2020.jpg
+  title: Rathaus Chioggia 2020
+- src: images/Chioggia_Bruecke_2020.jpg
+  title: Chioggia Bruecke 2020
+länder:
+- italien
+title: Italien Po Delta 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

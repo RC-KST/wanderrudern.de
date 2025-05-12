@@ -1,25 +1,24 @@
-+++
-title = "Weserberglandrallye 1995"
-author = ""
-date = 1995-01-01T01:00:00+02:00
-begin = "1995-01-01"
-"gewässer" = ["weser", "aller", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "sieger weserbergland"
-src = "images/sieger.jpg"
-[[images]]
-title = "frau tietz mit den siegern"
-src = "images/frautietz.jpg"
-[[images]]
-title = "schwimmer weser in flammen"
-src = "images/schwimmer.jpg"
-[[images]]
-title = "feuerwerk minden ruderer"
-src = "images/feuerwerk.jpg"
-
-+++
+---
+author: ""
+begin: "1995-01-01"
+date: "1995-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- aller
+- oder
+images:
+- src: images/sieger.jpg
+  title: sieger weserbergland
+- src: images/frautietz.jpg
+  title: frau tietz mit den siegern
+- src: images/schwimmer.jpg
+  title: schwimmer weser in flammen
+- src: images/feuerwerk.jpg
+  title: feuerwerk minden ruderer
+länder: []
+title: Weserberglandrallye 1995
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

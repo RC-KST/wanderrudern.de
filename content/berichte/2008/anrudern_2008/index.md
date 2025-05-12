@@ -1,28 +1,24 @@
-+++
-title = "Anrudern 2008"
-author = ""
-date = 2008-01-01T01:00:00+02:00
-begin = "2008-01-01"
-"gewässer" = ["teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anrudern im Regen 08"
-src = "images/Anrudern_im_Regen_08.JPG"
-[[images]]
-title = "Baumgarten C-Vierer Pielisjoki"
-src = "images/Baumgarten_C-Vierer_Pielisjoki.JPG"
-[[images]]
-title = "C-Zweier Ukko"
-src = "images/C-Zweier_Ukko.JPG"
-[[images]]
-title = "Medaillen Brandenburg DRV"
-src = "images/Medaillen_Brandenburg_DRV.JPG"
-[[images]]
-title = "C-Vierer Moldau"
-src = "images/C-Vierer_Moldau.JPG"
-
-+++
+---
+author: ""
+begin: "2008-01-01"
+date: "2008-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+images:
+- src: images/Anrudern_im_Regen_08.JPG
+  title: Anrudern im Regen 08
+- src: images/Baumgarten_C-Vierer_Pielisjoki.JPG
+  title: Baumgarten C-Vierer Pielisjoki
+- src: images/C-Zweier_Ukko.JPG
+  title: C-Zweier Ukko
+- src: images/Medaillen_Brandenburg_DRV.JPG
+  title: Medaillen Brandenburg DRV
+- src: images/C-Vierer_Moldau.JPG
+  title: C-Vierer Moldau
+länder: []
+title: Anrudern 2008
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

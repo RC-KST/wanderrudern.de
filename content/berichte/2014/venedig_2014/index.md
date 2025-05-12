@@ -1,94 +1,70 @@
-+++
-title = "Po Venedig 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["oder", "po"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "markusplatz venedig 2014"
-src = "images/markusplatz_venedig_2014.jpg"
-[[images]]
-title = "canale grande von rialto aus 2014"
-src = "images/canale_grande_von_rialto_aus_2014.jpg"
-[[images]]
-title = "platz in venedig 2014"
-src = "images/platz_in_venedig_2014.jpg"
-[[images]]
-title = "fassadenkletterer venedig 2014"
-src = "images/fassadenkletterer_venedig_2014.jpg"
-[[images]]
-title = "Ruderboote Punta Sabbioni 2014"
-src = "images/Ruderboote_Punta_Sabbioni_2014.jpg"
-[[images]]
-title = "Vierer in der Lagunenlandschaft Venedig 2014"
-src = "images/Vierer_in_der_Lagunenlandschaft_Venedig_2014.jpg"
-[[images]]
-title = "mittagspause mitten in der lagune 2014"
-src = "images/mittagspause_mitten_in_der_lagune_2014.jpg"
-[[images]]
-title = "vierer auf der lagune von venedig 2014"
-src = "images/vierer_auf_der_lagune_von_venedig_2014.jpg"
-[[images]]
-title = "harte Ruderer Venedig 2014"
-src = "images/harte_Ruderer_Venedig_2014.jpg"
-[[images]]
-title = "burano schiefer turm 2014"
-src = "images/burano_schiefer_turm_2014.jpg"
-[[images]]
-title = "Ruderer in Burano 2014"
-src = "images/Ruderer_in_Burano_2014.jpg"
-[[images]]
-title = "burano mit dem ruderboot 2014"
-src = "images/burano_mit_dem_ruderboot_2014.jpg"
-[[images]]
-title = "kinderspielplatz burano 2014"
-src = "images/kinderspielplatz_burano_2014.jpg"
-[[images]]
-title = "inrigger in burano 2014"
-src = "images/inrigger_in_burano_2014.jpg"
-[[images]]
-title = "anfahrt auf murano 2014"
-src = "images/anfahrt_auf_murano_2014.jpg"
-[[images]]
-title = "glasskulptur murano 2014"
-src = "images/glasskulptur_murano_2014.jpg"
-[[images]]
-title = "quer durch murano 2014"
-src = "images/quer_durch_murano_2014.jpg"
-[[images]]
-title = "auf dem weg zum canale grande venedig 2014"
-src = "images/auf_dem_weg_zum_canale_grande_venedig_2014.jpg"
-[[images]]
-title = "jo auf dem canale grande 2014"
-src = "images/jo_auf_dem_canale_grande_2014.jpg"
-[[images]]
-title = "abends am strand von punta sabbioni 2014"
-src = "images/abends_am_strand_von_punta_sabbioni_2014.jpg"
-[[images]]
-title = "franzoesisches abendessen in venedig 2014"
-src = "images/franzoesisches_abendessen_in_venedig_2014.jpg"
-[[images]]
-title = "ruderboote auf der adira bei jesolo 2014"
-src = "images/ruderboote_auf_der_adira_bei_jesolo_2014.jpg"
-[[images]]
-title = "lido jesolo ruderboote am strand 2014"
-src = "images/lido_jesolo_ruderboote_am_strand_2014.jpg"
-[[images]]
-title = "boote waschen punta sabbioni 2014"
-src = "images/boote_waschen_punta_sabbioni_2014.jpg"
-[[images]]
-title = "venedigs kanaele 2014"
-src = "images/venedigs_kanaele_2014.jpg"
-[[images]]
-title = "canale grande aml letzten tag 2014"
-src = "images/canale_grande_aml_letzten_tag_2014.jpg"
-[[images]]
-title = "ruderboot vor der rialto bruecke venedig 2014"
-src = "images/ruderboot_vor_der_rialto_bruecke_venedig_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- po
+images:
+- src: images/markusplatz_venedig_2014.jpg
+  title: markusplatz venedig 2014
+- src: images/canale_grande_von_rialto_aus_2014.jpg
+  title: canale grande von rialto aus 2014
+- src: images/platz_in_venedig_2014.jpg
+  title: platz in venedig 2014
+- src: images/fassadenkletterer_venedig_2014.jpg
+  title: fassadenkletterer venedig 2014
+- src: images/Ruderboote_Punta_Sabbioni_2014.jpg
+  title: Ruderboote Punta Sabbioni 2014
+- src: images/Vierer_in_der_Lagunenlandschaft_Venedig_2014.jpg
+  title: Vierer in der Lagunenlandschaft Venedig 2014
+- src: images/mittagspause_mitten_in_der_lagune_2014.jpg
+  title: mittagspause mitten in der lagune 2014
+- src: images/vierer_auf_der_lagune_von_venedig_2014.jpg
+  title: vierer auf der lagune von venedig 2014
+- src: images/harte_Ruderer_Venedig_2014.jpg
+  title: harte Ruderer Venedig 2014
+- src: images/burano_schiefer_turm_2014.jpg
+  title: burano schiefer turm 2014
+- src: images/Ruderer_in_Burano_2014.jpg
+  title: Ruderer in Burano 2014
+- src: images/burano_mit_dem_ruderboot_2014.jpg
+  title: burano mit dem ruderboot 2014
+- src: images/kinderspielplatz_burano_2014.jpg
+  title: kinderspielplatz burano 2014
+- src: images/inrigger_in_burano_2014.jpg
+  title: inrigger in burano 2014
+- src: images/anfahrt_auf_murano_2014.jpg
+  title: anfahrt auf murano 2014
+- src: images/glasskulptur_murano_2014.jpg
+  title: glasskulptur murano 2014
+- src: images/quer_durch_murano_2014.jpg
+  title: quer durch murano 2014
+- src: images/auf_dem_weg_zum_canale_grande_venedig_2014.jpg
+  title: auf dem weg zum canale grande venedig 2014
+- src: images/jo_auf_dem_canale_grande_2014.jpg
+  title: jo auf dem canale grande 2014
+- src: images/abends_am_strand_von_punta_sabbioni_2014.jpg
+  title: abends am strand von punta sabbioni 2014
+- src: images/franzoesisches_abendessen_in_venedig_2014.jpg
+  title: franzoesisches abendessen in venedig 2014
+- src: images/ruderboote_auf_der_adira_bei_jesolo_2014.jpg
+  title: ruderboote auf der adira bei jesolo 2014
+- src: images/lido_jesolo_ruderboote_am_strand_2014.jpg
+  title: lido jesolo ruderboote am strand 2014
+- src: images/boote_waschen_punta_sabbioni_2014.jpg
+  title: boote waschen punta sabbioni 2014
+- src: images/venedigs_kanaele_2014.jpg
+  title: venedigs kanaele 2014
+- src: images/canale_grande_aml_letzten_tag_2014.jpg
+  title: canale grande aml letzten tag 2014
+- src: images/ruderboot_vor_der_rialto_bruecke_venedig_2014.jpg
+  title: ruderboot vor der rialto bruecke venedig 2014
+länder:
+- italien
+title: Po Venedig 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

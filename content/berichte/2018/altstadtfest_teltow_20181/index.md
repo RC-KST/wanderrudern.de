@@ -1,16 +1,15 @@
-+++
-title = "Altstadtfest Teltow 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Altstadtfest Teltow 2018"
-src = "images/Altstadtfest_Teltow_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Altstadtfest_Teltow_2018.jpg
+  title: Altstadtfest Teltow 2018
+länder: []
+title: Altstadtfest Teltow 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

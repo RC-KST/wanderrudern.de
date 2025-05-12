@@ -1,34 +1,28 @@
-+++
-title = "Litomerice - Pirna 2022"
-author = ""
-date = 2022-01-01T01:00:00+02:00
-begin = "2022-01-01"
-"gewässer" = []
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Steuermann Elbe Elbsandsteingebirge 2022"
-src = "images/Steuermann_Elbe_Elbsandsteingebirge_2022.jpg"
-[[images]]
-title = "Start in Lovosice Elbe 2022"
-src = "images/Start_in_Lovosice_Elbe_2022.jpg"
-[[images]]
-title = "Verschneites RUderboot Decin 2022"
-src = "images/Verschneites_RUderboot_Decin_2022.jpg"
-[[images]]
-title = "Ruderboote Lovosice Elbe 2022"
-src = "images/Ruderboote_Lovosice_Elbe_2022.jpg"
-[[images]]
-title = "Ruderer Burg Schreckenstein Elbe 2022"
-src = "images/Ruderer_Burg_Schreckenstein_Elbe_2022.jpg"
-[[images]]
-title = "Rudern durch Decin Elbe 2022"
-src = "images/Rudern_durch_Decin_Elbe_2022.jpg"
-[[images]]
-title = "Ruderer Elbsandsteingebirge Elbe 2022"
-src = "images/Ruderer_Elbsandsteingebirge_Elbe_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-01-01"
+date: "2022-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Steuermann_Elbe_Elbsandsteingebirge_2022.jpg
+  title: Steuermann Elbe Elbsandsteingebirge 2022
+- src: images/Start_in_Lovosice_Elbe_2022.jpg
+  title: Start in Lovosice Elbe 2022
+- src: images/Verschneites_RUderboot_Decin_2022.jpg
+  title: Verschneites RUderboot Decin 2022
+- src: images/Ruderboote_Lovosice_Elbe_2022.jpg
+  title: Ruderboote Lovosice Elbe 2022
+- src: images/Ruderer_Burg_Schreckenstein_Elbe_2022.jpg
+  title: Ruderer Burg Schreckenstein Elbe 2022
+- src: images/Rudern_durch_Decin_Elbe_2022.jpg
+  title: Rudern durch Decin Elbe 2022
+- src: images/Ruderer_Elbsandsteingebirge_Elbe_2022.jpg
+  title: Ruderer Elbsandsteingebirge Elbe 2022
+länder:
+- deutschland
+title: Litomerice - Pirna 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

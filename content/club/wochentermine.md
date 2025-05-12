@@ -1,4 +1,4 @@
-+++
-title = "Wochentermine"
-weight = 40
-+++
+---
+title: Wochentermine
+weight: 40
+---

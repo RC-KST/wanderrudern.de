@@ -1,13 +1,14 @@
-+++
-title = "Wesermarathon 2005"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+länder: []
+title: Wesermarathon 2005
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

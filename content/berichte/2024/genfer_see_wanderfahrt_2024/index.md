@@ -1,48 +1,40 @@
-+++
-title = "Wanderfahrt Genfer See"
-author = ""
-date = 2024-10-11
-begin = "2024-09-01"
-"gewässer" = ["lac leman"]
-"länder" = ["frankreich", "schweiz"]
-"typ" = "marathon"
-[[images]]
-title = "Shoppen bei Aldi mit dem Bootsanhänger Genfer See 2024"
-src = "images/Shoppen_bei_Aldi_mit_dem_Bootsanhanger_Genfer_See_2024.jpg"
-[[images]]
-title = "Ruderboot von oben Genfer See 2024"
-src = "images/Ruderboot_von_oben_Genfer_See_2024.jpg"
-[[images]]
-title = "Ruderboot Genfer See 2024"
-src = "images/Ruderboot_Genfer_See_2024.jpg"
-[[images]]
-title = "Port Valais Ruderboot Genfer See 2024"
-src = "images/Port_Valais_Ruderboot_Genfer_See_2024.jpg"
-[[images]]
-title = "Start am Genfer See mit Ruderbooten 2024"
-src = "images/Start_am_Genfer_See_mit_Ruderbooten_2024.jpg"
-[[images]]
-title = "Ruderboot vor der Rhone Mündung Genfer See 2024"
-src = "images/Ruderboot_vor_der_Rhone_Mundung_Genfer_See_2024.jpg"
-[[images]]
-title = "Genfer See Französisches Ufer 2024"
-src = "images/Genfer_See_Franzosisches_Ufer_2024.jpg"
-[[images]]
-title = "Genfer See Rudern 2024"
-src = "images/Genfer_See_Rudern_2024.jpg"
-[[images]]
-title = "Bergkulisse Genfer See 2024"
-src = "images/Bergkulisse_Genfer_See_2024.jpg"
-[[images]]
-title = "Skulptur CERN Genf 2024"
-src = "images/Skulptur_CERN_Genf_2024.jpg"
-[[images]]
-title = "Nerds vom CERN in Genf 2024"
-src = "images/Nerds_vom_CERN_in_Genf_2024.jpg"
-[[images]]
-title = "Ruderer Bucht von Genf 2024"
-src = "images/Ruderer_Bucht_von_Genf_2024.jpg"
-+++
+---
+author: ""
+begin: "2024-09-01"
+date: "2024-10-11"
+gewässer:
+- lac leman
+images:
+- src: images/Shoppen_bei_Aldi_mit_dem_Bootsanhanger_Genfer_See_2024.jpg
+  title: Shoppen bei Aldi mit dem Bootsanhänger Genfer See 2024
+- src: images/Ruderboot_von_oben_Genfer_See_2024.jpg
+  title: Ruderboot von oben Genfer See 2024
+- src: images/Ruderboot_Genfer_See_2024.jpg
+  title: Ruderboot Genfer See 2024
+- src: images/Port_Valais_Ruderboot_Genfer_See_2024.jpg
+  title: Port Valais Ruderboot Genfer See 2024
+- src: images/Start_am_Genfer_See_mit_Ruderbooten_2024.jpg
+  title: Start am Genfer See mit Ruderbooten 2024
+- src: images/Ruderboot_vor_der_Rhone_Mundung_Genfer_See_2024.jpg
+  title: Ruderboot vor der Rhone Mündung Genfer See 2024
+- src: images/Genfer_See_Franzosisches_Ufer_2024.jpg
+  title: Genfer See Französisches Ufer 2024
+- src: images/Genfer_See_Rudern_2024.jpg
+  title: Genfer See Rudern 2024
+- src: images/Bergkulisse_Genfer_See_2024.jpg
+  title: Bergkulisse Genfer See 2024
+- src: images/Skulptur_CERN_Genf_2024.jpg
+  title: Skulptur CERN Genf 2024
+- src: images/Nerds_vom_CERN_in_Genf_2024.jpg
+  title: Nerds vom CERN in Genf 2024
+- src: images/Ruderer_Bucht_von_Genf_2024.jpg
+  title: Ruderer Bucht von Genf 2024
+länder:
+- frankreich
+- schweiz
+title: Wanderfahrt Genfer See
+typ: marathon
+---
 
 Direkt im Anschluss an das Wanderrudertreffen in Regensburg fuhr der Bootsanhänger weiter nach Süden. Nach einer Übernachtung in Bregenz erreichten wir Excenevex am Genfer See. Dieser Ort liegt kurz vor der Schweizer Grenze am französischen Ufer.
 

@@ -1,28 +1,25 @@
-+++
-title = "Anrudern2007 Friedrichshagen"
-author = ""
-date = 2007-03-03T01:00:00+02:00
-begin = "2007-03-01"
-"gewässer" = ["dahme", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer bei KWO BA07"
-src = "images/Ruderer_bei_KWO_BA07.jpg"
-[[images]]
-title = "Kleinmachnower Ruderer bei Aegir BA07"
-src = "images/Kleinmachnower_Ruderer_bei_Aegir_BA07.jpg"
-[[images]]
-title = "Friedrichshagen Anrudern BA07"
-src = "images/Friedrichshagen_Anrudern_BA07.jpg"
-[[images]]
-title = "auf der Spree BA07"
-src = "images/auf_der_Spree_BA07.jpg"
-[[images]]
-title = "Patrick Schleuse Kleinmachnow BA07"
-src = "images/Patrick_Schleuse_Kleinmachnow_BA07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-03-01"
+date: "2007-03-03T01:00:00+02:00"
+gewässer:
+- dahme
+- teltowkanal
+images:
+- src: images/Ruderer_bei_KWO_BA07.jpg
+  title: Ruderer bei KWO BA07
+- src: images/Kleinmachnower_Ruderer_bei_Aegir_BA07.jpg
+  title: Kleinmachnower Ruderer bei Aegir BA07
+- src: images/Friedrichshagen_Anrudern_BA07.jpg
+  title: Friedrichshagen Anrudern BA07
+- src: images/auf_der_Spree_BA07.jpg
+  title: auf der Spree BA07
+- src: images/Patrick_Schleuse_Kleinmachnow_BA07.jpg
+  title: Patrick Schleuse Kleinmachnow BA07
+länder: []
+title: Anrudern2007 Friedrichshagen
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

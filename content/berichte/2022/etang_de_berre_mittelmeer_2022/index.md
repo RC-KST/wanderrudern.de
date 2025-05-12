@@ -1,211 +1,151 @@
-+++
-title = "Etang de Berre Mittelmeer 2022"
-author = ""
-date = 2022-10-10T01:00:00+02:00
-begin = "2022-10-01"
-"gewässer" = ["oder", "rhone", "mittelmeer", "etang de berre"]
-"länder" = ["deutschland", "frankreich"]
-"typ" = "marathon"
-[[images]]
-title = "Girlies im Quartier La Couronne Marseille 2022"
-src = "images/Girlies_im_Quartier_La_Couronne_Marseille_2022.jpg"
-[[images]]
-title = "Ruderclub Martiques Marseille 2022"
-src = "images/Ruderclub_Martiques_Marseille_2022.jpg"
-[[images]]
-title = "Ruderboote einsetzen in Martiques 2022"
-src = "images/Ruderboote_einsetzen_in_Martiques_2022.jpg"
-[[images]]
-title = "Etang de Berre Ruderboote Marseille 2022"
-src = "images/Etang_de_Berre_Ruderboote_Marseille_2022.jpg"
-[[images]]
-title = "Ruderboot Etang de Berre Wanderfahrt Südfrankreich 2022"
-src = "images/Ruderboot_Etang_de_Berre_Wanderfahrt_Sudfrankreich_2022.jpg"
-[[images]]
-title = "Planespotting vom Ruderboot Marseille Airport 2022"
-src = "images/Planespotting_vom_Ruderboot_Marseille_Airport_2022.jpg"
-[[images]]
-title = "Gasfrachter Etang de Berre 2022"
-src = "images/Gasfrachter_Etang_de_Berre_2022.jpg"
-[[images]]
-title = "Baumgarten Inrigger Etang de Berre 2022"
-src = "images/Baumgarten_Inrigger_Etang_de_Berre_2022.jpg"
-[[images]]
-title = "Etang de Berre Mittagspause der Ruderer 2022"
-src = "images/Etang_de_Berre_Mittagspause_der_Ruderer_2022.jpg"
-[[images]]
-title = "Etang de Berre Selfie vom Fahrtenleiter 2022"
-src = "images/Etang_de_Berre_Selfie_vom_Fahrtenleiter_2022.jpg"
-[[images]]
-title = "Ruderboot Altstadt von Martigues Frankreich 2022"
-src = "images/Ruderboot_Altstadt_von_Martigues_Frankreich_2022.jpg"
-[[images]]
-title = "Ruderer Mittagspause Rognac Frankreichwanderfahrt 2022"
-src = "images/Ruderer_Mittagspause_Rognac_Frankreichwanderfahrt_2022.jpg"
-[[images]]
-title = "Baumgarten Coastal Einer in der Einflugschneise Marseille Flughafen 2022"
-src = "images/Baumgarten_Coastal_Einer_in_der_Einflugschneise_Marseille_Flughafen_2022.jpg"
-[[images]]
-title = "Abendessen in La Couronne Mittelmeer 2022"
-src = "images/Abendessen_in_La_Couronne_Mittelmeer_2022.jpg"
-[[images]]
-title = "Ruderboot auf dem Canal de Caronte Mittelmeer 2022"
-src = "images/Ruderboot_auf_dem_Canal_de_Caronte_Mittelmeer_2022.jpg"
-[[images]]
-title = "Port de Buc mit dem Ruderboot 2022"
-src = "images/Port_de_Buc_mit_dem_Ruderboot_2022.jpg"
-[[images]]
-title = "Badestrand von La Couronne Mittelmeer 2022"
-src = "images/Badestrand_von_La_Couronne_Mittelmeer_2022.jpg"
-[[images]]
-title = "Chateau d´If vom Ruderboot aus Marseille 2022"
-src = "images/Chateau_d_If_vom_Ruderboot_aus_Marseille_2022.jpg"
-[[images]]
-title = "Marseille Algerien nicht mit Ruderbooten 2022"
-src = "images/Marseille_Algerien_nicht_mit_Ruderbooten_2022.jpg"
-[[images]]
-title = "Luftangriff von Löschflugzeugen auf die Ruderboote Marseille 2022"
-src = "images/Luftangriff_von_Loschflugzeugen_auf_die_Ruderboote_Marseille_2022.jpg"
-[[images]]
-title = "Marseille Panorama vom Ruderboot gesehen 2022"
-src = "images/Marseille_Panorama_vom_Ruderboot_gesehen_2022.jpg"
-[[images]]
-title = "Edmond Dantes auf dem Weg nach Chateau d´If 2022"
-src = "images/Edmond_Dantes_auf_dem_Weg_nach_Chateau_d_If_2022.jpg"
-[[images]]
-title = "Ruderer warten am Strand in Marseille 2022"
-src = "images/Ruderer_warten_am_Strand_in_Marseille_2022.jpg"
-[[images]]
-title = "Rudern nach Marseille downtown 2022"
-src = "images/Rudern_nach_Marseille_downtown_2022.jpg"
-[[images]]
-title = "Marseille Ruderboot im kleinen Hafen 2022"
-src = "images/Marseille_Ruderboot_im_kleinen_Hafen_2022.jpg"
-[[images]]
-title = "Marseille Hafeneinfahrt 2022"
-src = "images/Marseille_Hafeneinfahrt_2022.jpg"
-[[images]]
-title = "Marseille alter Hafen 2022"
-src = "images/Marseille_alter_Hafen_2022.jpg"
-[[images]]
-title = "Marseille Umrundung der Inseln mit dem Ruderboot 2022"
-src = "images/Marseille_Umrundung_der_Inseln_mit_dem_Ruderboot_2022.jpg"
-[[images]]
-title = "Feier zu Simones halben Äquatorpreis 2022"
-src = "images/Feier_zu_Simones_halben_Aquatorpreis_2022.jpg"
-[[images]]
-title = "Inrigger auf dem Mittelmeer 2022"
-src = "images/Inrigger_auf_dem_Mittelmeer_2022.jpg"
-[[images]]
-title = "Umrundung von Cap Croisette mit dem Ruderboot 2022"
-src = "images/Umrundung_von_Cap_Croisette_mit_dem_Ruderboot_2022.jpg"
-[[images]]
-title = "Inrigger vor Cap Croisette 2022"
-src = "images/Inrigger_vor_Cap_Croisette_2022.jpg"
-[[images]]
-title = "Ile de Jarre draussen im Mittelmeer 2022"
-src = "images/Ile_de_Jarre_draussen_im_Mittelmeer_2022.jpg"
-[[images]]
-title = "Ruderboot vor der Steilküste Marseille 2022"
-src = "images/Ruderboot_vor_der_Steilkuste_Marseille_2022.jpg"
-[[images]]
-title = "Küste der Calanques Mittelmer 2022"
-src = "images/Kuste_der_Calanques_Mittelmer_2022.jpg"
-[[images]]
-title = "Calanque de Figuerolles Einfahrt mit dem Ruderboot 2022"
-src = "images/Calanque_de_Figuerolles_Einfahrt_mit_dem_Ruderboot_2022.jpg"
-[[images]]
-title = "Calanque de Figuerolles Ruderboote am Strand 2022"
-src = "images/Calanque_de_Figuerolles_Ruderboote_am_Strand_2022.jpg"
-[[images]]
-title = "Tropische Küstenlandschaft Mittelmeer 2022"
-src = "images/Tropische_Kustenlandschaft_Mittelmeer_2022.jpg"
-[[images]]
-title = "Ile de Gaou Mittelmeer 2022"
-src = "images/Ile_de_Gaou_Mittelmeer_2022.jpg"
-[[images]]
-title = "Letzter friedlicher Strand vor den grossen Wellen Mittelmeer 2022"
-src = "images/Letzter_friedlicher_Strand_vor_den_grossen_Wellen_Mittelmeer_2022.jpg"
-[[images]]
-title = "Schutz hinter einer einsamen Klippe mitten im Mittelmeer 2022"
-src = "images/Schutz_hinter_einer_einsamen_Klippe_mitten_im_Mittelmeer_2022.jpg"
-[[images]]
-title = "Einfahrt in den Hafen von Les Sablettes Mittelmeer 2022"
-src = "images/Einfahrt_in_den_Hafen_von_Les_Sablettes_Mittelmeer_2022.jpg"
-[[images]]
-title = "Ausblick aus unserer Bergvilla Toulon 2022"
-src = "images/Ausblick_aus_unserer_Bergvilla_Toulon_2022.jpg"
-[[images]]
-title = "Abendessen Toulon Mittelmeer 2022"
-src = "images/Abendessen_Toulon_Mittelmeer_2022.jpg"
-[[images]]
-title = "Inrigger vor der Küste des Mittelmeeres 2022"
-src = "images/Inrigger_vor_der_Kuste_des_Mittelmeeres_2022.jpg"
-[[images]]
-title = "Hafen bei Giens Mittelmeer 2022"
-src = "images/Hafen_bei_Giens_Mittelmeer_2022.jpg"
-[[images]]
-title = "Ruderboot auf dem Mittelmeer 2022"
-src = "images/Ruderboot_auf_dem_Mittelmeer_2022.jpg"
-[[images]]
-title = "Felsenküste  bei Le Lavandou Mittelmeer 2022"
-src = "images/Felsenkuste__bei_Le_Lavandou_Mittelmeer_2022.jpg"
-[[images]]
-title = "Steuerfrau mit dem Blick nach Algerien Mittelmeer 2022"
-src = "images/Steuerfrau_mit_dem_Blick_nach_Algerien_Mittelmeer_2022.jpg"
-[[images]]
-title = "Felsenbucht bei Le Lavandou Mittelmeer 2022"
-src = "images/Felsenbucht_bei_Le_Lavandou_Mittelmeer_2022.jpg"
-[[images]]
-title = "Riffe vor der Küste Ruderwanderfahrt Mittelmeer 2022"
-src = "images/Riffe_vor_der_Kuste_Ruderwanderfahrt_Mittelmeer_2022.jpg"
-[[images]]
-title = "Sonnenaufgang auf dem Mittelmeer Le Lavandou 2022"
-src = "images/Sonnenaufgang_auf_dem_Mittelmeer_Le_Lavandou_2022.jpg"
-[[images]]
-title = "Umrundung von Cap Negre mit dem Ruderboot Mittelmeer 2022"
-src = "images/Umrundung_von_Cap_Negre_mit_dem_Ruderboot_Mittelmeer_2022.jpg"
-[[images]]
-title = "Ruderboot in Cavalaire sur Mer 2022"
-src = "images/Ruderboot_in_Cavalaire_sur_Mer_2022.jpg"
-[[images]]
-title = "Rudern bei Sonnenaufgang auf dem Mittelmeer 2022"
-src = "images/Rudern_bei_Sonnenaufgang_auf_dem_Mittelmeer_2022.jpg"
-[[images]]
-title = "Til Melina auf dem Bootsanhänger Mittelmeer 2022"
-src = "images/Til_Melina_auf_dem_Bootsanhanger_Mittelmeer_2022.jpg"
-[[images]]
-title = "Abendliches Pizzaessen in Cavalaire sur mer 2022"
-src = "images/Abendliches_Pizzaessen_in_Cavalaire_sur_mer_2022.jpg"
-[[images]]
-title = "ruppiges Wasser auf dem Mittelmeer 2022"
-src = "images/ruppiges_Wasser_auf_dem_Mittelmeer_2022.jpg"
-[[images]]
-title = "Inrigger bei Wind auf dem Mittelmeer 2022"
-src = "images/Inrigger_bei_Wind_auf_dem_Mittelmeer_2022.jpg"
-[[images]]
-title = "Inrigger in grossen Wellen Mittelmeer 2022"
-src = "images/Inrigger_in_grossen_Wellen_Mittelmeer_2022.jpg"
-[[images]]
-title = "Architektur vor Cavalaire Mittelmeer 2022"
-src = "images/Architektur_vor_Cavalaire_Mittelmeer_2022.jpg"
-[[images]]
-title = "Baumgarten Coastal Einer im Einsatz am Mittelmeer 2022"
-src = "images/Baumgarten_Coastal_Einer_im_Einsatz_am_Mittelmeer_2022.jpg"
-[[images]]
-title = "Baumgarten Costal Einer La Cavalaire 2022"
-src = "images/Baumgarten_Costal_Einer_La_Cavalaire_2022.jpg"
-[[images]]
-title = "Abschluss Abendessen im Fischrestaurant 2022"
-src = "images/Abschluss_Abendessen_im_Fischrestaurant_2022.jpg"
-[[images]]
-title = "Hauptgericht im Fischrestaurant Mittelmeer 2022"
-src = "images/Hauptgericht_im_Fischrestaurant_Mittelmeer_2022.jpg"
-[[images]]
-title = "Rückreise aus Südfrankreich 2022"
-src = "images/Ruckreise_aus_Sudfrankreich_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-10-01"
+date: "2022-10-10T01:00:00+02:00"
+gewässer:
+- oder
+- rhone
+- mittelmeer
+- etang de berre
+images:
+- src: images/Girlies_im_Quartier_La_Couronne_Marseille_2022.jpg
+  title: Girlies im Quartier La Couronne Marseille 2022
+- src: images/Ruderclub_Martiques_Marseille_2022.jpg
+  title: Ruderclub Martiques Marseille 2022
+- src: images/Ruderboote_einsetzen_in_Martiques_2022.jpg
+  title: Ruderboote einsetzen in Martiques 2022
+- src: images/Etang_de_Berre_Ruderboote_Marseille_2022.jpg
+  title: Etang de Berre Ruderboote Marseille 2022
+- src: images/Ruderboot_Etang_de_Berre_Wanderfahrt_Sudfrankreich_2022.jpg
+  title: Ruderboot Etang de Berre Wanderfahrt Südfrankreich 2022
+- src: images/Planespotting_vom_Ruderboot_Marseille_Airport_2022.jpg
+  title: Planespotting vom Ruderboot Marseille Airport 2022
+- src: images/Gasfrachter_Etang_de_Berre_2022.jpg
+  title: Gasfrachter Etang de Berre 2022
+- src: images/Baumgarten_Inrigger_Etang_de_Berre_2022.jpg
+  title: Baumgarten Inrigger Etang de Berre 2022
+- src: images/Etang_de_Berre_Mittagspause_der_Ruderer_2022.jpg
+  title: Etang de Berre Mittagspause der Ruderer 2022
+- src: images/Etang_de_Berre_Selfie_vom_Fahrtenleiter_2022.jpg
+  title: Etang de Berre Selfie vom Fahrtenleiter 2022
+- src: images/Ruderboot_Altstadt_von_Martigues_Frankreich_2022.jpg
+  title: Ruderboot Altstadt von Martigues Frankreich 2022
+- src: images/Ruderer_Mittagspause_Rognac_Frankreichwanderfahrt_2022.jpg
+  title: Ruderer Mittagspause Rognac Frankreichwanderfahrt 2022
+- src: images/Baumgarten_Coastal_Einer_in_der_Einflugschneise_Marseille_Flughafen_2022.jpg
+  title: Baumgarten Coastal Einer in der Einflugschneise Marseille Flughafen 2022
+- src: images/Abendessen_in_La_Couronne_Mittelmeer_2022.jpg
+  title: Abendessen in La Couronne Mittelmeer 2022
+- src: images/Ruderboot_auf_dem_Canal_de_Caronte_Mittelmeer_2022.jpg
+  title: Ruderboot auf dem Canal de Caronte Mittelmeer 2022
+- src: images/Port_de_Buc_mit_dem_Ruderboot_2022.jpg
+  title: Port de Buc mit dem Ruderboot 2022
+- src: images/Badestrand_von_La_Couronne_Mittelmeer_2022.jpg
+  title: Badestrand von La Couronne Mittelmeer 2022
+- src: images/Chateau_d_If_vom_Ruderboot_aus_Marseille_2022.jpg
+  title: Chateau d´If vom Ruderboot aus Marseille 2022
+- src: images/Marseille_Algerien_nicht_mit_Ruderbooten_2022.jpg
+  title: Marseille Algerien nicht mit Ruderbooten 2022
+- src: images/Luftangriff_von_Loschflugzeugen_auf_die_Ruderboote_Marseille_2022.jpg
+  title: Luftangriff von Löschflugzeugen auf die Ruderboote Marseille 2022
+- src: images/Marseille_Panorama_vom_Ruderboot_gesehen_2022.jpg
+  title: Marseille Panorama vom Ruderboot gesehen 2022
+- src: images/Edmond_Dantes_auf_dem_Weg_nach_Chateau_d_If_2022.jpg
+  title: Edmond Dantes auf dem Weg nach Chateau d´If 2022
+- src: images/Ruderer_warten_am_Strand_in_Marseille_2022.jpg
+  title: Ruderer warten am Strand in Marseille 2022
+- src: images/Rudern_nach_Marseille_downtown_2022.jpg
+  title: Rudern nach Marseille downtown 2022
+- src: images/Marseille_Ruderboot_im_kleinen_Hafen_2022.jpg
+  title: Marseille Ruderboot im kleinen Hafen 2022
+- src: images/Marseille_Hafeneinfahrt_2022.jpg
+  title: Marseille Hafeneinfahrt 2022
+- src: images/Marseille_alter_Hafen_2022.jpg
+  title: Marseille alter Hafen 2022
+- src: images/Marseille_Umrundung_der_Inseln_mit_dem_Ruderboot_2022.jpg
+  title: Marseille Umrundung der Inseln mit dem Ruderboot 2022
+- src: images/Feier_zu_Simones_halben_Aquatorpreis_2022.jpg
+  title: Feier zu Simones halben Äquatorpreis 2022
+- src: images/Inrigger_auf_dem_Mittelmeer_2022.jpg
+  title: Inrigger auf dem Mittelmeer 2022
+- src: images/Umrundung_von_Cap_Croisette_mit_dem_Ruderboot_2022.jpg
+  title: Umrundung von Cap Croisette mit dem Ruderboot 2022
+- src: images/Inrigger_vor_Cap_Croisette_2022.jpg
+  title: Inrigger vor Cap Croisette 2022
+- src: images/Ile_de_Jarre_draussen_im_Mittelmeer_2022.jpg
+  title: Ile de Jarre draussen im Mittelmeer 2022
+- src: images/Ruderboot_vor_der_Steilkuste_Marseille_2022.jpg
+  title: Ruderboot vor der Steilküste Marseille 2022
+- src: images/Kuste_der_Calanques_Mittelmer_2022.jpg
+  title: Küste der Calanques Mittelmer 2022
+- src: images/Calanque_de_Figuerolles_Einfahrt_mit_dem_Ruderboot_2022.jpg
+  title: Calanque de Figuerolles Einfahrt mit dem Ruderboot 2022
+- src: images/Calanque_de_Figuerolles_Ruderboote_am_Strand_2022.jpg
+  title: Calanque de Figuerolles Ruderboote am Strand 2022
+- src: images/Tropische_Kustenlandschaft_Mittelmeer_2022.jpg
+  title: Tropische Küstenlandschaft Mittelmeer 2022
+- src: images/Ile_de_Gaou_Mittelmeer_2022.jpg
+  title: Ile de Gaou Mittelmeer 2022
+- src: images/Letzter_friedlicher_Strand_vor_den_grossen_Wellen_Mittelmeer_2022.jpg
+  title: Letzter friedlicher Strand vor den grossen Wellen Mittelmeer 2022
+- src: images/Schutz_hinter_einer_einsamen_Klippe_mitten_im_Mittelmeer_2022.jpg
+  title: Schutz hinter einer einsamen Klippe mitten im Mittelmeer 2022
+- src: images/Einfahrt_in_den_Hafen_von_Les_Sablettes_Mittelmeer_2022.jpg
+  title: Einfahrt in den Hafen von Les Sablettes Mittelmeer 2022
+- src: images/Ausblick_aus_unserer_Bergvilla_Toulon_2022.jpg
+  title: Ausblick aus unserer Bergvilla Toulon 2022
+- src: images/Abendessen_Toulon_Mittelmeer_2022.jpg
+  title: Abendessen Toulon Mittelmeer 2022
+- src: images/Inrigger_vor_der_Kuste_des_Mittelmeeres_2022.jpg
+  title: Inrigger vor der Küste des Mittelmeeres 2022
+- src: images/Hafen_bei_Giens_Mittelmeer_2022.jpg
+  title: Hafen bei Giens Mittelmeer 2022
+- src: images/Ruderboot_auf_dem_Mittelmeer_2022.jpg
+  title: Ruderboot auf dem Mittelmeer 2022
+- src: images/Felsenkuste__bei_Le_Lavandou_Mittelmeer_2022.jpg
+  title: Felsenküste  bei Le Lavandou Mittelmeer 2022
+- src: images/Steuerfrau_mit_dem_Blick_nach_Algerien_Mittelmeer_2022.jpg
+  title: Steuerfrau mit dem Blick nach Algerien Mittelmeer 2022
+- src: images/Felsenbucht_bei_Le_Lavandou_Mittelmeer_2022.jpg
+  title: Felsenbucht bei Le Lavandou Mittelmeer 2022
+- src: images/Riffe_vor_der_Kuste_Ruderwanderfahrt_Mittelmeer_2022.jpg
+  title: Riffe vor der Küste Ruderwanderfahrt Mittelmeer 2022
+- src: images/Sonnenaufgang_auf_dem_Mittelmeer_Le_Lavandou_2022.jpg
+  title: Sonnenaufgang auf dem Mittelmeer Le Lavandou 2022
+- src: images/Umrundung_von_Cap_Negre_mit_dem_Ruderboot_Mittelmeer_2022.jpg
+  title: Umrundung von Cap Negre mit dem Ruderboot Mittelmeer 2022
+- src: images/Ruderboot_in_Cavalaire_sur_Mer_2022.jpg
+  title: Ruderboot in Cavalaire sur Mer 2022
+- src: images/Rudern_bei_Sonnenaufgang_auf_dem_Mittelmeer_2022.jpg
+  title: Rudern bei Sonnenaufgang auf dem Mittelmeer 2022
+- src: images/Til_Melina_auf_dem_Bootsanhanger_Mittelmeer_2022.jpg
+  title: Til Melina auf dem Bootsanhänger Mittelmeer 2022
+- src: images/Abendliches_Pizzaessen_in_Cavalaire_sur_mer_2022.jpg
+  title: Abendliches Pizzaessen in Cavalaire sur mer 2022
+- src: images/ruppiges_Wasser_auf_dem_Mittelmeer_2022.jpg
+  title: ruppiges Wasser auf dem Mittelmeer 2022
+- src: images/Inrigger_bei_Wind_auf_dem_Mittelmeer_2022.jpg
+  title: Inrigger bei Wind auf dem Mittelmeer 2022
+- src: images/Inrigger_in_grossen_Wellen_Mittelmeer_2022.jpg
+  title: Inrigger in grossen Wellen Mittelmeer 2022
+- src: images/Architektur_vor_Cavalaire_Mittelmeer_2022.jpg
+  title: Architektur vor Cavalaire Mittelmeer 2022
+- src: images/Baumgarten_Coastal_Einer_im_Einsatz_am_Mittelmeer_2022.jpg
+  title: Baumgarten Coastal Einer im Einsatz am Mittelmeer 2022
+- src: images/Baumgarten_Costal_Einer_La_Cavalaire_2022.jpg
+  title: Baumgarten Costal Einer La Cavalaire 2022
+- src: images/Abschluss_Abendessen_im_Fischrestaurant_2022.jpg
+  title: Abschluss Abendessen im Fischrestaurant 2022
+- src: images/Hauptgericht_im_Fischrestaurant_Mittelmeer_2022.jpg
+  title: Hauptgericht im Fischrestaurant Mittelmeer 2022
+- src: images/Ruckreise_aus_Sudfrankreich_2022.jpg
+  title: Rückreise aus Südfrankreich 2022
+länder:
+- deutschland
+- frankreich
+title: Etang de Berre Mittelmeer 2022
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

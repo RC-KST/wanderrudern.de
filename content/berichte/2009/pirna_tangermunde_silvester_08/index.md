@@ -1,52 +1,41 @@
-+++
-title = "Pirna Tangermünde Silvester 08"
-author = ""
-date = 2009-01-01T01:00:00+02:00
-begin = "2009-01-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "1 Boot vor Schloss Pillnitz 1 0809"
-src = "images/1_Boot_vor_Schloss_Pillnitz_1_0809.jpg"
-[[images]]
-title = "5 Schloss Pillnitz Elbtreppe mit Boot 1"
-src = "images/5_Schloss_Pillnitz_Elbtreppe_mit_Boot_1.jpg"
-[[images]]
-title = "Schlagmann Ruderboot auf der Elbe 0809"
-src = "images/Schlagmann_Ruderboot_auf_der_Elbe_0809.jpg"
-[[images]]
-title = "14 RC Mühlberg große Pause 1"
-src = "images/14_RC_Muhlberg_grosse_Pause_1.jpg"
-[[images]]
-title = "18 Boot voll mit Krische 1"
-src = "images/18_Boot_voll_mit_Krische_1.jpg"
-[[images]]
-title = "37 Kombüse Seesport Dessau"
-src = "images/37_Kombuse_Seesport_Dessau.jpg"
-[[images]]
-title = "Moritz Magedburg am Steg 0809"
-src = "images/Moritz_Magedburg_am_Steg_0809.jpg"
-[[images]]
-title = "Ruderer Magdeburg Steg Winter 0809"
-src = "images/Ruderer_Magdeburg_Steg_Winter_0809.jpg"
-[[images]]
-title = "Magdeburg vor dem Steg"
-src = "images/Magdeburg_vor_dem_Steg.jpg"
-[[images]]
-title = "Steuermann Ruderboot Winter 0809"
-src = "images/Steuermann_Ruderboot_Winter_0809.jpg"
-[[images]]
-title = "Eisgang auf der Elbe 0809"
-src = "images/Eisgang_auf_der_Elbe_0809.jpg"
-[[images]]
-title = "Abriggern Tangermünde"
-src = "images/Abriggern_Tangermunde.jpg"
-[[images]]
-title = "Aufladen in Tangermünde 0708"
-src = "images/Aufladen_in_Tangermunde_0708.jpg"
-
-+++
+---
+author: ""
+begin: "2009-01-01"
+date: "2009-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/1_Boot_vor_Schloss_Pillnitz_1_0809.jpg
+  title: 1 Boot vor Schloss Pillnitz 1 0809
+- src: images/5_Schloss_Pillnitz_Elbtreppe_mit_Boot_1.jpg
+  title: 5 Schloss Pillnitz Elbtreppe mit Boot 1
+- src: images/Schlagmann_Ruderboot_auf_der_Elbe_0809.jpg
+  title: Schlagmann Ruderboot auf der Elbe 0809
+- src: images/14_RC_Muhlberg_grosse_Pause_1.jpg
+  title: 14 RC Mühlberg große Pause 1
+- src: images/18_Boot_voll_mit_Krische_1.jpg
+  title: 18 Boot voll mit Krische 1
+- src: images/37_Kombuse_Seesport_Dessau.jpg
+  title: 37 Kombüse Seesport Dessau
+- src: images/Moritz_Magedburg_am_Steg_0809.jpg
+  title: Moritz Magedburg am Steg 0809
+- src: images/Ruderer_Magdeburg_Steg_Winter_0809.jpg
+  title: Ruderer Magdeburg Steg Winter 0809
+- src: images/Magdeburg_vor_dem_Steg.jpg
+  title: Magdeburg vor dem Steg
+- src: images/Steuermann_Ruderboot_Winter_0809.jpg
+  title: Steuermann Ruderboot Winter 0809
+- src: images/Eisgang_auf_der_Elbe_0809.jpg
+  title: Eisgang auf der Elbe 0809
+- src: images/Abriggern_Tangermunde.jpg
+  title: Abriggern Tangermünde
+- src: images/Aufladen_in_Tangermunde_0708.jpg
+  title: Aufladen in Tangermünde 0708
+länder: []
+title: Pirna Tangermünde Silvester 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,18 @@
-+++
-title = "Storkow 2001"
-author = ""
-date = 2001-06-06T01:00:00+02:00
-begin = "2001-06-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "werbellinsee", "wannsee", "saimaa"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2001-06-01"
+date: "2001-06-06T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- werbellinsee
+- wannsee
+- saimaa
+länder: []
+title: Storkow 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

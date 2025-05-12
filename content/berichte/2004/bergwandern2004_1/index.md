@@ -1,31 +1,26 @@
-+++
-title = "Bergwandern2004_1"
-author = ""
-date = 2004-04-04T01:00:00+02:00
-begin = "2004-04-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Blick von der Gamskarspitze zum Gössenberg"
-src = "images/gratzurgamskar1.jpg"
-[[images]]
-title = "Giglach Höhenweg im Schnee"
-src = "images/GiglachHW0.jpg"
-[[images]]
-title = "greifenberg im Schnee loipoldhof"
-src = "images/greifenberg.jpg"
-[[images]]
-title = "grat zur gamskarspitze"
-src = "images/gratzurgamskar.jpg"
-[[images]]
-title = "waldhornscharte"
-src = "images/waldhornscharte.jpg"
-[[images]]
-title = "schiedeck"
-src = "images/schiedeck.jpg"
-
-+++
+---
+author: ""
+begin: "2004-04-01"
+date: "2004-04-04T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/gratzurgamskar1.jpg
+  title: Blick von der Gamskarspitze zum Gössenberg
+- src: images/GiglachHW0.jpg
+  title: Giglach Höhenweg im Schnee
+- src: images/greifenberg.jpg
+  title: greifenberg im Schnee loipoldhof
+- src: images/gratzurgamskar.jpg
+  title: grat zur gamskarspitze
+- src: images/waldhornscharte.jpg
+  title: waldhornscharte
+- src: images/schiedeck.jpg
+  title: schiedeck
+länder: []
+title: Bergwandern2004_1
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

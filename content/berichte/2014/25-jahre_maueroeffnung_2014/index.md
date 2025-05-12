@@ -1,40 +1,34 @@
-+++
-title = "25-Jahre Maueroeffnung 2014"
-author = ""
-date = 2014-02-02T01:00:00+02:00
-begin = "2014-02-01"
-"gewässer" = ["havel", "teltowkanal"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote Kleinmachnow 25 Jahre Maueroeffnung"
-src = "images/Ruderboote_Kleinmachnow_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Wasserstrassenkreuz Neukoelln 25 Jahre Maueroeffnung"
-src = "images/Wasserstrassenkreuz_Neukoelln_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Landwehrkanal 25 Jahre Maueroeffnung"
-src = "images/Landwehrkanal_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Ruderer vor dem Verkehrsmuseum in Kreuzberg 25 Jahre Maueroeffnung"
-src = "images/Ruderer_vor_dem_Verkehrsmuseum_in_Kreuzberg_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Ruderboot Landwehrkanal 25 Jahre Maueroeffnung"
-src = "images/Ruderboot_Landwehrkanal_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Innenstadtspree 25 Jahre Maueroeffnung"
-src = "images/Innenstadtspree_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "auf der Unterhavel 25 Jahre Maueroeffnung"
-src = "images/auf_der_Unterhavel_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Glienicker Bruecke 25 Jahre Maueroeffnung"
-src = "images/Glienicker_Bruecke_25_Jahre_Maueroeffnung.jpg"
-[[images]]
-title = "Teltowkanal alte Autobahn 25 Jahre Maueroeffnung"
-src = "images/Teltowkanal_alte_Autobahn_25_Jahre_Maueroeffnung.jpg"
-
-+++
+---
+author: ""
+begin: "2014-02-01"
+date: "2014-02-02T01:00:00+02:00"
+gewässer:
+- havel
+- teltowkanal
+images:
+- src: images/Ruderboote_Kleinmachnow_25_Jahre_Maueroeffnung.jpg
+  title: Ruderboote Kleinmachnow 25 Jahre Maueroeffnung
+- src: images/Wasserstrassenkreuz_Neukoelln_25_Jahre_Maueroeffnung.jpg
+  title: Wasserstrassenkreuz Neukoelln 25 Jahre Maueroeffnung
+- src: images/Landwehrkanal_25_Jahre_Maueroeffnung.jpg
+  title: Landwehrkanal 25 Jahre Maueroeffnung
+- src: images/Ruderer_vor_dem_Verkehrsmuseum_in_Kreuzberg_25_Jahre_Maueroeffnung.jpg
+  title: Ruderer vor dem Verkehrsmuseum in Kreuzberg 25 Jahre Maueroeffnung
+- src: images/Ruderboot_Landwehrkanal_25_Jahre_Maueroeffnung.jpg
+  title: Ruderboot Landwehrkanal 25 Jahre Maueroeffnung
+- src: images/Innenstadtspree_25_Jahre_Maueroeffnung.jpg
+  title: Innenstadtspree 25 Jahre Maueroeffnung
+- src: images/auf_der_Unterhavel_25_Jahre_Maueroeffnung.jpg
+  title: auf der Unterhavel 25 Jahre Maueroeffnung
+- src: images/Glienicker_Bruecke_25_Jahre_Maueroeffnung.jpg
+  title: Glienicker Bruecke 25 Jahre Maueroeffnung
+- src: images/Teltowkanal_alte_Autobahn_25_Jahre_Maueroeffnung.jpg
+  title: Teltowkanal alte Autobahn 25 Jahre Maueroeffnung
+länder:
+- deutschland
+title: 25-Jahre Maueroeffnung 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

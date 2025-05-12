@@ -1,46 +1,37 @@
-+++
-title = "Oder Pfingsten 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["oder"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote in Glogau Oder 2019"
-src = "images/Ruderboote_in_Glogau_Oder_2019.jpg"
-[[images]]
-title = "Boote riggern in Uraz Oder 2019"
-src = "images/Boote_riggern_in_Uraz_Oder_2019.jpg"
-[[images]]
-title = "Ruderboot auf der Oder Uraz 2019"
-src = "images/Ruderboot_auf_der_Oder_Uraz_2019.jpg"
-[[images]]
-title = "Quartier Scinawa Lasowice Oder 2019"
-src = "images/Quartier_Scinawa_Lasowice_Oder_2019.jpg"
-[[images]]
-title = "Uraz Oder 2019"
-src = "images/Uraz_Oder_2019.jpg"
-[[images]]
-title = "Bzreg Dolny Oder 2019"
-src = "images/Bzreg_Dolny_Oder_2019.jpg"
-[[images]]
-title = "Neue Schleuse Malczyce Oder 2019"
-src = "images/Neue_Schleuse_Malczyce_Oder_2019.jpg"
-[[images]]
-title = "Paul Kloster Lubiasz Oder 2019"
-src = "images/Paul_Kloster_Lubiasz_Oder_2019.jpg"
-[[images]]
-title = "Johanna Tim Ruderboot Oder 2019"
-src = "images/Johanna_Tim_Ruderboot_Oder_2019.jpg"
-[[images]]
-title = "mal wieder Kuehe im Wasser Oder 2019"
-src = "images/mal_wieder_Kuehe_im_Wasser_Oder_2019.jpg"
-[[images]]
-title = "Glogau Ruderboot Oder 2019"
-src = "images/Glogau_Ruderboot_Oder_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Ruderboote_in_Glogau_Oder_2019.jpg
+  title: Ruderboote in Glogau Oder 2019
+- src: images/Boote_riggern_in_Uraz_Oder_2019.jpg
+  title: Boote riggern in Uraz Oder 2019
+- src: images/Ruderboot_auf_der_Oder_Uraz_2019.jpg
+  title: Ruderboot auf der Oder Uraz 2019
+- src: images/Quartier_Scinawa_Lasowice_Oder_2019.jpg
+  title: Quartier Scinawa Lasowice Oder 2019
+- src: images/Uraz_Oder_2019.jpg
+  title: Uraz Oder 2019
+- src: images/Bzreg_Dolny_Oder_2019.jpg
+  title: Bzreg Dolny Oder 2019
+- src: images/Neue_Schleuse_Malczyce_Oder_2019.jpg
+  title: Neue Schleuse Malczyce Oder 2019
+- src: images/Paul_Kloster_Lubiasz_Oder_2019.jpg
+  title: Paul Kloster Lubiasz Oder 2019
+- src: images/Johanna_Tim_Ruderboot_Oder_2019.jpg
+  title: Johanna Tim Ruderboot Oder 2019
+- src: images/mal_wieder_Kuehe_im_Wasser_Oder_2019.jpg
+  title: mal wieder Kuehe im Wasser Oder 2019
+- src: images/Glogau_Ruderboot_Oder_2019.jpg
+  title: Glogau Ruderboot Oder 2019
+länder:
+- polen
+title: Oder Pfingsten 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,76 +1,58 @@
-+++
-title = "WRT Brandenburg"
-author = ""
-date = 2019-06-06T01:00:00+02:00
-begin = "2019-06-01"
-"gewässer" = ["elbe", "havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Speicherstadt Hamburg 2019"
-src = "images/Speicherstadt_Hamburg_2019.jpg"
-[[images]]
-title = "Maritimes Museum Hamburg 2019"
-src = "images/Maritimes_Museum_Hamburg_2019.jpg"
-[[images]]
-title = "Ruderboot Alster vor der Rathausschleuse 2019"
-src = "images/Ruderboot_Alster_vor_der_Rathausschleuse_2019.jpg"
-[[images]]
-title = "Til am Schleusensteg 2019"
-src = "images/Til_am_Schleusensteg_2019.jpg"
-[[images]]
-title = "Havelberg Ruderer 2019"
-src = "images/Havelberg_Ruderer_2019.jpg"
-[[images]]
-title = "Pizzaexpress per Ruderboot Havelberg 2019"
-src = "images/Pizzaexpress_per_Ruderboot_Havelberg_2019.jpg"
-[[images]]
-title = "Havelmuendung in die Elbe 2019"
-src = "images/Havelmuendung_in_die_Elbe_2019.jpg"
-[[images]]
-title = "Doemitz Hafen 2019"
-src = "images/Doemitz_Hafen_2019.jpg"
-[[images]]
-title = "Feinkost Albrecht in Doemitz Verpflegung fuer Ruderer 2019"
-src = "images/Feinkost_Albrecht_in_Doemitz_Verpflegung_fuer_Ruderer_2019.jpg"
-[[images]]
-title = "Istambul Grill in Hitzacker 2019"
-src = "images/Istambul_Grill_in_Hitzacker_2019.jpg"
-[[images]]
-title = "raue Elbe bei Gegenwind 2019"
-src = "images/raue_Elbe_bei_Gegenwind_2019.jpg"
-[[images]]
-title = "endlich Lauenburg in Sicht 2019"
-src = "images/endlich_Lauenburg_in_Sicht_2019.jpg"
-[[images]]
-title = "Schleusensteg in Geesthacht 2019"
-src = "images/Schleusensteg_in_Geesthacht_2019.jpg"
-[[images]]
-title = "Bille in Hamburg 2019"
-src = "images/Bille_in_Hamburg_2019.jpg"
-[[images]]
-title = "Ruderboote beim Biller RC 2019"
-src = "images/Ruderboote_beim_Biller_RC_2019.jpg"
-[[images]]
-title = "Spiegel Hamburg vom Ruderboot 2019"
-src = "images/Spiegel_Hamburg_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Elbphilharmonie vom Ruderboot 2019"
-src = "images/Elbphilharmonie_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Hamburg Hafen 2019"
-src = "images/Hamburg_Hafen_2019.jpg"
-[[images]]
-title = "Speicherstadt Hamburg vom Ruderboot 2019"
-src = "images/Speicherstadt_Hamburg_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Binnenalster Ruderboot 2019"
-src = "images/Binnenalster_Ruderboot_2019.jpg"
-[[images]]
-title = "Ruderboot Aussenalster 2019"
-src = "images/Ruderboot_Aussenalster_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-06-01"
+date: "2019-06-06T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- oder
+images:
+- src: images/Speicherstadt_Hamburg_2019.jpg
+  title: Speicherstadt Hamburg 2019
+- src: images/Maritimes_Museum_Hamburg_2019.jpg
+  title: Maritimes Museum Hamburg 2019
+- src: images/Ruderboot_Alster_vor_der_Rathausschleuse_2019.jpg
+  title: Ruderboot Alster vor der Rathausschleuse 2019
+- src: images/Til_am_Schleusensteg_2019.jpg
+  title: Til am Schleusensteg 2019
+- src: images/Havelberg_Ruderer_2019.jpg
+  title: Havelberg Ruderer 2019
+- src: images/Pizzaexpress_per_Ruderboot_Havelberg_2019.jpg
+  title: Pizzaexpress per Ruderboot Havelberg 2019
+- src: images/Havelmuendung_in_die_Elbe_2019.jpg
+  title: Havelmuendung in die Elbe 2019
+- src: images/Doemitz_Hafen_2019.jpg
+  title: Doemitz Hafen 2019
+- src: images/Feinkost_Albrecht_in_Doemitz_Verpflegung_fuer_Ruderer_2019.jpg
+  title: Feinkost Albrecht in Doemitz Verpflegung fuer Ruderer 2019
+- src: images/Istambul_Grill_in_Hitzacker_2019.jpg
+  title: Istambul Grill in Hitzacker 2019
+- src: images/raue_Elbe_bei_Gegenwind_2019.jpg
+  title: raue Elbe bei Gegenwind 2019
+- src: images/endlich_Lauenburg_in_Sicht_2019.jpg
+  title: endlich Lauenburg in Sicht 2019
+- src: images/Schleusensteg_in_Geesthacht_2019.jpg
+  title: Schleusensteg in Geesthacht 2019
+- src: images/Bille_in_Hamburg_2019.jpg
+  title: Bille in Hamburg 2019
+- src: images/Ruderboote_beim_Biller_RC_2019.jpg
+  title: Ruderboote beim Biller RC 2019
+- src: images/Spiegel_Hamburg_vom_Ruderboot_2019.jpg
+  title: Spiegel Hamburg vom Ruderboot 2019
+- src: images/Elbphilharmonie_vom_Ruderboot_2019.jpg
+  title: Elbphilharmonie vom Ruderboot 2019
+- src: images/Hamburg_Hafen_2019.jpg
+  title: Hamburg Hafen 2019
+- src: images/Speicherstadt_Hamburg_vom_Ruderboot_2019.jpg
+  title: Speicherstadt Hamburg vom Ruderboot 2019
+- src: images/Binnenalster_Ruderboot_2019.jpg
+  title: Binnenalster Ruderboot 2019
+- src: images/Ruderboot_Aussenalster_2019.jpg
+  title: Ruderboot Aussenalster 2019
+länder: []
+title: WRT Brandenburg
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

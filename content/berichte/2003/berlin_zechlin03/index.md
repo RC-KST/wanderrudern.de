@@ -1,19 +1,20 @@
-+++
-title = "Berlin Flecken Zechlin 2003"
-author = ""
-date = 2003-01-01T01:00:00+02:00
-begin = "2003-01-01"
-"gewässer" = ["havel", "mecklenburger seenplatte", "tegler see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse Lehnitz Ruderboot"
-src = "images/lehnitz_schleuse03.jpg"
-[[images]]
-title = "Greta rudert"
-src = "images/gretchen_fuerstenberg.jpg"
-
-+++
+---
+author: ""
+begin: "2003-01-01"
+date: "2003-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- mecklenburger seenplatte
+- tegler see
+images:
+- src: images/lehnitz_schleuse03.jpg
+  title: Schleuse Lehnitz Ruderboot
+- src: images/gretchen_fuerstenberg.jpg
+  title: Greta rudert
+länder: []
+title: Berlin Flecken Zechlin 2003
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

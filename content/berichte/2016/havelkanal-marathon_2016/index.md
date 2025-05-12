@@ -1,22 +1,20 @@
-+++
-title = "Havelkanal-Marathon 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Havelkanal Marathon Schleuse Kleinmachnow 2016"
-src = "images/Havelkanal_Marathon_Schleuse_Kleinmachnow_2016.jpg"
-[[images]]
-title = "Havelkanal Marathon 100km"
-src = "images/Havelkanal_Marathon_100km.jpg"
-[[images]]
-title = "Havelkanal 2016"
-src = "images/Havelkanal_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Havelkanal_Marathon_Schleuse_Kleinmachnow_2016.jpg
+  title: Havelkanal Marathon Schleuse Kleinmachnow 2016
+- src: images/Havelkanal_Marathon_100km.jpg
+  title: Havelkanal Marathon 100km
+- src: images/Havelkanal_2016.jpg
+  title: Havelkanal 2016
+länder: []
+title: Havelkanal-Marathon 2016
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,23 @@
-+++
-title = "Festumzug 750 Jahre Stahnsdorf"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Festumzug Stahnsdorf Ruderclub 2014"
-src = "images/Festumzug_Stahnsdorf_Ruderclub_2014.jpg"
-[[images]]
-title = "festumzug durch stahnsdorf 2014"
-src = "images/festumzug_durch_stahnsdorf_2014.jpg"
-[[images]]
-title = "teltower ruebchen vom teltower carnevals club 2014"
-src = "images/teltower_ruebchen_vom_teltower_carnevals_club_2014.jpg"
-[[images]]
-title = "Aufstellen Festumzug Stahnsdorf 2014"
-src = "images/Aufstellen_Festumzug_Stahnsdorf_2014.jpg"
-[[images]]
-title = "Nebelwerfer von der Feuerwehr stahnsdorf 2014"
-src = "images/Nebelwerfer_von_der_Feuerwehr_stahnsdorf_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Festumzug_Stahnsdorf_Ruderclub_2014.jpg
+  title: Festumzug Stahnsdorf Ruderclub 2014
+- src: images/festumzug_durch_stahnsdorf_2014.jpg
+  title: festumzug durch stahnsdorf 2014
+- src: images/teltower_ruebchen_vom_teltower_carnevals_club_2014.jpg
+  title: teltower ruebchen vom teltower carnevals club 2014
+- src: images/Aufstellen_Festumzug_Stahnsdorf_2014.jpg
+  title: Aufstellen Festumzug Stahnsdorf 2014
+- src: images/Nebelwerfer_von_der_Feuerwehr_stahnsdorf_2014.jpg
+  title: Nebelwerfer von der Feuerwehr stahnsdorf 2014
+länder: []
+title: Festumzug 750 Jahre Stahnsdorf
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

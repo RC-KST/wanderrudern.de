@@ -1,58 +1,44 @@
-+++
-title = "Göteborg Fährfahrt"
-author = ""
-date = 2007-02-02T01:00:00+02:00
-begin = "2007-02-01"
-"gewässer" = []
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Deck der Stena Faehre"
-src = "images/Deck_der_Stena_Faehre.jpg"
-[[images]]
-title = "Zwei Eskimos"
-src = "images/Zwei_Eskimos.jpg"
-[[images]]
-title = "Hochbruecke Goeteborg"
-src = "images/Hochbruecke_Goeteborg.jpg"
-[[images]]
-title = "der Weg des Wassers GB07"
-src = "images/der_Weg_des_Wassers_GB07.jpg"
-[[images]]
-title = "Manuel lernt Autofahren"
-src = "images/Manuel_lernt_Autofahren.jpg"
-[[images]]
-title = "Ruderer am Fischbecken"
-src = "images/Ruderer_am_Fischbecken.jpg"
-[[images]]
-title = "saegefisch"
-src = "images/saegefisch.jpg"
-[[images]]
-title = "Sandro und seine Faehre"
-src = "images/Sandro_und_seine_Faehre.jpg"
-[[images]]
-title = "Saltholmen am Kai"
-src = "images/Saltholmen_am_Kai.jpg"
-[[images]]
-title = "Schaeren Goeteborg"
-src = "images/Schaeren_Goeteborg.jpg"
-[[images]]
-title = "Bibliothek GB07"
-src = "images/Bibliothek_GB07.jpg"
-[[images]]
-title = "an Deck der faehre"
-src = "images/an_Deck_der_faehre.jpg"
-[[images]]
-title = "manuel im glueck"
-src = "images/manuel_im_glueck.jpg"
-[[images]]
-title = "nachtclub gb07"
-src = "images/nachtclub_gb07.jpg"
-[[images]]
-title = "beim Tanzen GB07"
-src = "images/beim_Tanzen_GB07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-02-01"
+date: "2007-02-02T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Deck_der_Stena_Faehre.jpg
+  title: Deck der Stena Faehre
+- src: images/Zwei_Eskimos.jpg
+  title: Zwei Eskimos
+- src: images/Hochbruecke_Goeteborg.jpg
+  title: Hochbruecke Goeteborg
+- src: images/der_Weg_des_Wassers_GB07.jpg
+  title: der Weg des Wassers GB07
+- src: images/Manuel_lernt_Autofahren.jpg
+  title: Manuel lernt Autofahren
+- src: images/Ruderer_am_Fischbecken.jpg
+  title: Ruderer am Fischbecken
+- src: images/saegefisch.jpg
+  title: saegefisch
+- src: images/Sandro_und_seine_Faehre.jpg
+  title: Sandro und seine Faehre
+- src: images/Saltholmen_am_Kai.jpg
+  title: Saltholmen am Kai
+- src: images/Schaeren_Goeteborg.jpg
+  title: Schaeren Goeteborg
+- src: images/Bibliothek_GB07.jpg
+  title: Bibliothek GB07
+- src: images/an_Deck_der_faehre.jpg
+  title: an Deck der faehre
+- src: images/manuel_im_glueck.jpg
+  title: manuel im glueck
+- src: images/nachtclub_gb07.jpg
+  title: nachtclub gb07
+- src: images/beim_Tanzen_GB07.jpg
+  title: beim Tanzen GB07
+länder:
+- schweden
+title: Göteborg Fährfahrt
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,13 @@
-+++
-title = "Ketzin Herbst 2016"
-author = ""
-date = 2016-11-11T01:00:00+02:00
-begin = "2016-11-01"
-"gewässer" = ["wublitz"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2016-11-01"
+date: "2016-11-11T01:00:00+02:00"
+gewässer:
+- wublitz
+länder: []
+title: Ketzin Herbst 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,73 +1,58 @@
-+++
-title = "Sognefjord 2004"
-author = ""
-date = 2004-06-06T01:00:00+02:00
-begin = "2004-06-01"
-"gewässer" = ["sognefjord", "fjaerlandsfjord", "saimaa"]
-"länder" = ["deutschland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Passstrasse Sognefjord"
-src = "images/sogne04__54_.jpg"
-[[images]]
-title = "Fähre bei Balestrand Sognefjord Ruderer"
-src = "images/sogne04__79_.jpg"
-[[images]]
-title = "Ruderboot Sognefjord Wellen"
-src = "images/sogne04__17_.jpg"
-[[images]]
-title = "Sophie Fjaerland"
-src = "images/sogne04__23_.jpg"
-[[images]]
-title = "Gletscherzunge Ruderer"
-src = "images/sogne04__33_.jpg"
-[[images]]
-title = "Tjugatogen Berggipfel Ruderer"
-src = "images/sogne04__75_.jpg"
-[[images]]
-title = "sogne04 (20)"
-src = "images/sogne04__20_.jpg"
-[[images]]
-title = "sogne04 (23)02"
-src = "images/sogne04__23_02.jpg"
-[[images]]
-title = "Ruderer am Fjord"
-src = "images/sogne04__55_.jpg"
-[[images]]
-title = "Sophie Sognefjord Fähre"
-src = "images/sogne04__65_02.jpg"
-[[images]]
-title = "Bergwanderung Sognefjord"
-src = "images/sogne04__40_.jpg"
-[[images]]
-title = "Fjaerlandsfjorden Ruderboot"
-src = "images/sogne04__30_.jpg"
-[[images]]
-title = "Ruderboot Wasserfall"
-src = "images/sogne04__85_.jpg"
-[[images]]
-title = "Ruderboot am Fjord"
-src = "images/sogne04__73_.jpg"
-[[images]]
-title = "Hotel Balestrand "
-src = "images/sogne04__7_.jpg"
-[[images]]
-title = "Naeröyfjord Sophie Ruderboot"
-src = "images/sogne04__67_.jpg"
-[[images]]
-title = "Indian Jones Brücke Norwegen Ruderer"
-src = "images/sogne04__43_.jpg"
-[[images]]
-title = "Ruderboote auf dem Fjord"
-src = "images/sogne04__13_.jpg"
-[[images]]
-title = "Baumgarten Zweier Fjord"
-src = "images/sogne04__81_.jpg"
-[[images]]
-title = "sogne04"
-src = "images/sogne04.jpg"
-
-+++
+---
+author: ""
+begin: "2004-06-01"
+date: "2004-06-06T01:00:00+02:00"
+gewässer:
+- sognefjord
+- fjaerlandsfjord
+- saimaa
+images:
+- src: images/sogne04__54_.jpg
+  title: Passstrasse Sognefjord
+- src: images/sogne04__79_.jpg
+  title: Fähre bei Balestrand Sognefjord Ruderer
+- src: images/sogne04__17_.jpg
+  title: Ruderboot Sognefjord Wellen
+- src: images/sogne04__23_.jpg
+  title: Sophie Fjaerland
+- src: images/sogne04__33_.jpg
+  title: Gletscherzunge Ruderer
+- src: images/sogne04__75_.jpg
+  title: Tjugatogen Berggipfel Ruderer
+- src: images/sogne04__20_.jpg
+  title: sogne04 (20)
+- src: images/sogne04__23_02.jpg
+  title: sogne04 (23)02
+- src: images/sogne04__55_.jpg
+  title: Ruderer am Fjord
+- src: images/sogne04__65_02.jpg
+  title: Sophie Sognefjord Fähre
+- src: images/sogne04__40_.jpg
+  title: Bergwanderung Sognefjord
+- src: images/sogne04__30_.jpg
+  title: Fjaerlandsfjorden Ruderboot
+- src: images/sogne04__85_.jpg
+  title: Ruderboot Wasserfall
+- src: images/sogne04__73_.jpg
+  title: Ruderboot am Fjord
+- src: images/sogne04__7_.jpg
+  title: 'Hotel Balestrand '
+- src: images/sogne04__67_.jpg
+  title: Naeröyfjord Sophie Ruderboot
+- src: images/sogne04__43_.jpg
+  title: Indian Jones Brücke Norwegen Ruderer
+- src: images/sogne04__13_.jpg
+  title: Ruderboote auf dem Fjord
+- src: images/sogne04__81_.jpg
+  title: Baumgarten Zweier Fjord
+- src: images/sogne04.jpg
+  title: sogne04
+länder:
+- deutschland
+- schweden
+title: Sognefjord 2004
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

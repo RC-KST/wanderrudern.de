@@ -1,79 +1,61 @@
-+++
-title = "Weser 09"
-author = ""
-date = 2009-04-04T01:00:00+02:00
-begin = "2009-04-01"
-"gewässer" = ["weser", "aller", "oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Höxter Ruderboote am Morgen W09"
-src = "images/Hoxter_Ruderboote_am_Morgen_W09.jpg"
-[[images]]
-title = "Zweier in Höxter am Steg W09"
-src = "images/Zweier_in_Hoxter_am_Steg_W09.jpg"
-[[images]]
-title = "Sophie Kevin im Zweier W09"
-src = "images/Sophie_Kevin_im_Zweier_W09.jpg"
-[[images]]
-title = "Ruderboot Mittelweser W09"
-src = "images/Ruderboot_Mittelweser_W09.jpg"
-[[images]]
-title = "Fruehstueck in Rinteln W09"
-src = "images/Fruehstueck_in_Rinteln_W09.jpg"
-[[images]]
-title = "Doktorsee RInteln Ruderboote W09"
-src = "images/Doktorsee_RInteln_Ruderboote_W09.jpg"
-[[images]]
-title = "Minden Pumpwerk Ruderboote W09"
-src = "images/Minden_Pumpwerk_Ruderboote_W09.jpg"
-[[images]]
-title = "Ruderboot auf der Weser bei Porta Westafalica W09"
-src = "images/Ruderboot_auf_der_Weser_bei_Porta_Westafalica_W09.jpg"
-[[images]]
-title = "Wilhelmsdenkmal Porta Westfalica W09"
-src = "images/Wilhelmsdenkmal_Porta_Westfalica_W09.jpg"
-[[images]]
-title = "Im Nebel beim Denkmal W09"
-src = "images/Im_Nebel_beim_Denkmal_W09.jpg"
-[[images]]
-title = "Bootshaus Minden Ruderer W09"
-src = "images/Bootshaus_Minden_Ruderer_W09.jpg"
-[[images]]
-title = "Boote aussetzen Weser Aller W09"
-src = "images/Boote_aussetzen_Weser_Aller_W09.jpg"
-[[images]]
-title = "der kleine eisbaer W09"
-src = "images/der_kleine_eisbaer_W09.jpg"
-[[images]]
-title = "Skatspiel in Verden W09"
-src = "images/Skatspiel_in_Verden_W09.jpg"
-[[images]]
-title = "An der Allermuendung W09"
-src = "images/An_der_Allermuendung_W09.jpg"
-[[images]]
-title = "Weserschleuse W09"
-src = "images/Weserschleuse_W09.jpg"
-[[images]]
-title = "Im Nebel auf der Unterweser W09"
-src = "images/Im_Nebel_auf_der_Unterweser_W09.jpg"
-[[images]]
-title = "Schiffsverkehr auf der Unterweser W09"
-src = "images/Schiffsverkehr_auf_der_Unterweser_W09.jpg"
-[[images]]
-title = "Autotransporter W09"
-src = "images/Autotransporter_W09.jpg"
-[[images]]
-title = "Kümo auf der Weser W09"
-src = "images/Kumo_auf_der_Weser_W09.jpg"
-[[images]]
-title = "Ruderboote Brake am Strand W09"
-src = "images/Ruderboote_Brake_am_Strand_W09.jpg"
-[[images]]
-title = "Nordenham Ruderclub Steg W09"
-src = "images/Nordenham_Ruderclub_Steg_W09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-04-01"
+date: "2009-04-04T01:00:00+02:00"
+gewässer:
+- weser
+- aller
+- oder
+images:
+- src: images/Hoxter_Ruderboote_am_Morgen_W09.jpg
+  title: Höxter Ruderboote am Morgen W09
+- src: images/Zweier_in_Hoxter_am_Steg_W09.jpg
+  title: Zweier in Höxter am Steg W09
+- src: images/Sophie_Kevin_im_Zweier_W09.jpg
+  title: Sophie Kevin im Zweier W09
+- src: images/Ruderboot_Mittelweser_W09.jpg
+  title: Ruderboot Mittelweser W09
+- src: images/Fruehstueck_in_Rinteln_W09.jpg
+  title: Fruehstueck in Rinteln W09
+- src: images/Doktorsee_RInteln_Ruderboote_W09.jpg
+  title: Doktorsee RInteln Ruderboote W09
+- src: images/Minden_Pumpwerk_Ruderboote_W09.jpg
+  title: Minden Pumpwerk Ruderboote W09
+- src: images/Ruderboot_auf_der_Weser_bei_Porta_Westafalica_W09.jpg
+  title: Ruderboot auf der Weser bei Porta Westafalica W09
+- src: images/Wilhelmsdenkmal_Porta_Westfalica_W09.jpg
+  title: Wilhelmsdenkmal Porta Westfalica W09
+- src: images/Im_Nebel_beim_Denkmal_W09.jpg
+  title: Im Nebel beim Denkmal W09
+- src: images/Bootshaus_Minden_Ruderer_W09.jpg
+  title: Bootshaus Minden Ruderer W09
+- src: images/Boote_aussetzen_Weser_Aller_W09.jpg
+  title: Boote aussetzen Weser Aller W09
+- src: images/der_kleine_eisbaer_W09.jpg
+  title: der kleine eisbaer W09
+- src: images/Skatspiel_in_Verden_W09.jpg
+  title: Skatspiel in Verden W09
+- src: images/An_der_Allermuendung_W09.jpg
+  title: An der Allermuendung W09
+- src: images/Weserschleuse_W09.jpg
+  title: Weserschleuse W09
+- src: images/Im_Nebel_auf_der_Unterweser_W09.jpg
+  title: Im Nebel auf der Unterweser W09
+- src: images/Schiffsverkehr_auf_der_Unterweser_W09.jpg
+  title: Schiffsverkehr auf der Unterweser W09
+- src: images/Autotransporter_W09.jpg
+  title: Autotransporter W09
+- src: images/Kumo_auf_der_Weser_W09.jpg
+  title: Kümo auf der Weser W09
+- src: images/Ruderboote_Brake_am_Strand_W09.jpg
+  title: Ruderboote Brake am Strand W09
+- src: images/Nordenham_Ruderclub_Steg_W09.jpg
+  title: Nordenham Ruderclub Steg W09
+länder:
+- deutschland
+title: Weser 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

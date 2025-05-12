@@ -1,31 +1,25 @@
-+++
-title = "Berlin Saffonia 08"
-author = ""
-date = 2008-07-07T01:00:00+02:00
-begin = "2008-07-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Dresdenia Boote auf der Wiese J08"
-src = "images/Dresdenia_Boote_auf_der_Wiese_J08.jpg"
-[[images]]
-title = "Dresdenia Stege badende Ruderer J08"
-src = "images/Dresdenia_Stege_badende_Ruderer_J08.jpg"
-[[images]]
-title = "Ruderverein Preussen Ruderer J08"
-src = "images/Ruderverein_Preussen_Ruderer_J08.jpg"
-[[images]]
-title = "Ruderinnen am Steg Saffonua J08"
-src = "images/Ruderinnen_am_Steg_Saffonua_J08.jpg"
-[[images]]
-title = "Saffonia-Kinderbadespass5 J08"
-src = "images/Saffonia-Kinderbadespass5_J08.jpg"
-[[images]]
-title = "die Masters bei Saffonua J08"
-src = "images/die_Masters_bei_Saffonua_J08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-07-01"
+date: "2008-07-07T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Dresdenia_Boote_auf_der_Wiese_J08.jpg
+  title: Dresdenia Boote auf der Wiese J08
+- src: images/Dresdenia_Stege_badende_Ruderer_J08.jpg
+  title: Dresdenia Stege badende Ruderer J08
+- src: images/Ruderverein_Preussen_Ruderer_J08.jpg
+  title: Ruderverein Preussen Ruderer J08
+- src: images/Ruderinnen_am_Steg_Saffonua_J08.jpg
+  title: Ruderinnen am Steg Saffonua J08
+- src: images/Saffonia-Kinderbadespass5_J08.jpg
+  title: Saffonia-Kinderbadespass5 J08
+- src: images/die_Masters_bei_Saffonua_J08.jpg
+  title: die Masters bei Saffonua J08
+länder: []
+title: Berlin Saffonia 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

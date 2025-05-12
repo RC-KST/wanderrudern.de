@@ -1,67 +1,56 @@
-+++
-title = "donau 1994"
-author = ""
-date = 1994-03-03T01:00:00+02:00
-begin = "1994-03-01"
-"gewässer" = ["donau", "ilz", "inn", "havel", "wannsee", "oder"]
-"länder" = ["österreich"]
-"typ" = "marathon"
-[[images]]
-title = "kleinbus voll ruderern"
-src = "images/bus.jpg"
-[[images]]
-title = "Bootsanhänger in Straubing"
-src = "images/bootshaenger.jpg"
-[[images]]
-title = "gelage der Ruderer"
-src = "images/gelage.jpg"
-[[images]]
-title = "steile treppe in passau"
-src = "images/treppe_passau.jpg"
-[[images]]
-title = "passau 3-flüsse"
-src = "images/passau_fluesse.jpg"
-[[images]]
-title = "rotel passau nico"
-src = "images/rotel_nico.jpg"
-[[images]]
-title = "Schlögen Anna auf der Donau"
-src = "images/DONAU2.jpg"
-[[images]]
-title = "Ruder-Vierer auf der Donau"
-src = "images/d94_vierer.jpg"
-[[images]]
-title = "packer trägt franzi ins Ruderboot"
-src = "images/packer_packesel.jpg"
-[[images]]
-title = "melk versinkender steg"
-src = "images/melk_steg.jpg"
-[[images]]
-title = "annette pause im Ruderboot"
-src = "images/annette_pause.jpg"
-[[images]]
-title = "anna Pause an der Schleuse"
-src = "images/anna_pause2.jpg"
-[[images]]
-title = "packer pause"
-src = "images/packer_pause.jpg"
-[[images]]
-title = "Kerstin und Stefan auf der Donau"
-src = "images/DONAU1.jpg"
-[[images]]
-title = "jochen pause am Steg"
-src = "images/jochen_pause.jpg"
-[[images]]
-title = "franzi im Ruderboot"
-src = "images/franzi_stefan.jpg"
-[[images]]
-title = "kerstin berge an der Donau"
-src = "images/kerstin_berge.jpg"
-[[images]]
-title = "pause der Ruderer"
-src = "images/pause.jpg"
-
-+++
+---
+author: ""
+begin: "1994-03-01"
+date: "1994-03-03T01:00:00+02:00"
+gewässer:
+- donau
+- ilz
+- inn
+- havel
+- wannsee
+- oder
+images:
+- src: images/bus.jpg
+  title: kleinbus voll ruderern
+- src: images/bootshaenger.jpg
+  title: Bootsanhänger in Straubing
+- src: images/gelage.jpg
+  title: gelage der Ruderer
+- src: images/treppe_passau.jpg
+  title: steile treppe in passau
+- src: images/passau_fluesse.jpg
+  title: passau 3-flüsse
+- src: images/rotel_nico.jpg
+  title: rotel passau nico
+- src: images/DONAU2.jpg
+  title: Schlögen Anna auf der Donau
+- src: images/d94_vierer.jpg
+  title: Ruder-Vierer auf der Donau
+- src: images/packer_packesel.jpg
+  title: packer trägt franzi ins Ruderboot
+- src: images/melk_steg.jpg
+  title: melk versinkender steg
+- src: images/annette_pause.jpg
+  title: annette pause im Ruderboot
+- src: images/anna_pause2.jpg
+  title: anna Pause an der Schleuse
+- src: images/packer_pause.jpg
+  title: packer pause
+- src: images/DONAU1.jpg
+  title: Kerstin und Stefan auf der Donau
+- src: images/jochen_pause.jpg
+  title: jochen pause am Steg
+- src: images/franzi_stefan.jpg
+  title: franzi im Ruderboot
+- src: images/kerstin_berge.jpg
+  title: kerstin berge an der Donau
+- src: images/pause.jpg
+  title: pause der Ruderer
+länder:
+- österreich
+title: donau 1994
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

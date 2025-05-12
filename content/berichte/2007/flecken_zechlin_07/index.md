@@ -1,19 +1,17 @@
-+++
-title = "Flecken Zechlin 07"
-author = ""
-date = 2007-09-09T01:00:00+02:00
-begin = "2007-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kinderruderer Flecken 07"
-src = "images/Kinderruderer_Flecken_07.JPG"
-[[images]]
-title = "Rudervierer auf dem Zechliner See 07"
-src = "images/Rudervierer_auf_dem_Zechliner_See_07.JPG"
-
-+++
+---
+author: ""
+begin: "2007-09-01"
+date: "2007-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kinderruderer_Flecken_07.JPG
+  title: Kinderruderer Flecken 07
+- src: images/Rudervierer_auf_dem_Zechliner_See_07.JPG
+  title: Rudervierer auf dem Zechliner See 07
+länder: []
+title: Flecken Zechlin 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

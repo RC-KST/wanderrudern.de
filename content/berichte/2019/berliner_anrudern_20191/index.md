@@ -1,28 +1,26 @@
-+++
-title = "Berliner Anrudern 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["dahme", "spree", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer Party Friedrichshagen 2019"
-src = "images/Ruderer_Party_Friedrichshagen_2019.jpg"
-[[images]]
-title = "Party Friedrichshagen 2019"
-src = "images/Party_Friedrichshagen_2019.jpg"
-[[images]]
-title = "Dämeritzsee E4x+ 2019"
-src = "images/Dameritzsee_E4x__2019.jpg"
-[[images]]
-title = "Achter vor den Müggelbergen Anrudern 2019"
-src = "images/Achter_vor_den_Muggelbergen_Anrudern_2019.jpg"
-[[images]]
-title = "Ende des Müggelsees Anrudern 2019"
-src = "images/Ende_des_Muggelsees_Anrudern_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+images:
+- src: images/Ruderer_Party_Friedrichshagen_2019.jpg
+  title: Ruderer Party Friedrichshagen 2019
+- src: images/Party_Friedrichshagen_2019.jpg
+  title: Party Friedrichshagen 2019
+- src: images/Dameritzsee_E4x__2019.jpg
+  title: Dämeritzsee E4x+ 2019
+- src: images/Achter_vor_den_Muggelbergen_Anrudern_2019.jpg
+  title: Achter vor den Müggelbergen Anrudern 2019
+- src: images/Ende_des_Muggelsees_Anrudern_2019.jpg
+  title: Ende des Müggelsees Anrudern 2019
+länder: []
+title: Berliner Anrudern 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

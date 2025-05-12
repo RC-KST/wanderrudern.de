@@ -1,220 +1,161 @@
-+++
-title = "Donau Budapest Eisernes Tor 2012"
-author = ""
-date = 2012-04-04T01:00:00+02:00
-begin = "2012-04-01"
-"gewässer" = ["donau", "teltowkanal", "oder", "erne", "porsangenfjord", "orivesi"]
-"länder" = ["deutschland", "dänemark", "ungarn", "serbien"]
-"typ" = "marathon"
-[[images]]
-title = "Marlene in Budapest Donau 2012"
-src = "images/Marlene_in_Budapest_Donau_2012.jpg"
-[[images]]
-title = "Budapest Schloss Donau 12"
-src = "images/Budapest_Schloss_Donau_12.jpg"
-[[images]]
-title = "Budapest vom Ruderboot Donau 2012"
-src = "images/Budapest_vom_Ruderboot_Donau_2012.jpg"
-[[images]]
-title = "Kisapostag Yachtclub Ruderer Donau 12"
-src = "images/Kisapostag_Yachtclub_Ruderer_Donau_12.jpg"
-[[images]]
-title = "Abendessen Dombori Donau 2012"
-src = "images/Abendessen_Dombori_Donau_2012.jpg"
-[[images]]
-title = "Grillen Kisapostag Donau 12"
-src = "images/Grillen_Kisapostag_Donau_12.jpg"
-[[images]]
-title = "Wind auf der Donau 12"
-src = "images/Wind_auf_der_Donau_12.jpg"
-[[images]]
-title = "Eisdiele Paks  Donau 2012"
-src = "images/Eisdiele_Paks__Donau_2012.jpg"
-[[images]]
-title = "Apatin kurz vor dem gewitter Donau 2012"
-src = "images/Apatin_kurz_vor_dem_gewitter_Donau_2012.jpg"
-[[images]]
-title = "Mohacs Ostereier Donau 12"
-src = "images/Mohacs_Ostereier_Donau_12.jpg"
-[[images]]
-title = "grosse dokumente Serbien Donau 2012"
-src = "images/grosse_dokumente_Serbien_Donau_2012.jpg"
-[[images]]
-title = "Christel am Steuer Donau 12"
-src = "images/Christel_am_Steuer_Donau_12.jpg"
-[[images]]
-title = "Karavukovo Ruderer auf der Strasse Donau 2012"
-src = "images/Karavukovo_Ruderer_auf_der_Strasse_Donau_2012.jpg"
-[[images]]
-title = "Kanal nach Karavukovo Donau 2012"
-src = "images/Kanal_nach_Karavukovo_Donau_2012.jpg"
-[[images]]
-title = "Nirina Leon Zweier Donau 2012"
-src = "images/Nirina_Leon_Zweier_Donau_2012.jpg"
-[[images]]
-title = "Quartier Karavukovo Donau 2012"
-src = "images/Quartier_Karavukovo_Donau_2012.jpg"
-[[images]]
-title = "Matze beim Mittagessen Donau 2012"
-src = "images/Matze_beim_Mittagessen_Donau_2012.jpg"
-[[images]]
-title = "Restaurant Idila Donau 2012"
-src = "images/Restaurant_Idila_Donau_2012.jpg"
-[[images]]
-title = "Vierer auf dem Kanal Karavukovo Donau 2012"
-src = "images/Vierer_auf_dem_Kanal_Karavukovo_Donau_2012.jpg"
-[[images]]
-title = "Leon Donau Nebenarm Donau 2012"
-src = "images/Leon_Donau_Nebenarm_Donau_2012.jpg"
-[[images]]
-title = "Baggerschiff Donau 2012"
-src = "images/Baggerschiff_Donau_2012.jpg"
-[[images]]
-title = "Novi Sad Festung Donau 2012"
-src = "images/Novi_Sad_Festung_Donau_2012.jpg"
-[[images]]
-title = "Nirina und JarJar Donau 2012"
-src = "images/Nirina_und_JarJar_Donau_2012.jpg"
-[[images]]
-title = "Elina am Strand Donau 2012"
-src = "images/Elina_am_Strand_Donau_2012.jpg"
-[[images]]
-title = "Hotel Sremski Karlovci Donau 2012"
-src = "images/Hotel_Sremski_Karlovci_Donau_2012.jpg"
-[[images]]
-title = "LingLing jagt das Abendessen Donau 2012"
-src = "images/LingLing_jagt_das_Abendessen_Donau_2012.jpg"
-[[images]]
-title = "Vierer in Novi Sad Donau 2012"
-src = "images/Vierer_in_Novi_Sad_Donau_2012.jpg"
-[[images]]
-title = "Ankernde Schiffe Novi Sad Donau 2012"
-src = "images/Ankernde_Schiffe_Novi_Sad_Donau_2012.jpg"
-[[images]]
-title = "Aufstieg zum Hotel Stari Banovci Donau 12"
-src = "images/Aufstieg_zum_Hotel_Stari_Banovci_Donau_12.jpg"
-[[images]]
-title = "Hotel Kondor Donau 2012"
-src = "images/Hotel_Kondor_Donau_2012.jpg"
-[[images]]
-title = "Zweier am schlammigen Ufer Donau 2012"
-src = "images/Zweier_am_schlammigen_Ufer_Donau_2012.jpg"
-[[images]]
-title = "Vierer vor Steilufer Donau 2012"
-src = "images/Vierer_vor_Steilufer_Donau_2012.jpg"
-[[images]]
-title = "Marlene klettert Donau 2012"
-src = "images/Marlene_klettert_Donau_2012.jpg"
-[[images]]
-title = "Hotel Kondor Abendessen Donau 2012"
-src = "images/Hotel_Kondor_Abendessen_Donau_2012.jpg"
-[[images]]
-title = "Pancevo Ruderverein Donau 2012"
-src = "images/Pancevo_Ruderverein_Donau_2012.jpg"
-[[images]]
-title = "Belgrad Zemun Donau 2012"
-src = "images/Belgrad_Zemun_Donau_2012.jpg"
-[[images]]
-title = "Donaublick Smederovo Donau 2012"
-src = "images/Donaublick_Smederovo_Donau_2012.jpg"
-[[images]]
-title = "Ruderboot auf der Tamis Donau 2012"
-src = "images/Ruderboot_auf_der_Tamis_Donau_2012.jpg"
-[[images]]
-title = "Belgrad Festung Donau 2012"
-src = "images/Belgrad_Festung_Donau_2012.jpg"
-[[images]]
-title = "Ruderinnen in Smederovo Donau 2012"
-src = "images/Ruderinnen_in_Smederovo_Donau_2012.jpg"
-[[images]]
-title = "Festung am Donauufer Donau 2012"
-src = "images/Festung_am_Donauufer_Donau_2012.jpg"
-[[images]]
-title = "Ruderboot in heftigen Wellen 2012"
-src = "images/Ruderboot_in_heftigen_Wellen_2012.jpg"
-[[images]]
-title = "Vierer in Wellen Donau 2012"
-src = "images/Vierer_in_Wellen_Donau_2012.jpg"
-[[images]]
-title = "Boote ausheben Donau 2012"
-src = "images/Boote_ausheben_Donau_2012.jpg"
-[[images]]
-title = "Zweier am Strand Donau 2012"
-src = "images/Zweier_am_Strand_Donau_2012.jpg"
-[[images]]
-title = "Ruderboot heftige Wellen Donau 2012"
-src = "images/Ruderboot_heftige_Wellen_Donau_2012.jpg"
-[[images]]
-title = "Boote lagern Donau 2012"
-src = "images/Boote_lagern_Donau_2012.jpg"
-[[images]]
-title = "Marlene Golubac Festung Donau 2012"
-src = "images/Marlene_Golubac_Festung_Donau_2012.jpg"
-[[images]]
-title = "Einfahrt in die Engstrecke Donau 2012"
-src = "images/Einfahrt_in_die_Engstrecke_Donau_2012.jpg"
-[[images]]
-title = "Marlene auf der Donau 12"
-src = "images/Marlene_auf_der_Donau_12.jpg"
-[[images]]
-title = "Christel Donau 12"
-src = "images/Christel_Donau_12.jpg"
-[[images]]
-title = "Am Rand der Karpaten Donau 12"
-src = "images/Am_Rand_der_Karpaten_Donau_12.jpg"
-[[images]]
-title = "Aussicht von Donji Milanovac Donau 12"
-src = "images/Aussicht_von_Donji_Milanovac_Donau_12.jpg"
-[[images]]
-title = "Lobby Hotel Donji Milanovac Donau 12"
-src = "images/Lobby_Hotel_Donji_Milanovac_Donau_12.jpg"
-[[images]]
-title = "Rudervierer im Eisernen Tor Donau 12"
-src = "images/Rudervierer_im_Eisernen_Tor_Donau_12.jpg"
-[[images]]
-title = "In den Schluchten des Balkan Donau 12"
-src = "images/In_den_Schluchten_des_Balkan_Donau_12.jpg"
-[[images]]
-title = "Ruderboote in der Engstelle Donau 12"
-src = "images/Ruderboote_in_der_Engstelle_Donau_12.jpg"
-[[images]]
-title = "Zweier im Eisernen Tor Donau 12"
-src = "images/Zweier_im_Eisernen_Tor_Donau_12.jpg"
-[[images]]
-title = "durchs Eiserne Tor Donau 12"
-src = "images/durchs_Eiserne_Tor_Donau_12.jpg"
-[[images]]
-title = "Kloster im Eisernen Tor Donau 12"
-src = "images/Kloster_im_Eisernen_Tor_Donau_12.jpg"
-[[images]]
-title = "Tabula Trajana Donau 12"
-src = "images/Tabula_Trajana_Donau_12.jpg"
-[[images]]
-title = "Ungarischer Koenig Donau 12"
-src = "images/Ungarischer_Koenig_Donau_12.jpg"
-[[images]]
-title = "Vierer an der Schleuse Djerdap Donau 12"
-src = "images/Vierer_an_der_Schleuse_Djerdap_Donau_12.jpg"
-[[images]]
-title = "Globetrotter in Tekija Donau 12"
-src = "images/Globetrotter_in_Tekija_Donau_12.jpg"
-[[images]]
-title = "Geladener Anhaenger in Tekija Donau 12"
-src = "images/Geladener_Anhaenger_in_Tekija_Donau_12.jpg"
-[[images]]
-title = "Tekija Downtown Donau 12"
-src = "images/Tekija_Downtown_Donau_12.jpg"
-[[images]]
-title = "Grenzstau Serbien Ungarn Donau 12"
-src = "images/Grenzstau_Serbien_Ungarn_Donau_12.jpg"
-[[images]]
-title = "Bahnrueckfahrt Budapest - Berlin Donau 12"
-src = "images/Bahnrueckfahrt_Budapest_-_Berlin_Donau_12.jpg"
-[[images]]
-title = "Bahn Budapest Berlin Donau 12"
-src = "images/Bahn_Budapest_Berlin_Donau_12.jpg"
-
-+++
+---
+author: ""
+begin: "2012-04-01"
+date: "2012-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- teltowkanal
+- oder
+- erne
+- porsangenfjord
+- orivesi
+images:
+- src: images/Marlene_in_Budapest_Donau_2012.jpg
+  title: Marlene in Budapest Donau 2012
+- src: images/Budapest_Schloss_Donau_12.jpg
+  title: Budapest Schloss Donau 12
+- src: images/Budapest_vom_Ruderboot_Donau_2012.jpg
+  title: Budapest vom Ruderboot Donau 2012
+- src: images/Kisapostag_Yachtclub_Ruderer_Donau_12.jpg
+  title: Kisapostag Yachtclub Ruderer Donau 12
+- src: images/Abendessen_Dombori_Donau_2012.jpg
+  title: Abendessen Dombori Donau 2012
+- src: images/Grillen_Kisapostag_Donau_12.jpg
+  title: Grillen Kisapostag Donau 12
+- src: images/Wind_auf_der_Donau_12.jpg
+  title: Wind auf der Donau 12
+- src: images/Eisdiele_Paks__Donau_2012.jpg
+  title: Eisdiele Paks  Donau 2012
+- src: images/Apatin_kurz_vor_dem_gewitter_Donau_2012.jpg
+  title: Apatin kurz vor dem gewitter Donau 2012
+- src: images/Mohacs_Ostereier_Donau_12.jpg
+  title: Mohacs Ostereier Donau 12
+- src: images/grosse_dokumente_Serbien_Donau_2012.jpg
+  title: grosse dokumente Serbien Donau 2012
+- src: images/Christel_am_Steuer_Donau_12.jpg
+  title: Christel am Steuer Donau 12
+- src: images/Karavukovo_Ruderer_auf_der_Strasse_Donau_2012.jpg
+  title: Karavukovo Ruderer auf der Strasse Donau 2012
+- src: images/Kanal_nach_Karavukovo_Donau_2012.jpg
+  title: Kanal nach Karavukovo Donau 2012
+- src: images/Nirina_Leon_Zweier_Donau_2012.jpg
+  title: Nirina Leon Zweier Donau 2012
+- src: images/Quartier_Karavukovo_Donau_2012.jpg
+  title: Quartier Karavukovo Donau 2012
+- src: images/Matze_beim_Mittagessen_Donau_2012.jpg
+  title: Matze beim Mittagessen Donau 2012
+- src: images/Restaurant_Idila_Donau_2012.jpg
+  title: Restaurant Idila Donau 2012
+- src: images/Vierer_auf_dem_Kanal_Karavukovo_Donau_2012.jpg
+  title: Vierer auf dem Kanal Karavukovo Donau 2012
+- src: images/Leon_Donau_Nebenarm_Donau_2012.jpg
+  title: Leon Donau Nebenarm Donau 2012
+- src: images/Baggerschiff_Donau_2012.jpg
+  title: Baggerschiff Donau 2012
+- src: images/Novi_Sad_Festung_Donau_2012.jpg
+  title: Novi Sad Festung Donau 2012
+- src: images/Nirina_und_JarJar_Donau_2012.jpg
+  title: Nirina und JarJar Donau 2012
+- src: images/Elina_am_Strand_Donau_2012.jpg
+  title: Elina am Strand Donau 2012
+- src: images/Hotel_Sremski_Karlovci_Donau_2012.jpg
+  title: Hotel Sremski Karlovci Donau 2012
+- src: images/LingLing_jagt_das_Abendessen_Donau_2012.jpg
+  title: LingLing jagt das Abendessen Donau 2012
+- src: images/Vierer_in_Novi_Sad_Donau_2012.jpg
+  title: Vierer in Novi Sad Donau 2012
+- src: images/Ankernde_Schiffe_Novi_Sad_Donau_2012.jpg
+  title: Ankernde Schiffe Novi Sad Donau 2012
+- src: images/Aufstieg_zum_Hotel_Stari_Banovci_Donau_12.jpg
+  title: Aufstieg zum Hotel Stari Banovci Donau 12
+- src: images/Hotel_Kondor_Donau_2012.jpg
+  title: Hotel Kondor Donau 2012
+- src: images/Zweier_am_schlammigen_Ufer_Donau_2012.jpg
+  title: Zweier am schlammigen Ufer Donau 2012
+- src: images/Vierer_vor_Steilufer_Donau_2012.jpg
+  title: Vierer vor Steilufer Donau 2012
+- src: images/Marlene_klettert_Donau_2012.jpg
+  title: Marlene klettert Donau 2012
+- src: images/Hotel_Kondor_Abendessen_Donau_2012.jpg
+  title: Hotel Kondor Abendessen Donau 2012
+- src: images/Pancevo_Ruderverein_Donau_2012.jpg
+  title: Pancevo Ruderverein Donau 2012
+- src: images/Belgrad_Zemun_Donau_2012.jpg
+  title: Belgrad Zemun Donau 2012
+- src: images/Donaublick_Smederovo_Donau_2012.jpg
+  title: Donaublick Smederovo Donau 2012
+- src: images/Ruderboot_auf_der_Tamis_Donau_2012.jpg
+  title: Ruderboot auf der Tamis Donau 2012
+- src: images/Belgrad_Festung_Donau_2012.jpg
+  title: Belgrad Festung Donau 2012
+- src: images/Ruderinnen_in_Smederovo_Donau_2012.jpg
+  title: Ruderinnen in Smederovo Donau 2012
+- src: images/Festung_am_Donauufer_Donau_2012.jpg
+  title: Festung am Donauufer Donau 2012
+- src: images/Ruderboot_in_heftigen_Wellen_2012.jpg
+  title: Ruderboot in heftigen Wellen 2012
+- src: images/Vierer_in_Wellen_Donau_2012.jpg
+  title: Vierer in Wellen Donau 2012
+- src: images/Boote_ausheben_Donau_2012.jpg
+  title: Boote ausheben Donau 2012
+- src: images/Zweier_am_Strand_Donau_2012.jpg
+  title: Zweier am Strand Donau 2012
+- src: images/Ruderboot_heftige_Wellen_Donau_2012.jpg
+  title: Ruderboot heftige Wellen Donau 2012
+- src: images/Boote_lagern_Donau_2012.jpg
+  title: Boote lagern Donau 2012
+- src: images/Marlene_Golubac_Festung_Donau_2012.jpg
+  title: Marlene Golubac Festung Donau 2012
+- src: images/Einfahrt_in_die_Engstrecke_Donau_2012.jpg
+  title: Einfahrt in die Engstrecke Donau 2012
+- src: images/Marlene_auf_der_Donau_12.jpg
+  title: Marlene auf der Donau 12
+- src: images/Christel_Donau_12.jpg
+  title: Christel Donau 12
+- src: images/Am_Rand_der_Karpaten_Donau_12.jpg
+  title: Am Rand der Karpaten Donau 12
+- src: images/Aussicht_von_Donji_Milanovac_Donau_12.jpg
+  title: Aussicht von Donji Milanovac Donau 12
+- src: images/Lobby_Hotel_Donji_Milanovac_Donau_12.jpg
+  title: Lobby Hotel Donji Milanovac Donau 12
+- src: images/Rudervierer_im_Eisernen_Tor_Donau_12.jpg
+  title: Rudervierer im Eisernen Tor Donau 12
+- src: images/In_den_Schluchten_des_Balkan_Donau_12.jpg
+  title: In den Schluchten des Balkan Donau 12
+- src: images/Ruderboote_in_der_Engstelle_Donau_12.jpg
+  title: Ruderboote in der Engstelle Donau 12
+- src: images/Zweier_im_Eisernen_Tor_Donau_12.jpg
+  title: Zweier im Eisernen Tor Donau 12
+- src: images/durchs_Eiserne_Tor_Donau_12.jpg
+  title: durchs Eiserne Tor Donau 12
+- src: images/Kloster_im_Eisernen_Tor_Donau_12.jpg
+  title: Kloster im Eisernen Tor Donau 12
+- src: images/Tabula_Trajana_Donau_12.jpg
+  title: Tabula Trajana Donau 12
+- src: images/Ungarischer_Koenig_Donau_12.jpg
+  title: Ungarischer Koenig Donau 12
+- src: images/Vierer_an_der_Schleuse_Djerdap_Donau_12.jpg
+  title: Vierer an der Schleuse Djerdap Donau 12
+- src: images/Globetrotter_in_Tekija_Donau_12.jpg
+  title: Globetrotter in Tekija Donau 12
+- src: images/Geladener_Anhaenger_in_Tekija_Donau_12.jpg
+  title: Geladener Anhaenger in Tekija Donau 12
+- src: images/Tekija_Downtown_Donau_12.jpg
+  title: Tekija Downtown Donau 12
+- src: images/Grenzstau_Serbien_Ungarn_Donau_12.jpg
+  title: Grenzstau Serbien Ungarn Donau 12
+- src: images/Bahnrueckfahrt_Budapest_-_Berlin_Donau_12.jpg
+  title: Bahnrueckfahrt Budapest - Berlin Donau 12
+- src: images/Bahn_Budapest_Berlin_Donau_12.jpg
+  title: Bahn Budapest Berlin Donau 12
+länder:
+- deutschland
+- dänemark
+- ungarn
+- serbien
+title: Donau Budapest Eisernes Tor 2012
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

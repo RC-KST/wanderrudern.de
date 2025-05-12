@@ -1,22 +1,24 @@
-+++
-title = "Donau 2013 Rumänien Bulgarien"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["donau", "oder"]
-"länder" = ["deutschland", "bulgarien", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "das ist eine Hauptstrasse Donau 2013"
-src = "images/das_ist_eine_Hauptstrasse_Donau_2013.jpg"
-[[images]]
-title = "Grenzuebergang Arad Hauptstrasse DOnau 2013"
-src = "images/Grenzuebergang_Arad_Hauptstrasse_DOnau_2013.jpg"
-[[images]]
-title = "Ochsenkarren auf der Hauptstrasse rumaenien 2013"
-src = "images/Ochsenkarren_auf_der_Hauptstrasse_rumaenien_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- oder
+images:
+- src: images/das_ist_eine_Hauptstrasse_Donau_2013.jpg
+  title: das ist eine Hauptstrasse Donau 2013
+- src: images/Grenzuebergang_Arad_Hauptstrasse_DOnau_2013.jpg
+  title: Grenzuebergang Arad Hauptstrasse DOnau 2013
+- src: images/Ochsenkarren_auf_der_Hauptstrasse_rumaenien_2013.jpg
+  title: Ochsenkarren auf der Hauptstrasse rumaenien 2013
+länder:
+- deutschland
+- bulgarien
+- serbien
+title: Donau 2013 Rumänien Bulgarien
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

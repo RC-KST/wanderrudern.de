@@ -1,274 +1,192 @@
-+++
-title = "Aequatorpreis Nirina 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["maas", "oder"]
-"länder" = ["frankreich", "niederlande", "belgien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Verdun Ruderclub Start Maas 2017"
-src = "images/Verdun_Ruderclub_Start_Maas_2017.jpg"
-[[images]]
-title = "Ruderclub Verdun ablegen Maas 2017"
-src = "images/Ruderclub_Verdun_ablegen_Maas_2017.jpg"
-[[images]]
-title = "Verdun Stadtdurchfahrt Maas 2017"
-src = "images/Verdun_Stadtdurchfahrt_Maas_2017.jpg"
-[[images]]
-title = "Schleuse umtragen bei Verdun 2017"
-src = "images/Schleuse_umtragen_bei_Verdun_2017.jpg"
-[[images]]
-title = "Schleusenwartin Maas 2017"
-src = "images/Schleusenwartin_Maas_2017.jpg"
-[[images]]
-title = "Vierer auf dem Maas Kanal 2017"
-src = "images/Vierer_auf_dem_Maas_Kanal_2017.jpg"
-[[images]]
-title = "Ruderboote auf der Maas bei Verdun 2017"
-src = "images/Ruderboote_auf_der_Maas_bei_Verdun_2017.jpg"
-[[images]]
-title = "die Maas ist über der Ebene 2017"
-src = "images/die_Maas_ist_uber_der_Ebene_2017.jpg"
-[[images]]
-title = "Schleuse oeffnet Maas 2017"
-src = "images/Schleuse_oeffnet_Maas_2017.jpg"
-[[images]]
-title = "Aussetzstelle Maaskanal 2017"
-src = "images/Aussetzstelle_Maaskanal_2017.jpg"
-[[images]]
-title = "Verdun vor dem Hotel Maas 2017"
-src = "images/Verdun_vor_dem_Hotel_Maas_2017.jpg"
-[[images]]
-title = "Ruderer kochen vor dem Hotel 2017"
-src = "images/Ruderer_kochen_vor_dem_Hotel_2017.jpg"
-[[images]]
-title = "Maas Schleuse 2017"
-src = "images/Maas_Schleuse_2017.jpg"
-[[images]]
-title = "Maaskanal und Maas 2017"
-src = "images/Maaskanal_und_Maas_2017.jpg"
-[[images]]
-title = "Maasschleuse Dreier 2017"
-src = "images/Maasschleuse_Dreier_2017.jpg"
-[[images]]
-title = "Ruderboote Maas 2017"
-src = "images/Ruderboote_Maas_2017.jpg"
-[[images]]
-title = "Dun an der Maas 2017"
-src = "images/Dun_an_der_Maas_2017.jpg"
-[[images]]
-title = "Festungsanlage Maas 2017"
-src = "images/Festungsanlage_Maas_2017.jpg"
-[[images]]
-title = "Maas bei Stenay 2017"
-src = "images/Maas_bei_Stenay_2017.jpg"
-[[images]]
-title = "Maas Schleuse Stenay 2017"
-src = "images/Maas_Schleuse_Stenay_2017.jpg"
-[[images]]
-title = "Wanderruderer kochen das Abendessen in Stenay Maas 2017"
-src = "images/Wanderruderer_kochen_das_Abendessen_in_Stenay_Maas_2017.jpg"
-[[images]]
-title = "Hotel in Sedan 2017"
-src = "images/Hotel_in_Sedan_2017.jpg"
-[[images]]
-title = "Stenay im Yachthafen 2017"
-src = "images/Stenay_im_Yachthafen_2017.jpg"
-[[images]]
-title = "Schulze mit Blumenschmuck Maas 2017"
-src = "images/Schulze_mit_Blumenschmuck_Maas_2017.jpg"
-[[images]]
-title = "Nirina auf dem Maas kanal 2017"
-src = "images/Nirina_auf_dem_Maas_kanal_2017.jpg"
-[[images]]
-title = "Aussteigen in der Schleuse Maas 2017"
-src = "images/Aussteigen_in_der_Schleuse_Maas_2017.jpg"
-[[images]]
-title = "Bedienung des Sensors Schleuse Maas 2017"
-src = "images/Bedienung_des_Sensors_Schleuse_Maas_2017.jpg"
-[[images]]
-title = "Schleuse mal wieder ausgefallen Maas 2017"
-src = "images/Schleuse_mal_wieder_ausgefallen_Maas_2017.jpg"
-[[images]]
-title = "Ruderboot Mouzon Maas 2017"
-src = "images/Ruderboot_Mouzon_Maas_2017.jpg"
-[[images]]
-title = "Kirche in Mouzon Maas 2017"
-src = "images/Kirche_in_Mouzon_Maas_2017.jpg"
-[[images]]
-title = "Abendessen Kanuklub Sedan Maas 2017"
-src = "images/Abendessen_Kanuklub_Sedan_Maas_2017.jpg"
-[[images]]
-title = "Platzregen in Sedan 2017"
-src = "images/Platzregen_in_Sedan_2017.jpg"
-[[images]]
-title = "Einfahrt nach Charleville Maas 2017"
-src = "images/Einfahrt_nach_Charleville_Maas_2017.jpg"
-[[images]]
-title = "LingLing in der Schleuse Maas 2017"
-src = "images/LingLing_in_der_Schleuse_Maas_2017.jpg"
-[[images]]
-title = "Hotel Charleville 2017"
-src = "images/Hotel_Charleville_2017.jpg"
-[[images]]
-title = "Ruderclub Charleville Maas 2017"
-src = "images/Ruderclub_Charleville_Maas_2017.jpg"
-[[images]]
-title = "in den Ardennen Maas 2017"
-src = "images/in_den_Ardennen_Maas_2017.jpg"
-[[images]]
-title = "Ardennenstadt Maas 2017"
-src = "images/Ardennenstadt_Maas_2017.jpg"
-[[images]]
-title = "Ruderboote in den Ardennen Maas 2017"
-src = "images/Ruderboote_in_den_Ardennen_Maas_2017.jpg"
-[[images]]
-title = "Mittagspause in Montherme Maas 2017"
-src = "images/Mittagspause_in_Montherme_Maas_2017.jpg"
-[[images]]
-title = "Training in der Mittagspause Maas 2017"
-src = "images/Training_in_der_Mittagspause_Maas_2017.jpg"
-[[images]]
-title = "warten vor einer Maas Schleuse 2017"
-src = "images/warten_vor_einer_Maas_Schleuse_2017.jpg"
-[[images]]
-title = "Schleuse mit Ziegenbock Maas 2017"
-src = "images/Schleuse_mit_Ziegenbock_Maas_2017.jpg"
-[[images]]
-title = "war mal ein feudales Haus Maas 2017"
-src = "images/war_mal_ein_feudales_Haus_Maas_2017.jpg"
-[[images]]
-title = "Berg mit Baummuster Maas 2017"
-src = "images/Berg_mit_Baummuster_Maas_2017.jpg"
-[[images]]
-title = "letzte Schleuse vor Revin Maas 2017"
-src = "images/letzte_Schleuse_vor_Revin_Maas_2017.jpg"
-[[images]]
-title = "Abendessen hinter dem Hotel Maas 2017"
-src = "images/Abendessen_hinter_dem_Hotel_Maas_2017.jpg"
-[[images]]
-title = "Charleville downtown 2017"
-src = "images/Charleville_downtown_2017.jpg"
-[[images]]
-title = "Einfahrt in den Tunnel von Revin Maas 2017"
-src = "images/Einfahrt_in_den_Tunnel_von_Revin_Maas_2017.jpg"
-[[images]]
-title = "Tunnel Revin Maas 2017"
-src = "images/Tunnel_Revin_Maas_2017.jpg"
-[[images]]
-title = "die Frisur sitzt Maas 2017"
-src = "images/die_Frisur_sitzt_Maas_2017.jpg"
-[[images]]
-title = "Kranarbeiten auf der Maas 2017"
-src = "images/Kranarbeiten_auf_der_Maas_2017.jpg"
-[[images]]
-title = "Schiffstunnel von Ham Maas 2017"
-src = "images/Schiffstunnel_von_Ham_Maas_2017.jpg"
-[[images]]
-title = "Stadt an der Maas 2017"
-src = "images/Stadt_an_der_Maas_2017.jpg"
-[[images]]
-title = "Schloss an der Maas 2017"
-src = "images/Schloss_an_der_Maas_2017.jpg"
-[[images]]
-title = "Ruderboot im Schiffstunnel von Ham Maas 2017"
-src = "images/Ruderboot_im_Schiffstunnel_von_Ham_Maas_2017.jpg"
-[[images]]
-title = "Festung Givet Ruderboot Maas 2017"
-src = "images/Festung_Givet_Ruderboot_Maas_2017.jpg"
-[[images]]
-title = "Ruderclub Givet Maas 2017"
-src = "images/Ruderclub_Givet_Maas_2017.jpg"
-[[images]]
-title = "Dauerregen in der Schleuse 2017"
-src = "images/Dauerregen_in_der_Schleuse_2017.jpg"
-[[images]]
-title = "Hannes vor den Felsen Maas 2017"
-src = "images/Hannes_vor_den_Felsen_Maas_2017.jpg"
-[[images]]
-title = "wer sein Boot liebt der schiebt Maas 2017"
-src = "images/wer_sein_Boot_liebt_der_schiebt_Maas_2017.jpg"
-[[images]]
-title = "Abendessen im IBIS Givet Maas 2017"
-src = "images/Abendessen_im_IBIS_Givet_Maas_2017.jpg"
-[[images]]
-title = "Dinant Ruderboote Maas 2017"
-src = "images/Dinant_Ruderboote_Maas_2017.jpg"
-[[images]]
-title = "Felsen in Dinant Maas 2017"
-src = "images/Felsen_in_Dinant_Maas_2017.jpg"
-[[images]]
-title = "Dinant Downtown Maas 2017"
-src = "images/Dinant_Downtown_Maas_2017.jpg"
-[[images]]
-title = "Kirche Dinant Maas 2017"
-src = "images/Kirche_Dinant_Maas_2017.jpg"
-[[images]]
-title = "Maas mal wieder im Regen 2017"
-src = "images/Maas_mal_wieder_im_Regen_2017.jpg"
-[[images]]
-title = "Felsen an der Maas 2017"
-src = "images/Felsen_an_der_Maas_2017.jpg"
-[[images]]
-title = "Festung an der Maas 2017"
-src = "images/Festung_an_der_Maas_2017.jpg"
-[[images]]
-title = "Namur downtown Maas 2017"
-src = "images/Namur_downtown_Maas_2017.jpg"
-[[images]]
-title = "Wetterbericht meist trocken Maas 2017"
-src = "images/Wetterbericht_meist_trocken_Maas_2017.jpg"
-[[images]]
-title = "Etappenziel Scylan Maas 2017"
-src = "images/Etappenziel_Scylan_Maas_2017.jpg"
-[[images]]
-title = "Nirina auf dem Weg nach Liege Maas 2017"
-src = "images/Nirina_auf_dem_Weg_nach_Liege_Maas_2017.jpg"
-[[images]]
-title = "Maas Festungsstadt 2017"
-src = "images/Maas_Festungsstadt_2017.jpg"
-[[images]]
-title = "Maasfestung 2017"
-src = "images/Maasfestung_2017.jpg"
-[[images]]
-title = "KKW Tihange Maas 2017"
-src = "images/KKW_Tihange_Maas_2017.jpg"
-[[images]]
-title = "Industrie vor Liege Maas 2017"
-src = "images/Industrie_vor_Liege_Maas_2017.jpg"
-[[images]]
-title = "Liege downtown Maas 2017"
-src = "images/Liege_downtown_Maas_2017.jpg"
-[[images]]
-title = "Liege Ruderclub Maas 2017"
-src = "images/Liege_Ruderclub_Maas_2017.jpg"
-[[images]]
-title = "architektur vom schlimmsten Liege Maas 2017"
-src = "images/architektur_vom_schlimmsten_Liege_Maas_2017.jpg"
-[[images]]
-title = "Rudererdenkmal liege 2017"
-src = "images/Rudererdenkmal_liege_2017.jpg"
-[[images]]
-title = "Umtrage an der Schleuse vor Maastricht Maas 2017"
-src = "images/Umtrage_an_der_Schleuse_vor_Maastricht_Maas_2017.jpg"
-[[images]]
-title = "Schiffe Prinz Albert Kanal Maas 2017"
-src = "images/Schiffe_Prinz_Albert_Kanal_Maas_2017.jpg"
-[[images]]
-title = "umtragen vor maastricht Maas 2017"
-src = "images/umtragen_vor_maastricht_Maas_2017.jpg"
-[[images]]
-title = "umtrageweg schleuse vor Maastricht 2017"
-src = "images/umtrageweg_schleuse_vor_Maastricht_2017.jpg"
-[[images]]
-title = "Einsetzstelle Maasschleuse 2017"
-src = "images/Einsetzstelle_Maasschleuse_2017.jpg"
-[[images]]
-title = "gesundes Abendessen Liege 2017"
-src = "images/gesundes_Abendessen_Liege_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- maas
+- oder
+images:
+- src: images/Verdun_Ruderclub_Start_Maas_2017.jpg
+  title: Verdun Ruderclub Start Maas 2017
+- src: images/Ruderclub_Verdun_ablegen_Maas_2017.jpg
+  title: Ruderclub Verdun ablegen Maas 2017
+- src: images/Verdun_Stadtdurchfahrt_Maas_2017.jpg
+  title: Verdun Stadtdurchfahrt Maas 2017
+- src: images/Schleuse_umtragen_bei_Verdun_2017.jpg
+  title: Schleuse umtragen bei Verdun 2017
+- src: images/Schleusenwartin_Maas_2017.jpg
+  title: Schleusenwartin Maas 2017
+- src: images/Vierer_auf_dem_Maas_Kanal_2017.jpg
+  title: Vierer auf dem Maas Kanal 2017
+- src: images/Ruderboote_auf_der_Maas_bei_Verdun_2017.jpg
+  title: Ruderboote auf der Maas bei Verdun 2017
+- src: images/die_Maas_ist_uber_der_Ebene_2017.jpg
+  title: die Maas ist über der Ebene 2017
+- src: images/Schleuse_oeffnet_Maas_2017.jpg
+  title: Schleuse oeffnet Maas 2017
+- src: images/Aussetzstelle_Maaskanal_2017.jpg
+  title: Aussetzstelle Maaskanal 2017
+- src: images/Verdun_vor_dem_Hotel_Maas_2017.jpg
+  title: Verdun vor dem Hotel Maas 2017
+- src: images/Ruderer_kochen_vor_dem_Hotel_2017.jpg
+  title: Ruderer kochen vor dem Hotel 2017
+- src: images/Maas_Schleuse_2017.jpg
+  title: Maas Schleuse 2017
+- src: images/Maaskanal_und_Maas_2017.jpg
+  title: Maaskanal und Maas 2017
+- src: images/Maasschleuse_Dreier_2017.jpg
+  title: Maasschleuse Dreier 2017
+- src: images/Ruderboote_Maas_2017.jpg
+  title: Ruderboote Maas 2017
+- src: images/Dun_an_der_Maas_2017.jpg
+  title: Dun an der Maas 2017
+- src: images/Festungsanlage_Maas_2017.jpg
+  title: Festungsanlage Maas 2017
+- src: images/Maas_bei_Stenay_2017.jpg
+  title: Maas bei Stenay 2017
+- src: images/Maas_Schleuse_Stenay_2017.jpg
+  title: Maas Schleuse Stenay 2017
+- src: images/Wanderruderer_kochen_das_Abendessen_in_Stenay_Maas_2017.jpg
+  title: Wanderruderer kochen das Abendessen in Stenay Maas 2017
+- src: images/Hotel_in_Sedan_2017.jpg
+  title: Hotel in Sedan 2017
+- src: images/Stenay_im_Yachthafen_2017.jpg
+  title: Stenay im Yachthafen 2017
+- src: images/Schulze_mit_Blumenschmuck_Maas_2017.jpg
+  title: Schulze mit Blumenschmuck Maas 2017
+- src: images/Nirina_auf_dem_Maas_kanal_2017.jpg
+  title: Nirina auf dem Maas kanal 2017
+- src: images/Aussteigen_in_der_Schleuse_Maas_2017.jpg
+  title: Aussteigen in der Schleuse Maas 2017
+- src: images/Bedienung_des_Sensors_Schleuse_Maas_2017.jpg
+  title: Bedienung des Sensors Schleuse Maas 2017
+- src: images/Schleuse_mal_wieder_ausgefallen_Maas_2017.jpg
+  title: Schleuse mal wieder ausgefallen Maas 2017
+- src: images/Ruderboot_Mouzon_Maas_2017.jpg
+  title: Ruderboot Mouzon Maas 2017
+- src: images/Kirche_in_Mouzon_Maas_2017.jpg
+  title: Kirche in Mouzon Maas 2017
+- src: images/Abendessen_Kanuklub_Sedan_Maas_2017.jpg
+  title: Abendessen Kanuklub Sedan Maas 2017
+- src: images/Platzregen_in_Sedan_2017.jpg
+  title: Platzregen in Sedan 2017
+- src: images/Einfahrt_nach_Charleville_Maas_2017.jpg
+  title: Einfahrt nach Charleville Maas 2017
+- src: images/LingLing_in_der_Schleuse_Maas_2017.jpg
+  title: LingLing in der Schleuse Maas 2017
+- src: images/Hotel_Charleville_2017.jpg
+  title: Hotel Charleville 2017
+- src: images/Ruderclub_Charleville_Maas_2017.jpg
+  title: Ruderclub Charleville Maas 2017
+- src: images/in_den_Ardennen_Maas_2017.jpg
+  title: in den Ardennen Maas 2017
+- src: images/Ardennenstadt_Maas_2017.jpg
+  title: Ardennenstadt Maas 2017
+- src: images/Ruderboote_in_den_Ardennen_Maas_2017.jpg
+  title: Ruderboote in den Ardennen Maas 2017
+- src: images/Mittagspause_in_Montherme_Maas_2017.jpg
+  title: Mittagspause in Montherme Maas 2017
+- src: images/Training_in_der_Mittagspause_Maas_2017.jpg
+  title: Training in der Mittagspause Maas 2017
+- src: images/warten_vor_einer_Maas_Schleuse_2017.jpg
+  title: warten vor einer Maas Schleuse 2017
+- src: images/Schleuse_mit_Ziegenbock_Maas_2017.jpg
+  title: Schleuse mit Ziegenbock Maas 2017
+- src: images/war_mal_ein_feudales_Haus_Maas_2017.jpg
+  title: war mal ein feudales Haus Maas 2017
+- src: images/Berg_mit_Baummuster_Maas_2017.jpg
+  title: Berg mit Baummuster Maas 2017
+- src: images/letzte_Schleuse_vor_Revin_Maas_2017.jpg
+  title: letzte Schleuse vor Revin Maas 2017
+- src: images/Abendessen_hinter_dem_Hotel_Maas_2017.jpg
+  title: Abendessen hinter dem Hotel Maas 2017
+- src: images/Charleville_downtown_2017.jpg
+  title: Charleville downtown 2017
+- src: images/Einfahrt_in_den_Tunnel_von_Revin_Maas_2017.jpg
+  title: Einfahrt in den Tunnel von Revin Maas 2017
+- src: images/Tunnel_Revin_Maas_2017.jpg
+  title: Tunnel Revin Maas 2017
+- src: images/die_Frisur_sitzt_Maas_2017.jpg
+  title: die Frisur sitzt Maas 2017
+- src: images/Kranarbeiten_auf_der_Maas_2017.jpg
+  title: Kranarbeiten auf der Maas 2017
+- src: images/Schiffstunnel_von_Ham_Maas_2017.jpg
+  title: Schiffstunnel von Ham Maas 2017
+- src: images/Stadt_an_der_Maas_2017.jpg
+  title: Stadt an der Maas 2017
+- src: images/Schloss_an_der_Maas_2017.jpg
+  title: Schloss an der Maas 2017
+- src: images/Ruderboot_im_Schiffstunnel_von_Ham_Maas_2017.jpg
+  title: Ruderboot im Schiffstunnel von Ham Maas 2017
+- src: images/Festung_Givet_Ruderboot_Maas_2017.jpg
+  title: Festung Givet Ruderboot Maas 2017
+- src: images/Ruderclub_Givet_Maas_2017.jpg
+  title: Ruderclub Givet Maas 2017
+- src: images/Dauerregen_in_der_Schleuse_2017.jpg
+  title: Dauerregen in der Schleuse 2017
+- src: images/Hannes_vor_den_Felsen_Maas_2017.jpg
+  title: Hannes vor den Felsen Maas 2017
+- src: images/wer_sein_Boot_liebt_der_schiebt_Maas_2017.jpg
+  title: wer sein Boot liebt der schiebt Maas 2017
+- src: images/Abendessen_im_IBIS_Givet_Maas_2017.jpg
+  title: Abendessen im IBIS Givet Maas 2017
+- src: images/Dinant_Ruderboote_Maas_2017.jpg
+  title: Dinant Ruderboote Maas 2017
+- src: images/Felsen_in_Dinant_Maas_2017.jpg
+  title: Felsen in Dinant Maas 2017
+- src: images/Dinant_Downtown_Maas_2017.jpg
+  title: Dinant Downtown Maas 2017
+- src: images/Kirche_Dinant_Maas_2017.jpg
+  title: Kirche Dinant Maas 2017
+- src: images/Maas_mal_wieder_im_Regen_2017.jpg
+  title: Maas mal wieder im Regen 2017
+- src: images/Felsen_an_der_Maas_2017.jpg
+  title: Felsen an der Maas 2017
+- src: images/Festung_an_der_Maas_2017.jpg
+  title: Festung an der Maas 2017
+- src: images/Namur_downtown_Maas_2017.jpg
+  title: Namur downtown Maas 2017
+- src: images/Wetterbericht_meist_trocken_Maas_2017.jpg
+  title: Wetterbericht meist trocken Maas 2017
+- src: images/Etappenziel_Scylan_Maas_2017.jpg
+  title: Etappenziel Scylan Maas 2017
+- src: images/Nirina_auf_dem_Weg_nach_Liege_Maas_2017.jpg
+  title: Nirina auf dem Weg nach Liege Maas 2017
+- src: images/Maas_Festungsstadt_2017.jpg
+  title: Maas Festungsstadt 2017
+- src: images/Maasfestung_2017.jpg
+  title: Maasfestung 2017
+- src: images/KKW_Tihange_Maas_2017.jpg
+  title: KKW Tihange Maas 2017
+- src: images/Industrie_vor_Liege_Maas_2017.jpg
+  title: Industrie vor Liege Maas 2017
+- src: images/Liege_downtown_Maas_2017.jpg
+  title: Liege downtown Maas 2017
+- src: images/Liege_Ruderclub_Maas_2017.jpg
+  title: Liege Ruderclub Maas 2017
+- src: images/architektur_vom_schlimmsten_Liege_Maas_2017.jpg
+  title: architektur vom schlimmsten Liege Maas 2017
+- src: images/Rudererdenkmal_liege_2017.jpg
+  title: Rudererdenkmal liege 2017
+- src: images/Umtrage_an_der_Schleuse_vor_Maastricht_Maas_2017.jpg
+  title: Umtrage an der Schleuse vor Maastricht Maas 2017
+- src: images/Schiffe_Prinz_Albert_Kanal_Maas_2017.jpg
+  title: Schiffe Prinz Albert Kanal Maas 2017
+- src: images/umtragen_vor_maastricht_Maas_2017.jpg
+  title: umtragen vor maastricht Maas 2017
+- src: images/umtrageweg_schleuse_vor_Maastricht_2017.jpg
+  title: umtrageweg schleuse vor Maastricht 2017
+- src: images/Einsetzstelle_Maasschleuse_2017.jpg
+  title: Einsetzstelle Maasschleuse 2017
+- src: images/gesundes_Abendessen_Liege_2017.jpg
+  title: gesundes Abendessen Liege 2017
+länder:
+- frankreich
+- niederlande
+- belgien
+title: Aequatorpreis Nirina 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

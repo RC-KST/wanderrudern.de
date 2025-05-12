@@ -1,46 +1,40 @@
-+++
-title = "Storkow Pfingsten 2022"
-author = ""
-date = 2022-01-01T01:00:00+02:00
-begin = "2022-01-01"
-"gewässer" = ["dahme", "teltowkanal", "wolziger see", "scharmützelsee"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Melina Shayenne im Ruderboot Teltowkanal Storkow 2022"
-src = "images/Melina_Shayenne_im_Ruderboot_Teltowkanal_Storkow_2022.jpg"
-[[images]]
-title = "Baden in Wendenschloss Storkow 2022"
-src = "images/Baden_in_Wendenschloss_Storkow_2022.jpg"
-[[images]]
-title = "Ruderboote Grünau Storkow 2022"
-src = "images/Ruderboote_Grunau_Storkow_2022.jpg"
-[[images]]
-title = "Rudervierer auf der Dahme Storkow 2022"
-src = "images/Rudervierer_auf_der_Dahme_Storkow_2022.jpg"
-[[images]]
-title = "Schleuse Neue Mühle Storkow 2022"
-src = "images/Schleuse_Neue_Muhle_Storkow_2022.jpg"
-[[images]]
-title = "Ruderboote Schleuse Neue Mühle Storkow 2022"
-src = "images/Ruderboote_Schleuse_Neue_Muhle_Storkow_2022.jpg"
-[[images]]
-title = "Grillteam in Storkow 2022"
-src = "images/Grillteam_in_Storkow_2022.jpg"
-[[images]]
-title = "Ruderboot Lebensmittel einkaufen Storkow 2022"
-src = "images/Ruderboot_Lebensmittel_einkaufen_Storkow_2022.jpg"
-[[images]]
-title = "Ruderboote Storkower See 2022"
-src = "images/Ruderboote_Storkower_See_2022.jpg"
-[[images]]
-title = "Ruderboot Storkower See 2022"
-src = "images/Ruderboot_Storkower_See_2022.jpg"
-[[images]]
-title = "Ruderboot Springsee 2022"
-src = "images/Ruderboot_Springsee_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-01-01"
+date: "2022-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- teltowkanal
+- wolziger see
+- scharmützelsee
+images:
+- src: images/Melina_Shayenne_im_Ruderboot_Teltowkanal_Storkow_2022.jpg
+  title: Melina Shayenne im Ruderboot Teltowkanal Storkow 2022
+- src: images/Baden_in_Wendenschloss_Storkow_2022.jpg
+  title: Baden in Wendenschloss Storkow 2022
+- src: images/Ruderboote_Grunau_Storkow_2022.jpg
+  title: Ruderboote Grünau Storkow 2022
+- src: images/Rudervierer_auf_der_Dahme_Storkow_2022.jpg
+  title: Rudervierer auf der Dahme Storkow 2022
+- src: images/Schleuse_Neue_Muhle_Storkow_2022.jpg
+  title: Schleuse Neue Mühle Storkow 2022
+- src: images/Ruderboote_Schleuse_Neue_Muhle_Storkow_2022.jpg
+  title: Ruderboote Schleuse Neue Mühle Storkow 2022
+- src: images/Grillteam_in_Storkow_2022.jpg
+  title: Grillteam in Storkow 2022
+- src: images/Ruderboot_Lebensmittel_einkaufen_Storkow_2022.jpg
+  title: Ruderboot Lebensmittel einkaufen Storkow 2022
+- src: images/Ruderboote_Storkower_See_2022.jpg
+  title: Ruderboote Storkower See 2022
+- src: images/Ruderboot_Storkower_See_2022.jpg
+  title: Ruderboot Storkower See 2022
+- src: images/Ruderboot_Springsee_2022.jpg
+  title: Ruderboot Springsee 2022
+länder:
+- deutschland
+title: Storkow Pfingsten 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

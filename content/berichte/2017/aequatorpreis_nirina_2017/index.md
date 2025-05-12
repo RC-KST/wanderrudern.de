@@ -1,19 +1,18 @@
-+++
-title = "Aequatorpreis Nirina 2017"
-author = ""
-date = 2017-09-09T01:00:00+02:00
-begin = "2017-09-01"
-"gewässer" = ["aller"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Aequatorpreis fuer Nirina 2017"
-src = "images/Aequatorpreis_fuer_Nirina_2017.jpg"
-[[images]]
-title = "Nirina in Utrecht Aequatorpreis 2017"
-src = "images/Nirina_in_Utrecht_Aequatorpreis_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-09-01"
+date: "2017-09-09T01:00:00+02:00"
+gewässer:
+- aller
+images:
+- src: images/Aequatorpreis_fuer_Nirina_2017.jpg
+  title: Aequatorpreis fuer Nirina 2017
+- src: images/Nirina_in_Utrecht_Aequatorpreis_2017.jpg
+  title: Nirina in Utrecht Aequatorpreis 2017
+länder: []
+title: Aequatorpreis Nirina 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

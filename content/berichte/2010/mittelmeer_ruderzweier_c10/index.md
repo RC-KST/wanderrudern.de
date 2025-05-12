@@ -1,13 +1,14 @@
-+++
-title = "Frankreich Camargue 10"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["mittelmeer"]
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- mittelmeer
+länder:
+- frankreich
+title: Frankreich Camargue 10
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

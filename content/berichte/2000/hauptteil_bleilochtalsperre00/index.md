@@ -1,22 +1,21 @@
-+++
-title = "Bleilochtalsperre00"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["aller", "saale"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bleilochtalsperre Ruderinnen Staumauer"
-src = "images/talsperre2.jpg"
-[[images]]
-title = "Vierer auf der Bleilochtalsperre"
-src = "images/Vierer_bl00.jpg"
-[[images]]
-title = "Feengrotten Ruderer"
-src = "images/martina_saalfeld.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- saale
+images:
+- src: images/talsperre2.jpg
+  title: Bleilochtalsperre Ruderinnen Staumauer
+- src: images/Vierer_bl00.jpg
+  title: Vierer auf der Bleilochtalsperre
+- src: images/martina_saalfeld.jpg
+  title: Feengrotten Ruderer
+länder: []
+title: Bleilochtalsperre00
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

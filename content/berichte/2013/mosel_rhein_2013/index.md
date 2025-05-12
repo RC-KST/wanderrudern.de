@@ -1,64 +1,51 @@
-+++
-title = "Saar Mosel Rhein 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["rhein", "mosel", "saar", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Burg an der Mosel 2013"
-src = "images/Burg_an_der_Mosel_2013.jpg"
-[[images]]
-title = "jugend sorgt fuers abendessen 2013"
-src = "images/jugend_sorgt_fuers_abendessen_2013.jpg"
-[[images]]
-title = "traben trabach uebersetzen zur kneipe 2013"
-src = "images/traben_trabach_uebersetzen_zur_kneipe_2013.jpg"
-[[images]]
-title = "Traben trabach am steg 2013"
-src = "images/Traben_trabach_am_steg_2013.jpg"
-[[images]]
-title = "moselschleuse mit reuss luzern 2013"
-src = "images/moselschleuse_mit_reuss_luzern_2013.jpg"
-[[images]]
-title = "mosel aus der rudererperspektive 2013"
-src = "images/mosel_aus_der_rudererperspektive_2013.jpg"
-[[images]]
-title = "Jugendruderboot auf der Mosel 2013"
-src = "images/Jugendruderboot_auf_der_Mosel_2013.jpg"
-[[images]]
-title = "karl kocht das Mittagessen 2013"
-src = "images/karl_kocht_das_Mittagessen_2013.jpg"
-[[images]]
-title = "cochem 2013"
-src = "images/cochem_2013.jpg"
-[[images]]
-title = "anlegestelle cochem 2013"
-src = "images/anlegestelle_cochem_2013.jpg"
-[[images]]
-title = "Autobahnbruecke ueber die Mosel 2013"
-src = "images/Autobahnbruecke_ueber_die_Mosel_2013.jpg"
-[[images]]
-title = "koblenz rhenania 2013"
-src = "images/koblenz_rhenania_2013.jpg"
-[[images]]
-title = "Ruderboot in Neuwied 2013"
-src = "images/Ruderboot_in_Neuwied_2013.jpg"
-[[images]]
-title = "Karl Heinz in Bonn Rhein 2013"
-src = "images/Karl_Heinz_in_Bonn_Rhein_2013.jpg"
-[[images]]
-title = "Ruderer auf dem Niederrhein 2013"
-src = "images/Ruderer_auf_dem_Niederrhein_2013.jpg"
-[[images]]
-title = "dichter Verkehr auf dem Rhein 2013"
-src = "images/dichter_Verkehr_auf_dem_Rhein_2013.jpg"
-[[images]]
-title = "Niederrhein in voller Schoenheit 2013"
-src = "images/Niederrhein_in_voller_Schoenheit_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+- saar
+- oder
+images:
+- src: images/Burg_an_der_Mosel_2013.jpg
+  title: Burg an der Mosel 2013
+- src: images/jugend_sorgt_fuers_abendessen_2013.jpg
+  title: jugend sorgt fuers abendessen 2013
+- src: images/traben_trabach_uebersetzen_zur_kneipe_2013.jpg
+  title: traben trabach uebersetzen zur kneipe 2013
+- src: images/Traben_trabach_am_steg_2013.jpg
+  title: Traben trabach am steg 2013
+- src: images/moselschleuse_mit_reuss_luzern_2013.jpg
+  title: moselschleuse mit reuss luzern 2013
+- src: images/mosel_aus_der_rudererperspektive_2013.jpg
+  title: mosel aus der rudererperspektive 2013
+- src: images/Jugendruderboot_auf_der_Mosel_2013.jpg
+  title: Jugendruderboot auf der Mosel 2013
+- src: images/karl_kocht_das_Mittagessen_2013.jpg
+  title: karl kocht das Mittagessen 2013
+- src: images/cochem_2013.jpg
+  title: cochem 2013
+- src: images/anlegestelle_cochem_2013.jpg
+  title: anlegestelle cochem 2013
+- src: images/Autobahnbruecke_ueber_die_Mosel_2013.jpg
+  title: Autobahnbruecke ueber die Mosel 2013
+- src: images/koblenz_rhenania_2013.jpg
+  title: koblenz rhenania 2013
+- src: images/Ruderboot_in_Neuwied_2013.jpg
+  title: Ruderboot in Neuwied 2013
+- src: images/Karl_Heinz_in_Bonn_Rhein_2013.jpg
+  title: Karl Heinz in Bonn Rhein 2013
+- src: images/Ruderer_auf_dem_Niederrhein_2013.jpg
+  title: Ruderer auf dem Niederrhein 2013
+- src: images/dichter_Verkehr_auf_dem_Rhein_2013.jpg
+  title: dichter Verkehr auf dem Rhein 2013
+- src: images/Niederrhein_in_voller_Schoenheit_2013.jpg
+  title: Niederrhein in voller Schoenheit 2013
+länder: []
+title: Saar Mosel Rhein 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

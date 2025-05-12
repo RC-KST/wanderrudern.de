@@ -1,175 +1,126 @@
-+++
-title = "Rhein 0708"
-author = ""
-date = 2008-01-01T01:00:00+02:00
-begin = "2008-01-01"
-"gewässer" = ["rhein", "oder"]
-"länder" = ["frankreich", "italien", "schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Mannschaft in RHeinfelden RH08"
-src = "images/Mannschaft_in_RHeinfelden_RH08.jpg"
-[[images]]
-title = "Rheinfelden bei Basel Zweier RH08"
-src = "images/Rheinfelden_bei_Basel_Zweier_RH08.jpg"
-[[images]]
-title = "rheinfelden Vierer RH08"
-src = "images/rheinfelden_Vierer_RH08.jpg"
-[[images]]
-title = "Bootsschleppe Augst RW08"
-src = "images/Bootsschleppe_Augst_RW08.jpg"
-[[images]]
-title = "Bootsschleppe Birsfelden R08"
-src = "images/Bootsschleppe_Birsfelden_R08.jpg"
-[[images]]
-title = "Zweier vor Basel RH08"
-src = "images/Zweier_vor_Basel_RH08.jpg"
-[[images]]
-title = "Rhein Seitenkanal RH08"
-src = "images/Rhein_Seitenkanal_RH08.jpg"
-[[images]]
-title = "Schleuse Kembs RH08"
-src = "images/Schleuse_Kembs_RH08.jpg"
-[[images]]
-title = "Ruderer am 29 Dezember07"
-src = "images/Ruderer_am_29_Dezember07.jpg"
-[[images]]
-title = "Silvester Kehl RH08"
-src = "images/Silvester_Kehl_RH08.jpg"
-[[images]]
-title = "Burkheim WSV RH08"
-src = "images/Burkheim_WSV_RH08.jpg"
-[[images]]
-title = "Rheinschleuse RH08"
-src = "images/Rheinschleuse_RH08.jpg"
-[[images]]
-title = "Silvester Fondue Kehl RH08"
-src = "images/Silvester_Fondue_Kehl_RH08.jpg"
-[[images]]
-title = "Ruderer auf dem Rhein vor Karlsruhe RH08"
-src = "images/Ruderer_auf_dem_Rhein_vor_Karlsruhe_RH08.jpg"
-[[images]]
-title = "Rhein im Winter RH08"
-src = "images/Rhein_im_Winter_RH08.jpg"
-[[images]]
-title = "RVWikingKarlsruheSteeg2 RH08"
-src = "images/RVWikingKarlsruheSteeg2_RH08.jpg"
-[[images]]
-title = "Dom zu Speyer RH08"
-src = "images/Dom_zu_Speyer_RH08.jpg"
-[[images]]
-title = "RUderer vor dem Dom RH08"
-src = "images/RUderer_vor_dem_Dom_RH08.jpg"
-[[images]]
-title = "Speyer Ruderclub RH08"
-src = "images/Speyer_Ruderclub_RH08.jpg"
-[[images]]
-title = "Speyer Dom RH08"
-src = "images/Speyer_Dom_RH08.jpg"
-[[images]]
-title = "Ruderer Festmahl in Worms RH08"
-src = "images/Ruderer_Festmahl_in_Worms_RH08.jpg"
-[[images]]
-title = "Maedchen morgens in Speyer RH08"
-src = "images/Maedchen_morgens_in_Speyer_RH08.jpg"
-[[images]]
-title = "Speyer Rudersteg Ruderboote RH08"
-src = "images/Speyer_Rudersteg_Ruderboote_RH08.jpg"
-[[images]]
-title = "worms RH08"
-src = "images/worms_RH08.jpg"
-[[images]]
-title = "Seltsame Heilige RH08"
-src = "images/Seltsame_Heilige_RH08.jpg"
-[[images]]
-title = "Ruderersteg Worms RH08"
-src = "images/Ruderersteg_Worms_RH08.jpg"
-[[images]]
-title = "Bacharach RH08"
-src = "images/Bacharach_RH08.jpg"
-[[images]]
-title = "Schloss in Bacharach RH08"
-src = "images/Schloss_in_Bacharach_RH08.jpg"
-[[images]]
-title = "Binger Loch RH08"
-src = "images/Binger_Loch_RH08.jpg"
-[[images]]
-title = "binger Loch 2 RH08"
-src = "images/binger_Loch_2_RH08.jpg"
-[[images]]
-title = "Rheintal bei Bingen RH08"
-src = "images/Rheintal_bei_Bingen_RH08.jpg"
-[[images]]
-title = "Schiffsverkehr Rhein RH08"
-src = "images/Schiffsverkehr_Rhein_RH08.jpg"
-[[images]]
-title = "Schloss am Rhein RH08"
-src = "images/Schloss_am_Rhein_RH08.jpg"
-[[images]]
-title = "Sandro in Koblenz RH08"
-src = "images/Sandro_in_Koblenz_RH08.jpg"
-[[images]]
-title = "Neuwied Ruderboote RH08"
-src = "images/Neuwied_Ruderboote_RH08.jpg"
-[[images]]
-title = "Steg hochkurbeln RH08"
-src = "images/Steg_hochkurbeln_RH08.jpg"
-[[images]]
-title = "Tanker RH08"
-src = "images/Tanker_RH08.jpg"
-[[images]]
-title = "Niklas Ruderboot Honnef RH08"
-src = "images/Niklas_Ruderboot_Honnef_RH08.jpg"
-[[images]]
-title = "Koeln Dom RH08"
-src = "images/Koeln_Dom_RH08.jpg"
-[[images]]
-title = "Hochwasser Benrath RH08"
-src = "images/Hochwasser_Benrath_RH08.jpg"
-[[images]]
-title = "Uli kurbelt den Steg RH08"
-src = "images/Uli_kurbelt_den_Steg_RH08.jpg"
-[[images]]
-title = "Pause am RHeinstrand RH08"
-src = "images/Pause_am_RHeinstrand_RH08.jpg"
-[[images]]
-title = "duisburg die Schiffe werden groesser RH08"
-src = "images/duisburg_die_Schiffe_werden_groesser_RH08.jpg"
-[[images]]
-title = "Rhein bei Rees RH08"
-src = "images/Rhein_bei_Rees_RH08.jpg"
-[[images]]
-title = "kartenhaus RH08"
-src = "images/kartenhaus_RH08.jpg"
-[[images]]
-title = "Containerfrachter RH08"
-src = "images/Containerfrachter_RH08.jpg"
-[[images]]
-title = "RUderboot vor Industrie RH08"
-src = "images/RUderboot_vor_Industrie_RH08.jpg"
-[[images]]
-title = "Abbruch im Vierer wegen Sturm RH08"
-src = "images/Abbruch_im_Vierer_wegen_Sturm_RH08.jpg"
-[[images]]
-title = "Malte im Sturm RH08"
-src = "images/Malte_im_Sturm_RH08.jpg"
-[[images]]
-title = "Malte schoepft RH08"
-src = "images/Malte_schoepft_RH08.jpg"
-[[images]]
-title = "Frachter im Sturm RH08"
-src = "images/Frachter_im_Sturm_RH08.jpg"
-[[images]]
-title = "Normaler Schiffsverkehr RH08"
-src = "images/Normaler_Schiffsverkehr_RH08.jpg"
-[[images]]
-title = "warten auf den Landdienst RH08"
-src = "images/warten_auf_den_Landdienst_RH08.jpg"
-[[images]]
-title = "strandschoenheit RH0802"
-src = "images/strandschoenheit_RH0802.jpg"
-
-+++
+---
+author: ""
+begin: "2008-01-01"
+date: "2008-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- oder
+images:
+- src: images/Mannschaft_in_RHeinfelden_RH08.jpg
+  title: Mannschaft in RHeinfelden RH08
+- src: images/Rheinfelden_bei_Basel_Zweier_RH08.jpg
+  title: Rheinfelden bei Basel Zweier RH08
+- src: images/rheinfelden_Vierer_RH08.jpg
+  title: rheinfelden Vierer RH08
+- src: images/Bootsschleppe_Augst_RW08.jpg
+  title: Bootsschleppe Augst RW08
+- src: images/Bootsschleppe_Birsfelden_R08.jpg
+  title: Bootsschleppe Birsfelden R08
+- src: images/Zweier_vor_Basel_RH08.jpg
+  title: Zweier vor Basel RH08
+- src: images/Rhein_Seitenkanal_RH08.jpg
+  title: Rhein Seitenkanal RH08
+- src: images/Schleuse_Kembs_RH08.jpg
+  title: Schleuse Kembs RH08
+- src: images/Ruderer_am_29_Dezember07.jpg
+  title: Ruderer am 29 Dezember07
+- src: images/Silvester_Kehl_RH08.jpg
+  title: Silvester Kehl RH08
+- src: images/Burkheim_WSV_RH08.jpg
+  title: Burkheim WSV RH08
+- src: images/Rheinschleuse_RH08.jpg
+  title: Rheinschleuse RH08
+- src: images/Silvester_Fondue_Kehl_RH08.jpg
+  title: Silvester Fondue Kehl RH08
+- src: images/Ruderer_auf_dem_Rhein_vor_Karlsruhe_RH08.jpg
+  title: Ruderer auf dem Rhein vor Karlsruhe RH08
+- src: images/Rhein_im_Winter_RH08.jpg
+  title: Rhein im Winter RH08
+- src: images/RVWikingKarlsruheSteeg2_RH08.jpg
+  title: RVWikingKarlsruheSteeg2 RH08
+- src: images/Dom_zu_Speyer_RH08.jpg
+  title: Dom zu Speyer RH08
+- src: images/RUderer_vor_dem_Dom_RH08.jpg
+  title: RUderer vor dem Dom RH08
+- src: images/Speyer_Ruderclub_RH08.jpg
+  title: Speyer Ruderclub RH08
+- src: images/Speyer_Dom_RH08.jpg
+  title: Speyer Dom RH08
+- src: images/Ruderer_Festmahl_in_Worms_RH08.jpg
+  title: Ruderer Festmahl in Worms RH08
+- src: images/Maedchen_morgens_in_Speyer_RH08.jpg
+  title: Maedchen morgens in Speyer RH08
+- src: images/Speyer_Rudersteg_Ruderboote_RH08.jpg
+  title: Speyer Rudersteg Ruderboote RH08
+- src: images/worms_RH08.jpg
+  title: worms RH08
+- src: images/Seltsame_Heilige_RH08.jpg
+  title: Seltsame Heilige RH08
+- src: images/Ruderersteg_Worms_RH08.jpg
+  title: Ruderersteg Worms RH08
+- src: images/Bacharach_RH08.jpg
+  title: Bacharach RH08
+- src: images/Schloss_in_Bacharach_RH08.jpg
+  title: Schloss in Bacharach RH08
+- src: images/Binger_Loch_RH08.jpg
+  title: Binger Loch RH08
+- src: images/binger_Loch_2_RH08.jpg
+  title: binger Loch 2 RH08
+- src: images/Rheintal_bei_Bingen_RH08.jpg
+  title: Rheintal bei Bingen RH08
+- src: images/Schiffsverkehr_Rhein_RH08.jpg
+  title: Schiffsverkehr Rhein RH08
+- src: images/Schloss_am_Rhein_RH08.jpg
+  title: Schloss am Rhein RH08
+- src: images/Sandro_in_Koblenz_RH08.jpg
+  title: Sandro in Koblenz RH08
+- src: images/Neuwied_Ruderboote_RH08.jpg
+  title: Neuwied Ruderboote RH08
+- src: images/Steg_hochkurbeln_RH08.jpg
+  title: Steg hochkurbeln RH08
+- src: images/Tanker_RH08.jpg
+  title: Tanker RH08
+- src: images/Niklas_Ruderboot_Honnef_RH08.jpg
+  title: Niklas Ruderboot Honnef RH08
+- src: images/Koeln_Dom_RH08.jpg
+  title: Koeln Dom RH08
+- src: images/Hochwasser_Benrath_RH08.jpg
+  title: Hochwasser Benrath RH08
+- src: images/Uli_kurbelt_den_Steg_RH08.jpg
+  title: Uli kurbelt den Steg RH08
+- src: images/Pause_am_RHeinstrand_RH08.jpg
+  title: Pause am RHeinstrand RH08
+- src: images/duisburg_die_Schiffe_werden_groesser_RH08.jpg
+  title: duisburg die Schiffe werden groesser RH08
+- src: images/Rhein_bei_Rees_RH08.jpg
+  title: Rhein bei Rees RH08
+- src: images/kartenhaus_RH08.jpg
+  title: kartenhaus RH08
+- src: images/Containerfrachter_RH08.jpg
+  title: Containerfrachter RH08
+- src: images/RUderboot_vor_Industrie_RH08.jpg
+  title: RUderboot vor Industrie RH08
+- src: images/Abbruch_im_Vierer_wegen_Sturm_RH08.jpg
+  title: Abbruch im Vierer wegen Sturm RH08
+- src: images/Malte_im_Sturm_RH08.jpg
+  title: Malte im Sturm RH08
+- src: images/Malte_schoepft_RH08.jpg
+  title: Malte schoepft RH08
+- src: images/Frachter_im_Sturm_RH08.jpg
+  title: Frachter im Sturm RH08
+- src: images/Normaler_Schiffsverkehr_RH08.jpg
+  title: Normaler Schiffsverkehr RH08
+- src: images/warten_auf_den_Landdienst_RH08.jpg
+  title: warten auf den Landdienst RH08
+- src: images/strandschoenheit_RH0802.jpg
+  title: strandschoenheit RH0802
+länder:
+- frankreich
+- italien
+- schweiz
+title: Rhein 0708
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

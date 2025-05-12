@@ -1,31 +1,27 @@
-+++
-title = "Bundeskanzleramt 2017"
-author = ""
-date = 2017-03-03T01:00:00+02:00
-begin = "2017-03-01"
-"gewässer" = ["spree", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Innenstadtspree 2017"
-src = "images/Innenstadtspree_2017.jpg"
-[[images]]
-title = "Start bei Phoenix 2017"
-src = "images/Start_bei_Phoenix_2017.jpg"
-[[images]]
-title = "Schloss Bellevue vom Ruderboot 2017"
-src = "images/Schloss_Bellevue_vom_Ruderboot_2017.jpg"
-[[images]]
-title = "Sturm auf der Spree 2017"
-src = "images/Sturm_auf_der_Spree_2017.jpg"
-[[images]]
-title = "Ruderboot am Bundeskanzleramt 2017"
-src = "images/Ruderboot_am_Bundeskanzleramt_2017.jpg"
-[[images]]
-title = "Felix im Sturm Bundeskanzleramt 2017"
-src = "images/Felix_im_Sturm_Bundeskanzleramt_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-03-01"
+date: "2017-03-03T01:00:00+02:00"
+gewässer:
+- spree
+- wannsee
+images:
+- src: images/Innenstadtspree_2017.jpg
+  title: Innenstadtspree 2017
+- src: images/Start_bei_Phoenix_2017.jpg
+  title: Start bei Phoenix 2017
+- src: images/Schloss_Bellevue_vom_Ruderboot_2017.jpg
+  title: Schloss Bellevue vom Ruderboot 2017
+- src: images/Sturm_auf_der_Spree_2017.jpg
+  title: Sturm auf der Spree 2017
+- src: images/Ruderboot_am_Bundeskanzleramt_2017.jpg
+  title: Ruderboot am Bundeskanzleramt 2017
+- src: images/Felix_im_Sturm_Bundeskanzleramt_2017.jpg
+  title: Felix im Sturm Bundeskanzleramt 2017
+länder: []
+title: Bundeskanzleramt 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

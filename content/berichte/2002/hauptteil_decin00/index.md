@@ -1,25 +1,23 @@
-+++
-title = "Decin00"
-author = ""
-date = 2002-01-01T01:00:00+02:00
-begin = "2002-01-01"
-"gewässer" = ["wannsee"]
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barke in Decin Ruderer"
-src = "images/Bild018.jpg"
-[[images]]
-title = "Barke auf der Elbe "
-src = "images/Bild028.jpg"
-[[images]]
-title = "Ruder-Dreier auf der Elbe"
-src = "images/Bild032.jpg"
-[[images]]
-title = "Barke in Dresden beim Rudern"
-src = "images/Bild082.jpg"
-
-+++
+---
+author: ""
+begin: "2002-01-01"
+date: "2002-01-01T01:00:00+02:00"
+gewässer:
+- wannsee
+images:
+- src: images/Bild018.jpg
+  title: Barke in Decin Ruderer
+- src: images/Bild028.jpg
+  title: 'Barke auf der Elbe '
+- src: images/Bild032.jpg
+  title: Ruder-Dreier auf der Elbe
+- src: images/Bild082.jpg
+  title: Barke in Dresden beim Rudern
+länder:
+- tschechien
+title: Decin00
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

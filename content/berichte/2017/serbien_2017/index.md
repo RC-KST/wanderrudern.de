@@ -1,13 +1,16 @@
-+++
-title = "Donau Bezdan Negotin 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["donau", "oder"]
-"länder" = ["deutschland", "serbien"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- oder
+länder:
+- deutschland
+- serbien
+title: Donau Bezdan Negotin 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

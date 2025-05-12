@@ -1,85 +1,67 @@
-+++
-title = "Finnland Saimaa 2011"
-author = ""
-date = 2011-11-11T01:00:00+02:00
-begin = "2011-11-01"
-"gewässer" = ["inn", "oder", "saimaa"]
-"länder" = ["dänemark", "finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Finnisches Fahrwasser S11"
-src = "images/Finnisches_Fahrwasser_S11.jpg"
-[[images]]
-title = "Biwakplatz Tetriniemie S11"
-src = "images/Biwakplatz_Tetriniemie_S11.jpg"
-[[images]]
-title = "Strandpanorama S11"
-src = "images/Strandpanorama_S11.jpg"
-[[images]]
-title = "Strandschoenheiten S11"
-src = "images/Strandschoenheiten_S11.jpg"
-[[images]]
-title = "Moritz grillt S11"
-src = "images/Moritz_grillt_S11.jpg"
-[[images]]
-title = "Lagerfeuer Tetriniemi S11"
-src = "images/Lagerfeuer_Tetriniemi_S11.jpg"
-[[images]]
-title = "Abendessen Klippe S11"
-src = "images/Abendessen_Klippe_S11.jpg"
-[[images]]
-title = "Maedels beim Shoppen S11"
-src = "images/Maedels_beim_Shoppen_S11.jpg"
-[[images]]
-title = "die jungs sind amal ruhig S11"
-src = "images/die_jungs_sind_amal_ruhig_S11.jpg"
-[[images]]
-title = "Blick vom Biwakplatz S11"
-src = "images/Blick_vom_Biwakplatz_S11.jpg"
-[[images]]
-title = "kurz vor Puumala S11"
-src = "images/kurz_vor_Puumala_S11.jpg"
-[[images]]
-title = "auf dem Weg nach Puumala S11"
-src = "images/auf_dem_Weg_nach_Puumala_S11.jpg"
-[[images]]
-title = "Technikspielzeug S11"
-src = "images/Technikspielzeug_S11.jpg"
-[[images]]
-title = "wilde badeorgie S11"
-src = "images/wilde_badeorgie_S11.jpg"
-[[images]]
-title = "Nirinas Abgang S11"
-src = "images/Nirinas_Abgang_S11.jpg"
-[[images]]
-title = "Bugfigur S11"
-src = "images/Bugfigur_S11.jpg"
-[[images]]
-title = "Blick von der Klippe S11"
-src = "images/Blick_von_der_Klippe_S11.jpg"
-[[images]]
-title = "Thermometer Puumala S11"
-src = "images/Thermometer_Puumala_S11.jpg"
-[[images]]
-title = "LIngLing unter Wasser S11"
-src = "images/LIngLing_unter_Wasser_S11.jpg"
-[[images]]
-title = "Sahanlahti S11"
-src = "images/Sahanlahti_S11.jpg"
-[[images]]
-title = "orthodoxe Kirche S11"
-src = "images/orthodoxe_Kirche_S11.jpg"
-[[images]]
-title = "LingLing Stefan S11"
-src = "images/LingLing_Stefan_S11.jpg"
-[[images]]
-title = "Maedchen Silja Line S11"
-src = "images/Maedchen_Silja_Line_S11.jpg"
-[[images]]
-title = "JarJar im Nachtclub S11"
-src = "images/JarJar_im_Nachtclub_S11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-11-01"
+date: "2011-11-11T01:00:00+02:00"
+gewässer:
+- inn
+- oder
+- saimaa
+images:
+- src: images/Finnisches_Fahrwasser_S11.jpg
+  title: Finnisches Fahrwasser S11
+- src: images/Biwakplatz_Tetriniemie_S11.jpg
+  title: Biwakplatz Tetriniemie S11
+- src: images/Strandpanorama_S11.jpg
+  title: Strandpanorama S11
+- src: images/Strandschoenheiten_S11.jpg
+  title: Strandschoenheiten S11
+- src: images/Moritz_grillt_S11.jpg
+  title: Moritz grillt S11
+- src: images/Lagerfeuer_Tetriniemi_S11.jpg
+  title: Lagerfeuer Tetriniemi S11
+- src: images/Abendessen_Klippe_S11.jpg
+  title: Abendessen Klippe S11
+- src: images/Maedels_beim_Shoppen_S11.jpg
+  title: Maedels beim Shoppen S11
+- src: images/die_jungs_sind_amal_ruhig_S11.jpg
+  title: die jungs sind amal ruhig S11
+- src: images/Blick_vom_Biwakplatz_S11.jpg
+  title: Blick vom Biwakplatz S11
+- src: images/kurz_vor_Puumala_S11.jpg
+  title: kurz vor Puumala S11
+- src: images/auf_dem_Weg_nach_Puumala_S11.jpg
+  title: auf dem Weg nach Puumala S11
+- src: images/Technikspielzeug_S11.jpg
+  title: Technikspielzeug S11
+- src: images/wilde_badeorgie_S11.jpg
+  title: wilde badeorgie S11
+- src: images/Nirinas_Abgang_S11.jpg
+  title: Nirinas Abgang S11
+- src: images/Bugfigur_S11.jpg
+  title: Bugfigur S11
+- src: images/Blick_von_der_Klippe_S11.jpg
+  title: Blick von der Klippe S11
+- src: images/Thermometer_Puumala_S11.jpg
+  title: Thermometer Puumala S11
+- src: images/LIngLing_unter_Wasser_S11.jpg
+  title: LIngLing unter Wasser S11
+- src: images/Sahanlahti_S11.jpg
+  title: Sahanlahti S11
+- src: images/orthodoxe_Kirche_S11.jpg
+  title: orthodoxe Kirche S11
+- src: images/LingLing_Stefan_S11.jpg
+  title: LingLing Stefan S11
+- src: images/Maedchen_Silja_Line_S11.jpg
+  title: Maedchen Silja Line S11
+- src: images/JarJar_im_Nachtclub_S11.jpg
+  title: JarJar im Nachtclub S11
+länder:
+- dänemark
+- finnland
+- schweden
+title: Finnland Saimaa 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,19 +1,21 @@
-+++
-title = "Schottland 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["oder"]
-"länder" = ["norwegen", "schweden", "schottland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Oslofjord am Morgen O2009"
-src = "images/Oslofjord_am_Morgen_O2009.jpg"
-[[images]]
-title = "Helsinki im Hafen 2015"
-src = "images/Helsinki_im_Hafen_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Oslofjord_am_Morgen_O2009.jpg
+  title: Oslofjord am Morgen O2009
+- src: images/Helsinki_im_Hafen_2015.jpg
+  title: Helsinki im Hafen 2015
+länder:
+- norwegen
+- schweden
+- schottland
+title: Schottland 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

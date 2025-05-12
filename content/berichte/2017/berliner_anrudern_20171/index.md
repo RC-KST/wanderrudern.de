@@ -1,31 +1,26 @@
-+++
-title = "Berliner Anrudern 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Teltowkanal im dunklen Anrudern 2017"
-src = "images/Teltowkanal_im_dunklen_Anrudern_2017.jpg"
-[[images]]
-title = "Gosener Graben Anrudern 2017"
-src = "images/Gosener_Graben_Anrudern_2017.jpg"
-[[images]]
-title = "Tempelhofer Hafen Pause Anrudern 2017"
-src = "images/Tempelhofer_Hafen_Pause_Anrudern_2017.jpg"
-[[images]]
-title = "Gruenau Regattastrecke Anrudern 2017"
-src = "images/Gruenau_Regattastrecke_Anrudern_2017.jpg"
-[[images]]
-title = "Mueggelsee Anrudern 2017"
-src = "images/Mueggelsee_Anrudern_2017.jpg"
-[[images]]
-title = "Anrudern 2017"
-src = "images/Anrudern_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+images:
+- src: images/Teltowkanal_im_dunklen_Anrudern_2017.jpg
+  title: Teltowkanal im dunklen Anrudern 2017
+- src: images/Gosener_Graben_Anrudern_2017.jpg
+  title: Gosener Graben Anrudern 2017
+- src: images/Tempelhofer_Hafen_Pause_Anrudern_2017.jpg
+  title: Tempelhofer Hafen Pause Anrudern 2017
+- src: images/Gruenau_Regattastrecke_Anrudern_2017.jpg
+  title: Gruenau Regattastrecke Anrudern 2017
+- src: images/Mueggelsee_Anrudern_2017.jpg
+  title: Mueggelsee Anrudern 2017
+- src: images/Anrudern_2017.jpg
+  title: Anrudern 2017
+länder: []
+title: Berliner Anrudern 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

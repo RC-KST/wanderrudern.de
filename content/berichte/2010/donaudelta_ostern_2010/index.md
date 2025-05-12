@@ -1,223 +1,157 @@
-+++
-title = "Donaudelta Ostern 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["donau", "oste", "spreewald"]
-"länder" = ["ukraine"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote abladen in Calarasi bei Sauwetter DD10"
-src = "images/Boote_abladen_in_Calarasi_bei_Sauwetter_DD10.jpg"
-[[images]]
-title = "Pferdewagen in Cernavoda DD10"
-src = "images/Pferdewagen_in_Cernavoda_DD10.jpg"
-[[images]]
-title = "Ablegen in Cernavoda DD10"
-src = "images/Ablegen_in_Cernavoda_DD10.jpg"
-[[images]]
-title = "Donaubruecke bei Cernavoda DD10"
-src = "images/Donaubruecke_bei_Cernavoda_DD10.jpg"
-[[images]]
-title = "Schiffe und Ruderboote am Abzweig des Schwarzmeerkanals DD10"
-src = "images/Schiffe_und_Ruderboote_am_Abzweig_des_Schwarzmeerkanals_DD10.jpg"
-[[images]]
-title = "Nirina und Viktor im Ruderboot Donau DD10"
-src = "images/Nirina_und_Viktor_im_Ruderboot_Donau_DD10.jpg"
-[[images]]
-title = "Ruderer Mittagspause unterhalb Cernavoda DD10"
-src = "images/Ruderer_Mittagspause_unterhalb_Cernavoda_DD10.jpg"
-[[images]]
-title = "Dobrudscha das letzte Gebirge am Donauufer DD10"
-src = "images/Dobrudscha_das_letzte_Gebirge_am_Donauufer_DD10.jpg"
-[[images]]
-title = "Vikor mittagspause DD10"
-src = "images/Vikor_mittagspause_DD10.jpg"
-[[images]]
-title = "Felsen am Ufer der Donau DD10"
-src = "images/Felsen_am_Ufer_der_Donau_DD10.jpg"
-[[images]]
-title = "Dobrudscha Ruderboot DD10"
-src = "images/Dobrudscha_Ruderboot_DD10.jpg"
-[[images]]
-title = "Fischerhaeuser am Donauufer Rumaenien DD10"
-src = "images/Fischerhaeuser_am_Donauufer_Rumaenien_DD10.jpg"
-[[images]]
-title = "Motel bei Harsova DD10"
-src = "images/Motel_bei_Harsova_DD10.jpg"
-[[images]]
-title = "Ruder auf der Donau DD10"
-src = "images/Ruder_auf_der_Donau_DD10.jpg"
-[[images]]
-title = "Ort am Donauufer DD10"
-src = "images/Ort_am_Donauufer_DD10.jpg"
-[[images]]
-title = "Rumaenien 10 Uhr die Frisur sitzt DD10"
-src = "images/Rumaenien_10_Uhr_die_Frisur_sitzt_DD10.jpg"
-[[images]]
-title = "Donaufaehre bei Braila DD10"
-src = "images/Donaufaehre_bei_Braila_DD10.jpg"
-[[images]]
-title = "Rumaenische Verkabelung der Alptraum des Elektrotechnikers ~1"
-src = "images/Rumaenische_Verkabelung_der_Alptraum_des_Elektrotechnikers__1.jpg"
-[[images]]
-title = "Rumaenische Polizeikontrolle bei Galati DD10"
-src = "images/Rumaenische_Polizeikontrolle_bei_Galati_DD10.jpg"
-[[images]]
-title = "Kuemo auf der Donau DD10"
-src = "images/Kuemo_auf_der_Donau_DD10.jpg"
-[[images]]
-title = "Ruderinnen vor Galati DD10"
-src = "images/Ruderinnen_vor_Galati_DD10.jpg"
-[[images]]
-title = "Rumaenische Wohnbebauung DD10"
-src = "images/Rumaenische_Wohnbebauung_DD10.jpg"
-[[images]]
-title = "Nirina ist gluecklich DD10"
-src = "images/Nirina_ist_gluecklich_DD10.jpg"
-[[images]]
-title = "Landdienst au dem Wasserturm DD10"
-src = "images/Landdienst_au_dem_Wasserturm_DD10.jpg"
-[[images]]
-title = "Anlegestelle bei Isaccea DD10"
-src = "images/Anlegestelle_bei_Isaccea_DD10.jpg"
-[[images]]
-title = "Boote bei Isaccea DD10"
-src = "images/Boote_bei_Isaccea_DD10.jpg"
-[[images]]
-title = "Strasse in Isaccea DD10"
-src = "images/Strasse_in_Isaccea_DD10.jpg"
-[[images]]
-title = "Wohnhaus in Isaccea DD10"
-src = "images/Wohnhaus_in_Isaccea_DD10.jpg"
-[[images]]
-title = "Kirstin in Tulcea DD10"
-src = "images/Kirstin_in_Tulcea_DD10.jpg"
-[[images]]
-title = "Anlegestelle in Nufaru DD10"
-src = "images/Anlegestelle_in_Nufaru_DD10.jpg"
-[[images]]
-title = "Auwald im Donaudelta DD10"
-src = "images/Auwald_im_Donaudelta_DD10.jpg"
-[[images]]
-title = "Sophie die Fahrtenleiterin DD10"
-src = "images/Sophie_die_Fahrtenleiterin_DD10.jpg"
-[[images]]
-title = "Dunavatu de Jos Pension Piui DD10"
-src = "images/Dunavatu_de_Jos_Pension_Piui_DD10.jpg"
-[[images]]
-title = "Abzweig vom Kanal Lipovenilor nach Dunavatu DD10"
-src = "images/Abzweig_vom_Kanal_Lipovenilor_nach_Dunavatu_DD10.jpg"
-[[images]]
-title = "Ruderer am Pool Nufaru DD10"
-src = "images/Ruderer_am_Pool_Nufaru_DD10.jpg"
-[[images]]
-title = "Der Landdienst sucht die Boote DD10"
-src = "images/Der_Landdienst_sucht_die_Boote_DD10.jpg"
-[[images]]
-title = "Schwaene im Donaudelta DD10"
-src = "images/Schwaene_im_Donaudelta_DD10.jpg"
-[[images]]
-title = "Einfahrt nach Dunavatu de Jus DD10"
-src = "images/Einfahrt_nach_Dunavatu_de_Jus_DD10.jpg"
-[[images]]
-title = "Aussetzstelle in Dunavatu de Jos DD10"
-src = "images/Aussetzstelle_in_Dunavatu_de_Jos_DD10.jpg"
-[[images]]
-title = "Frauenvierer 2 im inneren Donau Delta DD10"
-src = "images/Frauenvierer_2_im_inneren_Donau_Delta_DD10.jpg"
-[[images]]
-title = "Kirstin und Peppi DD10"
-src = "images/Kirstin_und_Peppi_DD10.jpg"
-[[images]]
-title = "Kirstin im inneren Delta DD10"
-src = "images/Kirstin_im_inneren_Delta_DD10.jpg"
-[[images]]
-title = "Lui in Dunavatu de Jos DD10"
-src = "images/Lui_in_Dunavatu_de_Jos_DD10.jpg"
-[[images]]
-title = "Ruderer Donaudelta DD10"
-src = "images/Ruderer_Donaudelta_DD10.jpg"
-[[images]]
-title = "Kanal im inneren Delta DD10"
-src = "images/Kanal_im_inneren_Delta_DD10.jpg"
-[[images]]
-title = "Ruderboot vor ueberschwemmten Auwald DD10"
-src = "images/Ruderboot_vor_ueberschwemmten_Auwald_DD10.jpg"
-[[images]]
-title = "Abendessen in Sfantu Gheorghe DD10"
-src = "images/Abendessen_in_Sfantu_Gheorghe_DD10.jpg"
-[[images]]
-title = "Strasse in Sfantu Gheorghe DD10"
-src = "images/Strasse_in_Sfantu_Gheorghe_DD10.jpg"
-[[images]]
-title = "zurueck vom Schwarzen Meer DD10"
-src = "images/zurueck_vom_Schwarzen_Meer_DD10.jpg"
-[[images]]
-title = "Rudervierer bei Donau km 0 Schwarsches Meer DD1002"
-src = "images/Rudervierer_bei_Donau_km_0_Schwarsches_Meer_DD1002.jpg"
-[[images]]
-title = "Ruderboot auf der Donau in St Gheorghe DD10"
-src = "images/Ruderboot_auf_der_Donau_in_St_Gheorghe_DD10.jpg"
-[[images]]
-title = "Kanal im Donaudelta DD10"
-src = "images/Kanal_im_Donaudelta_DD10.jpg"
-[[images]]
-title = "ruderbare Strecke im Donaudelta DD10"
-src = "images/ruderbare_Strecke_im_Donaudelta_DD10.jpg"
-[[images]]
-title = "Kanal Buhaz im Donaudelta DD10"
-src = "images/Kanal_Buhaz_im_Donaudelta_DD10.jpg"
-[[images]]
-title = "Kanal Crasnicol es wir langsam eng DD10"
-src = "images/Kanal_Crasnicol_es_wir_langsam_eng_DD10.jpg"
-[[images]]
-title = "Ruderboot haengt im Hindernis fest DD10"
-src = "images/Ruderboot_haengt_im_Hindernis_fest_DD10.jpg"
-[[images]]
-title = "Ruderboot auf Kanal Crasnicol DD10"
-src = "images/Ruderboot_auf_Kanal_Crasnicol_DD10.jpg"
-[[images]]
-title = "Steuer aushaengen DD10"
-src = "images/Steuer_aushaengen_DD10.jpg"
-[[images]]
-title = "Anlegestelle an einer Fischerhuette DD10"
-src = "images/Anlegestelle_an_einer_Fischerhuette_DD10.jpg"
-[[images]]
-title = "Abholung mit dem Motorboot DD10"
-src = "images/Abholung_mit_dem_Motorboot_DD10.jpg"
-[[images]]
-title = "Ruderboote im Delta DD10"
-src = "images/Ruderboote_im_Delta_DD10.jpg"
-[[images]]
-title = "Levon und Christel im Ruderboote DD10"
-src = "images/Levon_und_Christel_im_Ruderboote_DD10.jpg"
-[[images]]
-title = "windiger Lacul Razim DD10"
-src = "images/windiger_Lacul_Razim_DD10.jpg"
-[[images]]
-title = "Margit au dem Lacul Razim DD10"
-src = "images/Margit_au_dem_Lacul_Razim_DD10.jpg"
-[[images]]
-title = "Sarichioi am Lacul Razim DD10"
-src = "images/Sarichioi_am_Lacul_Razim_DD10.jpg"
-[[images]]
-title = "das erste Boot ist am Ziel DD10"
-src = "images/das_erste_Boot_ist_am_Ziel_DD10.jpg"
-[[images]]
-title = "Landdienst am Lacul Razim DD10"
-src = "images/Landdienst_am_Lacul_Razim_DD10.jpg"
-[[images]]
-title = "Pelikane im Donaudelta DD10"
-src = "images/Pelikane_im_Donaudelta_DD10.jpg"
-[[images]]
-title = "Abschiedfoto mit Zigeunerlager DD10"
-src = "images/Abschiedfoto_mit_Zigeunerlager_DD10.jpg"
-[[images]]
-title = "Anlegen am Lacul Razim DD10"
-src = "images/Anlegen_am_Lacul_Razim_DD10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- oste
+- spreewald
+images:
+- src: images/Boote_abladen_in_Calarasi_bei_Sauwetter_DD10.jpg
+  title: Boote abladen in Calarasi bei Sauwetter DD10
+- src: images/Pferdewagen_in_Cernavoda_DD10.jpg
+  title: Pferdewagen in Cernavoda DD10
+- src: images/Ablegen_in_Cernavoda_DD10.jpg
+  title: Ablegen in Cernavoda DD10
+- src: images/Donaubruecke_bei_Cernavoda_DD10.jpg
+  title: Donaubruecke bei Cernavoda DD10
+- src: images/Schiffe_und_Ruderboote_am_Abzweig_des_Schwarzmeerkanals_DD10.jpg
+  title: Schiffe und Ruderboote am Abzweig des Schwarzmeerkanals DD10
+- src: images/Nirina_und_Viktor_im_Ruderboot_Donau_DD10.jpg
+  title: Nirina und Viktor im Ruderboot Donau DD10
+- src: images/Ruderer_Mittagspause_unterhalb_Cernavoda_DD10.jpg
+  title: Ruderer Mittagspause unterhalb Cernavoda DD10
+- src: images/Dobrudscha_das_letzte_Gebirge_am_Donauufer_DD10.jpg
+  title: Dobrudscha das letzte Gebirge am Donauufer DD10
+- src: images/Vikor_mittagspause_DD10.jpg
+  title: Vikor mittagspause DD10
+- src: images/Felsen_am_Ufer_der_Donau_DD10.jpg
+  title: Felsen am Ufer der Donau DD10
+- src: images/Dobrudscha_Ruderboot_DD10.jpg
+  title: Dobrudscha Ruderboot DD10
+- src: images/Fischerhaeuser_am_Donauufer_Rumaenien_DD10.jpg
+  title: Fischerhaeuser am Donauufer Rumaenien DD10
+- src: images/Motel_bei_Harsova_DD10.jpg
+  title: Motel bei Harsova DD10
+- src: images/Ruder_auf_der_Donau_DD10.jpg
+  title: Ruder auf der Donau DD10
+- src: images/Ort_am_Donauufer_DD10.jpg
+  title: Ort am Donauufer DD10
+- src: images/Rumaenien_10_Uhr_die_Frisur_sitzt_DD10.jpg
+  title: Rumaenien 10 Uhr die Frisur sitzt DD10
+- src: images/Donaufaehre_bei_Braila_DD10.jpg
+  title: Donaufaehre bei Braila DD10
+- src: images/Rumaenische_Verkabelung_der_Alptraum_des_Elektrotechnikers__1.jpg
+  title: Rumaenische Verkabelung der Alptraum des Elektrotechnikers ~1
+- src: images/Rumaenische_Polizeikontrolle_bei_Galati_DD10.jpg
+  title: Rumaenische Polizeikontrolle bei Galati DD10
+- src: images/Kuemo_auf_der_Donau_DD10.jpg
+  title: Kuemo auf der Donau DD10
+- src: images/Ruderinnen_vor_Galati_DD10.jpg
+  title: Ruderinnen vor Galati DD10
+- src: images/Rumaenische_Wohnbebauung_DD10.jpg
+  title: Rumaenische Wohnbebauung DD10
+- src: images/Nirina_ist_gluecklich_DD10.jpg
+  title: Nirina ist gluecklich DD10
+- src: images/Landdienst_au_dem_Wasserturm_DD10.jpg
+  title: Landdienst au dem Wasserturm DD10
+- src: images/Anlegestelle_bei_Isaccea_DD10.jpg
+  title: Anlegestelle bei Isaccea DD10
+- src: images/Boote_bei_Isaccea_DD10.jpg
+  title: Boote bei Isaccea DD10
+- src: images/Strasse_in_Isaccea_DD10.jpg
+  title: Strasse in Isaccea DD10
+- src: images/Wohnhaus_in_Isaccea_DD10.jpg
+  title: Wohnhaus in Isaccea DD10
+- src: images/Kirstin_in_Tulcea_DD10.jpg
+  title: Kirstin in Tulcea DD10
+- src: images/Anlegestelle_in_Nufaru_DD10.jpg
+  title: Anlegestelle in Nufaru DD10
+- src: images/Auwald_im_Donaudelta_DD10.jpg
+  title: Auwald im Donaudelta DD10
+- src: images/Sophie_die_Fahrtenleiterin_DD10.jpg
+  title: Sophie die Fahrtenleiterin DD10
+- src: images/Dunavatu_de_Jos_Pension_Piui_DD10.jpg
+  title: Dunavatu de Jos Pension Piui DD10
+- src: images/Abzweig_vom_Kanal_Lipovenilor_nach_Dunavatu_DD10.jpg
+  title: Abzweig vom Kanal Lipovenilor nach Dunavatu DD10
+- src: images/Ruderer_am_Pool_Nufaru_DD10.jpg
+  title: Ruderer am Pool Nufaru DD10
+- src: images/Der_Landdienst_sucht_die_Boote_DD10.jpg
+  title: Der Landdienst sucht die Boote DD10
+- src: images/Schwaene_im_Donaudelta_DD10.jpg
+  title: Schwaene im Donaudelta DD10
+- src: images/Einfahrt_nach_Dunavatu_de_Jus_DD10.jpg
+  title: Einfahrt nach Dunavatu de Jus DD10
+- src: images/Aussetzstelle_in_Dunavatu_de_Jos_DD10.jpg
+  title: Aussetzstelle in Dunavatu de Jos DD10
+- src: images/Frauenvierer_2_im_inneren_Donau_Delta_DD10.jpg
+  title: Frauenvierer 2 im inneren Donau Delta DD10
+- src: images/Kirstin_und_Peppi_DD10.jpg
+  title: Kirstin und Peppi DD10
+- src: images/Kirstin_im_inneren_Delta_DD10.jpg
+  title: Kirstin im inneren Delta DD10
+- src: images/Lui_in_Dunavatu_de_Jos_DD10.jpg
+  title: Lui in Dunavatu de Jos DD10
+- src: images/Ruderer_Donaudelta_DD10.jpg
+  title: Ruderer Donaudelta DD10
+- src: images/Kanal_im_inneren_Delta_DD10.jpg
+  title: Kanal im inneren Delta DD10
+- src: images/Ruderboot_vor_ueberschwemmten_Auwald_DD10.jpg
+  title: Ruderboot vor ueberschwemmten Auwald DD10
+- src: images/Abendessen_in_Sfantu_Gheorghe_DD10.jpg
+  title: Abendessen in Sfantu Gheorghe DD10
+- src: images/Strasse_in_Sfantu_Gheorghe_DD10.jpg
+  title: Strasse in Sfantu Gheorghe DD10
+- src: images/zurueck_vom_Schwarzen_Meer_DD10.jpg
+  title: zurueck vom Schwarzen Meer DD10
+- src: images/Rudervierer_bei_Donau_km_0_Schwarsches_Meer_DD1002.jpg
+  title: Rudervierer bei Donau km 0 Schwarsches Meer DD1002
+- src: images/Ruderboot_auf_der_Donau_in_St_Gheorghe_DD10.jpg
+  title: Ruderboot auf der Donau in St Gheorghe DD10
+- src: images/Kanal_im_Donaudelta_DD10.jpg
+  title: Kanal im Donaudelta DD10
+- src: images/ruderbare_Strecke_im_Donaudelta_DD10.jpg
+  title: ruderbare Strecke im Donaudelta DD10
+- src: images/Kanal_Buhaz_im_Donaudelta_DD10.jpg
+  title: Kanal Buhaz im Donaudelta DD10
+- src: images/Kanal_Crasnicol_es_wir_langsam_eng_DD10.jpg
+  title: Kanal Crasnicol es wir langsam eng DD10
+- src: images/Ruderboot_haengt_im_Hindernis_fest_DD10.jpg
+  title: Ruderboot haengt im Hindernis fest DD10
+- src: images/Ruderboot_auf_Kanal_Crasnicol_DD10.jpg
+  title: Ruderboot auf Kanal Crasnicol DD10
+- src: images/Steuer_aushaengen_DD10.jpg
+  title: Steuer aushaengen DD10
+- src: images/Anlegestelle_an_einer_Fischerhuette_DD10.jpg
+  title: Anlegestelle an einer Fischerhuette DD10
+- src: images/Abholung_mit_dem_Motorboot_DD10.jpg
+  title: Abholung mit dem Motorboot DD10
+- src: images/Ruderboote_im_Delta_DD10.jpg
+  title: Ruderboote im Delta DD10
+- src: images/Levon_und_Christel_im_Ruderboote_DD10.jpg
+  title: Levon und Christel im Ruderboote DD10
+- src: images/windiger_Lacul_Razim_DD10.jpg
+  title: windiger Lacul Razim DD10
+- src: images/Margit_au_dem_Lacul_Razim_DD10.jpg
+  title: Margit au dem Lacul Razim DD10
+- src: images/Sarichioi_am_Lacul_Razim_DD10.jpg
+  title: Sarichioi am Lacul Razim DD10
+- src: images/das_erste_Boot_ist_am_Ziel_DD10.jpg
+  title: das erste Boot ist am Ziel DD10
+- src: images/Landdienst_am_Lacul_Razim_DD10.jpg
+  title: Landdienst am Lacul Razim DD10
+- src: images/Pelikane_im_Donaudelta_DD10.jpg
+  title: Pelikane im Donaudelta DD10
+- src: images/Abschiedfoto_mit_Zigeunerlager_DD10.jpg
+  title: Abschiedfoto mit Zigeunerlager DD10
+- src: images/Anlegen_am_Lacul_Razim_DD10.jpg
+  title: Anlegen am Lacul Razim DD10
+länder:
+- ukraine
+title: Donaudelta Ostern 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

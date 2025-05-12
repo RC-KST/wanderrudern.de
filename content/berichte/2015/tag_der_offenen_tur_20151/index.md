@@ -1,40 +1,31 @@
-+++
-title = "Tag der offenen Tür 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Buergermeister Grubert beim RC KST 2015"
-src = "images/Buergermeister_Grubert_beim_RC_KST_2015.jpg"
-[[images]]
-title = "Buergermeister Albers beim RC KST 2015"
-src = "images/Buergermeister_Albers_beim_RC_KST_2015.jpg"
-[[images]]
-title = "Tag der offenen Tuer 2015 am Grill"
-src = "images/Tag_der_offenen_Tuer_2015_am_Grill.jpg"
-[[images]]
-title = "Kuchenverkauf Tag der offenen Tuer Kleinmachnow 2015"
-src = "images/Kuchenverkauf_Tag_der_offenen_Tuer_Kleinmachnow_2015.jpg"
-[[images]]
-title = "Proberudern Tag der offenen Tuer 2015"
-src = "images/Proberudern_Tag_der_offenen_Tuer_2015.jpg"
-[[images]]
-title = "halber Aequatorpreis fuer Martin 2015"
-src = "images/halber_Aequatorpreis_fuer_Martin_2015.jpg"
-[[images]]
-title = "Laura mit Medaille RC KST 2015"
-src = "images/Laura_mit_Medaille_RC_KST_2015.jpg"
-[[images]]
-title = "Baumgarten C-5x+ auf dem Teltowkanal 2015"
-src = "images/Baumgarten_C-5x__auf_dem_Teltowkanal_2015.jpg"
-[[images]]
-title = "Fuenfer mit Steuermann wird eingesetzt 2015"
-src = "images/Fuenfer_mit_Steuermann_wird_eingesetzt_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Buergermeister_Grubert_beim_RC_KST_2015.jpg
+  title: Buergermeister Grubert beim RC KST 2015
+- src: images/Buergermeister_Albers_beim_RC_KST_2015.jpg
+  title: Buergermeister Albers beim RC KST 2015
+- src: images/Tag_der_offenen_Tuer_2015_am_Grill.jpg
+  title: Tag der offenen Tuer 2015 am Grill
+- src: images/Kuchenverkauf_Tag_der_offenen_Tuer_Kleinmachnow_2015.jpg
+  title: Kuchenverkauf Tag der offenen Tuer Kleinmachnow 2015
+- src: images/Proberudern_Tag_der_offenen_Tuer_2015.jpg
+  title: Proberudern Tag der offenen Tuer 2015
+- src: images/halber_Aequatorpreis_fuer_Martin_2015.jpg
+  title: halber Aequatorpreis fuer Martin 2015
+- src: images/Laura_mit_Medaille_RC_KST_2015.jpg
+  title: Laura mit Medaille RC KST 2015
+- src: images/Baumgarten_C-5x__auf_dem_Teltowkanal_2015.jpg
+  title: Baumgarten C-5x+ auf dem Teltowkanal 2015
+- src: images/Fuenfer_mit_Steuermann_wird_eingesetzt_2015.jpg
+  title: Fuenfer mit Steuermann wird eingesetzt 2015
+länder: []
+title: Tag der offenen Tür 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

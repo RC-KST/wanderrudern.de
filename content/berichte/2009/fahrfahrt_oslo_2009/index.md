@@ -1,52 +1,40 @@
-+++
-title = "Fährfahrt Oslo 2009"
-author = ""
-date = 2009-12-12T01:00:00+02:00
-begin = "2009-12-01"
-"gewässer" = []
-"länder" = ["england"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Color Fantasy 2009"
-src = "images/Color_Fantasy_2009.jpg"
-[[images]]
-title = "Promenade auf der Fantasy 2009"
-src = "images/Promenade_auf_der_Fantasy_2009.jpg"
-[[images]]
-title = "Cookie for der Grossen Belt Bruecke"
-src = "images/Cookie_for_der_Grossen_Belt_Bruecke.jpg"
-[[images]]
-title = "Oslofjord am Morgen O2009"
-src = "images/Oslofjord_am_Morgen_O2009.jpg"
-[[images]]
-title = "Wikingerschiff Oslo 2009"
-src = "images/Wikingerschiff_Oslo_2009.jpg"
-[[images]]
-title = "Schneeberge vor dem Kon Tiki Museum Oslo 2009"
-src = "images/Schneeberge_vor_dem_Kon_Tiki_Museum_Oslo_2009.jpg"
-[[images]]
-title = "Sonnenuntergang Oslo Schloss 2009"
-src = "images/Sonnenuntergang_Oslo_Schloss_2009.jpg"
-[[images]]
-title = "Kapelle am Holmenkollen Oslo 2009"
-src = "images/Kapelle_am_Holmenkollen_Oslo_2009.jpg"
-[[images]]
-title = "in den Bergen von Oslo 2009"
-src = "images/in_den_Bergen_von_Oslo_2009.jpg"
-[[images]]
-title = "Blick auf den Oslofjord 2009"
-src = "images/Blick_auf_den_Oslofjord_2009.jpg"
-[[images]]
-title = "Blick auf Oslo 2009"
-src = "images/Blick_auf_Oslo_2009.jpg"
-[[images]]
-title = "Schneeentsorgung auf Norwegisch 2009"
-src = "images/Schneeentsorgung_auf_Norwegisch_2009.jpg"
-[[images]]
-title = "Fahrt durch den Oslofjord 2009"
-src = "images/Fahrt_durch_den_Oslofjord_2009.jpg"
-
-+++
+---
+author: ""
+begin: "2009-12-01"
+date: "2009-12-12T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Color_Fantasy_2009.jpg
+  title: Color Fantasy 2009
+- src: images/Promenade_auf_der_Fantasy_2009.jpg
+  title: Promenade auf der Fantasy 2009
+- src: images/Cookie_for_der_Grossen_Belt_Bruecke.jpg
+  title: Cookie for der Grossen Belt Bruecke
+- src: images/Oslofjord_am_Morgen_O2009.jpg
+  title: Oslofjord am Morgen O2009
+- src: images/Wikingerschiff_Oslo_2009.jpg
+  title: Wikingerschiff Oslo 2009
+- src: images/Schneeberge_vor_dem_Kon_Tiki_Museum_Oslo_2009.jpg
+  title: Schneeberge vor dem Kon Tiki Museum Oslo 2009
+- src: images/Sonnenuntergang_Oslo_Schloss_2009.jpg
+  title: Sonnenuntergang Oslo Schloss 2009
+- src: images/Kapelle_am_Holmenkollen_Oslo_2009.jpg
+  title: Kapelle am Holmenkollen Oslo 2009
+- src: images/in_den_Bergen_von_Oslo_2009.jpg
+  title: in den Bergen von Oslo 2009
+- src: images/Blick_auf_den_Oslofjord_2009.jpg
+  title: Blick auf den Oslofjord 2009
+- src: images/Blick_auf_Oslo_2009.jpg
+  title: Blick auf Oslo 2009
+- src: images/Schneeentsorgung_auf_Norwegisch_2009.jpg
+  title: Schneeentsorgung auf Norwegisch 2009
+- src: images/Fahrt_durch_den_Oslofjord_2009.jpg
+  title: Fahrt durch den Oslofjord 2009
+länder:
+- england
+title: Fährfahrt Oslo 2009
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

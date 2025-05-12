@@ -1,13 +1,15 @@
-+++
-title = "Saimaa 2005"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = ["oder", "saimaa"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- saimaa
+länder:
+- finnland
+title: Saimaa 2005
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

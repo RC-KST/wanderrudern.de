@@ -1,85 +1,68 @@
-+++
-title = "Dahme Spree Umfahrt 09"
-author = ""
-date = 2009-01-01T01:00:00+02:00
-begin = "2009-01-01"
-"gewässer" = ["dahme", "spree", "oder-spree-kanal", "schwielochsee", "oder"]
-"länder" = ["deutschland", "italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Idylle an der Dahme DS09"
-src = "images/Idylle_an_der_Dahme_DS09.jpg"
-[[images]]
-title = "die teilnehmenden Frauen DS09"
-src = "images/die_teilnehmenden_Frauen_DS09.jpg"
-[[images]]
-title = "Ruderboote in Maerkisch Buchholz DS09"
-src = "images/Ruderboote_in_Maerkisch_Buchholz_DS09.jpg"
-[[images]]
-title = "Martin in Maerkisch Buchholz DS09"
-src = "images/Martin_in_Maerkisch_Buchholz_DS09.jpg"
-[[images]]
-title = "Kinder beim Spielen DS09"
-src = "images/Kinder_beim_Spielen_DS09.jpg"
-[[images]]
-title = "Schwerarbeit beim Bootstransport DS09"
-src = "images/Schwerarbeit_beim_Bootstransport_DS09.jpg"
-[[images]]
-title = "Toller Bootswagen am Wehr DS09"
-src = "images/Toller_Bootswagen_am_Wehr_DS09.jpg"
-[[images]]
-title = "Kinderboot am Wehr DS09"
-src = "images/Kinderboot_am_Wehr_DS09.jpg"
-[[images]]
-title = "leistungsorientierte Ruderer DS09"
-src = "images/leistungsorientierte_Ruderer_DS09.jpg"
-[[images]]
-title = "Kinderboot legt ab DS09"
-src = "images/Kinderboot_legt_ab_DS09.jpg"
-[[images]]
-title = "Kinderzweier auf der Spree DS09"
-src = "images/Kinderzweier_auf_der_Spree_DS09.jpg"
-[[images]]
-title = "Viererbesatzung DS09"
-src = "images/Viererbesatzung_DS09.jpg"
-[[images]]
-title = "Nirina macht Faxen DS09"
-src = "images/Nirina_macht_Faxen_DS09.jpg"
-[[images]]
-title = "Baumgarten Boote DS09"
-src = "images/Baumgarten_Boote_DS09.jpg"
-[[images]]
-title = "aufgegebene Schleuse DS09"
-src = "images/aufgegebene_Schleuse_DS09.jpg"
-[[images]]
-title = "isotonische Getraenke DS09"
-src = "images/isotonische_Getraenke_DS09.jpg"
-[[images]]
-title = "Ruderboote unterhalb von Beeskow DS09"
-src = "images/Ruderboote_unterhalb_von_Beeskow_DS09.jpg"
-[[images]]
-title = "Nirina auf Schlag DS09"
-src = "images/Nirina_auf_Schlag_DS09.jpg"
-[[images]]
-title = "Ruderboot Schleuse Wergensee DS09"
-src = "images/Ruderboot_Schleuse_Wergensee_DS09.jpg"
-[[images]]
-title = "Ruderer am Ufer DS09"
-src = "images/Ruderer_am_Ufer_DS09.jpg"
-[[images]]
-title = "Bootsschleppe Drahendorf DS09"
-src = "images/Bootsschleppe_Drahendorf_DS09.jpg"
-[[images]]
-title = "Drahendorfer Spree DS09"
-src = "images/Drahendorfer_Spree_DS09.jpg"
-[[images]]
-title = "Badepause DS09"
-src = "images/Badepause_DS09.jpg"
-[[images]]
-title = "Beladener Vierer Alte Spree DS09"
-src = "images/Beladener_Vierer_Alte_Spree_DS09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-01-01"
+date: "2009-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- oder-spree-kanal
+- schwielochsee
+- oder
+images:
+- src: images/Idylle_an_der_Dahme_DS09.jpg
+  title: Idylle an der Dahme DS09
+- src: images/die_teilnehmenden_Frauen_DS09.jpg
+  title: die teilnehmenden Frauen DS09
+- src: images/Ruderboote_in_Maerkisch_Buchholz_DS09.jpg
+  title: Ruderboote in Maerkisch Buchholz DS09
+- src: images/Martin_in_Maerkisch_Buchholz_DS09.jpg
+  title: Martin in Maerkisch Buchholz DS09
+- src: images/Kinder_beim_Spielen_DS09.jpg
+  title: Kinder beim Spielen DS09
+- src: images/Schwerarbeit_beim_Bootstransport_DS09.jpg
+  title: Schwerarbeit beim Bootstransport DS09
+- src: images/Toller_Bootswagen_am_Wehr_DS09.jpg
+  title: Toller Bootswagen am Wehr DS09
+- src: images/Kinderboot_am_Wehr_DS09.jpg
+  title: Kinderboot am Wehr DS09
+- src: images/leistungsorientierte_Ruderer_DS09.jpg
+  title: leistungsorientierte Ruderer DS09
+- src: images/Kinderboot_legt_ab_DS09.jpg
+  title: Kinderboot legt ab DS09
+- src: images/Kinderzweier_auf_der_Spree_DS09.jpg
+  title: Kinderzweier auf der Spree DS09
+- src: images/Viererbesatzung_DS09.jpg
+  title: Viererbesatzung DS09
+- src: images/Nirina_macht_Faxen_DS09.jpg
+  title: Nirina macht Faxen DS09
+- src: images/Baumgarten_Boote_DS09.jpg
+  title: Baumgarten Boote DS09
+- src: images/aufgegebene_Schleuse_DS09.jpg
+  title: aufgegebene Schleuse DS09
+- src: images/isotonische_Getraenke_DS09.jpg
+  title: isotonische Getraenke DS09
+- src: images/Ruderboote_unterhalb_von_Beeskow_DS09.jpg
+  title: Ruderboote unterhalb von Beeskow DS09
+- src: images/Nirina_auf_Schlag_DS09.jpg
+  title: Nirina auf Schlag DS09
+- src: images/Ruderboot_Schleuse_Wergensee_DS09.jpg
+  title: Ruderboot Schleuse Wergensee DS09
+- src: images/Ruderer_am_Ufer_DS09.jpg
+  title: Ruderer am Ufer DS09
+- src: images/Bootsschleppe_Drahendorf_DS09.jpg
+  title: Bootsschleppe Drahendorf DS09
+- src: images/Drahendorfer_Spree_DS09.jpg
+  title: Drahendorfer Spree DS09
+- src: images/Badepause_DS09.jpg
+  title: Badepause DS09
+- src: images/Beladener_Vierer_Alte_Spree_DS09.jpg
+  title: Beladener Vierer Alte Spree DS09
+länder:
+- deutschland
+- italien
+title: Dahme Spree Umfahrt 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,37 +1,29 @@
-+++
-title = "Ketzin November 2022"
-author = ""
-date = 2022-11-11T01:00:00+02:00
-begin = "2022-11-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sacrow Paretzer Kanal Ruderer bei Schneefall Ketzin Herbst 2022"
-src = "images/Sacrow_Paretzer_Kanal_Ruderer_bei_Schneefall_Ketzin_Herbst_2022.jpg"
-[[images]]
-title = "Havelufer Ketzin 2022"
-src = "images/Havelufer_Ketzin_2022.jpg"
-[[images]]
-title = "Girlies im Ruderboot Herbst 2022 Havel"
-src = "images/Girlies_im_Ruderboot_Herbst_2022_Havel.jpg"
-[[images]]
-title = "Ruderboote auf dem Jungfernsee Ketzin Herbst 2022"
-src = "images/Ruderboote_auf_dem_Jungfernsee_Ketzin_Herbst_2022.jpg"
-[[images]]
-title = "Vereiste Skulls Ketzin 2022"
-src = "images/Vereiste_Skulls_Ketzin_2022.jpg"
-[[images]]
-title = "Ruderboote in Ketzin Herbst 2022"
-src = "images/Ruderboote_in_Ketzin_Herbst_2022.jpg"
-[[images]]
-title = "Mittagspause der Ruderer im Malabar Herbst 2022"
-src = "images/Mittagspause_der_Ruderer_im_Malabar_Herbst_2022.jpg"
-[[images]]
-title = "Sonnenuntergang am Trebbelsee Ketzin Herbst 2022"
-src = "images/Sonnenuntergang_am_Trebbelsee_Ketzin_Herbst_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-11-01"
+date: "2022-11-11T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Sacrow_Paretzer_Kanal_Ruderer_bei_Schneefall_Ketzin_Herbst_2022.jpg
+  title: Sacrow Paretzer Kanal Ruderer bei Schneefall Ketzin Herbst 2022
+- src: images/Havelufer_Ketzin_2022.jpg
+  title: Havelufer Ketzin 2022
+- src: images/Girlies_im_Ruderboot_Herbst_2022_Havel.jpg
+  title: Girlies im Ruderboot Herbst 2022 Havel
+- src: images/Ruderboote_auf_dem_Jungfernsee_Ketzin_Herbst_2022.jpg
+  title: Ruderboote auf dem Jungfernsee Ketzin Herbst 2022
+- src: images/Vereiste_Skulls_Ketzin_2022.jpg
+  title: Vereiste Skulls Ketzin 2022
+- src: images/Ruderboote_in_Ketzin_Herbst_2022.jpg
+  title: Ruderboote in Ketzin Herbst 2022
+- src: images/Mittagspause_der_Ruderer_im_Malabar_Herbst_2022.jpg
+  title: Mittagspause der Ruderer im Malabar Herbst 2022
+- src: images/Sonnenuntergang_am_Trebbelsee_Ketzin_Herbst_2022.jpg
+  title: Sonnenuntergang am Trebbelsee Ketzin Herbst 2022
+länder: []
+title: Ketzin November 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

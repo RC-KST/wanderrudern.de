@@ -1,10 +1,9 @@
-+++
-title = "Home"
-
-[lang_change]
-label = "English"
-path = "/club/en/beginners.md"
-+++
+---
+lang_change:
+  label: English
+  path: /club/en/beginners.md
+title: Home
+---
 
 {{< slider id="home" >}}
     {{< slider-entry

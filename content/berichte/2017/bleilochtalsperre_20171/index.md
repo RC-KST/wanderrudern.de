@@ -1,40 +1,33 @@
-+++
-title = "Bleilochtalsperre 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["saale"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bleilochtalsperre Ruderboote 2017"
-src = "images/Bleilochtalsperre_Ruderboote_2017.jpg"
-[[images]]
-title = "Jugendvierer Bleilochtalsperre 2017"
-src = "images/Jugendvierer_Bleilochtalsperre_2017.jpg"
-[[images]]
-title = "Bleilochtalsperre staumauer 2017"
-src = "images/Bleilochtalsperre_staumauer_2017.jpg"
-[[images]]
-title = "Bleilochtalsperre Felsen 2017"
-src = "images/Bleilochtalsperre_Felsen_2017.jpg"
-[[images]]
-title = "Grillen beim Ruderverein Lobenstein 2017"
-src = "images/Grillen_beim_Ruderverein_Lobenstein_2017.jpg"
-[[images]]
-title = "Lobenstein Ruderverein Bleilochtalsperre 2017"
-src = "images/Lobenstein_Ruderverein_Bleilochtalsperre_2017.jpg"
-[[images]]
-title = "Saale Zufluss Bleilochtalsperre 2017"
-src = "images/Saale_Zufluss_Bleilochtalsperre_2017.jpg"
-[[images]]
-title = "Bleilochtalsperre Nebenarm 2017"
-src = "images/Bleilochtalsperre_Nebenarm_2017.jpg"
-[[images]]
-title = "Zweier Bleilochtalsperre 2017"
-src = "images/Zweier_Bleilochtalsperre_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- saale
+images:
+- src: images/Bleilochtalsperre_Ruderboote_2017.jpg
+  title: Bleilochtalsperre Ruderboote 2017
+- src: images/Jugendvierer_Bleilochtalsperre_2017.jpg
+  title: Jugendvierer Bleilochtalsperre 2017
+- src: images/Bleilochtalsperre_staumauer_2017.jpg
+  title: Bleilochtalsperre staumauer 2017
+- src: images/Bleilochtalsperre_Felsen_2017.jpg
+  title: Bleilochtalsperre Felsen 2017
+- src: images/Grillen_beim_Ruderverein_Lobenstein_2017.jpg
+  title: Grillen beim Ruderverein Lobenstein 2017
+- src: images/Lobenstein_Ruderverein_Bleilochtalsperre_2017.jpg
+  title: Lobenstein Ruderverein Bleilochtalsperre 2017
+- src: images/Saale_Zufluss_Bleilochtalsperre_2017.jpg
+  title: Saale Zufluss Bleilochtalsperre 2017
+- src: images/Bleilochtalsperre_Nebenarm_2017.jpg
+  title: Bleilochtalsperre Nebenarm 2017
+- src: images/Zweier_Bleilochtalsperre_2017.jpg
+  title: Zweier Bleilochtalsperre 2017
+länder:
+- deutschland
+title: Bleilochtalsperre 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

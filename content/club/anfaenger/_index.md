@@ -1,5 +1,5 @@
-+++
-title = "Anfänger"
-weight = 1
-+++
+---
+title: Anfänger
+weight: 1
+---
 

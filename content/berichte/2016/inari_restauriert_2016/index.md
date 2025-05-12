@@ -1,19 +1,19 @@
-+++
-title = "Inari restauriert 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["bug", "sognefjord"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jörg mit der restaurierten Inari 2016"
-src = "images/Jorg_mit_der_restaurierten_Inari_2016.jpg"
-[[images]]
-title = "Inari restauriert 2016"
-src = "images/Inari_restauriert_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- bug
+- sognefjord
+images:
+- src: images/Jorg_mit_der_restaurierten_Inari_2016.jpg
+  title: Jörg mit der restaurierten Inari 2016
+- src: images/Inari_restauriert_2016.jpg
+  title: Inari restauriert 2016
+länder: []
+title: Inari restauriert 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

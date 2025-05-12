@@ -1,28 +1,24 @@
-+++
-title = "Decin - Meissen 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = []
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Hotel Posta Decin Advent 2014"
-src = "images/Hotel_Posta_Decin_Advent_2014.jpg"
-[[images]]
-title = "Felix beim wassertreten advent 2014"
-src = "images/Felix_beim_wassertreten_advent_2014.jpg"
-[[images]]
-title = "Elb-Sandsteingebirge Adventswanderfahrt 2014"
-src = "images/Elb-Sandsteingebirge_Adventswanderfahrt_2014.jpg"
-[[images]]
-title = "auf der Elbe Advent 2014"
-src = "images/auf_der_Elbe_Advent_2014.jpg"
-[[images]]
-title = "Gluehwein auf der elbe Advent 2014"
-src = "images/Gluehwein_auf_der_elbe_Advent_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Hotel_Posta_Decin_Advent_2014.jpg
+  title: Hotel Posta Decin Advent 2014
+- src: images/Felix_beim_wassertreten_advent_2014.jpg
+  title: Felix beim wassertreten advent 2014
+- src: images/Elb-Sandsteingebirge_Adventswanderfahrt_2014.jpg
+  title: Elb-Sandsteingebirge Adventswanderfahrt 2014
+- src: images/auf_der_Elbe_Advent_2014.jpg
+  title: auf der Elbe Advent 2014
+- src: images/Gluehwein_auf_der_elbe_Advent_2014.jpg
+  title: Gluehwein auf der elbe Advent 2014
+länder:
+- tschechien
+title: Decin - Meissen 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

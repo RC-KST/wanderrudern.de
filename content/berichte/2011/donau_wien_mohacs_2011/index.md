@@ -1,181 +1,131 @@
-+++
-title = "Donau Wien Mohacs 2011"
-author = ""
-date = 2011-04-04T01:00:00+02:00
-begin = "2011-04-01"
-"gewässer" = ["donau", "oste", "oder"]
-"länder" = ["österreich", "ungarn", "slowakei"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "donaukarte Ungarn"
-src = "images/donaukarte_Ungarn.jpg"
-[[images]]
-title = "Bootstransport nach Wien D11"
-src = "images/Bootstransport_nach_Wien_D11.jpg"
-[[images]]
-title = "Duernstein Ruderclub Steg D11"
-src = "images/Duernstein_Ruderclub_Steg_D11.jpg"
-[[images]]
-title = "Donau Altarm kurz vor Wien D11"
-src = "images/Donau_Altarm_kurz_vor_Wien_D11.jpg"
-[[images]]
-title = "Ruderboote umtragen vor Wien D11"
-src = "images/Ruderboote_umtragen_vor_Wien_D11.jpg"
-[[images]]
-title = "Geburtstagskuchen in Wien D11"
-src = "images/Geburtstagskuchen_in_Wien_D11.jpg"
-[[images]]
-title = "Stephansdom Wien D11"
-src = "images/Stephansdom_Wien_D11.jpg"
-[[images]]
-title = "Lui Christel Nubia in Wien D11"
-src = "images/Lui_Christel_Nubia_in_Wien_D11.jpg"
-[[images]]
-title = "Marlies Nirina wilde Maus Wien D11"
-src = "images/Marlies_Nirina_wilde_Maus_Wien_D11.jpg"
-[[images]]
-title = "Ruderboote Wien Schleuse D11"
-src = "images/Ruderboote_Wien_Schleuse_D11.jpg"
-[[images]]
-title = "Nirina am Steuer in Wien D11"
-src = "images/Nirina_am_Steuer_in_Wien_D11.jpg"
-[[images]]
-title = "Ruderboot am Donaustrand hinter Wien D11"
-src = "images/Ruderboot_am_Donaustrand_hinter_Wien_D11.jpg"
-[[images]]
-title = "Grenzfestung Slowakei D11"
-src = "images/Grenzfestung_Slowakei_D11.jpg"
-[[images]]
-title = "Ruderverein Bratislava Treppe zum Wasser D11"
-src = "images/Ruderverein_Bratislava_Treppe_zum_Wasser_D11.jpg"
-[[images]]
-title = "Paul vor der Burg Bratislava D11"
-src = "images/Paul_vor_der_Burg_Bratislava_D11.jpg"
-[[images]]
-title = "Eismeer Mannschaft in Bratislava"
-src = "images/Eismeer_Mannschaft_in_Bratislava.jpg"
-[[images]]
-title = "Slowakisches SEK D11"
-src = "images/Slowakisches_SEK_D11.jpg"
-[[images]]
-title = "Umtrage am Staudamm Donau 11"
-src = "images/Umtrage_am_Staudamm_Donau_11.jpg"
-[[images]]
-title = "JarJar auf der Donau D11"
-src = "images/JarJar_auf_der_Donau_D11.jpg"
-[[images]]
-title = "Sophie auf dem Stausee bei Bratislava D11"
-src = "images/Sophie_auf_dem_Stausee_bei_Bratislava_D11.jpg"
-[[images]]
-title = "Mossoni Donau bei Rajka Ruderboot D11"
-src = "images/Mossoni_Donau_bei_Rajka_Ruderboot_D11.jpg"
-[[images]]
-title = "Ruderboot Strand Mossoni Donau 11"
-src = "images/Ruderboot_Strand_Mossoni_Donau_11.jpg"
-[[images]]
-title = "E-Zweier in Moson- Magyarrova D11"
-src = "images/E-Zweier_in_Moson-_Magyarrova_D11.jpg"
-[[images]]
-title = "Moson Magyarrova am Rudersteg D11"
-src = "images/Moson_Magyarrova_am_Rudersteg_D11.jpg"
-[[images]]
-title = "Vierer auf der Mossoni Donau D11"
-src = "images/Vierer_auf_der_Mossoni_Donau_D11.jpg"
-[[images]]
-title = "E-Vierer macht Pause D11"
-src = "images/E-Vierer_macht_Pause_D11.jpg"
-[[images]]
-title = "Strandmalereien an der Donau D11"
-src = "images/Strandmalereien_an_der_Donau_D11.jpg"
-[[images]]
-title = "Fruehstueck in Gyoer D11"
-src = "images/Fruehstueck_in_Gyoer_D11.jpg"
-[[images]]
-title = "Ruderboote auf der Donau D11"
-src = "images/Ruderboote_auf_der_Donau_D11.jpg"
-[[images]]
-title = "Wanderruderer machen Pause Donau 11"
-src = "images/Wanderruderer_machen_Pause_Donau_11.jpg"
-[[images]]
-title = "Autotransporter auf der Donau 11"
-src = "images/Autotransporter_auf_der_Donau_11.jpg"
-[[images]]
-title = "Vierer auf der Donau 11"
-src = "images/Vierer_auf_der_Donau_11.jpg"
-[[images]]
-title = "Ruderer im Kraftraum Esztergom D11"
-src = "images/Ruderer_im_Kraftraum_Esztergom_D11.jpg"
-[[images]]
-title = "Donau vor Esztergom D11"
-src = "images/Donau_vor_Esztergom_D11.jpg"
-[[images]]
-title = "Hungrige Ruderer in Esztergom D11"
-src = "images/Hungrige_Ruderer_in_Esztergom_D11.jpg"
-[[images]]
-title = "Panorama von Esztergom D11"
-src = "images/Panorama_von_Esztergom_D11.jpg"
-[[images]]
-title = "Ruderer in Visegrad Donauknie D11"
-src = "images/Ruderer_in_Visegrad_Donauknie_D11.jpg"
-[[images]]
-title = "Ruderer in  Budapest D11"
-src = "images/Ruderer_in__Budapest_D11.jpg"
-[[images]]
-title = "Ruderer vor der Fischerbastei D11"
-src = "images/Ruderer_vor_der_Fischerbastei_D11.jpg"
-[[images]]
-title = "Der heilige Stephan D11"
-src = "images/Der_heilige_Stephan_D11.jpg"
-[[images]]
-title = "Nirina und die Arpadenfuersten D11"
-src = "images/Nirina_und_die_Arpadenfuersten_D11.jpg"
-[[images]]
-title = "Blick ueber Budapest D11"
-src = "images/Blick_ueber_Budapest_D11.jpg"
-[[images]]
-title = "Unsere Pazifisten D11"
-src = "images/Unsere_Pazifisten_D11.jpg"
-[[images]]
-title = "Budapest vom Ruderboot gesehen D11"
-src = "images/Budapest_vom_Ruderboot_gesehen_D11.jpg"
-[[images]]
-title = "Budapest Parlament vom Ruderboot aus D11"
-src = "images/Budapest_Parlament_vom_Ruderboot_aus_D11.jpg"
-[[images]]
-title = "Ruderboote Stadtdurchfahrt Budapest D11"
-src = "images/Ruderboote_Stadtdurchfahrt_Budapest_D11.jpg"
-[[images]]
-title = "Budapest Hotel D11"
-src = "images/Budapest_Hotel_D11.jpg"
-[[images]]
-title = "Rudervierer in Suedungarn D11"
-src = "images/Rudervierer_in_Suedungarn_D11.jpg"
-[[images]]
-title = "Nirina Thomas Stefan Zweier auf der Donau 11"
-src = "images/Nirina_Thomas_Stefan_Zweier_auf_der_Donau_11.jpg"
-[[images]]
-title = "Donau bei Dombori D11"
-src = "images/Donau_bei_Dombori_D11.jpg"
-[[images]]
-title = "Abendessen in Dombori D11"
-src = "images/Abendessen_in_Dombori_D11.jpg"
-[[images]]
-title = "Pause am Ufer der Donau D11"
-src = "images/Pause_am_Ufer_der_Donau_D11.jpg"
-[[images]]
-title = "Bernd auf der Donau D11"
-src = "images/Bernd_auf_der_Donau_D11.jpg"
-[[images]]
-title = "Abendessen in Mohacs D11"
-src = "images/Abendessen_in_Mohacs_D11.jpg"
-[[images]]
-title = "Nirinas Vierer Donau11"
-src = "images/Nirinas_Vierer_Donau11.jpg"
-[[images]]
-title = "Ferkeltaxe in Mohacs D11"
-src = "images/Ferkeltaxe_in_Mohacs_D11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-04-01"
+date: "2011-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- oste
+- oder
+images:
+- src: images/donaukarte_Ungarn.jpg
+  title: donaukarte Ungarn
+- src: images/Bootstransport_nach_Wien_D11.jpg
+  title: Bootstransport nach Wien D11
+- src: images/Duernstein_Ruderclub_Steg_D11.jpg
+  title: Duernstein Ruderclub Steg D11
+- src: images/Donau_Altarm_kurz_vor_Wien_D11.jpg
+  title: Donau Altarm kurz vor Wien D11
+- src: images/Ruderboote_umtragen_vor_Wien_D11.jpg
+  title: Ruderboote umtragen vor Wien D11
+- src: images/Geburtstagskuchen_in_Wien_D11.jpg
+  title: Geburtstagskuchen in Wien D11
+- src: images/Stephansdom_Wien_D11.jpg
+  title: Stephansdom Wien D11
+- src: images/Lui_Christel_Nubia_in_Wien_D11.jpg
+  title: Lui Christel Nubia in Wien D11
+- src: images/Marlies_Nirina_wilde_Maus_Wien_D11.jpg
+  title: Marlies Nirina wilde Maus Wien D11
+- src: images/Ruderboote_Wien_Schleuse_D11.jpg
+  title: Ruderboote Wien Schleuse D11
+- src: images/Nirina_am_Steuer_in_Wien_D11.jpg
+  title: Nirina am Steuer in Wien D11
+- src: images/Ruderboot_am_Donaustrand_hinter_Wien_D11.jpg
+  title: Ruderboot am Donaustrand hinter Wien D11
+- src: images/Grenzfestung_Slowakei_D11.jpg
+  title: Grenzfestung Slowakei D11
+- src: images/Ruderverein_Bratislava_Treppe_zum_Wasser_D11.jpg
+  title: Ruderverein Bratislava Treppe zum Wasser D11
+- src: images/Paul_vor_der_Burg_Bratislava_D11.jpg
+  title: Paul vor der Burg Bratislava D11
+- src: images/Eismeer_Mannschaft_in_Bratislava.jpg
+  title: Eismeer Mannschaft in Bratislava
+- src: images/Slowakisches_SEK_D11.jpg
+  title: Slowakisches SEK D11
+- src: images/Umtrage_am_Staudamm_Donau_11.jpg
+  title: Umtrage am Staudamm Donau 11
+- src: images/JarJar_auf_der_Donau_D11.jpg
+  title: JarJar auf der Donau D11
+- src: images/Sophie_auf_dem_Stausee_bei_Bratislava_D11.jpg
+  title: Sophie auf dem Stausee bei Bratislava D11
+- src: images/Mossoni_Donau_bei_Rajka_Ruderboot_D11.jpg
+  title: Mossoni Donau bei Rajka Ruderboot D11
+- src: images/Ruderboot_Strand_Mossoni_Donau_11.jpg
+  title: Ruderboot Strand Mossoni Donau 11
+- src: images/E-Zweier_in_Moson-_Magyarrova_D11.jpg
+  title: E-Zweier in Moson- Magyarrova D11
+- src: images/Moson_Magyarrova_am_Rudersteg_D11.jpg
+  title: Moson Magyarrova am Rudersteg D11
+- src: images/Vierer_auf_der_Mossoni_Donau_D11.jpg
+  title: Vierer auf der Mossoni Donau D11
+- src: images/E-Vierer_macht_Pause_D11.jpg
+  title: E-Vierer macht Pause D11
+- src: images/Strandmalereien_an_der_Donau_D11.jpg
+  title: Strandmalereien an der Donau D11
+- src: images/Fruehstueck_in_Gyoer_D11.jpg
+  title: Fruehstueck in Gyoer D11
+- src: images/Ruderboote_auf_der_Donau_D11.jpg
+  title: Ruderboote auf der Donau D11
+- src: images/Wanderruderer_machen_Pause_Donau_11.jpg
+  title: Wanderruderer machen Pause Donau 11
+- src: images/Autotransporter_auf_der_Donau_11.jpg
+  title: Autotransporter auf der Donau 11
+- src: images/Vierer_auf_der_Donau_11.jpg
+  title: Vierer auf der Donau 11
+- src: images/Ruderer_im_Kraftraum_Esztergom_D11.jpg
+  title: Ruderer im Kraftraum Esztergom D11
+- src: images/Donau_vor_Esztergom_D11.jpg
+  title: Donau vor Esztergom D11
+- src: images/Hungrige_Ruderer_in_Esztergom_D11.jpg
+  title: Hungrige Ruderer in Esztergom D11
+- src: images/Panorama_von_Esztergom_D11.jpg
+  title: Panorama von Esztergom D11
+- src: images/Ruderer_in_Visegrad_Donauknie_D11.jpg
+  title: Ruderer in Visegrad Donauknie D11
+- src: images/Ruderer_in__Budapest_D11.jpg
+  title: Ruderer in  Budapest D11
+- src: images/Ruderer_vor_der_Fischerbastei_D11.jpg
+  title: Ruderer vor der Fischerbastei D11
+- src: images/Der_heilige_Stephan_D11.jpg
+  title: Der heilige Stephan D11
+- src: images/Nirina_und_die_Arpadenfuersten_D11.jpg
+  title: Nirina und die Arpadenfuersten D11
+- src: images/Blick_ueber_Budapest_D11.jpg
+  title: Blick ueber Budapest D11
+- src: images/Unsere_Pazifisten_D11.jpg
+  title: Unsere Pazifisten D11
+- src: images/Budapest_vom_Ruderboot_gesehen_D11.jpg
+  title: Budapest vom Ruderboot gesehen D11
+- src: images/Budapest_Parlament_vom_Ruderboot_aus_D11.jpg
+  title: Budapest Parlament vom Ruderboot aus D11
+- src: images/Ruderboote_Stadtdurchfahrt_Budapest_D11.jpg
+  title: Ruderboote Stadtdurchfahrt Budapest D11
+- src: images/Budapest_Hotel_D11.jpg
+  title: Budapest Hotel D11
+- src: images/Rudervierer_in_Suedungarn_D11.jpg
+  title: Rudervierer in Suedungarn D11
+- src: images/Nirina_Thomas_Stefan_Zweier_auf_der_Donau_11.jpg
+  title: Nirina Thomas Stefan Zweier auf der Donau 11
+- src: images/Donau_bei_Dombori_D11.jpg
+  title: Donau bei Dombori D11
+- src: images/Abendessen_in_Dombori_D11.jpg
+  title: Abendessen in Dombori D11
+- src: images/Pause_am_Ufer_der_Donau_D11.jpg
+  title: Pause am Ufer der Donau D11
+- src: images/Bernd_auf_der_Donau_D11.jpg
+  title: Bernd auf der Donau D11
+- src: images/Abendessen_in_Mohacs_D11.jpg
+  title: Abendessen in Mohacs D11
+- src: images/Nirinas_Vierer_Donau11.jpg
+  title: Nirinas Vierer Donau11
+- src: images/Ferkeltaxe_in_Mohacs_D11.jpg
+  title: Ferkeltaxe in Mohacs D11
+länder:
+- österreich
+- ungarn
+- slowakei
+title: Donau Wien Mohacs 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

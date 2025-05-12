@@ -1,43 +1,38 @@
-+++
-title = "Elbe_Elde_Umfahrt94"
-author = ""
-date = 1994-01-01T01:00:00+02:00
-begin = "1994-01-01"
-"gewässer" = ["elbe", "havel", "plauer see", "mecklenburger seenplatte", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer bei warmen Wetter"
-src = "images/elbe_elde_Brandenburg.jpg"
-[[images]]
-title = "Schaffotschleuse Havel"
-src = "images/elbe_elde_schleuse.jpg"
-[[images]]
-title = "Ruderboot am Elbestrand"
-src = "images/elbe_sendetuerme.jpg"
-[[images]]
-title = "sonnenuntergang an der Elbe"
-src = "images/sonnenuntergang.jpg"
-[[images]]
-title = "Ruderer auf der Elde"
-src = "images/elde.jpg"
-[[images]]
-title = "schweriner Schloss vom Ruderclub gesehen"
-src = "images/schwerin.jpg"
-[[images]]
-title = "Neustadt Glewe Ruderer"
-src = "images/burg.jpg"
-[[images]]
-title = "Elde Kanal Ruderer"
-src = "images/kanal.jpg"
-[[images]]
-title = "Mädechen im Ruderboot"
-src = "images/maedchen_boot2.jpg"
-[[images]]
-title = "Rudern auf der Müritz"
-src = "images/mueritz.jpg"
-
-+++
+---
+author: ""
+begin: "1994-01-01"
+date: "1994-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- mecklenburger seenplatte
+- oder
+images:
+- src: images/elbe_elde_Brandenburg.jpg
+  title: Ruderer bei warmen Wetter
+- src: images/elbe_elde_schleuse.jpg
+  title: Schaffotschleuse Havel
+- src: images/elbe_sendetuerme.jpg
+  title: Ruderboot am Elbestrand
+- src: images/sonnenuntergang.jpg
+  title: sonnenuntergang an der Elbe
+- src: images/elde.jpg
+  title: Ruderer auf der Elde
+- src: images/schwerin.jpg
+  title: schweriner Schloss vom Ruderclub gesehen
+- src: images/burg.jpg
+  title: Neustadt Glewe Ruderer
+- src: images/kanal.jpg
+  title: Elde Kanal Ruderer
+- src: images/maedchen_boot2.jpg
+  title: Mädechen im Ruderboot
+- src: images/mueritz.jpg
+  title: Rudern auf der Müritz
+länder: []
+title: Elbe_Elde_Umfahrt94
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

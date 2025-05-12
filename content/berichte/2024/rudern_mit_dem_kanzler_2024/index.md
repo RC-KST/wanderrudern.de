@@ -1,25 +1,23 @@
-+++
-title = "Rudern mit dem Kanzler 2024"
-author = ""
-date = 2024-09-09T01:00:00+02:00
-begin = "2024-09-01"
-"gewässer" = ["aller", "shannon"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "1 Scholz im Ruderboot Alte Autobahn Kleinmachnow"
-src = "images/1_Scholz_im_Ruderboot_Alte_Autobahn_Kleinmachnow.jpg"
-[[images]]
-title = "3 Scholz beim Ruderclub KST 2024"
-src = "images/3_Scholz_beim_Ruderclub_KST_2024.jpg"
-[[images]]
-title = "4 Scholz im Ruderboot"
-src = "images/4_Scholz_im_Ruderboot.jpg"
-[[images]]
-title = "2 Scholz vor der Machnower Schleuse 2024"
-src = "images/2_Scholz_vor_der_Machnower_Schleuse_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-09-01"
+date: "2024-09-09T01:00:00+02:00"
+gewässer:
+- aller
+- shannon
+images:
+- src: images/1_Scholz_im_Ruderboot_Alte_Autobahn_Kleinmachnow.jpg
+  title: 1 Scholz im Ruderboot Alte Autobahn Kleinmachnow
+- src: images/3_Scholz_beim_Ruderclub_KST_2024.jpg
+  title: 3 Scholz beim Ruderclub KST 2024
+- src: images/4_Scholz_im_Ruderboot.jpg
+  title: 4 Scholz im Ruderboot
+- src: images/2_Scholz_vor_der_Machnower_Schleuse_2024.jpg
+  title: 2 Scholz vor der Machnower Schleuse 2024
+länder: []
+title: Rudern mit dem Kanzler 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

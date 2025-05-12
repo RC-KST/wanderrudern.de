@@ -1,31 +1,28 @@
-+++
-title = "Ketzin 2001"
-author = ""
-date = 2001-01-01T01:00:00+02:00
-begin = "2001-01-01"
-"gewässer" = ["aller", "havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ketzin Ruderer"
-src = "images/MartinaStefan.jpg"
-[[images]]
-title = "Ketzin Gaststätte Ruderer"
-src = "images/2Alte.jpg"
-[[images]]
-title = "Altherren Runde Ketzin Ruderer"
-src = "images/3Alte.jpg"
-[[images]]
-title = "Rudermannschaft in Ketzin"
-src = "images/Ruderer1.jpg"
-[[images]]
-title = "Globetrotter Ruderboot"
-src = "images/Schoepfen.jpg"
-[[images]]
-title = "Ketziner"
-src = "images/Ketziner.jpg"
-
-+++
+---
+author: ""
+begin: "2001-01-01"
+date: "2001-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- havel
+- oder
+images:
+- src: images/MartinaStefan.jpg
+  title: Ketzin Ruderer
+- src: images/2Alte.jpg
+  title: Ketzin Gaststätte Ruderer
+- src: images/3Alte.jpg
+  title: Altherren Runde Ketzin Ruderer
+- src: images/Ruderer1.jpg
+  title: Rudermannschaft in Ketzin
+- src: images/Schoepfen.jpg
+  title: Globetrotter Ruderboot
+- src: images/Ketziner.jpg
+  title: Ketziner
+länder: []
+title: Ketzin 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

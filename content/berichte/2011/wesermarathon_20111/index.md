@@ -1,49 +1,39 @@
-+++
-title = "Wesermarathon 2011"
-author = ""
-date = 2011-08-08T01:00:00+02:00
-begin = "2011-08-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderer in Melsungen WM11"
-src = "images/Ruderer_in_Melsungen_WM11.jpg"
-[[images]]
-title = "Abendessen Melsungen Ruderer WM11"
-src = "images/Abendessen_Melsungen_Ruderer_WM11.jpg"
-[[images]]
-title = "Boote aufriggern an der Fulda WM11"
-src = "images/Boote_aufriggern_an_der_Fulda_WM11.jpg"
-[[images]]
-title = "Flachstelle in der Fulda WM11"
-src = "images/Flachstelle_in_der_Fulda_WM11.jpg"
-[[images]]
-title = "Fulda Schleuse Ruderboote WM11"
-src = "images/Fulda_Schleuse_Ruderboote_WM11.jpg"
-[[images]]
-title = "Ruderboot auf der Fulda WM11"
-src = "images/Ruderboot_auf_der_Fulda_WM11.jpg"
-[[images]]
-title = "Jens Schleuse Guxhagen WM11"
-src = "images/Jens_Schleuse_Guxhagen_WM11.jpg"
-[[images]]
-title = "Start Wesermarathon Nirina Jens im Ruderzweier WM11"
-src = "images/Start_Wesermarathon_Nirina_Jens_im_Ruderzweier_WM11.jpg"
-[[images]]
-title = "C- Zweier auf dem Wesermarathon 11"
-src = "images/C-_Zweier_auf_dem_Wesermarathon_11.jpg"
-[[images]]
-title = "Weserbergland Ruderboot WM11"
-src = "images/Weserbergland_Ruderboot_WM11.jpg"
-[[images]]
-title = "Masters am Zielsteg Wesermarathon 11"
-src = "images/Masters_am_Zielsteg_Wesermarathon_11.jpg"
-[[images]]
-title = "Frauenzweier in Hameln WM11"
-src = "images/Frauenzweier_in_Hameln_WM11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-08-01"
+date: "2011-08-08T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+images:
+- src: images/Ruderer_in_Melsungen_WM11.jpg
+  title: Ruderer in Melsungen WM11
+- src: images/Abendessen_Melsungen_Ruderer_WM11.jpg
+  title: Abendessen Melsungen Ruderer WM11
+- src: images/Boote_aufriggern_an_der_Fulda_WM11.jpg
+  title: Boote aufriggern an der Fulda WM11
+- src: images/Flachstelle_in_der_Fulda_WM11.jpg
+  title: Flachstelle in der Fulda WM11
+- src: images/Fulda_Schleuse_Ruderboote_WM11.jpg
+  title: Fulda Schleuse Ruderboote WM11
+- src: images/Ruderboot_auf_der_Fulda_WM11.jpg
+  title: Ruderboot auf der Fulda WM11
+- src: images/Jens_Schleuse_Guxhagen_WM11.jpg
+  title: Jens Schleuse Guxhagen WM11
+- src: images/Start_Wesermarathon_Nirina_Jens_im_Ruderzweier_WM11.jpg
+  title: Start Wesermarathon Nirina Jens im Ruderzweier WM11
+- src: images/C-_Zweier_auf_dem_Wesermarathon_11.jpg
+  title: C- Zweier auf dem Wesermarathon 11
+- src: images/Weserbergland_Ruderboot_WM11.jpg
+  title: Weserbergland Ruderboot WM11
+- src: images/Masters_am_Zielsteg_Wesermarathon_11.jpg
+  title: Masters am Zielsteg Wesermarathon 11
+- src: images/Frauenzweier_in_Hameln_WM11.jpg
+  title: Frauenzweier in Hameln WM11
+länder: []
+title: Wesermarathon 2011
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

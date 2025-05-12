@@ -1,34 +1,28 @@
-+++
-title = "Decin - Meissen 2013"
-author = ""
-date = 2013-12-12T01:00:00+02:00
-begin = "2013-12-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer in Dresden Elbe 2013"
-src = "images/Ruderer_in_Dresden_Elbe_2013.jpg"
-[[images]]
-title = "Elbsandstein Advent 2013"
-src = "images/Elbsandstein_Advent_2013.jpg"
-[[images]]
-title = "Koenigsstein Elbe 2013"
-src = "images/Koenigsstein_Elbe_2013.jpg"
-[[images]]
-title = "Marktplatz Decin 2013"
-src = "images/Marktplatz_Decin_2013.jpg"
-[[images]]
-title = "Vierer auf der Elbe Advent 2013"
-src = "images/Vierer_auf_der_Elbe_Advent_2013.jpg"
-[[images]]
-title = "Bastei Elbe 2013"
-src = "images/Bastei_Elbe_2013.jpg"
-[[images]]
-title = "Leonie Schloss Pillnitz Elbe 2013"
-src = "images/Leonie_Schloss_Pillnitz_Elbe_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-12-01"
+date: "2013-12-12T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Ruderer_in_Dresden_Elbe_2013.jpg
+  title: Ruderer in Dresden Elbe 2013
+- src: images/Elbsandstein_Advent_2013.jpg
+  title: Elbsandstein Advent 2013
+- src: images/Koenigsstein_Elbe_2013.jpg
+  title: Koenigsstein Elbe 2013
+- src: images/Marktplatz_Decin_2013.jpg
+  title: Marktplatz Decin 2013
+- src: images/Vierer_auf_der_Elbe_Advent_2013.jpg
+  title: Vierer auf der Elbe Advent 2013
+- src: images/Bastei_Elbe_2013.jpg
+  title: Bastei Elbe 2013
+- src: images/Leonie_Schloss_Pillnitz_Elbe_2013.jpg
+  title: Leonie Schloss Pillnitz Elbe 2013
+länder: []
+title: Decin - Meissen 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

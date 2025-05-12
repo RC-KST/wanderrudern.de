@@ -1,40 +1,37 @@
-+++
-title = "Saimaa Seenplatte 2001"
-author = ""
-date = 2001-07-07T01:00:00+02:00
-begin = "2001-07-01"
-"gewässer" = ["inn", "ostsee", "saimaa"]
-"länder" = ["deutschland", "finnland", "österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "elch"
-src = "images/elch.gif"
-[[images]]
-title = "Vasamuseum Stockholm"
-src = "images/vasa.jpg"
-[[images]]
-title = "Saimaa See Skull"
-src = "images/skull.jpg"
-[[images]]
-title = "Lagerfeuer Ruderer Saimaa"
-src = "images/lagerfeuerfi01.jpg"
-[[images]]
-title = "Saimaa Ruderboot"
-src = "images/kilian_seen.jpg"
-[[images]]
-title = "Kuopio Saimaa Ruderer"
-src = "images/stefan.jpg"
-[[images]]
-title = "Puijo Kuopio"
-src = "images/puijo.jpg"
-[[images]]
-title = "Saimaa Seenplatte"
-src = "images/puijo_aussicht.jpg"
-[[images]]
-title = "Steuermann Ruderboot"
-src = "images/phillipp_fi01.jpg"
-
-+++
+---
+author: ""
+begin: "2001-07-01"
+date: "2001-07-07T01:00:00+02:00"
+gewässer:
+- inn
+- ostsee
+- saimaa
+images:
+- src: images/elch.gif
+  title: elch
+- src: images/vasa.jpg
+  title: Vasamuseum Stockholm
+- src: images/skull.jpg
+  title: Saimaa See Skull
+- src: images/lagerfeuerfi01.jpg
+  title: Lagerfeuer Ruderer Saimaa
+- src: images/kilian_seen.jpg
+  title: Saimaa Ruderboot
+- src: images/stefan.jpg
+  title: Kuopio Saimaa Ruderer
+- src: images/puijo.jpg
+  title: Puijo Kuopio
+- src: images/puijo_aussicht.jpg
+  title: Saimaa Seenplatte
+- src: images/phillipp_fi01.jpg
+  title: Steuermann Ruderboot
+länder:
+- deutschland
+- finnland
+- österreich
+title: Saimaa Seenplatte 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,40 +1,39 @@
-+++
-title = "Donau 2002 Budapest - Eisernes Tor"
-author = ""
-date = 2002-10-10T01:00:00+02:00
-begin = "2002-10-01"
-"gewässer" = ["donau", "aller", "oder", "erne"]
-"länder" = ["deutschland", "österreich", "ungarn", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Budapest Ruderer "
-src = "images/mannschaft_buidapest.jpg"
-[[images]]
-title = "Weinquelle Budapest"
-src = "images/weinquelle.jpg"
-[[images]]
-title = "Ruderboote in Budapest"
-src = "images/buidapest_boote.jpg"
-[[images]]
-title = "d02_zweier"
-src = "images/d02_zweier.jpg"
-[[images]]
-title = "d02_timo_martina"
-src = "images/d02_timo_martina.jpg"
-[[images]]
-title = "d02_engtal2"
-src = "images/d02_engtal2.jpg"
-[[images]]
-title = "d02_steffi_clara"
-src = "images/d02_steffi_clara.jpg"
-[[images]]
-title = "d02_steinkopf"
-src = "images/d02_steinkopf.jpg"
-[[images]]
-title = "Eisernes Tor Donau Serbien"
-src = "images/d02_engtal.jpg"
-
-+++
+---
+author: ""
+begin: "2002-10-01"
+date: "2002-10-10T01:00:00+02:00"
+gewässer:
+- donau
+- aller
+- oder
+- erne
+images:
+- src: images/mannschaft_buidapest.jpg
+  title: 'Budapest Ruderer '
+- src: images/weinquelle.jpg
+  title: Weinquelle Budapest
+- src: images/buidapest_boote.jpg
+  title: Ruderboote in Budapest
+- src: images/d02_zweier.jpg
+  title: d02_zweier
+- src: images/d02_timo_martina.jpg
+  title: d02_timo_martina
+- src: images/d02_engtal2.jpg
+  title: d02_engtal2
+- src: images/d02_steffi_clara.jpg
+  title: d02_steffi_clara
+- src: images/d02_steinkopf.jpg
+  title: d02_steinkopf
+- src: images/d02_engtal.jpg
+  title: Eisernes Tor Donau Serbien
+länder:
+- deutschland
+- österreich
+- ungarn
+- serbien
+title: Donau 2002 Budapest - Eisernes Tor
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

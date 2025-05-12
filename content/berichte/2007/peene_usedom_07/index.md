@@ -1,100 +1,74 @@
-+++
-title = "Peene Usedom 07"
-author = ""
-date = 2007-05-05T01:00:00+02:00
-begin = "2007-05-01"
-"gewässer" = ["ostsee", "peene", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Stilleben am Peeneufer P07"
-src = "images/Stilleben_am_Peeneufer_P07.jpg"
-[[images]]
-title = "Pension in Rustow"
-src = "images/Pension_in_Rustow.JPG"
-[[images]]
-title = "stilvoller Abend bei den Ruderern P07"
-src = "images/stilvoller_Abend_bei_den_Ruderern_P07.JPG"
-[[images]]
-title = "nicht ausgelastete Ruderer P07"
-src = "images/nicht_ausgelastete_Ruderer_P07.JPG"
-[[images]]
-title = "Meedy am Steuer P07"
-src = "images/Meedy_am_Steuer_P07.JPG"
-[[images]]
-title = "Ruderer in Rustow P07"
-src = "images/Ruderer_in_Rustow_P07.JPG"
-[[images]]
-title = "Am Steg in Anklam P07"
-src = "images/Am_Steg_in_Anklam_P07.jpg"
-[[images]]
-title = "Anklam Rudersteg P07"
-src = "images/Anklam_Rudersteg_P07.JPG"
-[[images]]
-title = "Windy am Steuer P07"
-src = "images/Windy_am_Steuer_P07.JPG"
-[[images]]
-title = "Ruderboot auf  der Peene 07"
-src = "images/Ruderboot_auf__der_Peene_07.JPG"
-[[images]]
-title = "Patrick und Natasha beim Spielen P07"
-src = "images/Patrick_und_Natasha_beim_Spielen_P07.JPG"
-[[images]]
-title = "Lui beim Rudern auf der Peene"
-src = "images/Lui_beim_Rudern_auf_der_Peene.jpg"
-[[images]]
-title = "Pause am Steg P07"
-src = "images/Pause_am_Steg_P07.JPG"
-[[images]]
-title = "Ruderer am Achterwasser PE07"
-src = "images/Ruderer_am_Achterwasser_PE07.jpg"
-[[images]]
-title = "meedy in Wolgast PE07"
-src = "images/meedy_in_Wolgast_PE07.jpg"
-[[images]]
-title = "Windy Peenestrom PE07"
-src = "images/Windy_Peenestrom_PE07.jpg"
-[[images]]
-title = "Levon Meedy auf dem Achterwasser"
-src = "images/Levon_Meedy_auf_dem_Achterwasser.jpg"
-[[images]]
-title = "Ruderinnen auf Usedom PE07"
-src = "images/Ruderinnen_auf_Usedom_PE07.jpg"
-[[images]]
-title = "Kraftraum Wolgast P07"
-src = "images/Kraftraum_Wolgast_P07.JPG"
-[[images]]
-title = "Beginn des Achterwassers P07"
-src = "images/Beginn_des_Achterwassers_P07.jpg"
-[[images]]
-title = "Wolgast im Hafen P07"
-src = "images/Wolgast_im_Hafen_P07.JPG"
-[[images]]
-title = "wolgast Steg PE07"
-src = "images/wolgast_Steg_PE07.jpg"
-[[images]]
-title = "Brandungsanlege bei Lubmin P07"
-src = "images/Brandungsanlege_bei_Lubmin_P07.JPG"
-[[images]]
-title = "Unter der Seebruecke Pe07"
-src = "images/Unter_der_Seebruecke_Pe07.jpg"
-[[images]]
-title = "Rudervierer am Strand der Ostsee P07"
-src = "images/Rudervierer_am_Strand_der_Ostsee_P07.jpg"
-[[images]]
-title = "Strandschoenheiten P07"
-src = "images/Strandschoenheiten_P07.JPG"
-[[images]]
-title = "Ruderer in der Ostsee PE07"
-src = "images/Ruderer_in_der_Ostsee_PE07.jpg"
-[[images]]
-title = "Ruderboot am Strand von Lubmin PE07"
-src = "images/Ruderboot_am_Strand_von_Lubmin_PE07.jpg"
-[[images]]
-title = "Bootsanhanger am Ostseestrand PE07"
-src = "images/Bootsanhanger_am_Ostseestrand_PE07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-05-01"
+date: "2007-05-05T01:00:00+02:00"
+gewässer:
+- ostsee
+- peene
+- oder
+images:
+- src: images/Stilleben_am_Peeneufer_P07.jpg
+  title: Stilleben am Peeneufer P07
+- src: images/Pension_in_Rustow.JPG
+  title: Pension in Rustow
+- src: images/stilvoller_Abend_bei_den_Ruderern_P07.JPG
+  title: stilvoller Abend bei den Ruderern P07
+- src: images/nicht_ausgelastete_Ruderer_P07.JPG
+  title: nicht ausgelastete Ruderer P07
+- src: images/Meedy_am_Steuer_P07.JPG
+  title: Meedy am Steuer P07
+- src: images/Ruderer_in_Rustow_P07.JPG
+  title: Ruderer in Rustow P07
+- src: images/Am_Steg_in_Anklam_P07.jpg
+  title: Am Steg in Anklam P07
+- src: images/Anklam_Rudersteg_P07.JPG
+  title: Anklam Rudersteg P07
+- src: images/Windy_am_Steuer_P07.JPG
+  title: Windy am Steuer P07
+- src: images/Ruderboot_auf__der_Peene_07.JPG
+  title: Ruderboot auf  der Peene 07
+- src: images/Patrick_und_Natasha_beim_Spielen_P07.JPG
+  title: Patrick und Natasha beim Spielen P07
+- src: images/Lui_beim_Rudern_auf_der_Peene.jpg
+  title: Lui beim Rudern auf der Peene
+- src: images/Pause_am_Steg_P07.JPG
+  title: Pause am Steg P07
+- src: images/Ruderer_am_Achterwasser_PE07.jpg
+  title: Ruderer am Achterwasser PE07
+- src: images/meedy_in_Wolgast_PE07.jpg
+  title: meedy in Wolgast PE07
+- src: images/Windy_Peenestrom_PE07.jpg
+  title: Windy Peenestrom PE07
+- src: images/Levon_Meedy_auf_dem_Achterwasser.jpg
+  title: Levon Meedy auf dem Achterwasser
+- src: images/Ruderinnen_auf_Usedom_PE07.jpg
+  title: Ruderinnen auf Usedom PE07
+- src: images/Kraftraum_Wolgast_P07.JPG
+  title: Kraftraum Wolgast P07
+- src: images/Beginn_des_Achterwassers_P07.jpg
+  title: Beginn des Achterwassers P07
+- src: images/Wolgast_im_Hafen_P07.JPG
+  title: Wolgast im Hafen P07
+- src: images/wolgast_Steg_PE07.jpg
+  title: wolgast Steg PE07
+- src: images/Brandungsanlege_bei_Lubmin_P07.JPG
+  title: Brandungsanlege bei Lubmin P07
+- src: images/Unter_der_Seebruecke_Pe07.jpg
+  title: Unter der Seebruecke Pe07
+- src: images/Rudervierer_am_Strand_der_Ostsee_P07.jpg
+  title: Rudervierer am Strand der Ostsee P07
+- src: images/Strandschoenheiten_P07.JPG
+  title: Strandschoenheiten P07
+- src: images/Ruderer_in_der_Ostsee_PE07.jpg
+  title: Ruderer in der Ostsee PE07
+- src: images/Ruderboot_am_Strand_von_Lubmin_PE07.jpg
+  title: Ruderboot am Strand von Lubmin PE07
+- src: images/Bootsanhanger_am_Ostseestrand_PE07.jpg
+  title: Bootsanhanger am Ostseestrand PE07
+länder: []
+title: Peene Usedom 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,19 +1,19 @@
-+++
-title = "Spandauer Weihnachtsmarkt 2013"
-author = ""
-date = 2013-12-12T01:00:00+02:00
-begin = "2013-12-01"
-"gewässer" = ["havel", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Spandau Muehlengraben 2013"
-src = "images/Spandau_Muehlengraben_2013.jpg"
-[[images]]
-title = "Spandauer Weihnachtsmarkt 2013"
-src = "images/Spandauer_Weihnachtsmarkt_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-12-01"
+date: "2013-12-12T01:00:00+02:00"
+gewässer:
+- havel
+- wannsee
+images:
+- src: images/Spandau_Muehlengraben_2013.jpg
+  title: Spandau Muehlengraben 2013
+- src: images/Spandauer_Weihnachtsmarkt_2013.jpg
+  title: Spandauer Weihnachtsmarkt 2013
+länder: []
+title: Spandauer Weihnachtsmarkt 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

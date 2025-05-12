@@ -1,22 +1,20 @@
-+++
-title = "Barke 2024"
-author = ""
-date = 2024-02-02T01:00:00+02:00
-begin = "2024-02-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barke des RC KST_"
-src = "images/Barke_des_RC_KST_.jpg"
-[[images]]
-title = "Neue Barke des Ruderclub Kleinmachnow-Stahnsdorf-Teltow 2024"
-src = "images/Neue_Barke_des_Ruderclub_Kleinmachnow-Stahnsdorf-Teltow_2024.png"
-[[images]]
-title = "Barke auf dem Teltowkanal 2024"
-src = "images/Barke_auf_dem_Teltowkanal_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-02-01"
+date: "2024-02-02T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Barke_des_RC_KST_.jpg
+  title: Barke des RC KST_
+- src: images/Neue_Barke_des_Ruderclub_Kleinmachnow-Stahnsdorf-Teltow_2024.png
+  title: Neue Barke des Ruderclub Kleinmachnow-Stahnsdorf-Teltow 2024
+- src: images/Barke_auf_dem_Teltowkanal_2024.jpg
+  title: Barke auf dem Teltowkanal 2024
+länder: []
+title: Barke 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

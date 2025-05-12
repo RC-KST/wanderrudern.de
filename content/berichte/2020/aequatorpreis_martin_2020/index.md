@@ -1,25 +1,21 @@
-+++
-title = "Aequatorpreis Martin 2020"
-author = ""
-date = 2020-01-01T01:00:00+02:00
-begin = "2020-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Martin Aequatorpreis 2020"
-src = "images/Martin_Aequatorpreis_2020.jpg"
-[[images]]
-title = "Aequatorkuchen 2020 Martin"
-src = "images/Aequatorkuchen_2020_Martin.jpg"
-[[images]]
-title = "Familienmannschaft fuer die letzten 30 km zum Aequatorpreis 2020"
-src = "images/Familienmannschaft_fuer_die_letzten_30_km_zum_Aequatorpreis_2020.jpg"
-[[images]]
-title = "Martin geht ueber die 40.077 km 2020"
-src = "images/Martin_geht_ueber_die_40.077_km_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-01-01"
+date: "2020-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Martin_Aequatorpreis_2020.jpg
+  title: Martin Aequatorpreis 2020
+- src: images/Aequatorkuchen_2020_Martin.jpg
+  title: Aequatorkuchen 2020 Martin
+- src: images/Familienmannschaft_fuer_die_letzten_30_km_zum_Aequatorpreis_2020.jpg
+  title: Familienmannschaft fuer die letzten 30 km zum Aequatorpreis 2020
+- src: images/Martin_geht_ueber_die_40.077_km_2020.jpg
+  title: Martin geht ueber die 40.077 km 2020
+länder: []
+title: Aequatorpreis Martin 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

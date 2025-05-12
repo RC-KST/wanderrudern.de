@@ -1,70 +1,56 @@
-+++
-title = "Berliner Innenstadt 2024"
-author = ""
-date = 2024-05-05T01:00:00+02:00
-begin = "2024-05-01"
-"gewässer" = ["inn", "havel", "teltowkanal", "tegler see", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barke Dnister Wannsee 2024"
-src = "images/Barke_Dnister_Wannsee_2024.jpg"
-[[images]]
-title = "Boote bereit stellen Berliner Innenstadt 2024"
-src = "images/Boote_bereit_stellen_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Boote bei Treptow Berliner Innenstadt 2024"
-src = "images/Boote_bei_Treptow_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Barke vor der Oberbaumbrücke Berliner Innenstadt 2024"
-src = "images/Barke_vor_der_Oberbaumbrucke_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Barke in der Mühlendammschleuse 2024"
-src = "images/Barke_in_der_Muhlendammschleuse_2024.jpg"
-[[images]]
-title = "Barke an der Museumsinsel 2024"
-src = "images/Barke_an_der_Museumsinsel_2024.jpg"
-[[images]]
-title = "Barke am Schloss Charlottenburg 2024"
-src = "images/Barke_am_Schloss_Charlottenburg_2024.jpg"
-[[images]]
-title = "Barke auf dem Teltowkanal Berliner Innenstadt 2024"
-src = "images/Barke_auf_dem_Teltowkanal_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Fruehstueck in Treptow Berliner Innenstadt 2024"
-src = "images/Fruehstueck_in_Treptow_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Boote einsetzen Treptower RG 2024"
-src = "images/Boote_einsetzen_Treptower_RG_2024.jpg"
-[[images]]
-title = "Ruderboote Treptower RG Berliner Innenstadt 2024"
-src = "images/Ruderboote_Treptower_RG_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Gebäude Berliner Innenstadt 2024"
-src = "images/Gebaude_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Alternative Wohnbebauung Berliner Innenstadt 2024"
-src = "images/Alternative_Wohnbebauung_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Ruderboote Berliner Innenstadt 2024"
-src = "images/Ruderboote_Berliner_Innenstadt_2024.jpg"
-[[images]]
-title = "Ruderboote Mühlendammschleuse 2024"
-src = "images/Ruderboote_Muhlendammschleuse_2024.jpg"
-[[images]]
-title = "Bode Museum Ruderboote 2024"
-src = "images/Bode_Museum_Ruderboote_2024.jpg"
-[[images]]
-title = "Ruderboote an der Innenstadt Spree 2024"
-src = "images/Ruderboote_an_der_Innenstadt_Spree_2024.jpg"
-[[images]]
-title = "Märkische Wassersport 2024 Innenstadtdurchfahrt"
-src = "images/Markische_Wassersport_2024_Innenstadtdurchfahrt.jpg"
-[[images]]
-title = "Wartestelle Spandauer Schleuse Ruderboote 2024"
-src = "images/Wartestelle_Spandauer_Schleuse_Ruderboote_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-05-01"
+date: "2024-05-05T01:00:00+02:00"
+gewässer:
+- inn
+- havel
+- teltowkanal
+- tegler see
+- wannsee
+images:
+- src: images/Barke_Dnister_Wannsee_2024.jpg
+  title: Barke Dnister Wannsee 2024
+- src: images/Boote_bereit_stellen_Berliner_Innenstadt_2024.jpg
+  title: Boote bereit stellen Berliner Innenstadt 2024
+- src: images/Boote_bei_Treptow_Berliner_Innenstadt_2024.jpg
+  title: Boote bei Treptow Berliner Innenstadt 2024
+- src: images/Barke_vor_der_Oberbaumbrucke_Berliner_Innenstadt_2024.jpg
+  title: Barke vor der Oberbaumbrücke Berliner Innenstadt 2024
+- src: images/Barke_in_der_Muhlendammschleuse_2024.jpg
+  title: Barke in der Mühlendammschleuse 2024
+- src: images/Barke_an_der_Museumsinsel_2024.jpg
+  title: Barke an der Museumsinsel 2024
+- src: images/Barke_am_Schloss_Charlottenburg_2024.jpg
+  title: Barke am Schloss Charlottenburg 2024
+- src: images/Barke_auf_dem_Teltowkanal_Berliner_Innenstadt_2024.jpg
+  title: Barke auf dem Teltowkanal Berliner Innenstadt 2024
+- src: images/Fruehstueck_in_Treptow_Berliner_Innenstadt_2024.jpg
+  title: Fruehstueck in Treptow Berliner Innenstadt 2024
+- src: images/Boote_einsetzen_Treptower_RG_2024.jpg
+  title: Boote einsetzen Treptower RG 2024
+- src: images/Ruderboote_Treptower_RG_Berliner_Innenstadt_2024.jpg
+  title: Ruderboote Treptower RG Berliner Innenstadt 2024
+- src: images/Gebaude_Berliner_Innenstadt_2024.jpg
+  title: Gebäude Berliner Innenstadt 2024
+- src: images/Alternative_Wohnbebauung_Berliner_Innenstadt_2024.jpg
+  title: Alternative Wohnbebauung Berliner Innenstadt 2024
+- src: images/Ruderboote_Berliner_Innenstadt_2024.jpg
+  title: Ruderboote Berliner Innenstadt 2024
+- src: images/Ruderboote_Muhlendammschleuse_2024.jpg
+  title: Ruderboote Mühlendammschleuse 2024
+- src: images/Bode_Museum_Ruderboote_2024.jpg
+  title: Bode Museum Ruderboote 2024
+- src: images/Ruderboote_an_der_Innenstadt_Spree_2024.jpg
+  title: Ruderboote an der Innenstadt Spree 2024
+- src: images/Markische_Wassersport_2024_Innenstadtdurchfahrt.jpg
+  title: Märkische Wassersport 2024 Innenstadtdurchfahrt
+- src: images/Wartestelle_Spandauer_Schleuse_Ruderboote_2024.jpg
+  title: Wartestelle Spandauer Schleuse Ruderboote 2024
+länder: []
+title: Berliner Innenstadt 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

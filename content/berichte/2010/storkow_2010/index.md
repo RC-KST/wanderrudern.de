@@ -1,40 +1,36 @@
-+++
-title = "Storkow 2010"
-author = ""
-date = 2010-06-06T01:00:00+02:00
-begin = "2010-06-01"
-"gewässer" = ["rhein", "lahn", "dahme", "teltowkanal", "wolziger see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Dahme bei Wildau St10"
-src = "images/Dahme_bei_Wildau_St10.jpg"
-[[images]]
-title = "Mattenlager Storkow St10"
-src = "images/Mattenlager_Storkow_St10.jpg"
-[[images]]
-title = "Scharmuetzelsee Kevin und Nirina St10"
-src = "images/Scharmuetzelsee_Kevin_und_Nirina_St10.jpg"
-[[images]]
-title = "Badepause auf dem Dolgensee St10"
-src = "images/Badepause_auf_dem_Dolgensee_St10.jpg"
-[[images]]
-title = "Dolgensee Thomas St10"
-src = "images/Dolgensee_Thomas_St10.jpg"
-[[images]]
-title = "Storkower See St10"
-src = "images/Storkower_See_St10.jpg"
-[[images]]
-title = "Badepause am Scharmuetzelsee St10"
-src = "images/Badepause_am_Scharmuetzelsee_St10.jpg"
-[[images]]
-title = "Storkow Fruehstueck St10"
-src = "images/Storkow_Fruehstueck_St10.jpg"
-[[images]]
-title = "Schleuse Wendisch Rietz St10"
-src = "images/Schleuse_Wendisch_Rietz_St10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-06-01"
+date: "2010-06-06T01:00:00+02:00"
+gewässer:
+- rhein
+- lahn
+- dahme
+- teltowkanal
+- wolziger see
+images:
+- src: images/Dahme_bei_Wildau_St10.jpg
+  title: Dahme bei Wildau St10
+- src: images/Mattenlager_Storkow_St10.jpg
+  title: Mattenlager Storkow St10
+- src: images/Scharmuetzelsee_Kevin_und_Nirina_St10.jpg
+  title: Scharmuetzelsee Kevin und Nirina St10
+- src: images/Badepause_auf_dem_Dolgensee_St10.jpg
+  title: Badepause auf dem Dolgensee St10
+- src: images/Dolgensee_Thomas_St10.jpg
+  title: Dolgensee Thomas St10
+- src: images/Storkower_See_St10.jpg
+  title: Storkower See St10
+- src: images/Badepause_am_Scharmuetzelsee_St10.jpg
+  title: Badepause am Scharmuetzelsee St10
+- src: images/Storkow_Fruehstueck_St10.jpg
+  title: Storkow Fruehstueck St10
+- src: images/Schleuse_Wendisch_Rietz_St10.jpg
+  title: Schleuse Wendisch Rietz St10
+länder: []
+title: Storkow 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,13 @@
-+++
-title = "Decin06"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+länder: []
+title: Decin06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

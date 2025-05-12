@@ -1,22 +1,22 @@
-+++
-title = "Anfaengerfahrt zu Dresdenia 2010"
-author = ""
-date = 2010-06-06T01:00:00+02:00
-begin = "2010-06-01"
-"gewässer" = ["tegler see", "neuendorfer see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Pause bei Saffonia 2010"
-src = "images/Pause_bei_Saffonia_2010.jpg"
-[[images]]
-title = "Cookie groovt Dresdenia2010"
-src = "images/Cookie_groovt_Dresdenia2010.jpg"
-[[images]]
-title = "Jugendwanderfahrt Dresdenia 2010"
-src = "images/Jugendwanderfahrt_Dresdenia_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-06-01"
+date: "2010-06-06T01:00:00+02:00"
+gewässer:
+- tegler see
+- neuendorfer see
+- oder
+images:
+- src: images/Pause_bei_Saffonia_2010.jpg
+  title: Pause bei Saffonia 2010
+- src: images/Cookie_groovt_Dresdenia2010.jpg
+  title: Cookie groovt Dresdenia2010
+- src: images/Jugendwanderfahrt_Dresdenia_2010.jpg
+  title: Jugendwanderfahrt Dresdenia 2010
+länder: []
+title: Anfaengerfahrt zu Dresdenia 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

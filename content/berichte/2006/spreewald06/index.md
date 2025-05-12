@@ -1,55 +1,44 @@
-+++
-title = "spreewald 2006"
-author = ""
-date = 2006-08-08T01:00:00+02:00
-begin = "2006-08-01"
-"gewässer" = ["spree", "spreewald", "saimaa"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse Neue Muehle August 06"
-src = "images/Schleuse_Neue_Muehle_August_06.jpg"
-[[images]]
-title = "Unterspreewald August 06"
-src = "images/Unterspreewald_August_06.jpg"
-[[images]]
-title = "Fliess malte Spreewald Ruderboot"
-src = "images/spw06_fliess_malte.jpg"
-[[images]]
-title = "Spreewald moritz"
-src = "images/spw06_moritz2.jpg"
-[[images]]
-title = "Spreewaldschleuse Rudern"
-src = "images/spw06_schleuse_jens.jpg"
-[[images]]
-title = "Spreewald schleusentore Rudern"
-src = "images/spw06_schleusentore2.jpg"
-[[images]]
-title = "Spreewald schleuse katrin enten"
-src = "images/spw06_schleuse_katrin_enten.jpg"
-[[images]]
-title = "Spreewald petkamsberg baden ruderer"
-src = "images/spw06_petkamsberg_baden3.jpg"
-[[images]]
-title = "Spreewald petkamsberg ruderboot baden"
-src = "images/spw06_petkamsberg.jpg"
-[[images]]
-title = "Spreewald sophie manuel ruderer"
-src = "images/spw06_sophie_manuel.jpg"
-[[images]]
-title = "Spreewald zeltlager ruderer"
-src = "images/spw06_zeltlager.jpg"
-[[images]]
-title = "petkamsberg sophie"
-src = "images/spw06_petkamsberg_sophie.jpg"
-[[images]]
-title = "mannschaft Ruderboot Dreier"
-src = "images/spw06_mannschaft.jpg"
-[[images]]
-title = "Ruderclub Beeskow August 06"
-src = "images/Ruderclub_Beeskow_August_06.jpg"
-
-+++
+---
+author: ""
+begin: "2006-08-01"
+date: "2006-08-08T01:00:00+02:00"
+gewässer:
+- spree
+- spreewald
+- saimaa
+images:
+- src: images/Schleuse_Neue_Muehle_August_06.jpg
+  title: Schleuse Neue Muehle August 06
+- src: images/Unterspreewald_August_06.jpg
+  title: Unterspreewald August 06
+- src: images/spw06_fliess_malte.jpg
+  title: Fliess malte Spreewald Ruderboot
+- src: images/spw06_moritz2.jpg
+  title: Spreewald moritz
+- src: images/spw06_schleuse_jens.jpg
+  title: Spreewaldschleuse Rudern
+- src: images/spw06_schleusentore2.jpg
+  title: Spreewald schleusentore Rudern
+- src: images/spw06_schleuse_katrin_enten.jpg
+  title: Spreewald schleuse katrin enten
+- src: images/spw06_petkamsberg_baden3.jpg
+  title: Spreewald petkamsberg baden ruderer
+- src: images/spw06_petkamsberg.jpg
+  title: Spreewald petkamsberg ruderboot baden
+- src: images/spw06_sophie_manuel.jpg
+  title: Spreewald sophie manuel ruderer
+- src: images/spw06_zeltlager.jpg
+  title: Spreewald zeltlager ruderer
+- src: images/spw06_petkamsberg_sophie.jpg
+  title: petkamsberg sophie
+- src: images/spw06_mannschaft.jpg
+  title: mannschaft Ruderboot Dreier
+- src: images/Ruderclub_Beeskow_August_06.jpg
+  title: Ruderclub Beeskow August 06
+länder: []
+title: spreewald 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

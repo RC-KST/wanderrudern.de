@@ -1,28 +1,23 @@
-+++
-title = "Collegia 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Eis essen in Tegel Collegia 2019"
-src = "images/Eis_essen_in_Tegel_Collegia_2019.jpg"
-[[images]]
-title = "Einer rudern bei Collegia 2019"
-src = "images/Einer_rudern_bei_Collegia_2019.jpg"
-[[images]]
-title = "Ruderer vor der Zitadelle Collegia 2019"
-src = "images/Ruderer_vor_der_Zitadelle_Collegia_2019.jpg"
-[[images]]
-title = "Bootschleppe Spandau Collegia 2019"
-src = "images/Bootschleppe_Spandau_Collegia_2019.jpg"
-[[images]]
-title = "Abendessen bei Collegia 2019"
-src = "images/Abendessen_bei_Collegia_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Eis_essen_in_Tegel_Collegia_2019.jpg
+  title: Eis essen in Tegel Collegia 2019
+- src: images/Einer_rudern_bei_Collegia_2019.jpg
+  title: Einer rudern bei Collegia 2019
+- src: images/Ruderer_vor_der_Zitadelle_Collegia_2019.jpg
+  title: Ruderer vor der Zitadelle Collegia 2019
+- src: images/Bootschleppe_Spandau_Collegia_2019.jpg
+  title: Bootschleppe Spandau Collegia 2019
+- src: images/Abendessen_bei_Collegia_2019.jpg
+  title: Abendessen bei Collegia 2019
+länder: []
+title: Collegia 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

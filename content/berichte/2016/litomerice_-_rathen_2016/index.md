@@ -1,37 +1,30 @@
-+++
-title = "Litomerice - Rathen 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = []
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer in Rathen 2016"
-src = "images/Ruderer_in_Rathen_2016.jpg"
-[[images]]
-title = "Hotel Lev Lovosice"
-src = "images/Hotel_Lev_Lovosice.jpg"
-[[images]]
-title = "Bootstransport in Lovosice 2016"
-src = "images/Bootstransport_in_Lovosice_2016.jpg"
-[[images]]
-title = "Aufriggern in Lovosice 2016"
-src = "images/Aufriggern_in_Lovosice_2016.jpg"
-[[images]]
-title = "Wolfgang vor Burg Schreckenstein Decin 2016"
-src = "images/Wolfgang_vor_Burg_Schreckenstein_Decin_2016.jpg"
-[[images]]
-title = "Elbe in Decin Winter 2016"
-src = "images/Elbe_in_Decin_Winter_2016.jpg"
-[[images]]
-title = "Elbe bei Koenigsstein Decin 2016-1"
-src = "images/Elbe_bei_Koenigsstein_Decin_2016-1.jpg"
-[[images]]
-title = "Feste Koenigsstein Decin 2016"
-src = "images/Feste_Koenigsstein_Decin_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderer_in_Rathen_2016.jpg
+  title: Ruderer in Rathen 2016
+- src: images/Hotel_Lev_Lovosice.jpg
+  title: Hotel Lev Lovosice
+- src: images/Bootstransport_in_Lovosice_2016.jpg
+  title: Bootstransport in Lovosice 2016
+- src: images/Aufriggern_in_Lovosice_2016.jpg
+  title: Aufriggern in Lovosice 2016
+- src: images/Wolfgang_vor_Burg_Schreckenstein_Decin_2016.jpg
+  title: Wolfgang vor Burg Schreckenstein Decin 2016
+- src: images/Elbe_in_Decin_Winter_2016.jpg
+  title: Elbe in Decin Winter 2016
+- src: images/Elbe_bei_Koenigsstein_Decin_2016-1.jpg
+  title: Elbe bei Koenigsstein Decin 2016-1
+- src: images/Feste_Koenigsstein_Decin_2016.jpg
+  title: Feste Koenigsstein Decin 2016
+länder:
+- tschechien
+title: Litomerice - Rathen 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

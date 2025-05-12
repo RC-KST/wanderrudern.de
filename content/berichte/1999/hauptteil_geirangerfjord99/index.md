@@ -1,46 +1,38 @@
-+++
-title = "Geirangerfjord 1999"
-author = ""
-date = 1999-07-07T01:00:00+02:00
-begin = "1999-07-01"
-"gewässer" = ["oder"]
-"länder" = ["norwegen", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot-Trailer am Geirangerfjord Volda "
-src = "images/trailer.jpg"
-[[images]]
-title = "Abladen der Ruderboote am Fjord"
-src = "images/trailer2.jpg"
-[[images]]
-title = "Kai badet im Geirangerfjord"
-src = "images/baden_kai.jpg"
-[[images]]
-title = "berggipfel am Fjord"
-src = "images/berggipfel.jpg"
-[[images]]
-title = "aquarium Alesund"
-src = "images/aquarium.jpg"
-[[images]]
-title = "gletscher strom in norwegen"
-src = "images/gletscher_strom.jpg"
-[[images]]
-title = "wehle kai laura im Zweier rudernd"
-src = "images/wehle_kai_laura.jpg"
-[[images]]
-title = "krystina vor Fjordkulisse"
-src = "images/krystina.jpg"
-[[images]]
-title = "wasserfall am Fjord"
-src = "images/wasserfall2.jpg"
-[[images]]
-title = "abendessen am Geirangerfjord"
-src = "images/abendessen_nw99.jpg"
-[[images]]
-title = "krystina mit Bergen am Fjord"
-src = "images/krystina3.jpg"
-
-+++
+---
+author: ""
+begin: "1999-07-01"
+date: "1999-07-07T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/trailer.jpg
+  title: 'Ruderboot-Trailer am Geirangerfjord Volda '
+- src: images/trailer2.jpg
+  title: Abladen der Ruderboote am Fjord
+- src: images/baden_kai.jpg
+  title: Kai badet im Geirangerfjord
+- src: images/berggipfel.jpg
+  title: berggipfel am Fjord
+- src: images/aquarium.jpg
+  title: aquarium Alesund
+- src: images/gletscher_strom.jpg
+  title: gletscher strom in norwegen
+- src: images/wehle_kai_laura.jpg
+  title: wehle kai laura im Zweier rudernd
+- src: images/krystina.jpg
+  title: krystina vor Fjordkulisse
+- src: images/wasserfall2.jpg
+  title: wasserfall am Fjord
+- src: images/abendessen_nw99.jpg
+  title: abendessen am Geirangerfjord
+- src: images/krystina3.jpg
+  title: krystina mit Bergen am Fjord
+länder:
+- norwegen
+- schweden
+title: Geirangerfjord 1999
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

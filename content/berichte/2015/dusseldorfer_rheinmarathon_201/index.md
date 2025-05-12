@@ -1,16 +1,16 @@
-+++
-title = "Düsseldorfer Rheinmarathon 2015"
-author = ""
-date = 2015-10-10T01:00:00+02:00
-begin = "2015-10-01"
-"gewässer" = ["rhein"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Duesseldorfer Marathonrudern 2015"
-src = "images/Duesseldorfer_Marathonrudern_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-10-01"
+date: "2015-10-10T01:00:00+02:00"
+gewässer:
+- rhein
+images:
+- src: images/Duesseldorfer_Marathonrudern_2015.jpg
+  title: Duesseldorfer Marathonrudern 2015
+länder: []
+title: Düsseldorfer Rheinmarathon 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,52 +1,44 @@
-+++
-title = "Warthe Marathon 2019"
-author = ""
-date = 2019-05-05T01:00:00+02:00
-begin = "2019-05-01"
-"gewässer" = ["warthe", "netze", "weichsel", "po"]
-"länder" = ["polen"]
-"typ" = "marathon"
-[[images]]
-title = "Warthe Startpunkt Kolo 2019"
-src = "images/Warthe_Startpunkt_Kolo_2019.jpg"
-[[images]]
-title = "Nirina Cornelius Ruderboot auf der Warthe 2019"
-src = "images/Nirina_Cornelius_Ruderboot_auf_der_Warthe_2019.jpg"
-[[images]]
-title = "Pyzdry nach 90 km Rudern Warthemarathon 2019"
-src = "images/Pyzdry_nach_90_km_Rudern_Warthemarathon_2019.jpg"
-[[images]]
-title = "Abendessen Pyzdry Warthemarathon 2019"
-src = "images/Abendessen_Pyzdry_Warthemarathon_2019.jpg"
-[[images]]
-title = "Nirina vor Kloster in Pyzdry Warthemarathon 2019"
-src = "images/Nirina_vor_Kloster_in_Pyzdry_Warthemarathon_2019.jpg"
-[[images]]
-title = "Ruderboot Zweier auf dem Weg nach Posen Warthemarathon 2019"
-src = "images/Ruderboot_Zweier_auf_dem_Weg_nach_Posen_Warthemarathon_2019.jpg"
-[[images]]
-title = "Zielbier in Posen Warthemarathon 2019"
-src = "images/Zielbier_in_Posen_Warthemarathon_2019.jpg"
-[[images]]
-title = "Ruderer unter der Bruecke in Posen Warthemarathon 2019"
-src = "images/Ruderer_unter_der_Bruecke_in_Posen_Warthemarathon_2019.jpg"
-[[images]]
-title = "Cornelius in Posen Warthemarathon 2019"
-src = "images/Cornelius_in_Posen_Warthemarathon_2019.jpg"
-[[images]]
-title = "Marathonmannschaft auf der Warthe 2019"
-src = "images/Marathonmannschaft_auf_der_Warthe_2019.jpg"
-[[images]]
-title = "Abendessen Stary Zatom Warthemarathon 2019"
-src = "images/Abendessen_Stary_Zatom_Warthemarathon_2019.jpg"
-[[images]]
-title = "Der Landdienst hat Eis besorgt Warthemarathon 2019"
-src = "images/Der_Landdienst_hat_Eis_besorgt_Warthemarathon_2019.jpg"
-[[images]]
-title = "Sandbank in Gorzow Wielkopolski Ziel Warthemarathon 2019"
-src = "images/Sandbank_in_Gorzow_Wielkopolski_Ziel_Warthemarathon_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-05-01"
+date: "2019-05-05T01:00:00+02:00"
+gewässer:
+- warthe
+- netze
+- weichsel
+- po
+images:
+- src: images/Warthe_Startpunkt_Kolo_2019.jpg
+  title: Warthe Startpunkt Kolo 2019
+- src: images/Nirina_Cornelius_Ruderboot_auf_der_Warthe_2019.jpg
+  title: Nirina Cornelius Ruderboot auf der Warthe 2019
+- src: images/Pyzdry_nach_90_km_Rudern_Warthemarathon_2019.jpg
+  title: Pyzdry nach 90 km Rudern Warthemarathon 2019
+- src: images/Abendessen_Pyzdry_Warthemarathon_2019.jpg
+  title: Abendessen Pyzdry Warthemarathon 2019
+- src: images/Nirina_vor_Kloster_in_Pyzdry_Warthemarathon_2019.jpg
+  title: Nirina vor Kloster in Pyzdry Warthemarathon 2019
+- src: images/Ruderboot_Zweier_auf_dem_Weg_nach_Posen_Warthemarathon_2019.jpg
+  title: Ruderboot Zweier auf dem Weg nach Posen Warthemarathon 2019
+- src: images/Zielbier_in_Posen_Warthemarathon_2019.jpg
+  title: Zielbier in Posen Warthemarathon 2019
+- src: images/Ruderer_unter_der_Bruecke_in_Posen_Warthemarathon_2019.jpg
+  title: Ruderer unter der Bruecke in Posen Warthemarathon 2019
+- src: images/Cornelius_in_Posen_Warthemarathon_2019.jpg
+  title: Cornelius in Posen Warthemarathon 2019
+- src: images/Marathonmannschaft_auf_der_Warthe_2019.jpg
+  title: Marathonmannschaft auf der Warthe 2019
+- src: images/Abendessen_Stary_Zatom_Warthemarathon_2019.jpg
+  title: Abendessen Stary Zatom Warthemarathon 2019
+- src: images/Der_Landdienst_hat_Eis_besorgt_Warthemarathon_2019.jpg
+  title: Der Landdienst hat Eis besorgt Warthemarathon 2019
+- src: images/Sandbank_in_Gorzow_Wielkopolski_Ziel_Warthemarathon_2019.jpg
+  title: Sandbank in Gorzow Wielkopolski Ziel Warthemarathon 2019
+länder:
+- polen
+title: Warthe Marathon 2019
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

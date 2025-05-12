@@ -1,49 +1,41 @@
-+++
-title = "Oste Marathon Hemmoor 2015"
-author = ""
-date = 2015-07-07T01:00:00+02:00
-begin = "2015-07-01"
-"gewässer" = ["elbe", "oste", "oder"]
-"länder" = ["deutschland"]
-"typ" = "marathon"
-[[images]]
-title = "Ruderboote auf der Oste 2015"
-src = "images/Ruderboote_auf_der_Oste_2015.jpg"
-[[images]]
-title = "Baumgarten Fuenfer auf der Oste 2015"
-src = "images/Baumgarten_Fuenfer_auf_der_Oste_2015.jpg"
-[[images]]
-title = "Anlegen am Osteriff E-Zweier 2015"
-src = "images/Anlegen_am_Osteriff_E-Zweier_2015.jpg"
-[[images]]
-title = "Baumgarten Fuenfer auf dem Osteriff 2015"
-src = "images/Baumgarten_Fuenfer_auf_dem_Osteriff_2015.jpg"
-[[images]]
-title = "Anna in schraeglage 2015"
-src = "images/Anna_in_schraeglage_2015.jpg"
-[[images]]
-title = "Fuenfer Ruderboot Laura Johanna 2015"
-src = "images/Fuenfer_Ruderboot_Laura_Johanna_2015.jpg"
-[[images]]
-title = "Osteriff mit C-Vierer 2015"
-src = "images/Osteriff_mit_C-Vierer_20151.jpg"
-[[images]]
-title = "Ruderer nach dem Marathon 2015"
-src = "images/Ruderer_nach_dem_Marathon_2015.jpg"
-[[images]]
-title = "Sonnenuntergang an der Oste 2015"
-src = "images/Sonnenuntergang_an_der_Oste_2015.jpg"
-[[images]]
-title = "Fuenfer Ruderboot Oste 2015"
-src = "images/Fuenfer_Ruderboot_Oste_2015.jpg"
-[[images]]
-title = "Ruderboote am Steg an der Oste 2015"
-src = "images/Ruderboote_am_Steg_an_der_Oste_2015.jpg"
-[[images]]
-title = "Ruderer an der Oste 2015"
-src = "images/Ruderer_an_der_Oste_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-07-01"
+date: "2015-07-07T01:00:00+02:00"
+gewässer:
+- elbe
+- oste
+- oder
+images:
+- src: images/Ruderboote_auf_der_Oste_2015.jpg
+  title: Ruderboote auf der Oste 2015
+- src: images/Baumgarten_Fuenfer_auf_der_Oste_2015.jpg
+  title: Baumgarten Fuenfer auf der Oste 2015
+- src: images/Anlegen_am_Osteriff_E-Zweier_2015.jpg
+  title: Anlegen am Osteriff E-Zweier 2015
+- src: images/Baumgarten_Fuenfer_auf_dem_Osteriff_2015.jpg
+  title: Baumgarten Fuenfer auf dem Osteriff 2015
+- src: images/Anna_in_schraeglage_2015.jpg
+  title: Anna in schraeglage 2015
+- src: images/Fuenfer_Ruderboot_Laura_Johanna_2015.jpg
+  title: Fuenfer Ruderboot Laura Johanna 2015
+- src: images/Osteriff_mit_C-Vierer_20151.jpg
+  title: Osteriff mit C-Vierer 2015
+- src: images/Ruderer_nach_dem_Marathon_2015.jpg
+  title: Ruderer nach dem Marathon 2015
+- src: images/Sonnenuntergang_an_der_Oste_2015.jpg
+  title: Sonnenuntergang an der Oste 2015
+- src: images/Fuenfer_Ruderboot_Oste_2015.jpg
+  title: Fuenfer Ruderboot Oste 2015
+- src: images/Ruderboote_am_Steg_an_der_Oste_2015.jpg
+  title: Ruderboote am Steg an der Oste 2015
+- src: images/Ruderer_an_der_Oste_2015.jpg
+  title: Ruderer an der Oste 2015
+länder:
+- deutschland
+title: Oste Marathon Hemmoor 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

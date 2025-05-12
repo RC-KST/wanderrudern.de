@@ -1,52 +1,41 @@
-+++
-title = "Bodensee 2018"
-author = ""
-date = 2018-03-03T01:00:00+02:00
-begin = "2018-03-01"
-"gewässer" = ["rhein"]
-"länder" = ["schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Stein am Rhein 2018"
-src = "images/Stein_am_Rhein_2018.jpg"
-[[images]]
-title = "klares Wasser Bodensee 2018"
-src = "images/klares_Wasser_Bodensee_2018.jpg"
-[[images]]
-title = "Konstanz Bodensee 2018"
-src = "images/Konstanz_Bodensee_2018.jpg"
-[[images]]
-title = "Mainau 2018"
-src = "images/Mainau_2018.jpg"
-[[images]]
-title = "Ruderboot in Bodmann 2018"
-src = "images/Ruderboot_in_Bodmann_2018.jpg"
-[[images]]
-title = "LingLing Geburstagsfeier 2018"
-src = "images/LingLing_Geburstagsfeier_2018.jpg"
-[[images]]
-title = "Rheinkilometer 0 2018"
-src = "images/Rheinkilometer_0_2018.jpg"
-[[images]]
-title = "Bodensee Untersee 2018"
-src = "images/Bodensee_Untersee_2018.jpg"
-[[images]]
-title = "Bergpanorama am Bodensee 2018"
-src = "images/Bergpanorama_am_Bodensee_2018.jpg"
-[[images]]
-title = "Stein am Rhein Rathaus 2018"
-src = "images/Stein_am_Rhein_Rathaus_2018.jpg"
-[[images]]
-title = "Schweizer Ufer Untersee 2018"
-src = "images/Schweizer_Ufer_Untersee_2018.jpg"
-[[images]]
-title = "Stein am Rhein Stadttor 2018"
-src = "images/Stein_am_Rhein_Stadttor_2018.jpg"
-[[images]]
-title = "Ruderboot Stein am Rhein 2018"
-src = "images/Ruderboot_Stein_am_Rhein_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-03-01"
+date: "2018-03-03T01:00:00+02:00"
+gewässer:
+- rhein
+images:
+- src: images/Stein_am_Rhein_2018.jpg
+  title: Stein am Rhein 2018
+- src: images/klares_Wasser_Bodensee_2018.jpg
+  title: klares Wasser Bodensee 2018
+- src: images/Konstanz_Bodensee_2018.jpg
+  title: Konstanz Bodensee 2018
+- src: images/Mainau_2018.jpg
+  title: Mainau 2018
+- src: images/Ruderboot_in_Bodmann_2018.jpg
+  title: Ruderboot in Bodmann 2018
+- src: images/LingLing_Geburstagsfeier_2018.jpg
+  title: LingLing Geburstagsfeier 2018
+- src: images/Rheinkilometer_0_2018.jpg
+  title: Rheinkilometer 0 2018
+- src: images/Bodensee_Untersee_2018.jpg
+  title: Bodensee Untersee 2018
+- src: images/Bergpanorama_am_Bodensee_2018.jpg
+  title: Bergpanorama am Bodensee 2018
+- src: images/Stein_am_Rhein_Rathaus_2018.jpg
+  title: Stein am Rhein Rathaus 2018
+- src: images/Schweizer_Ufer_Untersee_2018.jpg
+  title: Schweizer Ufer Untersee 2018
+- src: images/Stein_am_Rhein_Stadttor_2018.jpg
+  title: Stein am Rhein Stadttor 2018
+- src: images/Ruderboot_Stein_am_Rhein_2018.jpg
+  title: Ruderboot Stein am Rhein 2018
+länder:
+- schweiz
+title: Bodensee 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

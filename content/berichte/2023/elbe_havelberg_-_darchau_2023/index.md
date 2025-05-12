@@ -1,31 +1,27 @@
-+++
-title = "Havel-Elbe Marathon 2023"
-author = ""
-date = 2023-06-06T01:00:00+02:00
-begin = "2023-06-01"
-"gewässer" = ["elbe", "havel"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboot auf der Elbe Darchau 2023"
-src = "images/Ruderboot_auf_der_Elbe_Darchau_2023.jpg"
-[[images]]
-title = "Schnackenburg 2023 Ruderin"
-src = "images/Schnackenburg_2023_Ruderin.jpg"
-[[images]]
-title = "Ruderboot Anlegen in Darchau 2023"
-src = "images/Ruderboot_Anlegen_in_Darchau_2023.jpg"
-[[images]]
-title = "Elbe Ruderboot Darchau 2023"
-src = "images/Elbe_Ruderboot_Darchau_2023.jpg"
-[[images]]
-title = "Jugend Ruderboot Darchau Elbe 2023"
-src = "images/Jugend_Ruderboot_Darchau_Elbe_2023.jpg"
-[[images]]
-title = "Aufladen in Darchau 2023"
-src = "images/Aufladen_in_Darchau_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-06-01"
+date: "2023-06-06T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+images:
+- src: images/Ruderboot_auf_der_Elbe_Darchau_2023.jpg
+  title: Ruderboot auf der Elbe Darchau 2023
+- src: images/Schnackenburg_2023_Ruderin.jpg
+  title: Schnackenburg 2023 Ruderin
+- src: images/Ruderboot_Anlegen_in_Darchau_2023.jpg
+  title: Ruderboot Anlegen in Darchau 2023
+- src: images/Elbe_Ruderboot_Darchau_2023.jpg
+  title: Elbe Ruderboot Darchau 2023
+- src: images/Jugend_Ruderboot_Darchau_Elbe_2023.jpg
+  title: Jugend Ruderboot Darchau Elbe 2023
+- src: images/Aufladen_in_Darchau_2023.jpg
+  title: Aufladen in Darchau 2023
+länder: []
+title: Havel-Elbe Marathon 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

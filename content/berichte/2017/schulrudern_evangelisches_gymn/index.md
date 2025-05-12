@@ -1,22 +1,19 @@
-+++
-title = "Schulrudern Evangelisches Gymnasium 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote vor Lindwerder Schulrudern 2017"
-src = "images/Ruderboote_vor_Lindwerder_Schulrudern_2017.jpg"
-[[images]]
-title = "Schulrudern Evangelisches Gymnasium 2017"
-src = "images/Schulrudern_Evangelisches_Gymnasium_2017.jpg"
-[[images]]
-title = "Frachter auf dem Teltowkanal Schulrudern 2017"
-src = "images/Frachter_auf_dem_Teltowkanal_Schulrudern_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderboote_vor_Lindwerder_Schulrudern_2017.jpg
+  title: Ruderboote vor Lindwerder Schulrudern 2017
+- src: images/Schulrudern_Evangelisches_Gymnasium_2017.jpg
+  title: Schulrudern Evangelisches Gymnasium 2017
+- src: images/Frachter_auf_dem_Teltowkanal_Schulrudern_2017.jpg
+  title: Frachter auf dem Teltowkanal Schulrudern 2017
+länder: []
+title: Schulrudern Evangelisches Gymnasium 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

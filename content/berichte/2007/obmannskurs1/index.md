@@ -1,22 +1,20 @@
-+++
-title = "Obmannskurs"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["spreewald"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "obmannskurs fuerstenwalde"
-src = "images/obmannskurs_fuerstenwalde.jpg"
-[[images]]
-title = "ruderkasten fuerstenwalde"
-src = "images/ruderkasten_fuerstenwalde.jpg"
-[[images]]
-title = "ruderkasten fw3"
-src = "images/ruderkasten_fw3.jpg"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- spreewald
+images:
+- src: images/obmannskurs_fuerstenwalde.jpg
+  title: obmannskurs fuerstenwalde
+- src: images/ruderkasten_fuerstenwalde.jpg
+  title: ruderkasten fuerstenwalde
+- src: images/ruderkasten_fw3.jpg
+  title: ruderkasten fw3
+länder: []
+title: Obmannskurs
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

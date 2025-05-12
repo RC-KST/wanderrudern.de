@@ -1,16 +1,20 @@
-+++
-title = "WRT Saarbrücken 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["saar", "ijsselmeer", "oder"]
-"länder" = ["deutschland", "irland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Martin mit Äquatorpreis WRT2021"
-src = "images/Martin_mit_Aquatorpreis_WRT2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- saar
+- ijsselmeer
+- oder
+images:
+- src: images/Martin_mit_Aquatorpreis_WRT2021.jpg
+  title: Martin mit Äquatorpreis WRT2021
+länder:
+- deutschland
+- irland
+title: WRT Saarbrücken 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

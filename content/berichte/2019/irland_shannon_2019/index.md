@@ -1,190 +1,139 @@
-+++
-title = "Irland 2019"
-author = ""
-date = 2019-05-05T01:00:00+02:00
-begin = "2019-05-01"
-"gewässer" = ["müritz", "erne", "shannon", "lough key", "lough ree", "lough derg"]
-"länder" = ["irland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Wolkenbruch in der Schleuse zum Lough Key Irland 2019"
-src = "images/Wolkenbruch_in_der_Schleuse_zum_Lough_Key_Irland_2019.jpg"
-[[images]]
-title = "Lough Key gleich nach dem Regenguss Irland 2019"
-src = "images/Lough_Key_gleich_nach_dem_Regenguss_Irland_2019.jpg"
-[[images]]
-title = "Lough Key es gibt auch Sonne Irland 2019"
-src = "images/Lough_Key_es_gibt_auch_Sonne_Irland_2019.jpg"
-[[images]]
-title = "Lough Key Klamotten trocken Irland 2019"
-src = "images/Lough_Key_Klamotten_trocken_Irland_2019.jpg"
-[[images]]
-title = "Lough Key Ruine auf Insel Irland 2019"
-src = "images/Lough_Key_Ruine_auf_Insel_Irland_2019.jpg"
-[[images]]
-title = "Rudererkneipe Carrick Irland 2019"
-src = "images/Rudererkneipe_Carrick_Irland_2019.jpg"
-[[images]]
-title = "Carick Kneipe Irland 2019"
-src = "images/Carick_Kneipe_Irland_2019.jpg"
-[[images]]
-title = "Paul in Limerick Irland 2019"
-src = "images/Paul_in_Limerick_Irland_2019.jpg"
-[[images]]
-title = "Silver Eel Strokestown Irland 2019"
-src = "images/Silver_Eel_Strokestown_Irland_2019.jpg"
-[[images]]
-title = "Kilglass Lough der Regen zieht vorbei Irland 2019"
-src = "images/Kilglass_Lough_der_Regen_zieht_vorbei_Irland_2019.jpg"
-[[images]]
-title = "Start in Strokestown Irland 2019"
-src = "images/Start_in_Strokestown_Irland_2019.jpg"
-[[images]]
-title = "Silver Eel bei Sonne Irland 2019"
-src = "images/Silver_Eel_bei_Sonne_Irland_2019.jpg"
-[[images]]
-title = "gruene Huegel und Regenwolken Irland 2019"
-src = "images/gruene_Huegel_und_Regenwolken_Irland_2019.jpg"
-[[images]]
-title = "Camlin river kleiner Umweg Irland 2019"
-src = "images/Camlin_river_kleiner_Umweg_Irland_2019.jpg"
-[[images]]
-title = "Clondra abzweig zum Royal kanal Irland 2019"
-src = "images/Clondra_abzweig_zum_Royal_kanal_Irland_2019.jpg"
-[[images]]
-title = "Royal canal gut das wir da nicht rudern wollen Irland 2019"
-src = "images/Royal_canal_gut_das_wir_da_nicht_rudern_wollen_Irland_2019.jpg"
-[[images]]
-title = "unterstellen vor dem naechsten Regenguss Irland 2019"
-src = "images/unterstellen_vor_dem_naechsten_Regenguss_Irland_2019.jpg"
-[[images]]
-title = "Abendessen in Tarmonbarry Irland 2019"
-src = "images/Abendessen_in_Tarmonbarry_Irland_2019.jpg"
-[[images]]
-title = "Tarnonbarry Ferienhaus Irland 2019"
-src = "images/Tarnonbarry_Ferienhaus_Irland_2019.jpg"
-[[images]]
-title = "Shannon bar Irland 2019"
-src = "images/Shannon_bar_Irland_2019.jpg"
-[[images]]
-title = "das passiert wenn man unbedingt eine Bruecke fuer seine Marina braucht Irland 2019"
-src = "images/das_passiert_wenn_man_unbedingt_eine_Bruecke_fuer_seine_Marina_braucht_Irland_2019.jpg"
-[[images]]
-title = "Kaminfeuer Inny Bay Irland 2019"
-src = "images/Kaminfeuer_Inny_Bay_Irland_2019.jpg"
-[[images]]
-title = "Lough Ree Ruderboot Irland 2019"
-src = "images/Lough_Ree_Ruderboot_Irland_2019.jpg"
-[[images]]
-title = "Inny Bay Irland 2019"
-src = "images/Inny_Bay_Irland_2019.jpg"
-[[images]]
-title = "Inny Bay Cottage Irland 2019"
-src = "images/Inny_Bay_Cottage_Irland_2019.jpg"
-[[images]]
-title = "Inny Bay Ruderboote Irland 2019"
-src = "images/Inny_Bay_Ruderboote_Irland_2019.jpg"
-[[images]]
-title = "Inny Bay Paul grillt Irland 2019"
-src = "images/Inny_Bay_Paul_grillt_Irland_2019.jpg"
-[[images]]
-title = "Inny Bay Sonnenuntergang Irland 2019"
-src = "images/Inny_Bay_Sonnenuntergang_Irland_2019.jpg"
-[[images]]
-title = "Lough Ree bei starkem Wind Irland 2019"
-src = "images/Lough_Ree_bei_starkem_Wind_Irland_2019.jpg"
-[[images]]
-title = "Insel Windschutz Lough Ree Irland 2019"
-src = "images/Insel_Windschutz_Lough_Ree_Irland_2019.jpg"
-[[images]]
-title = "Athlone Rowing club Irland 2019"
-src = "images/Athlone_Rowing_club_Irland_2019.jpg"
-[[images]]
-title = "Arch House Athlone Irland 2019"
-src = "images/Arch_House_Athlone_Irland_2019.jpg"
-[[images]]
-title = "Seans Pub Athlone Irland 2019"
-src = "images/Seans_Pub_Athlone_Irland_2019.jpg"
-[[images]]
-title = "Athlone downtown Irland 2019"
-src = "images/Athlone_downtown_Irland_2019.jpg"
-[[images]]
-title = "Burg und Kirche Athlone Irland 2019"
-src = "images/Burg_und_Kirche_Athlone_Irland_2019.jpg"
-[[images]]
-title = "Athlone Wehranlage Irland 2019"
-src = "images/Athlone_Wehranlage_Irland_2019.jpg"
-[[images]]
-title = "Clonmacnoise Kloster Irland 2019"
-src = "images/Clonmacnoise_Kloster_Irland_2019.jpg"
-[[images]]
-title = "Clonmacnoise Kloster 3 Irland 2019"
-src = "images/Clonmacnoise_Kloster_3_Irland_2019.jpg"
-[[images]]
-title = "Banagher Irland 2019"
-src = "images/Banagher_Irland_2019.jpg"
-[[images]]
-title = "Clonmacnoise Kloster  2 Irland 2019"
-src = "images/Clonmacnoise_Kloster__2_Irland_2019.jpg"
-[[images]]
-title = "Victoria Lock Irland 2019"
-src = "images/Victoria_Lock_Irland_2019.jpg"
-[[images]]
-title = "Waterside Cottages Drommineer Irland 2019"
-src = "images/Waterside_Cottages_Drommineer_Irland_2019.jpg"
-[[images]]
-title = "Ruderer Waterside cottages Drommineer Irland 2019"
-src = "images/Ruderer_Waterside_cottages_Drommineer_Irland_2019.jpg"
-[[images]]
-title = "Ruine Drommineer Irland 2019"
-src = "images/Ruine_Drommineer_Irland_2019.jpg"
-[[images]]
-title = "Wind auf dem Lough Derg Irland 2019"
-src = "images/Wind_auf_dem_Lough_Derg_Irland_2019.jpg"
-[[images]]
-title = "Lough Derg bei Sonnenaufgang Irland 2019"
-src = "images/Lough_Derg_bei_Sonnenaufgang_Irland_2019.jpg"
-[[images]]
-title = "Start im Morgengrauen Irland 2019"
-src = "images/Start_im_Morgengrauen_Irland_2019.jpg"
-[[images]]
-title = "Essensausgabe Drommineer Irland 2019"
-src = "images/Essensausgabe_Drommineer_Irland_2019.jpg"
-[[images]]
-title = "Anlegen Lough Derg Irland 2019"
-src = "images/Anlegen_Lough_Derg_Irland_2019.jpg"
-[[images]]
-title = "Lough Derg Irland 2019"
-src = "images/Lough_Derg_Irland_2019.jpg"
-[[images]]
-title = "Drommineer in den Haeusern Irland 2019"
-src = "images/Drommineer_in_den_Haeusern_Irland_2019.jpg"
-[[images]]
-title = "Lough Derg endlich mal bei Sonne Irland 2019"
-src = "images/Lough_Derg_endlich_mal_bei_Sonne_Irland_2019.jpg"
-[[images]]
-title = "Quartier in Castleconnell Irland 2019"
-src = "images/Quartier_in_Castleconnell_Irland_2019.jpg"
-[[images]]
-title = "Parteen Wehr Irland 2019"
-src = "images/Parteen_Wehr_Irland_2019.jpg"
-[[images]]
-title = "Aufladen in Ballina am Shannon Irland 2019"
-src = "images/Aufladen_in_Ballina_am_Shannon_Irland_2019.jpg"
-[[images]]
-title = "Stena Line dieses Mal voll Irland 2019"
-src = "images/Stena_Line_dieses_Mal_voll_Irland_2019.jpg"
-[[images]]
-title = "Kilkenny Castle Irland 2019"
-src = "images/Kilkenny_Castle_Irland_2019.jpg"
-[[images]]
-title = "Inrigger 3x+ vor der Reparatur"
-src = "images/Inrigger_3x__vor_der_Reparatur.jpg"
-[[images]]
-title = "Neuss im Ruderverein Irland 2019"
-src = "images/Neuss_im_Ruderverein_Irland_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-05-01"
+date: "2019-05-05T01:00:00+02:00"
+gewässer:
+- müritz
+- erne
+- shannon
+- lough key
+- lough ree
+- lough derg
+images:
+- src: images/Wolkenbruch_in_der_Schleuse_zum_Lough_Key_Irland_2019.jpg
+  title: Wolkenbruch in der Schleuse zum Lough Key Irland 2019
+- src: images/Lough_Key_gleich_nach_dem_Regenguss_Irland_2019.jpg
+  title: Lough Key gleich nach dem Regenguss Irland 2019
+- src: images/Lough_Key_es_gibt_auch_Sonne_Irland_2019.jpg
+  title: Lough Key es gibt auch Sonne Irland 2019
+- src: images/Lough_Key_Klamotten_trocken_Irland_2019.jpg
+  title: Lough Key Klamotten trocken Irland 2019
+- src: images/Lough_Key_Ruine_auf_Insel_Irland_2019.jpg
+  title: Lough Key Ruine auf Insel Irland 2019
+- src: images/Rudererkneipe_Carrick_Irland_2019.jpg
+  title: Rudererkneipe Carrick Irland 2019
+- src: images/Carick_Kneipe_Irland_2019.jpg
+  title: Carick Kneipe Irland 2019
+- src: images/Paul_in_Limerick_Irland_2019.jpg
+  title: Paul in Limerick Irland 2019
+- src: images/Silver_Eel_Strokestown_Irland_2019.jpg
+  title: Silver Eel Strokestown Irland 2019
+- src: images/Kilglass_Lough_der_Regen_zieht_vorbei_Irland_2019.jpg
+  title: Kilglass Lough der Regen zieht vorbei Irland 2019
+- src: images/Start_in_Strokestown_Irland_2019.jpg
+  title: Start in Strokestown Irland 2019
+- src: images/Silver_Eel_bei_Sonne_Irland_2019.jpg
+  title: Silver Eel bei Sonne Irland 2019
+- src: images/gruene_Huegel_und_Regenwolken_Irland_2019.jpg
+  title: gruene Huegel und Regenwolken Irland 2019
+- src: images/Camlin_river_kleiner_Umweg_Irland_2019.jpg
+  title: Camlin river kleiner Umweg Irland 2019
+- src: images/Clondra_abzweig_zum_Royal_kanal_Irland_2019.jpg
+  title: Clondra abzweig zum Royal kanal Irland 2019
+- src: images/Royal_canal_gut_das_wir_da_nicht_rudern_wollen_Irland_2019.jpg
+  title: Royal canal gut das wir da nicht rudern wollen Irland 2019
+- src: images/unterstellen_vor_dem_naechsten_Regenguss_Irland_2019.jpg
+  title: unterstellen vor dem naechsten Regenguss Irland 2019
+- src: images/Abendessen_in_Tarmonbarry_Irland_2019.jpg
+  title: Abendessen in Tarmonbarry Irland 2019
+- src: images/Tarnonbarry_Ferienhaus_Irland_2019.jpg
+  title: Tarnonbarry Ferienhaus Irland 2019
+- src: images/Shannon_bar_Irland_2019.jpg
+  title: Shannon bar Irland 2019
+- src: images/das_passiert_wenn_man_unbedingt_eine_Bruecke_fuer_seine_Marina_braucht_Irland_2019.jpg
+  title: das passiert wenn man unbedingt eine Bruecke fuer seine Marina braucht Irland
+    2019
+- src: images/Kaminfeuer_Inny_Bay_Irland_2019.jpg
+  title: Kaminfeuer Inny Bay Irland 2019
+- src: images/Lough_Ree_Ruderboot_Irland_2019.jpg
+  title: Lough Ree Ruderboot Irland 2019
+- src: images/Inny_Bay_Irland_2019.jpg
+  title: Inny Bay Irland 2019
+- src: images/Inny_Bay_Cottage_Irland_2019.jpg
+  title: Inny Bay Cottage Irland 2019
+- src: images/Inny_Bay_Ruderboote_Irland_2019.jpg
+  title: Inny Bay Ruderboote Irland 2019
+- src: images/Inny_Bay_Paul_grillt_Irland_2019.jpg
+  title: Inny Bay Paul grillt Irland 2019
+- src: images/Inny_Bay_Sonnenuntergang_Irland_2019.jpg
+  title: Inny Bay Sonnenuntergang Irland 2019
+- src: images/Lough_Ree_bei_starkem_Wind_Irland_2019.jpg
+  title: Lough Ree bei starkem Wind Irland 2019
+- src: images/Insel_Windschutz_Lough_Ree_Irland_2019.jpg
+  title: Insel Windschutz Lough Ree Irland 2019
+- src: images/Athlone_Rowing_club_Irland_2019.jpg
+  title: Athlone Rowing club Irland 2019
+- src: images/Arch_House_Athlone_Irland_2019.jpg
+  title: Arch House Athlone Irland 2019
+- src: images/Seans_Pub_Athlone_Irland_2019.jpg
+  title: Seans Pub Athlone Irland 2019
+- src: images/Athlone_downtown_Irland_2019.jpg
+  title: Athlone downtown Irland 2019
+- src: images/Burg_und_Kirche_Athlone_Irland_2019.jpg
+  title: Burg und Kirche Athlone Irland 2019
+- src: images/Athlone_Wehranlage_Irland_2019.jpg
+  title: Athlone Wehranlage Irland 2019
+- src: images/Clonmacnoise_Kloster_Irland_2019.jpg
+  title: Clonmacnoise Kloster Irland 2019
+- src: images/Clonmacnoise_Kloster_3_Irland_2019.jpg
+  title: Clonmacnoise Kloster 3 Irland 2019
+- src: images/Banagher_Irland_2019.jpg
+  title: Banagher Irland 2019
+- src: images/Clonmacnoise_Kloster__2_Irland_2019.jpg
+  title: Clonmacnoise Kloster  2 Irland 2019
+- src: images/Victoria_Lock_Irland_2019.jpg
+  title: Victoria Lock Irland 2019
+- src: images/Waterside_Cottages_Drommineer_Irland_2019.jpg
+  title: Waterside Cottages Drommineer Irland 2019
+- src: images/Ruderer_Waterside_cottages_Drommineer_Irland_2019.jpg
+  title: Ruderer Waterside cottages Drommineer Irland 2019
+- src: images/Ruine_Drommineer_Irland_2019.jpg
+  title: Ruine Drommineer Irland 2019
+- src: images/Wind_auf_dem_Lough_Derg_Irland_2019.jpg
+  title: Wind auf dem Lough Derg Irland 2019
+- src: images/Lough_Derg_bei_Sonnenaufgang_Irland_2019.jpg
+  title: Lough Derg bei Sonnenaufgang Irland 2019
+- src: images/Start_im_Morgengrauen_Irland_2019.jpg
+  title: Start im Morgengrauen Irland 2019
+- src: images/Essensausgabe_Drommineer_Irland_2019.jpg
+  title: Essensausgabe Drommineer Irland 2019
+- src: images/Anlegen_Lough_Derg_Irland_2019.jpg
+  title: Anlegen Lough Derg Irland 2019
+- src: images/Lough_Derg_Irland_2019.jpg
+  title: Lough Derg Irland 2019
+- src: images/Drommineer_in_den_Haeusern_Irland_2019.jpg
+  title: Drommineer in den Haeusern Irland 2019
+- src: images/Lough_Derg_endlich_mal_bei_Sonne_Irland_2019.jpg
+  title: Lough Derg endlich mal bei Sonne Irland 2019
+- src: images/Quartier_in_Castleconnell_Irland_2019.jpg
+  title: Quartier in Castleconnell Irland 2019
+- src: images/Parteen_Wehr_Irland_2019.jpg
+  title: Parteen Wehr Irland 2019
+- src: images/Aufladen_in_Ballina_am_Shannon_Irland_2019.jpg
+  title: Aufladen in Ballina am Shannon Irland 2019
+- src: images/Stena_Line_dieses_Mal_voll_Irland_2019.jpg
+  title: Stena Line dieses Mal voll Irland 2019
+- src: images/Kilkenny_Castle_Irland_2019.jpg
+  title: Kilkenny Castle Irland 2019
+- src: images/Inrigger_3x__vor_der_Reparatur.jpg
+  title: Inrigger 3x+ vor der Reparatur
+- src: images/Neuss_im_Ruderverein_Irland_2019.jpg
+  title: Neuss im Ruderverein Irland 2019
+länder:
+- irland
+title: Irland 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

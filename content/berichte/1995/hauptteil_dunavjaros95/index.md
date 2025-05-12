@@ -1,55 +1,49 @@
-+++
-title = "Donau Wien Dunavjaros 1995"
-author = ""
-date = 1995-01-01T01:00:00+02:00
-begin = "1995-01-01"
-"gewässer" = ["donau", "donaukanal", "mossoni-donau", "szentendre", "aller", "oder"]
-"länder" = ["österreich", "ungarn"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "carola wien Donaukanal"
-src = "images/carola_wien.jpg"
-[[images]]
-title = "Tragflächenboot neben Ruderboot"
-src = "images/tragflaechenboot.jpg"
-[[images]]
-title = "bobby arno jonas am Ufer der Donau"
-src = "images/bobby_arno_jonas.jpg"
-[[images]]
-title = "jochen Mossoni-Donau"
-src = "images/jochen.jpg"
-[[images]]
-title = "boot im busch"
-src = "images/boot_im_busch.jpg"
-[[images]]
-title = "boot von oben Esztergom"
-src = "images/boot_oben.jpg"
-[[images]]
-title = "mosonmagyarrova willkommen für die Ruderer"
-src = "images/mosonmagyarrova.jpg"
-[[images]]
-title = "abendessen esztergom"
-src = "images/abendessen_esztergom95.jpg"
-[[images]]
-title = "boote am ufer der Szentendre Donau"
-src = "images/boote_am_ufer.jpg"
-[[images]]
-title = "bierkasten für die Ruderer"
-src = "images/bierkasten.jpg"
-[[images]]
-title = "bobby donau"
-src = "images/bobby_donau95.jpg"
-[[images]]
-title = "anna ruderboot"
-src = "images/anna_boot.jpg"
-[[images]]
-title = "parlament budapest"
-src = "images/parlament.jpg"
-[[images]]
-title = "pause am Ufer bei Gluthitze"
-src = "images/pause_kreis.jpg"
-
-+++
+---
+author: ""
+begin: "1995-01-01"
+date: "1995-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- donaukanal
+- mossoni-donau
+- szentendre
+- aller
+- oder
+images:
+- src: images/carola_wien.jpg
+  title: carola wien Donaukanal
+- src: images/tragflaechenboot.jpg
+  title: Tragflächenboot neben Ruderboot
+- src: images/bobby_arno_jonas.jpg
+  title: bobby arno jonas am Ufer der Donau
+- src: images/jochen.jpg
+  title: jochen Mossoni-Donau
+- src: images/boot_im_busch.jpg
+  title: boot im busch
+- src: images/boot_oben.jpg
+  title: boot von oben Esztergom
+- src: images/mosonmagyarrova.jpg
+  title: mosonmagyarrova willkommen für die Ruderer
+- src: images/abendessen_esztergom95.jpg
+  title: abendessen esztergom
+- src: images/boote_am_ufer.jpg
+  title: boote am ufer der Szentendre Donau
+- src: images/bierkasten.jpg
+  title: bierkasten für die Ruderer
+- src: images/bobby_donau95.jpg
+  title: bobby donau
+- src: images/anna_boot.jpg
+  title: anna ruderboot
+- src: images/parlament.jpg
+  title: parlament budapest
+- src: images/pause_kreis.jpg
+  title: pause am Ufer bei Gluthitze
+länder:
+- österreich
+- ungarn
+title: Donau Wien Dunavjaros 1995
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

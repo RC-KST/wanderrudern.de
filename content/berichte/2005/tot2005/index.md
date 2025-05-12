@@ -1,25 +1,22 @@
-+++
-title = "Tag der offenen Tür 2005"
-author = ""
-date = 2005-03-03T01:00:00+02:00
-begin = "2005-03-01"
-"gewässer" = ["donau"]
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Tag der offenen Tür 2005 Stahnsdorf Ruderclub"
-src = "images/tot2005.jpg"
-[[images]]
-title = "Trainingsbetrieb Stahnsdorf"
-src = "images/tot2005_2.jpg"
-[[images]]
-title = "Schautafel Wanderfahrten"
-src = "images/tot2005_3.jpg"
-[[images]]
-title = "tot2005_4"
-src = "images/tot2005_4.jpg"
-
-+++
+---
+author: ""
+begin: "2005-03-01"
+date: "2005-03-03T01:00:00+02:00"
+gewässer:
+- donau
+images:
+- src: images/tot2005.jpg
+  title: Tag der offenen Tür 2005 Stahnsdorf Ruderclub
+- src: images/tot2005_2.jpg
+  title: Trainingsbetrieb Stahnsdorf
+- src: images/tot2005_3.jpg
+  title: Schautafel Wanderfahrten
+- src: images/tot2005_4.jpg
+  title: tot2005_4
+länder: []
+title: Tag der offenen Tür 2005
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,16 @@
-+++
-title = "Oder 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["oder", "po"]
-"länder" = ["deutschland", "polen"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- po
+länder:
+- deutschland
+- polen
+title: Oder 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

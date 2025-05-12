@@ -1,82 +1,65 @@
-+++
-title = "Vogalonga 2008"
-author = ""
-date = 2008-05-05T01:00:00+02:00
-begin = "2008-05-01"
-"gewässer" = ["aller", "mittelmeer", "lagune von venedig"]
-"länder" = ["deutschland", "italien", "österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote auf dem Anhaenger Vogalonga 08"
-src = "images/Ruderboote_auf_dem_Anhaenger_Vogalonga_08.jpg"
-[[images]]
-title = "Riggerplatz an der Lagune von Venedig Vogalonga 08"
-src = "images/Riggerplatz_an_der_Lagune_von_Venedig_Vogalonga_08.jpg"
-[[images]]
-title = "venedig-einsetzen-08"
-src = "images/venedig-einsetzen-08.jpg"
-[[images]]
-title = "Fussmarsch durch die Lagune Vogalonga 08"
-src = "images/Fussmarsch_durch_die_Lagune_Vogalonga_08.jpg"
-[[images]]
-title = "Cookie vor dem Start der Vogalonga 08"
-src = "images/Cookie_vor_dem_Start_der_Vogalonga_08.jpg"
-[[images]]
-title = "Vierer in Venedig Vogalonga 08"
-src = "images/Vierer_in_Venedig_Vogalonga_08.jpg"
-[[images]]
-title = "Gondeln Vogalonga 08"
-src = "images/Gondeln_Vogalonga_08.jpg"
-[[images]]
-title = "Startnummern abholen Vogalonga 08"
-src = "images/Startnummern_abholen_Vogalonga_08.jpg"
-[[images]]
-title = "Markusplatz Vogalonga 08"
-src = "images/Markusplatz_Vogalonga_08.jpg"
-[[images]]
-title = "Vogalonga 08 auf der Strecke"
-src = "images/Vogalonga_08_auf_der_Strecke.jpg"
-[[images]]
-title = "Vogalonga 08 in Venedig"
-src = "images/Vogalonga_08_in_Venedig.jpg"
-[[images]]
-title = "Vogalonga 08 Murano"
-src = "images/Vogalonga_08_Murano.jpg"
-[[images]]
-title = "Ruderer Campingplatz Miramare Vogalonga 08"
-src = "images/Ruderer_Campingplatz_Miramare_Vogalonga_08.jpg"
-[[images]]
-title = "Ruderboot Canale Grande Vogalonga 08"
-src = "images/Ruderboot_Canale_Grande_Vogalonga_08.jpg"
-[[images]]
-title = "Venedig Panorama Vogalonga 08"
-src = "images/Venedig_Panorama_Vogalonga_08.jpg"
-[[images]]
-title = "Kanal Venedig Patrick Cookie 08"
-src = "images/Kanal_Venedig_Patrick_Cookie_08.jpg"
-[[images]]
-title = "Lido von Venedig Ruderboote vor dem Anlegen 08"
-src = "images/Lido_von_Venedig_Ruderboote_vor_dem_Anlegen_08.jpg"
-[[images]]
-title = "venedig-lidonord-08"
-src = "images/venedig-lidonord-08.jpg"
-[[images]]
-title = "Ruderer am Marinemuseum Venedig 08"
-src = "images/Ruderer_am_Marinemuseum_Venedig_08.jpg"
-[[images]]
-title = "Kanal in Venedig 08"
-src = "images/Kanal_in_Venedig_08.jpg"
-[[images]]
-title = "Ruderer auf dem Markusplatz Vogalonga 08"
-src = "images/Ruderer_auf_dem_Markusplatz_Vogalonga_08.jpg"
-[[images]]
-title = "Levon auf dem Anhaenger Venedig 08"
-src = "images/Levon_auf_dem_Anhaenger_Venedig_08.jpg"
-[[images]]
-title = "Boote saeubern Venedig 08"
-src = "images/Boote_saeubern_Venedig_08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-05-01"
+date: "2008-05-05T01:00:00+02:00"
+gewässer:
+- aller
+- mittelmeer
+- lagune von venedig
+images:
+- src: images/Ruderboote_auf_dem_Anhaenger_Vogalonga_08.jpg
+  title: Ruderboote auf dem Anhaenger Vogalonga 08
+- src: images/Riggerplatz_an_der_Lagune_von_Venedig_Vogalonga_08.jpg
+  title: Riggerplatz an der Lagune von Venedig Vogalonga 08
+- src: images/venedig-einsetzen-08.jpg
+  title: venedig-einsetzen-08
+- src: images/Fussmarsch_durch_die_Lagune_Vogalonga_08.jpg
+  title: Fussmarsch durch die Lagune Vogalonga 08
+- src: images/Cookie_vor_dem_Start_der_Vogalonga_08.jpg
+  title: Cookie vor dem Start der Vogalonga 08
+- src: images/Vierer_in_Venedig_Vogalonga_08.jpg
+  title: Vierer in Venedig Vogalonga 08
+- src: images/Gondeln_Vogalonga_08.jpg
+  title: Gondeln Vogalonga 08
+- src: images/Startnummern_abholen_Vogalonga_08.jpg
+  title: Startnummern abholen Vogalonga 08
+- src: images/Markusplatz_Vogalonga_08.jpg
+  title: Markusplatz Vogalonga 08
+- src: images/Vogalonga_08_auf_der_Strecke.jpg
+  title: Vogalonga 08 auf der Strecke
+- src: images/Vogalonga_08_in_Venedig.jpg
+  title: Vogalonga 08 in Venedig
+- src: images/Vogalonga_08_Murano.jpg
+  title: Vogalonga 08 Murano
+- src: images/Ruderer_Campingplatz_Miramare_Vogalonga_08.jpg
+  title: Ruderer Campingplatz Miramare Vogalonga 08
+- src: images/Ruderboot_Canale_Grande_Vogalonga_08.jpg
+  title: Ruderboot Canale Grande Vogalonga 08
+- src: images/Venedig_Panorama_Vogalonga_08.jpg
+  title: Venedig Panorama Vogalonga 08
+- src: images/Kanal_Venedig_Patrick_Cookie_08.jpg
+  title: Kanal Venedig Patrick Cookie 08
+- src: images/Lido_von_Venedig_Ruderboote_vor_dem_Anlegen_08.jpg
+  title: Lido von Venedig Ruderboote vor dem Anlegen 08
+- src: images/venedig-lidonord-08.jpg
+  title: venedig-lidonord-08
+- src: images/Ruderer_am_Marinemuseum_Venedig_08.jpg
+  title: Ruderer am Marinemuseum Venedig 08
+- src: images/Kanal_in_Venedig_08.jpg
+  title: Kanal in Venedig 08
+- src: images/Ruderer_auf_dem_Markusplatz_Vogalonga_08.jpg
+  title: Ruderer auf dem Markusplatz Vogalonga 08
+- src: images/Levon_auf_dem_Anhaenger_Venedig_08.jpg
+  title: Levon auf dem Anhaenger Venedig 08
+- src: images/Boote_saeubern_Venedig_08.jpg
+  title: Boote saeubern Venedig 08
+länder:
+- deutschland
+- italien
+- österreich
+title: Vogalonga 2008
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

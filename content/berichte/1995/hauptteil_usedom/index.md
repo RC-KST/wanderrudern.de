@@ -1,22 +1,22 @@
-+++
-title = "usedom"
-author = ""
-date = 1995-01-01T01:00:00+02:00
-begin = "1995-01-01"
-"gewässer" = ["ostsee", "peene"]
-"länder" = ["dänemark"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "umtragen usedom ruderer riemen"
-src = "images/umtragen_usedom.jpg"
-[[images]]
-title = "Strand usedom Ruderer"
-src = "images/Strand.jpg"
-[[images]]
-title = "usedom rudern ostsee"
-src = "images/usedom.jpg"
-
-+++
+---
+author: ""
+begin: "1995-01-01"
+date: "1995-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- peene
+images:
+- src: images/umtragen_usedom.jpg
+  title: umtragen usedom ruderer riemen
+- src: images/Strand.jpg
+  title: Strand usedom Ruderer
+- src: images/usedom.jpg
+  title: usedom rudern ostsee
+länder:
+- dänemark
+title: usedom
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

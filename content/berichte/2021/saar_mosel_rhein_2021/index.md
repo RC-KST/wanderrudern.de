@@ -1,139 +1,100 @@
-+++
-title = "WRT Saarbrücken 2021"
-author = ""
-date = 2021-09-09T01:00:00+02:00
-begin = "2021-09-01"
-"gewässer" = ["rhein", "mosel", "saar"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Saarburg Ruderboot Mosel 2021"
-src = "images/Saarburg_Ruderboot_Mosel_2021.jpg"
-[[images]]
-title = "Saarburg zum Wasserfall mit dem Ruderboot 2021"
-src = "images/Saarburg_zum_Wasserfall_mit_dem_Ruderboot_2021.jpg"
-[[images]]
-title = "wasserfall Saarburg 2021"
-src = "images/wasserfall_Saarburg_2021.jpg"
-[[images]]
-title = "Jo auf der Mosel 2021"
-src = "images/Jo_auf_der_Mosel_2021.jpg"
-[[images]]
-title = "Weinberge an der Mosel 2021"
-src = "images/Weinberge_an_der_Mosel_2021.jpg"
-[[images]]
-title = "Moseltal 2021"
-src = "images/Moseltal_2021.jpg"
-[[images]]
-title = "Weinberg mit Kapelle Mosel 2021"
-src = "images/Weinberg_mit_Kapelle_Mosel_2021.jpg"
-[[images]]
-title = "Ruderer Piesport an der Mosel 2021"
-src = "images/Ruderer_Piesport_an_der_Mosel_2021.jpg"
-[[images]]
-title = "E-Dreier auf der Mosel 2021"
-src = "images/E-Dreier_auf_der_Mosel_2021.jpg"
-[[images]]
-title = "Weinprobe in Piesport Mosel 2021"
-src = "images/Weinprobe_in_Piesport_Mosel_2021.jpg"
-[[images]]
-title = "Bug und Heckabdeckungen Baumgarten E-Boote Mosel 2021"
-src = "images/Bug_und_Heckabdeckungen_Baumgarten_E-Boote_Mosel_2021.jpg"
-[[images]]
-title = "Mosel 2021 morgendlicher Start im Nebel"
-src = "images/Mosel_2021_morgendlicher_Start_im_Nebel.jpg"
-[[images]]
-title = "Mosel Lorely 2021"
-src = "images/Mosel_Lorely_2021.jpg"
-[[images]]
-title = "Sportbootschleuse Mosel 2021"
-src = "images/Sportbootschleuse_Mosel_2021.jpg"
-[[images]]
-title = "in der Moselschleuse 2021"
-src = "images/in_der_Moselschleuse_2021.jpg"
-[[images]]
-title = "Schloss an der Mosel 2021"
-src = "images/Schloss_an_der_Mosel_2021.jpg"
-[[images]]
-title = "Ruderboote auf der Mosel 2021"
-src = "images/Ruderboote_auf_der_Mosel_2021.jpg"
-[[images]]
-title = "Hochbrücke an der Mosel 2021"
-src = "images/Hochbrucke_an_der_Mosel_2021.jpg"
-[[images]]
-title = "Wein und Felsen Mosel 2021"
-src = "images/Wein_und_Felsen_Mosel_2021.jpg"
-[[images]]
-title = "Traben Trabach Stadttor Mosel 2021"
-src = "images/Traben_Trabach_Stadttor_Mosel_2021.jpg"
-[[images]]
-title = "Ruderboote Traben Trabach Mosel 2021"
-src = "images/Ruderboote_Traben_Trabach_Mosel_2021.jpg"
-[[images]]
-title = "Mosel Burgruine 2021"
-src = "images/Mosel_Burgruine_2021.jpg"
-[[images]]
-title = "Ankunft in Cochem Mosel 2021"
-src = "images/Ankunft_in_Cochem_Mosel_2021.jpg"
-[[images]]
-title = "Cochem Ruderboote im Hafen Mosel 2021"
-src = "images/Cochem_Ruderboote_im_Hafen_Mosel_2021.jpg"
-[[images]]
-title = "Cochem Burg mit Flagge 2021"
-src = "images/Cochem_Burg_mit_Flagge_2021.jpg"
-[[images]]
-title = "Nirina Felswände an der Mosel 2021"
-src = "images/Nirina_Felswande_an_der_Mosel_2021.jpg"
-[[images]]
-title = "Baumgarten Vierer Burgruine Mosel 2021"
-src = "images/Baumgarten_Vierer_Burgruine_Mosel_2021.jpg"
-[[images]]
-title = "Burg an der Mosel 2021"
-src = "images/Burg_an_der_Mosel_2021.jpg"
-[[images]]
-title = "Steile Weinberge Mosel 2021"
-src = "images/Steile_Weinberge_Mosel_2021.jpg"
-[[images]]
-title = "Kaiser Wilhelm Deutsches Eck Mosel 2021"
-src = "images/Kaiser_Wilhelm_Deutsches_Eck_Mosel_2021.jpg"
-[[images]]
-title = "Tonne in der Strömung Rhein 2021"
-src = "images/Tonne_in_der_Stromung_Rhein_2021.jpg"
-[[images]]
-title = "Containerschiff Rhein 2021"
-src = "images/Containerschiff_Rhein_2021.jpg"
-[[images]]
-title = "Schiffsverkehr auf dem Rhein 2021"
-src = "images/Schiffsverkehr_auf_dem_Rhein_2021.jpg"
-[[images]]
-title = "Ruderer Pause Rhein 2021"
-src = "images/Ruderer_Pause_Rhein_2021.jpg"
-[[images]]
-title = "Rhein 2021 mit Siebengebirge"
-src = "images/Rhein_2021_mit_Siebengebirge.jpg"
-[[images]]
-title = "Mittagspause in Honnef Rhein 2021"
-src = "images/Mittagspause_in_Honnef_Rhein_2021.jpg"
-[[images]]
-title = "Abendessen in Bonn Rhein 2021"
-src = "images/Abendessen_in_Bonn_Rhein_2021.jpg"
-[[images]]
-title = "Bonn Start der Ruderboote 2021"
-src = "images/Bonn_Start_der_Ruderboote_2021.jpg"
-[[images]]
-title = "Boote aufladen in Dormagen Rhein 2021"
-src = "images/Boote_aufladen_in_Dormagen_Rhein_2021.jpg"
-[[images]]
-title = "Chemieanlagen Ruderboot Rhein 2021"
-src = "images/Chemieanlagen_Ruderboot_Rhein_2021.jpg"
-[[images]]
-title = "Köln Architektur Rhein 2021"
-src = "images/Koln_Architektur_Rhein_2021.jpg"
-[[images]]
-title = "Kölner DOm vom Rhein aus 2021"
-src = "images/Kolner_DOm_vom_Rhein_aus_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-09-01"
+date: "2021-09-09T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+- saar
+images:
+- src: images/Saarburg_Ruderboot_Mosel_2021.jpg
+  title: Saarburg Ruderboot Mosel 2021
+- src: images/Saarburg_zum_Wasserfall_mit_dem_Ruderboot_2021.jpg
+  title: Saarburg zum Wasserfall mit dem Ruderboot 2021
+- src: images/wasserfall_Saarburg_2021.jpg
+  title: wasserfall Saarburg 2021
+- src: images/Jo_auf_der_Mosel_2021.jpg
+  title: Jo auf der Mosel 2021
+- src: images/Weinberge_an_der_Mosel_2021.jpg
+  title: Weinberge an der Mosel 2021
+- src: images/Moseltal_2021.jpg
+  title: Moseltal 2021
+- src: images/Weinberg_mit_Kapelle_Mosel_2021.jpg
+  title: Weinberg mit Kapelle Mosel 2021
+- src: images/Ruderer_Piesport_an_der_Mosel_2021.jpg
+  title: Ruderer Piesport an der Mosel 2021
+- src: images/E-Dreier_auf_der_Mosel_2021.jpg
+  title: E-Dreier auf der Mosel 2021
+- src: images/Weinprobe_in_Piesport_Mosel_2021.jpg
+  title: Weinprobe in Piesport Mosel 2021
+- src: images/Bug_und_Heckabdeckungen_Baumgarten_E-Boote_Mosel_2021.jpg
+  title: Bug und Heckabdeckungen Baumgarten E-Boote Mosel 2021
+- src: images/Mosel_2021_morgendlicher_Start_im_Nebel.jpg
+  title: Mosel 2021 morgendlicher Start im Nebel
+- src: images/Mosel_Lorely_2021.jpg
+  title: Mosel Lorely 2021
+- src: images/Sportbootschleuse_Mosel_2021.jpg
+  title: Sportbootschleuse Mosel 2021
+- src: images/in_der_Moselschleuse_2021.jpg
+  title: in der Moselschleuse 2021
+- src: images/Schloss_an_der_Mosel_2021.jpg
+  title: Schloss an der Mosel 2021
+- src: images/Ruderboote_auf_der_Mosel_2021.jpg
+  title: Ruderboote auf der Mosel 2021
+- src: images/Hochbrucke_an_der_Mosel_2021.jpg
+  title: Hochbrücke an der Mosel 2021
+- src: images/Wein_und_Felsen_Mosel_2021.jpg
+  title: Wein und Felsen Mosel 2021
+- src: images/Traben_Trabach_Stadttor_Mosel_2021.jpg
+  title: Traben Trabach Stadttor Mosel 2021
+- src: images/Ruderboote_Traben_Trabach_Mosel_2021.jpg
+  title: Ruderboote Traben Trabach Mosel 2021
+- src: images/Mosel_Burgruine_2021.jpg
+  title: Mosel Burgruine 2021
+- src: images/Ankunft_in_Cochem_Mosel_2021.jpg
+  title: Ankunft in Cochem Mosel 2021
+- src: images/Cochem_Ruderboote_im_Hafen_Mosel_2021.jpg
+  title: Cochem Ruderboote im Hafen Mosel 2021
+- src: images/Cochem_Burg_mit_Flagge_2021.jpg
+  title: Cochem Burg mit Flagge 2021
+- src: images/Nirina_Felswande_an_der_Mosel_2021.jpg
+  title: Nirina Felswände an der Mosel 2021
+- src: images/Baumgarten_Vierer_Burgruine_Mosel_2021.jpg
+  title: Baumgarten Vierer Burgruine Mosel 2021
+- src: images/Burg_an_der_Mosel_2021.jpg
+  title: Burg an der Mosel 2021
+- src: images/Steile_Weinberge_Mosel_2021.jpg
+  title: Steile Weinberge Mosel 2021
+- src: images/Kaiser_Wilhelm_Deutsches_Eck_Mosel_2021.jpg
+  title: Kaiser Wilhelm Deutsches Eck Mosel 2021
+- src: images/Tonne_in_der_Stromung_Rhein_2021.jpg
+  title: Tonne in der Strömung Rhein 2021
+- src: images/Containerschiff_Rhein_2021.jpg
+  title: Containerschiff Rhein 2021
+- src: images/Schiffsverkehr_auf_dem_Rhein_2021.jpg
+  title: Schiffsverkehr auf dem Rhein 2021
+- src: images/Ruderer_Pause_Rhein_2021.jpg
+  title: Ruderer Pause Rhein 2021
+- src: images/Rhein_2021_mit_Siebengebirge.jpg
+  title: Rhein 2021 mit Siebengebirge
+- src: images/Mittagspause_in_Honnef_Rhein_2021.jpg
+  title: Mittagspause in Honnef Rhein 2021
+- src: images/Abendessen_in_Bonn_Rhein_2021.jpg
+  title: Abendessen in Bonn Rhein 2021
+- src: images/Bonn_Start_der_Ruderboote_2021.jpg
+  title: Bonn Start der Ruderboote 2021
+- src: images/Boote_aufladen_in_Dormagen_Rhein_2021.jpg
+  title: Boote aufladen in Dormagen Rhein 2021
+- src: images/Chemieanlagen_Ruderboot_Rhein_2021.jpg
+  title: Chemieanlagen Ruderboot Rhein 2021
+- src: images/Koln_Architektur_Rhein_2021.jpg
+  title: Köln Architektur Rhein 2021
+- src: images/Kolner_DOm_vom_Rhein_aus_2021.jpg
+  title: Kölner DOm vom Rhein aus 2021
+länder: []
+title: WRT Saarbrücken 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

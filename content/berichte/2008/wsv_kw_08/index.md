@@ -1,34 +1,29 @@
-+++
-title = "WSV KW 08"
-author = ""
-date = 2008-06-06T01:00:00+02:00
-begin = "2008-06-01"
-"gewässer" = ["teltowkanal", "pielisjoki"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "WSV_KW_Domiziel"
-src = "images/WSV_KW_Domiziel.jpg"
-[[images]]
-title = "Kirchboot_einbooten"
-src = "images/Kirchboot_einbooten.jpg"
-[[images]]
-title = "Die_Großen_Unterm-Partyzelt02"
-src = "images/Die_Grossen_Unterm-Partyzelt02.jpg"
-[[images]]
-title = "Uwe_haut_im_Kirchboot_rein"
-src = "images/Uwe_haut_im_Kirchboot_rein.jpg"
-[[images]]
-title = "Die_Kleinen_Unterm-Partyzelt"
-src = "images/Die_Kleinen_Unterm-Partyzelt.jpg"
-[[images]]
-title = "Im_Kirchboot_Levon_und_Philipp"
-src = "images/Im_Kirchboot_Levon_und_Philipp.jpg"
-[[images]]
-title = "Irchboot_in_den_engen_Kanaelen"
-src = "images/Irchboot_in_den_engen_Kanaelen.jpg"
-
-+++
+---
+author: ""
+begin: "2008-06-01"
+date: "2008-06-06T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- pielisjoki
+images:
+- src: images/WSV_KW_Domiziel.jpg
+  title: WSV_KW_Domiziel
+- src: images/Kirchboot_einbooten.jpg
+  title: Kirchboot_einbooten
+- src: images/Die_Grossen_Unterm-Partyzelt02.jpg
+  title: Die_Großen_Unterm-Partyzelt02
+- src: images/Uwe_haut_im_Kirchboot_rein.jpg
+  title: Uwe_haut_im_Kirchboot_rein
+- src: images/Die_Kleinen_Unterm-Partyzelt.jpg
+  title: Die_Kleinen_Unterm-Partyzelt
+- src: images/Im_Kirchboot_Levon_und_Philipp.jpg
+  title: Im_Kirchboot_Levon_und_Philipp
+- src: images/Irchboot_in_den_engen_Kanaelen.jpg
+  title: Irchboot_in_den_engen_Kanaelen
+länder: []
+title: WSV KW 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,34 +1,29 @@
-+++
-title = "Ketzin Herbst 2018"
-author = ""
-date = 2018-11-11T01:00:00+02:00
-begin = "2018-11-01"
-"gewässer" = ["havel", "trebelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Malabar mit Ruderern Ketzin Herbst 2018"
-src = "images/Malabar_mit_Ruderern_Ketzin_Herbst_2018.jpg"
-[[images]]
-title = "Ruderboote Havel Ketzin Herbst 2018"
-src = "images/Ruderboote_Havel_Ketzin_Herbst_2018.jpg"
-[[images]]
-title = "Zweier auf der Havel Ketzin Herbst 2018"
-src = "images/Zweier_auf_der_Havel_Ketzin_Herbst_2018.jpg"
-[[images]]
-title = "Ketzin Herbst 2018 Sonnenuntergang"
-src = "images/Ketzin_Herbst_2018_Sonnenuntergang.jpg"
-[[images]]
-title = "Babelsberger Lake Herbst 2018"
-src = "images/Babelsberger_Lake_Herbst_2018.jpg"
-[[images]]
-title = "Brandenburg Herbst 2018"
-src = "images/Brandenburg_Herbst_2018.jpg"
-[[images]]
-title = "Zweier auf dem Trebelsee Herbst 2018"
-src = "images/Zweier_auf_dem_Trebelsee_Herbst_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-11-01"
+date: "2018-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- trebelsee
+images:
+- src: images/Malabar_mit_Ruderern_Ketzin_Herbst_2018.jpg
+  title: Malabar mit Ruderern Ketzin Herbst 2018
+- src: images/Ruderboote_Havel_Ketzin_Herbst_2018.jpg
+  title: Ruderboote Havel Ketzin Herbst 2018
+- src: images/Zweier_auf_der_Havel_Ketzin_Herbst_2018.jpg
+  title: Zweier auf der Havel Ketzin Herbst 2018
+- src: images/Ketzin_Herbst_2018_Sonnenuntergang.jpg
+  title: Ketzin Herbst 2018 Sonnenuntergang
+- src: images/Babelsberger_Lake_Herbst_2018.jpg
+  title: Babelsberger Lake Herbst 2018
+- src: images/Brandenburg_Herbst_2018.jpg
+  title: Brandenburg Herbst 2018
+- src: images/Zweier_auf_dem_Trebelsee_Herbst_2018.jpg
+  title: Zweier auf dem Trebelsee Herbst 2018
+länder: []
+title: Ketzin Herbst 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

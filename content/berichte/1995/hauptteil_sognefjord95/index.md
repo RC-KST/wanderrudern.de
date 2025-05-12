@@ -1,49 +1,41 @@
-+++
-title = "sognefjord 1995"
-author = ""
-date = 1995-07-07T01:00:00+02:00
-begin = "1995-07-01"
-"gewässer" = ["oder", "sognefjord"]
-"länder" = ["norwegen", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "lagerfeuer Sognefjord Ruderer"
-src = "images/lagerfeuer95.jpg"
-[[images]]
-title = "schwere see Ruderboot Vierer"
-src = "images/schwere_see.jpg"
-[[images]]
-title = "Esefjord mit Bootsflagge"
-src = "images/flagge.jpg"
-[[images]]
-title = "franzi im Naeröyfjord"
-src = "images/franzi.jpg"
-[[images]]
-title = "ruderboote hafen Gudvangenfjord"
-src = "images/boote_hafen.jpg"
-[[images]]
-title = "maxim gorki mit ruderboot"
-src = "images/maxim_gorki.jpg"
-[[images]]
-title = "wikingerschiff ruderer mannschaft"
-src = "images/wikingerschiff.jpg"
-[[images]]
-title = "starke Männer Ruderer"
-src = "images/starke_maenner.jpg"
-[[images]]
-title = "franzi Galdhopingen Bergtour"
-src = "images/franzi_berg.jpg"
-[[images]]
-title = "Frauke auf der Hängebrücke"
-src = "images/haengebruecke.jpg"
-[[images]]
-title = "Ruderer vor Gletscher"
-src = "images/Gruppe_Gletscher.jpg"
-[[images]]
-title = "Ruderer vor Gletscher"
-src = "images/vor_dem_gletscher.jpg"
-
-+++
+---
+author: ""
+begin: "1995-07-01"
+date: "1995-07-07T01:00:00+02:00"
+gewässer:
+- oder
+- sognefjord
+images:
+- src: images/lagerfeuer95.jpg
+  title: lagerfeuer Sognefjord Ruderer
+- src: images/schwere_see.jpg
+  title: schwere see Ruderboot Vierer
+- src: images/flagge.jpg
+  title: Esefjord mit Bootsflagge
+- src: images/franzi.jpg
+  title: franzi im Naeröyfjord
+- src: images/boote_hafen.jpg
+  title: ruderboote hafen Gudvangenfjord
+- src: images/maxim_gorki.jpg
+  title: maxim gorki mit ruderboot
+- src: images/wikingerschiff.jpg
+  title: wikingerschiff ruderer mannschaft
+- src: images/starke_maenner.jpg
+  title: starke Männer Ruderer
+- src: images/franzi_berg.jpg
+  title: franzi Galdhopingen Bergtour
+- src: images/haengebruecke.jpg
+  title: Frauke auf der Hängebrücke
+- src: images/Gruppe_Gletscher.jpg
+  title: Ruderer vor Gletscher
+- src: images/vor_dem_gletscher.jpg
+  title: Ruderer vor Gletscher
+länder:
+- norwegen
+- schweden
+title: sognefjord 1995
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

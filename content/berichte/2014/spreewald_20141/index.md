@@ -1,46 +1,41 @@
-+++
-title = "Spreewald 2014"
-author = ""
-date = 2014-10-10T01:00:00+02:00
-begin = "2014-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "morgens in dolgenbrodt 2014"
-src = "images/morgens_in_dolgenbrodt_2014.jpg"
-[[images]]
-title = "ruderboote treptow 2014"
-src = "images/ruderboote_treptow_2014.jpg"
-[[images]]
-title = "Ruderboot Gosener Graben 2014"
-src = "images/Ruderboot_Gosener_Graben_2014.jpg"
-[[images]]
-title = "Schleuse Hermsdorf Spreewald 2014"
-src = "images/Schleuse_Hermsdorf_Spreewald_2014.jpg"
-[[images]]
-title = "Ablegen im Morgennebel kuddel 2014"
-src = "images/Ablegen_im_Morgennebel_kuddel_2014.jpg"
-[[images]]
-title = "Ruderboote bei kuddels lustiger stube 2014"
-src = "images/Ruderboote_bei_kuddels_lustiger_stube_2014.jpg"
-[[images]]
-title = "mitten im spreewald 2014"
-src = "images/mitten_im_spreewald_2014.jpg"
-[[images]]
-title = "bootsschleppe maerkisch buchholz 2014"
-src = "images/bootsschleppe_maerkisch_buchholz_2014.jpg"
-[[images]]
-title = "Schleuse wasserburg mit spreewaldkahn 2014"
-src = "images/Schleuse_wasserburg_mit_spreewaldkahn_2014.jpg"
-[[images]]
-title = "jonathan als schleusenwart spreewald 2014"
-src = "images/jonathan_als_schleusenwart_spreewald_2014.jpg"
-[[images]]
-title = "Aufladen am pumpwerk 2014"
-src = "images/Aufladen_am_pumpwerk_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-10-01"
+date: "2014-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- köthener see
+- oder
+images:
+- src: images/morgens_in_dolgenbrodt_2014.jpg
+  title: morgens in dolgenbrodt 2014
+- src: images/ruderboote_treptow_2014.jpg
+  title: ruderboote treptow 2014
+- src: images/Ruderboot_Gosener_Graben_2014.jpg
+  title: Ruderboot Gosener Graben 2014
+- src: images/Schleuse_Hermsdorf_Spreewald_2014.jpg
+  title: Schleuse Hermsdorf Spreewald 2014
+- src: images/Ablegen_im_Morgennebel_kuddel_2014.jpg
+  title: Ablegen im Morgennebel kuddel 2014
+- src: images/Ruderboote_bei_kuddels_lustiger_stube_2014.jpg
+  title: Ruderboote bei kuddels lustiger stube 2014
+- src: images/mitten_im_spreewald_2014.jpg
+  title: mitten im spreewald 2014
+- src: images/bootsschleppe_maerkisch_buchholz_2014.jpg
+  title: bootsschleppe maerkisch buchholz 2014
+- src: images/Schleuse_wasserburg_mit_spreewaldkahn_2014.jpg
+  title: Schleuse wasserburg mit spreewaldkahn 2014
+- src: images/jonathan_als_schleusenwart_spreewald_2014.jpg
+  title: jonathan als schleusenwart spreewald 2014
+- src: images/Aufladen_am_pumpwerk_2014.jpg
+  title: Aufladen am pumpwerk 2014
+länder: []
+title: Spreewald 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

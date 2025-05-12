@@ -1,13 +1,12 @@
-+++
-title = "Ketzin99"
-author = ""
-date = 1999-11-11T01:00:00+02:00
-begin = "1999-11-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "1999-11-01"
+date: "1999-11-11T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Ketzin99
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

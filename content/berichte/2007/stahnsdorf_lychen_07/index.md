@@ -1,88 +1,67 @@
-+++
-title = "Stahnsdorf Lychen 07"
-author = ""
-date = 2007-05-05T01:00:00+02:00
-begin = "2007-05-01"
-"gewässer" = ["havel", "teltowkanal", "wannsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Meedy auf Schlag Ly07"
-src = "images/Meedy_auf_Schlag_Ly07.JPG"
-[[images]]
-title = "Malte Windy im Ruderboot Ly07"
-src = "images/Malte_Windy_im_Ruderboot_Ly07.JPG"
-[[images]]
-title = "Schleuse Ly07"
-src = "images/Schleuse_Ly07.jpg"
-[[images]]
-title = "Malte auf der Havel Ly07"
-src = "images/Malte_auf_der_Havel_Ly07.JPG"
-[[images]]
-title = "Ruderboote im Paeckchen Ly07"
-src = "images/Ruderboote_im_Paeckchen_Ly07.jpg"
-[[images]]
-title = "Marina Zehdenick Ly07 "
-src = "images/Marina_Zehdenick_Ly07_.jpg"
-[[images]]
-title = "Zehdenick Huette Ly07"
-src = "images/Zehdenick_Huette_Ly07.jpg"
-[[images]]
-title = "Zehdenick Aufbruch Ly07"
-src = "images/Zehdenick_Aufbruch_Ly07.jpg"
-[[images]]
-title = "Hausboot Quartier Ly07"
-src = "images/Hausboot_Quartier_Ly07.jpg"
-[[images]]
-title = "Moritz steigt ein Ly07"
-src = "images/Moritz_steigt_ein_Ly07.JPG"
-[[images]]
-title = "Sandro Bianca Kirstin im Ruderboot Ly07"
-src = "images/Sandro_Bianca_Kirstin_im_Ruderboot_Ly07.jpg"
-[[images]]
-title = "Vierer obere Havel Ly07"
-src = "images/Vierer_obere_Havel_Ly07.jpg"
-[[images]]
-title = "Sophie steigt ein Ly07"
-src = "images/Sophie_steigt_ein_Ly07.JPG"
-[[images]]
-title = "Moritz lychen 2007"
-src = "images/Moritz_lychen_2007.jpg"
-[[images]]
-title = "Himmelpfort 2 Vierer Ly07"
-src = "images/Himmelpfort_2_Vierer_Ly07.JPG"
-[[images]]
-title = "Schleuse Himmepfort Ly07"
-src = "images/Schleuse_Himmepfort_Ly07.JPG"
-[[images]]
-title = "Badeplatform Abflug Ly07"
-src = "images/Badeplatform_Abflug_Ly07.JPG"
-[[images]]
-title = "badeplatform lychen 2007"
-src = "images/badeplatform_lychen_2007.jpg"
-[[images]]
-title = "badende lychen 2007"
-src = "images/badende_lychen_2007.jpg"
-[[images]]
-title = "Anlegestelle in Himmelpfort Ly07"
-src = "images/Anlegestelle_in_Himmelpfort_Ly07.jpg"
-[[images]]
-title = "Wurlsee Ruderboot Ly07"
-src = "images/Wurlsee_Ruderboot_Ly07.JPG"
-[[images]]
-title = "Wurlsee Baden Ly07"
-src = "images/Wurlsee_Baden_Ly07.JPG"
-[[images]]
-title = "Fliess nach Lychen 07"
-src = "images/Fliess_nach_Lychen_07.JPG"
-[[images]]
-title = "Aufladen der Ruderboote Ly07"
-src = "images/Aufladen_der_Ruderboote_Ly07.jpg"
-[[images]]
-title = "Patrick Fliess Lychen 07"
-src = "images/Patrick_Fliess_Lychen_07.JPG"
-
-+++
+---
+author: ""
+begin: "2007-05-01"
+date: "2007-05-05T01:00:00+02:00"
+gewässer:
+- havel
+- teltowkanal
+- wannsee
+- oder
+images:
+- src: images/Meedy_auf_Schlag_Ly07.JPG
+  title: Meedy auf Schlag Ly07
+- src: images/Malte_Windy_im_Ruderboot_Ly07.JPG
+  title: Malte Windy im Ruderboot Ly07
+- src: images/Schleuse_Ly07.jpg
+  title: Schleuse Ly07
+- src: images/Malte_auf_der_Havel_Ly07.JPG
+  title: Malte auf der Havel Ly07
+- src: images/Ruderboote_im_Paeckchen_Ly07.jpg
+  title: Ruderboote im Paeckchen Ly07
+- src: images/Marina_Zehdenick_Ly07_.jpg
+  title: 'Marina Zehdenick Ly07 '
+- src: images/Zehdenick_Huette_Ly07.jpg
+  title: Zehdenick Huette Ly07
+- src: images/Zehdenick_Aufbruch_Ly07.jpg
+  title: Zehdenick Aufbruch Ly07
+- src: images/Hausboot_Quartier_Ly07.jpg
+  title: Hausboot Quartier Ly07
+- src: images/Moritz_steigt_ein_Ly07.JPG
+  title: Moritz steigt ein Ly07
+- src: images/Sandro_Bianca_Kirstin_im_Ruderboot_Ly07.jpg
+  title: Sandro Bianca Kirstin im Ruderboot Ly07
+- src: images/Vierer_obere_Havel_Ly07.jpg
+  title: Vierer obere Havel Ly07
+- src: images/Sophie_steigt_ein_Ly07.JPG
+  title: Sophie steigt ein Ly07
+- src: images/Moritz_lychen_2007.jpg
+  title: Moritz lychen 2007
+- src: images/Himmelpfort_2_Vierer_Ly07.JPG
+  title: Himmelpfort 2 Vierer Ly07
+- src: images/Schleuse_Himmepfort_Ly07.JPG
+  title: Schleuse Himmepfort Ly07
+- src: images/Badeplatform_Abflug_Ly07.JPG
+  title: Badeplatform Abflug Ly07
+- src: images/badeplatform_lychen_2007.jpg
+  title: badeplatform lychen 2007
+- src: images/badende_lychen_2007.jpg
+  title: badende lychen 2007
+- src: images/Anlegestelle_in_Himmelpfort_Ly07.jpg
+  title: Anlegestelle in Himmelpfort Ly07
+- src: images/Wurlsee_Ruderboot_Ly07.JPG
+  title: Wurlsee Ruderboot Ly07
+- src: images/Wurlsee_Baden_Ly07.JPG
+  title: Wurlsee Baden Ly07
+- src: images/Fliess_nach_Lychen_07.JPG
+  title: Fliess nach Lychen 07
+- src: images/Aufladen_der_Ruderboote_Ly07.jpg
+  title: Aufladen der Ruderboote Ly07
+- src: images/Patrick_Fliess_Lychen_07.JPG
+  title: Patrick Fliess Lychen 07
+länder: []
+title: Stahnsdorf Lychen 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

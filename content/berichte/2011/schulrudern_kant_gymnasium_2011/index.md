@@ -1,16 +1,15 @@
-+++
-title = "Schulrudern Kant Gymnasium 2017-2"
-author = ""
-date = 2011-09-09T01:00:00+02:00
-begin = "2011-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schulrudern Kant 2017-2 Pohlesee"
-src = "images/Schulrudern_Kant_2017-2_Pohlesee.jpg"
-
-+++
+---
+author: ""
+begin: "2011-09-01"
+date: "2011-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Schulrudern_Kant_2017-2_Pohlesee.jpg
+  title: Schulrudern Kant 2017-2 Pohlesee
+länder: []
+title: Schulrudern Kant Gymnasium 2017-2
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

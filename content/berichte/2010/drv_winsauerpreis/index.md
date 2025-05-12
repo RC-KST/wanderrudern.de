@@ -1,34 +1,29 @@
-+++
-title = "DRV Winsauerpreis"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["rhein", "erne"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Zweier startet in Rees WRT10"
-src = "images/Zweier_startet_in_Rees_WRT10.jpg"
-[[images]]
-title = "Nirina beim Wanderrudertreffen 2010"
-src = "images/Nirina_beim_Wanderrudertreffen_2010.jpg"
-[[images]]
-title = "Wanderruderpreis an Ruderclub Kleinmachnow 2010"
-src = "images/Wanderruderpreis_an_Ruderclub_Kleinmachnow_2010.jpg"
-[[images]]
-title = "Preistraeger Winsauerpreis 2010"
-src = "images/Preistraeger_Winsauerpreis_2010.jpg"
-[[images]]
-title = "Ruderclub Kleinmachnow auf dem Rhein bei Emmerich WRT10"
-src = "images/Ruderclub_Kleinmachnow_auf_dem_Rhein_bei_Emmerich_WRT10.jpg"
-[[images]]
-title = "Frauenzweier vor Emmerich WRT10"
-src = "images/Frauenzweier_vor_Emmerich_WRT10.jpg"
-[[images]]
-title = "Ruderboote Schleuse Kleve WRT10"
-src = "images/Ruderboote_Schleuse_Kleve_WRT10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- erne
+images:
+- src: images/Zweier_startet_in_Rees_WRT10.jpg
+  title: Zweier startet in Rees WRT10
+- src: images/Nirina_beim_Wanderrudertreffen_2010.jpg
+  title: Nirina beim Wanderrudertreffen 2010
+- src: images/Wanderruderpreis_an_Ruderclub_Kleinmachnow_2010.jpg
+  title: Wanderruderpreis an Ruderclub Kleinmachnow 2010
+- src: images/Preistraeger_Winsauerpreis_2010.jpg
+  title: Preistraeger Winsauerpreis 2010
+- src: images/Ruderclub_Kleinmachnow_auf_dem_Rhein_bei_Emmerich_WRT10.jpg
+  title: Ruderclub Kleinmachnow auf dem Rhein bei Emmerich WRT10
+- src: images/Frauenzweier_vor_Emmerich_WRT10.jpg
+  title: Frauenzweier vor Emmerich WRT10
+- src: images/Ruderboote_Schleuse_Kleve_WRT10.jpg
+  title: Ruderboote Schleuse Kleve WRT10
+länder: []
+title: DRV Winsauerpreis
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

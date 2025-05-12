@@ -1,13 +1,14 @@
-+++
-title = "Decin_meissen97"
-author = ""
-date = 1997-01-01T01:00:00+02:00
-begin = "1997-01-01"
-"gewässer" = ["aller", "elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "1997-01-01"
+date: "1997-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- elbe
+länder: []
+title: Decin_meissen97
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,154 +1,111 @@
-+++
-title = "Oslofjord 2018"
-author = ""
-date = 2018-08-08T01:00:00+02:00
-begin = "2018-08-01"
-"gewässer" = ["oder"]
-"länder" = ["deutschland", "dänemark", "norwegen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Vorratskiste Norwegen 2018"
-src = "images/Vorratskiste_Norwegen_2018.jpg"
-[[images]]
-title = "Hirtshals wir warten auf die Fähre 2018"
-src = "images/Hirtshals_wir_warten_auf_die_Fahre_2018.jpg"
-[[images]]
-title = "Hiirtshals an der Faehre 2018"
-src = "images/Hiirtshals_an_der_Faehre_2018.jpg"
-[[images]]
-title = "Lappenrundhuette Norwegen 2018"
-src = "images/Lappenrundhuette_Norwegen_2018.jpg"
-[[images]]
-title = "Boote fertig machen am Nisser 2018"
-src = "images/Boote_fertig_machen_am_Nisser_2018.jpg"
-[[images]]
-title = "Fruehstueck der Ruderer am Nisser 2018"
-src = "images/Fruehstueck_der_Ruderer_am_Nisser_2018.jpg"
-[[images]]
-title = "Regenbogen ueber dem Nisser 2018"
-src = "images/Regenbogen_ueber_dem_Nisser_2018.jpg"
-[[images]]
-title = "Berglandschaft am Nisser 2018"
-src = "images/Berglandschaft_am_Nisser_2018.jpg"
-[[images]]
-title = "Baumgarten E3x+ Nisser Norwegen 2018"
-src = "images/Baumgarten_E3x__Nisser_Norwegen_2018.jpg"
-[[images]]
-title = "Rudervierer auf dem Nisser 2018"
-src = "images/Rudervierer_auf_dem_Nisser_2018.jpg"
-[[images]]
-title = "Felswaende am Nisser 2018"
-src = "images/Felswaende_am_Nisser_2018.jpg"
-[[images]]
-title = "Ruderboote auf dem Nisser 2018"
-src = "images/Ruderboote_auf_dem_Nisser_2018.jpg"
-[[images]]
-title = "Wehr am Nisser 2018"
-src = "images/Wehr_am_Nisser_2018.jpg"
-[[images]]
-title = "Ausfluss des Nisser 2018"
-src = "images/Ausfluss_des_Nisser_2018.jpg"
-[[images]]
-title = "Suedende Nisser Ruderboote 2018"
-src = "images/Suedende_Nisser_Ruderboote_2018.jpg"
-[[images]]
-title = "teueres Bier am Nisser 2018"
-src = "images/teueres_Bier_am_Nisser_2018.jpg"
-[[images]]
-title = "Ruderinnen baden im Nisser 2018"
-src = "images/Ruderinnen_baden_im_Nisser_2018.jpg"
-[[images]]
-title = "Bikini Girlies auf dem Nisser 2018"
-src = "images/Bikini_Girlies_auf_dem_Nisser_2018.jpg"
-[[images]]
-title = "Rudererinnen auf dem Nisser 2018"
-src = "images/Rudererinnen_auf_dem_Nisser_2018.jpg"
-[[images]]
-title = "Ruderboot am Anfang des Telemarkkanals 2018"
-src = "images/Ruderboot_am_Anfang_des_Telemarkkanals_2018.jpg"
-[[images]]
-title = "Haengebruecke in Dalen 2018"
-src = "images/Haengebruecke_in_Dalen_2018.jpg"
-[[images]]
-title = "Stabkirche bei Dalen 2018"
-src = "images/Stabkirche_bei_Dalen_2018.jpg"
-[[images]]
-title = "Kinder spielen am Telemarkkanalmodell 2018"
-src = "images/Kinder_spielen_am_Telemarkkanalmodell_2018.jpg"
-[[images]]
-title = "Bergtour oberhalb vom Telemarkkanal 2018"
-src = "images/Bergtour_oberhalb_vom_Telemarkkanal_2018.jpg"
-[[images]]
-title = "Bandak von oben 2018"
-src = "images/Bandak_von_oben_2018.jpg"
-[[images]]
-title = "Nirina am Abgrund Telemark 2018"
-src = "images/Nirina_am_Abgrund_Telemark_2018.jpg"
-[[images]]
-title = "Regen auf dem Bandak Telemarkkanal 2018"
-src = "images/Regen_auf_dem_Bandak_Telemarkkanal_2018.jpg"
-[[images]]
-title = "Ruderboote auf dem Telemarkkanal 2018"
-src = "images/Ruderboote_auf_dem_Telemarkkanal_2018.jpg"
-[[images]]
-title = "Steuerfrau auf dem Telemarkkanal 2018"
-src = "images/Steuerfrau_auf_dem_Telemarkkanal_2018.jpg"
-[[images]]
-title = "Telemarkkanal bei Kviteseid 2018"
-src = "images/Telemarkkanal_bei_Kviteseid_2018.jpg"
-[[images]]
-title = "Meerjungfrauen bei Kviteseid 2018"
-src = "images/Meerjungfrauen_bei_Kviteseid_2018.jpg"
-[[images]]
-title = "Camping in Kviteseid 2018"
-src = "images/Camping_in_Kviteseid_2018.jpg"
-[[images]]
-title = "Spiegelungen Telemarkkanal 2018"
-src = "images/Spiegelungen_Telemarkkanal_2018.jpg"
-[[images]]
-title = "auf dem Weg nach Lunde Telemark 2018"
-src = "images/auf_dem_Weg_nach_Lunde_Telemark_2018.jpg"
-[[images]]
-title = "Telemark die Seen werden enger 2018"
-src = "images/Telemark_die_Seen_werden_enger_2018.jpg"
-[[images]]
-title = "Schleusentreppe Telemarkkanal 2018"
-src = "images/Schleusentreppe_Telemarkkanal_2018.jpg"
-[[images]]
-title = "Norsjo Ferienland 2018"
-src = "images/Norsjo_Ferienland_2018.jpg"
-[[images]]
-title = "Norsjo Abendessen kochen 2018"
-src = "images/Norsjo_Abendessen_kochen_2018.jpg"
-[[images]]
-title = "zum Nordende des Telemarkkanals 2018"
-src = "images/zum_Nordende_des_Telemarkkanals_2018.jpg"
-[[images]]
-title = "Wasserflugzeug im Gegenverkehr 2018"
-src = "images/Wasserflugzeug_im_Gegenverkehr_2018.jpg"
-[[images]]
-title = "Pilgerfahrt nach Heddal weiter geht es nicht 2018"
-src = "images/Pilgerfahrt_nach_Heddal_weiter_geht_es_nicht_2018.jpg"
-[[images]]
-title = "Stabkirche Heddal 2018"
-src = "images/Stabkirche_Heddal_2018.jpg"
-[[images]]
-title = "durch die Stromschnelle 2018"
-src = "images/durch_die_Stromschnelle_2018.jpg"
-[[images]]
-title = "Ruderboot in Notodden 2018"
-src = "images/Ruderboot_in_Notodden_2018.jpg"
-[[images]]
-title = "Inrigger in Renngeschwindigkeit Telemark 2018"
-src = "images/Inrigger_in_Renngeschwindigkeit_Telemark_2018.jpg"
-[[images]]
-title = "Maria im Regen Norsjo 2018"
-src = "images/Maria_im_Regen_Norsjo_2018.jpg"
-[[images]]
-title = "Schleusentreppe vor Skien 2018"
-src = "images/Schleusentreppe_vor_Skien_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-08-01"
+date: "2018-08-08T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Vorratskiste_Norwegen_2018.jpg
+  title: Vorratskiste Norwegen 2018
+- src: images/Hirtshals_wir_warten_auf_die_Fahre_2018.jpg
+  title: Hirtshals wir warten auf die Fähre 2018
+- src: images/Hiirtshals_an_der_Faehre_2018.jpg
+  title: Hiirtshals an der Faehre 2018
+- src: images/Lappenrundhuette_Norwegen_2018.jpg
+  title: Lappenrundhuette Norwegen 2018
+- src: images/Boote_fertig_machen_am_Nisser_2018.jpg
+  title: Boote fertig machen am Nisser 2018
+- src: images/Fruehstueck_der_Ruderer_am_Nisser_2018.jpg
+  title: Fruehstueck der Ruderer am Nisser 2018
+- src: images/Regenbogen_ueber_dem_Nisser_2018.jpg
+  title: Regenbogen ueber dem Nisser 2018
+- src: images/Berglandschaft_am_Nisser_2018.jpg
+  title: Berglandschaft am Nisser 2018
+- src: images/Baumgarten_E3x__Nisser_Norwegen_2018.jpg
+  title: Baumgarten E3x+ Nisser Norwegen 2018
+- src: images/Rudervierer_auf_dem_Nisser_2018.jpg
+  title: Rudervierer auf dem Nisser 2018
+- src: images/Felswaende_am_Nisser_2018.jpg
+  title: Felswaende am Nisser 2018
+- src: images/Ruderboote_auf_dem_Nisser_2018.jpg
+  title: Ruderboote auf dem Nisser 2018
+- src: images/Wehr_am_Nisser_2018.jpg
+  title: Wehr am Nisser 2018
+- src: images/Ausfluss_des_Nisser_2018.jpg
+  title: Ausfluss des Nisser 2018
+- src: images/Suedende_Nisser_Ruderboote_2018.jpg
+  title: Suedende Nisser Ruderboote 2018
+- src: images/teueres_Bier_am_Nisser_2018.jpg
+  title: teueres Bier am Nisser 2018
+- src: images/Ruderinnen_baden_im_Nisser_2018.jpg
+  title: Ruderinnen baden im Nisser 2018
+- src: images/Bikini_Girlies_auf_dem_Nisser_2018.jpg
+  title: Bikini Girlies auf dem Nisser 2018
+- src: images/Rudererinnen_auf_dem_Nisser_2018.jpg
+  title: Rudererinnen auf dem Nisser 2018
+- src: images/Ruderboot_am_Anfang_des_Telemarkkanals_2018.jpg
+  title: Ruderboot am Anfang des Telemarkkanals 2018
+- src: images/Haengebruecke_in_Dalen_2018.jpg
+  title: Haengebruecke in Dalen 2018
+- src: images/Stabkirche_bei_Dalen_2018.jpg
+  title: Stabkirche bei Dalen 2018
+- src: images/Kinder_spielen_am_Telemarkkanalmodell_2018.jpg
+  title: Kinder spielen am Telemarkkanalmodell 2018
+- src: images/Bergtour_oberhalb_vom_Telemarkkanal_2018.jpg
+  title: Bergtour oberhalb vom Telemarkkanal 2018
+- src: images/Bandak_von_oben_2018.jpg
+  title: Bandak von oben 2018
+- src: images/Nirina_am_Abgrund_Telemark_2018.jpg
+  title: Nirina am Abgrund Telemark 2018
+- src: images/Regen_auf_dem_Bandak_Telemarkkanal_2018.jpg
+  title: Regen auf dem Bandak Telemarkkanal 2018
+- src: images/Ruderboote_auf_dem_Telemarkkanal_2018.jpg
+  title: Ruderboote auf dem Telemarkkanal 2018
+- src: images/Steuerfrau_auf_dem_Telemarkkanal_2018.jpg
+  title: Steuerfrau auf dem Telemarkkanal 2018
+- src: images/Telemarkkanal_bei_Kviteseid_2018.jpg
+  title: Telemarkkanal bei Kviteseid 2018
+- src: images/Meerjungfrauen_bei_Kviteseid_2018.jpg
+  title: Meerjungfrauen bei Kviteseid 2018
+- src: images/Camping_in_Kviteseid_2018.jpg
+  title: Camping in Kviteseid 2018
+- src: images/Spiegelungen_Telemarkkanal_2018.jpg
+  title: Spiegelungen Telemarkkanal 2018
+- src: images/auf_dem_Weg_nach_Lunde_Telemark_2018.jpg
+  title: auf dem Weg nach Lunde Telemark 2018
+- src: images/Telemark_die_Seen_werden_enger_2018.jpg
+  title: Telemark die Seen werden enger 2018
+- src: images/Schleusentreppe_Telemarkkanal_2018.jpg
+  title: Schleusentreppe Telemarkkanal 2018
+- src: images/Norsjo_Ferienland_2018.jpg
+  title: Norsjo Ferienland 2018
+- src: images/Norsjo_Abendessen_kochen_2018.jpg
+  title: Norsjo Abendessen kochen 2018
+- src: images/zum_Nordende_des_Telemarkkanals_2018.jpg
+  title: zum Nordende des Telemarkkanals 2018
+- src: images/Wasserflugzeug_im_Gegenverkehr_2018.jpg
+  title: Wasserflugzeug im Gegenverkehr 2018
+- src: images/Pilgerfahrt_nach_Heddal_weiter_geht_es_nicht_2018.jpg
+  title: Pilgerfahrt nach Heddal weiter geht es nicht 2018
+- src: images/Stabkirche_Heddal_2018.jpg
+  title: Stabkirche Heddal 2018
+- src: images/durch_die_Stromschnelle_2018.jpg
+  title: durch die Stromschnelle 2018
+- src: images/Ruderboot_in_Notodden_2018.jpg
+  title: Ruderboot in Notodden 2018
+- src: images/Inrigger_in_Renngeschwindigkeit_Telemark_2018.jpg
+  title: Inrigger in Renngeschwindigkeit Telemark 2018
+- src: images/Maria_im_Regen_Norsjo_2018.jpg
+  title: Maria im Regen Norsjo 2018
+- src: images/Schleusentreppe_vor_Skien_2018.jpg
+  title: Schleusentreppe vor Skien 2018
+länder:
+- deutschland
+- dänemark
+- norwegen
+title: Oslofjord 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

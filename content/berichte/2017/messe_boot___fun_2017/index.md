@@ -1,25 +1,22 @@
-+++
-title = "Messe Boot + Fun 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Messeteam RC KST Boot und Fun 2017"
-src = "images/Messeteam_RC_KST_Boot_und_Fun_2017.jpg"
-[[images]]
-title = "Proberudern Boot und Fun 2017"
-src = "images/Proberudern_Boot_und_Fun_2017.jpg"
-[[images]]
-title = "Messestand Rudern Boot und Fun 2017"
-src = "images/Messestand_Rudern_Boot_und_Fun_2017.jpg"
-[[images]]
-title = "Schulrudern Boot und Fun 2017"
-src = "images/Schulrudern_Boot_und_Fun_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Messeteam_RC_KST_Boot_und_Fun_2017.jpg
+  title: Messeteam RC KST Boot und Fun 2017
+- src: images/Proberudern_Boot_und_Fun_2017.jpg
+  title: Proberudern Boot und Fun 2017
+- src: images/Messestand_Rudern_Boot_und_Fun_2017.jpg
+  title: Messestand Rudern Boot und Fun 2017
+- src: images/Schulrudern_Boot_und_Fun_2017.jpg
+  title: Schulrudern Boot und Fun 2017
+länder: []
+title: Messe Boot + Fun 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

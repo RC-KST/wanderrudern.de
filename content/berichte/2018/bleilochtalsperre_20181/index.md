@@ -1,31 +1,25 @@
-+++
-title = "Bleilochtalsperre 2018"
-author = ""
-date = 2018-06-06T01:00:00+02:00
-begin = "2018-06-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Max auf der Talsperre 2018"
-src = "images/Max_auf_der_Talsperre_2018.jpg"
-[[images]]
-title = "Saalezufluss 2018"
-src = "images/Saalezufluss_2018.jpg"
-[[images]]
-title = "Ruderboote Bleilochtalsperre 2018"
-src = "images/Ruderboote_Bleilochtalsperre_2018.jpg"
-[[images]]
-title = "Vierer auf der Bleilochtalsperre 2018"
-src = "images/Vierer_auf_der_Bleilochtalsperre_2018.jpg"
-[[images]]
-title = "Maschinenhaus Bleilochtalsperre 2018"
-src = "images/Maschinenhaus_Bleilochtalsperre_2018.jpg"
-[[images]]
-title = "Wildwasser auf der Saale 2018"
-src = "images/Wildwasser_auf_der_Saale_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-06-01"
+date: "2018-06-06T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Max_auf_der_Talsperre_2018.jpg
+  title: Max auf der Talsperre 2018
+- src: images/Saalezufluss_2018.jpg
+  title: Saalezufluss 2018
+- src: images/Ruderboote_Bleilochtalsperre_2018.jpg
+  title: Ruderboote Bleilochtalsperre 2018
+- src: images/Vierer_auf_der_Bleilochtalsperre_2018.jpg
+  title: Vierer auf der Bleilochtalsperre 2018
+- src: images/Maschinenhaus_Bleilochtalsperre_2018.jpg
+  title: Maschinenhaus Bleilochtalsperre 2018
+- src: images/Wildwasser_auf_der_Saale_2018.jpg
+  title: Wildwasser auf der Saale 2018
+länder: []
+title: Bleilochtalsperre 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,12 @@
-+++
-title = "Stienitz Moellensee 09"
-author = ""
-date = 2009-05-05T01:00:00+02:00
-begin = "2009-05-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2009-05-01"
+date: "2009-05-05T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Stienitz Moellensee 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

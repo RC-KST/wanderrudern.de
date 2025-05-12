@@ -1,16 +1,15 @@
-+++
-title = "Neuer E-Vierer von Kleinmachnow "
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Vierer bei starigrad 2015"
-src = "images/Vierer_bei_starigrad_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Vierer_bei_starigrad_2015.jpg
+  title: Vierer bei starigrad 2015
+länder: []
+title: 'Neuer E-Vierer von Kleinmachnow '
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

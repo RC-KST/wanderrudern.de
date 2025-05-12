@@ -1,91 +1,68 @@
-+++
-title = "Kroatienblog 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["novigrader meer", "zrmanja"]
-"länder" = ["österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "start zur kroatien wanderfahrt 2014"
-src = "images/start_zur_kroatien_wanderfahrt_2014.jpg"
-[[images]]
-title = "ankunft der boote in maslenica 2014"
-src = "images/ankunft_der_boote_in_maslenica_2014.jpg"
-[[images]]
-title = "abladen in maslenica 2014"
-src = "images/abladen_in_maslenica_2014.jpg"
-[[images]]
-title = "johanna nirina im canyon 2014"
-src = "images/johanna_nirina_im_canyon_2014.jpg"
-[[images]]
-title = "drei ruderboote bei maslenica 2014"
-src = "images/drei_ruderboote_bei_maslenica_2014.jpg"
-[[images]]
-title = "Ruderboote am Wasserfall zrmanja 2014"
-src = "images/Ruderboote_am_Wasserfall_zrmanja_2014.jpg"
-[[images]]
-title = "ruderer auf dem rueckweg kroatien 2014"
-src = "images/ruderer_auf_dem_rueckweg_kroatien_2014.jpg"
-[[images]]
-title = "ruderer bei sturm im canyon 2014"
-src = "images/ruderer_bei_sturm_im_canyon_2014.jpg"
-[[images]]
-title = "fussmarsch im sturm kroatien 2014"
-src = "images/fussmarsch_im_sturm_kroatien_2014.jpg"
-[[images]]
-title = "sturmbild adria 2014"
-src = "images/sturmbild_adria_2014.jpg"
-[[images]]
-title = "sturm bei maslenica 2014"
-src = "images/sturm_bei_maslenica_2014.jpg"
-[[images]]
-title = "suboptimales ruderwetter kroatien 2014"
-src = "images/suboptimales_ruderwetter_kroatien_2014.jpg"
-[[images]]
-title = "ruderer in zadar 2014"
-src = "images/ruderer_in_zadar_2014.jpg"
-[[images]]
-title = "mannschaftsbild kroatien 2014"
-src = "images/mannschaftsbild_kroatien_2014.jpg"
-[[images]]
-title = "abendessen in maslenica 2014"
-src = "images/abendessen_in_maslenica_2014.jpg"
-[[images]]
-title = "bergwandern im sturm kroatien 2014"
-src = "images/bergwandern_im_sturm_kroatien_2014.jpg"
-[[images]]
-title = "start in obrovac 2015"
-src = "images/start_in_obrovac_2015.jpg"
-[[images]]
-title = "ruderer im canyon 2015"
-src = "images/ruderer_im_canyon_2015.jpg"
-[[images]]
-title = "zrmanja mit velebit 2014"
-src = "images/zrmanja_mit_velebit_2014.jpg"
-[[images]]
-title = "ruderboot im Zrmanja canyon 2014"
-src = "images/ruderboot_im_Zrmanja_canyon_2014.jpg"
-[[images]]
-title = "zrmanja nach dem sturm 2014"
-src = "images/zrmanja_nach_dem_sturm_2014.jpg"
-[[images]]
-title = "Vierer bei starigrad 2015"
-src = "images/Vierer_bei_starigrad_2015.jpg"
-[[images]]
-title = "10893445_783362641700133_1482913857_n"
-src = "images/10893445_783362641700133_1482913857_n.jpg"
-[[images]]
-title = "delphin bei der jagd kroatien 2014"
-src = "images/delphin_bei_der_jagd_kroatien_2014.jpg"
-[[images]]
-title = "einfahrt novigrader meer 2014"
-src = "images/einfahrt_novigrader_meer_2014.jpg"
-[[images]]
-title = "johanna ueber dem boot kroatien 2014"
-src = "images/johanna_ueber_dem_boot_kroatien_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- novigrader meer
+- zrmanja
+images:
+- src: images/start_zur_kroatien_wanderfahrt_2014.jpg
+  title: start zur kroatien wanderfahrt 2014
+- src: images/ankunft_der_boote_in_maslenica_2014.jpg
+  title: ankunft der boote in maslenica 2014
+- src: images/abladen_in_maslenica_2014.jpg
+  title: abladen in maslenica 2014
+- src: images/johanna_nirina_im_canyon_2014.jpg
+  title: johanna nirina im canyon 2014
+- src: images/drei_ruderboote_bei_maslenica_2014.jpg
+  title: drei ruderboote bei maslenica 2014
+- src: images/Ruderboote_am_Wasserfall_zrmanja_2014.jpg
+  title: Ruderboote am Wasserfall zrmanja 2014
+- src: images/ruderer_auf_dem_rueckweg_kroatien_2014.jpg
+  title: ruderer auf dem rueckweg kroatien 2014
+- src: images/ruderer_bei_sturm_im_canyon_2014.jpg
+  title: ruderer bei sturm im canyon 2014
+- src: images/fussmarsch_im_sturm_kroatien_2014.jpg
+  title: fussmarsch im sturm kroatien 2014
+- src: images/sturmbild_adria_2014.jpg
+  title: sturmbild adria 2014
+- src: images/sturm_bei_maslenica_2014.jpg
+  title: sturm bei maslenica 2014
+- src: images/suboptimales_ruderwetter_kroatien_2014.jpg
+  title: suboptimales ruderwetter kroatien 2014
+- src: images/ruderer_in_zadar_2014.jpg
+  title: ruderer in zadar 2014
+- src: images/mannschaftsbild_kroatien_2014.jpg
+  title: mannschaftsbild kroatien 2014
+- src: images/abendessen_in_maslenica_2014.jpg
+  title: abendessen in maslenica 2014
+- src: images/bergwandern_im_sturm_kroatien_2014.jpg
+  title: bergwandern im sturm kroatien 2014
+- src: images/start_in_obrovac_2015.jpg
+  title: start in obrovac 2015
+- src: images/ruderer_im_canyon_2015.jpg
+  title: ruderer im canyon 2015
+- src: images/zrmanja_mit_velebit_2014.jpg
+  title: zrmanja mit velebit 2014
+- src: images/ruderboot_im_Zrmanja_canyon_2014.jpg
+  title: ruderboot im Zrmanja canyon 2014
+- src: images/zrmanja_nach_dem_sturm_2014.jpg
+  title: zrmanja nach dem sturm 2014
+- src: images/Vierer_bei_starigrad_2015.jpg
+  title: Vierer bei starigrad 2015
+- src: images/10893445_783362641700133_1482913857_n.jpg
+  title: 10893445_783362641700133_1482913857_n
+- src: images/delphin_bei_der_jagd_kroatien_2014.jpg
+  title: delphin bei der jagd kroatien 2014
+- src: images/einfahrt_novigrader_meer_2014.jpg
+  title: einfahrt novigrader meer 2014
+- src: images/johanna_ueber_dem_boot_kroatien_2014.jpg
+  title: johanna ueber dem boot kroatien 2014
+länder:
+- österreich
+title: Kroatienblog 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,19 +1,22 @@
-+++
-title = "Donaudelta Ostern 2010"
-author = ""
-date = 2010-05-05T01:00:00+02:00
-begin = "2010-05-01"
-"gewässer" = ["donau", "oste", "oder"]
-"länder" = ["deutschland", "ukraine"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "calarasi2"
-src = "images/calarasi2.jpg"
-[[images]]
-title = "deltakarte"
-src = "images/deltakarte.jpg"
-
-+++
+---
+author: ""
+begin: "2010-05-01"
+date: "2010-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- oste
+- oder
+images:
+- src: images/calarasi2.jpg
+  title: calarasi2
+- src: images/deltakarte.jpg
+  title: deltakarte
+länder:
+- deutschland
+- ukraine
+title: Donaudelta Ostern 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

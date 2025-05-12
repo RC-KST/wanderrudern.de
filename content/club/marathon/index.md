@@ -1,41 +1,30 @@
-+++
-title = "Marathonrudern"
-weight = 10
-
-[[images]]
-title = "Eurega Bootsaustattung"
-src = "images/eurega_bootsaustattung.jpg"
-[[images]]
-title = "Genf 2023 alle Boote"
-src = "images/genf_2023_alle_boote.jpg"
-[[images]]
-title = "Genf 2023"
-src = "images/genf_2023_wir_geben_alles.jpg"
-[[images]]
-title = "Easterbunnies"
-src = "images/hart_van_holland_easterbunnies.jpg"
-[[images]]
-title = "Ostemarathon auf der Sandbank"
-src = "images/oste_marathon_2022_pause_auf_der_sandbank.jpg"
-[[images]]
-title = "Ostemarathon als Sieger"
-src = "images/oste_marathon_2022_sieger.jpg"
-[[images]]
-title = "Ostemarathon - 4. Platz der AH"
-src = "images/oste_marathon_vierter_platz_der_ah.jpg"
-[[images]]
-title = "Patrik als Sieger des Rheinmarathon 2015"
-src = "images/Patrik_als_sieger_des_Rheinmarathon_2015.jpg"
-[[images]]
-title = "Rheinmarathon 2018 Mannschaft"
-src = "images/rheinmarathon_2018_mannschaft.jpg"
-[[images]]
-title = "Nach dem Zieleinlauf bei Quer durch Berlin"
-src = "images/WhatsApp_Image_2023-10-07_at_20.04.13.jpeg"
-[[images]]
-title = "Preisverleihung Genf 2023"
-src = "images/WhatsApp_Image_2023-10-26_at_18.05.35.jpeg"
-+++
+---
+images:
+- src: images/eurega_bootsaustattung.jpg
+  title: Eurega Bootsaustattung
+- src: images/genf_2023_alle_boote.jpg
+  title: Genf 2023 alle Boote
+- src: images/genf_2023_wir_geben_alles.jpg
+  title: Genf 2023
+- src: images/hart_van_holland_easterbunnies.jpg
+  title: Easterbunnies
+- src: images/oste_marathon_2022_pause_auf_der_sandbank.jpg
+  title: Ostemarathon auf der Sandbank
+- src: images/oste_marathon_2022_sieger.jpg
+  title: Ostemarathon als Sieger
+- src: images/oste_marathon_vierter_platz_der_ah.jpg
+  title: Ostemarathon - 4. Platz der AH
+- src: images/Patrik_als_sieger_des_Rheinmarathon_2015.jpg
+  title: Patrik als Sieger des Rheinmarathon 2015
+- src: images/rheinmarathon_2018_mannschaft.jpg
+  title: Rheinmarathon 2018 Mannschaft
+- src: images/WhatsApp_Image_2023-10-07_at_20.04.13.jpeg
+  title: Nach dem Zieleinlauf bei Quer durch Berlin
+- src: images/WhatsApp_Image_2023-10-26_at_18.05.35.jpeg
+  title: Preisverleihung Genf 2023
+title: Marathonrudern
+weight: 10
+---
 
 ![Genf Massenstart vor Kulisse](./images/genf_2023_massenstart_vor_kulisse.jpg)
 

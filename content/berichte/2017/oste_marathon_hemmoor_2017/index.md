@@ -1,46 +1,37 @@
-+++
-title = "Oste Marathon Hemmoor 2017"
-author = ""
-date = 2017-06-06T01:00:00+02:00
-begin = "2017-06-01"
-"gewässer" = ["elbe", "oste"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Leistungsruderer beim Oste Marathon 2017"
-src = "images/Leistungsruderer_beim_Oste_Marathon_2017.jpg"
-[[images]]
-title = "Ruderboote beim Oste Marathon 2017"
-src = "images/Ruderboote_beim_Oste_Marathon_2017.jpg"
-[[images]]
-title = "Oste Sperrwerk 2017"
-src = "images/Oste_Sperrwerk_2017.jpg"
-[[images]]
-title = "Jenseits des Oste Riff 2017"
-src = "images/Jenseits_des_Oste_Riff_2017.jpg"
-[[images]]
-title = "Oste Riff 2017 mit Ruderbooten"
-src = "images/Oste_Riff_2017_mit_Ruderbooten.jpg"
-[[images]]
-title = "Geirangerfjord auf dem Osteriff 2017"
-src = "images/Geirangerfjord_auf_dem_Osteriff_2017.jpg"
-[[images]]
-title = "Ruderclub Kleinmachnow auf dem Oste Riff 2017"
-src = "images/Ruderclub_Kleinmachnow_auf_dem_Oste_Riff_2017.jpg"
-[[images]]
-title = "Ruderer auf dem Osteriff 2017"
-src = "images/Ruderer_auf_dem_Osteriff_2017.jpg"
-[[images]]
-title = "Nach dem Oste Marathon 2017"
-src = "images/Nach_dem_Oste_Marathon_2017.jpg"
-[[images]]
-title = "Oste Marathon 2017 Race is over"
-src = "images/Oste_Marathon_2017_Race_is_over.jpg"
-[[images]]
-title = "Pause in Neuhaus 2017"
-src = "images/Pause_in_Neuhaus_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-06-01"
+date: "2017-06-06T01:00:00+02:00"
+gewässer:
+- elbe
+- oste
+images:
+- src: images/Leistungsruderer_beim_Oste_Marathon_2017.jpg
+  title: Leistungsruderer beim Oste Marathon 2017
+- src: images/Ruderboote_beim_Oste_Marathon_2017.jpg
+  title: Ruderboote beim Oste Marathon 2017
+- src: images/Oste_Sperrwerk_2017.jpg
+  title: Oste Sperrwerk 2017
+- src: images/Jenseits_des_Oste_Riff_2017.jpg
+  title: Jenseits des Oste Riff 2017
+- src: images/Oste_Riff_2017_mit_Ruderbooten.jpg
+  title: Oste Riff 2017 mit Ruderbooten
+- src: images/Geirangerfjord_auf_dem_Osteriff_2017.jpg
+  title: Geirangerfjord auf dem Osteriff 2017
+- src: images/Ruderclub_Kleinmachnow_auf_dem_Oste_Riff_2017.jpg
+  title: Ruderclub Kleinmachnow auf dem Oste Riff 2017
+- src: images/Ruderer_auf_dem_Osteriff_2017.jpg
+  title: Ruderer auf dem Osteriff 2017
+- src: images/Nach_dem_Oste_Marathon_2017.jpg
+  title: Nach dem Oste Marathon 2017
+- src: images/Oste_Marathon_2017_Race_is_over.jpg
+  title: Oste Marathon 2017 Race is over
+- src: images/Pause_in_Neuhaus_2017.jpg
+  title: Pause in Neuhaus 2017
+länder: []
+title: Oste Marathon Hemmoor 2017
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

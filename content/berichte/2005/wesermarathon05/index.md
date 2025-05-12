@@ -1,31 +1,27 @@
-+++
-title = "Wesermarathon 2005"
-author = ""
-date = 2005-05-05T01:00:00+02:00
-begin = "2005-05-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "bad hersfeld ruderclub"
-src = "images/badhersfeld05.jpg"
-[[images]]
-title = "steffel fulda05"
-src = "images/steffel_fulda05.jpg"
-[[images]]
-title = "blumenkind paula"
-src = "images/blumenkind.jpg"
-[[images]]
-title = "timo  kassel05 kochen Ruderer"
-src = "images/timo_kassel05.jpg"
-[[images]]
-title = "kassel frauen05"
-src = "images/kassel_frauen05.jpg"
-[[images]]
-title = "weserstein Ruderer"
-src = "images/weserstein05.jpg"
-
-+++
+---
+author: ""
+begin: "2005-05-01"
+date: "2005-05-05T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+images:
+- src: images/badhersfeld05.jpg
+  title: bad hersfeld ruderclub
+- src: images/steffel_fulda05.jpg
+  title: steffel fulda05
+- src: images/blumenkind.jpg
+  title: blumenkind paula
+- src: images/timo_kassel05.jpg
+  title: timo  kassel05 kochen Ruderer
+- src: images/kassel_frauen05.jpg
+  title: kassel frauen05
+- src: images/weserstein05.jpg
+  title: weserstein Ruderer
+länder: []
+title: Wesermarathon 2005
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

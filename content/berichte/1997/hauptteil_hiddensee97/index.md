@@ -1,22 +1,23 @@
-+++
-title = "hiddensee 1997"
-author = ""
-date = 1997-01-01T01:00:00+02:00
-begin = "1997-01-01"
-"gewässer" = ["ostsee", "rügen", "hiddensee"]
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "hiddensee steilküste rudern ruderboot"
-src = "images/hiddensee2.jpg"
-[[images]]
-title = "ruderboote auf Hiddensee ruderer"
-src = "images/hiddensee1.jpg"
-[[images]]
-title = "Ruderer beim Pause machen"
-src = "images/liegen_Hi97.jpg"
-
-+++
+---
+author: ""
+begin: "1997-01-01"
+date: "1997-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- rügen
+- hiddensee
+images:
+- src: images/hiddensee2.jpg
+  title: hiddensee steilküste rudern ruderboot
+- src: images/hiddensee1.jpg
+  title: ruderboote auf Hiddensee ruderer
+- src: images/liegen_Hi97.jpg
+  title: Ruderer beim Pause machen
+länder:
+- schweden
+title: hiddensee 1997
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

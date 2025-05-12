@@ -1,4 +1,4 @@
-+++
-title = "Club"
-weight = 50
-+++
+---
+title: Club
+weight: 50
+---

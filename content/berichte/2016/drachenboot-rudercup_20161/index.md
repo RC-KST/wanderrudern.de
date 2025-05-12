@@ -1,58 +1,43 @@
-+++
-title = "Drachenboot-Rudercup 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Ergebnis Drachenboot-Rudercup 2016"
-src = "images/Ergebnis_Drachenboot-Rudercup_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Schifffahrtszeichen aufstellen 2016"
-src = "images/Drachenboot-Rudercup_Schifffahrtszeichen_aufstellen_2016.jpg"
-[[images]]
-title = "Rettungsboot beim Drachenboot-Rudercup 2016"
-src = "images/Rettungsboot_beim_Drachenboot-Rudercup_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Buergermeister Albers 2016"
-src = "images/Drachenboot-Rudercup_Buergermeister_Albers_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Team Kosanke 2016"
-src = "images/Drachenboot-Rudercup_Team_Kosanke_2016.jpg"
-[[images]]
-title = "Drachenboot Rudercup Jusos ausser takt 2016"
-src = "images/Drachenboot_Rudercup_Jusos_ausser_takt_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Mrs Sporty 2016"
-src = "images/Drachenboot-Rudercup_Mrs_Sporty_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup TCC 2016"
-src = "images/Drachenboot-Rudercup_TCC_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Piraten 2016"
-src = "images/Drachenboot-Rudercup_Piraten_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Teltower Carneval Club 2016"
-src = "images/Drachenboot-Rudercup_Teltower_Carneval_Club_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Wikinger 2016"
-src = "images/Drachenboot-Rudercup_Wikinger_2016.jpg"
-[[images]]
-title = "Drachenboot-Rudercup Jusos 2016"
-src = "images/Drachenboot-Rudercup_Jusos_2016.jpg"
-[[images]]
-title = "Schnupperrudern 2016"
-src = "images/Schnupperrudern_2016.jpg"
-[[images]]
-title = "Tag der offenen Tuer Kuchenverkauf 2016"
-src = "images/Tag_der_offenen_Tuer_Kuchenverkauf_2016.jpg"
-[[images]]
-title = "Tag der offenen Tuer Proberudern 2016"
-src = "images/Tag_der_offenen_Tuer_Proberudern_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ergebnis_Drachenboot-Rudercup_2016.jpg
+  title: Ergebnis Drachenboot-Rudercup 2016
+- src: images/Drachenboot-Rudercup_Schifffahrtszeichen_aufstellen_2016.jpg
+  title: Drachenboot-Rudercup Schifffahrtszeichen aufstellen 2016
+- src: images/Rettungsboot_beim_Drachenboot-Rudercup_2016.jpg
+  title: Rettungsboot beim Drachenboot-Rudercup 2016
+- src: images/Drachenboot-Rudercup_Buergermeister_Albers_2016.jpg
+  title: Drachenboot-Rudercup Buergermeister Albers 2016
+- src: images/Drachenboot-Rudercup_Team_Kosanke_2016.jpg
+  title: Drachenboot-Rudercup Team Kosanke 2016
+- src: images/Drachenboot_Rudercup_Jusos_ausser_takt_2016.jpg
+  title: Drachenboot Rudercup Jusos ausser takt 2016
+- src: images/Drachenboot-Rudercup_Mrs_Sporty_2016.jpg
+  title: Drachenboot-Rudercup Mrs Sporty 2016
+- src: images/Drachenboot-Rudercup_TCC_2016.jpg
+  title: Drachenboot-Rudercup TCC 2016
+- src: images/Drachenboot-Rudercup_Piraten_2016.jpg
+  title: Drachenboot-Rudercup Piraten 2016
+- src: images/Drachenboot-Rudercup_Teltower_Carneval_Club_2016.jpg
+  title: Drachenboot-Rudercup Teltower Carneval Club 2016
+- src: images/Drachenboot-Rudercup_Wikinger_2016.jpg
+  title: Drachenboot-Rudercup Wikinger 2016
+- src: images/Drachenboot-Rudercup_Jusos_2016.jpg
+  title: Drachenboot-Rudercup Jusos 2016
+- src: images/Schnupperrudern_2016.jpg
+  title: Schnupperrudern 2016
+- src: images/Tag_der_offenen_Tuer_Kuchenverkauf_2016.jpg
+  title: Tag der offenen Tuer Kuchenverkauf 2016
+- src: images/Tag_der_offenen_Tuer_Proberudern_2016.jpg
+  title: Tag der offenen Tuer Proberudern 2016
+länder: []
+title: Drachenboot-Rudercup 2016
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

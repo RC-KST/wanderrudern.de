@@ -1,25 +1,23 @@
-+++
-title = "DRV Winsauerpreis 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["erne"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Winsauerpreis Gruppe C an den RC KST 2012"
-src = "images/Winsauerpreis_Gruppe_C_an_den_RC_KST_2012.jpg"
-[[images]]
-title = "LingLing im neuen Baumgarten Dreier DRV WRT 2012"
-src = "images/LingLing_im_neuen_Baumgarten_Dreier_DRV_WRT_2012.jpg"
-[[images]]
-title = "Inrigger 3 mit Wingausleger 2012"
-src = "images/Inrigger_3_mit_Wingausleger_2012.jpg"
-[[images]]
-title = "Kellner beim DRV Wanderrudertreffen 2012"
-src = "images/Kellner_beim_DRV_Wanderrudertreffen_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- erne
+images:
+- src: images/Winsauerpreis_Gruppe_C_an_den_RC_KST_2012.jpg
+  title: Winsauerpreis Gruppe C an den RC KST 2012
+- src: images/LingLing_im_neuen_Baumgarten_Dreier_DRV_WRT_2012.jpg
+  title: LingLing im neuen Baumgarten Dreier DRV WRT 2012
+- src: images/Inrigger_3_mit_Wingausleger_2012.jpg
+  title: Inrigger 3 mit Wingausleger 2012
+- src: images/Kellner_beim_DRV_Wanderrudertreffen_2012.jpg
+  title: Kellner beim DRV Wanderrudertreffen 2012
+länder:
+- deutschland
+title: DRV Winsauerpreis 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

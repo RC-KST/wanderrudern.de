@@ -1,55 +1,44 @@
-+++
-title = "Warnow 09"
-author = ""
-date = 2009-06-06T01:00:00+02:00
-begin = "2009-06-01"
-"gewässer" = ["spree", "ostsee", "warnow"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Startplatz bei Warnow 09"
-src = "images/Startplatz_bei_Warnow_09.jpg"
-[[images]]
-title = "Start bei Warnow 09"
-src = "images/Start_bei_Warnow_09.jpg"
-[[images]]
-title = "Uwe im Ruderboot Wa09"
-src = "images/Uwe_im_Ruderboot_Wa09.jpg"
-[[images]]
-title = "Jörg am, Steg in Rostock 09"
-src = "images/Jorg_am__Steg_in_Rostock_09.jpg"
-[[images]]
-title = "Oberlauf der Warnow 09"
-src = "images/Oberlauf_der_Warnow_09.jpg"
-[[images]]
-title = "Warnow kurz vor Rostock 0902"
-src = "images/Warnow_kurz_vor_Rostock_0902.jpg"
-[[images]]
-title = "Lisa auf dem Bootssteg 09"
-src = "images/Lisa_auf_dem_Bootssteg_09.jpg"
-[[images]]
-title = "Grillen in Rostock 09"
-src = "images/Grillen_in_Rostock_09.jpg"
-[[images]]
-title = "Ruderboot im Rostocker Hafen 09"
-src = "images/Ruderboot_im_Rostocker_Hafen_09.jpg"
-[[images]]
-title = "Kurz vor Warnemuende 09"
-src = "images/Kurz_vor_Warnemuende_09.jpg"
-[[images]]
-title = "Kreuzfahrer Warnemuende 09"
-src = "images/Kreuzfahrer_Warnemuende_09.jpg"
-[[images]]
-title = "Am Strand in Warnemuende 09"
-src = "images/Am_Strand_in_Warnemuende_09.jpg"
-[[images]]
-title = "Ruderboot vor der Neptun Werft 09"
-src = "images/Ruderboot_vor_der_Neptun_Werft_09.jpg"
-[[images]]
-title = "Ruderboot auf der Ostsee Warnemuende 09"
-src = "images/Ruderboot_auf_der_Ostsee_Warnemuende_09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-06-01"
+date: "2009-06-06T01:00:00+02:00"
+gewässer:
+- spree
+- ostsee
+- warnow
+images:
+- src: images/Startplatz_bei_Warnow_09.jpg
+  title: Startplatz bei Warnow 09
+- src: images/Start_bei_Warnow_09.jpg
+  title: Start bei Warnow 09
+- src: images/Uwe_im_Ruderboot_Wa09.jpg
+  title: Uwe im Ruderboot Wa09
+- src: images/Jorg_am__Steg_in_Rostock_09.jpg
+  title: Jörg am, Steg in Rostock 09
+- src: images/Oberlauf_der_Warnow_09.jpg
+  title: Oberlauf der Warnow 09
+- src: images/Warnow_kurz_vor_Rostock_0902.jpg
+  title: Warnow kurz vor Rostock 0902
+- src: images/Lisa_auf_dem_Bootssteg_09.jpg
+  title: Lisa auf dem Bootssteg 09
+- src: images/Grillen_in_Rostock_09.jpg
+  title: Grillen in Rostock 09
+- src: images/Ruderboot_im_Rostocker_Hafen_09.jpg
+  title: Ruderboot im Rostocker Hafen 09
+- src: images/Kurz_vor_Warnemuende_09.jpg
+  title: Kurz vor Warnemuende 09
+- src: images/Kreuzfahrer_Warnemuende_09.jpg
+  title: Kreuzfahrer Warnemuende 09
+- src: images/Am_Strand_in_Warnemuende_09.jpg
+  title: Am Strand in Warnemuende 09
+- src: images/Ruderboot_vor_der_Neptun_Werft_09.jpg
+  title: Ruderboot vor der Neptun Werft 09
+- src: images/Ruderboot_auf_der_Ostsee_Warnemuende_09.jpg
+  title: Ruderboot auf der Ostsee Warnemuende 09
+länder: []
+title: Warnow 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,52 +1,43 @@
-+++
-title = "Warthe 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["oder", "warthe"]
-"länder" = ["polen", "italien"]
-"typ" = "marathon"
-[[images]]
-title = "Abladen in Kolo 2014"
-src = "images/Abladen_in_Kolo_2014.jpg"
-[[images]]
-title = "Start in Kolo Ruderboot Warthe 2014"
-src = "images/Start_in_Kolo_Ruderboot_Warthe_2014.jpg"
-[[images]]
-title = "ruderboot auf der warthe kolo 2014"
-src = "images/ruderboot_auf_der_warthe_kolo_2014.jpg"
-[[images]]
-title = "auf der Warthe Auwald 2014"
-src = "images/auf_der_Warthe_Auwald_2014.jpg"
-[[images]]
-title = "Pyzdry Ruderboot auf der Warthe 2014"
-src = "images/Pyzdry_Ruderboot_auf_der_Warthe_20141.jpg"
-[[images]]
-title = "C-Vierer auf der Warthe 2014"
-src = "images/C-Vierer_auf_der_Warthe_2014.jpg"
-[[images]]
-title = "warthe bei hochwasser 2014"
-src = "images/warthe_bei_hochwasser_2014.jpg"
-[[images]]
-title = "johanna mit warthefaehre 2014"
-src = "images/johanna_mit_warthefaehre_2014.jpg"
-[[images]]
-title = "Ruderer auf der Warthe 2014"
-src = "images/Ruderer_auf_der_Warthe_2014.jpg"
-[[images]]
-title = "Stary zatom ruderer an der Warthe 2014"
-src = "images/Stary_zatom_ruderer_an_der_Warthe_2014.jpg"
-[[images]]
-title = "Vierer in Posen Warthe 2014"
-src = "images/Vierer_in_Posen_Warthe_2014.jpg"
-[[images]]
-title = "Ruderboote an der Warthe 2014"
-src = "images/Ruderboote_an_der_Warthe_2014.jpg"
-[[images]]
-title = "Aussetzstelle in Gorzow"
-src = "images/Aussetzstelle_in_Gorzow.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- warthe
+images:
+- src: images/Abladen_in_Kolo_2014.jpg
+  title: Abladen in Kolo 2014
+- src: images/Start_in_Kolo_Ruderboot_Warthe_2014.jpg
+  title: Start in Kolo Ruderboot Warthe 2014
+- src: images/ruderboot_auf_der_warthe_kolo_2014.jpg
+  title: ruderboot auf der warthe kolo 2014
+- src: images/auf_der_Warthe_Auwald_2014.jpg
+  title: auf der Warthe Auwald 2014
+- src: images/Pyzdry_Ruderboot_auf_der_Warthe_20141.jpg
+  title: Pyzdry Ruderboot auf der Warthe 2014
+- src: images/C-Vierer_auf_der_Warthe_2014.jpg
+  title: C-Vierer auf der Warthe 2014
+- src: images/warthe_bei_hochwasser_2014.jpg
+  title: warthe bei hochwasser 2014
+- src: images/johanna_mit_warthefaehre_2014.jpg
+  title: johanna mit warthefaehre 2014
+- src: images/Ruderer_auf_der_Warthe_2014.jpg
+  title: Ruderer auf der Warthe 2014
+- src: images/Stary_zatom_ruderer_an_der_Warthe_2014.jpg
+  title: Stary zatom ruderer an der Warthe 2014
+- src: images/Vierer_in_Posen_Warthe_2014.jpg
+  title: Vierer in Posen Warthe 2014
+- src: images/Ruderboote_an_der_Warthe_2014.jpg
+  title: Ruderboote an der Warthe 2014
+- src: images/Aussetzstelle_in_Gorzow.jpg
+  title: Aussetzstelle in Gorzow
+länder:
+- polen
+- italien
+title: Warthe 2014
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

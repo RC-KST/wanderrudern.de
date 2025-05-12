@@ -1,106 +1,80 @@
-+++
-title = "Wanderruderfahrt Prag-Hamburg Oktober 2006"
-author = ""
-date = 2006-10-10T01:00:00+02:00
-begin = "2006-10-01"
-"gewässer" = ["aller", "elbe", "moldau", "bug"]
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Karlsbruecke_prag 06"
-src = "images/Karlsbruecke_prag_06.jpg"
-[[images]]
-title = "pulverturm prag 06"
-src = "images/pulverturm_prag_06.JPG"
-[[images]]
-title = "Prag dom 06"
-src = "images/Prag_dom_06.JPG"
-[[images]]
-title = "pesi zona 06"
-src = "images/pesi_zona_06.JPG"
-[[images]]
-title = "Ruderer auf der Karlsbruecke 06"
-src = "images/Ruderer_auf_der_Karlsbruecke_06.JPG"
-[[images]]
-title = "Parkbank in Prag 06"
-src = "images/Parkbank_in_Prag_06.JPG"
-[[images]]
-title = "Prag_panorama 06"
-src = "images/Prag_panorama_06.JPG"
-[[images]]
-title = "wachsoldaten prag"
-src = "images/wachsoldaten_prag.JPG"
-[[images]]
-title = "Steuermann auf der Moldau 06"
-src = "images/Steuermann_auf_der_Moldau_06.JPG"
-[[images]]
-title = "Ruderboot auf der Moldau 06"
-src = "images/Ruderboot_auf_der_Moldau_06.JPG"
-[[images]]
-title = "Rudern auf der Moldau 06"
-src = "images/Rudern_auf_der_Moldau_06.JPG"
-[[images]]
-title = "Moldauschleuse 06"
-src = "images/Moldauschleuse_06.JPG"
-[[images]]
-title = "Ruderer auf der Elbe beui Usti 06"
-src = "images/Ruderer_auf_der_Elbe_beui_Usti_06.JPG"
-[[images]]
-title = "Moritz vor Schleuse Usti 06"
-src = "images/Moritz_vor_Schleuse_Usti_06.JPG"
-[[images]]
-title = "Ruderboot auf der Elbe bei Usti 06"
-src = "images/Ruderboot_auf_der_Elbe_bei_Usti_06.JPG"
-[[images]]
-title = "Jens Sophie im Ruderboot auf der Elbe"
-src = "images/Jens_Sophie_im_Ruderboot_auf_der_Elbe.JPG"
-[[images]]
-title = "Ruderboote Elbe Timo Sophie 06"
-src = "images/Ruderboote_Elbe_Timo_Sophie_06.JPG"
-[[images]]
-title = "Ruderboot Elbe 06"
-src = "images/Ruderboot_Elbe_06.JPG"
-[[images]]
-title = "Pause im Ruderboot Elbe 06"
-src = "images/Pause_im_Ruderboot_Elbe_06.JPG"
-[[images]]
-title = "Ruderer am Elbestrand 06"
-src = "images/Ruderer_am_Elbestrand_06.JPG"
-[[images]]
-title = "Timo und Mr M 06"
-src = "images/Timo_und_Mr_M_06.JPG"
-[[images]]
-title = "Pause02"
-src = "images/Pause02.jpg"
-[[images]]
-title = "Uli im Ruderboot 06"
-src = "images/Uli_im_Ruderboot_06.JPG"
-[[images]]
-title = "Steuermann"
-src = "images/Steuermann.jpg"
-[[images]]
-title = "Speicherstadt Hamburg 06"
-src = "images/Speicherstadt_Hamburg_06.JPG"
-[[images]]
-title = "Rudervierer im Hamburger Hafen 06"
-src = "images/Rudervierer_im_Hamburger_Hafen_06.JPG"
-[[images]]
-title = "Bonzenviertel"
-src = "images/Bonzenviertel.jpg"
-[[images]]
-title = "Hamburger Schleuse mit Ruderboot 06"
-src = "images/Hamburger_Schleuse_mit_Ruderboot_06.JPG"
-[[images]]
-title = "Ruderer bei Hafenrundfahrt 06"
-src = "images/Ruderer_bei_Hafenrundfahrt_06.JPG"
-[[images]]
-title = "Containerfrachter im Dock 06"
-src = "images/Containerfrachter_im_Dock_06.JPG"
-[[images]]
-title = "Koenig der Loewen 06"
-src = "images/Koenig_der_Loewen_06.JPG"
-
-+++
+---
+author: ""
+begin: "2006-10-01"
+date: "2006-10-10T01:00:00+02:00"
+gewässer:
+- aller
+- elbe
+- moldau
+- bug
+images:
+- src: images/Karlsbruecke_prag_06.jpg
+  title: Karlsbruecke_prag 06
+- src: images/pulverturm_prag_06.JPG
+  title: pulverturm prag 06
+- src: images/Prag_dom_06.JPG
+  title: Prag dom 06
+- src: images/pesi_zona_06.JPG
+  title: pesi zona 06
+- src: images/Ruderer_auf_der_Karlsbruecke_06.JPG
+  title: Ruderer auf der Karlsbruecke 06
+- src: images/Parkbank_in_Prag_06.JPG
+  title: Parkbank in Prag 06
+- src: images/Prag_panorama_06.JPG
+  title: Prag_panorama 06
+- src: images/wachsoldaten_prag.JPG
+  title: wachsoldaten prag
+- src: images/Steuermann_auf_der_Moldau_06.JPG
+  title: Steuermann auf der Moldau 06
+- src: images/Ruderboot_auf_der_Moldau_06.JPG
+  title: Ruderboot auf der Moldau 06
+- src: images/Rudern_auf_der_Moldau_06.JPG
+  title: Rudern auf der Moldau 06
+- src: images/Moldauschleuse_06.JPG
+  title: Moldauschleuse 06
+- src: images/Ruderer_auf_der_Elbe_beui_Usti_06.JPG
+  title: Ruderer auf der Elbe beui Usti 06
+- src: images/Moritz_vor_Schleuse_Usti_06.JPG
+  title: Moritz vor Schleuse Usti 06
+- src: images/Ruderboot_auf_der_Elbe_bei_Usti_06.JPG
+  title: Ruderboot auf der Elbe bei Usti 06
+- src: images/Jens_Sophie_im_Ruderboot_auf_der_Elbe.JPG
+  title: Jens Sophie im Ruderboot auf der Elbe
+- src: images/Ruderboote_Elbe_Timo_Sophie_06.JPG
+  title: Ruderboote Elbe Timo Sophie 06
+- src: images/Ruderboot_Elbe_06.JPG
+  title: Ruderboot Elbe 06
+- src: images/Pause_im_Ruderboot_Elbe_06.JPG
+  title: Pause im Ruderboot Elbe 06
+- src: images/Ruderer_am_Elbestrand_06.JPG
+  title: Ruderer am Elbestrand 06
+- src: images/Timo_und_Mr_M_06.JPG
+  title: Timo und Mr M 06
+- src: images/Pause02.jpg
+  title: Pause02
+- src: images/Uli_im_Ruderboot_06.JPG
+  title: Uli im Ruderboot 06
+- src: images/Steuermann.jpg
+  title: Steuermann
+- src: images/Speicherstadt_Hamburg_06.JPG
+  title: Speicherstadt Hamburg 06
+- src: images/Rudervierer_im_Hamburger_Hafen_06.JPG
+  title: Rudervierer im Hamburger Hafen 06
+- src: images/Bonzenviertel.jpg
+  title: Bonzenviertel
+- src: images/Hamburger_Schleuse_mit_Ruderboot_06.JPG
+  title: Hamburger Schleuse mit Ruderboot 06
+- src: images/Ruderer_bei_Hafenrundfahrt_06.JPG
+  title: Ruderer bei Hafenrundfahrt 06
+- src: images/Containerfrachter_im_Dock_06.JPG
+  title: Containerfrachter im Dock 06
+- src: images/Koenig_der_Loewen_06.JPG
+  title: Koenig der Loewen 06
+länder:
+- tschechien
+title: Wanderruderfahrt Prag-Hamburg Oktober 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

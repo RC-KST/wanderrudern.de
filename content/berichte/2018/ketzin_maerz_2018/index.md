@@ -1,19 +1,19 @@
-+++
-title = "Ketzin Maerz 2018"
-author = ""
-date = 2018-03-03T01:00:00+02:00
-begin = "2018-03-01"
-"gewässer" = ["trebelsee", "wublitz"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Eiszapfen auf dem Sacrow Paretzer Kanal 2018"
-src = "images/Eiszapfen_auf_dem_Sacrow_Paretzer_Kanal_2018.jpg"
-[[images]]
-title = "Eiszapfen 2018"
-src = "images/Eiszapfen_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-03-01"
+date: "2018-03-03T01:00:00+02:00"
+gewässer:
+- trebelsee
+- wublitz
+images:
+- src: images/Eiszapfen_auf_dem_Sacrow_Paretzer_Kanal_2018.jpg
+  title: Eiszapfen auf dem Sacrow Paretzer Kanal 2018
+- src: images/Eiszapfen_2018.jpg
+  title: Eiszapfen 2018
+länder: []
+title: Ketzin Maerz 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

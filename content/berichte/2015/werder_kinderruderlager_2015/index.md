@@ -1,34 +1,30 @@
-+++
-title = "Werder Kinderruderlager 2015"
-author = ""
-date = 2015-06-06T01:00:00+02:00
-begin = "2015-06-01"
-"gewässer" = ["zernsee", "schlänitzsee", "wublitz"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Badepause bei Hermannswerder Werder 2015"
-src = "images/Badepause_bei_Hermannswerder_Werder_2015.jpg"
-[[images]]
-title = "Anlegen in Ketzin Werder 2015"
-src = "images/Anlegen_in_Ketzin_Werder_2015.jpg"
-[[images]]
-title = "Eisbecher im Redo Werder 2015"
-src = "images/Eisbecher_im_Redo_Werder_2015.jpg"
-[[images]]
-title = "Anlegenstelle Ketzin Werder 2015"
-src = "images/Anlegenstelle_Ketzin_Werder_2015.jpg"
-[[images]]
-title = "Essen im Redo Werder 2015"
-src = "images/Essen_im_Redo_Werder_2015.jpg"
-[[images]]
-title = "Kinderboot Werder 2015"
-src = "images/Kinderboot_Werder_2015.jpg"
-[[images]]
-title = "Badepause Potsdam Werder 2015"
-src = "images/Badepause_Potsdam_Werder_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-06-01"
+date: "2015-06-06T01:00:00+02:00"
+gewässer:
+- zernsee
+- schlänitzsee
+- wublitz
+images:
+- src: images/Badepause_bei_Hermannswerder_Werder_2015.jpg
+  title: Badepause bei Hermannswerder Werder 2015
+- src: images/Anlegen_in_Ketzin_Werder_2015.jpg
+  title: Anlegen in Ketzin Werder 2015
+- src: images/Eisbecher_im_Redo_Werder_2015.jpg
+  title: Eisbecher im Redo Werder 2015
+- src: images/Anlegenstelle_Ketzin_Werder_2015.jpg
+  title: Anlegenstelle Ketzin Werder 2015
+- src: images/Essen_im_Redo_Werder_2015.jpg
+  title: Essen im Redo Werder 2015
+- src: images/Kinderboot_Werder_2015.jpg
+  title: Kinderboot Werder 2015
+- src: images/Badepause_Potsdam_Werder_2015.jpg
+  title: Badepause Potsdam Werder 2015
+länder: []
+title: Werder Kinderruderlager 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

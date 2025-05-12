@@ -1,25 +1,25 @@
-+++
-title = "Wiking 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["havel", "spree", "wannsee", "pielisjoki"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rebecca Teltowkanal Wiking 2012"
-src = "images/Rebecca_Teltowkanal_Wiking_2012.jpg"
-[[images]]
-title = "Ruderboot vor dem Urbanhafen Kreuzberg Wiking 2012"
-src = "images/Ruderboot_vor_dem_Urbanhafen_Kreuzberg_Wiking_2012.jpg"
-[[images]]
-title = "Neukoellner Schleuse Wiking 2012"
-src = "images/Neukoellner_Schleuse_Wiking_2012.jpg"
-[[images]]
-title = "Wiking Fahrer des RC KST 2012"
-src = "images/Wiking_Fahrer_des_RC_KST_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+- wannsee
+- pielisjoki
+images:
+- src: images/Rebecca_Teltowkanal_Wiking_2012.jpg
+  title: Rebecca Teltowkanal Wiking 2012
+- src: images/Ruderboot_vor_dem_Urbanhafen_Kreuzberg_Wiking_2012.jpg
+  title: Ruderboot vor dem Urbanhafen Kreuzberg Wiking 2012
+- src: images/Neukoellner_Schleuse_Wiking_2012.jpg
+  title: Neukoellner Schleuse Wiking 2012
+- src: images/Wiking_Fahrer_des_RC_KST_2012.jpg
+  title: Wiking Fahrer des RC KST 2012
+länder: []
+title: Wiking 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

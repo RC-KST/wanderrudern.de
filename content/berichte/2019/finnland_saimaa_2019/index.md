@@ -1,259 +1,184 @@
-+++
-title = "Finnland Saimaa 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["inn", "oder", "saimaa", "haukivesi", "kallavesi"]
-"länder" = ["finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rostock Faehrhafen 2019"
-src = "images/Rostock_Faehrhafen_2019.jpg"
-[[images]]
-title = "Stena Line Rostock 2019"
-src = "images/Stena_Line_Rostock_2019.jpg"
-[[images]]
-title = "Vasa Museum Stockholm 2019"
-src = "images/Vasa_Museum_Stockholm_2019.jpg"
-[[images]]
-title = "Elche im Skansen 2019"
-src = "images/Elche_im_Skansen_2019.jpg"
-[[images]]
-title = "Rosengarten Skansen 2019"
-src = "images/Rosengarten_Skansen_2019.jpg"
-[[images]]
-title = "Uli im Skansen 2091"
-src = "images/Uli_im_Skansen_2091.jpg"
-[[images]]
-title = "U Bahn Stockholm 2019"
-src = "images/U_Bahn_Stockholm_2019.jpg"
-[[images]]
-title = "Ruderer Stadthuset Stockholm 2019"
-src = "images/Ruderer_Stadthuset_Stockholm_2019.jpg"
-[[images]]
-title = "Blick auf Riddarholmen Stockholm 2019"
-src = "images/Blick_auf_Riddarholmen_Stockholm_2019.jpg"
-[[images]]
-title = "Stockholm Schloss Ruderer 2019"
-src = "images/Stockholm_Schloss_Ruderer_2019.jpg"
-[[images]]
-title = "Stockholemer Schaeren 2019"
-src = "images/Stockholemer_Schaeren_2019.jpg"
-[[images]]
-title = "Bugblick Siljaline Stockholm 2019"
-src = "images/Bugblick_Siljaline_Stockholm_2019.jpg"
-[[images]]
-title = "Aland Insel bei Sonnenuntergang 2019"
-src = "images/Aland_Insel_bei_Sonnenuntergang_2019.jpg"
-[[images]]
-title = "Family Kabine Silja Serenade 2019"
-src = "images/Family_Kabine_Silja_Serenade_2019.jpg"
-[[images]]
-title = "Abendessen Silja Line 2019"
-src = "images/Abendessen_Silja_Line_2019.jpg"
-[[images]]
-title = "Mitternachtsshow Sijaline 2019"
-src = "images/Mitternachtsshow_Sijaline_2019.jpg"
-[[images]]
-title = "Ankunft in Helsinki 2019"
-src = "images/Ankunft_in_Helsinki_2019.jpg"
-[[images]]
-title = "Ruderboote Puumala Campingplatz 2019"
-src = "images/Ruderboote_Puumala_Campingplatz_2019.jpg"
-[[images]]
-title = "Heckbar Silja Serenade 2019"
-src = "images/Heckbar_Silja_Serenade_2019.jpg"
-[[images]]
-title = "Marieham Aland Inseln 2019"
-src = "images/Marieham_Aland_Inseln_2019.jpg"
-[[images]]
-title = "Bugraum mit Lebensmitteln 2019"
-src = "images/Bugraum_mit_Lebensmitteln_2019.jpg"
-[[images]]
-title = "Johanna mit Erich 2019"
-src = "images/Johanna_mit_Erich_2019.jpg"
-[[images]]
-title = "Gepaeck fuer 19 Rudertage in die Boote 2019"
-src = "images/Gepaeck_fuer_19_Rudertage_in_die_Boote_2019.jpg"
-[[images]]
-title = "Uli vor der Huette Puumala 2019"
-src = "images/Uli_vor_der_Huette_Puumala_2019.jpg"
-[[images]]
-title = "Maria vor der Huette Puumala 2019"
-src = "images/Maria_vor_der_Huette_Puumala_2019.jpg"
-[[images]]
-title = "Ruderstadion Sulkava 2019"
-src = "images/Ruderstadion_Sulkava_2019.jpg"
-[[images]]
-title = "die Boote schwimmen wirklich 2019"
-src = "images/die_Boote_schwimmen_wirklich_2019.jpg"
-[[images]]
-title = "Baumgarten E-Zweier auf dem Saimaa 2019"
-src = "images/Baumgarten_E-Zweier_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Ruderboote am Start Puumala 2019"
-src = "images/Ruderboote_am_Start_Puumala_2019.jpg"
-[[images]]
-title = "Johanna auf dem Saimaa 2019"
-src = "images/Johanna_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "vor dem Ruderstadion 2019"
-src = "images/vor_dem_Ruderstadion_2019.jpg"
-[[images]]
-title = "Abendessen in Sulkava 2019"
-src = "images/Abendessen_in_Sulkava_2019.jpg"
-[[images]]
-title = "Zelte auf der Terasse aufbauen Sulkava 2019"
-src = "images/Zelte_auf_der_Terasse_aufbauen_Sulkava_2019.jpg"
-[[images]]
-title = "Til Felix auf dem Saimaa 2019"
-src = "images/Til_Felix_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "wir nehmen die Abkuerzung Saimaa 2019"
-src = "images/wir_nehmen_die_Abkuerzung_Saimaa_2019.jpg"
-[[images]]
-title = "KOchen in Savonlinna 2019"
-src = "images/KOchen_in_Savonlinna_2019.jpg"
-[[images]]
-title = "Steg in Savonlinna 2019"
-src = "images/Steg_in_Savonlinna_2019.jpg"
-[[images]]
-title = "Turmblick Olavlinna 2019"
-src = "images/Turmblick_Olavlinna_2019.jpg"
-[[images]]
-title = "Ruderer bei der Burgbesichtigung 2019"
-src = "images/Ruderer_bei_der_Burgbesichtigung_2019.jpg"
-[[images]]
-title = "Ruderer auf dem Wachturm 2019"
-src = "images/Ruderer_auf_dem_Wachturm_2019.jpg"
-[[images]]
-title = "Ruderer Burg Olavlinna 2019"
-src = "images/Ruderer_Burg_Olavlinna_2019.jpg"
-[[images]]
-title = "Isabel mit Spielzeug 2019"
-src = "images/Isabel_mit_Spielzeug_2019.jpg"
-[[images]]
-title = "Jo beim Tafeln 2019"
-src = "images/Jo_beim_Tafeln_2019.jpg"
-[[images]]
-title = "bereit zum pluendern 2019"
-src = "images/bereit_zum_pluendern_2019.jpg"
-[[images]]
-title = "VL hat schlagende Argumente 2019"
-src = "images/VL_hat_schlagende_Argumente_2019.jpg"
-[[images]]
-title = "auch mit Schildmaid 2019"
-src = "images/auch_mit_Schildmaid_2019.jpg"
-[[images]]
-title = "Rudern im Olavlinna 2019"
-src = "images/Rudern_im_Olavlinna_2019.jpg"
-[[images]]
-title = "Olavlinna vom Wasser 2019"
-src = "images/Olavlinna_vom_Wasser_2019.jpg"
-[[images]]
-title = "Saimaa auf dem Saimaa 2019"
-src = "images/Saimaa_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Einsame Insel im Nationalpark 2019"
-src = "images/Einsame_Insel_im_Nationalpark_2019.jpg"
-[[images]]
-title = "Isabel Max auf dem Saimaa 2019"
-src = "images/Isabel_Max_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Ruderboote auf dem Saimaa 2019"
-src = "images/Ruderboote_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Badende Saimaa 2019"
-src = "images/Badende_Saimaa_2019.jpg"
-[[images]]
-title = "Lagerfeuer auf einsamer Insel 2019"
-src = "images/Lagerfeuer_auf_einsamer_Insel_2019.jpg"
-[[images]]
-title = "Johanna beim Fruehstueck 2019"
-src = "images/Johanna_beim_Fruehstueck_2019.jpg"
-[[images]]
-title = "Til der Feuerwaechter 2019"
-src = "images/Til_der_Feuerwaechter_2019.jpg"
-[[images]]
-title = "Im Nationalpark Saimaa 2019"
-src = "images/Im_Nationalpark_Saimaa_2019.jpg"
-[[images]]
-title = "endlose Inseln auf dem Saimaa 2019"
-src = "images/endlose_Inseln_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Badebucht einsame Insel 2019"
-src = "images/Badebucht_einsame_Insel_2019.jpg"
-[[images]]
-title = "Gepaecktransporter auf dem Saimaa 2019"
-src = "images/Gepaecktransporter_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Boote sind ausgeladen einsame Insel 2019"
-src = "images/Boote_sind_ausgeladen_einsame_Insel_2019.jpg"
-[[images]]
-title = "Abendessen Senatsreserve 2019"
-src = "images/Abendessen_Senatsreserve_2019.jpg"
-[[images]]
-title = "Abendessen einsame Insel 2019"
-src = "images/Abendessen_einsame_Insel_2019.jpg"
-[[images]]
-title = "Kleine Meerjungfrau auf finnisch 2019"
-src = "images/Kleine_Meerjungfrau_auf_finnisch_2019.jpg"
-[[images]]
-title = "Zelte aufbauen einsame Insel 2019"
-src = "images/Zelte_aufbauen_einsame_Insel_2019.jpg"
-[[images]]
-title = "Johanna Holzhacken 2019"
-src = "images/Johanna_Holzhacken_2019.jpg"
-[[images]]
-title = "Girlies auf dem Saimaa 2019"
-src = "images/Girlies_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "nein wir sind nicht etwas hyperaktiv 2019"
-src = "images/nein_wir_sind_nicht_etwas_hyperaktiv_2019.jpg"
-[[images]]
-title = "Schleuse Varkaus macht einfach das Tor auf 2019"
-src = "images/Schleuse_Varkaus_macht_einfach_das_Tor_auf_2019.jpg"
-[[images]]
-title = "Betten bauen in Konnus 2019"
-src = "images/Betten_bauen_in_Konnus_2019.jpg"
-[[images]]
-title = "Johanna mit Kuemo 2019"
-src = "images/Johanna_mit_Kuemo_2019.jpg"
-[[images]]
-title = "man beachte das wandernde Zelt 2019"
-src = "images/man_beachte_das_wandernde_Zelt_2019.jpg"
-[[images]]
-title = "Schleusenidylle Saimaa 2019"
-src = "images/Schleusenidylle_Saimaa_2019.jpg"
-[[images]]
-title = "Campingplatz Kuopio 2019"
-src = "images/Campingplatz_Kuopio_2019.jpg"
-[[images]]
-title = "die Seen werden etwas groesser 2019"
-src = "images/die_Seen_werden_etwas_groesser_2019.jpg"
-[[images]]
-title = "auf dem Weg nach Kuopio 2019"
-src = "images/auf_dem_Weg_nach_Kuopio_2019.jpg"
-[[images]]
-title = "der steg war eher fuer yachten gedacht Kuopio 2019"
-src = "images/der_steg_war_eher_fuer_yachten_gedacht_Kuopio_2019.jpg"
-[[images]]
-title = "Blick vom Puijo 2019"
-src = "images/Blick_vom_Puijo_2019.jpg"
-[[images]]
-title = "Eis essen auf dem hohen Berg 2019"
-src = "images/Eis_essen_auf_dem_hohen_Berg_2019.jpg"
-[[images]]
-title = "Frauenpower beim Gepaecktransport 2019"
-src = "images/Frauenpower_beim_Gepaecktransport_2019.jpg"
-[[images]]
-title = "Ruderer auf dem Puijo 2019"
-src = "images/Ruderer_auf_dem_Puijo_2019.jpg"
-[[images]]
-title = "Abendessen Sillinjaervi 2019"
-src = "images/Abendessen_Sillinjaervi_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- oder
+- saimaa
+- haukivesi
+- kallavesi
+images:
+- src: images/Rostock_Faehrhafen_2019.jpg
+  title: Rostock Faehrhafen 2019
+- src: images/Stena_Line_Rostock_2019.jpg
+  title: Stena Line Rostock 2019
+- src: images/Vasa_Museum_Stockholm_2019.jpg
+  title: Vasa Museum Stockholm 2019
+- src: images/Elche_im_Skansen_2019.jpg
+  title: Elche im Skansen 2019
+- src: images/Rosengarten_Skansen_2019.jpg
+  title: Rosengarten Skansen 2019
+- src: images/Uli_im_Skansen_2091.jpg
+  title: Uli im Skansen 2091
+- src: images/U_Bahn_Stockholm_2019.jpg
+  title: U Bahn Stockholm 2019
+- src: images/Ruderer_Stadthuset_Stockholm_2019.jpg
+  title: Ruderer Stadthuset Stockholm 2019
+- src: images/Blick_auf_Riddarholmen_Stockholm_2019.jpg
+  title: Blick auf Riddarholmen Stockholm 2019
+- src: images/Stockholm_Schloss_Ruderer_2019.jpg
+  title: Stockholm Schloss Ruderer 2019
+- src: images/Stockholemer_Schaeren_2019.jpg
+  title: Stockholemer Schaeren 2019
+- src: images/Bugblick_Siljaline_Stockholm_2019.jpg
+  title: Bugblick Siljaline Stockholm 2019
+- src: images/Aland_Insel_bei_Sonnenuntergang_2019.jpg
+  title: Aland Insel bei Sonnenuntergang 2019
+- src: images/Family_Kabine_Silja_Serenade_2019.jpg
+  title: Family Kabine Silja Serenade 2019
+- src: images/Abendessen_Silja_Line_2019.jpg
+  title: Abendessen Silja Line 2019
+- src: images/Mitternachtsshow_Sijaline_2019.jpg
+  title: Mitternachtsshow Sijaline 2019
+- src: images/Ankunft_in_Helsinki_2019.jpg
+  title: Ankunft in Helsinki 2019
+- src: images/Ruderboote_Puumala_Campingplatz_2019.jpg
+  title: Ruderboote Puumala Campingplatz 2019
+- src: images/Heckbar_Silja_Serenade_2019.jpg
+  title: Heckbar Silja Serenade 2019
+- src: images/Marieham_Aland_Inseln_2019.jpg
+  title: Marieham Aland Inseln 2019
+- src: images/Bugraum_mit_Lebensmitteln_2019.jpg
+  title: Bugraum mit Lebensmitteln 2019
+- src: images/Johanna_mit_Erich_2019.jpg
+  title: Johanna mit Erich 2019
+- src: images/Gepaeck_fuer_19_Rudertage_in_die_Boote_2019.jpg
+  title: Gepaeck fuer 19 Rudertage in die Boote 2019
+- src: images/Uli_vor_der_Huette_Puumala_2019.jpg
+  title: Uli vor der Huette Puumala 2019
+- src: images/Maria_vor_der_Huette_Puumala_2019.jpg
+  title: Maria vor der Huette Puumala 2019
+- src: images/Ruderstadion_Sulkava_2019.jpg
+  title: Ruderstadion Sulkava 2019
+- src: images/die_Boote_schwimmen_wirklich_2019.jpg
+  title: die Boote schwimmen wirklich 2019
+- src: images/Baumgarten_E-Zweier_auf_dem_Saimaa_2019.jpg
+  title: Baumgarten E-Zweier auf dem Saimaa 2019
+- src: images/Ruderboote_am_Start_Puumala_2019.jpg
+  title: Ruderboote am Start Puumala 2019
+- src: images/Johanna_auf_dem_Saimaa_2019.jpg
+  title: Johanna auf dem Saimaa 2019
+- src: images/vor_dem_Ruderstadion_2019.jpg
+  title: vor dem Ruderstadion 2019
+- src: images/Abendessen_in_Sulkava_2019.jpg
+  title: Abendessen in Sulkava 2019
+- src: images/Zelte_auf_der_Terasse_aufbauen_Sulkava_2019.jpg
+  title: Zelte auf der Terasse aufbauen Sulkava 2019
+- src: images/Til_Felix_auf_dem_Saimaa_2019.jpg
+  title: Til Felix auf dem Saimaa 2019
+- src: images/wir_nehmen_die_Abkuerzung_Saimaa_2019.jpg
+  title: wir nehmen die Abkuerzung Saimaa 2019
+- src: images/KOchen_in_Savonlinna_2019.jpg
+  title: KOchen in Savonlinna 2019
+- src: images/Steg_in_Savonlinna_2019.jpg
+  title: Steg in Savonlinna 2019
+- src: images/Turmblick_Olavlinna_2019.jpg
+  title: Turmblick Olavlinna 2019
+- src: images/Ruderer_bei_der_Burgbesichtigung_2019.jpg
+  title: Ruderer bei der Burgbesichtigung 2019
+- src: images/Ruderer_auf_dem_Wachturm_2019.jpg
+  title: Ruderer auf dem Wachturm 2019
+- src: images/Ruderer_Burg_Olavlinna_2019.jpg
+  title: Ruderer Burg Olavlinna 2019
+- src: images/Isabel_mit_Spielzeug_2019.jpg
+  title: Isabel mit Spielzeug 2019
+- src: images/Jo_beim_Tafeln_2019.jpg
+  title: Jo beim Tafeln 2019
+- src: images/bereit_zum_pluendern_2019.jpg
+  title: bereit zum pluendern 2019
+- src: images/VL_hat_schlagende_Argumente_2019.jpg
+  title: VL hat schlagende Argumente 2019
+- src: images/auch_mit_Schildmaid_2019.jpg
+  title: auch mit Schildmaid 2019
+- src: images/Rudern_im_Olavlinna_2019.jpg
+  title: Rudern im Olavlinna 2019
+- src: images/Olavlinna_vom_Wasser_2019.jpg
+  title: Olavlinna vom Wasser 2019
+- src: images/Saimaa_auf_dem_Saimaa_2019.jpg
+  title: Saimaa auf dem Saimaa 2019
+- src: images/Einsame_Insel_im_Nationalpark_2019.jpg
+  title: Einsame Insel im Nationalpark 2019
+- src: images/Isabel_Max_auf_dem_Saimaa_2019.jpg
+  title: Isabel Max auf dem Saimaa 2019
+- src: images/Ruderboote_auf_dem_Saimaa_2019.jpg
+  title: Ruderboote auf dem Saimaa 2019
+- src: images/Badende_Saimaa_2019.jpg
+  title: Badende Saimaa 2019
+- src: images/Lagerfeuer_auf_einsamer_Insel_2019.jpg
+  title: Lagerfeuer auf einsamer Insel 2019
+- src: images/Johanna_beim_Fruehstueck_2019.jpg
+  title: Johanna beim Fruehstueck 2019
+- src: images/Til_der_Feuerwaechter_2019.jpg
+  title: Til der Feuerwaechter 2019
+- src: images/Im_Nationalpark_Saimaa_2019.jpg
+  title: Im Nationalpark Saimaa 2019
+- src: images/endlose_Inseln_auf_dem_Saimaa_2019.jpg
+  title: endlose Inseln auf dem Saimaa 2019
+- src: images/Badebucht_einsame_Insel_2019.jpg
+  title: Badebucht einsame Insel 2019
+- src: images/Gepaecktransporter_auf_dem_Saimaa_2019.jpg
+  title: Gepaecktransporter auf dem Saimaa 2019
+- src: images/Boote_sind_ausgeladen_einsame_Insel_2019.jpg
+  title: Boote sind ausgeladen einsame Insel 2019
+- src: images/Abendessen_Senatsreserve_2019.jpg
+  title: Abendessen Senatsreserve 2019
+- src: images/Abendessen_einsame_Insel_2019.jpg
+  title: Abendessen einsame Insel 2019
+- src: images/Kleine_Meerjungfrau_auf_finnisch_2019.jpg
+  title: Kleine Meerjungfrau auf finnisch 2019
+- src: images/Zelte_aufbauen_einsame_Insel_2019.jpg
+  title: Zelte aufbauen einsame Insel 2019
+- src: images/Johanna_Holzhacken_2019.jpg
+  title: Johanna Holzhacken 2019
+- src: images/Girlies_auf_dem_Saimaa_2019.jpg
+  title: Girlies auf dem Saimaa 2019
+- src: images/nein_wir_sind_nicht_etwas_hyperaktiv_2019.jpg
+  title: nein wir sind nicht etwas hyperaktiv 2019
+- src: images/Schleuse_Varkaus_macht_einfach_das_Tor_auf_2019.jpg
+  title: Schleuse Varkaus macht einfach das Tor auf 2019
+- src: images/Betten_bauen_in_Konnus_2019.jpg
+  title: Betten bauen in Konnus 2019
+- src: images/Johanna_mit_Kuemo_2019.jpg
+  title: Johanna mit Kuemo 2019
+- src: images/man_beachte_das_wandernde_Zelt_2019.jpg
+  title: man beachte das wandernde Zelt 2019
+- src: images/Schleusenidylle_Saimaa_2019.jpg
+  title: Schleusenidylle Saimaa 2019
+- src: images/Campingplatz_Kuopio_2019.jpg
+  title: Campingplatz Kuopio 2019
+- src: images/die_Seen_werden_etwas_groesser_2019.jpg
+  title: die Seen werden etwas groesser 2019
+- src: images/auf_dem_Weg_nach_Kuopio_2019.jpg
+  title: auf dem Weg nach Kuopio 2019
+- src: images/der_steg_war_eher_fuer_yachten_gedacht_Kuopio_2019.jpg
+  title: der steg war eher fuer yachten gedacht Kuopio 2019
+- src: images/Blick_vom_Puijo_2019.jpg
+  title: Blick vom Puijo 2019
+- src: images/Eis_essen_auf_dem_hohen_Berg_2019.jpg
+  title: Eis essen auf dem hohen Berg 2019
+- src: images/Frauenpower_beim_Gepaecktransport_2019.jpg
+  title: Frauenpower beim Gepaecktransport 2019
+- src: images/Ruderer_auf_dem_Puijo_2019.jpg
+  title: Ruderer auf dem Puijo 2019
+- src: images/Abendessen_Sillinjaervi_2019.jpg
+  title: Abendessen Sillinjaervi 2019
+länder:
+- finnland
+- schweden
+title: Finnland Saimaa 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

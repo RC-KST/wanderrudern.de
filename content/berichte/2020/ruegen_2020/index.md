@@ -1,67 +1,54 @@
-+++
-title = "Ruegen 2020"
-author = ""
-date = 2020-09-09T01:00:00+02:00
-begin = "2020-09-01"
-"gewässer" = ["ostsee", "rügen", "hiddensee", "bug"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Suhrendorf Ablegen der Inrigger Ruegen 2020"
-src = "images/Suhrendorf_Ablegen_der_Inrigger_Ruegen_2020.jpg"
-[[images]]
-title = "Hiddensee im Blick Ruegen 2020"
-src = "images/Hiddensee_im_Blick_Ruegen_2020.jpg"
-[[images]]
-title = "Inrigger in schwerer See Ruegen 2020"
-src = "images/Inrigger_in_schwerer_See_Ruegen_2020.jpg"
-[[images]]
-title = "Breege Seglerseg Ruegen 2020"
-src = "images/Breege_Seglerseg_Ruegen_2020.jpg"
-[[images]]
-title = "Aussteigen Breege Ruegen 2020"
-src = "images/Aussteigen_Breege_Ruegen_2020.jpg"
-[[images]]
-title = "Willkommen in Breege Ruegen 2020"
-src = "images/Willkommen_in_Breege_Ruegen_2020.jpg"
-[[images]]
-title = "Mittagspause Breege Ruegen 2020"
-src = "images/Mittagspause_Breege_Ruegen_2020.jpg"
-[[images]]
-title = "Breeger Bodden Ruderboot Ruegen 2020"
-src = "images/Breeger_Bodden_Ruderboot_Ruegen_2020.jpg"
-[[images]]
-title = "Abendessen NOHOTEL Dranske Ruegen 2020"
-src = "images/Abendessen_NOHOTEL_Dranske_Ruegen_2020.jpg"
-[[images]]
-title = "Aufstieg zum Leuchtturm von Hiddensee 2020"
-src = "images/Aufstieg_zum_Leuchtturm_von_Hiddensee_2020.jpg"
-[[images]]
-title = "Drei Inrigger Dranske Ruegen 2020"
-src = "images/Drei_Inrigger_Dranske_Ruegen_2020.jpg"
-[[images]]
-title = "Girlies auf Hiddensee 2020"
-src = "images/Girlies_auf_Hiddensee_2020.jpg"
-[[images]]
-title = "Hiddensee Leuchtturn 2020"
-src = "images/Hiddensee_Leuchtturn_2020.jpg"
-[[images]]
-title = "Ostseeblick Hiddensee 2020"
-src = "images/Ostseeblick_Hiddensee_2020.jpg"
-[[images]]
-title = "Regen auf Hiddensee 2020"
-src = "images/Regen_auf_Hiddensee_2020.jpg"
-[[images]]
-title = "Inrigger auf Hiddensee Ruegen 2020"
-src = "images/Inrigger_auf_Hiddensee_Ruegen_2020.jpg"
-[[images]]
-title = "Abfahrt von Kloster Hiddensee 2020"
-src = "images/Abfahrt_von_Kloster_Hiddensee_2020.jpg"
-[[images]]
-title = "Wellen bei Hiddensee 2020"
-src = "images/Wellen_bei_Hiddensee_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-09-01"
+date: "2020-09-09T01:00:00+02:00"
+gewässer:
+- ostsee
+- rügen
+- hiddensee
+- bug
+images:
+- src: images/Suhrendorf_Ablegen_der_Inrigger_Ruegen_2020.jpg
+  title: Suhrendorf Ablegen der Inrigger Ruegen 2020
+- src: images/Hiddensee_im_Blick_Ruegen_2020.jpg
+  title: Hiddensee im Blick Ruegen 2020
+- src: images/Inrigger_in_schwerer_See_Ruegen_2020.jpg
+  title: Inrigger in schwerer See Ruegen 2020
+- src: images/Breege_Seglerseg_Ruegen_2020.jpg
+  title: Breege Seglerseg Ruegen 2020
+- src: images/Aussteigen_Breege_Ruegen_2020.jpg
+  title: Aussteigen Breege Ruegen 2020
+- src: images/Willkommen_in_Breege_Ruegen_2020.jpg
+  title: Willkommen in Breege Ruegen 2020
+- src: images/Mittagspause_Breege_Ruegen_2020.jpg
+  title: Mittagspause Breege Ruegen 2020
+- src: images/Breeger_Bodden_Ruderboot_Ruegen_2020.jpg
+  title: Breeger Bodden Ruderboot Ruegen 2020
+- src: images/Abendessen_NOHOTEL_Dranske_Ruegen_2020.jpg
+  title: Abendessen NOHOTEL Dranske Ruegen 2020
+- src: images/Aufstieg_zum_Leuchtturm_von_Hiddensee_2020.jpg
+  title: Aufstieg zum Leuchtturm von Hiddensee 2020
+- src: images/Drei_Inrigger_Dranske_Ruegen_2020.jpg
+  title: Drei Inrigger Dranske Ruegen 2020
+- src: images/Girlies_auf_Hiddensee_2020.jpg
+  title: Girlies auf Hiddensee 2020
+- src: images/Hiddensee_Leuchtturn_2020.jpg
+  title: Hiddensee Leuchtturn 2020
+- src: images/Ostseeblick_Hiddensee_2020.jpg
+  title: Ostseeblick Hiddensee 2020
+- src: images/Regen_auf_Hiddensee_2020.jpg
+  title: Regen auf Hiddensee 2020
+- src: images/Inrigger_auf_Hiddensee_Ruegen_2020.jpg
+  title: Inrigger auf Hiddensee Ruegen 2020
+- src: images/Abfahrt_von_Kloster_Hiddensee_2020.jpg
+  title: Abfahrt von Kloster Hiddensee 2020
+- src: images/Wellen_bei_Hiddensee_2020.jpg
+  title: Wellen bei Hiddensee 2020
+länder:
+- finnland
+title: Ruegen 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

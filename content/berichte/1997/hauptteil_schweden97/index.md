@@ -1,67 +1,52 @@
-+++
-title = "Schweden 1997 Dalsland und Götakanal"
-author = ""
-date = 1997-01-01T01:00:00+02:00
-begin = "1997-01-01"
-"gewässer" = ["ostsee", "oder"]
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "dalsed benedikt ruderboot"
-src = "images/dalsed_benedikt.jpg"
-[[images]]
-title = "flachwasser Ruderboote kau"
-src = "images/flachwasser.jpg"
-[[images]]
-title = "Schleuse Dalslandkanal Ruderer "
-src = "images/schwed97_schleuse.jpg"
-[[images]]
-title = "Ruder-Zweier mitten auf dem Vänern"
-src = "images/vaenern.jpg"
-[[images]]
-title = "sprudelnde Schleuse Ruderer"
-src = "images/schwed97_schleuse_wildwasser.jpg"
-[[images]]
-title = "Schweden zeltplatz felsen ruderer"
-src = "images/schwed97_zeltplatz_felsen.jpg"
-[[images]]
-title = "stockholm_rc"
-src = "images/stockholm_rc.jpg"
-[[images]]
-title = "schweden zelte ruderinnen "
-src = "images/schwed97_zelte.jpg"
-[[images]]
-title = "stefan auf der Ostsee im Ruderboot"
-src = "images/schwed97_stefan.jpg"
-[[images]]
-title = "kai vor Brücke dalslandkanal"
-src = "images/kai_sommer97.jpg"
-[[images]]
-title = "aquädukt haverud"
-src = "images/aquadukt.jpg"
-[[images]]
-title = "schleuse festhalten ruderboot mit Leinen"
-src = "images/schwed97_schleuse_peter.jpg"
-[[images]]
-title = "Ruderboot am Strand des Vänern"
-src = "images/vaenern_strand.jpg"
-[[images]]
-title = "golfplatz götakanal"
-src = "images/golfplatz.jpg"
-[[images]]
-title = "Schweden klettern verboten"
-src = "images/schwed97_klettern_verboten.jpg"
-[[images]]
-title = "erik segelt auf der ostsee im Ruderboot"
-src = "images/erik_97.jpg"
-[[images]]
-title = "kerstin beim sonnenbaden"
-src = "images/kerstin.jpg"
-[[images]]
-title = "kai stockholm stadhuset ruderboot"
-src = "images/kai_stockholm.jpg"
-
-+++
+---
+author: ""
+begin: "1997-01-01"
+date: "1997-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+images:
+- src: images/dalsed_benedikt.jpg
+  title: dalsed benedikt ruderboot
+- src: images/flachwasser.jpg
+  title: flachwasser Ruderboote kau
+- src: images/schwed97_schleuse.jpg
+  title: 'Schleuse Dalslandkanal Ruderer '
+- src: images/vaenern.jpg
+  title: Ruder-Zweier mitten auf dem Vänern
+- src: images/schwed97_schleuse_wildwasser.jpg
+  title: sprudelnde Schleuse Ruderer
+- src: images/schwed97_zeltplatz_felsen.jpg
+  title: Schweden zeltplatz felsen ruderer
+- src: images/stockholm_rc.jpg
+  title: stockholm_rc
+- src: images/schwed97_zelte.jpg
+  title: 'schweden zelte ruderinnen '
+- src: images/schwed97_stefan.jpg
+  title: stefan auf der Ostsee im Ruderboot
+- src: images/kai_sommer97.jpg
+  title: kai vor Brücke dalslandkanal
+- src: images/aquadukt.jpg
+  title: aquädukt haverud
+- src: images/schwed97_schleuse_peter.jpg
+  title: schleuse festhalten ruderboot mit Leinen
+- src: images/vaenern_strand.jpg
+  title: Ruderboot am Strand des Vänern
+- src: images/golfplatz.jpg
+  title: golfplatz götakanal
+- src: images/schwed97_klettern_verboten.jpg
+  title: Schweden klettern verboten
+- src: images/erik_97.jpg
+  title: erik segelt auf der ostsee im Ruderboot
+- src: images/kerstin.jpg
+  title: kerstin beim sonnenbaden
+- src: images/kai_stockholm.jpg
+  title: kai stockholm stadhuset ruderboot
+länder:
+- schweden
+title: Schweden 1997 Dalsland und Götakanal
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

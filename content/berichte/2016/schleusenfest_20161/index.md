@@ -1,22 +1,19 @@
-+++
-title = "Schleusenfest 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleusenfest Kleinmachnow 2016 probe rudern"
-src = "images/Schleusenfest_Kleinmachnow_2016_probe_rudern.jpg"
-[[images]]
-title = "Schleusenfest Kleinmachnow 2016 Ruderboot"
-src = "images/Schleusenfest_Kleinmachnow_2016_Ruderboot.jpg"
-[[images]]
-title = "Schleusenfest Kleinmachnow 2016 Blaskapelle"
-src = "images/Schleusenfest_Kleinmachnow_2016_Blaskapelle.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Schleusenfest_Kleinmachnow_2016_probe_rudern.jpg
+  title: Schleusenfest Kleinmachnow 2016 probe rudern
+- src: images/Schleusenfest_Kleinmachnow_2016_Ruderboot.jpg
+  title: Schleusenfest Kleinmachnow 2016 Ruderboot
+- src: images/Schleusenfest_Kleinmachnow_2016_Blaskapelle.jpg
+  title: Schleusenfest Kleinmachnow 2016 Blaskapelle
+länder: []
+title: Schleusenfest 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

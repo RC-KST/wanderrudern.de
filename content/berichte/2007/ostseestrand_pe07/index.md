@@ -1,13 +1,14 @@
-+++
-title = "Peene Usedom 07"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["ostsee", "peene"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- peene
+länder: []
+title: Peene Usedom 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

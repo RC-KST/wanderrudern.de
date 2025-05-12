@@ -1,19 +1,17 @@
-+++
-title = "Schuelerrudern Kant 2016"
-author = ""
-date = 2016-09-09T01:00:00+02:00
-begin = "2016-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kant Schulrudern 2016 Teltowkanal"
-src = "images/Kant_Schulrudern_2016_Teltowkanal.jpg"
-[[images]]
-title = "Ruderausbildung Kant Gymnasium 2016"
-src = "images/Ruderausbildung_Kant_Gymnasium_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-09-01"
+date: "2016-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kant_Schulrudern_2016_Teltowkanal.jpg
+  title: Kant Schulrudern 2016 Teltowkanal
+- src: images/Ruderausbildung_Kant_Gymnasium_2016.jpg
+  title: Ruderausbildung Kant Gymnasium 2016
+länder: []
+title: Schuelerrudern Kant 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

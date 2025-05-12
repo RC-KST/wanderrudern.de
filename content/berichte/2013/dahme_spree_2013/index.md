@@ -1,46 +1,42 @@
-+++
-title = "Dahme Spree 2013"
-author = ""
-date = 2013-07-07T01:00:00+02:00
-begin = "2013-07-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "schwielochsee", "neuendorfer see", "köthener see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Teltowkanal in Tempelhof Dahme Spree 2013"
-src = "images/Teltowkanal_in_Tempelhof_Dahme_Spree_2013.jpg"
-[[images]]
-title = "LingLing auf der Dahme in Prieros Dahme Spree 2013"
-src = "images/LingLing_auf_der_Dahme_in_Prieros_Dahme_Spree_2013.jpg"
-[[images]]
-title = "Pause im Gewitterregen Dahme Spree 2013"
-src = "images/Pause_im_Gewitterregen_Dahme_Spree_2013.jpg"
-[[images]]
-title = "Zweier auf der Dahme Dahme Spree 2013"
-src = "images/Zweier_auf_der_Dahme_Dahme_Spree_2013.jpg"
-[[images]]
-title = "Maerkisch Buchholz Absturzwehr Dahme Spree 2013"
-src = "images/Maerkisch_Buchholz_Absturzwehr_Dahme_Spree_2013.jpg"
-[[images]]
-title = "Bootswagen Maerkisch Buchholz Dahme Spree 2013"
-src = "images/Bootswagen_Maerkisch_Buchholz_Dahme_Spree_2013.jpg"
-[[images]]
-title = "LingLing im Spreewald wo sind wir Dahme Spree 2013"
-src = "images/LingLing_im_Spreewald_wo_sind_wir_Dahme_Spree_2013.jpg"
-[[images]]
-title = "spreewaldgraben Dahme Spree 2013"
-src = "images/spreewaldgraben_Dahme_Spree_2013.jpg"
-[[images]]
-title = "Kinderspielplatz Spreewaldschleuse Dahme Spree 2013"
-src = "images/Kinderspielplatz_Spreewaldschleuse_Dahme_Spree_2013.jpg"
-[[images]]
-title = "Schafott Schleuse Spreewald Dahme Spree Umfahrt 2013"
-src = "images/Schafott_Schleuse_Spreewald_Dahme_Spree_Umfahrt_2013.jpg"
-[[images]]
-title = "Hannes beim staken Dahme Spree 2013"
-src = "images/Hannes_beim_staken_Dahme_Spree_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-07-01"
+date: "2013-07-07T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- schwielochsee
+- neuendorfer see
+- köthener see
+- oder
+images:
+- src: images/Teltowkanal_in_Tempelhof_Dahme_Spree_2013.jpg
+  title: Teltowkanal in Tempelhof Dahme Spree 2013
+- src: images/LingLing_auf_der_Dahme_in_Prieros_Dahme_Spree_2013.jpg
+  title: LingLing auf der Dahme in Prieros Dahme Spree 2013
+- src: images/Pause_im_Gewitterregen_Dahme_Spree_2013.jpg
+  title: Pause im Gewitterregen Dahme Spree 2013
+- src: images/Zweier_auf_der_Dahme_Dahme_Spree_2013.jpg
+  title: Zweier auf der Dahme Dahme Spree 2013
+- src: images/Maerkisch_Buchholz_Absturzwehr_Dahme_Spree_2013.jpg
+  title: Maerkisch Buchholz Absturzwehr Dahme Spree 2013
+- src: images/Bootswagen_Maerkisch_Buchholz_Dahme_Spree_2013.jpg
+  title: Bootswagen Maerkisch Buchholz Dahme Spree 2013
+- src: images/LingLing_im_Spreewald_wo_sind_wir_Dahme_Spree_2013.jpg
+  title: LingLing im Spreewald wo sind wir Dahme Spree 2013
+- src: images/spreewaldgraben_Dahme_Spree_2013.jpg
+  title: spreewaldgraben Dahme Spree 2013
+- src: images/Kinderspielplatz_Spreewaldschleuse_Dahme_Spree_2013.jpg
+  title: Kinderspielplatz Spreewaldschleuse Dahme Spree 2013
+- src: images/Schafott_Schleuse_Spreewald_Dahme_Spree_Umfahrt_2013.jpg
+  title: Schafott Schleuse Spreewald Dahme Spree Umfahrt 2013
+- src: images/Hannes_beim_staken_Dahme_Spree_2013.jpg
+  title: Hannes beim staken Dahme Spree 2013
+länder: []
+title: Dahme Spree 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

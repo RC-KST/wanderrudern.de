@@ -1,43 +1,35 @@
-+++
-title = "Wesermarathon 2015"
-author = ""
-date = 2015-05-05T01:00:00+02:00
-begin = "2015-05-01"
-"gewässer" = ["weser", "werra"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Erwachsenen Vierer Wesermarathon 2015"
-src = "images/Erwachsenen_Vierer_Wesermarathon_2015.jpg"
-[[images]]
-title = "Boote abladen in Creuzburg 2015"
-src = "images/Boote_abladen_in_Creuzburg_2015.jpg"
-[[images]]
-title = "Ruderboote Werra 2015"
-src = "images/Ruderboote_Werra_2015.jpg"
-[[images]]
-title = "Ruderer auf der Werra 2015"
-src = "images/Ruderer_auf_der_Werra_2015.jpg"
-[[images]]
-title = "Werra Umtrage 2015"
-src = "images/Werra_Umtrage_2015.jpg"
-[[images]]
-title = "Johanna Schleuse Eschwege 2015"
-src = "images/Johanna_Schleuse_Eschwege_2015.jpg"
-[[images]]
-title = "Ablegen vor dem Wehr Werra 2015"
-src = "images/Ablegen_vor_dem_Wehr_Werra_2015.jpg"
-[[images]]
-title = "Ruderer mit Kirschkoenigin 2015"
-src = "images/Ruderer_mit_Kirschkoenigin_2015.jpg"
-[[images]]
-title = "Wesermarathon 2015 kurz nach dem Start"
-src = "images/Wesermarathon_2015_kurz_nach_dem_Start.jpg"
-[[images]]
-title = "Flossgraben Werra 2015"
-src = "images/Flossgraben_Werra_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-05-01"
+date: "2015-05-05T01:00:00+02:00"
+gewässer:
+- weser
+- werra
+images:
+- src: images/Erwachsenen_Vierer_Wesermarathon_2015.jpg
+  title: Erwachsenen Vierer Wesermarathon 2015
+- src: images/Boote_abladen_in_Creuzburg_2015.jpg
+  title: Boote abladen in Creuzburg 2015
+- src: images/Ruderboote_Werra_2015.jpg
+  title: Ruderboote Werra 2015
+- src: images/Ruderer_auf_der_Werra_2015.jpg
+  title: Ruderer auf der Werra 2015
+- src: images/Werra_Umtrage_2015.jpg
+  title: Werra Umtrage 2015
+- src: images/Johanna_Schleuse_Eschwege_2015.jpg
+  title: Johanna Schleuse Eschwege 2015
+- src: images/Ablegen_vor_dem_Wehr_Werra_2015.jpg
+  title: Ablegen vor dem Wehr Werra 2015
+- src: images/Ruderer_mit_Kirschkoenigin_2015.jpg
+  title: Ruderer mit Kirschkoenigin 2015
+- src: images/Wesermarathon_2015_kurz_nach_dem_Start.jpg
+  title: Wesermarathon 2015 kurz nach dem Start
+- src: images/Flossgraben_Werra_2015.jpg
+  title: Flossgraben Werra 2015
+länder: []
+title: Wesermarathon 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,24 @@
-+++
-title = "Bericht Tag der offenen Tür 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "313"
-src = "images/313.jpg"
-[[images]]
-title = "Proberudern RC KST 2010"
-src = "images/Proberudern_RC_KST_2010.jpg"
-[[images]]
-title = "Anfaenger Ruderboot RC KST 2010"
-src = "images/Anfaenger_Ruderboot_RC_KST_2010.jpg"
-[[images]]
-title = "Proberudern an der Machnower Schleuse 2010"
-src = "images/Proberudern_an_der_Machnower_Schleuse_2010.jpg"
-[[images]]
-title = "Ruderclub Kleinmachnow Clubgelaende 2010"
-src = "images/Ruderclub_Kleinmachnow_Clubgelaende_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/313.jpg
+  title: "313"
+- src: images/Proberudern_RC_KST_2010.jpg
+  title: Proberudern RC KST 2010
+- src: images/Anfaenger_Ruderboot_RC_KST_2010.jpg
+  title: Anfaenger Ruderboot RC KST 2010
+- src: images/Proberudern_an_der_Machnower_Schleuse_2010.jpg
+  title: Proberudern an der Machnower Schleuse 2010
+- src: images/Ruderclub_Kleinmachnow_Clubgelaende_2010.jpg
+  title: Ruderclub Kleinmachnow Clubgelaende 2010
+länder: []
+title: Bericht Tag der offenen Tür 2010
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

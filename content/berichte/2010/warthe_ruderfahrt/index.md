@@ -1,46 +1,37 @@
-+++
-title = "Warthe Ruderfahrt"
-author = ""
-date = 2010-05-05T01:00:00+02:00
-begin = "2010-05-01"
-"gewässer" = ["warthe"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Nirina Chrishe rudern auf der Warthe 2010"
-src = "images/Nirina_Chrishe_rudern_auf_der_Warthe_2010.jpg"
-[[images]]
-title = "Ruderboot Warthe 2010"
-src = "images/Ruderboot_Warthe_2010.jpg"
-[[images]]
-title = "Seilfaehre Warthe 2010"
-src = "images/Seilfaehre_Warthe_2010.jpg"
-[[images]]
-title = "Jachthafen Pyzdry Warthe 2010"
-src = "images/Jachthafen_Pyzdry_Warthe_2010.jpg"
-[[images]]
-title = "Ruderer Warthe 2010"
-src = "images/Ruderer_Warthe_2010.jpg"
-[[images]]
-title = "Zweier auf der Warthe 2010"
-src = "images/Zweier_auf_der_Warthe_2010.jpg"
-[[images]]
-title = "Joerg und Barbara an der Warthe 2010"
-src = "images/Joerg_und_Barbara_an_der_Warthe_2010.jpg"
-[[images]]
-title = "Ruderer in Posen Warthe 2010"
-src = "images/Ruderer_in_Posen_Warthe_2010.jpg"
-[[images]]
-title = "Abriggern in Wronki Warthe 2010"
-src = "images/Abriggern_in_Wronki_Warthe_2010.jpg"
-[[images]]
-title = "Rathaus Posen Warthe 2010"
-src = "images/Rathaus_Posen_Warthe_2010.jpg"
-[[images]]
-title = "Ruderboot am Ufer der Warthe 2010"
-src = "images/Ruderboot_am_Ufer_der_Warthe_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-05-01"
+date: "2010-05-05T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Nirina_Chrishe_rudern_auf_der_Warthe_2010.jpg
+  title: Nirina Chrishe rudern auf der Warthe 2010
+- src: images/Ruderboot_Warthe_2010.jpg
+  title: Ruderboot Warthe 2010
+- src: images/Seilfaehre_Warthe_2010.jpg
+  title: Seilfaehre Warthe 2010
+- src: images/Jachthafen_Pyzdry_Warthe_2010.jpg
+  title: Jachthafen Pyzdry Warthe 2010
+- src: images/Ruderer_Warthe_2010.jpg
+  title: Ruderer Warthe 2010
+- src: images/Zweier_auf_der_Warthe_2010.jpg
+  title: Zweier auf der Warthe 2010
+- src: images/Joerg_und_Barbara_an_der_Warthe_2010.jpg
+  title: Joerg und Barbara an der Warthe 2010
+- src: images/Ruderer_in_Posen_Warthe_2010.jpg
+  title: Ruderer in Posen Warthe 2010
+- src: images/Abriggern_in_Wronki_Warthe_2010.jpg
+  title: Abriggern in Wronki Warthe 2010
+- src: images/Rathaus_Posen_Warthe_2010.jpg
+  title: Rathaus Posen Warthe 2010
+- src: images/Ruderboot_am_Ufer_der_Warthe_2010.jpg
+  title: Ruderboot am Ufer der Warthe 2010
+länder:
+- polen
+title: Warthe Ruderfahrt
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

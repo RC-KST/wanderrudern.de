@@ -1,31 +1,29 @@
-+++
-title = "Stahnsdorf - Schnackenburg Nov 2011"
-author = ""
-date = 2011-07-07T01:00:00+02:00
-begin = "2011-07-01"
-"gewässer" = ["elbe", "plauer see", "trebelsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Elbe Havel Kanal kurz vor Genthin Stahnsdorf Elbe 2011"
-src = "images/Elbe_Havel_Kanal_kurz_vor_Genthin_Stahnsdorf_Elbe_2011.jpg"
-[[images]]
-title = "Zweier Nirina Elina Stefan Stahnsdorf Elbe 2011"
-src = "images/Zweier_Nirina_Elina_Stefan_Stahnsdorf_Elbe_2011.jpg"
-[[images]]
-title = "Elbe Havel Kanal Genthin 2011"
-src = "images/Elbe_Havel_Kanal_Genthin_2011.jpg"
-[[images]]
-title = "Ruderboote in den Elbduenen 2011"
-src = "images/Ruderboote_in_den_Elbduenen_2011.jpg"
-[[images]]
-title = "Schnackenburg Ruderer am Ziel November 2011"
-src = "images/Schnackenburg_Ruderer_am_Ziel_November_2011.jpg"
-[[images]]
-title = "Aussichtsturm Schnackenburg November 2011"
-src = "images/Aussichtsturm_Schnackenburg_November_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-07-01"
+date: "2011-07-07T01:00:00+02:00"
+gewässer:
+- elbe
+- plauer see
+- trebelsee
+- oder
+images:
+- src: images/Elbe_Havel_Kanal_kurz_vor_Genthin_Stahnsdorf_Elbe_2011.jpg
+  title: Elbe Havel Kanal kurz vor Genthin Stahnsdorf Elbe 2011
+- src: images/Zweier_Nirina_Elina_Stefan_Stahnsdorf_Elbe_2011.jpg
+  title: Zweier Nirina Elina Stefan Stahnsdorf Elbe 2011
+- src: images/Elbe_Havel_Kanal_Genthin_2011.jpg
+  title: Elbe Havel Kanal Genthin 2011
+- src: images/Ruderboote_in_den_Elbduenen_2011.jpg
+  title: Ruderboote in den Elbduenen 2011
+- src: images/Schnackenburg_Ruderer_am_Ziel_November_2011.jpg
+  title: Schnackenburg Ruderer am Ziel November 2011
+- src: images/Aussichtsturm_Schnackenburg_November_2011.jpg
+  title: Aussichtsturm Schnackenburg November 2011
+länder: []
+title: Stahnsdorf - Schnackenburg Nov 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

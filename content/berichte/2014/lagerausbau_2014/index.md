@@ -1,25 +1,21 @@
-+++
-title = "Lagerausbau 2014"
-author = ""
-date = 2014-06-06T01:00:00+02:00
-begin = "2014-06-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "leeres Bootslager 2014"
-src = "images/leeres_Bootslager_2014.jpg"
-[[images]]
-title = "ausgelagerte Boote Sommer 2014"
-src = "images/ausgelagerte_Boote_Sommer_2014.jpg"
-[[images]]
-title = "Stahlbau im vollem Gange 2014"
-src = "images/Stahlbau_im_vollem_Gange_2014.jpg"
-[[images]]
-title = "die ersten Dachstreben sind montiert 2014"
-src = "images/die_ersten_Dachstreben_sind_montiert_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-06-01"
+date: "2014-06-06T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/leeres_Bootslager_2014.jpg
+  title: leeres Bootslager 2014
+- src: images/ausgelagerte_Boote_Sommer_2014.jpg
+  title: ausgelagerte Boote Sommer 2014
+- src: images/Stahlbau_im_vollem_Gange_2014.jpg
+  title: Stahlbau im vollem Gange 2014
+- src: images/die_ersten_Dachstreben_sind_montiert_2014.jpg
+  title: die ersten Dachstreben sind montiert 2014
+länder: []
+title: Lagerausbau 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,21 @@
-+++
-title = "Havelkanal-Marathon 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Nirina Havelkanal Marathon 2017"
-src = "images/Nirina_Havelkanal_Marathon_2017.jpg"
-[[images]]
-title = "Havelkanal Marathon 2017 E-Dreier mit"
-src = "images/Havelkanal_Marathon_2017_E-Dreier_mit.jpg"
-[[images]]
-title = "Havelkanal Marathon Schleuse Schoenwalde 2017"
-src = "images/Havelkanal_Marathon_Schleuse_Schoenwalde_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Nirina_Havelkanal_Marathon_2017.jpg
+  title: Nirina Havelkanal Marathon 2017
+- src: images/Havelkanal_Marathon_2017_E-Dreier_mit.jpg
+  title: Havelkanal Marathon 2017 E-Dreier mit
+- src: images/Havelkanal_Marathon_Schleuse_Schoenwalde_2017.jpg
+  title: Havelkanal Marathon Schleuse Schoenwalde 2017
+länder: []
+title: Havelkanal-Marathon 2017
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

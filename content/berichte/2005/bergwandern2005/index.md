@@ -1,70 +1,51 @@
-+++
-title = "Bergwandern2005"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "zinkengipfel loipoldhof"
-src = "images/lp05_zinkengipfel.jpg"
-[[images]]
-title = "kochofen loipoldhof"
-src = "images/lp05_kochofen.jpg"
-[[images]]
-title = "lgamskarspitze endanstieg"
-src = "images/lp05_gamskar_endanstieg.jpg"
-[[images]]
-title = "lp05_gasselhoehe"
-src = "images/lp05_gasselhoehe.jpg"
-[[images]]
-title = "lp05_hoehenweg"
-src = "images/lp05_hoehenweg.jpg"
-[[images]]
-title = "lp05_tischtennis2"
-src = "images/lp05_tischtennis2.jpg"
-[[images]]
-title = "loipoldhof_gamskar"
-src = "images/loipoldhof_gamskar.jpg"
-[[images]]
-title = "kochofen anstieg Loipoldhof"
-src = "images/lp05_kochofen_anstieg.jpg"
-[[images]]
-title = "nebel im wald kochofen"
-src = "images/lp05_nebelimwald.jpg"
-[[images]]
-title = "lp05_erleuchtung"
-src = "images/lp05_erleuchtung.jpg"
-[[images]]
-title = "lp05_jens_charlotte"
-src = "images/lp05_jens_charlotte.jpg"
-[[images]]
-title = "leiter silberkar klettersteig"
-src = "images/lp05_leiter.jpg"
-[[images]]
-title = "lp05_kampfschafe"
-src = "images/lp05_kampfschafe.jpg"
-[[images]]
-title = "lp05_schneefeld"
-src = "images/lp05_schneefeld.jpg"
-[[images]]
-title = "lp05_spiegelsee"
-src = "images/lp05_spiegelsee.jpg"
-[[images]]
-title = "kapelle salzbergwerk ruderer"
-src = "images/lp05_kapelle.jpg"
-[[images]]
-title = "lp05_obertal"
-src = "images/lp05_obertal.jpg"
-[[images]]
-title = "loipoldhof_zinken_scheibeleck"
-src = "images/loipoldhof_zinken_scheibeleck.jpg"
-[[images]]
-title = "abendessen loipoldhof"
-src = "images/lp05_abendessen.jpg"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/lp05_zinkengipfel.jpg
+  title: zinkengipfel loipoldhof
+- src: images/lp05_kochofen.jpg
+  title: kochofen loipoldhof
+- src: images/lp05_gamskar_endanstieg.jpg
+  title: lgamskarspitze endanstieg
+- src: images/lp05_gasselhoehe.jpg
+  title: lp05_gasselhoehe
+- src: images/lp05_hoehenweg.jpg
+  title: lp05_hoehenweg
+- src: images/lp05_tischtennis2.jpg
+  title: lp05_tischtennis2
+- src: images/loipoldhof_gamskar.jpg
+  title: loipoldhof_gamskar
+- src: images/lp05_kochofen_anstieg.jpg
+  title: kochofen anstieg Loipoldhof
+- src: images/lp05_nebelimwald.jpg
+  title: nebel im wald kochofen
+- src: images/lp05_erleuchtung.jpg
+  title: lp05_erleuchtung
+- src: images/lp05_jens_charlotte.jpg
+  title: lp05_jens_charlotte
+- src: images/lp05_leiter.jpg
+  title: leiter silberkar klettersteig
+- src: images/lp05_kampfschafe.jpg
+  title: lp05_kampfschafe
+- src: images/lp05_schneefeld.jpg
+  title: lp05_schneefeld
+- src: images/lp05_spiegelsee.jpg
+  title: lp05_spiegelsee
+- src: images/lp05_kapelle.jpg
+  title: kapelle salzbergwerk ruderer
+- src: images/lp05_obertal.jpg
+  title: lp05_obertal
+- src: images/loipoldhof_zinken_scheibeleck.jpg
+  title: loipoldhof_zinken_scheibeleck
+- src: images/lp05_abendessen.jpg
+  title: abendessen loipoldhof
+länder: []
+title: Bergwandern2005
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

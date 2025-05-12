@@ -1,52 +1,46 @@
-+++
-title = "Camargue 2015 Silvester"
-author = ""
-date = 2015-02-02T01:00:00+02:00
-begin = "2015-02-01"
-"gewässer" = ["oder", "rhone", "lez", "vidourle", "mittelmeer"]
-"länder" = ["deutschland", "frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Canal du rhone a sete Camargue 2015"
-src = "images/Canal_du_rhone_a_sete_Camargue_2015.jpg"
-[[images]]
-title = "Flamingos Camargue 2015"
-src = "images/Flamingos_Camargue_2015.jpg"
-[[images]]
-title = "Palavas le flots camargue 2015"
-src = "images/Palavas_le_flots_camargue_2015.jpg"
-[[images]]
-title = "Aigues Mortes mit Ruderboot 2015"
-src = "images/Aigues_Mortes_mit_Ruderboot_2015.jpg"
-[[images]]
-title = "Aigues Mortes vom Tour Constanze 2015"
-src = "images/Aigues_Mortes_vom_Tour_Constanze_2015.jpg"
-[[images]]
-title = "jonathan auf dem mittelmeer camargue 2015"
-src = "images/jonathan_auf_dem_mittelmeer_camargue_2015.jpg"
-[[images]]
-title = "Ruderer in Aigues Mortes 2015"
-src = "images/Ruderer_in_Aigues_Mortes_2015.jpg"
-[[images]]
-title = "Grandes Mottes weihnachtsbaum 2015"
-src = "images/Grandes_Mottes_weihnachtsbaum_2015.jpg"
-[[images]]
-title = "Hafenausfahrt Grande Mottes 2015"
-src = "images/Hafenausfahrt_Grande_Mottes_2015.jpg"
-[[images]]
-title = "Petit Camargue am Strand 2015"
-src = "images/Petit_Camargue_am_Strand_2015.jpg"
-[[images]]
-title = "Ruderer am Strand der Camargue 2015"
-src = "images/Ruderer_am_Strand_der_Camargue_2015.jpg"
-[[images]]
-title = "Leuchtturm Le grau du Roi 2015"
-src = "images/Leuchtturm_Le_grau_du_Roi_2015.jpg"
-[[images]]
-title = "Silvester 2015 Camargue"
-src = "images/Silvester_2015_Camargue.jpg"
-
-+++
+---
+author: ""
+begin: "2015-02-01"
+date: "2015-02-02T01:00:00+02:00"
+gewässer:
+- oder
+- rhone
+- lez
+- vidourle
+- mittelmeer
+images:
+- src: images/Canal_du_rhone_a_sete_Camargue_2015.jpg
+  title: Canal du rhone a sete Camargue 2015
+- src: images/Flamingos_Camargue_2015.jpg
+  title: Flamingos Camargue 2015
+- src: images/Palavas_le_flots_camargue_2015.jpg
+  title: Palavas le flots camargue 2015
+- src: images/Aigues_Mortes_mit_Ruderboot_2015.jpg
+  title: Aigues Mortes mit Ruderboot 2015
+- src: images/Aigues_Mortes_vom_Tour_Constanze_2015.jpg
+  title: Aigues Mortes vom Tour Constanze 2015
+- src: images/jonathan_auf_dem_mittelmeer_camargue_2015.jpg
+  title: jonathan auf dem mittelmeer camargue 2015
+- src: images/Ruderer_in_Aigues_Mortes_2015.jpg
+  title: Ruderer in Aigues Mortes 2015
+- src: images/Grandes_Mottes_weihnachtsbaum_2015.jpg
+  title: Grandes Mottes weihnachtsbaum 2015
+- src: images/Hafenausfahrt_Grande_Mottes_2015.jpg
+  title: Hafenausfahrt Grande Mottes 2015
+- src: images/Petit_Camargue_am_Strand_2015.jpg
+  title: Petit Camargue am Strand 2015
+- src: images/Ruderer_am_Strand_der_Camargue_2015.jpg
+  title: Ruderer am Strand der Camargue 2015
+- src: images/Leuchtturm_Le_grau_du_Roi_2015.jpg
+  title: Leuchtturm Le grau du Roi 2015
+- src: images/Silvester_2015_Camargue.jpg
+  title: Silvester 2015 Camargue
+länder:
+- deutschland
+- frankreich
+title: Camargue 2015 Silvester
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

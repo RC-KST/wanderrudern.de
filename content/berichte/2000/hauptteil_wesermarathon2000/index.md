@@ -1,22 +1,21 @@
-+++
-title = "Holland 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Fulda Martina Jana Zweier rudern"
-src = "images/martina_jana.jpg"
-[[images]]
-title = "Ruderzweier auf der Fulda"
-src = "images/zweier.jpg"
-[[images]]
-title = "Wesermarathon rudern Ruderboot"
-src = "images/weser.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+images:
+- src: images/martina_jana.jpg
+  title: Fulda Martina Jana Zweier rudern
+- src: images/zweier.jpg
+  title: Ruderzweier auf der Fulda
+- src: images/weser.jpg
+  title: Wesermarathon rudern Ruderboot
+länder: []
+title: Holland 2000
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

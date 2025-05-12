@@ -1,31 +1,26 @@
-+++
-title = "Altruppin 2020"
-author = ""
-date = 2020-09-09T01:00:00+02:00
-begin = "2020-09-01"
-"gewässer" = ["ruppiner see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Altruppin es gibt auch Sonne 2020"
-src = "images/Altruppin_es_gibt_auch_Sonne_2020.jpg"
-[[images]]
-title = "Lagerfeuer Altruppin 2020"
-src = "images/Lagerfeuer_Altruppin_2020.jpg"
-[[images]]
-title = "Ruderboote auf dem Rhin Altruppin 2020"
-src = "images/Ruderboote_auf_dem_Rhin_Altruppin_2020.jpg"
-[[images]]
-title = "Altruppin im Regen 2020"
-src = "images/Altruppin_im_Regen_2020.jpg"
-[[images]]
-title = "Ruppiner See Ruderer 2020"
-src = "images/Ruppiner_See_Ruderer_2020.jpg"
-[[images]]
-title = "Altruppin 2020 Ruderclub"
-src = "images/Altruppin_2020_Ruderclub.jpg"
-
-+++
+---
+author: ""
+begin: "2020-09-01"
+date: "2020-09-09T01:00:00+02:00"
+gewässer:
+- ruppiner see
+images:
+- src: images/Altruppin_es_gibt_auch_Sonne_2020.jpg
+  title: Altruppin es gibt auch Sonne 2020
+- src: images/Lagerfeuer_Altruppin_2020.jpg
+  title: Lagerfeuer Altruppin 2020
+- src: images/Ruderboote_auf_dem_Rhin_Altruppin_2020.jpg
+  title: Ruderboote auf dem Rhin Altruppin 2020
+- src: images/Altruppin_im_Regen_2020.jpg
+  title: Altruppin im Regen 2020
+- src: images/Ruppiner_See_Ruderer_2020.jpg
+  title: Ruppiner See Ruderer 2020
+- src: images/Altruppin_2020_Ruderclub.jpg
+  title: Altruppin 2020 Ruderclub
+länder: []
+title: Altruppin 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

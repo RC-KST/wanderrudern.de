@@ -1,160 +1,116 @@
-+++
-title = "Podelta Venedig Blog 2014"
-author = ""
-date = 2014-10-10T01:00:00+02:00
-begin = "2014-10-01"
-"gewässer" = ["oder", "po", "lagune von venedig"]
-"länder" = ["italien", "schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote aufriggern Monticell d Ogina Po 2014"
-src = "images/Boote_aufriggern_Monticell_d_Ogina_Po_2014.jpg"
-[[images]]
-title = "immerhin ein ufer zu erkennen Po 2014"
-src = "images/immerhin_ein_ufer_zu_erkennen_Po_2014.jpg"
-[[images]]
-title = "Streckenplanung im Nebel Po 2014"
-src = "images/Streckenplanung_im_Nebel_Po_2014.jpg"
-[[images]]
-title = "ruderboote im Nebel Po 2014"
-src = "images/ruderboote_im_Nebel_Po_2014.jpg"
-[[images]]
-title = "Baumgarten E-Vierer auf dem Po 2014"
-src = "images/Baumgarten_E-Vierer_auf_dem_Po_2014.jpg"
-[[images]]
-title = "casalmagiore downtown po 2014"
-src = "images/casalmagiore_downtown_po_2014.jpg"
-[[images]]
-title = "Ruderboote Casalmagiore Po 2014"
-src = "images/Ruderboote_Casalmagiore_Po_2014.jpg"
-[[images]]
-title = "Rudersteg Casalmagiore Po 2014"
-src = "images/Rudersteg_Casalmagiore_Po_2014.jpg"
-[[images]]
-title = "Quartier Guastalla Po 2014"
-src = "images/Quartier_Guastalla_Po_2014.jpg"
-[[images]]
-title = "Ruderboote im Nebel auf dem Po 2014"
-src = "images/Ruderboote_im_Nebel_auf_dem_Po_2014.jpg"
-[[images]]
-title = "warten aufs abendessen guastalla po 2014"
-src = "images/warten_aufs_abendessen_guastalla_po_2014.jpg"
-[[images]]
-title = "Bad im Fluss Ende Oktober Po 2014"
-src = "images/Bad_im_Fluss_Ende_Oktober_Po_2014.jpg"
-[[images]]
-title = "ruderer auf dem po 2014"
-src = "images/ruderer_auf_dem_po_2014.jpg"
-[[images]]
-title = "Flusslandschaft Po 2014"
-src = "images/Flusslandschaft_Po_2014.jpg"
-[[images]]
-title = "Ruderclub Revere Ruderboote Po 2014"
-src = "images/Ruderclub_Revere_Ruderboote_Po_2014.jpg"
-[[images]]
-title = "felix hat gleich ein problem po 2014"
-src = "images/felix_hat_gleich_ein_problem_po_2014.jpg"
-[[images]]
-title = "Ruderclub Revere Po 2014"
-src = "images/Ruderclub_Revere_Po_2014.jpg"
-[[images]]
-title = "inrigger auf dem po 2014"
-src = "images/inrigger_auf_dem_po_2014.jpg"
-[[images]]
-title = "AH Ruderer Po 2014"
-src = "images/AH_Ruderer_Po_2014.jpg"
-[[images]]
-title = "Jugend Po 2014"
-src = "images/Jugend_Po_2014.jpg"
-[[images]]
-title = "Sandbank im Po mit Ruderbooten Po 2014"
-src = "images/Sandbank_im_Po_mit_Ruderbooten_Po_2014.jpg"
-[[images]]
-title = "etwas ruppig Po 2014"
-src = "images/etwas_ruppig_Po_2014.jpg"
-[[images]]
-title = "Schleuse Porto Viro Po 2014"
-src = "images/Schleuse_Porto_Viro_Po_2014.jpg"
-[[images]]
-title = "Vaporetto Haltestellen im Gegenverkehr Po 2014"
-src = "images/Vaporetto_Haltestellen_im_Gegenverkehr_Po_2014.jpg"
-[[images]]
-title = "Landhaus La Corte Po 2014"
-src = "images/Landhaus_La_Corte_Po_2014.jpg"
-[[images]]
-title = "angemessene unterkunft po 2014"
-src = "images/angemessene_unterkunft_po_2014.jpg"
-[[images]]
-title = "Kaptn Shettino und sein neues schiff Po 2014"
-src = "images/Kaptn_Shettino_und_sein_neues_schiff_Po_2014.jpg"
-[[images]]
-title = "ausfahrt auf die Lagune mit kreuzfahrer Po 2014"
-src = "images/ausfahrt_auf_die_Lagune_mit_kreuzfahrer_Po_2014.jpg"
-[[images]]
-title = "ruderer am strand der adria po 2014"
-src = "images/ruderer_am_strand_der_adria_po_2014.jpg"
-[[images]]
-title = "Badestrand an der Adria Po 2014"
-src = "images/Badestrand_an_der_Adria_Po_2014.jpg"
-[[images]]
-title = "ruderboote im yachthafen po 2014"
-src = "images/ruderboote_im_yachthafen_po_2014.jpg"
-[[images]]
-title = "auf dem weg nach Hause sonnenuntergang Po 2014"
-src = "images/auf_dem_weg_nach_Hause_sonnenuntergang_Po_2014.jpg"
-[[images]]
-title = "canal du valle Po 2014"
-src = "images/canal_du_valle_Po_2014.jpg"
-[[images]]
-title = "die letzte schleuse vor der lagune von venedig 2014"
-src = "images/die_letzte_schleuse_vor_der_lagune_von_venedig_2014.jpg"
-[[images]]
-title = "row in bei mcdonalds Venedig 2014"
-src = "images/row_in_bei_mcdonalds_Venedig_2014.jpg"
-[[images]]
-title = "letzte bruecke chioggia po 2014"
-src = "images/letzte_bruecke_chioggia_po_2014.jpg"
-[[images]]
-title = "bus eingeparkt boot eingeparkt po 2014"
-src = "images/bus_eingeparkt_boot_eingeparkt_po_2014.jpg"
-[[images]]
-title = "blick ueber chioggia po 2014"
-src = "images/blick_ueber_chioggia_po_2014.jpg"
-[[images]]
-title = "raus auf die lagune po 2014"
-src = "images/raus_auf_die_lagune_po_2014.jpg"
-[[images]]
-title = "Hotel Caldins chioggia po 2014"
-src = "images/Hotel_Caldins_chioggia_po_2014.jpg"
-[[images]]
-title = "chioggia bruecke po 2014"
-src = "images/chioggia_bruecke_po_2014.jpg"
-[[images]]
-title = "autofaehre zum Lido 2014"
-src = "images/autofaehre_zum_Lido_2014.jpg"
-[[images]]
-title = "entlang des lido von venedig 2014"
-src = "images/entlang_des_lido_von_venedig_2014.jpg"
-[[images]]
-title = "venezianische Gondel venedig 2014"
-src = "images/venezianische_Gondel_venedig_2014.jpg"
-[[images]]
-title = "Pause am Lido 2014"
-src = "images/Pause_am_Lido_2014.jpg"
-[[images]]
-title = "baby casa camping miramare 2014"
-src = "images/baby_casa_camping_miramare_2014.jpg"
-[[images]]
-title = "abendessen der ruderer miramare 2014"
-src = "images/abendessen_der_ruderer_miramare_2014.jpg"
-[[images]]
-title = "ruderboote in punta sabbioni 2014"
-src = "images/ruderboote_in_punta_sabbioni_2014.jpg"
-[[images]]
-title = "chinesische reisegruppe in venedig 2014"
-src = "images/chinesische_reisegruppe_in_venedig_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-10-01"
+date: "2014-10-10T01:00:00+02:00"
+gewässer:
+- oder
+- po
+- lagune von venedig
+images:
+- src: images/Boote_aufriggern_Monticell_d_Ogina_Po_2014.jpg
+  title: Boote aufriggern Monticell d Ogina Po 2014
+- src: images/immerhin_ein_ufer_zu_erkennen_Po_2014.jpg
+  title: immerhin ein ufer zu erkennen Po 2014
+- src: images/Streckenplanung_im_Nebel_Po_2014.jpg
+  title: Streckenplanung im Nebel Po 2014
+- src: images/ruderboote_im_Nebel_Po_2014.jpg
+  title: ruderboote im Nebel Po 2014
+- src: images/Baumgarten_E-Vierer_auf_dem_Po_2014.jpg
+  title: Baumgarten E-Vierer auf dem Po 2014
+- src: images/casalmagiore_downtown_po_2014.jpg
+  title: casalmagiore downtown po 2014
+- src: images/Ruderboote_Casalmagiore_Po_2014.jpg
+  title: Ruderboote Casalmagiore Po 2014
+- src: images/Rudersteg_Casalmagiore_Po_2014.jpg
+  title: Rudersteg Casalmagiore Po 2014
+- src: images/Quartier_Guastalla_Po_2014.jpg
+  title: Quartier Guastalla Po 2014
+- src: images/Ruderboote_im_Nebel_auf_dem_Po_2014.jpg
+  title: Ruderboote im Nebel auf dem Po 2014
+- src: images/warten_aufs_abendessen_guastalla_po_2014.jpg
+  title: warten aufs abendessen guastalla po 2014
+- src: images/Bad_im_Fluss_Ende_Oktober_Po_2014.jpg
+  title: Bad im Fluss Ende Oktober Po 2014
+- src: images/ruderer_auf_dem_po_2014.jpg
+  title: ruderer auf dem po 2014
+- src: images/Flusslandschaft_Po_2014.jpg
+  title: Flusslandschaft Po 2014
+- src: images/Ruderclub_Revere_Ruderboote_Po_2014.jpg
+  title: Ruderclub Revere Ruderboote Po 2014
+- src: images/felix_hat_gleich_ein_problem_po_2014.jpg
+  title: felix hat gleich ein problem po 2014
+- src: images/Ruderclub_Revere_Po_2014.jpg
+  title: Ruderclub Revere Po 2014
+- src: images/inrigger_auf_dem_po_2014.jpg
+  title: inrigger auf dem po 2014
+- src: images/AH_Ruderer_Po_2014.jpg
+  title: AH Ruderer Po 2014
+- src: images/Jugend_Po_2014.jpg
+  title: Jugend Po 2014
+- src: images/Sandbank_im_Po_mit_Ruderbooten_Po_2014.jpg
+  title: Sandbank im Po mit Ruderbooten Po 2014
+- src: images/etwas_ruppig_Po_2014.jpg
+  title: etwas ruppig Po 2014
+- src: images/Schleuse_Porto_Viro_Po_2014.jpg
+  title: Schleuse Porto Viro Po 2014
+- src: images/Vaporetto_Haltestellen_im_Gegenverkehr_Po_2014.jpg
+  title: Vaporetto Haltestellen im Gegenverkehr Po 2014
+- src: images/Landhaus_La_Corte_Po_2014.jpg
+  title: Landhaus La Corte Po 2014
+- src: images/angemessene_unterkunft_po_2014.jpg
+  title: angemessene unterkunft po 2014
+- src: images/Kaptn_Shettino_und_sein_neues_schiff_Po_2014.jpg
+  title: Kaptn Shettino und sein neues schiff Po 2014
+- src: images/ausfahrt_auf_die_Lagune_mit_kreuzfahrer_Po_2014.jpg
+  title: ausfahrt auf die Lagune mit kreuzfahrer Po 2014
+- src: images/ruderer_am_strand_der_adria_po_2014.jpg
+  title: ruderer am strand der adria po 2014
+- src: images/Badestrand_an_der_Adria_Po_2014.jpg
+  title: Badestrand an der Adria Po 2014
+- src: images/ruderboote_im_yachthafen_po_2014.jpg
+  title: ruderboote im yachthafen po 2014
+- src: images/auf_dem_weg_nach_Hause_sonnenuntergang_Po_2014.jpg
+  title: auf dem weg nach Hause sonnenuntergang Po 2014
+- src: images/canal_du_valle_Po_2014.jpg
+  title: canal du valle Po 2014
+- src: images/die_letzte_schleuse_vor_der_lagune_von_venedig_2014.jpg
+  title: die letzte schleuse vor der lagune von venedig 2014
+- src: images/row_in_bei_mcdonalds_Venedig_2014.jpg
+  title: row in bei mcdonalds Venedig 2014
+- src: images/letzte_bruecke_chioggia_po_2014.jpg
+  title: letzte bruecke chioggia po 2014
+- src: images/bus_eingeparkt_boot_eingeparkt_po_2014.jpg
+  title: bus eingeparkt boot eingeparkt po 2014
+- src: images/blick_ueber_chioggia_po_2014.jpg
+  title: blick ueber chioggia po 2014
+- src: images/raus_auf_die_lagune_po_2014.jpg
+  title: raus auf die lagune po 2014
+- src: images/Hotel_Caldins_chioggia_po_2014.jpg
+  title: Hotel Caldins chioggia po 2014
+- src: images/chioggia_bruecke_po_2014.jpg
+  title: chioggia bruecke po 2014
+- src: images/autofaehre_zum_Lido_2014.jpg
+  title: autofaehre zum Lido 2014
+- src: images/entlang_des_lido_von_venedig_2014.jpg
+  title: entlang des lido von venedig 2014
+- src: images/venezianische_Gondel_venedig_2014.jpg
+  title: venezianische Gondel venedig 2014
+- src: images/Pause_am_Lido_2014.jpg
+  title: Pause am Lido 2014
+- src: images/baby_casa_camping_miramare_2014.jpg
+  title: baby casa camping miramare 2014
+- src: images/abendessen_der_ruderer_miramare_2014.jpg
+  title: abendessen der ruderer miramare 2014
+- src: images/ruderboote_in_punta_sabbioni_2014.jpg
+  title: ruderboote in punta sabbioni 2014
+- src: images/chinesische_reisegruppe_in_venedig_2014.jpg
+  title: chinesische reisegruppe in venedig 2014
+länder:
+- italien
+- schweiz
+title: Podelta Venedig Blog 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,28 @@
-+++
-title = "Havel-Elbe-Hamburg 2019"
-author = ""
-date = 2019-06-06T01:00:00+02:00
-begin = "2019-06-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = ["deutschland", "dänemark"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Badestrand Milow 2019"
-src = "images/Badestrand_Milow_2019.jpg"
-[[images]]
-title = "Out of Africa Brandenburg Obstsalat schnippeln 2019"
-src = "images/Out_of_Africa_Brandenburg_Obstsalat_schnippeln_2019.jpg"
-[[images]]
-title = "Breitling See Ruderboote 2019"
-src = "images/Breitling_See_Ruderboote_2019.jpg"
-[[images]]
-title = "Johanna in Brandenburg Ruderboot 2019"
-src = "images/Johanna_in_Brandenburg_Ruderboot_2019.jpg"
-[[images]]
-title = "Preisverleihung Winsauerpreis 2018 RC KST"
-src = "images/Preisverleihung_Winsauerpreis_2018_RC_KST.jpg"
-
-+++
+---
+author: ""
+begin: "2019-06-01"
+date: "2019-06-06T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Badestrand_Milow_2019.jpg
+  title: Badestrand Milow 2019
+- src: images/Out_of_Africa_Brandenburg_Obstsalat_schnippeln_2019.jpg
+  title: Out of Africa Brandenburg Obstsalat schnippeln 2019
+- src: images/Breitling_See_Ruderboote_2019.jpg
+  title: Breitling See Ruderboote 2019
+- src: images/Johanna_in_Brandenburg_Ruderboot_2019.jpg
+  title: Johanna in Brandenburg Ruderboot 2019
+- src: images/Preisverleihung_Winsauerpreis_2018_RC_KST.jpg
+  title: Preisverleihung Winsauerpreis 2018 RC KST
+länder:
+- deutschland
+- dänemark
+title: Havel-Elbe-Hamburg 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,24 @@
-+++
-title = "Elbe Havelberg - Darchau 2023"
-author = ""
-date = 2023-06-06T01:00:00+02:00
-begin = "2023-06-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Start des Marathon auf dem Teltowkanal 2023"
-src = "images/Start_des_Marathon_auf_dem_Teltowkanal_2023.jpg"
-[[images]]
-title = "Sonnenaufgang an der Elbe Marathon Havel-Elbe 2023"
-src = "images/Sonnenaufgang_an_der_Elbe_Marathon_Havel-Elbe_2023.jpg"
-[[images]]
-title = "Ruderboot Havel-Elbe Marathon 2023"
-src = "images/Ruderboot_Havel-Elbe_Marathon_2023.jpg"
-[[images]]
-title = "Frühstück nach zwei Stunden rudern Havel-Elbe Marathon 2023"
-src = "images/Fruhstuck_nach_zwei_Stunden_rudern_Havel-Elbe_Marathon_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-06-01"
+date: "2023-06-06T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Start_des_Marathon_auf_dem_Teltowkanal_2023.jpg
+  title: Start des Marathon auf dem Teltowkanal 2023
+- src: images/Sonnenaufgang_an_der_Elbe_Marathon_Havel-Elbe_2023.jpg
+  title: Sonnenaufgang an der Elbe Marathon Havel-Elbe 2023
+- src: images/Ruderboot_Havel-Elbe_Marathon_2023.jpg
+  title: Ruderboot Havel-Elbe Marathon 2023
+- src: images/Fruhstuck_nach_zwei_Stunden_rudern_Havel-Elbe_Marathon_2023.jpg
+  title: Frühstück nach zwei Stunden rudern Havel-Elbe Marathon 2023
+länder: []
+title: Elbe Havelberg - Darchau 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

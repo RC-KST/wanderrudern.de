@@ -1,142 +1,106 @@
-+++
-title = "Donaudelta 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["donau", "oste", "oder"]
-"länder" = ["deutschland", "tschechien", "ungarn", "slowakei"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anreise Rumaenien 2014"
-src = "images/Anreise_Rumaenien_2014.jpg"
-[[images]]
-title = "Flusstal in den Karpaten 2014"
-src = "images/Flusstal_in_den_Karpaten_2014.jpg"
-[[images]]
-title = "Bootsanhaenger in Calarasi 2014"
-src = "images/Bootsanhaenger_in_Calarasi_2014.jpg"
-[[images]]
-title = "Pause auf der Sandbank Donau Borcea 2014"
-src = "images/Pause_auf_der_Sandbank_Donau_Borcea_2014.jpg"
-[[images]]
-title = "Ruderer an der bruecke von fetesti 2014"
-src = "images/Ruderer_an_der_bruecke_von_fetesti_2014.jpg"
-[[images]]
-title = "Hotel fetesti 2014"
-src = "images/Hotel_fetesti_2014.jpg"
-[[images]]
-title = "Ruderboote Fetesti am Ufer Donau 2014"
-src = "images/Ruderboote_Fetesti_am_Ufer_Donau_2014.jpg"
-[[images]]
-title = "Harsova Downtown unser Quartier Donau 2014"
-src = "images/Harsova_Downtown_unser_Quartier_Donau_2014.jpg"
-[[images]]
-title = "ruderinnen donau kurz vor harsova 2014"
-src = "images/ruderinnen_donau_kurz_vor_harsova_2014.jpg"
-[[images]]
-title = "donau nach braila mieses wetter 2014"
-src = "images/donau_nach_braila_mieses_wetter_2014.jpg"
-[[images]]
-title = "Hafenanlagen in Braila Donau 2014"
-src = "images/Hafenanlagen_in_Braila_Donau_2014.jpg"
-[[images]]
-title = "donauufer mit ruderboot donau 20104"
-src = "images/donauufer_mit_ruderboot_donau_20104.jpg"
-[[images]]
-title = "Galati mit gegenwind donau 2014"
-src = "images/Galati_mit_gegenwind_donau_2014.jpg"
-[[images]]
-title = "Motel in Isaccea Donau 2014"
-src = "images/Motel_in_Isaccea_Donau_2014.jpg"
-[[images]]
-title = "polizeikontrolle auf der Donau 2014"
-src = "images/polizeikontrolle_auf_der_Donau_2014.jpg"
-[[images]]
-title = "sturm kurz vor dem donaudelta 2014"
-src = "images/sturm_kurz_vor_dem_donaudelta_2014.jpg"
-[[images]]
-title = "Anlegen Nufaru Donau 2014"
-src = "images/Anlegen_Nufaru_Donau_2014.jpg"
-[[images]]
-title = "Abzweig Sant gheorghe arm donau 2014"
-src = "images/Abzweig_Sant_gheorghe_arm_donau_2014.jpg"
-[[images]]
-title = "gleich gehts ins donaudelta 2014"
-src = "images/gleich_gehts_ins_donaudelta_2014.jpg"
-[[images]]
-title = "Lagune im delta donau 2014"
-src = "images/Lagune_im_delta_donau_2014.jpg"
-[[images]]
-title = "im donaudelta 2014"
-src = "images/im_donaudelta_2014.jpg"
-[[images]]
-title = "graeben im inneren delta donau 2014"
-src = "images/graeben_im_inneren_delta_donau_2014.jpg"
-[[images]]
-title = "donaudelta schilf bis zum horizont donau 2014"
-src = "images/donaudelta_schilf_bis_zum_horizont_donau_2014.jpg"
-[[images]]
-title = "uzlina donaudelta 2014"
-src = "images/uzlina_donaudelta_2014.jpg"
-[[images]]
-title = "gruppenfoto am strand des schwarzen meeres donau 2014"
-src = "images/gruppenfoto_am_strand_des_schwarzen_meeres_donau_2014.jpg"
-[[images]]
-title = "donaumuendung ins schwarze meer donau 2014"
-src = "images/donaumuendung_ins_schwarze_meer_donau_2014.jpg"
-[[images]]
-title = "Ruderer im schwarzen meer donau 2014"
-src = "images/Ruderer_im_schwarzen_meer_donau_2014.jpg"
-[[images]]
-title = "Pension Ichim Essraum donau 2014"
-src = "images/Pension_Ichim_Essraum_donau_2014.jpg"
-[[images]]
-title = "Bente im Pferdewagen Sfantu Gheorghe donau 2014"
-src = "images/Bente_im_Pferdewagen_Sfantu_Gheorghe_donau_2014.jpg"
-[[images]]
-title = "Pension Ichim in Sfantu Gheorghe donau 2014"
-src = "images/Pension_Ichim_in_Sfantu_Gheorghe_donau_2014.jpg"
-[[images]]
-title = "kanal crasnicol blockiert donau 2014"
-src = "images/kanal_crasnicol_blockiert_donau_2014.jpg"
-[[images]]
-title = "welcher Graben im Schilf ist der richtige Donaudelta 2014"
-src = "images/welcher_Graben_im_Schilf_ist_der_richtige_Donaudelta_2014.jpg"
-[[images]]
-title = "die graeben werden enger donaudelta 2014"
-src = "images/die_graeben_werden_enger_donaudelta_2014.jpg"
-[[images]]
-title = "der vl muss rudern donaudelta 2014"
-src = "images/der_vl_muss_rudern_donaudelta_2014.jpg"
-[[images]]
-title = "dunavatu des Jos alle ruderer sind da donau 2014"
-src = "images/dunavatu_des_Jos_alle_ruderer_sind_da_donau_2014.jpg"
-[[images]]
-title = "Ruderer vor der Pension Puiu in Dunavatu de Jos Donau 2014"
-src = "images/Ruderer_vor_der_Pension_Puiu_in_Dunavatu_de_Jos_Donau_2014.jpg"
-[[images]]
-title = "JiaJia im Donaudelta 2014"
-src = "images/JiaJia_im_Donaudelta_2014.jpg"
-[[images]]
-title = "Lacul Razim die letzten 200m kann man ja laufen donau 2014"
-src = "images/Lacul_Razim_die_letzten_200m_kann_man_ja_laufen_donau_2014.jpg"
-[[images]]
-title = "weg zum Lacul Razim mal wieder ein baum im Weg donau 2014"
-src = "images/weg_zum_Lacul_Razim_mal_wieder_ein_baum_im_Weg_donau_2014.jpg"
-[[images]]
-title = "lacul razim suche nach dem gps donau 2014"
-src = "images/lacul_razim_suche_nach_dem_gps_donau_2014.jpg"
-[[images]]
-title = "Brandung des schwarzen meeres donau 2014"
-src = "images/Brandung_des_schwarzen_meeres_donau_2014.jpg"
-[[images]]
-title = "Ausflug nach Gura Porteti donaudelta 2014"
-src = "images/Ausflug_nach_Gura_Porteti_donaudelta_2014.jpg"
-[[images]]
-title = "rueckreise donaudelta 2014"
-src = "images/rueckreise_donaudelta_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- oste
+- oder
+images:
+- src: images/Anreise_Rumaenien_2014.jpg
+  title: Anreise Rumaenien 2014
+- src: images/Flusstal_in_den_Karpaten_2014.jpg
+  title: Flusstal in den Karpaten 2014
+- src: images/Bootsanhaenger_in_Calarasi_2014.jpg
+  title: Bootsanhaenger in Calarasi 2014
+- src: images/Pause_auf_der_Sandbank_Donau_Borcea_2014.jpg
+  title: Pause auf der Sandbank Donau Borcea 2014
+- src: images/Ruderer_an_der_bruecke_von_fetesti_2014.jpg
+  title: Ruderer an der bruecke von fetesti 2014
+- src: images/Hotel_fetesti_2014.jpg
+  title: Hotel fetesti 2014
+- src: images/Ruderboote_Fetesti_am_Ufer_Donau_2014.jpg
+  title: Ruderboote Fetesti am Ufer Donau 2014
+- src: images/Harsova_Downtown_unser_Quartier_Donau_2014.jpg
+  title: Harsova Downtown unser Quartier Donau 2014
+- src: images/ruderinnen_donau_kurz_vor_harsova_2014.jpg
+  title: ruderinnen donau kurz vor harsova 2014
+- src: images/donau_nach_braila_mieses_wetter_2014.jpg
+  title: donau nach braila mieses wetter 2014
+- src: images/Hafenanlagen_in_Braila_Donau_2014.jpg
+  title: Hafenanlagen in Braila Donau 2014
+- src: images/donauufer_mit_ruderboot_donau_20104.jpg
+  title: donauufer mit ruderboot donau 20104
+- src: images/Galati_mit_gegenwind_donau_2014.jpg
+  title: Galati mit gegenwind donau 2014
+- src: images/Motel_in_Isaccea_Donau_2014.jpg
+  title: Motel in Isaccea Donau 2014
+- src: images/polizeikontrolle_auf_der_Donau_2014.jpg
+  title: polizeikontrolle auf der Donau 2014
+- src: images/sturm_kurz_vor_dem_donaudelta_2014.jpg
+  title: sturm kurz vor dem donaudelta 2014
+- src: images/Anlegen_Nufaru_Donau_2014.jpg
+  title: Anlegen Nufaru Donau 2014
+- src: images/Abzweig_Sant_gheorghe_arm_donau_2014.jpg
+  title: Abzweig Sant gheorghe arm donau 2014
+- src: images/gleich_gehts_ins_donaudelta_2014.jpg
+  title: gleich gehts ins donaudelta 2014
+- src: images/Lagune_im_delta_donau_2014.jpg
+  title: Lagune im delta donau 2014
+- src: images/im_donaudelta_2014.jpg
+  title: im donaudelta 2014
+- src: images/graeben_im_inneren_delta_donau_2014.jpg
+  title: graeben im inneren delta donau 2014
+- src: images/donaudelta_schilf_bis_zum_horizont_donau_2014.jpg
+  title: donaudelta schilf bis zum horizont donau 2014
+- src: images/uzlina_donaudelta_2014.jpg
+  title: uzlina donaudelta 2014
+- src: images/gruppenfoto_am_strand_des_schwarzen_meeres_donau_2014.jpg
+  title: gruppenfoto am strand des schwarzen meeres donau 2014
+- src: images/donaumuendung_ins_schwarze_meer_donau_2014.jpg
+  title: donaumuendung ins schwarze meer donau 2014
+- src: images/Ruderer_im_schwarzen_meer_donau_2014.jpg
+  title: Ruderer im schwarzen meer donau 2014
+- src: images/Pension_Ichim_Essraum_donau_2014.jpg
+  title: Pension Ichim Essraum donau 2014
+- src: images/Bente_im_Pferdewagen_Sfantu_Gheorghe_donau_2014.jpg
+  title: Bente im Pferdewagen Sfantu Gheorghe donau 2014
+- src: images/Pension_Ichim_in_Sfantu_Gheorghe_donau_2014.jpg
+  title: Pension Ichim in Sfantu Gheorghe donau 2014
+- src: images/kanal_crasnicol_blockiert_donau_2014.jpg
+  title: kanal crasnicol blockiert donau 2014
+- src: images/welcher_Graben_im_Schilf_ist_der_richtige_Donaudelta_2014.jpg
+  title: welcher Graben im Schilf ist der richtige Donaudelta 2014
+- src: images/die_graeben_werden_enger_donaudelta_2014.jpg
+  title: die graeben werden enger donaudelta 2014
+- src: images/der_vl_muss_rudern_donaudelta_2014.jpg
+  title: der vl muss rudern donaudelta 2014
+- src: images/dunavatu_des_Jos_alle_ruderer_sind_da_donau_2014.jpg
+  title: dunavatu des Jos alle ruderer sind da donau 2014
+- src: images/Ruderer_vor_der_Pension_Puiu_in_Dunavatu_de_Jos_Donau_2014.jpg
+  title: Ruderer vor der Pension Puiu in Dunavatu de Jos Donau 2014
+- src: images/JiaJia_im_Donaudelta_2014.jpg
+  title: JiaJia im Donaudelta 2014
+- src: images/Lacul_Razim_die_letzten_200m_kann_man_ja_laufen_donau_2014.jpg
+  title: Lacul Razim die letzten 200m kann man ja laufen donau 2014
+- src: images/weg_zum_Lacul_Razim_mal_wieder_ein_baum_im_Weg_donau_2014.jpg
+  title: weg zum Lacul Razim mal wieder ein baum im Weg donau 2014
+- src: images/lacul_razim_suche_nach_dem_gps_donau_2014.jpg
+  title: lacul razim suche nach dem gps donau 2014
+- src: images/Brandung_des_schwarzen_meeres_donau_2014.jpg
+  title: Brandung des schwarzen meeres donau 2014
+- src: images/Ausflug_nach_Gura_Porteti_donaudelta_2014.jpg
+  title: Ausflug nach Gura Porteti donaudelta 2014
+- src: images/rueckreise_donaudelta_2014.jpg
+  title: rueckreise donaudelta 2014
+länder:
+- deutschland
+- tschechien
+- ungarn
+- slowakei
+title: Donaudelta 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

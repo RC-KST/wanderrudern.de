@@ -1,43 +1,36 @@
-+++
-title = "Neuruppin 2006"
-author = ""
-date = 2006-08-08T01:00:00+02:00
-begin = "2006-08-01"
-"gewässer" = ["havel", "ruppiner see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Dresdenia1"
-src = "images/Dresdenia1.jpg"
-[[images]]
-title = "Zitadelle Spandau Ruderboot"
-src = "images/Nrp06_zweier.jpg"
-[[images]]
-title = "Tiergartenschleuse im Regen Nrp06"
-src = "images/Tiergartenschleuse_im_Regen_Nrp06.jpg"
-[[images]]
-title = "Lutz+BerndHavel"
-src = "images/Lutz_BerndHavel.jpg"
-[[images]]
-title = "Tornowsee Ruderboot NRp06"
-src = "images/Tornowsee_Ruderboot_NRp06.jpg"
-[[images]]
-title = "Nrp06 chrishe stefan ruderboot"
-src = "images/Nrp06_chrishe_stefan.jpg"
-[[images]]
-title = "StahlwerkHgdf"
-src = "images/StahlwerkHgdf.jpg"
-[[images]]
-title = "KremmenerSee"
-src = "images/KremmenerSee.jpg"
-[[images]]
-title = "MarliesBernJörgTornowsee3"
-src = "images/MarliesBernJorgTornowsee3.jpg"
-[[images]]
-title = "Boltenmühle2"
-src = "images/Boltenmuhle2.jpg"
-
-+++
+---
+author: ""
+begin: "2006-08-01"
+date: "2006-08-08T01:00:00+02:00"
+gewässer:
+- havel
+- ruppiner see
+- oder
+images:
+- src: images/Dresdenia1.jpg
+  title: Dresdenia1
+- src: images/Nrp06_zweier.jpg
+  title: Zitadelle Spandau Ruderboot
+- src: images/Tiergartenschleuse_im_Regen_Nrp06.jpg
+  title: Tiergartenschleuse im Regen Nrp06
+- src: images/Lutz_BerndHavel.jpg
+  title: Lutz+BerndHavel
+- src: images/Tornowsee_Ruderboot_NRp06.jpg
+  title: Tornowsee Ruderboot NRp06
+- src: images/Nrp06_chrishe_stefan.jpg
+  title: Nrp06 chrishe stefan ruderboot
+- src: images/StahlwerkHgdf.jpg
+  title: StahlwerkHgdf
+- src: images/KremmenerSee.jpg
+  title: KremmenerSee
+- src: images/MarliesBernJorgTornowsee3.jpg
+  title: MarliesBernJörgTornowsee3
+- src: images/Boltenmuhle2.jpg
+  title: Boltenmühle2
+länder: []
+title: Neuruppin 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,22 @@
-+++
-title = "WRT 2014 Weser"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["weser"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "WRT 2014 Jugendboot Weser"
-src = "images/WRT_2014_Jugendboot_Weser.jpg"
-[[images]]
-title = "Vereinspreis RC KST 2013"
-src = "images/Vereinspreis_RC_KST_2013.jpg"
-[[images]]
-title = "Masters nach 133 km WRT 2014"
-src = "images/Masters_nach_133_km_WRT_2014.jpg"
-[[images]]
-title = "Polle pause am Steg WRT 2014"
-src = "images/Polle_pause_am_Steg_WRT_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- weser
+images:
+- src: images/WRT_2014_Jugendboot_Weser.jpg
+  title: WRT 2014 Jugendboot Weser
+- src: images/Vereinspreis_RC_KST_2013.jpg
+  title: Vereinspreis RC KST 2013
+- src: images/Masters_nach_133_km_WRT_2014.jpg
+  title: Masters nach 133 km WRT 2014
+- src: images/Polle_pause_am_Steg_WRT_2014.jpg
+  title: Polle pause am Steg WRT 2014
+länder: []
+title: WRT 2014 Weser
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

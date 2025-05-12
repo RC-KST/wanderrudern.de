@@ -1,133 +1,100 @@
-+++
-title = "Mecklenburg Umfahrt 2020"
-author = ""
-date = 2020-01-01T01:00:00+02:00
-begin = "2020-01-01"
-"gewässer" = ["havel", "müritz", "plauer see", "kölpinsee", "fleesensee", "mecklenburger seenplatte"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Plaue Hubbruecke Mecklenburg 2020"
-src = "images/Plaue_Hubbruecke_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderboot Plaue Mecklenburg 2020"
-src = "images/Ruderboot_Plaue_Mecklenburg_2020.jpg"
-[[images]]
-title = "Plauer See im Wind Mecklenburg 2020"
-src = "images/Plauer_See_im_Wind_Mecklenburg_2020.jpg"
-[[images]]
-title = "Plauer See Melina Cajus Mecklenburg 2020"
-src = "images/Plauer_See_Melina_Cajus_Mecklenburg_2020.jpg"
-[[images]]
-title = "Abendessen in Jabel Mecklenburg 2020"
-src = "images/Abendessen_in_Jabel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zelten im Yachthafen Jabel Mecklenburg 2020"
-src = "images/Zelten_im_Yachthafen_Jabel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Mueritz Mecklenburg 2020"
-src = "images/Mueritz_Mecklenburg_2020.jpg"
-[[images]]
-title = "Einfahrt nach Roebel Mecklenburg 2020"
-src = "images/Einfahrt_nach_Roebel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Mirow Johanna grillt Mecklenburg 2020"
-src = "images/Mirow_Johanna_grillt_Mecklenburg_2020.jpg"
-[[images]]
-title = "Fleether Fliess Mecklenburg 2020"
-src = "images/Fleether_Fliess_Mecklenburg_2020.jpg"
-[[images]]
-title = "Wolfsbruch Mecklenburg 2020"
-src = "images/Wolfsbruch_Mecklenburg_2020.jpg"
-[[images]]
-title = "Flecken Zechling Ruderverein Mecklenburg 2020"
-src = "images/Flecken_Zechling_Ruderverein_Mecklenburg_2020.jpg"
-[[images]]
-title = "Rheinsberg Obelisk Mecklenburg 2020"
-src = "images/Rheinsberg_Obelisk_Mecklenburg_2020.jpg"
-[[images]]
-title = "Rheinberg Schlossgraben Mecklenburg 2020"
-src = "images/Rheinberg_Schlossgraben_Mecklenburg_2020.jpg"
-[[images]]
-title = "Schloss Rheinsberg Ruderboot Mecklenburg 2020"
-src = "images/Schloss_Rheinsberg_Ruderboot_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderer auf dem Kinderspielplatz Mecklenburg 2020"
-src = "images/Ruderer_auf_dem_Kinderspielplatz_Mecklenburg_2020.jpg"
-[[images]]
-title = "Fischbroetchen am Drewensee Mecklenburg 2020"
-src = "images/Fischbroetchen_am_Drewensee_Mecklenburg_2020.jpg"
-[[images]]
-title = "Havel bei Wesenberg Mecklenburg 2020"
-src = "images/Havel_bei_Wesenberg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Klein Quassow Campingplatz Mecklenburg 2020"
-src = "images/Klein_Quassow_Campingplatz_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zwenzower Schleuse Havel Mecklenburg 2020"
-src = "images/Zwenzower_Schleuse_Havel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Mieses Wetter Jaethensee Mecklenburg 2020"
-src = "images/Mieses_Wetter_Jaethensee_Mecklenburg_2020.jpg"
-[[images]]
-title = "Gondoliere im Havelquellgebiet"
-src = "images/Gondoliere_im_Havelquellgebiet.jpg"
-[[images]]
-title = "Bildungsfernsehen fuer die Ruderer Mecklenburg 2020"
-src = "images/Bildungsfernsehen_fuer_die_Ruderer_Mecklenburg_2020.jpg"
-[[images]]
-title = "Abendessen Klein Quassow Mecklenburg 2020"
-src = "images/Abendessen_Klein_Quassow_Mecklenburg_2020.jpg"
-[[images]]
-title = "Warten vor der Havelschleuse"
-src = "images/Warten_vor_der_Havelschleuse.jpg"
-[[images]]
-title = "Fuerstenberg Pause im Stadtpark Mecklenburg 2020"
-src = "images/Fuerstenberg_Pause_im_Stadtpark_Mecklenburg_2020.jpg"
-[[images]]
-title = "Bredereiche im Strandbad Mecklenburg 2020"
-src = "images/Bredereiche_im_Strandbad_Mecklenburg_2020.jpg"
-[[images]]
-title = "Fuerstenberg Mecklenburg 2020"
-src = "images/Fuerstenberg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zweier Havel Mecklenburg 2020"
-src = "images/Zweier_Havel_Mecklenburg_2020.jpg"
-[[images]]
-title = "Abendessen Liebenwalde Mecklenburg 2020"
-src = "images/Abendessen_Liebenwalde_Mecklenburg_2020.jpg"
-[[images]]
-title = "Mitternachtssnack Liebenwalde Mecklenburg 2020"
-src = "images/Mitternachtssnack_Liebenwalde_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zweier auf dem Weg nach Liebenwalde Mecklenburg 2020"
-src = "images/Zweier_auf_dem_Weg_nach_Liebenwalde_Mecklenburg_2020.jpg"
-[[images]]
-title = "Zerpenschleuse Anleger Mecklenburg 2020"
-src = "images/Zerpenschleuse_Anleger_Mecklenburg_2020.jpg"
-[[images]]
-title = "Oder Havel Kanal Mecklenburg 2020"
-src = "images/Oder_Havel_Kanal_Mecklenburg_2020.jpg"
-[[images]]
-title = "Ruderboot Langer Traedel Finowkanal Mecklenburg 2020"
-src = "images/Ruderboot_Langer_Traedel_Finowkanal_Mecklenburg_2020.jpg"
-[[images]]
-title = "Vierer Oder Havel Kanal Mecklenburg 2020"
-src = "images/Vierer_Oder_Havel_Kanal_Mecklenburg_2020.jpg"
-[[images]]
-title = "Blondinen bevorzugt Mecklenburg 2020"
-src = "images/Blondinen_bevorzugt_Mecklenburg_2020.jpg"
-[[images]]
-title = "Birkenwerder Ruderboot vor dem Steg Mecklenburg 2020"
-src = "images/Birkenwerder_Ruderboot_vor_dem_Steg_Mecklenburg_2020.jpg"
-[[images]]
-title = "Eis essen Oranienburg Mecklenburg 2020"
-src = "images/Eis_essen_Oranienburg_Mecklenburg_2020.jpg"
-[[images]]
-title = "wieder in Stahnsdorf nach 800 km Mecklenburg 2020"
-src = "images/wieder_in_Stahnsdorf_nach_800_km_Mecklenburg_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-01-01"
+date: "2020-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- müritz
+- plauer see
+- kölpinsee
+- fleesensee
+- mecklenburger seenplatte
+images:
+- src: images/Plaue_Hubbruecke_Mecklenburg_2020.jpg
+  title: Plaue Hubbruecke Mecklenburg 2020
+- src: images/Ruderboot_Plaue_Mecklenburg_2020.jpg
+  title: Ruderboot Plaue Mecklenburg 2020
+- src: images/Plauer_See_im_Wind_Mecklenburg_2020.jpg
+  title: Plauer See im Wind Mecklenburg 2020
+- src: images/Plauer_See_Melina_Cajus_Mecklenburg_2020.jpg
+  title: Plauer See Melina Cajus Mecklenburg 2020
+- src: images/Abendessen_in_Jabel_Mecklenburg_2020.jpg
+  title: Abendessen in Jabel Mecklenburg 2020
+- src: images/Zelten_im_Yachthafen_Jabel_Mecklenburg_2020.jpg
+  title: Zelten im Yachthafen Jabel Mecklenburg 2020
+- src: images/Mueritz_Mecklenburg_2020.jpg
+  title: Mueritz Mecklenburg 2020
+- src: images/Einfahrt_nach_Roebel_Mecklenburg_2020.jpg
+  title: Einfahrt nach Roebel Mecklenburg 2020
+- src: images/Mirow_Johanna_grillt_Mecklenburg_2020.jpg
+  title: Mirow Johanna grillt Mecklenburg 2020
+- src: images/Fleether_Fliess_Mecklenburg_2020.jpg
+  title: Fleether Fliess Mecklenburg 2020
+- src: images/Wolfsbruch_Mecklenburg_2020.jpg
+  title: Wolfsbruch Mecklenburg 2020
+- src: images/Flecken_Zechling_Ruderverein_Mecklenburg_2020.jpg
+  title: Flecken Zechling Ruderverein Mecklenburg 2020
+- src: images/Rheinsberg_Obelisk_Mecklenburg_2020.jpg
+  title: Rheinsberg Obelisk Mecklenburg 2020
+- src: images/Rheinberg_Schlossgraben_Mecklenburg_2020.jpg
+  title: Rheinberg Schlossgraben Mecklenburg 2020
+- src: images/Schloss_Rheinsberg_Ruderboot_Mecklenburg_2020.jpg
+  title: Schloss Rheinsberg Ruderboot Mecklenburg 2020
+- src: images/Ruderer_auf_dem_Kinderspielplatz_Mecklenburg_2020.jpg
+  title: Ruderer auf dem Kinderspielplatz Mecklenburg 2020
+- src: images/Fischbroetchen_am_Drewensee_Mecklenburg_2020.jpg
+  title: Fischbroetchen am Drewensee Mecklenburg 2020
+- src: images/Havel_bei_Wesenberg_Mecklenburg_2020.jpg
+  title: Havel bei Wesenberg Mecklenburg 2020
+- src: images/Klein_Quassow_Campingplatz_Mecklenburg_2020.jpg
+  title: Klein Quassow Campingplatz Mecklenburg 2020
+- src: images/Zwenzower_Schleuse_Havel_Mecklenburg_2020.jpg
+  title: Zwenzower Schleuse Havel Mecklenburg 2020
+- src: images/Mieses_Wetter_Jaethensee_Mecklenburg_2020.jpg
+  title: Mieses Wetter Jaethensee Mecklenburg 2020
+- src: images/Gondoliere_im_Havelquellgebiet.jpg
+  title: Gondoliere im Havelquellgebiet
+- src: images/Bildungsfernsehen_fuer_die_Ruderer_Mecklenburg_2020.jpg
+  title: Bildungsfernsehen fuer die Ruderer Mecklenburg 2020
+- src: images/Abendessen_Klein_Quassow_Mecklenburg_2020.jpg
+  title: Abendessen Klein Quassow Mecklenburg 2020
+- src: images/Warten_vor_der_Havelschleuse.jpg
+  title: Warten vor der Havelschleuse
+- src: images/Fuerstenberg_Pause_im_Stadtpark_Mecklenburg_2020.jpg
+  title: Fuerstenberg Pause im Stadtpark Mecklenburg 2020
+- src: images/Bredereiche_im_Strandbad_Mecklenburg_2020.jpg
+  title: Bredereiche im Strandbad Mecklenburg 2020
+- src: images/Fuerstenberg_Mecklenburg_2020.jpg
+  title: Fuerstenberg Mecklenburg 2020
+- src: images/Zweier_Havel_Mecklenburg_2020.jpg
+  title: Zweier Havel Mecklenburg 2020
+- src: images/Abendessen_Liebenwalde_Mecklenburg_2020.jpg
+  title: Abendessen Liebenwalde Mecklenburg 2020
+- src: images/Mitternachtssnack_Liebenwalde_Mecklenburg_2020.jpg
+  title: Mitternachtssnack Liebenwalde Mecklenburg 2020
+- src: images/Zweier_auf_dem_Weg_nach_Liebenwalde_Mecklenburg_2020.jpg
+  title: Zweier auf dem Weg nach Liebenwalde Mecklenburg 2020
+- src: images/Zerpenschleuse_Anleger_Mecklenburg_2020.jpg
+  title: Zerpenschleuse Anleger Mecklenburg 2020
+- src: images/Oder_Havel_Kanal_Mecklenburg_2020.jpg
+  title: Oder Havel Kanal Mecklenburg 2020
+- src: images/Ruderboot_Langer_Traedel_Finowkanal_Mecklenburg_2020.jpg
+  title: Ruderboot Langer Traedel Finowkanal Mecklenburg 2020
+- src: images/Vierer_Oder_Havel_Kanal_Mecklenburg_2020.jpg
+  title: Vierer Oder Havel Kanal Mecklenburg 2020
+- src: images/Blondinen_bevorzugt_Mecklenburg_2020.jpg
+  title: Blondinen bevorzugt Mecklenburg 2020
+- src: images/Birkenwerder_Ruderboot_vor_dem_Steg_Mecklenburg_2020.jpg
+  title: Birkenwerder Ruderboot vor dem Steg Mecklenburg 2020
+- src: images/Eis_essen_Oranienburg_Mecklenburg_2020.jpg
+  title: Eis essen Oranienburg Mecklenburg 2020
+- src: images/wieder_in_Stahnsdorf_nach_800_km_Mecklenburg_2020.jpg
+  title: wieder in Stahnsdorf nach 800 km Mecklenburg 2020
+länder:
+- deutschland
+title: Mecklenburg Umfahrt 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

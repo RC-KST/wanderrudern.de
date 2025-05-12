@@ -1,256 +1,181 @@
-+++
-title = "Saimaa 2005"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = ["oder", "saimaa", "orivesi"]
-"länder" = ["deutschland", "finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bootsanhänger beim Polizeiruderclub in Stockholm"
-src = "images/Finnland_2005_-Stockholmanhaenger.jpg"
-[[images]]
-title = "Markt Stockholm"
-src = "images/Finnland_2005_-_markt.jpg"
-[[images]]
-title = "Ruderer in Stockholm"
-src = "images/Finnland_2005_-parkbank.jpg"
-[[images]]
-title = "s05_RC_Stockholm"
-src = "images/s05_RC_Stockholm.jpg"
-[[images]]
-title = "Silja Serenade Ruderfahrt"
-src = "images/Finnland_2005_-_serenade_seite__33_.jpg"
-[[images]]
-title = "Stockholm Ruderer vor dem schloss"
-src = "images/Finnland_2005_-vorschloss.jpg"
-[[images]]
-title = "Stockholm - im Skansen"
-src = "images/Finnland_2005_-_im_Skansen_26_.jpg"
-[[images]]
-title = "zu gutes Büffet"
-src = "images/Finnland_2005_-_abschleppen__39_.jpg"
-[[images]]
-title = "Finnland 2005 - edith fahre (42)"
-src = "images/Finnland_2005_-_edith_fahre__42_.jpg"
-[[images]]
-title = "Finnland 2005  faehre deck Paula Sophie"
-src = "images/Finnland_2005_-faehre_deck__50_.jpg"
-[[images]]
-title = "s05_buffet1"
-src = "images/s05_buffet1.jpg"
-[[images]]
-title = "Büffet auf der Siljaline"
-src = "images/s05_buffet2.jpg"
-[[images]]
-title = "Silja Serenade passage"
-src = "images/S05_passage.jpg"
-[[images]]
-title = "Die Mädels beim Shopen auf der Fähre"
-src = "images/S05_parfuem.jpg"
-[[images]]
-title = "Finnland 2005 - olavlinna (68)"
-src = "images/Finnland_2005_-_olavlinna__68_.jpg"
-[[images]]
-title = "Finnland 2005 - olavlinna4 (64)"
-src = "images/Finnland_2005_-_olavlinna4__64_.jpg"
-[[images]]
-title = "Wir suchen den Weg Ruderboot"
-src = "images/s05_landkarten_suchen.jpg"
-[[images]]
-title = "Finnland 2005 - Vierer(113)"
-src = "images/Finnland_2005_-_Vierer_113_.jpg"
-[[images]]
-title = "Finnland 2005 - varkaus huette (74)"
-src = "images/Finnland_2005_-_varkaus_huette__74_.jpg"
-[[images]]
-title = "Finnland 2005 - sophie + phillipp (112)"
-src = "images/Finnland_2005_-_sophie___phillipp__112_.jpg"
-[[images]]
-title = "s05_sprung_vom_boot"
-src = "images/s05_sprung_vom_boot.jpg"
-[[images]]
-title = "s05 puumala sonnenuntergang"
-src = "images/s05_puumala_sonnenuntergang.jpg"
-[[images]]
-title = "saimaa varkaus abendessen"
-src = "images/s05_varkaus_abendessen.jpg"
-[[images]]
-title = "schneiders wohnmobil (71)"
-src = "images/Finnland_2005_-_schneiders_wohnmobil__71_.jpg"
-[[images]]
-title = "s05_sprung2,"
-src = "images/s05_sprung2_.jpg"
-[[images]]
-title = "Saimaa stromschnelle Finnland"
-src = "images/s05_stromschnelle.jpg"
-[[images]]
-title = "s05 geburtstagsfeier"
-src = "images/s05_geburtstagsfeier.jpg"
-[[images]]
-title = "s05_allesimwasser"
-src = "images/s05_allesimwasser.jpg"
-[[images]]
-title = "s05 levalahti"
-src = "images/s05_levalahti.jpg"
-[[images]]
-title = "s05 ediths zelt"
-src = "images/s05_ediths_zelt.jpg"
-[[images]]
-title = "s05_aufdemschoss"
-src = "images/s05_aufdemschoss.jpg"
-[[images]]
-title = "Finnland 2005 - charlie (79)"
-src = "images/Finnland_2005_-_charlie__79_.jpg"
-[[images]]
-title = "Finnland 2005 - abwaschen (85)"
-src = "images/Finnland_2005_-_abwaschen__85_.jpg"
-[[images]]
-title = "Finnland 2005 - sophie + ihre huendchen (91)"
-src = "images/Finnland_2005_-_sophie___ihre_huendchen__91_.jpg"
-[[images]]
-title = "s05_leonardo"
-src = "images/s05_leonardo.jpg"
-[[images]]
-title = "Finnland 2005 - jens (90)"
-src = "images/Finnland_2005_-_jens__90_.jpg"
-[[images]]
-title = "saimaa rundfahrer"
-src = "images/s05_rundfahrer.jpg"
-[[images]]
-title = "Sophie im Boot"
-src = "images/s05_imBoot2.jpg"
-[[images]]
-title = "s05_imBoot"
-src = "images/s05_imBoot.jpg"
-[[images]]
-title = "s05 alles baumgarten boote"
-src = "images/s05_alle_boote.jpg"
-[[images]]
-title = "Saimaa sonnenuntergang"
-src = "images/s05_sonnenuntergang.jpg"
-[[images]]
-title = "s05 savonranta kartenspiel paula sophie"
-src = "images/s05_savonranta_kartenspiel2.jpg"
-[[images]]
-title = "Saimaa savonranta kartenspiel"
-src = "images/s05_savonranta_kartenspiel.jpg"
-[[images]]
-title = "s05 savonranta knaeckebrot"
-src = "images/s05_savonranta_knaeckebrot.jpg"
-[[images]]
-title = "saimaa05 gepaeck der Ruderer"
-src = "images/saimaa05_gepaeck.jpg"
-[[images]]
-title = "saima05 paula sophie"
-src = "images/saima05_paula_sophie.jpg"
-[[images]]
-title = "s05_punkaharju_waesche"
-src = "images/s05_punkaharju_waesche.jpg"
-[[images]]
-title = "Saimaa zwei vierer Ruderboote"
-src = "images/s05_zwei_vierer.jpg"
-[[images]]
-title = "Saimaa kerimaki sprungturm"
-src = "images/s05_kerimaki_sprungturm.jpg"
-[[images]]
-title = "saimaa kerimaki sprungturm2"
-src = "images/s05_kerimaki_sprungturm2.jpg"
-[[images]]
-title = "Finnland 2005 - sophie (108)"
-src = "images/Finnland_2005_-_sophie__108_.jpg"
-[[images]]
-title = "s05 abschied"
-src = "images/s05_abschied.jpg"
-[[images]]
-title = "Finnland 2005 - mannschaft Ruderer"
-src = "images/Finnland_2005_-_mannschaft__101_.jpg"
-[[images]]
-title = "Finnland 2005 - packers Geburtstag"
-src = "images/Finnland_2005_-_packer__92_.jpg"
-[[images]]
-title = "Finnland 2005 - paula gurke (105)"
-src = "images/Finnland_2005_-_paula_gurke__105_.jpg"
-[[images]]
-title = "Finnland 2005 - fruehstueck (115)"
-src = "images/Finnland_2005_-_fruehstueck__115_.jpg"
-[[images]]
-title = "Finnland 2005 - interview (118)"
-src = "images/Finnland_2005_-_interview__118_.jpg"
-[[images]]
-title = "Finnland 2005 - gammeln (145)"
-src = "images/Finnland_2005_-_gammeln__145_.jpg"
-[[images]]
-title = "Finnland 2005 - bug ruderboot"
-src = "images/Finnland_2005_-_bug_144_.jpg"
-[[images]]
-title = "saimaa05 huette"
-src = "images/saimaa05_huette.jpg"
-[[images]]
-title = "Saimaa seerosen"
-src = "images/s05_seerosen.jpg"
-[[images]]
-title = "Finnland 2005 - sophie + verehrer (177)"
-src = "images/Finnland_2005_-_sophie___verehrer__177_.jpg"
-[[images]]
-title = "Finnland 2005 -Lagerfeuer Ruderer"
-src = "images/Finnland_2005_-Lagerfeuer__152_.jpg"
-[[images]]
-title = "Finnland 2005 - baywatch Paula"
-src = "images/Finnland_2005_-_baywatch__127_.jpg"
-[[images]]
-title = "Finnland 2005 - nixe"
-src = "images/Finnland_2005_-_nixe.jpg"
-[[images]]
-title = "Finnland 2005 - Paula Stefan (159)"
-src = "images/Finnland_2005_-_Paula_Stefan__159_.jpg"
-[[images]]
-title = "Finnland 2005 - strand"
-src = "images/Finnland_2005_-_strand_125_.jpg"
-[[images]]
-title = "Finnland 2005 - malte (109)"
-src = "images/Finnland_2005_-_malte__109_.jpg"
-[[images]]
-title = "Finnland 2005 - Paulas jungs (166)"
-src = "images/Finnland_2005_-_Paula_jungs__166_.jpg"
-[[images]]
-title = "Finnland 2005 -puumala aussicht (174)"
-src = "images/Finnland_2005_-puumala_aussicht__174_.jpg"
-[[images]]
-title = "Finnland 2005 - koskenelka aufraeumen (178)"
-src = "images/Finnland_2005_-_koskenelka_aufraeumen__178_.jpg"
-[[images]]
-title = "Finnland 2005 - puumala bruecke(172)"
-src = "images/Finnland_2005_-_puumala_bruecke_172_.jpg"
-[[images]]
-title = "Finnland 2005 - helsinki gruppe (199)"
-src = "images/Finnland_2005_-_helsinki_gruppe__199_.jpg"
-[[images]]
-title = "Finnland 2005 - helsinki dom (194)"
-src = "images/Finnland_2005_-_helsinki_dom__194_.jpg"
-[[images]]
-title = "Finnland 2005 - Paula sophie malte (186)"
-src = "images/Finnland_2005_-_Paula_sophie_malte__186_.jpg"
-[[images]]
-title = "Finnland 2005 - helsinki treppe (196)"
-src = "images/Finnland_2005_-_helsinki_treppe__196_.jpg"
-[[images]]
-title = "Finnland 2005 - helsinki park (187)"
-src = "images/Finnland_2005_-_helsinki_park__187_.jpg"
-[[images]]
-title = "Finnland 2005 - sophie fremdenfuehrer (213)"
-src = "images/Finnland_2005_-_sophie_fremdenfuehrer__213_.jpg"
-[[images]]
-title = "Finnland 2005 - taufe (221)"
-src = "images/Finnland_2005_-_taufe__221_.jpg"
-[[images]]
-title = "Finnland 2005 - verfolger Vikingline"
-src = "images/Finnland_2005_-_verfolger__207_.jpg"
-[[images]]
-title = "Finnland 2005 - trelleborg paula jens (216)"
-src = "images/Finnland_2005_-_trelleborg_paula_jens__216_.jpg"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- saimaa
+- orivesi
+images:
+- src: images/Finnland_2005_-Stockholmanhaenger.jpg
+  title: Bootsanhänger beim Polizeiruderclub in Stockholm
+- src: images/Finnland_2005_-_markt.jpg
+  title: Markt Stockholm
+- src: images/Finnland_2005_-parkbank.jpg
+  title: Ruderer in Stockholm
+- src: images/s05_RC_Stockholm.jpg
+  title: s05_RC_Stockholm
+- src: images/Finnland_2005_-_serenade_seite__33_.jpg
+  title: Silja Serenade Ruderfahrt
+- src: images/Finnland_2005_-vorschloss.jpg
+  title: Stockholm Ruderer vor dem schloss
+- src: images/Finnland_2005_-_im_Skansen_26_.jpg
+  title: Stockholm - im Skansen
+- src: images/Finnland_2005_-_abschleppen__39_.jpg
+  title: zu gutes Büffet
+- src: images/Finnland_2005_-_edith_fahre__42_.jpg
+  title: Finnland 2005 - edith fahre (42)
+- src: images/Finnland_2005_-faehre_deck__50_.jpg
+  title: Finnland 2005  faehre deck Paula Sophie
+- src: images/s05_buffet1.jpg
+  title: s05_buffet1
+- src: images/s05_buffet2.jpg
+  title: Büffet auf der Siljaline
+- src: images/S05_passage.jpg
+  title: Silja Serenade passage
+- src: images/S05_parfuem.jpg
+  title: Die Mädels beim Shopen auf der Fähre
+- src: images/Finnland_2005_-_olavlinna__68_.jpg
+  title: Finnland 2005 - olavlinna (68)
+- src: images/Finnland_2005_-_olavlinna4__64_.jpg
+  title: Finnland 2005 - olavlinna4 (64)
+- src: images/s05_landkarten_suchen.jpg
+  title: Wir suchen den Weg Ruderboot
+- src: images/Finnland_2005_-_Vierer_113_.jpg
+  title: Finnland 2005 - Vierer(113)
+- src: images/Finnland_2005_-_varkaus_huette__74_.jpg
+  title: Finnland 2005 - varkaus huette (74)
+- src: images/Finnland_2005_-_sophie___phillipp__112_.jpg
+  title: Finnland 2005 - sophie + phillipp (112)
+- src: images/s05_sprung_vom_boot.jpg
+  title: s05_sprung_vom_boot
+- src: images/s05_puumala_sonnenuntergang.jpg
+  title: s05 puumala sonnenuntergang
+- src: images/s05_varkaus_abendessen.jpg
+  title: saimaa varkaus abendessen
+- src: images/Finnland_2005_-_schneiders_wohnmobil__71_.jpg
+  title: schneiders wohnmobil (71)
+- src: images/s05_sprung2_.jpg
+  title: s05_sprung2,
+- src: images/s05_stromschnelle.jpg
+  title: Saimaa stromschnelle Finnland
+- src: images/s05_geburtstagsfeier.jpg
+  title: s05 geburtstagsfeier
+- src: images/s05_allesimwasser.jpg
+  title: s05_allesimwasser
+- src: images/s05_levalahti.jpg
+  title: s05 levalahti
+- src: images/s05_ediths_zelt.jpg
+  title: s05 ediths zelt
+- src: images/s05_aufdemschoss.jpg
+  title: s05_aufdemschoss
+- src: images/Finnland_2005_-_charlie__79_.jpg
+  title: Finnland 2005 - charlie (79)
+- src: images/Finnland_2005_-_abwaschen__85_.jpg
+  title: Finnland 2005 - abwaschen (85)
+- src: images/Finnland_2005_-_sophie___ihre_huendchen__91_.jpg
+  title: Finnland 2005 - sophie + ihre huendchen (91)
+- src: images/s05_leonardo.jpg
+  title: s05_leonardo
+- src: images/Finnland_2005_-_jens__90_.jpg
+  title: Finnland 2005 - jens (90)
+- src: images/s05_rundfahrer.jpg
+  title: saimaa rundfahrer
+- src: images/s05_imBoot2.jpg
+  title: Sophie im Boot
+- src: images/s05_imBoot.jpg
+  title: s05_imBoot
+- src: images/s05_alle_boote.jpg
+  title: s05 alles baumgarten boote
+- src: images/s05_sonnenuntergang.jpg
+  title: Saimaa sonnenuntergang
+- src: images/s05_savonranta_kartenspiel2.jpg
+  title: s05 savonranta kartenspiel paula sophie
+- src: images/s05_savonranta_kartenspiel.jpg
+  title: Saimaa savonranta kartenspiel
+- src: images/s05_savonranta_knaeckebrot.jpg
+  title: s05 savonranta knaeckebrot
+- src: images/saimaa05_gepaeck.jpg
+  title: saimaa05 gepaeck der Ruderer
+- src: images/saima05_paula_sophie.jpg
+  title: saima05 paula sophie
+- src: images/s05_punkaharju_waesche.jpg
+  title: s05_punkaharju_waesche
+- src: images/s05_zwei_vierer.jpg
+  title: Saimaa zwei vierer Ruderboote
+- src: images/s05_kerimaki_sprungturm.jpg
+  title: Saimaa kerimaki sprungturm
+- src: images/s05_kerimaki_sprungturm2.jpg
+  title: saimaa kerimaki sprungturm2
+- src: images/Finnland_2005_-_sophie__108_.jpg
+  title: Finnland 2005 - sophie (108)
+- src: images/s05_abschied.jpg
+  title: s05 abschied
+- src: images/Finnland_2005_-_mannschaft__101_.jpg
+  title: Finnland 2005 - mannschaft Ruderer
+- src: images/Finnland_2005_-_packer__92_.jpg
+  title: Finnland 2005 - packers Geburtstag
+- src: images/Finnland_2005_-_paula_gurke__105_.jpg
+  title: Finnland 2005 - paula gurke (105)
+- src: images/Finnland_2005_-_fruehstueck__115_.jpg
+  title: Finnland 2005 - fruehstueck (115)
+- src: images/Finnland_2005_-_interview__118_.jpg
+  title: Finnland 2005 - interview (118)
+- src: images/Finnland_2005_-_gammeln__145_.jpg
+  title: Finnland 2005 - gammeln (145)
+- src: images/Finnland_2005_-_bug_144_.jpg
+  title: Finnland 2005 - bug ruderboot
+- src: images/saimaa05_huette.jpg
+  title: saimaa05 huette
+- src: images/s05_seerosen.jpg
+  title: Saimaa seerosen
+- src: images/Finnland_2005_-_sophie___verehrer__177_.jpg
+  title: Finnland 2005 - sophie + verehrer (177)
+- src: images/Finnland_2005_-Lagerfeuer__152_.jpg
+  title: Finnland 2005 -Lagerfeuer Ruderer
+- src: images/Finnland_2005_-_baywatch__127_.jpg
+  title: Finnland 2005 - baywatch Paula
+- src: images/Finnland_2005_-_nixe.jpg
+  title: Finnland 2005 - nixe
+- src: images/Finnland_2005_-_Paula_Stefan__159_.jpg
+  title: Finnland 2005 - Paula Stefan (159)
+- src: images/Finnland_2005_-_strand_125_.jpg
+  title: Finnland 2005 - strand
+- src: images/Finnland_2005_-_malte__109_.jpg
+  title: Finnland 2005 - malte (109)
+- src: images/Finnland_2005_-_Paula_jungs__166_.jpg
+  title: Finnland 2005 - Paulas jungs (166)
+- src: images/Finnland_2005_-puumala_aussicht__174_.jpg
+  title: Finnland 2005 -puumala aussicht (174)
+- src: images/Finnland_2005_-_koskenelka_aufraeumen__178_.jpg
+  title: Finnland 2005 - koskenelka aufraeumen (178)
+- src: images/Finnland_2005_-_puumala_bruecke_172_.jpg
+  title: Finnland 2005 - puumala bruecke(172)
+- src: images/Finnland_2005_-_helsinki_gruppe__199_.jpg
+  title: Finnland 2005 - helsinki gruppe (199)
+- src: images/Finnland_2005_-_helsinki_dom__194_.jpg
+  title: Finnland 2005 - helsinki dom (194)
+- src: images/Finnland_2005_-_Paula_sophie_malte__186_.jpg
+  title: Finnland 2005 - Paula sophie malte (186)
+- src: images/Finnland_2005_-_helsinki_treppe__196_.jpg
+  title: Finnland 2005 - helsinki treppe (196)
+- src: images/Finnland_2005_-_helsinki_park__187_.jpg
+  title: Finnland 2005 - helsinki park (187)
+- src: images/Finnland_2005_-_sophie_fremdenfuehrer__213_.jpg
+  title: Finnland 2005 - sophie fremdenfuehrer (213)
+- src: images/Finnland_2005_-_taufe__221_.jpg
+  title: Finnland 2005 - taufe (221)
+- src: images/Finnland_2005_-_verfolger__207_.jpg
+  title: Finnland 2005 - verfolger Vikingline
+- src: images/Finnland_2005_-_trelleborg_paula_jens__216_.jpg
+  title: Finnland 2005 - trelleborg paula jens (216)
+länder:
+- deutschland
+- finnland
+- schweden
+title: Saimaa 2005
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

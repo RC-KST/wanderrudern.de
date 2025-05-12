@@ -1,16 +1,16 @@
-+++
-title = "Stahnsdorf - Schnackenburg Nov 2011"
-author = ""
-date = 2011-11-11T01:00:00+02:00
-begin = "2011-11-01"
-"gewässer" = ["po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Elina Ehrenamtsauszeichnung 2011"
-src = "images/Elina_Ehrenamtsauszeichnung_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-11-01"
+date: "2011-11-11T01:00:00+02:00"
+gewässer:
+- po
+images:
+- src: images/Elina_Ehrenamtsauszeichnung_2011.jpg
+  title: Elina Ehrenamtsauszeichnung 2011
+länder: []
+title: Stahnsdorf - Schnackenburg Nov 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

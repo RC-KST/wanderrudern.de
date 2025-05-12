@@ -1,55 +1,49 @@
-+++
-title = "Rüugen 1994"
-author = ""
-date = 1994-05-05T01:00:00+02:00
-begin = "1994-05-01"
-"gewässer" = ["ostsee", "rügen", "hiddensee", "spreewald", "oder", "bug"]
-"länder" = ["dänemark", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "annette mit rettungsweste stralsund ruderclub steg"
-src = "images/annette.jpg"
-[[images]]
-title = "vor Rügen im Ruderboot"
-src = "images/im_boot.jpg"
-[[images]]
-title = "Ruderboot auf Welle Inrigger rudern"
-src = "images/Boot_auf_welle.jpg"
-[[images]]
-title = "brandung Anlege ruderboot arkona nordstrand"
-src = "images/brandung.jpg"
-[[images]]
-title = "pyramide schiffbrüchigenzeichen riemen ruderer"
-src = "images/pyramide.jpg"
-[[images]]
-title = "Nebel anna franzi rudern "
-src = "images/Nebel_anna_franzi2.jpg"
-[[images]]
-title = "stubenkammer franzi ruderboot"
-src = "images/stubenkammer_franzi.jpg"
-[[images]]
-title = "vor dem start ruderboot am strand inrigger ostsee"
-src = "images/vor_dem_start.jpg"
-[[images]]
-title = "anna franzi rudern ruderboot ostsee rügen"
-src = "images/anna_franzi_boot2.jpg"
-[[images]]
-title = "anlanden mit dem ruderboot am ostseestrand"
-src = "images/anlanden.jpg"
-[[images]]
-title = "Ruderer am strand sonnenuntergang"
-src = "images/am_strand.jpg"
-[[images]]
-title = "anna anette neben dem ruderboot"
-src = "images/anna_anette.jpg"
-[[images]]
-title = "yachthafen ruderboot in box "
-src = "images/yachthafen.jpg"
-[[images]]
-title = "bungalows rügen abendessen ruderinnen"
-src = "images/bungalows.jpg"
-
-+++
+---
+author: ""
+begin: "1994-05-01"
+date: "1994-05-05T01:00:00+02:00"
+gewässer:
+- ostsee
+- rügen
+- hiddensee
+- spreewald
+- oder
+- bug
+images:
+- src: images/annette.jpg
+  title: annette mit rettungsweste stralsund ruderclub steg
+- src: images/im_boot.jpg
+  title: vor Rügen im Ruderboot
+- src: images/Boot_auf_welle.jpg
+  title: Ruderboot auf Welle Inrigger rudern
+- src: images/brandung.jpg
+  title: brandung Anlege ruderboot arkona nordstrand
+- src: images/pyramide.jpg
+  title: pyramide schiffbrüchigenzeichen riemen ruderer
+- src: images/Nebel_anna_franzi2.jpg
+  title: 'Nebel anna franzi rudern '
+- src: images/stubenkammer_franzi.jpg
+  title: stubenkammer franzi ruderboot
+- src: images/vor_dem_start.jpg
+  title: vor dem start ruderboot am strand inrigger ostsee
+- src: images/anna_franzi_boot2.jpg
+  title: anna franzi rudern ruderboot ostsee rügen
+- src: images/anlanden.jpg
+  title: anlanden mit dem ruderboot am ostseestrand
+- src: images/am_strand.jpg
+  title: Ruderer am strand sonnenuntergang
+- src: images/anna_anette.jpg
+  title: anna anette neben dem ruderboot
+- src: images/yachthafen.jpg
+  title: 'yachthafen ruderboot in box '
+- src: images/bungalows.jpg
+  title: bungalows rügen abendessen ruderinnen
+länder:
+- dänemark
+- schweden
+title: Rüugen 1994
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,23 @@
-+++
-title = "Ketzin Maerz 07"
-author = ""
-date = 2007-03-03T01:00:00+02:00
-begin = "2007-03-01"
-"gewässer" = ["donau", "havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Brandenburg am Steg"
-src = "images/Brandenburg_am_Steg.jpg"
-[[images]]
-title = "Manuel endlich 16"
-src = "images/Manuel_endlich_16.jpg"
-[[images]]
-title = "Zweier vor der Glienicker Bruecke 07"
-src = "images/Zweier_vor_der_Glienicker_Bruecke_07.jpg"
-[[images]]
-title = "Ruderer im Regen Brandenburg 07"
-src = "images/Ruderer_im_Regen_Brandenburg_07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-03-01"
+date: "2007-03-03T01:00:00+02:00"
+gewässer:
+- donau
+- havel
+images:
+- src: images/Brandenburg_am_Steg.jpg
+  title: Brandenburg am Steg
+- src: images/Manuel_endlich_16.jpg
+  title: Manuel endlich 16
+- src: images/Zweier_vor_der_Glienicker_Bruecke_07.jpg
+  title: Zweier vor der Glienicker Bruecke 07
+- src: images/Ruderer_im_Regen_Brandenburg_07.jpg
+  title: Ruderer im Regen Brandenburg 07
+länder: []
+title: Ketzin Maerz 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

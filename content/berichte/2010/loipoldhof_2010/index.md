@@ -1,76 +1,56 @@
-+++
-title = "Loipoldhof 2010"
-author = ""
-date = 2010-08-08T01:00:00+02:00
-begin = "2010-08-01"
-"gewässer" = ["po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bergpanorama Dachstein Stoderzinken Kammspitze L10"
-src = "images/Bergpanorama_Dachstein_Stoderzinken_Kammspitze_L10.jpg"
-[[images]]
-title = "Gipfelbuch Pleschnitzzinken L10"
-src = "images/Gipfelbuch_Pleschnitzzinken_L10.jpg"
-[[images]]
-title = "Gipfelkreuz Pleschnitzzinken L10"
-src = "images/Gipfelkreuz_Pleschnitzzinken_L10.jpg"
-[[images]]
-title = "Tischtennis am Loipoldhof 11"
-src = "images/Tischtennis_am_Loipoldhof_11.jpg"
-[[images]]
-title = "Kochofen Regenbogen L10"
-src = "images/Kochofen_Regenbogen_L10.jpg"
-[[images]]
-title = "Kleinmachnower Ruderer auf dem Kochofen L10"
-src = "images/Kleinmachnower_Ruderer_auf_dem_Kochofen_L10.jpg"
-[[images]]
-title = "Kochofen Regenbogenpanorama L10"
-src = "images/Kochofen_Regenbogenpanorama_L10.jpg"
-[[images]]
-title = "Bernd mit wilder Kuh L10"
-src = "images/Bernd_mit_wilder_Kuh_L10.jpg"
-[[images]]
-title = "Rast unterhalb des Miesberg L10"
-src = "images/Rast_unterhalb_des_Miesberg_L10.jpg"
-[[images]]
-title = "Geroellfeld unterhalb des Miesberg L10"
-src = "images/Geroellfeld_unterhalb_des_Miesberg_L10.jpg"
-[[images]]
-title = "Auf dem Stein Panorama L10"
-src = "images/Auf_dem_Stein_Panorama_L10.jpg"
-[[images]]
-title = "Panorama am Miesberg L10"
-src = "images/Panorama_am_Miesberg_L10.jpg"
-[[images]]
-title = "Gemuesegarten Loipoldhof 10"
-src = "images/Gemuesegarten_Loipoldhof_10.jpg"
-[[images]]
-title = "Klettergarten Groebming L10"
-src = "images/Klettergarten_Groebming_L10.jpg"
-[[images]]
-title = "Rudern auf dem Steirischen Bodensee L10"
-src = "images/Rudern_auf_dem_Steirischen_Bodensee_L10.jpg"
-[[images]]
-title = "Indiana Jones Bruecke L10"
-src = "images/Indiana_Jones_Bruecke_L10.jpg"
-[[images]]
-title = "Treppe bei den Riesachfaellen L10"
-src = "images/Treppe_bei_den_Riesachfaellen_L10.jpg"
-[[images]]
-title = "Riesachfaelle L10"
-src = "images/Riesachfaelle_L10.jpg"
-[[images]]
-title = "Bettina Riesachklamm L10"
-src = "images/Bettina_Riesachklamm_L10.jpg"
-[[images]]
-title = "Maedchen in Wiese L10"
-src = "images/Maedchen_in_Wiese_L10.jpg"
-[[images]]
-title = "Kletterstelle oberhalb vom Riesachsee L10"
-src = "images/Kletterstelle_oberhalb_vom_Riesachsee_L10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-08-01"
+date: "2010-08-08T01:00:00+02:00"
+gewässer:
+- po
+images:
+- src: images/Bergpanorama_Dachstein_Stoderzinken_Kammspitze_L10.jpg
+  title: Bergpanorama Dachstein Stoderzinken Kammspitze L10
+- src: images/Gipfelbuch_Pleschnitzzinken_L10.jpg
+  title: Gipfelbuch Pleschnitzzinken L10
+- src: images/Gipfelkreuz_Pleschnitzzinken_L10.jpg
+  title: Gipfelkreuz Pleschnitzzinken L10
+- src: images/Tischtennis_am_Loipoldhof_11.jpg
+  title: Tischtennis am Loipoldhof 11
+- src: images/Kochofen_Regenbogen_L10.jpg
+  title: Kochofen Regenbogen L10
+- src: images/Kleinmachnower_Ruderer_auf_dem_Kochofen_L10.jpg
+  title: Kleinmachnower Ruderer auf dem Kochofen L10
+- src: images/Kochofen_Regenbogenpanorama_L10.jpg
+  title: Kochofen Regenbogenpanorama L10
+- src: images/Bernd_mit_wilder_Kuh_L10.jpg
+  title: Bernd mit wilder Kuh L10
+- src: images/Rast_unterhalb_des_Miesberg_L10.jpg
+  title: Rast unterhalb des Miesberg L10
+- src: images/Geroellfeld_unterhalb_des_Miesberg_L10.jpg
+  title: Geroellfeld unterhalb des Miesberg L10
+- src: images/Auf_dem_Stein_Panorama_L10.jpg
+  title: Auf dem Stein Panorama L10
+- src: images/Panorama_am_Miesberg_L10.jpg
+  title: Panorama am Miesberg L10
+- src: images/Gemuesegarten_Loipoldhof_10.jpg
+  title: Gemuesegarten Loipoldhof 10
+- src: images/Klettergarten_Groebming_L10.jpg
+  title: Klettergarten Groebming L10
+- src: images/Rudern_auf_dem_Steirischen_Bodensee_L10.jpg
+  title: Rudern auf dem Steirischen Bodensee L10
+- src: images/Indiana_Jones_Bruecke_L10.jpg
+  title: Indiana Jones Bruecke L10
+- src: images/Treppe_bei_den_Riesachfaellen_L10.jpg
+  title: Treppe bei den Riesachfaellen L10
+- src: images/Riesachfaelle_L10.jpg
+  title: Riesachfaelle L10
+- src: images/Bettina_Riesachklamm_L10.jpg
+  title: Bettina Riesachklamm L10
+- src: images/Maedchen_in_Wiese_L10.jpg
+  title: Maedchen in Wiese L10
+- src: images/Kletterstelle_oberhalb_vom_Riesachsee_L10.jpg
+  title: Kletterstelle oberhalb vom Riesachsee L10
+länder: []
+title: Loipoldhof 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

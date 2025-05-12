@@ -1,22 +1,23 @@
-+++
-title = "Hiddensee 1999"
-author = ""
-date = 1999-08-08T01:00:00+02:00
-begin = "1999-08-01"
-"gewässer" = ["ostsee", "hiddensee"]
-"länder" = ["dänemark", "polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "brandung hiddensee99"
-src = "images/brandung_hiddensee99.jpg"
-[[images]]
-title = "Ruderer beim trocken legen am Strand"
-src = "images/gestrandet.jpg"
-[[images]]
-title = "zurück mit dem Motorboot"
-src = "images/speedboat.jpg"
-
-+++
+---
+author: ""
+begin: "1999-08-01"
+date: "1999-08-08T01:00:00+02:00"
+gewässer:
+- ostsee
+- hiddensee
+images:
+- src: images/brandung_hiddensee99.jpg
+  title: brandung hiddensee99
+- src: images/gestrandet.jpg
+  title: Ruderer beim trocken legen am Strand
+- src: images/speedboat.jpg
+  title: zurück mit dem Motorboot
+länder:
+- dänemark
+- polen
+title: Hiddensee 1999
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

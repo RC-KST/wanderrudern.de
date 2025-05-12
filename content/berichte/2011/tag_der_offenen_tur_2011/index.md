@@ -1,34 +1,27 @@
-+++
-title = "Tag der offenen Tür 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "TdoT.Einsteigen.Mädchen"
-src = "images/TdoT.Einsteigen.Madchen.jpg"
-[[images]]
-title = "TdoT.MißbrauchBootswagen"
-src = "images/TdoT.MissbrauchBootswagen.jpg"
-[[images]]
-title = "TdoT.StartDrei"
-src = "images/TdoT.StartDrei.jpg"
-[[images]]
-title = "Einladung zum Rudern 2011"
-src = "images/Einladung_zum_Rudern_2011.jpg"
-[[images]]
-title = "Proberudern vor der Schleuse Kleinmachnow 2011"
-src = "images/Proberudern_vor_der_Schleuse_Kleinmachnow_2011.jpg"
-[[images]]
-title = "TdoT.Publikum"
-src = "images/TdoT.Publikum1.jpg"
-[[images]]
-title = "TdoT.Zangengeburt"
-src = "images/TdoT.Zangengeburt.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/TdoT.Einsteigen.Madchen.jpg
+  title: TdoT.Einsteigen.Mädchen
+- src: images/TdoT.MissbrauchBootswagen.jpg
+  title: TdoT.MißbrauchBootswagen
+- src: images/TdoT.StartDrei.jpg
+  title: TdoT.StartDrei
+- src: images/Einladung_zum_Rudern_2011.jpg
+  title: Einladung zum Rudern 2011
+- src: images/Proberudern_vor_der_Schleuse_Kleinmachnow_2011.jpg
+  title: Proberudern vor der Schleuse Kleinmachnow 2011
+- src: images/TdoT.Publikum1.jpg
+  title: TdoT.Publikum
+- src: images/TdoT.Zangengeburt.jpg
+  title: TdoT.Zangengeburt
+länder: []
+title: Tag der offenen Tür 2011
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

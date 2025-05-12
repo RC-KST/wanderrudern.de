@@ -1,13 +1,14 @@
-+++
-title = "Ketzin November 2004"
-author = ""
-date = 2004-11-11T01:00:00+02:00
-begin = "2004-11-01"
-"gewässer" = ["havel", "saimaa"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2004-11-01"
+date: "2004-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- saimaa
+länder: []
+title: Ketzin November 2004
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

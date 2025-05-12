@@ -1,55 +1,43 @@
-+++
-title = "Oste Marathon Hemmoor 2016"
-author = ""
-date = 2016-06-06T01:00:00+02:00
-begin = "2016-06-01"
-"gewässer" = ["elbe", "oste"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboote auf dem Osteriff 2016"
-src = "images/Ruderboote_auf_dem_Osteriff_2016.jpg"
-[[images]]
-title = "Mixed Vierer Oste Marathon 2016"
-src = "images/Mixed_Vierer_Oste_Marathon_2016.jpg"
-[[images]]
-title = "Bootsanhaenger als Tetris Oste 2016"
-src = "images/Bootsanhaenger_als_Tetris_Oste_2016.jpg"
-[[images]]
-title = "Hemmoor warten auf den Start Oste 2016"
-src = "images/Hemmoor_warten_auf_den_Start_Oste_2016.jpg"
-[[images]]
-title = "Fuenfer mit auf der Oste 2016"
-src = "images/Fuenfer_mit_auf_der_Oste_2016.jpg"
-[[images]]
-title = "Malte auf der Nordsee Oste 2016"
-src = "images/Malte_auf_der_Nordsee_Oste_2016.jpg"
-[[images]]
-title = "Girliez auf dem Osteriff 2016"
-src = "images/Girliez_auf_dem_Osteriff_2016.jpg"
-[[images]]
-title = "RC KST Jugend auf dem Osteriff 2016"
-src = "images/RC_KST_Jugend_auf_dem_Osteriff_2016.jpg"
-[[images]]
-title = "Masters Vierer Oste 2016"
-src = "images/Masters_Vierer_Oste_2016.jpg"
-[[images]]
-title = "Abendessen Hemmoor Oste 2016"
-src = "images/Abendessen_Hemmoor_Oste_2016.jpg"
-[[images]]
-title = "Masters Oste 2016"
-src = "images/Masters_Oste_2016.jpg"
-[[images]]
-title = "Wattwandern mit dem Fuenfer mit Steuermann Oste 2016"
-src = "images/Wattwandern_mit_dem_Fuenfer_mit_Steuermann_Oste_2016.jpg"
-[[images]]
-title = "Preisverleihung Hemmoor Oste 2016"
-src = "images/Preisverleihung_Hemmoor_Oste_2016.jpg"
-[[images]]
-title = "Osteriff 2016"
-src = "images/Osteriff_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-06-01"
+date: "2016-06-06T01:00:00+02:00"
+gewässer:
+- elbe
+- oste
+images:
+- src: images/Ruderboote_auf_dem_Osteriff_2016.jpg
+  title: Ruderboote auf dem Osteriff 2016
+- src: images/Mixed_Vierer_Oste_Marathon_2016.jpg
+  title: Mixed Vierer Oste Marathon 2016
+- src: images/Bootsanhaenger_als_Tetris_Oste_2016.jpg
+  title: Bootsanhaenger als Tetris Oste 2016
+- src: images/Hemmoor_warten_auf_den_Start_Oste_2016.jpg
+  title: Hemmoor warten auf den Start Oste 2016
+- src: images/Fuenfer_mit_auf_der_Oste_2016.jpg
+  title: Fuenfer mit auf der Oste 2016
+- src: images/Malte_auf_der_Nordsee_Oste_2016.jpg
+  title: Malte auf der Nordsee Oste 2016
+- src: images/Girliez_auf_dem_Osteriff_2016.jpg
+  title: Girliez auf dem Osteriff 2016
+- src: images/RC_KST_Jugend_auf_dem_Osteriff_2016.jpg
+  title: RC KST Jugend auf dem Osteriff 2016
+- src: images/Masters_Vierer_Oste_2016.jpg
+  title: Masters Vierer Oste 2016
+- src: images/Abendessen_Hemmoor_Oste_2016.jpg
+  title: Abendessen Hemmoor Oste 2016
+- src: images/Masters_Oste_2016.jpg
+  title: Masters Oste 2016
+- src: images/Wattwandern_mit_dem_Fuenfer_mit_Steuermann_Oste_2016.jpg
+  title: Wattwandern mit dem Fuenfer mit Steuermann Oste 2016
+- src: images/Preisverleihung_Hemmoor_Oste_2016.jpg
+  title: Preisverleihung Hemmoor Oste 2016
+- src: images/Osteriff_2016.jpg
+  title: Osteriff 2016
+länder: []
+title: Oste Marathon Hemmoor 2016
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

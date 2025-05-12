@@ -1,118 +1,84 @@
-+++
-title = "Loipoldhof 2011"
-author = ""
-date = 2011-08-08T01:00:00+02:00
-begin = "2011-08-01"
-"gewässer" = ["po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Loipoldhof 2011"
-src = "images/Loipoldhof_2011.jpg"
-[[images]]
-title = "Loipoldhof Panorama 2011"
-src = "images/Loipoldhof_Panorama_2011.jpg"
-[[images]]
-title = "Ruderer beim Anstieg zum Kochofen Loipold 2011"
-src = "images/Ruderer_beim_Anstieg_zum_Kochofen_Loipold_2011.jpg"
-[[images]]
-title = "Kochofen Gipfel Loipold 11"
-src = "images/Kochofen_Gipfel_Loipold_11.jpg"
-[[images]]
-title = "Grat vom Kochofen Loipoldhof 2011"
-src = "images/Grat_vom_Kochofen_Loipoldhof_2011.jpg"
-[[images]]
-title = "Grat am Kochofen Loipold 11"
-src = "images/Grat_am_Kochofen_Loipold_11.jpg"
-[[images]]
-title = "Jochen klettert an der Klippe Loipoldhof 2011"
-src = "images/Jochen_klettert_an_der_Klippe_Loipoldhof_2011.jpg"
-[[images]]
-title = "Blick ins Sattental Loipoldhof 2011"
-src = "images/Blick_ins_Sattental_Loipoldhof_2011.jpg"
-[[images]]
-title = "Martin auf der Perneralm Loipold 11"
-src = "images/Martin_auf_der_Perneralm_Loipold_11.jpg"
-[[images]]
-title = "Aufstieg zur Ochsenkarhöhe vom Sattental Loipold 11"
-src = "images/Aufstieg_zur_Ochsenkarhohe_vom_Sattental_Loipold_11.jpg"
-[[images]]
-title = "Obersee zur Neualmscharte Loipoldhof 2011"
-src = "images/Obersee_zur_Neualmscharte_Loipoldhof_2011.jpg"
-[[images]]
-title = "Nirina am Abgrund Stoderzinken Loipold 2011"
-src = "images/Nirina_am_Abgrund_Stoderzinken_Loipold_2011.jpg"
-[[images]]
-title = "Stoderzinken Martin Jonathan Loipold 11"
-src = "images/Stoderzinken_Martin_Jonathan_Loipold_11.jpg"
-[[images]]
-title = "Stoderzinken Gipfel Nirina Loipold 11"
-src = "images/Stoderzinken_Gipfel_Nirina_Loipold_11.jpg"
-[[images]]
-title = "Stoderzinken Martin Jonathan Loipoldhof 2011"
-src = "images/Stoderzinken_Martin_Jonathan_Loipoldhof_2011.jpg"
-[[images]]
-title = "Pleschnitzzinken Nirina Moritz am Abgrund Loipold 11"
-src = "images/Pleschnitzzinken_Nirina_Moritz_am_Abgrund_Loipold_11.jpg"
-[[images]]
-title = "Gipfelkreuz Pleschnitzzinken Ruderer Loipold 11"
-src = "images/Gipfelkreuz_Pleschnitzzinken_Ruderer_Loipold_11.jpg"
-[[images]]
-title = "Moritz vor der Hochwildstelle Loipold 11"
-src = "images/Moritz_vor_der_Hochwildstelle_Loipold_11.jpg"
-[[images]]
-title = "Weg zum Pleschnitzzinken Loipoldhof 2011"
-src = "images/Weg_zum_Pleschnitzzinken_Loipoldhof_2011.jpg"
-[[images]]
-title = "Nirina Weg zur Gamskarspitze Loipold 11"
-src = "images/Nirina_Weg_zur_Gamskarspitze_Loipold_11.jpg"
-[[images]]
-title = "Anstiegsweg zur Gamskarspitze Loipold 11"
-src = "images/Anstiegsweg_zur_Gamskarspitze_Loipold_11.jpg"
-[[images]]
-title = "Nirina Gamskarspitze Loipold 11-1"
-src = "images/Nirina_Gamskarspitze_Loipold_11-1.jpg"
-[[images]]
-title = "Gamskarweg Nirina Loipold 11"
-src = "images/Gamskarweg_Nirina_Loipold_11.jpg"
-[[images]]
-title = "gamskarspitze vom Scheibeleck Loipoldhof 2011"
-src = "images/gamskarspitze_vom_Scheibeleck_Loipoldhof_2011.jpg"
-[[images]]
-title = "Gipfel Gamskarspitze Nirina Stefan Loipold 11"
-src = "images/Gipfel_Gamskarspitze_Nirina_Stefan_Loipold_11.jpg"
-[[images]]
-title = "Maralmsee mit Hoechstein Loipoldhof 2011"
-src = "images/Maralmsee_mit_Hoechstein_Loipoldhof_2011.jpg"
-[[images]]
-title = "Blick auf die Filzscharte Loipoldhof 2011"
-src = "images/Blick_auf_die_Filzscharte_Loipoldhof_2011.jpg"
-[[images]]
-title = "Klettersteig zum Hoechstein Loipoldhof 2011"
-src = "images/Klettersteig_zum_Hoechstein_Loipoldhof_2011.jpg"
-[[images]]
-title = "Bernd im Klettersteig Loipoldhof 2011"
-src = "images/Bernd_im_Klettersteig_Loipoldhof_2011.jpg"
-[[images]]
-title = "Gipfelkreuz Hoechstein Loipoldhof 2011"
-src = "images/Gipfelkreuz_Hoechstein_Loipoldhof_2011.jpg"
-[[images]]
-title = "schmaler Weg Hoechstein Loipold 2011"
-src = "images/schmaler_Weg_Hoechstein_Loipold_2011.jpg"
-[[images]]
-title = "Grafenbergalm Loipoldhof 2011"
-src = "images/Grafenbergalm_Loipoldhof_2011.jpg"
-[[images]]
-title = "Gipfel Kufstein Loipold 11"
-src = "images/Gipfel_Kufstein_Loipold_11.jpg"
-[[images]]
-title = "Aufstieg Kufstein Martin Nirina Jonathan Loipold 11"
-src = "images/Aufstieg_Kufstein_Martin_Nirina_Jonathan_Loipold_11.jpg"
-[[images]]
-title = "Nirina im Geroellfeld Loipold 11"
-src = "images/Nirina_im_Geroellfeld_Loipold_11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-08-01"
+date: "2011-08-08T01:00:00+02:00"
+gewässer:
+- po
+images:
+- src: images/Loipoldhof_2011.jpg
+  title: Loipoldhof 2011
+- src: images/Loipoldhof_Panorama_2011.jpg
+  title: Loipoldhof Panorama 2011
+- src: images/Ruderer_beim_Anstieg_zum_Kochofen_Loipold_2011.jpg
+  title: Ruderer beim Anstieg zum Kochofen Loipold 2011
+- src: images/Kochofen_Gipfel_Loipold_11.jpg
+  title: Kochofen Gipfel Loipold 11
+- src: images/Grat_vom_Kochofen_Loipoldhof_2011.jpg
+  title: Grat vom Kochofen Loipoldhof 2011
+- src: images/Grat_am_Kochofen_Loipold_11.jpg
+  title: Grat am Kochofen Loipold 11
+- src: images/Jochen_klettert_an_der_Klippe_Loipoldhof_2011.jpg
+  title: Jochen klettert an der Klippe Loipoldhof 2011
+- src: images/Blick_ins_Sattental_Loipoldhof_2011.jpg
+  title: Blick ins Sattental Loipoldhof 2011
+- src: images/Martin_auf_der_Perneralm_Loipold_11.jpg
+  title: Martin auf der Perneralm Loipold 11
+- src: images/Aufstieg_zur_Ochsenkarhohe_vom_Sattental_Loipold_11.jpg
+  title: Aufstieg zur Ochsenkarhöhe vom Sattental Loipold 11
+- src: images/Obersee_zur_Neualmscharte_Loipoldhof_2011.jpg
+  title: Obersee zur Neualmscharte Loipoldhof 2011
+- src: images/Nirina_am_Abgrund_Stoderzinken_Loipold_2011.jpg
+  title: Nirina am Abgrund Stoderzinken Loipold 2011
+- src: images/Stoderzinken_Martin_Jonathan_Loipold_11.jpg
+  title: Stoderzinken Martin Jonathan Loipold 11
+- src: images/Stoderzinken_Gipfel_Nirina_Loipold_11.jpg
+  title: Stoderzinken Gipfel Nirina Loipold 11
+- src: images/Stoderzinken_Martin_Jonathan_Loipoldhof_2011.jpg
+  title: Stoderzinken Martin Jonathan Loipoldhof 2011
+- src: images/Pleschnitzzinken_Nirina_Moritz_am_Abgrund_Loipold_11.jpg
+  title: Pleschnitzzinken Nirina Moritz am Abgrund Loipold 11
+- src: images/Gipfelkreuz_Pleschnitzzinken_Ruderer_Loipold_11.jpg
+  title: Gipfelkreuz Pleschnitzzinken Ruderer Loipold 11
+- src: images/Moritz_vor_der_Hochwildstelle_Loipold_11.jpg
+  title: Moritz vor der Hochwildstelle Loipold 11
+- src: images/Weg_zum_Pleschnitzzinken_Loipoldhof_2011.jpg
+  title: Weg zum Pleschnitzzinken Loipoldhof 2011
+- src: images/Nirina_Weg_zur_Gamskarspitze_Loipold_11.jpg
+  title: Nirina Weg zur Gamskarspitze Loipold 11
+- src: images/Anstiegsweg_zur_Gamskarspitze_Loipold_11.jpg
+  title: Anstiegsweg zur Gamskarspitze Loipold 11
+- src: images/Nirina_Gamskarspitze_Loipold_11-1.jpg
+  title: Nirina Gamskarspitze Loipold 11-1
+- src: images/Gamskarweg_Nirina_Loipold_11.jpg
+  title: Gamskarweg Nirina Loipold 11
+- src: images/gamskarspitze_vom_Scheibeleck_Loipoldhof_2011.jpg
+  title: gamskarspitze vom Scheibeleck Loipoldhof 2011
+- src: images/Gipfel_Gamskarspitze_Nirina_Stefan_Loipold_11.jpg
+  title: Gipfel Gamskarspitze Nirina Stefan Loipold 11
+- src: images/Maralmsee_mit_Hoechstein_Loipoldhof_2011.jpg
+  title: Maralmsee mit Hoechstein Loipoldhof 2011
+- src: images/Blick_auf_die_Filzscharte_Loipoldhof_2011.jpg
+  title: Blick auf die Filzscharte Loipoldhof 2011
+- src: images/Klettersteig_zum_Hoechstein_Loipoldhof_2011.jpg
+  title: Klettersteig zum Hoechstein Loipoldhof 2011
+- src: images/Bernd_im_Klettersteig_Loipoldhof_2011.jpg
+  title: Bernd im Klettersteig Loipoldhof 2011
+- src: images/Gipfelkreuz_Hoechstein_Loipoldhof_2011.jpg
+  title: Gipfelkreuz Hoechstein Loipoldhof 2011
+- src: images/schmaler_Weg_Hoechstein_Loipold_2011.jpg
+  title: schmaler Weg Hoechstein Loipold 2011
+- src: images/Grafenbergalm_Loipoldhof_2011.jpg
+  title: Grafenbergalm Loipoldhof 2011
+- src: images/Gipfel_Kufstein_Loipold_11.jpg
+  title: Gipfel Kufstein Loipold 11
+- src: images/Aufstieg_Kufstein_Martin_Nirina_Jonathan_Loipold_11.jpg
+  title: Aufstieg Kufstein Martin Nirina Jonathan Loipold 11
+- src: images/Nirina_im_Geroellfeld_Loipold_11.jpg
+  title: Nirina im Geroellfeld Loipold 11
+länder: []
+title: Loipoldhof 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,19 @@
-+++
-title = "Obmannskurs 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "was macht der Ruderer falsch Obmannskurs RC KST 2011"
-src = "images/was_macht_der_Ruderer_falsch_Obmannskurs_RC_KST_2011.jpg"
-[[images]]
-title = "Obmannskurs RC KST 2011"
-src = "images/Obmannskurs_RC_KST_20111.jpg"
-[[images]]
-title = "Fehleranalyse Rudern Obmannskurs RC KST 2011"
-src = "images/Fehleranalyse_Rudern_Obmannskurs_RC_KST_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/was_macht_der_Ruderer_falsch_Obmannskurs_RC_KST_2011.jpg
+  title: was macht der Ruderer falsch Obmannskurs RC KST 2011
+- src: images/Obmannskurs_RC_KST_20111.jpg
+  title: Obmannskurs RC KST 2011
+- src: images/Fehleranalyse_Rudern_Obmannskurs_RC_KST_2011.jpg
+  title: Fehleranalyse Rudern Obmannskurs RC KST 2011
+länder: []
+title: Obmannskurs 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,20 @@
-+++
-title = "Meissen_Magdeburg"
-author = ""
-date = 2000-02-02T01:00:00+02:00
-begin = "2000-02-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jana Martina rudern"
-src = "images/boot2.jpg"
-[[images]]
-title = "wittenberg rudererinnen"
-src = "images/wittenberg00.jpg"
-[[images]]
-title = "Ruderboot auf der Elbe"
-src = "images/boot2_elb00.jpg"
-
-+++
+---
+author: ""
+begin: "2000-02-01"
+date: "2000-02-02T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/boot2.jpg
+  title: Jana Martina rudern
+- src: images/wittenberg00.jpg
+  title: wittenberg rudererinnen
+- src: images/boot2_elb00.jpg
+  title: Ruderboot auf der Elbe
+länder: []
+title: Meissen_Magdeburg
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

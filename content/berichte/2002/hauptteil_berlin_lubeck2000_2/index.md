@@ -1,31 +1,26 @@
-+++
-title = "Berlin_Lubeck2000_2"
-author = ""
-date = 2002-01-01T01:00:00+02:00
-begin = "2002-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Dömitz Kanuklub ZUfahrt mit Ruderboot"
-src = "images/dschungel.jpg"
-[[images]]
-title = "Ruderer im Boot Pause"
-src = "images/liegen.jpg"
-[[images]]
-title = "Am Elbestrand Ruderer"
-src = "images/elbstrand.jpg"
-[[images]]
-title = "Abendessen in Lauenburg"
-src = "images/lauenburg.jpg"
-[[images]]
-title = "luebeck00"
-src = "images/luebeck00.jpg"
-[[images]]
-title = "segeln"
-src = "images/segeln.jpg"
-
-+++
+---
+author: ""
+begin: "2002-01-01"
+date: "2002-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/dschungel.jpg
+  title: Dömitz Kanuklub ZUfahrt mit Ruderboot
+- src: images/liegen.jpg
+  title: Ruderer im Boot Pause
+- src: images/elbstrand.jpg
+  title: Am Elbestrand Ruderer
+- src: images/lauenburg.jpg
+  title: Abendessen in Lauenburg
+- src: images/luebeck00.jpg
+  title: luebeck00
+- src: images/segeln.jpg
+  title: segeln
+länder: []
+title: Berlin_Lubeck2000_2
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

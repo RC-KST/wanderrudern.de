@@ -1,43 +1,38 @@
-+++
-title = "Spreewald 2022"
-author = ""
-date = 2022-10-10T01:00:00+02:00
-begin = "2022-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schloss Köpenick Spree 2022"
-src = "images/Schloss_Kopenick_Spree_2022.jpg"
-[[images]]
-title = "Müggelsee bei Wind Spree 2022"
-src = "images/Muggelsee_bei_Wind_Spree_2022.jpg"
-[[images]]
-title = "Ruderer auf dem Weg in den Spreewald 2022"
-src = "images/Ruderer_auf_dem_Weg_in_den_Spreewald_2022.jpg"
-[[images]]
-title = "Ruderboot auf Spreewaldfliess 2022"
-src = "images/Ruderboot_auf_Spreewaldfliess_2022.jpg"
-[[images]]
-title = "Fliess im Spreewald 2022"
-src = "images/Fliess_im_Spreewald_2022.jpg"
-[[images]]
-title = "Ruderboot im Spreewald 20222"
-src = "images/Ruderboot_im_Spreewald_20222.jpg"
-[[images]]
-title = "Obere Puhlstromschleuse mit Ruderern Spreewald 2022"
-src = "images/Obere_Puhlstromschleuse_mit_Ruderern_Spreewald_2022.jpg"
-[[images]]
-title = "Ruderboote bei Leibsch Spreewald 2022"
-src = "images/Ruderboote_bei_Leibsch_Spreewald_2022.jpg"
-[[images]]
-title = "Ruderer im Spreewaldhotel 2022"
-src = "images/Ruderer_im_Spreewaldhotel_2022.jpg"
-[[images]]
-title = "Schleuse Lübben mit Ruderbooten Spreewald 2022"
-src = "images/Schleuse_Lubben_mit_Ruderbooten_Spreewald_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-10-01"
+date: "2022-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- köthener see
+images:
+- src: images/Schloss_Kopenick_Spree_2022.jpg
+  title: Schloss Köpenick Spree 2022
+- src: images/Muggelsee_bei_Wind_Spree_2022.jpg
+  title: Müggelsee bei Wind Spree 2022
+- src: images/Ruderer_auf_dem_Weg_in_den_Spreewald_2022.jpg
+  title: Ruderer auf dem Weg in den Spreewald 2022
+- src: images/Ruderboot_auf_Spreewaldfliess_2022.jpg
+  title: Ruderboot auf Spreewaldfliess 2022
+- src: images/Fliess_im_Spreewald_2022.jpg
+  title: Fliess im Spreewald 2022
+- src: images/Ruderboot_im_Spreewald_20222.jpg
+  title: Ruderboot im Spreewald 20222
+- src: images/Obere_Puhlstromschleuse_mit_Ruderern_Spreewald_2022.jpg
+  title: Obere Puhlstromschleuse mit Ruderern Spreewald 2022
+- src: images/Ruderboote_bei_Leibsch_Spreewald_2022.jpg
+  title: Ruderboote bei Leibsch Spreewald 2022
+- src: images/Ruderer_im_Spreewaldhotel_2022.jpg
+  title: Ruderer im Spreewaldhotel 2022
+- src: images/Schleuse_Lubben_mit_Ruderbooten_Spreewald_2022.jpg
+  title: Schleuse Lübben mit Ruderbooten Spreewald 2022
+länder: []
+title: Spreewald 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

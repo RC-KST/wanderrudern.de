@@ -1,19 +1,17 @@
-+++
-title = "RBB Mini ZiBB 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kamerateam vom RBB auf der Schleusenbruecke RC KST 2015"
-src = "images/Kamerateam_vom_RBB_auf_der_Schleusenbruecke_RC_KST_2015.jpg"
-[[images]]
-title = "RBB Zibb Mini zu Gast beim RC KST 2015"
-src = "images/RBB_Zibb_Mini_zu_Gast_beim_RC_KST_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kamerateam_vom_RBB_auf_der_Schleusenbruecke_RC_KST_2015.jpg
+  title: Kamerateam vom RBB auf der Schleusenbruecke RC KST 2015
+- src: images/RBB_Zibb_Mini_zu_Gast_beim_RC_KST_2015.jpg
+  title: RBB Zibb Mini zu Gast beim RC KST 2015
+länder: []
+title: RBB Mini ZiBB 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

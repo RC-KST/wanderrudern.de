@@ -1,73 +1,57 @@
-+++
-title = "Weser 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["weser", "fulda", "aller"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Start an der Fulda Weser 2023"
-src = "images/Start_an_der_Fulda_Weser_2023.jpg"
-[[images]]
-title = "Hamel Downtown Weser 2023"
-src = "images/Hamel_Downtown_Weser_2023.jpg"
-[[images]]
-title = "Hochseilfähre auf der Weser 2023"
-src = "images/Hochseilfahre_auf_der_Weser_2023.jpg"
-[[images]]
-title = "Masters Ruderer auf Weser 2023"
-src = "images/Masters_Ruderer_auf_Weser_2023.jpg"
-[[images]]
-title = "Porta Westfalica Denkmal im Nebel Weser 2023"
-src = "images/Porta_Westfalica_Denkmal_im_Nebel_Weser_2023.jpg"
-[[images]]
-title = "Petershagen beim Ruderverein Weser 2023"
-src = "images/Petershagen_beim_Ruderverein_Weser_2023.jpg"
-[[images]]
-title = "Ruderer im Regen auf der Weser 2023"
-src = "images/Ruderer_im_Regen_auf_der_Weser_2023.jpg"
-[[images]]
-title = "Ruderboot Vierer bei Nienburg Weser 2023"
-src = "images/Ruderboot_Vierer_bei_Nienburg_Weser_2023.jpg"
-[[images]]
-title = "Abendessen in Nienburg Weser 2023"
-src = "images/Abendessen_in_Nienburg_Weser_2023.jpg"
-[[images]]
-title = "Ruderboot Weser 2023"
-src = "images/Ruderboot_Weser_2023.jpg"
-[[images]]
-title = "Bremen Ruderboote am Ziel Weser 2023"
-src = "images/Bremen_Ruderboote_am_Ziel_Weser_2023.jpg"
-[[images]]
-title = "Bremen Ruderer im Kraftraum Weser 2023"
-src = "images/Bremen_Ruderer_im_Kraftraum_Weser_2023.jpg"
-[[images]]
-title = "Bremen Roland Weser 2023"
-src = "images/Bremen_Roland_Weser_2023.jpg"
-[[images]]
-title = "Bremen Stadtmusikanten + Ruderer Weser 2023"
-src = "images/Bremen_Stadtmusikanten___Ruderer_Weser_2023.jpg"
-[[images]]
-title = "Hameln Altstadt Weser 2023"
-src = "images/Hameln_Altstadt_Weser_2023.jpg"
-[[images]]
-title = "Ruderboot passiert Porta Westfalica Weser 2023"
-src = "images/Ruderboot_passiert_Porta_Westfalica_Weser_2023.jpg"
-[[images]]
-title = "Ruderboot in Weserschleuse 2023"
-src = "images/Ruderboot_in_Weserschleuse_2023.jpg"
-[[images]]
-title = "Ruderzweier in NIenburg Weser 2023"
-src = "images/Ruderzweier_in_NIenburg_Weser_2023.jpg"
-[[images]]
-title = "Abendessen der Ruderer in Verden 2023"
-src = "images/Abendessen_der_Ruderer_in_Verden_2023.jpg"
-[[images]]
-title = "Bremen Rathaus Weser 2023"
-src = "images/Bremen_Rathaus_Weser_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+- aller
+images:
+- src: images/Start_an_der_Fulda_Weser_2023.jpg
+  title: Start an der Fulda Weser 2023
+- src: images/Hamel_Downtown_Weser_2023.jpg
+  title: Hamel Downtown Weser 2023
+- src: images/Hochseilfahre_auf_der_Weser_2023.jpg
+  title: Hochseilfähre auf der Weser 2023
+- src: images/Masters_Ruderer_auf_Weser_2023.jpg
+  title: Masters Ruderer auf Weser 2023
+- src: images/Porta_Westfalica_Denkmal_im_Nebel_Weser_2023.jpg
+  title: Porta Westfalica Denkmal im Nebel Weser 2023
+- src: images/Petershagen_beim_Ruderverein_Weser_2023.jpg
+  title: Petershagen beim Ruderverein Weser 2023
+- src: images/Ruderer_im_Regen_auf_der_Weser_2023.jpg
+  title: Ruderer im Regen auf der Weser 2023
+- src: images/Ruderboot_Vierer_bei_Nienburg_Weser_2023.jpg
+  title: Ruderboot Vierer bei Nienburg Weser 2023
+- src: images/Abendessen_in_Nienburg_Weser_2023.jpg
+  title: Abendessen in Nienburg Weser 2023
+- src: images/Ruderboot_Weser_2023.jpg
+  title: Ruderboot Weser 2023
+- src: images/Bremen_Ruderboote_am_Ziel_Weser_2023.jpg
+  title: Bremen Ruderboote am Ziel Weser 2023
+- src: images/Bremen_Ruderer_im_Kraftraum_Weser_2023.jpg
+  title: Bremen Ruderer im Kraftraum Weser 2023
+- src: images/Bremen_Roland_Weser_2023.jpg
+  title: Bremen Roland Weser 2023
+- src: images/Bremen_Stadtmusikanten___Ruderer_Weser_2023.jpg
+  title: Bremen Stadtmusikanten + Ruderer Weser 2023
+- src: images/Hameln_Altstadt_Weser_2023.jpg
+  title: Hameln Altstadt Weser 2023
+- src: images/Ruderboot_passiert_Porta_Westfalica_Weser_2023.jpg
+  title: Ruderboot passiert Porta Westfalica Weser 2023
+- src: images/Ruderboot_in_Weserschleuse_2023.jpg
+  title: Ruderboot in Weserschleuse 2023
+- src: images/Ruderzweier_in_NIenburg_Weser_2023.jpg
+  title: Ruderzweier in NIenburg Weser 2023
+- src: images/Abendessen_der_Ruderer_in_Verden_2023.jpg
+  title: Abendessen der Ruderer in Verden 2023
+- src: images/Bremen_Rathaus_Weser_2023.jpg
+  title: Bremen Rathaus Weser 2023
+länder:
+- italien
+title: Weser 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,20 @@
-+++
-title = "Drachenboot-Rudercup 2013"
-author = ""
-date = 2013-05-05T01:00:00+02:00
-begin = "2013-05-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Logo-Thiel-top04"
-src = "images/Logo-Thiel-top04.gif"
-[[images]]
-title = "Logo-Thiel-bottom04"
-src = "images/Logo-Thiel-bottom04.gif"
-[[images]]
-title = "drachenboot regatta kleinmachnow 0802"
-src = "images/drachenboot_regatta_kleinmachnow_0802.jpg"
-
-+++
+---
+author: ""
+begin: "2013-05-01"
+date: "2013-05-05T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Logo-Thiel-top04.gif
+  title: Logo-Thiel-top04
+- src: images/Logo-Thiel-bottom04.gif
+  title: Logo-Thiel-bottom04
+- src: images/drachenboot_regatta_kleinmachnow_0802.jpg
+  title: drachenboot regatta kleinmachnow 0802
+länder: []
+title: Drachenboot-Rudercup 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

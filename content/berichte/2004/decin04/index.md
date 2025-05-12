@@ -1,34 +1,29 @@
-+++
-title = "Decin04"
-author = ""
-date = 2004-01-01T01:00:00+02:00
-begin = "2004-01-01"
-"gewässer" = ["oder"]
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "sophie_BF04"
-src = "images/sophie_BF04.jpg"
-[[images]]
-title = "Abendessen Hotel Faust"
-src = "images/Hotel_Faust04.jpg"
-[[images]]
-title = "Decin Barke am Ufer"
-src = "images/decin_ufer04.jpg"
-[[images]]
-title = "barke_unterwegs04"
-src = "images/barke_unterwegs04.jpg"
-[[images]]
-title = "Weihnachtsmarkt Pirna "
-src = "images/pirna_WM04.jpg"
-[[images]]
-title = "Barke_hinterdresden04"
-src = "images/Barke_hinterdresden04.jpg"
-[[images]]
-title = "die Jungs vom ASV"
-src = "images/asv04.jpg"
-
-+++
+---
+author: ""
+begin: "2004-01-01"
+date: "2004-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/sophie_BF04.jpg
+  title: sophie_BF04
+- src: images/Hotel_Faust04.jpg
+  title: Abendessen Hotel Faust
+- src: images/decin_ufer04.jpg
+  title: Decin Barke am Ufer
+- src: images/barke_unterwegs04.jpg
+  title: barke_unterwegs04
+- src: images/pirna_WM04.jpg
+  title: 'Weihnachtsmarkt Pirna '
+- src: images/Barke_hinterdresden04.jpg
+  title: Barke_hinterdresden04
+- src: images/asv04.jpg
+  title: die Jungs vom ASV
+länder:
+- tschechien
+title: Decin04
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

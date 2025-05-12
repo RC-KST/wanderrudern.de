@@ -1,139 +1,100 @@
-+++
-title = "Donau 09"
-author = ""
-date = 2009-10-10T01:00:00+02:00
-begin = "2009-10-01"
-"gewässer" = ["donau", "ilz"]
-"länder" = ["österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ulm Start der Ruderboote im Regen D09"
-src = "images/Ulm_Start_der_Ruderboote_im_Regen_D09.jpg"
-[[images]]
-title = "Auf der Donau D09"
-src = "images/Auf_der_Donau_D09.jpg"
-[[images]]
-title = "Ausfahrt aus Donauschleuse D09"
-src = "images/Ausfahrt_aus_Donauschleuse_D09.jpg"
-[[images]]
-title = "die kleinen spielen mit Lego D09"
-src = "images/die_kleinen_spielen_mit_Lego_D09.jpg"
-[[images]]
-title = "Pause in Neuburg D09"
-src = "images/Pause_in_Neuburg_D09.jpg"
-[[images]]
-title = "Donaubootsschleuse D09"
-src = "images/Donaubootsschleuse_D09.jpg"
-[[images]]
-title = "Weltenburg besichtigung D09"
-src = "images/Weltenburg_besichtigung_D09.jpg"
-[[images]]
-title = "Kuppel Weltenburg D09"
-src = "images/Kuppel_Weltenburg_D09.jpg"
-[[images]]
-title = "Ruderboot im Donaudurchbruch bei Kelheim D09"
-src = "images/Ruderboot_im_Donaudurchbruch_bei_Kelheim_D09.jpg"
-[[images]]
-title = "Ruderboote im Donaudurchbruch hinter Passau D09"
-src = "images/Ruderboote_im_Donaudurchbruch_hinter_Passau_D09.jpg"
-[[images]]
-title = "Vierer vor den Felsen Donaudurchbruch D09"
-src = "images/Vierer_vor_den_Felsen_Donaudurchbruch_D09.jpg"
-[[images]]
-title = "der neue Baumgarten Vierer im Einsatz D09"
-src = "images/der_neue_Baumgarten_Vierer_im_Einsatz_D09.jpg"
-[[images]]
-title = "Rudergruppe vor der Befreiungshalle D09"
-src = "images/Rudergruppe_vor_der_Befreiungshalle_D09.jpg"
-[[images]]
-title = "Ruderer in der Befreiungshalle"
-src = "images/Ruderer_in_der_Befreiungshalle.jpg"
-[[images]]
-title = "Sportbootschleuse Donau D09"
-src = "images/Sportbootschleuse_Donau_D09.jpg"
-[[images]]
-title = "VL beim Eisessen D09"
-src = "images/VL_beim_Eisessen_D09.jpg"
-[[images]]
-title = "Ruderervierer kurz vor Ingolstadt D09"
-src = "images/Ruderervierer_kurz_vor_Ingolstadt_D09.jpg"
-[[images]]
-title = "Passau drei Fluesse Blick D09"
-src = "images/Passau_drei_Fluesse_Blick_D09.jpg"
-[[images]]
-title = "Schloegener Schlinge D09"
-src = "images/Schloegener_Schlinge_D09.jpg"
-[[images]]
-title = "hinter Passau D09"
-src = "images/hinter_Passau_D09.jpg"
-[[images]]
-title = "Mittagspause in der Schloegener Schlinge D09"
-src = "images/Mittagspause_in_der_Schloegener_Schlinge_D09.jpg"
-[[images]]
-title = "Stadtfuehrung Melk von Viktor D09"
-src = "images/Stadtfuehrung_Melk_von_Viktor_D09.jpg"
-[[images]]
-title = "Kloster Melk D09"
-src = "images/Kloster_Melk_D09.jpg"
-[[images]]
-title = "Donau mit Werbung D09"
-src = "images/Donau_mit_Werbung_D09.jpg"
-[[images]]
-title = "Wien Prater Wilde Maus D09"
-src = "images/Wien_Prater_Wilde_Maus_D09.jpg"
-[[images]]
-title = "Wien Hofburg D09"
-src = "images/Wien_Hofburg_D09.jpg"
-[[images]]
-title = "Wien Prater Riesenrad D09"
-src = "images/Wien_Prater_Riesenrad_D09.jpg"
-[[images]]
-title = "Ruderer beim Gocart D09"
-src = "images/Ruderer_beim_Gocart_D09.jpg"
-[[images]]
-title = "Go Cart Rennen D09"
-src = "images/Go_Cart_Rennen_D09.jpg"
-[[images]]
-title = "Maedchen beim Eisessen D09"
-src = "images/Maedchen_beim_Eisessen_D09.jpg"
-[[images]]
-title = "Ruderer beim Heurigen D09"
-src = "images/Ruderer_beim_Heurigen_D09.jpg"
-[[images]]
-title = "Ruderjugend bei Schloss Schoenbrunn D09"
-src = "images/Ruderjugend_bei_Schloss_Schoenbrunn_D09.jpg"
-[[images]]
-title = "Gloriette Schoenbrunn D09"
-src = "images/Gloriette_Schoenbrunn_D09.jpg"
-[[images]]
-title = "Bild vom Kahlenberg D09"
-src = "images/Bild_vom_Kahlenberg_D09.jpg"
-[[images]]
-title = "Nachtwanderung vom Kahlenberg nach Nussdorf D09"
-src = "images/Nachtwanderung_vom_Kahlenberg_nach_Nussdorf_D09.jpg"
-[[images]]
-title = "Blick auf das naechtliche Wien D09"
-src = "images/Blick_auf_das_naechtliche_Wien_D09.jpg"
-[[images]]
-title = "Ruderer um Weinberg mit Blick auf Wien D09"
-src = "images/Ruderer_um_Weinberg_mit_Blick_auf_Wien_D09.jpg"
-[[images]]
-title = "Muendung der March in die Donau D09"
-src = "images/Muendung_der_March_in_die_Donau_D09.jpg"
-[[images]]
-title = "Der erste Vierer in Bratislava D09"
-src = "images/Der_erste_Vierer_in_Bratislava_D09.jpg"
-[[images]]
-title = "Abenteuerliche Anlege beim Ruderclub Bratislava D09"
-src = "images/Abenteuerliche_Anlege_beim_Ruderclub_Bratislava_D09.jpg"
-[[images]]
-title = "Burg Bratislava D09"
-src = "images/Burg_Bratislava_D09.jpg"
-[[images]]
-title = "Peppis Stadtfuehrung in Bratislava D09"
-src = "images/Peppis_Stadtfuehrung_in_Bratislava_D09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-10-01"
+date: "2009-10-10T01:00:00+02:00"
+gewässer:
+- donau
+- ilz
+images:
+- src: images/Ulm_Start_der_Ruderboote_im_Regen_D09.jpg
+  title: Ulm Start der Ruderboote im Regen D09
+- src: images/Auf_der_Donau_D09.jpg
+  title: Auf der Donau D09
+- src: images/Ausfahrt_aus_Donauschleuse_D09.jpg
+  title: Ausfahrt aus Donauschleuse D09
+- src: images/die_kleinen_spielen_mit_Lego_D09.jpg
+  title: die kleinen spielen mit Lego D09
+- src: images/Pause_in_Neuburg_D09.jpg
+  title: Pause in Neuburg D09
+- src: images/Donaubootsschleuse_D09.jpg
+  title: Donaubootsschleuse D09
+- src: images/Weltenburg_besichtigung_D09.jpg
+  title: Weltenburg besichtigung D09
+- src: images/Kuppel_Weltenburg_D09.jpg
+  title: Kuppel Weltenburg D09
+- src: images/Ruderboot_im_Donaudurchbruch_bei_Kelheim_D09.jpg
+  title: Ruderboot im Donaudurchbruch bei Kelheim D09
+- src: images/Ruderboote_im_Donaudurchbruch_hinter_Passau_D09.jpg
+  title: Ruderboote im Donaudurchbruch hinter Passau D09
+- src: images/Vierer_vor_den_Felsen_Donaudurchbruch_D09.jpg
+  title: Vierer vor den Felsen Donaudurchbruch D09
+- src: images/der_neue_Baumgarten_Vierer_im_Einsatz_D09.jpg
+  title: der neue Baumgarten Vierer im Einsatz D09
+- src: images/Rudergruppe_vor_der_Befreiungshalle_D09.jpg
+  title: Rudergruppe vor der Befreiungshalle D09
+- src: images/Ruderer_in_der_Befreiungshalle.jpg
+  title: Ruderer in der Befreiungshalle
+- src: images/Sportbootschleuse_Donau_D09.jpg
+  title: Sportbootschleuse Donau D09
+- src: images/VL_beim_Eisessen_D09.jpg
+  title: VL beim Eisessen D09
+- src: images/Ruderervierer_kurz_vor_Ingolstadt_D09.jpg
+  title: Ruderervierer kurz vor Ingolstadt D09
+- src: images/Passau_drei_Fluesse_Blick_D09.jpg
+  title: Passau drei Fluesse Blick D09
+- src: images/Schloegener_Schlinge_D09.jpg
+  title: Schloegener Schlinge D09
+- src: images/hinter_Passau_D09.jpg
+  title: hinter Passau D09
+- src: images/Mittagspause_in_der_Schloegener_Schlinge_D09.jpg
+  title: Mittagspause in der Schloegener Schlinge D09
+- src: images/Stadtfuehrung_Melk_von_Viktor_D09.jpg
+  title: Stadtfuehrung Melk von Viktor D09
+- src: images/Kloster_Melk_D09.jpg
+  title: Kloster Melk D09
+- src: images/Donau_mit_Werbung_D09.jpg
+  title: Donau mit Werbung D09
+- src: images/Wien_Prater_Wilde_Maus_D09.jpg
+  title: Wien Prater Wilde Maus D09
+- src: images/Wien_Hofburg_D09.jpg
+  title: Wien Hofburg D09
+- src: images/Wien_Prater_Riesenrad_D09.jpg
+  title: Wien Prater Riesenrad D09
+- src: images/Ruderer_beim_Gocart_D09.jpg
+  title: Ruderer beim Gocart D09
+- src: images/Go_Cart_Rennen_D09.jpg
+  title: Go Cart Rennen D09
+- src: images/Maedchen_beim_Eisessen_D09.jpg
+  title: Maedchen beim Eisessen D09
+- src: images/Ruderer_beim_Heurigen_D09.jpg
+  title: Ruderer beim Heurigen D09
+- src: images/Ruderjugend_bei_Schloss_Schoenbrunn_D09.jpg
+  title: Ruderjugend bei Schloss Schoenbrunn D09
+- src: images/Gloriette_Schoenbrunn_D09.jpg
+  title: Gloriette Schoenbrunn D09
+- src: images/Bild_vom_Kahlenberg_D09.jpg
+  title: Bild vom Kahlenberg D09
+- src: images/Nachtwanderung_vom_Kahlenberg_nach_Nussdorf_D09.jpg
+  title: Nachtwanderung vom Kahlenberg nach Nussdorf D09
+- src: images/Blick_auf_das_naechtliche_Wien_D09.jpg
+  title: Blick auf das naechtliche Wien D09
+- src: images/Ruderer_um_Weinberg_mit_Blick_auf_Wien_D09.jpg
+  title: Ruderer um Weinberg mit Blick auf Wien D09
+- src: images/Muendung_der_March_in_die_Donau_D09.jpg
+  title: Muendung der March in die Donau D09
+- src: images/Der_erste_Vierer_in_Bratislava_D09.jpg
+  title: Der erste Vierer in Bratislava D09
+- src: images/Abenteuerliche_Anlege_beim_Ruderclub_Bratislava_D09.jpg
+  title: Abenteuerliche Anlege beim Ruderclub Bratislava D09
+- src: images/Burg_Bratislava_D09.jpg
+  title: Burg Bratislava D09
+- src: images/Peppis_Stadtfuehrung_in_Bratislava_D09.jpg
+  title: Peppis Stadtfuehrung in Bratislava D09
+länder:
+- österreich
+title: Donau 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

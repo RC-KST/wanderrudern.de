@@ -1,25 +1,23 @@
-+++
-title = "Restaurierung D-Zweier 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["po", "porsangenfjord"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "D-Zweier komplett entkernt"
-src = "images/D-Zweier_komplett_entkernt.jpg"
-[[images]]
-title = "Porsangenfjord neuer Innenausbau 2014"
-src = "images/Porsangenfjord_neuer_Innenausbau_2014.jpg"
-[[images]]
-title = "Porsangenfjord mit altem Ausbau"
-src = "images/Porsangenfjord_mit_altem_Ausbau.jpg"
-[[images]]
-title = "neue Spanten für den D-zweier"
-src = "images/neue_Spanten_fur_den_D-zweier.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- po
+- porsangenfjord
+images:
+- src: images/D-Zweier_komplett_entkernt.jpg
+  title: D-Zweier komplett entkernt
+- src: images/Porsangenfjord_neuer_Innenausbau_2014.jpg
+  title: Porsangenfjord neuer Innenausbau 2014
+- src: images/Porsangenfjord_mit_altem_Ausbau.jpg
+  title: Porsangenfjord mit altem Ausbau
+- src: images/neue_Spanten_fur_den_D-zweier.jpg
+  title: neue Spanten für den D-zweier
+länder: []
+title: Restaurierung D-Zweier 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

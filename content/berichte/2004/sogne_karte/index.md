@@ -1,16 +1,16 @@
-+++
-title = "Sognefjord 2004"
-author = ""
-date = 2004-01-01T01:00:00+02:00
-begin = "2004-01-01"
-"gewässer" = ["sognefjord"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Wanderrudern Sognefjord Norwegen Wanderfahrten"
-src = "images/landkarte_sogne.jpg"
-
-+++
+---
+author: ""
+begin: "2004-01-01"
+date: "2004-01-01T01:00:00+02:00"
+gewässer:
+- sognefjord
+images:
+- src: images/landkarte_sogne.jpg
+  title: Wanderrudern Sognefjord Norwegen Wanderfahrten
+länder: []
+title: Sognefjord 2004
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

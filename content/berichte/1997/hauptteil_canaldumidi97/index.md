@@ -1,52 +1,41 @@
-+++
-title = "canal du midi 1997"
-author = ""
-date = 1997-01-01T01:00:00+02:00
-begin = "1997-01-01"
-"gewässer" = ["canal du midi"]
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "tasman hausboot mit mannschaft"
-src = "images/tasman.jpg"
-[[images]]
-title = "frankreich97 boot von oben Canal du midi"
-src = "images/frankreich97_boot_von_oben.jpg"
-[[images]]
-title = "burgberg Carcasonne"
-src = "images/burgberg.jpg"
-[[images]]
-title = "obst am Kanal"
-src = "images/obst.jpg"
-[[images]]
-title = "Klettern am Schleusentor"
-src = "images/schleusenklettern.jpg"
-[[images]]
-title = "Schiffstunnel Canal du Midi"
-src = "images/tunnel2.jpg"
-[[images]]
-title = "mittelmeer brandung badene Ruderer"
-src = "images/mittelmeer_brandung.jpg"
-[[images]]
-title = "frankreich97 HausBoot Ruderer"
-src = "images/frankreich97_Boot_Leute.jpg"
-[[images]]
-title = "frankreich97 benedikt vor burg und wehr"
-src = "images/frankreich97_benedikt_burg.jpg"
-[[images]]
-title = "frankreich97 Kanalbrücke über Fluss"
-src = "images/frankreich97_bruecke2.jpg"
-[[images]]
-title = "frankreich97 römerstadt ruderer"
-src = "images/frankreich97_roemerstadt.jpg"
-[[images]]
-title = "frankreich97 baerbel im wasser"
-src = "images/frankreich97_baerbel_im_wasser.jpg"
-[[images]]
-title = "frankreich97 timo im Ruderboot kanal mit Alleebäumen"
-src = "images/frankreich97_timo_kanal.jpg"
-
-+++
+---
+author: ""
+begin: "1997-01-01"
+date: "1997-01-01T01:00:00+02:00"
+gewässer:
+- canal du midi
+images:
+- src: images/tasman.jpg
+  title: tasman hausboot mit mannschaft
+- src: images/frankreich97_boot_von_oben.jpg
+  title: frankreich97 boot von oben Canal du midi
+- src: images/burgberg.jpg
+  title: burgberg Carcasonne
+- src: images/obst.jpg
+  title: obst am Kanal
+- src: images/schleusenklettern.jpg
+  title: Klettern am Schleusentor
+- src: images/tunnel2.jpg
+  title: Schiffstunnel Canal du Midi
+- src: images/mittelmeer_brandung.jpg
+  title: mittelmeer brandung badene Ruderer
+- src: images/frankreich97_Boot_Leute.jpg
+  title: frankreich97 HausBoot Ruderer
+- src: images/frankreich97_benedikt_burg.jpg
+  title: frankreich97 benedikt vor burg und wehr
+- src: images/frankreich97_bruecke2.jpg
+  title: frankreich97 Kanalbrücke über Fluss
+- src: images/frankreich97_roemerstadt.jpg
+  title: frankreich97 römerstadt ruderer
+- src: images/frankreich97_baerbel_im_wasser.jpg
+  title: frankreich97 baerbel im wasser
+- src: images/frankreich97_timo_kanal.jpg
+  title: frankreich97 timo im Ruderboot kanal mit Alleebäumen
+länder:
+- frankreich
+title: canal du midi 1997
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

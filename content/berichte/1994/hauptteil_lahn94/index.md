@@ -1,43 +1,37 @@
-+++
-title = "Lahn 1994"
-author = ""
-date = 1994-06-06T01:00:00+02:00
-begin = "1994-06-01"
-"gewässer" = ["rhein", "lahn", "oder", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "limburg ruderclub Ruderer"
-src = "images/limburg.jpg"
-[[images]]
-title = "Schiffstunnel weilburg barke rudern "
-src = "images/tunnel1.jpg"
-[[images]]
-title = "im Tunnel Lahn Weilburg Ruderboot"
-src = "images/tunnel2_lahn.jpg"
-[[images]]
-title = "Barke auf der Lahn rudern"
-src = "images/barke2_lahn.jpg"
-[[images]]
-title = "Steuerleute der Barke Lahn Ruderboot"
-src = "images/steuer.jpg"
-[[images]]
-title = "Wildwasser Lahn Rudern"
-src = "images/wildwasser2_lahn.jpg"
-[[images]]
-title = "burg an der lahn"
-src = "images/burg_lahn.jpg"
-[[images]]
-title = "bingen anna rhein rudern Ruderboot"
-src = "images/bingen.jpg"
-[[images]]
-title = "petersberg bonn rhein rudern"
-src = "images/petersberg.jpg"
-[[images]]
-title = "bonn am Steg ruderer"
-src = "images/bonn.jpg"
-
-+++
+---
+author: ""
+begin: "1994-06-01"
+date: "1994-06-06T01:00:00+02:00"
+gewässer:
+- rhein
+- lahn
+- oder
+- bug
+images:
+- src: images/limburg.jpg
+  title: limburg ruderclub Ruderer
+- src: images/tunnel1.jpg
+  title: 'Schiffstunnel weilburg barke rudern '
+- src: images/tunnel2_lahn.jpg
+  title: im Tunnel Lahn Weilburg Ruderboot
+- src: images/barke2_lahn.jpg
+  title: Barke auf der Lahn rudern
+- src: images/steuer.jpg
+  title: Steuerleute der Barke Lahn Ruderboot
+- src: images/wildwasser2_lahn.jpg
+  title: Wildwasser Lahn Rudern
+- src: images/burg_lahn.jpg
+  title: burg an der lahn
+- src: images/bingen.jpg
+  title: bingen anna rhein rudern Ruderboot
+- src: images/petersberg.jpg
+  title: petersberg bonn rhein rudern
+- src: images/bonn.jpg
+  title: bonn am Steg ruderer
+länder: []
+title: Lahn 1994
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

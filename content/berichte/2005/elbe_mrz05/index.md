@@ -1,16 +1,16 @@
-+++
-title = "Elbe_mrz05"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot Elbe Winter Paula"
-src = "images/winter05_elbe02.jpg"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/winter05_elbe02.jpg
+  title: Ruderboot Elbe Winter Paula
+länder: []
+title: Elbe_mrz05
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

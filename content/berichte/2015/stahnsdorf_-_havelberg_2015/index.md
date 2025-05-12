@@ -1,40 +1,36 @@
-+++
-title = "Stahnsdorf - Havelberg 2015"
-author = ""
-date = 2015-03-03T01:00:00+02:00
-begin = "2015-03-01"
-"gewässer" = ["elbe", "havel", "plauer see", "trebelsee"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot auf dem Weg nach Wusterwitz 2015"
-src = "images/Ruderboot_auf_dem_Weg_nach_Wusterwitz_2015.jpg"
-[[images]]
-title = "Ruderboote aussetzen in Wusterwitz 2015"
-src = "images/Ruderboote_aussetzen_in_Wusterwitz_2015.jpg"
-[[images]]
-title = "Geburtstagskind mit neuem TShirt Wusterwitz 2015"
-src = "images/Geburtstagskind_mit_neuem_TShirt_Wusterwitz_2015.jpg"
-[[images]]
-title = "Abendessen Wusterwitz Ruderer 2015"
-src = "images/Abendessen_Wusterwitz_Ruderer_2015.jpg"
-[[images]]
-title = "Stefan bekommt Geschenke 2015"
-src = "images/Stefan_bekommt_Geschenke_2015.jpg"
-[[images]]
-title = "Geschenke auspacken Wusterwitz 2015"
-src = "images/Geschenke_auspacken_Wusterwitz_2015.jpg"
-[[images]]
-title = "Moegeliner Havel Nirina 2015"
-src = "images/Moegeliner_Havel_Nirina_2015.jpg"
-[[images]]
-title = "Rathenow Ruderer vor der Stadtschleuse 2015"
-src = "images/Rathenow_Ruderer_vor_der_Stadtschleuse_2015.jpg"
-[[images]]
-title = "Ankunft in Havelberg 2015"
-src = "images/Ankunft_in_Havelberg_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-03-01"
+date: "2015-03-03T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- trebelsee
+images:
+- src: images/Ruderboot_auf_dem_Weg_nach_Wusterwitz_2015.jpg
+  title: Ruderboot auf dem Weg nach Wusterwitz 2015
+- src: images/Ruderboote_aussetzen_in_Wusterwitz_2015.jpg
+  title: Ruderboote aussetzen in Wusterwitz 2015
+- src: images/Geburtstagskind_mit_neuem_TShirt_Wusterwitz_2015.jpg
+  title: Geburtstagskind mit neuem TShirt Wusterwitz 2015
+- src: images/Abendessen_Wusterwitz_Ruderer_2015.jpg
+  title: Abendessen Wusterwitz Ruderer 2015
+- src: images/Stefan_bekommt_Geschenke_2015.jpg
+  title: Stefan bekommt Geschenke 2015
+- src: images/Geschenke_auspacken_Wusterwitz_2015.jpg
+  title: Geschenke auspacken Wusterwitz 2015
+- src: images/Moegeliner_Havel_Nirina_2015.jpg
+  title: Moegeliner Havel Nirina 2015
+- src: images/Rathenow_Ruderer_vor_der_Stadtschleuse_2015.jpg
+  title: Rathenow Ruderer vor der Stadtschleuse 2015
+- src: images/Ankunft_in_Havelberg_2015.jpg
+  title: Ankunft in Havelberg 2015
+länder:
+- italien
+title: Stahnsdorf - Havelberg 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,24 @@
-+++
-title = "Rheinmarathon 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["rhein"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Koeln Durchfahrt Extremfahrt 2018"
-src = "images/Koeln_Durchfahrt_Extremfahrt_2018.jpg"
-[[images]]
-title = "Extremwanderfahrer auf dem Rhein 2018"
-src = "images/Extremwanderfahrer_auf_dem_Rhein_2018.jpg"
-[[images]]
-title = "Pause in Mondorf Extremfahrt 2018"
-src = "images/Pause_in_Mondorf_Extremfahrt_2018.jpg"
-[[images]]
-title = "D-Vierer in Remagen Extremfahrt 2018"
-src = "images/D-Vierer_in_Remagen_Extremfahrt_2018.jpg"
-[[images]]
-title = "Mieses Wetter Extremfahrt Rhein 2018"
-src = "images/Mieses_Wetter_Extremfahrt_Rhein_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+images:
+- src: images/Koeln_Durchfahrt_Extremfahrt_2018.jpg
+  title: Koeln Durchfahrt Extremfahrt 2018
+- src: images/Extremwanderfahrer_auf_dem_Rhein_2018.jpg
+  title: Extremwanderfahrer auf dem Rhein 2018
+- src: images/Pause_in_Mondorf_Extremfahrt_2018.jpg
+  title: Pause in Mondorf Extremfahrt 2018
+- src: images/D-Vierer_in_Remagen_Extremfahrt_2018.jpg
+  title: D-Vierer in Remagen Extremfahrt 2018
+- src: images/Mieses_Wetter_Extremfahrt_Rhein_2018.jpg
+  title: Mieses Wetter Extremfahrt Rhein 2018
+länder: []
+title: Rheinmarathon 2018
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

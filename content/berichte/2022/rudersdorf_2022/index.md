@@ -1,31 +1,26 @@
-+++
-title = "Rüdersdorf 2022"
-author = ""
-date = 2022-12-12T01:00:00+02:00
-begin = "2022-12-01"
-"gewässer" = ["teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rückweg Rüdersdorf 2022"
-src = "images/Ruckweg_Rudersdorf_2022.jpg"
-[[images]]
-title = "Ruderboot Marienfelde im Teltowkanal Dezember 2022"
-src = "images/Ruderboot_Marienfelde_im_Teltowkanal_Dezember_2022.jpg"
-[[images]]
-title = "Vorsitzendenversammlung Rüdersdorf 2022"
-src = "images/Vorsitzendenversammlung_Rudersdorf_2022.jpg"
-[[images]]
-title = "Rüdersdorfer Weihnachtsmarkt 2022"
-src = "images/Rudersdorfer_Weihnachtsmarkt_2022.jpg"
-[[images]]
-title = "Nächtliches Bootshaus Wendenschloss Dezember 2022"
-src = "images/Nachtliches_Bootshaus_Wendenschloss_Dezember_2022.jpg"
-[[images]]
-title = "Der Weihnachtsmann kommt per Strassenbahn Rüdersdorf 2022"
-src = "images/Der_Weihnachtsmann_kommt_per_Strassenbahn_Rudersdorf_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-12-01"
+date: "2022-12-12T01:00:00+02:00"
+gewässer:
+- teltowkanal
+images:
+- src: images/Ruckweg_Rudersdorf_2022.jpg
+  title: Rückweg Rüdersdorf 2022
+- src: images/Ruderboot_Marienfelde_im_Teltowkanal_Dezember_2022.jpg
+  title: Ruderboot Marienfelde im Teltowkanal Dezember 2022
+- src: images/Vorsitzendenversammlung_Rudersdorf_2022.jpg
+  title: Vorsitzendenversammlung Rüdersdorf 2022
+- src: images/Rudersdorfer_Weihnachtsmarkt_2022.jpg
+  title: Rüdersdorfer Weihnachtsmarkt 2022
+- src: images/Nachtliches_Bootshaus_Wendenschloss_Dezember_2022.jpg
+  title: Nächtliches Bootshaus Wendenschloss Dezember 2022
+- src: images/Der_Weihnachtsmann_kommt_per_Strassenbahn_Rudersdorf_2022.jpg
+  title: Der Weihnachtsmann kommt per Strassenbahn Rüdersdorf 2022
+länder: []
+title: Rüdersdorf 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

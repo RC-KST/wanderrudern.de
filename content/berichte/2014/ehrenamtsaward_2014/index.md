@@ -1,19 +1,17 @@
-+++
-title = "Ehrenamtsaward 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderclub Kleinmachnow Felix Nachwuchssportler des Jahres 2014"
-src = "images/Ruderclub_Kleinmachnow_Felix_Nachwuchssportler_des_Jahres_2014.jpg"
-[[images]]
-title = "Felix Ehrenamtsaward Ruderclub Kleinmachnow 2014"
-src = "images/Felix_Ehrenamtsaward_Ruderclub_Kleinmachnow_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderclub_Kleinmachnow_Felix_Nachwuchssportler_des_Jahres_2014.jpg
+  title: Ruderclub Kleinmachnow Felix Nachwuchssportler des Jahres 2014
+- src: images/Felix_Ehrenamtsaward_Ruderclub_Kleinmachnow_2014.jpg
+  title: Felix Ehrenamtsaward Ruderclub Kleinmachnow 2014
+länder: []
+title: Ehrenamtsaward 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

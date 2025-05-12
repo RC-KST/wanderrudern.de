@@ -1,139 +1,102 @@
-+++
-title = "Moldau Elbe 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["elbe", "moldau", "havel", "plauer see"]
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Tyn Pension Moldau 2010"
-src = "images/Tyn_Pension_Moldau_2010.jpg"
-[[images]]
-title = "Start der Boote in Tyn Moldau 2010"
-src = "images/Start_der_Boote_in_Tyn_Moldau_2010.jpg"
-[[images]]
-title = "Rudervierer auf der oberen Moldau 2010"
-src = "images/Rudervierer_auf_der_oberen_Moldau_2010.jpg"
-[[images]]
-title = "Ruderboot auf der Moldau bei Tyn Moldau 2010"
-src = "images/Ruderboot_auf_der_Moldau_bei_Tyn_Moldau_2010.jpg"
-[[images]]
-title = "Moldaubruecke Orlick Stausee Moldau 2010"
-src = "images/Moldaubruecke_Orlick_Stausee_Moldau_2010.jpg"
-[[images]]
-title = "Anlegen Orlik Moldau 2010"
-src = "images/Anlegen_Orlik_Moldau_2010.jpg"
-[[images]]
-title = "Thomas am Steuer Moldau 2010"
-src = "images/Thomas_am_Steuer_Moldau_2010.jpg"
-[[images]]
-title = "Jenny Yachthafen Orlik Moldau 2010"
-src = "images/Jenny_Yachthafen_Orlik_Moldau_2010.jpg"
-[[images]]
-title = "Orlik Stausee Ruderer Moldau 2010"
-src = "images/Orlik_Stausee_Ruderer_Moldau_2010.jpg"
-[[images]]
-title = "Staumauer Orlik Moldau 2010"
-src = "images/Staumauer_Orlik_Moldau_2010.jpg"
-[[images]]
-title = "Ruderboote vor der Orlik Staumauer Moldau 2010"
-src = "images/Ruderboote_vor_der_Orlik_Staumauer_Moldau_2010.jpg"
-[[images]]
-title = "Umtragen Orlik Bruecke Moldau 2010"
-src = "images/Umtragen_Orlik_Bruecke_Moldau_2010.jpg"
-[[images]]
-title = "Boote umtragen an der Staumauer von Orlik Moldau 2010"
-src = "images/Boote_umtragen_an_der_Staumauer_von_Orlik_Moldau_2010.jpg"
-[[images]]
-title = "Ausruhen nach der Umtrage Orlik Moldau 2010"
-src = "images/Ausruhen_nach_der_Umtrage_Orlik_Moldau_2010.jpg"
-[[images]]
-title = "Ruderboot im Nebel obere Moldau 2010"
-src = "images/Ruderboot_im_Nebel_obere_Moldau_2010.jpg"
-[[images]]
-title = "Moldauschleuse Jenny Moldau 2010"
-src = "images/Moldauschleuse_Jenny_Moldau_2010.jpg"
-[[images]]
-title = "Ruderboote in Moldauschleuse Moldau 2010"
-src = "images/Ruderboote_in_Moldauschleuse_Moldau_2010.jpg"
-[[images]]
-title = "Ruderboot obere Moldau Moldau 2010"
-src = "images/Ruderboot_obere_Moldau_Moldau_2010.jpg"
-[[images]]
-title = "Bernd auf der Moldau 2010"
-src = "images/Bernd_auf_der_Moldau_2010.jpg"
-[[images]]
-title = "Boote umtragen Slapy Moldau 2010"
-src = "images/Boote_umtragen_Slapy_Moldau_2010.jpg"
-[[images]]
-title = "Einsetzstelle Slapy Moldau 2010"
-src = "images/Einsetzstelle_Slapy_Moldau_2010.jpg"
-[[images]]
-title = "Slapy Staumauer Ruderer Moldau 2010"
-src = "images/Slapy_Staumauer_Ruderer_Moldau_2010.jpg"
-[[images]]
-title = "Lisa auf der Moldau oberhalb  von Prag Moldau 2010"
-src = "images/Lisa_auf_der_Moldau_oberhalb__von_Prag_Moldau_2010.jpg"
-[[images]]
-title = "Rudermannschaft vor Prag Moldau 2010"
-src = "images/Rudermannschaft_vor_Prag_Moldau_2010.jpg"
-[[images]]
-title = "Ruderer auf der Karlsbruecke Moldau 2010"
-src = "images/Ruderer_auf_der_Karlsbruecke_Moldau_2010.jpg"
-[[images]]
-title = "Blick auf Prag Moldau 2010"
-src = "images/Blick_auf_Prag_Moldau_2010.jpg"
-[[images]]
-title = "Hradschin Prag bei Nacht Moldau 2010"
-src = "images/Hradschin_Prag_bei_Nacht_Moldau_2010.jpg"
-[[images]]
-title = "nicht ausgelastete Ruderer im Kasten Moldau 2010"
-src = "images/nicht_ausgelastete_Ruderer_im_Kasten_Moldau_2010.jpg"
-[[images]]
-title = "Partyecke im Ruderkasten Moldau 2010"
-src = "images/Partyecke_im_Ruderkasten_Moldau_2010.jpg"
-[[images]]
-title = "Karlsbruecke vom Ruderboot Moldau 2010"
-src = "images/Karlsbruecke_vom_Ruderboot_Moldau_2010.jpg"
-[[images]]
-title = "Abendessen in Melnik Moldau 2010"
-src = "images/Abendessen_in_Melnik_Moldau_2010.jpg"
-[[images]]
-title = "Moritz auf der unteren Moldau 2010"
-src = "images/Moritz_auf_der_unteren_Moldau_2010.jpg"
-[[images]]
-title = "Nirina vor Burg Schreckenstein Usti Aussig Moldau Elbe 2010"
-src = "images/Nirina_vor_Burg_Schreckenstein_Usti_Aussig_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Thomas auf der Elbe Moldau Elbe 2010"
-src = "images/Thomas_auf_der_Elbe_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Ruderer auf der Bastei Elbsandsteingebirge Moldau Elbe 2010"
-src = "images/Ruderer_auf_der_Bastei_Elbsandsteingebirge_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Nirina auf der Elbe vor Dresden Moldau Elbe 2010"
-src = "images/Nirina_auf_der_Elbe_vor_Dresden_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Ruderboote Schloss Pillnitz Moldau Elbe 2010"
-src = "images/Ruderboote_Schloss_Pillnitz_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Elbpanorama bei Meissen Moldau Elbe 2010"
-src = "images/Elbpanorama_bei_Meissen_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Sophie im Nebel bei Meissen Moldau Elbe 2010"
-src = "images/Sophie_im_Nebel_bei_Meissen_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Elbe bei Torgau Jens Moldau Elbe 2010"
-src = "images/Elbe_bei_Torgau_Jens_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Ruderinnen in Magdeburg Moldau Elbe 2010"
-src = "images/Ruderinnen_in_Magdeburg_Moldau_Elbe_2010.jpg"
-[[images]]
-title = "Nirina Magdeburg Dom Moldau Elbe 2010"
-src = "images/Nirina_Magdeburg_Dom_Moldau_Elbe_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- moldau
+- havel
+- plauer see
+images:
+- src: images/Tyn_Pension_Moldau_2010.jpg
+  title: Tyn Pension Moldau 2010
+- src: images/Start_der_Boote_in_Tyn_Moldau_2010.jpg
+  title: Start der Boote in Tyn Moldau 2010
+- src: images/Rudervierer_auf_der_oberen_Moldau_2010.jpg
+  title: Rudervierer auf der oberen Moldau 2010
+- src: images/Ruderboot_auf_der_Moldau_bei_Tyn_Moldau_2010.jpg
+  title: Ruderboot auf der Moldau bei Tyn Moldau 2010
+- src: images/Moldaubruecke_Orlick_Stausee_Moldau_2010.jpg
+  title: Moldaubruecke Orlick Stausee Moldau 2010
+- src: images/Anlegen_Orlik_Moldau_2010.jpg
+  title: Anlegen Orlik Moldau 2010
+- src: images/Thomas_am_Steuer_Moldau_2010.jpg
+  title: Thomas am Steuer Moldau 2010
+- src: images/Jenny_Yachthafen_Orlik_Moldau_2010.jpg
+  title: Jenny Yachthafen Orlik Moldau 2010
+- src: images/Orlik_Stausee_Ruderer_Moldau_2010.jpg
+  title: Orlik Stausee Ruderer Moldau 2010
+- src: images/Staumauer_Orlik_Moldau_2010.jpg
+  title: Staumauer Orlik Moldau 2010
+- src: images/Ruderboote_vor_der_Orlik_Staumauer_Moldau_2010.jpg
+  title: Ruderboote vor der Orlik Staumauer Moldau 2010
+- src: images/Umtragen_Orlik_Bruecke_Moldau_2010.jpg
+  title: Umtragen Orlik Bruecke Moldau 2010
+- src: images/Boote_umtragen_an_der_Staumauer_von_Orlik_Moldau_2010.jpg
+  title: Boote umtragen an der Staumauer von Orlik Moldau 2010
+- src: images/Ausruhen_nach_der_Umtrage_Orlik_Moldau_2010.jpg
+  title: Ausruhen nach der Umtrage Orlik Moldau 2010
+- src: images/Ruderboot_im_Nebel_obere_Moldau_2010.jpg
+  title: Ruderboot im Nebel obere Moldau 2010
+- src: images/Moldauschleuse_Jenny_Moldau_2010.jpg
+  title: Moldauschleuse Jenny Moldau 2010
+- src: images/Ruderboote_in_Moldauschleuse_Moldau_2010.jpg
+  title: Ruderboote in Moldauschleuse Moldau 2010
+- src: images/Ruderboot_obere_Moldau_Moldau_2010.jpg
+  title: Ruderboot obere Moldau Moldau 2010
+- src: images/Bernd_auf_der_Moldau_2010.jpg
+  title: Bernd auf der Moldau 2010
+- src: images/Boote_umtragen_Slapy_Moldau_2010.jpg
+  title: Boote umtragen Slapy Moldau 2010
+- src: images/Einsetzstelle_Slapy_Moldau_2010.jpg
+  title: Einsetzstelle Slapy Moldau 2010
+- src: images/Slapy_Staumauer_Ruderer_Moldau_2010.jpg
+  title: Slapy Staumauer Ruderer Moldau 2010
+- src: images/Lisa_auf_der_Moldau_oberhalb__von_Prag_Moldau_2010.jpg
+  title: Lisa auf der Moldau oberhalb  von Prag Moldau 2010
+- src: images/Rudermannschaft_vor_Prag_Moldau_2010.jpg
+  title: Rudermannschaft vor Prag Moldau 2010
+- src: images/Ruderer_auf_der_Karlsbruecke_Moldau_2010.jpg
+  title: Ruderer auf der Karlsbruecke Moldau 2010
+- src: images/Blick_auf_Prag_Moldau_2010.jpg
+  title: Blick auf Prag Moldau 2010
+- src: images/Hradschin_Prag_bei_Nacht_Moldau_2010.jpg
+  title: Hradschin Prag bei Nacht Moldau 2010
+- src: images/nicht_ausgelastete_Ruderer_im_Kasten_Moldau_2010.jpg
+  title: nicht ausgelastete Ruderer im Kasten Moldau 2010
+- src: images/Partyecke_im_Ruderkasten_Moldau_2010.jpg
+  title: Partyecke im Ruderkasten Moldau 2010
+- src: images/Karlsbruecke_vom_Ruderboot_Moldau_2010.jpg
+  title: Karlsbruecke vom Ruderboot Moldau 2010
+- src: images/Abendessen_in_Melnik_Moldau_2010.jpg
+  title: Abendessen in Melnik Moldau 2010
+- src: images/Moritz_auf_der_unteren_Moldau_2010.jpg
+  title: Moritz auf der unteren Moldau 2010
+- src: images/Nirina_vor_Burg_Schreckenstein_Usti_Aussig_Moldau_Elbe_2010.jpg
+  title: Nirina vor Burg Schreckenstein Usti Aussig Moldau Elbe 2010
+- src: images/Thomas_auf_der_Elbe_Moldau_Elbe_2010.jpg
+  title: Thomas auf der Elbe Moldau Elbe 2010
+- src: images/Ruderer_auf_der_Bastei_Elbsandsteingebirge_Moldau_Elbe_2010.jpg
+  title: Ruderer auf der Bastei Elbsandsteingebirge Moldau Elbe 2010
+- src: images/Nirina_auf_der_Elbe_vor_Dresden_Moldau_Elbe_2010.jpg
+  title: Nirina auf der Elbe vor Dresden Moldau Elbe 2010
+- src: images/Ruderboote_Schloss_Pillnitz_Moldau_Elbe_2010.jpg
+  title: Ruderboote Schloss Pillnitz Moldau Elbe 2010
+- src: images/Elbpanorama_bei_Meissen_Moldau_Elbe_2010.jpg
+  title: Elbpanorama bei Meissen Moldau Elbe 2010
+- src: images/Sophie_im_Nebel_bei_Meissen_Moldau_Elbe_2010.jpg
+  title: Sophie im Nebel bei Meissen Moldau Elbe 2010
+- src: images/Elbe_bei_Torgau_Jens_Moldau_Elbe_2010.jpg
+  title: Elbe bei Torgau Jens Moldau Elbe 2010
+- src: images/Ruderinnen_in_Magdeburg_Moldau_Elbe_2010.jpg
+  title: Ruderinnen in Magdeburg Moldau Elbe 2010
+- src: images/Nirina_Magdeburg_Dom_Moldau_Elbe_2010.jpg
+  title: Nirina Magdeburg Dom Moldau Elbe 2010
+länder:
+- tschechien
+title: Moldau Elbe 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

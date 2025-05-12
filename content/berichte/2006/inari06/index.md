@@ -1,289 +1,201 @@
-+++
-title = "Masuren Berlin 09"
-author = ""
-date = 2006-07-07T01:00:00+02:00
-begin = "2006-07-01"
-"gewässer" = ["oder", "saimaa", "ivalojoki"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Akademischer Ruderverein Stockholm"
-src = "images/IMGP0131.JPG"
-[[images]]
-title = "Ruderer Nachtlager auf der Terasse"
-src = "images/IMGP0136.JPG"
-[[images]]
-title = "IMGP0138"
-src = "images/IMGP0138.JPG"
-[[images]]
-title = "Vierer beim Treideln Ruderer im Wasser"
-src = "images/Inari_patrik_037.JPG"
-[[images]]
-title = "Ruderer im Wasser treideln"
-src = "images/Inari_patrik_027.JPG"
-[[images]]
-title = "Koski Ivalojoki Ruderboot treideln"
-src = "images/Inari06_koski4.jpg"
-[[images]]
-title = "Inari06_koski6"
-src = "images/Inari06_koski6.jpg"
-[[images]]
-title = "Stromschnelle Ruderer Ruderboot"
-src = "images/Inari06_koski8.jpg"
-[[images]]
-title = "Lina beim Treideln"
-src = "images/Inarifahrt_2006_005.jpg"
-[[images]]
-title = "Stromschnelle Ruderboot"
-src = "images/Inari06_koski10.jpg"
-[[images]]
-title = "Globetrotter auf dem Strand Ruderboot"
-src = "images/Inari_patrik_045.JPG"
-[[images]]
-title = "Inari_patrik_040"
-src = "images/Inari_patrik_040.JPG"
-[[images]]
-title = "IMGP0168"
-src = "images/IMGP0168.JPG"
-[[images]]
-title = "IMGP0204"
-src = "images/IMGP0204.JPG"
-[[images]]
-title = "IMGP0208"
-src = "images/IMGP0208.JPG"
-[[images]]
-title = "Zelt Aufbau Inari"
-src = "images/Inari_patrik_053.JPG"
-[[images]]
-title = "Wildnishütte Inari"
-src = "images/Inari_patrik_055.JPG"
-[[images]]
-title = "Inari_patrik_063"
-src = "images/Inari_patrik_063.JPG"
-[[images]]
-title = "Inari_patrik_069"
-src = "images/Inari_patrik_069.JPG"
-[[images]]
-title = "Lina Paula baden"
-src = "images/Inari_patrik_075.JPG"
-[[images]]
-title = "IMGP0354"
-src = "images/IMGP0354.JPG"
-[[images]]
-title = "inari06_huette_nicola"
-src = "images/inari06_huette_nicola.jpg"
-[[images]]
-title = "Paula badet"
-src = "images/Inari_patrik_073.JPG"
-[[images]]
-title = "inari06_huette_sophie"
-src = "images/inari06_huette_sophie.jpg"
-[[images]]
-title = "Niklas Sophie"
-src = "images/inari06_imwald2.jpg"
-[[images]]
-title = "U Bahn Stockholm"
-src = "images/Inari_patrik_003.JPG"
-[[images]]
-title = "vor dem Stadhuset in Stockholm"
-src = "images/Inari_patrik_012.JPG"
-[[images]]
-title = "Inari_patrik_002"
-src = "images/Inari_patrik_002.JPG"
-[[images]]
-title = "Stadtbesichtigung Stockholm Rudern"
-src = "images/Inari_patrik_009.JPG"
-[[images]]
-title = "Inari06_koski5"
-src = "images/Inari06_koski5.jpg"
-[[images]]
-title = "im tiefen Wasser"
-src = "images/Inari06_koski9.jpg"
-[[images]]
-title = "Inari_patrik_021"
-src = "images/Inari_patrik_021.JPG"
-[[images]]
-title = "IMGP0160"
-src = "images/IMGP0160.JPG"
-[[images]]
-title = "Inari_patrik_047"
-src = "images/Inari_patrik_047.JPG"
-[[images]]
-title = "Inarisee Inari"
-src = "images/IMGP0216.JPG"
-[[images]]
-title = "Inarijärvi"
-src = "images/Inari_patrik_066.JPG"
-[[images]]
-title = "IMGP0284"
-src = "images/IMGP0284.JPG"
-[[images]]
-title = "in der Hütte"
-src = "images/IMGP0228.JPG"
-[[images]]
-title = "IMGP0287"
-src = "images/IMGP0287.JPG"
-[[images]]
-title = "Inarifahrt 2006 050"
-src = "images/Inarifahrt_2006_050.jpg"
-[[images]]
-title = "Musketiere"
-src = "images/inari06_messer2.jpg"
-[[images]]
-title = "Ruderer im Wald"
-src = "images/inari06_wandern1.jpg"
-[[images]]
-title = "Inari_patrik_082"
-src = "images/Inari_patrik_082.JPG"
-[[images]]
-title = "Inari_patrik_087"
-src = "images/Inari_patrik_087.JPG"
-[[images]]
-title = "Bootsschleppe Sevettijärvelle"
-src = "images/Inari_patrik_079.JPG"
-[[images]]
-title = "Bootschleppe Ruderboot"
-src = "images/Inari_patrik_080.JPG"
-[[images]]
-title = "Zweier auf dem Inari"
-src = "images/Inari_patrik_092.JPG"
-[[images]]
-title = "inari06_holz_lina_patrik1"
-src = "images/inari06_holz_lina_patrik1.jpg"
-[[images]]
-title = "Saunafeuer"
-src = "images/inari06_sauna_malte.jpg"
-[[images]]
-title = "Lina Patrick Holzschnitzen"
-src = "images/inari06_holz_lina_patrik.jpg"
-[[images]]
-title = "Sachen trocknen"
-src = "images/IMGP0370.JPG"
-[[images]]
-title = "inari06_vorhuette_malte_sophie_steffel"
-src = "images/inari06_vorhuette_malte_sophie_steffel.jpg"
-[[images]]
-title = "inari06_vorhuette_malte"
-src = "images/inari06_vorhuette_malte.jpg"
-[[images]]
-title = "inari06_vorhuette_sophie_lina"
-src = "images/inari06_vorhuette_sophie_lina.jpg"
-[[images]]
-title = "Trollholmen"
-src = "images/Inari_patrik_107.JPG"
-[[images]]
-title = "IMGP0429"
-src = "images/IMGP0429.JPG"
-[[images]]
-title = "inari06_trollholmen_steffel_paula"
-src = "images/inari06_trollholmen_steffel_paula.jpg"
-[[images]]
-title = "inari06_troll_niklas_sophie"
-src = "images/inari06_troll_niklas_sophie.jpg"
-[[images]]
-title = "inari06_troll_paula"
-src = "images/inari06_troll_paula.jpg"
-[[images]]
-title = "inari06_trollholmen"
-src = "images/inari06_trollholmen.jpg"
-[[images]]
-title = "IMGP0479"
-src = "images/IMGP0479.JPG"
-[[images]]
-title = "Nordkap Mannschaft Ruderer"
-src = "images/Inari_patrik_118.JPG"
-[[images]]
-title = "Nordkap"
-src = "images/Inari_patrik_117.JPG"
-[[images]]
-title = "inari06_troll_sophie1"
-src = "images/inari06_troll_sophie1.jpg"
-[[images]]
-title = "IMGP0520"
-src = "images/IMGP0520.JPG"
-[[images]]
-title = "inari06_nordkap"
-src = "images/inari06_nordkap.jpg"
-[[images]]
-title = "inari06_nordkap1"
-src = "images/inari06_nordkap1.jpg"
-[[images]]
-title = "inari06_paula_lina1"
-src = "images/inari06_paula_lina1.jpg"
-[[images]]
-title = "inari06_kirkenes_odf"
-src = "images/inari06_kirkenes_odf.jpg"
-[[images]]
-title = "IMGP0535"
-src = "images/IMGP0535.JPG"
-[[images]]
-title = "inari06_baden_see3"
-src = "images/inari06_baden_see3.jpg"
-[[images]]
-title = "inari06_beachvolleyball4"
-src = "images/inari06_beachvolleyball4.jpg"
-[[images]]
-title = "Renntier"
-src = "images/Inari_patrik_124.JPG"
-[[images]]
-title = "IMGP0543"
-src = "images/IMGP0543.JPG"
-[[images]]
-title = "inari06_sophie1"
-src = "images/inari06_sophie1.jpg"
-[[images]]
-title = "inari06_faehre"
-src = "images/inari06_faehre.jpg"
-[[images]]
-title = "IMGP0591"
-src = "images/IMGP0591.JPG"
-[[images]]
-title = "IMGP0638"
-src = "images/IMGP0638.JPG"
-[[images]]
-title = "inari06_polarkreis1"
-src = "images/inari06_polarkreis1.jpg"
-[[images]]
-title = "IMGP053502"
-src = "images/IMGP053502.JPG"
-[[images]]
-title = "inari06_polarkreis_patrik"
-src = "images/inari06_polarkreis_patrik.jpg"
-[[images]]
-title = "inari06_polarkreis"
-src = "images/inari06_polarkreis.jpg"
-[[images]]
-title = "IMGP0659"
-src = "images/IMGP0659.JPG"
-[[images]]
-title = "inari06_puijo3"
-src = "images/inari06_puijo3.jpg"
-[[images]]
-title = "inari06_puijo6"
-src = "images/inari06_puijo6.jpg"
-[[images]]
-title = "inari06_silja1"
-src = "images/inari06_silja1.jpg"
-[[images]]
-title = "inari_silja_sophie_lina"
-src = "images/inari_silja_sophie_lina.jpg"
-[[images]]
-title = "inari06_silja99"
-src = "images/inari06_silja99.jpg"
-[[images]]
-title = "Stauplatz Siljaline"
-src = "images/IMGP0676.JPG"
-[[images]]
-title = "IMGP0701"
-src = "images/IMGP0701.JPG"
-[[images]]
-title = "IMGP0711"
-src = "images/IMGP0711.JPG"
-[[images]]
-title = "Nachtclub Siljaline "
-src = "images/IMGP0685.JPG"
-
-+++
+---
+author: ""
+begin: "2006-07-01"
+date: "2006-07-07T01:00:00+02:00"
+gewässer:
+- oder
+- saimaa
+- ivalojoki
+images:
+- src: images/IMGP0131.JPG
+  title: Akademischer Ruderverein Stockholm
+- src: images/IMGP0136.JPG
+  title: Ruderer Nachtlager auf der Terasse
+- src: images/IMGP0138.JPG
+  title: IMGP0138
+- src: images/Inari_patrik_037.JPG
+  title: Vierer beim Treideln Ruderer im Wasser
+- src: images/Inari_patrik_027.JPG
+  title: Ruderer im Wasser treideln
+- src: images/Inari06_koski4.jpg
+  title: Koski Ivalojoki Ruderboot treideln
+- src: images/Inari06_koski6.jpg
+  title: Inari06_koski6
+- src: images/Inari06_koski8.jpg
+  title: Stromschnelle Ruderer Ruderboot
+- src: images/Inarifahrt_2006_005.jpg
+  title: Lina beim Treideln
+- src: images/Inari06_koski10.jpg
+  title: Stromschnelle Ruderboot
+- src: images/Inari_patrik_045.JPG
+  title: Globetrotter auf dem Strand Ruderboot
+- src: images/Inari_patrik_040.JPG
+  title: Inari_patrik_040
+- src: images/IMGP0168.JPG
+  title: IMGP0168
+- src: images/IMGP0204.JPG
+  title: IMGP0204
+- src: images/IMGP0208.JPG
+  title: IMGP0208
+- src: images/Inari_patrik_053.JPG
+  title: Zelt Aufbau Inari
+- src: images/Inari_patrik_055.JPG
+  title: Wildnishütte Inari
+- src: images/Inari_patrik_063.JPG
+  title: Inari_patrik_063
+- src: images/Inari_patrik_069.JPG
+  title: Inari_patrik_069
+- src: images/Inari_patrik_075.JPG
+  title: Lina Paula baden
+- src: images/IMGP0354.JPG
+  title: IMGP0354
+- src: images/inari06_huette_nicola.jpg
+  title: inari06_huette_nicola
+- src: images/Inari_patrik_073.JPG
+  title: Paula badet
+- src: images/inari06_huette_sophie.jpg
+  title: inari06_huette_sophie
+- src: images/inari06_imwald2.jpg
+  title: Niklas Sophie
+- src: images/Inari_patrik_003.JPG
+  title: U Bahn Stockholm
+- src: images/Inari_patrik_012.JPG
+  title: vor dem Stadhuset in Stockholm
+- src: images/Inari_patrik_002.JPG
+  title: Inari_patrik_002
+- src: images/Inari_patrik_009.JPG
+  title: Stadtbesichtigung Stockholm Rudern
+- src: images/Inari06_koski5.jpg
+  title: Inari06_koski5
+- src: images/Inari06_koski9.jpg
+  title: im tiefen Wasser
+- src: images/Inari_patrik_021.JPG
+  title: Inari_patrik_021
+- src: images/IMGP0160.JPG
+  title: IMGP0160
+- src: images/Inari_patrik_047.JPG
+  title: Inari_patrik_047
+- src: images/IMGP0216.JPG
+  title: Inarisee Inari
+- src: images/Inari_patrik_066.JPG
+  title: Inarijärvi
+- src: images/IMGP0284.JPG
+  title: IMGP0284
+- src: images/IMGP0228.JPG
+  title: in der Hütte
+- src: images/IMGP0287.JPG
+  title: IMGP0287
+- src: images/Inarifahrt_2006_050.jpg
+  title: Inarifahrt 2006 050
+- src: images/inari06_messer2.jpg
+  title: Musketiere
+- src: images/inari06_wandern1.jpg
+  title: Ruderer im Wald
+- src: images/Inari_patrik_082.JPG
+  title: Inari_patrik_082
+- src: images/Inari_patrik_087.JPG
+  title: Inari_patrik_087
+- src: images/Inari_patrik_079.JPG
+  title: Bootsschleppe Sevettijärvelle
+- src: images/Inari_patrik_080.JPG
+  title: Bootschleppe Ruderboot
+- src: images/Inari_patrik_092.JPG
+  title: Zweier auf dem Inari
+- src: images/inari06_holz_lina_patrik1.jpg
+  title: inari06_holz_lina_patrik1
+- src: images/inari06_sauna_malte.jpg
+  title: Saunafeuer
+- src: images/inari06_holz_lina_patrik.jpg
+  title: Lina Patrick Holzschnitzen
+- src: images/IMGP0370.JPG
+  title: Sachen trocknen
+- src: images/inari06_vorhuette_malte_sophie_steffel.jpg
+  title: inari06_vorhuette_malte_sophie_steffel
+- src: images/inari06_vorhuette_malte.jpg
+  title: inari06_vorhuette_malte
+- src: images/inari06_vorhuette_sophie_lina.jpg
+  title: inari06_vorhuette_sophie_lina
+- src: images/Inari_patrik_107.JPG
+  title: Trollholmen
+- src: images/IMGP0429.JPG
+  title: IMGP0429
+- src: images/inari06_trollholmen_steffel_paula.jpg
+  title: inari06_trollholmen_steffel_paula
+- src: images/inari06_troll_niklas_sophie.jpg
+  title: inari06_troll_niklas_sophie
+- src: images/inari06_troll_paula.jpg
+  title: inari06_troll_paula
+- src: images/inari06_trollholmen.jpg
+  title: inari06_trollholmen
+- src: images/IMGP0479.JPG
+  title: IMGP0479
+- src: images/Inari_patrik_118.JPG
+  title: Nordkap Mannschaft Ruderer
+- src: images/Inari_patrik_117.JPG
+  title: Nordkap
+- src: images/inari06_troll_sophie1.jpg
+  title: inari06_troll_sophie1
+- src: images/IMGP0520.JPG
+  title: IMGP0520
+- src: images/inari06_nordkap.jpg
+  title: inari06_nordkap
+- src: images/inari06_nordkap1.jpg
+  title: inari06_nordkap1
+- src: images/inari06_paula_lina1.jpg
+  title: inari06_paula_lina1
+- src: images/inari06_kirkenes_odf.jpg
+  title: inari06_kirkenes_odf
+- src: images/IMGP0535.JPG
+  title: IMGP0535
+- src: images/inari06_baden_see3.jpg
+  title: inari06_baden_see3
+- src: images/inari06_beachvolleyball4.jpg
+  title: inari06_beachvolleyball4
+- src: images/Inari_patrik_124.JPG
+  title: Renntier
+- src: images/IMGP0543.JPG
+  title: IMGP0543
+- src: images/inari06_sophie1.jpg
+  title: inari06_sophie1
+- src: images/inari06_faehre.jpg
+  title: inari06_faehre
+- src: images/IMGP0591.JPG
+  title: IMGP0591
+- src: images/IMGP0638.JPG
+  title: IMGP0638
+- src: images/inari06_polarkreis1.jpg
+  title: inari06_polarkreis1
+- src: images/IMGP053502.JPG
+  title: IMGP053502
+- src: images/inari06_polarkreis_patrik.jpg
+  title: inari06_polarkreis_patrik
+- src: images/inari06_polarkreis.jpg
+  title: inari06_polarkreis
+- src: images/IMGP0659.JPG
+  title: IMGP0659
+- src: images/inari06_puijo3.jpg
+  title: inari06_puijo3
+- src: images/inari06_puijo6.jpg
+  title: inari06_puijo6
+- src: images/inari06_silja1.jpg
+  title: inari06_silja1
+- src: images/inari_silja_sophie_lina.jpg
+  title: inari_silja_sophie_lina
+- src: images/inari06_silja99.jpg
+  title: inari06_silja99
+- src: images/IMGP0676.JPG
+  title: Stauplatz Siljaline
+- src: images/IMGP0701.JPG
+  title: IMGP0701
+- src: images/IMGP0711.JPG
+  title: IMGP0711
+- src: images/IMGP0685.JPG
+  title: 'Nachtclub Siljaline '
+länder:
+- finnland
+title: Masuren Berlin 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

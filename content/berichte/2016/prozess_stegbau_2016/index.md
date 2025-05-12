@@ -1,16 +1,17 @@
-+++
-title = "Prozess Stegbau 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["teltowkanal", "po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Stegbau RC KST 2016"
-src = "images/Stegbau_RC_KST_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- po
+images:
+- src: images/Stegbau_RC_KST_2016.jpg
+  title: Stegbau RC KST 2016
+länder: []
+title: Prozess Stegbau 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

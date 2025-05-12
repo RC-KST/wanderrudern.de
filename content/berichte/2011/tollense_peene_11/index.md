@@ -1,55 +1,48 @@
-+++
-title = "Tollense Peene 11"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["ostsee", "peene", "tollense", "oder", "netze", "stettiner haff"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Tollense Aufriggern am Hochwassertümpel 2"
-src = "images/Tollense_Aufriggern_am_Hochwassertumpel_2.jpg"
-[[images]]
-title = "Tollense erster Wasserkontakt Globetrotter"
-src = "images/Tollense_erster_Wasserkontakt_Globetrotter.jpg"
-[[images]]
-title = "Tollense Boot auf der Wiese"
-src = "images/Tollense_Boot_auf_der_Wiese.jpg"
-[[images]]
-title = "Umtragestelle Altentreptow Tollense 11"
-src = "images/Umtragestelle_Altentreptow_Tollense_11.jpg"
-[[images]]
-title = "Tollense Wehr Altentreptow 1"
-src = "images/Tollense_Wehr_Altentreptow_1.jpg"
-[[images]]
-title = "Tollense Brücke im Weg"
-src = "images/Tollense_Brucke_im_Weg.jpg"
-[[images]]
-title = "Moritz auf der Tollense 11"
-src = "images/Moritz_auf_der_Tollense_11.jpg"
-[[images]]
-title = "Tollense auf zur 2. Etappe"
-src = "images/Tollense_auf_zur_2._Etappe.jpg"
-[[images]]
-title = "Ruderboot Tollense 11"
-src = "images/Ruderboot_Tollense_11.jpg"
-[[images]]
-title = "Unterkunft KLein Tioitin Grillen 1"
-src = "images/Unterkunft_KLein_Tioitin_Grillen_1.jpg"
-[[images]]
-title = "Unterkunft KLein Tioitin Frühstück 1"
-src = "images/Unterkunft_KLein_Tioitin_Fruhstuck_1.jpg"
-[[images]]
-title = "Anklam am Steg Peene 11"
-src = "images/Anklam_am_Steg_Peene_11.jpg"
-[[images]]
-title = "Hubbruecke Usedom 11"
-src = "images/Hubbruecke_Usedom_11.jpg"
-[[images]]
-title = "Moenkebude am Strand Ostsee 11"
-src = "images/Moenkebude_am_Strand_Ostsee_11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- peene
+- tollense
+- oder
+- netze
+- stettiner haff
+images:
+- src: images/Tollense_Aufriggern_am_Hochwassertumpel_2.jpg
+  title: Tollense Aufriggern am Hochwassertümpel 2
+- src: images/Tollense_erster_Wasserkontakt_Globetrotter.jpg
+  title: Tollense erster Wasserkontakt Globetrotter
+- src: images/Tollense_Boot_auf_der_Wiese.jpg
+  title: Tollense Boot auf der Wiese
+- src: images/Umtragestelle_Altentreptow_Tollense_11.jpg
+  title: Umtragestelle Altentreptow Tollense 11
+- src: images/Tollense_Wehr_Altentreptow_1.jpg
+  title: Tollense Wehr Altentreptow 1
+- src: images/Tollense_Brucke_im_Weg.jpg
+  title: Tollense Brücke im Weg
+- src: images/Moritz_auf_der_Tollense_11.jpg
+  title: Moritz auf der Tollense 11
+- src: images/Tollense_auf_zur_2._Etappe.jpg
+  title: Tollense auf zur 2. Etappe
+- src: images/Ruderboot_Tollense_11.jpg
+  title: Ruderboot Tollense 11
+- src: images/Unterkunft_KLein_Tioitin_Grillen_1.jpg
+  title: Unterkunft KLein Tioitin Grillen 1
+- src: images/Unterkunft_KLein_Tioitin_Fruhstuck_1.jpg
+  title: Unterkunft KLein Tioitin Frühstück 1
+- src: images/Anklam_am_Steg_Peene_11.jpg
+  title: Anklam am Steg Peene 11
+- src: images/Hubbruecke_Usedom_11.jpg
+  title: Hubbruecke Usedom 11
+- src: images/Moenkebude_am_Strand_Ostsee_11.jpg
+  title: Moenkebude am Strand Ostsee 11
+länder:
+- polen
+title: Tollense Peene 11
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

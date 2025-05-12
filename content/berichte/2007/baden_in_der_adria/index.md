@@ -1,13 +1,12 @@
-+++
-title = "Kroatien Ruderfahrt 2007"
-author = ""
-date = 2007-02-02T01:00:00+02:00
-begin = "2007-02-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2007-02-01"
+date: "2007-02-02T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Kroatien Ruderfahrt 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

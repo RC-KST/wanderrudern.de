@@ -1,67 +1,52 @@
-+++
-title = "Berliner Innenstadt 2022"
-author = ""
-date = 2022-05-05T01:00:00+02:00
-begin = "2022-05-01"
-"gewässer" = ["inn", "teltowkanal", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Berliner Innenstadt 2022 Flaggenboot des RC KST"
-src = "images/Berliner_Innenstadt_2022_Flaggenboot_des_RC_KST.jpg"
-[[images]]
-title = "Vorbereitungen für das Flaggenboot Berliner Innenstadt 2022"
-src = "images/Vorbereitungen_fur_das_Flaggenboot_Berliner_Innenstadt_2022.jpg"
-[[images]]
-title = "Wiking Innenstadt 2022 Ruderboote auf Reede"
-src = "images/Wiking_Innenstadt_2022_Ruderboote_auf_Reede.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Mühlendammschleuse Ruderboote"
-src = "images/Berliner_Innenstadt_2022_Muhlendammschleuse_Ruderboote.jpg"
-[[images]]
-title = "Berliner Innenstadt Ruderboote vor dem Reichstag"
-src = "images/Berliner_Innenstadt_Ruderboote_vor_dem_Reichstag.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Schleuse Plötzensee Ruderboote"
-src = "images/Berliner_Innenstadt_2022_Schleuse_Plotzensee_Ruderboote.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Teltowkanal Ullsteinhaus"
-src = "images/Berliner_Innenstadt_2022_Teltowkanal_Ullsteinhaus.jpg"
-[[images]]
-title = "Flaggen Ruderboot auf dem Teltowkanal 2022"
-src = "images/Flaggen_Ruderboot_auf_dem_Teltowkanal_2022.jpg"
-[[images]]
-title = "RC KST Ruderboote bei Wiking 2022"
-src = "images/RC_KST_Ruderboote_bei_Wiking_2022.jpg"
-[[images]]
-title = "Berliner Innenstadt Ruderboote in Treptow 2022"
-src = "images/Berliner_Innenstadt_Ruderboote_in_Treptow_2022.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Oberbaumbrücke"
-src = "images/Berliner_Innenstadt_2022_Oberbaumbrucke.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Ruderboote vor der Mühlendammschleuse"
-src = "images/Berliner_Innenstadt_2022_Ruderboote_vor_der_Muhlendammschleuse.jpg"
-[[images]]
-title = "Berliner Innestadt Ruderboote vor dem Berliner Dom 2022"
-src = "images/Berliner_Innestadt_Ruderboote_vor_dem_Berliner_Dom_2022.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Neues Museum Ruderboote"
-src = "images/Berliner_Innenstadt_2022_Neues_Museum_Ruderboote.jpg"
-[[images]]
-title = "Berliner Innenstadt Berliner Dom Ruderboote 2022"
-src = "images/Berliner_Innenstadt_Berliner_Dom_Ruderboote_2022.jpg"
-[[images]]
-title = "Berliner Innenstadt Hauptbahnhof Ruderboote"
-src = "images/Berliner_Innenstadt_Hauptbahnhof_Ruderboote.jpg"
-[[images]]
-title = "Berliner Innenstadt 2022 Ruderboote"
-src = "images/Berliner_Innenstadt_2022_Ruderboote.jpg"
-[[images]]
-title = "Schleuse Plötzensee Flaggenboot Ruderboot 2022"
-src = "images/Schleuse_Plotzensee_Flaggenboot_Ruderboot_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-05-01"
+date: "2022-05-05T01:00:00+02:00"
+gewässer:
+- inn
+- teltowkanal
+- wannsee
+images:
+- src: images/Berliner_Innenstadt_2022_Flaggenboot_des_RC_KST.jpg
+  title: Berliner Innenstadt 2022 Flaggenboot des RC KST
+- src: images/Vorbereitungen_fur_das_Flaggenboot_Berliner_Innenstadt_2022.jpg
+  title: Vorbereitungen für das Flaggenboot Berliner Innenstadt 2022
+- src: images/Wiking_Innenstadt_2022_Ruderboote_auf_Reede.jpg
+  title: Wiking Innenstadt 2022 Ruderboote auf Reede
+- src: images/Berliner_Innenstadt_2022_Muhlendammschleuse_Ruderboote.jpg
+  title: Berliner Innenstadt 2022 Mühlendammschleuse Ruderboote
+- src: images/Berliner_Innenstadt_Ruderboote_vor_dem_Reichstag.jpg
+  title: Berliner Innenstadt Ruderboote vor dem Reichstag
+- src: images/Berliner_Innenstadt_2022_Schleuse_Plotzensee_Ruderboote.jpg
+  title: Berliner Innenstadt 2022 Schleuse Plötzensee Ruderboote
+- src: images/Berliner_Innenstadt_2022_Teltowkanal_Ullsteinhaus.jpg
+  title: Berliner Innenstadt 2022 Teltowkanal Ullsteinhaus
+- src: images/Flaggen_Ruderboot_auf_dem_Teltowkanal_2022.jpg
+  title: Flaggen Ruderboot auf dem Teltowkanal 2022
+- src: images/RC_KST_Ruderboote_bei_Wiking_2022.jpg
+  title: RC KST Ruderboote bei Wiking 2022
+- src: images/Berliner_Innenstadt_Ruderboote_in_Treptow_2022.jpg
+  title: Berliner Innenstadt Ruderboote in Treptow 2022
+- src: images/Berliner_Innenstadt_2022_Oberbaumbrucke.jpg
+  title: Berliner Innenstadt 2022 Oberbaumbrücke
+- src: images/Berliner_Innenstadt_2022_Ruderboote_vor_der_Muhlendammschleuse.jpg
+  title: Berliner Innenstadt 2022 Ruderboote vor der Mühlendammschleuse
+- src: images/Berliner_Innestadt_Ruderboote_vor_dem_Berliner_Dom_2022.jpg
+  title: Berliner Innestadt Ruderboote vor dem Berliner Dom 2022
+- src: images/Berliner_Innenstadt_2022_Neues_Museum_Ruderboote.jpg
+  title: Berliner Innenstadt 2022 Neues Museum Ruderboote
+- src: images/Berliner_Innenstadt_Berliner_Dom_Ruderboote_2022.jpg
+  title: Berliner Innenstadt Berliner Dom Ruderboote 2022
+- src: images/Berliner_Innenstadt_Hauptbahnhof_Ruderboote.jpg
+  title: Berliner Innenstadt Hauptbahnhof Ruderboote
+- src: images/Berliner_Innenstadt_2022_Ruderboote.jpg
+  title: Berliner Innenstadt 2022 Ruderboote
+- src: images/Schleuse_Plotzensee_Flaggenboot_Ruderboot_2022.jpg
+  title: Schleuse Plötzensee Flaggenboot Ruderboot 2022
+länder: []
+title: Berliner Innenstadt 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

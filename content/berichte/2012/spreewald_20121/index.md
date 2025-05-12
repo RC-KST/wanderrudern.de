@@ -1,37 +1,35 @@
-+++
-title = "Spreewald 2012"
-author = ""
-date = 2012-08-08T01:00:00+02:00
-begin = "2012-08-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jonathan Nirina Ruderboot vor der Machnower Schleuse 2012"
-src = "images/Jonathan_Nirina_Ruderboot_vor_der_Machnower_Schleuse_2012.jpg"
-[[images]]
-title = "Zweier auf dem Weg in den Spreewald 2012"
-src = "images/Zweier_auf_dem_Weg_in_den_Spreewald_2012.jpg"
-[[images]]
-title = "Schleuse Neue Muehle Spreewald 2012"
-src = "images/Schleuse_Neue_Muehle_Spreewald_2012.jpg"
-[[images]]
-title = "Badepause Spreewald 2012"
-src = "images/Badepause_Spreewald_2012.jpg"
-[[images]]
-title = "Schleuse Gross Wasserburg Spreewald 2012"
-src = "images/Schleuse_Gross_Wasserburg_Spreewald_2012.jpg"
-[[images]]
-title = "Nirina Jochen im Spreewald 2012"
-src = "images/Nirina_Jochen_im_Spreewald_2012.jpg"
-[[images]]
-title = "Schleuse Luebben Spreewald 2012"
-src = "images/Schleuse_Luebben_Spreewald_2012.jpg"
-[[images]]
-title = "Jonathan mit Bagger Spreewald 2012"
-src = "images/Jonathan_mit_Bagger_Spreewald_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-08-01"
+date: "2012-08-08T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+images:
+- src: images/Jonathan_Nirina_Ruderboot_vor_der_Machnower_Schleuse_2012.jpg
+  title: Jonathan Nirina Ruderboot vor der Machnower Schleuse 2012
+- src: images/Zweier_auf_dem_Weg_in_den_Spreewald_2012.jpg
+  title: Zweier auf dem Weg in den Spreewald 2012
+- src: images/Schleuse_Neue_Muehle_Spreewald_2012.jpg
+  title: Schleuse Neue Muehle Spreewald 2012
+- src: images/Badepause_Spreewald_2012.jpg
+  title: Badepause Spreewald 2012
+- src: images/Schleuse_Gross_Wasserburg_Spreewald_2012.jpg
+  title: Schleuse Gross Wasserburg Spreewald 2012
+- src: images/Nirina_Jochen_im_Spreewald_2012.jpg
+  title: Nirina Jochen im Spreewald 2012
+- src: images/Schleuse_Luebben_Spreewald_2012.jpg
+  title: Schleuse Luebben Spreewald 2012
+- src: images/Jonathan_mit_Bagger_Spreewald_2012.jpg
+  title: Jonathan mit Bagger Spreewald 2012
+länder: []
+title: Spreewald 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

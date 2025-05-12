@@ -1,31 +1,27 @@
-+++
-title = "Dresdenia Kinderruderlager 2014"
-author = ""
-date = 2014-07-07T01:00:00+02:00
-begin = "2014-07-01"
-"gewässer" = ["tegler see", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kochtruppe beim Abendessen kochen Dresdenia 2014"
-src = "images/Kochtruppe_beim_Abendessen_kochen_Dresdenia_2014.jpg"
-[[images]]
-title = "Kinderzweier Dresdenia 2014-1"
-src = "images/Kinderzweier_Dresdenia_2014-1.jpg"
-[[images]]
-title = "Abendessen mit Philipp und Moritz Dresdenia 2014"
-src = "images/Abendessen_mit_Philipp_und_Moritz_Dresdenia_2014.jpg"
-[[images]]
-title = "hannes hat gelernt wie man pudding macht Dresdenia 2014"
-src = "images/hannes_hat_gelernt_wie_man_pudding_macht_Dresdenia_2014.jpg"
-[[images]]
-title = "Kindervierer Dresdenia 2014"
-src = "images/Kindervierer_Dresdenia_2014.jpg"
-[[images]]
-title = "Jonathan waescht ab Dresdenia 2014"
-src = "images/Jonathan_waescht_ab_Dresdenia_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-07-01"
+date: "2014-07-07T01:00:00+02:00"
+gewässer:
+- tegler see
+- wannsee
+images:
+- src: images/Kochtruppe_beim_Abendessen_kochen_Dresdenia_2014.jpg
+  title: Kochtruppe beim Abendessen kochen Dresdenia 2014
+- src: images/Kinderzweier_Dresdenia_2014-1.jpg
+  title: Kinderzweier Dresdenia 2014-1
+- src: images/Abendessen_mit_Philipp_und_Moritz_Dresdenia_2014.jpg
+  title: Abendessen mit Philipp und Moritz Dresdenia 2014
+- src: images/hannes_hat_gelernt_wie_man_pudding_macht_Dresdenia_2014.jpg
+  title: hannes hat gelernt wie man pudding macht Dresdenia 2014
+- src: images/Kindervierer_Dresdenia_2014.jpg
+  title: Kindervierer Dresdenia 2014
+- src: images/Jonathan_waescht_ab_Dresdenia_2014.jpg
+  title: Jonathan waescht ab Dresdenia 2014
+länder: []
+title: Dresdenia Kinderruderlager 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

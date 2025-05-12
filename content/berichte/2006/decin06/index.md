@@ -1,55 +1,43 @@
-+++
-title = "Decin06"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["aller", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barkenbau in Decin 06"
-src = "images/Barkenbau_in_Decin_06.jpg"
-[[images]]
-title = "Elbsandstein_7 2006"
-src = "images/Elbsandstein_7_2006.jpg"
-[[images]]
-title = "Elbsandstein_6 2006"
-src = "images/Elbsandstein_6_2006.jpg"
-[[images]]
-title = "DresdnerBrücke_2 0602"
-src = "images/DresdnerBrucke_2_0602.jpg"
-[[images]]
-title = "Katamaranbarke hinten 06"
-src = "images/Katamaranbarke_hinten_06.jpg"
-[[images]]
-title = "Barkenmannschaft06"
-src = "images/Barkenmannschaft06.jpg"
-[[images]]
-title = "Mechaniker unter der Barke 06"
-src = "images/Mechaniker_unter_der_Barke_06.jpg"
-[[images]]
-title = "barkensteuerleute 2006"
-src = "images/barkensteuerleute_2006.jpg"
-[[images]]
-title = "Unter der Barke 06"
-src = "images/Unter_der_Barke_06.jpg"
-[[images]]
-title = "PirnaAnlege_2006"
-src = "images/PirnaAnlege_2006.jpg"
-[[images]]
-title = "DresdnerSchlos s_06"
-src = "images/DresdnerSchlos_s_06.jpg"
-[[images]]
-title = "RuderclubPirnaBrücke_2006"
-src = "images/RuderclubPirnaBrucke_2006.jpg"
-[[images]]
-title = "Katamaran 06"
-src = "images/Katamaran_06.jpg"
-[[images]]
-title = "Kinder auf der Barke 2006"
-src = "images/Kinder_auf_der_Barke_2006.jpg"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- oder
+images:
+- src: images/Barkenbau_in_Decin_06.jpg
+  title: Barkenbau in Decin 06
+- src: images/Elbsandstein_7_2006.jpg
+  title: Elbsandstein_7 2006
+- src: images/Elbsandstein_6_2006.jpg
+  title: Elbsandstein_6 2006
+- src: images/DresdnerBrucke_2_0602.jpg
+  title: DresdnerBrücke_2 0602
+- src: images/Katamaranbarke_hinten_06.jpg
+  title: Katamaranbarke hinten 06
+- src: images/Barkenmannschaft06.jpg
+  title: Barkenmannschaft06
+- src: images/Mechaniker_unter_der_Barke_06.jpg
+  title: Mechaniker unter der Barke 06
+- src: images/barkensteuerleute_2006.jpg
+  title: barkensteuerleute 2006
+- src: images/Unter_der_Barke_06.jpg
+  title: Unter der Barke 06
+- src: images/PirnaAnlege_2006.jpg
+  title: PirnaAnlege_2006
+- src: images/DresdnerSchlos_s_06.jpg
+  title: DresdnerSchlos s_06
+- src: images/RuderclubPirnaBrucke_2006.jpg
+  title: RuderclubPirnaBrücke_2006
+- src: images/Katamaran_06.jpg
+  title: Katamaran 06
+- src: images/Kinder_auf_der_Barke_2006.jpg
+  title: Kinder auf der Barke 2006
+länder: []
+title: Decin06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

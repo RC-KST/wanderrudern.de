@@ -1,25 +1,22 @@
-+++
-title = "Wiking06"
-author = ""
-date = 2006-10-10T01:00:00+02:00
-begin = "2006-10-01"
-"gewässer" = ["spree"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Berlin-Reichstag"
-src = "images/Berlin-Reichstag.jpg"
-[[images]]
-title = "Berlin-Fernsehturm1"
-src = "images/Berlin-Fernsehturm1.jpg"
-[[images]]
-title = "muehlendamm06"
-src = "images/muehlendamm06.jpg"
-[[images]]
-title = "endlich bei Wiking06"
-src = "images/endlich_bei_Wiking06.jpg"
-
-+++
+---
+author: ""
+begin: "2006-10-01"
+date: "2006-10-10T01:00:00+02:00"
+gewässer:
+- spree
+images:
+- src: images/Berlin-Reichstag.jpg
+  title: Berlin-Reichstag
+- src: images/Berlin-Fernsehturm1.jpg
+  title: Berlin-Fernsehturm1
+- src: images/muehlendamm06.jpg
+  title: muehlendamm06
+- src: images/endlich_bei_Wiking06.jpg
+  title: endlich bei Wiking06
+länder: []
+title: Wiking06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

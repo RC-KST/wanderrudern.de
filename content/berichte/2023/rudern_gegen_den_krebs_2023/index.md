@@ -1,25 +1,21 @@
-+++
-title = "Rudern gegen den Krebs 2023"
-author = ""
-date = 2023-07-07T01:00:00+02:00
-begin = "2023-07-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rudern gegen den Krebs C-Vierer 2023"
-src = "images/Rudern_gegen_den_Krebs_C-Vierer_2023.jpg"
-[[images]]
-title = "Rudern gegen den Krebs Mixed Silbermedaille 2023"
-src = "images/Rudern_gegen_den_Krebs_Mixed_Silbermedaille_2023.jpg"
-[[images]]
-title = "Rudern gegen den Krebs 2023 Regattaplatz"
-src = "images/Rudern_gegen_den_Krebs_2023_Regattaplatz.jpg"
-[[images]]
-title = "Rudern gegen den Krebs 2023"
-src = "images/Rudern_gegen_den_Krebs_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-07-01"
+date: "2023-07-07T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Rudern_gegen_den_Krebs_C-Vierer_2023.jpg
+  title: Rudern gegen den Krebs C-Vierer 2023
+- src: images/Rudern_gegen_den_Krebs_Mixed_Silbermedaille_2023.jpg
+  title: Rudern gegen den Krebs Mixed Silbermedaille 2023
+- src: images/Rudern_gegen_den_Krebs_2023_Regattaplatz.jpg
+  title: Rudern gegen den Krebs 2023 Regattaplatz
+- src: images/Rudern_gegen_den_Krebs_2023.jpg
+  title: Rudern gegen den Krebs 2023
+länder: []
+title: Rudern gegen den Krebs 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

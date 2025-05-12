@@ -1,25 +1,23 @@
-+++
-title = "Wesermarathon 2002"
-author = ""
-date = 2002-01-01T01:00:00+02:00
-begin = "2002-01-01"
-"gewässer" = ["weser", "werra"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Eschwege Quartier Ruderer"
-src = "images/quartier_WM02.jpg"
-[[images]]
-title = "Eschwege Werralandrallye"
-src = "images/eschwege.jpg"
-[[images]]
-title = "Ruderboot auf der Werra"
-src = "images/stefan_WM02.jpg"
-[[images]]
-title = "Wesermarathon Ruderboot"
-src = "images/vagabund_wm02.jpg"
-
-+++
+---
+author: ""
+begin: "2002-01-01"
+date: "2002-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- werra
+images:
+- src: images/quartier_WM02.jpg
+  title: Eschwege Quartier Ruderer
+- src: images/eschwege.jpg
+  title: Eschwege Werralandrallye
+- src: images/stefan_WM02.jpg
+  title: Ruderboot auf der Werra
+- src: images/vagabund_wm02.jpg
+  title: Wesermarathon Ruderboot
+länder: []
+title: Wesermarathon 2002
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

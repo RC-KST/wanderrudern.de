@@ -1,16 +1,16 @@
-+++
-title = "Meissen - Coswig 2014 "
-author = ""
-date = 2014-05-05T01:00:00+02:00
-begin = "2014-05-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Vierer vor dem Kloster Leubus Oder 2012"
-src = "images/Vierer_vor_dem_Kloster_Leubus_Oder_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2014-05-01"
+date: "2014-05-05T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Vierer_vor_dem_Kloster_Leubus_Oder_2012.jpg
+  title: Vierer vor dem Kloster Leubus Oder 2012
+länder: []
+title: 'Meissen - Coswig 2014 '
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

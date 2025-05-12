@@ -1,55 +1,42 @@
-+++
-title = "Warthe Marathon 2022"
-author = ""
-date = 2022-05-05T01:00:00+02:00
-begin = "2022-05-01"
-"gewässer" = ["warthe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboot am Start Warthemarathon 2022"
-src = "images/Ruderboot_am_Start_Warthemarathon_2022.jpg"
-[[images]]
-title = "Ruderboote Warthemaratho 2022"
-src = "images/Ruderboote_Warthemaratho_2022.jpg"
-[[images]]
-title = "Ruderboot Warthemarathon 2022"
-src = "images/Ruderboot_Warthemarathon_2022.jpg"
-[[images]]
-title = "Ruderer auf der Warthe 2022 in Posen"
-src = "images/Ruderer_auf_der_Warthe_2022_in_Posen.jpg"
-[[images]]
-title = "Warthe Marathon am Ziel 2022"
-src = "images/Warthe_Marathon_am_Ziel_2022.jpg"
-[[images]]
-title = "Einsteigen ins Boot Warthe 2022"
-src = "images/Einsteigen_ins_Boot_Warthe_2022.jpg"
-[[images]]
-title = "Pizzaessen in Kolo Warthe 2022"
-src = "images/Pizzaessen_in_Kolo_Warthe_2022.jpg"
-[[images]]
-title = "Zimmerparty Warthe 2022"
-src = "images/Zimmerparty_Warthe_2022.jpg"
-[[images]]
-title = "Zweier legt an Warthe 2022"
-src = "images/Zweier_legt_an_Warthe_2022.jpg"
-[[images]]
-title = "E-Vierer mit Steuermann Warthemarathon 2022"
-src = "images/E-Vierer_mit_Steuermann_Warthemarathon_2022.jpg"
-[[images]]
-title = "Johanna am Steuer Warthemarathon 2022"
-src = "images/Johanna_am_Steuer_Warthemarathon_2022.jpg"
-[[images]]
-title = "Warthe Marathon 2022 Martin im Regen"
-src = "images/Warthe_Marathon_2022_Martin_im_Regen.jpg"
-[[images]]
-title = "erschöpfte Ruderin Warthemarathon 2022"
-src = "images/erschopfte_Ruderin_Warthemarathon_2022.jpg"
-[[images]]
-title = "Ruderboot Start in Zatom Stary Warthe 2022"
-src = "images/Ruderboot_Start_in_Zatom_Stary_Warthe_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-05-01"
+date: "2022-05-05T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Ruderboot_am_Start_Warthemarathon_2022.jpg
+  title: Ruderboot am Start Warthemarathon 2022
+- src: images/Ruderboote_Warthemaratho_2022.jpg
+  title: Ruderboote Warthemaratho 2022
+- src: images/Ruderboot_Warthemarathon_2022.jpg
+  title: Ruderboot Warthemarathon 2022
+- src: images/Ruderer_auf_der_Warthe_2022_in_Posen.jpg
+  title: Ruderer auf der Warthe 2022 in Posen
+- src: images/Warthe_Marathon_am_Ziel_2022.jpg
+  title: Warthe Marathon am Ziel 2022
+- src: images/Einsteigen_ins_Boot_Warthe_2022.jpg
+  title: Einsteigen ins Boot Warthe 2022
+- src: images/Pizzaessen_in_Kolo_Warthe_2022.jpg
+  title: Pizzaessen in Kolo Warthe 2022
+- src: images/Zimmerparty_Warthe_2022.jpg
+  title: Zimmerparty Warthe 2022
+- src: images/Zweier_legt_an_Warthe_2022.jpg
+  title: Zweier legt an Warthe 2022
+- src: images/E-Vierer_mit_Steuermann_Warthemarathon_2022.jpg
+  title: E-Vierer mit Steuermann Warthemarathon 2022
+- src: images/Johanna_am_Steuer_Warthemarathon_2022.jpg
+  title: Johanna am Steuer Warthemarathon 2022
+- src: images/Warthe_Marathon_2022_Martin_im_Regen.jpg
+  title: Warthe Marathon 2022 Martin im Regen
+- src: images/erschopfte_Ruderin_Warthemarathon_2022.jpg
+  title: erschöpfte Ruderin Warthemarathon 2022
+- src: images/Ruderboot_Start_in_Zatom_Stary_Warthe_2022.jpg
+  title: Ruderboot Start in Zatom Stary Warthe 2022
+länder: []
+title: Warthe Marathon 2022
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

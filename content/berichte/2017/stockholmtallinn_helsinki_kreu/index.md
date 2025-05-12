@@ -1,76 +1,57 @@
-+++
-title = "StockholmTallinn Helsinki Kreuzfahrt 2017"
-author = ""
-date = 2017-12-12T01:00:00+02:00
-begin = "2017-12-01"
-"gewässer" = ["inn"]
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rostock Hafenausfahrt 2017"
-src = "images/Rostock_Hafenausfahrt_2017.jpg"
-[[images]]
-title = "Tallinn Aussicht von der Oberstadt 2017"
-src = "images/Tallinn_Aussicht_von_der_Oberstadt_2017.jpg"
-[[images]]
-title = "Domberg Tallinn 2017"
-src = "images/Domberg_Tallinn_2017.jpg"
-[[images]]
-title = "Cidre Tasting in Tallinn 2017"
-src = "images/Cidre_Tasting_in_Tallinn_2017.jpg"
-[[images]]
-title = "Tallinn Weihnachtsmarkt 2017"
-src = "images/Tallinn_Weihnachtsmarkt_2017.jpg"
-[[images]]
-title = "Tallinn Alte Hanse 2017"
-src = "images/Tallinn_Alte_Hanse_2017.jpg"
-[[images]]
-title = "Tallinn Altstadt 2017"
-src = "images/Tallinn_Altstadt_2017.jpg"
-[[images]]
-title = "Helsinki Dom Ruderer 2017"
-src = "images/Helsinki_Dom_Ruderer_2017.jpg"
-[[images]]
-title = "Helsinki Markthalle Ruderer 2017"
-src = "images/Helsinki_Markthalle_Ruderer_2017.jpg"
-[[images]]
-title = "Einkauspassage Silja Symphony 2017"
-src = "images/Einkauspassage_Silja_Symphony_2017.jpg"
-[[images]]
-title = "Ruderer im Nachtclub Symphony 2017"
-src = "images/Ruderer_im_Nachtclub_Symphony_2017.jpg"
-[[images]]
-title = "Jonathan mit Cocktail 2017"
-src = "images/Jonathan_mit_Cocktail_2017.jpg"
-[[images]]
-title = "Silja Symphony in Helsinki 2017"
-src = "images/Silja_Symphony_in_Helsinki_2017.jpg"
-[[images]]
-title = "Ruderer Markthalle Helsinki 2017"
-src = "images/Ruderer_Markthalle_Helsinki_2017.jpg"
-[[images]]
-title = "Paul mit seiner Blaubeersuppe 2017"
-src = "images/Paul_mit_seiner_Blaubeersuppe_2017.jpg"
-[[images]]
-title = "Ruderer im Nachtclub 2017"
-src = "images/Ruderer_im_Nachtclub_2017.jpg"
-[[images]]
-title = "Riddarholmen Stockholm 2017"
-src = "images/Riddarholmen_Stockholm_2017.jpg"
-[[images]]
-title = "Paul Annierose Nirina Helsinki 2017"
-src = "images/Paul_Annierose_Nirina_Helsinki_2017.jpg"
-[[images]]
-title = "Mannschaftsbild Stockholm 2017"
-src = "images/Mannschaftsbild_Stockholm_2017.jpg"
-[[images]]
-title = "Stockholm Stadtparlament 2017"
-src = "images/Stockholm_Stadtparlament_2017.jpg"
-[[images]]
-title = "Goldener Saal Stadthuset 2017"
-src = "images/Goldener_Saal_Stadthuset_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-12-01"
+date: "2017-12-12T01:00:00+02:00"
+gewässer:
+- inn
+images:
+- src: images/Rostock_Hafenausfahrt_2017.jpg
+  title: Rostock Hafenausfahrt 2017
+- src: images/Tallinn_Aussicht_von_der_Oberstadt_2017.jpg
+  title: Tallinn Aussicht von der Oberstadt 2017
+- src: images/Domberg_Tallinn_2017.jpg
+  title: Domberg Tallinn 2017
+- src: images/Cidre_Tasting_in_Tallinn_2017.jpg
+  title: Cidre Tasting in Tallinn 2017
+- src: images/Tallinn_Weihnachtsmarkt_2017.jpg
+  title: Tallinn Weihnachtsmarkt 2017
+- src: images/Tallinn_Alte_Hanse_2017.jpg
+  title: Tallinn Alte Hanse 2017
+- src: images/Tallinn_Altstadt_2017.jpg
+  title: Tallinn Altstadt 2017
+- src: images/Helsinki_Dom_Ruderer_2017.jpg
+  title: Helsinki Dom Ruderer 2017
+- src: images/Helsinki_Markthalle_Ruderer_2017.jpg
+  title: Helsinki Markthalle Ruderer 2017
+- src: images/Einkauspassage_Silja_Symphony_2017.jpg
+  title: Einkauspassage Silja Symphony 2017
+- src: images/Ruderer_im_Nachtclub_Symphony_2017.jpg
+  title: Ruderer im Nachtclub Symphony 2017
+- src: images/Jonathan_mit_Cocktail_2017.jpg
+  title: Jonathan mit Cocktail 2017
+- src: images/Silja_Symphony_in_Helsinki_2017.jpg
+  title: Silja Symphony in Helsinki 2017
+- src: images/Ruderer_Markthalle_Helsinki_2017.jpg
+  title: Ruderer Markthalle Helsinki 2017
+- src: images/Paul_mit_seiner_Blaubeersuppe_2017.jpg
+  title: Paul mit seiner Blaubeersuppe 2017
+- src: images/Ruderer_im_Nachtclub_2017.jpg
+  title: Ruderer im Nachtclub 2017
+- src: images/Riddarholmen_Stockholm_2017.jpg
+  title: Riddarholmen Stockholm 2017
+- src: images/Paul_Annierose_Nirina_Helsinki_2017.jpg
+  title: Paul Annierose Nirina Helsinki 2017
+- src: images/Mannschaftsbild_Stockholm_2017.jpg
+  title: Mannschaftsbild Stockholm 2017
+- src: images/Stockholm_Stadtparlament_2017.jpg
+  title: Stockholm Stadtparlament 2017
+- src: images/Goldener_Saal_Stadthuset_2017.jpg
+  title: Goldener Saal Stadthuset 2017
+länder:
+- schweden
+title: StockholmTallinn Helsinki Kreuzfahrt 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

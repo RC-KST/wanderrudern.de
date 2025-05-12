@@ -1,22 +1,21 @@
-+++
-title = "Day of the Bay 2017"
-author = ""
-date = 2017-11-11T01:00:00+02:00
-begin = "2017-11-01"
-"gewässer" = ["aller", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruecktransport der Boote mit Fahrrad Day of the Bay 2017"
-src = "images/Ruecktransport_der_Boote_mit_Fahrrad_Day_of_the_Bay_2017.jpg"
-[[images]]
-title = "Werbestand Day of the Bay 2017"
-src = "images/Werbestand_Day_of_the_Bay_2017.jpg"
-[[images]]
-title = "Proberudern Day of the Bay 2017"
-src = "images/Proberudern_Day_of_the_Bay_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-11-01"
+date: "2017-11-11T01:00:00+02:00"
+gewässer:
+- aller
+- oder
+images:
+- src: images/Ruecktransport_der_Boote_mit_Fahrrad_Day_of_the_Bay_2017.jpg
+  title: Ruecktransport der Boote mit Fahrrad Day of the Bay 2017
+- src: images/Werbestand_Day_of_the_Bay_2017.jpg
+  title: Werbestand Day of the Bay 2017
+- src: images/Proberudern_Day_of_the_Bay_2017.jpg
+  title: Proberudern Day of the Bay 2017
+länder: []
+title: Day of the Bay 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

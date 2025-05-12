@@ -1,73 +1,56 @@
-+++
-title = "storkow 2006"
-author = ""
-date = 2006-06-06T01:00:00+02:00
-begin = "2006-06-01"
-"gewässer" = ["teltowkanal", "wolziger see", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Nils teltowkanal06"
-src = "images/Nils_teltowkanal06.jpg"
-[[images]]
-title = "matze neuemuehle06"
-src = "images/matze_neuemuehle06.jpg"
-[[images]]
-title = "schleuseneuemuehle ruderboot"
-src = "images/schleuseneuemuehle2.jpg"
-[[images]]
-title = "schleuseneuemuehle paula mit motorboot"
-src = "images/schleuseneuemuehle5.jpg"
-[[images]]
-title = "kuddel land"
-src = "images/kuddel06-land.jpg"
-[[images]]
-title = "storkow  fruehstueck3"
-src = "images/storkow06fruehstueck3.jpg"
-[[images]]
-title = "scharmuetzelsee baden"
-src = "images/scharmuetzelsee06baden.jpg"
-[[images]]
-title = "teltowkanal gummibaerchen"
-src = "images/teltowkanal_gummibaerchen.jpg"
-[[images]]
-title = "post wendenschloss06 "
-src = "images/post_wendenschloss06.jpg"
-[[images]]
-title = "saimaa neuemuehle Ruderboot"
-src = "images/saimaa_neuemuehle06.jpg"
-[[images]]
-title = "sandro neuemuehle ruderer"
-src = "images/sandro_neuemuehle06.jpg"
-[[images]]
-title = "schleuseneuemuehle4"
-src = "images/schleuseneuemuehle4.jpg"
-[[images]]
-title = "schleuseneuemuehle Ruderer"
-src = "images/schleuseneuemuehle3.jpg"
-[[images]]
-title = "storkow  fliess"
-src = "images/storkow06fliess.jpg"
-[[images]]
-title = "kuddel zweier Rudern"
-src = "images/kuddel06-zweier.jpg"
-[[images]]
-title = "storkow fruehstueck ruderer"
-src = "images/storkow06fruehstueck2.jpg"
-[[images]]
-title = "bootshalle Storkow"
-src = "images/bootshalle_Storkow06.jpg"
-[[images]]
-title = "scharmuetzelsee06"
-src = "images/scharmuetzelsee06.jpg"
-[[images]]
-title = "scharmuetzelsee baden sophie"
-src = "images/scharmuetzelsee06baden4.jpg"
-[[images]]
-title = "scharmuetzelsee unterwasser"
-src = "images/scharmuetzelsee06baden3.jpg"
-
-+++
+---
+author: ""
+begin: "2006-06-01"
+date: "2006-06-06T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- wolziger see
+- bug
+images:
+- src: images/Nils_teltowkanal06.jpg
+  title: Nils teltowkanal06
+- src: images/matze_neuemuehle06.jpg
+  title: matze neuemuehle06
+- src: images/schleuseneuemuehle2.jpg
+  title: schleuseneuemuehle ruderboot
+- src: images/schleuseneuemuehle5.jpg
+  title: schleuseneuemuehle paula mit motorboot
+- src: images/kuddel06-land.jpg
+  title: kuddel land
+- src: images/storkow06fruehstueck3.jpg
+  title: storkow  fruehstueck3
+- src: images/scharmuetzelsee06baden.jpg
+  title: scharmuetzelsee baden
+- src: images/teltowkanal_gummibaerchen.jpg
+  title: teltowkanal gummibaerchen
+- src: images/post_wendenschloss06.jpg
+  title: 'post wendenschloss06 '
+- src: images/saimaa_neuemuehle06.jpg
+  title: saimaa neuemuehle Ruderboot
+- src: images/sandro_neuemuehle06.jpg
+  title: sandro neuemuehle ruderer
+- src: images/schleuseneuemuehle4.jpg
+  title: schleuseneuemuehle4
+- src: images/schleuseneuemuehle3.jpg
+  title: schleuseneuemuehle Ruderer
+- src: images/storkow06fliess.jpg
+  title: storkow  fliess
+- src: images/kuddel06-zweier.jpg
+  title: kuddel zweier Rudern
+- src: images/storkow06fruehstueck2.jpg
+  title: storkow fruehstueck ruderer
+- src: images/bootshalle_Storkow06.jpg
+  title: bootshalle Storkow
+- src: images/scharmuetzelsee06.jpg
+  title: scharmuetzelsee06
+- src: images/scharmuetzelsee06baden4.jpg
+  title: scharmuetzelsee baden sophie
+- src: images/scharmuetzelsee06baden3.jpg
+  title: scharmuetzelsee unterwasser
+länder: []
+title: storkow 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

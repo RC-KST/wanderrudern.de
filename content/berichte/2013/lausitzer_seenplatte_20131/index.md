@@ -1,34 +1,27 @@
-+++
-title = "Lausitzer Seenplatte 2013"
-author = ""
-date = 2013-06-06T01:00:00+02:00
-begin = "2013-06-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote am Partwitzer See 2013"
-src = "images/Ruderboote_am_Partwitzer_See_2013.jpg"
-[[images]]
-title = "Start am Partwitzer See 2013"
-src = "images/Start_am_Partwitzer_See_2013.jpg"
-[[images]]
-title = "Umtragestelle am Wehr Barbarakanal 2013"
-src = "images/Umtragestelle_am_Wehr_Barbarakanal_2013.jpg"
-[[images]]
-title = "Sedlitzer See Lausitz 2013"
-src = "images/Sedlitzer_See_Lausitz_2013.jpg"
-[[images]]
-title = "Kanal zum Sedlitzer See Lausitz 2013"
-src = "images/Kanal_zum_Sedlitzer_See_Lausitz_2013.jpg"
-[[images]]
-title = "Schleuseneroeffnung Lausitzer Seen 2013"
-src = "images/Schleuseneroeffnung_Lausitzer_Seen_2013.jpg"
-[[images]]
-title = "Ministerpraesidenten auf dem Floss 2013"
-src = "images/Ministerpraesidenten_auf_dem_Floss_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-06-01"
+date: "2013-06-06T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderboote_am_Partwitzer_See_2013.jpg
+  title: Ruderboote am Partwitzer See 2013
+- src: images/Start_am_Partwitzer_See_2013.jpg
+  title: Start am Partwitzer See 2013
+- src: images/Umtragestelle_am_Wehr_Barbarakanal_2013.jpg
+  title: Umtragestelle am Wehr Barbarakanal 2013
+- src: images/Sedlitzer_See_Lausitz_2013.jpg
+  title: Sedlitzer See Lausitz 2013
+- src: images/Kanal_zum_Sedlitzer_See_Lausitz_2013.jpg
+  title: Kanal zum Sedlitzer See Lausitz 2013
+- src: images/Schleuseneroeffnung_Lausitzer_Seen_2013.jpg
+  title: Schleuseneroeffnung Lausitzer Seen 2013
+- src: images/Ministerpraesidenten_auf_dem_Floss_2013.jpg
+  title: Ministerpraesidenten auf dem Floss 2013
+länder: []
+title: Lausitzer Seenplatte 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,181 +1,135 @@
-+++
-title = "Polen Bug Narew Weichsel Ostsee 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["havel", "ostsee", "oder", "bromberger kanal", "weichsel", "nogat", "narew", "bug", "po"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse Zeran Warschau Weichsel 2013"
-src = "images/Schleuse_Zeran_Warschau_Weichsel_2013.jpg"
-[[images]]
-title = "die ruderboote erreichen die Weichsel 2013"
-src = "images/die_ruderboote_erreichen_die_Weichsel_2013.jpg"
-[[images]]
-title = "Narewmuendung Weichsel 2013"
-src = "images/Narewmuendung_Weichsel_2013.jpg"
-[[images]]
-title = "frauenhandtasche passend zur Kleidung Weichsel 2013"
-src = "images/frauenhandtasche_passend_zur_Kleidung_Weichsel_2013.jpg"
-[[images]]
-title = "anlegen nowy dwor weichsel 2013"
-src = "images/anlegen_nowy_dwor_weichsel_2013.jpg"
-[[images]]
-title = "Girlies auf der Weichsel 2013"
-src = "images/Girlies_auf_der_Weichsel_2013.jpg"
-[[images]]
-title = "girlies am Traumstrand Weichsel 2013"
-src = "images/girlies_am_Traumstrand_Weichsel_2013.jpg"
-[[images]]
-title = "Stefan vor dem Kloster Weichsel 2013"
-src = "images/Stefan_vor_dem_Kloster_Weichsel_2013.jpg"
-[[images]]
-title = "Weichsel mittellauf 2013"
-src = "images/Weichsel_mittellauf_2013.jpg"
-[[images]]
-title = "ruderboote auf der Weichsel 2013"
-src = "images/ruderboote_auf_der_Weichsel_2013.jpg"
-[[images]]
-title = "Zweier auf der Weichsel 2013"
-src = "images/Zweier_auf_der_Weichsel_2013.jpg"
-[[images]]
-title = "LingLing vor Plock Weichsel 2013-1"
-src = "images/LingLing_vor_Plock_Weichsel_2013-1.jpg"
-[[images]]
-title = "jiajia auf dem weichselstausee 2013"
-src = "images/jiajia_auf_dem_weichselstausee_2013.jpg"
-[[images]]
-title = "auf dem Stausee Weichsel 2013"
-src = "images/auf_dem_Stausee_Weichsel_2013.jpg"
-[[images]]
-title = "schleuse Wloclawek Weichsel 2013-1"
-src = "images/schleuse_Wloclawek_Weichsel_2013-1.jpg"
-[[images]]
-title = "wloclawek wehr weichsel 2013"
-src = "images/wloclawek_wehr_weichsel_2013.jpg"
-[[images]]
-title = "das Hinernis war nicht eingezeichnet Weichsel 2013"
-src = "images/das_Hinernis_war_nicht_eingezeichnet_Weichsel_2013.jpg"
-[[images]]
-title = "anlege chiechocinek Weichsel 2013"
-src = "images/anlege_chiechocinek_Weichsel_2013.jpg"
-[[images]]
-title = "Thorn Weichsel 2013"
-src = "images/Thorn_Weichsel_2013.jpg"
-[[images]]
-title = "bromberg vor alten schleuse weichsel 2013"
-src = "images/bromberg_vor_alten_schleuse_weichsel_2013.jpg"
-[[images]]
-title = "Baden an der Regattastrecke von Bromberg Weichsel 2013"
-src = "images/Baden_an_der_Regattastrecke_von_Bromberg_Weichsel_2013.jpg"
-[[images]]
-title = "Burg von Swiezie Weichsel 2013"
-src = "images/Burg_von_Swiezie_Weichsel_2013.jpg"
-[[images]]
-title = "Ruderinnen in Graudenz Weichsel 2013-1"
-src = "images/Ruderinnen_in_Graudenz_Weichsel_2013-1.jpg"
-[[images]]
-title = "Graudenz vom Wasser aus Weichsel 2013"
-src = "images/Graudenz_vom_Wasser_aus_Weichsel_2013.jpg"
-[[images]]
-title = "untere Weichsel bei extrmer hitze 2013-1"
-src = "images/untere_Weichsel_bei_extrmer_hitze_2013-1.jpg"
-[[images]]
-title = "anlege nowa weichsel 2013"
-src = "images/anlege_nowa_weichsel_2013.jpg"
-[[images]]
-title = "den hang hoch liegt das Quartier weichsel 2013"
-src = "images/den_hang_hoch_liegt_das_Quartier_weichsel_2013.jpg"
-[[images]]
-title = "Transporttaxi fuers gepaeck weichsel 2013"
-src = "images/Transporttaxi_fuers_gepaeck_weichsel_2013.jpg"
-[[images]]
-title = "Weichsel unterlauf 2013"
-src = "images/Weichsel_unterlauf_2013.jpg"
-[[images]]
-title = "es ist heiss weichsel 2013"
-src = "images/es_ist_heiss_weichsel_2013.jpg"
-[[images]]
-title = "Hotel an der bruecke baldowo weichsel 2013"
-src = "images/Hotel_an_der_bruecke_baldowo_weichsel_2013.jpg"
-[[images]]
-title = "Ostsee im Blick Weichsel 2013"
-src = "images/Ostsee_im_Blick_Weichsel_2013.jpg"
-[[images]]
-title = "kurz vor der Ostsee weichsel 2013"
-src = "images/kurz_vor_der_Ostsee_weichsel_2013.jpg"
-[[images]]
-title = "letzte Schleuse vor Danzig Weichsel 2013"
-src = "images/letzte_Schleuse_vor_Danzig_Weichsel_2013.jpg"
-[[images]]
-title = "campingplatz sobieszewo weichsel 2013-1"
-src = "images/campingplatz_sobieszewo_weichsel_2013-1.jpg"
-[[images]]
-title = "endlich die ostsee 2013"
-src = "images/endlich_die_ostsee_2013.jpg"
-[[images]]
-title = "Jiajia am ostseestrand weichsel 2013"
-src = "images/Jiajia_am_ostseestrand_weichsel_2013.jpg"
-[[images]]
-title = "baywatch an der ostsee 2013"
-src = "images/baywatch_an_der_ostsee_2013.jpg"
-[[images]]
-title = "pontonbruecke sobieszewo Weichsel 2013-1"
-src = "images/pontonbruecke_sobieszewo_Weichsel_2013-1.jpg"
-[[images]]
-title = "industrie am Weichselarm 2013"
-src = "images/industrie_am_Weichselarm_2013.jpg"
-[[images]]
-title = "bruecke in Danzig weichsel 2013"
-src = "images/bruecke_in_Danzig_weichsel_2013.jpg"
-[[images]]
-title = "Bente im Hafen Danzig 2013"
-src = "images/Bente_im_Hafen_Danzig_2013.jpg"
-[[images]]
-title = "touristen schaluppe weichsel 2013"
-src = "images/touristen_schaluppe_weichsel_2013.jpg"
-[[images]]
-title = "ruderboot danzig im Hafen 2013"
-src = "images/ruderboot_danzig_im_Hafen_2013.jpg"
-[[images]]
-title = "Danzig goldenes Tor 2013"
-src = "images/Danzig_goldenes_Tor_2013.jpg"
-[[images]]
-title = "Danzig downtow"
-src = "images/Danzig_downtow.jpg"
-[[images]]
-title = "ruderinnen im Torbogen Danzig 2013"
-src = "images/ruderinnen_im_Torbogen_Danzig_2013.jpg"
-[[images]]
-title = "danzig stadtbesichtigung per Boot 2013"
-src = "images/danzig_stadtbesichtigung_per_Boot_2013.jpg"
-[[images]]
-title = "danzig philharmonie 2013"
-src = "images/danzig_philharmonie_2013.jpg"
-[[images]]
-title = "das war ne sackgasse danzig 2013"
-src = "images/das_war_ne_sackgasse_danzig_2013.jpg"
-[[images]]
-title = "danzig cupcakes 2013"
-src = "images/danzig_cupcakes_2013.jpg"
-[[images]]
-title = "cola werbung mit ruderinnen 2013"
-src = "images/cola_werbung_mit_ruderinnen_2013.jpg"
-[[images]]
-title = "Danzig blick von der Westerplatte 2013"
-src = "images/Danzig_blick_von_der_Westerplatte_2013.jpg"
-[[images]]
-title = "danzig meeresbefahrung leider gestrichen 2013"
-src = "images/danzig_meeresbefahrung_leider_gestrichen_2013.jpg"
-[[images]]
-title = "martin in danzig 2013"
-src = "images/martin_in_danzig_2013.jpg"
-[[images]]
-title = "Ruderer in Danzig 2013"
-src = "images/Ruderer_in_Danzig_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- ostsee
+- oder
+- bromberger kanal
+- weichsel
+- nogat
+- narew
+- bug
+- po
+images:
+- src: images/Schleuse_Zeran_Warschau_Weichsel_2013.jpg
+  title: Schleuse Zeran Warschau Weichsel 2013
+- src: images/die_ruderboote_erreichen_die_Weichsel_2013.jpg
+  title: die ruderboote erreichen die Weichsel 2013
+- src: images/Narewmuendung_Weichsel_2013.jpg
+  title: Narewmuendung Weichsel 2013
+- src: images/frauenhandtasche_passend_zur_Kleidung_Weichsel_2013.jpg
+  title: frauenhandtasche passend zur Kleidung Weichsel 2013
+- src: images/anlegen_nowy_dwor_weichsel_2013.jpg
+  title: anlegen nowy dwor weichsel 2013
+- src: images/Girlies_auf_der_Weichsel_2013.jpg
+  title: Girlies auf der Weichsel 2013
+- src: images/girlies_am_Traumstrand_Weichsel_2013.jpg
+  title: girlies am Traumstrand Weichsel 2013
+- src: images/Stefan_vor_dem_Kloster_Weichsel_2013.jpg
+  title: Stefan vor dem Kloster Weichsel 2013
+- src: images/Weichsel_mittellauf_2013.jpg
+  title: Weichsel mittellauf 2013
+- src: images/ruderboote_auf_der_Weichsel_2013.jpg
+  title: ruderboote auf der Weichsel 2013
+- src: images/Zweier_auf_der_Weichsel_2013.jpg
+  title: Zweier auf der Weichsel 2013
+- src: images/LingLing_vor_Plock_Weichsel_2013-1.jpg
+  title: LingLing vor Plock Weichsel 2013-1
+- src: images/jiajia_auf_dem_weichselstausee_2013.jpg
+  title: jiajia auf dem weichselstausee 2013
+- src: images/auf_dem_Stausee_Weichsel_2013.jpg
+  title: auf dem Stausee Weichsel 2013
+- src: images/schleuse_Wloclawek_Weichsel_2013-1.jpg
+  title: schleuse Wloclawek Weichsel 2013-1
+- src: images/wloclawek_wehr_weichsel_2013.jpg
+  title: wloclawek wehr weichsel 2013
+- src: images/das_Hinernis_war_nicht_eingezeichnet_Weichsel_2013.jpg
+  title: das Hinernis war nicht eingezeichnet Weichsel 2013
+- src: images/anlege_chiechocinek_Weichsel_2013.jpg
+  title: anlege chiechocinek Weichsel 2013
+- src: images/Thorn_Weichsel_2013.jpg
+  title: Thorn Weichsel 2013
+- src: images/bromberg_vor_alten_schleuse_weichsel_2013.jpg
+  title: bromberg vor alten schleuse weichsel 2013
+- src: images/Baden_an_der_Regattastrecke_von_Bromberg_Weichsel_2013.jpg
+  title: Baden an der Regattastrecke von Bromberg Weichsel 2013
+- src: images/Burg_von_Swiezie_Weichsel_2013.jpg
+  title: Burg von Swiezie Weichsel 2013
+- src: images/Ruderinnen_in_Graudenz_Weichsel_2013-1.jpg
+  title: Ruderinnen in Graudenz Weichsel 2013-1
+- src: images/Graudenz_vom_Wasser_aus_Weichsel_2013.jpg
+  title: Graudenz vom Wasser aus Weichsel 2013
+- src: images/untere_Weichsel_bei_extrmer_hitze_2013-1.jpg
+  title: untere Weichsel bei extrmer hitze 2013-1
+- src: images/anlege_nowa_weichsel_2013.jpg
+  title: anlege nowa weichsel 2013
+- src: images/den_hang_hoch_liegt_das_Quartier_weichsel_2013.jpg
+  title: den hang hoch liegt das Quartier weichsel 2013
+- src: images/Transporttaxi_fuers_gepaeck_weichsel_2013.jpg
+  title: Transporttaxi fuers gepaeck weichsel 2013
+- src: images/Weichsel_unterlauf_2013.jpg
+  title: Weichsel unterlauf 2013
+- src: images/es_ist_heiss_weichsel_2013.jpg
+  title: es ist heiss weichsel 2013
+- src: images/Hotel_an_der_bruecke_baldowo_weichsel_2013.jpg
+  title: Hotel an der bruecke baldowo weichsel 2013
+- src: images/Ostsee_im_Blick_Weichsel_2013.jpg
+  title: Ostsee im Blick Weichsel 2013
+- src: images/kurz_vor_der_Ostsee_weichsel_2013.jpg
+  title: kurz vor der Ostsee weichsel 2013
+- src: images/letzte_Schleuse_vor_Danzig_Weichsel_2013.jpg
+  title: letzte Schleuse vor Danzig Weichsel 2013
+- src: images/campingplatz_sobieszewo_weichsel_2013-1.jpg
+  title: campingplatz sobieszewo weichsel 2013-1
+- src: images/endlich_die_ostsee_2013.jpg
+  title: endlich die ostsee 2013
+- src: images/Jiajia_am_ostseestrand_weichsel_2013.jpg
+  title: Jiajia am ostseestrand weichsel 2013
+- src: images/baywatch_an_der_ostsee_2013.jpg
+  title: baywatch an der ostsee 2013
+- src: images/pontonbruecke_sobieszewo_Weichsel_2013-1.jpg
+  title: pontonbruecke sobieszewo Weichsel 2013-1
+- src: images/industrie_am_Weichselarm_2013.jpg
+  title: industrie am Weichselarm 2013
+- src: images/bruecke_in_Danzig_weichsel_2013.jpg
+  title: bruecke in Danzig weichsel 2013
+- src: images/Bente_im_Hafen_Danzig_2013.jpg
+  title: Bente im Hafen Danzig 2013
+- src: images/touristen_schaluppe_weichsel_2013.jpg
+  title: touristen schaluppe weichsel 2013
+- src: images/ruderboot_danzig_im_Hafen_2013.jpg
+  title: ruderboot danzig im Hafen 2013
+- src: images/Danzig_goldenes_Tor_2013.jpg
+  title: Danzig goldenes Tor 2013
+- src: images/Danzig_downtow.jpg
+  title: Danzig downtow
+- src: images/ruderinnen_im_Torbogen_Danzig_2013.jpg
+  title: ruderinnen im Torbogen Danzig 2013
+- src: images/danzig_stadtbesichtigung_per_Boot_2013.jpg
+  title: danzig stadtbesichtigung per Boot 2013
+- src: images/danzig_philharmonie_2013.jpg
+  title: danzig philharmonie 2013
+- src: images/das_war_ne_sackgasse_danzig_2013.jpg
+  title: das war ne sackgasse danzig 2013
+- src: images/danzig_cupcakes_2013.jpg
+  title: danzig cupcakes 2013
+- src: images/cola_werbung_mit_ruderinnen_2013.jpg
+  title: cola werbung mit ruderinnen 2013
+- src: images/Danzig_blick_von_der_Westerplatte_2013.jpg
+  title: Danzig blick von der Westerplatte 2013
+- src: images/danzig_meeresbefahrung_leider_gestrichen_2013.jpg
+  title: danzig meeresbefahrung leider gestrichen 2013
+- src: images/martin_in_danzig_2013.jpg
+  title: martin in danzig 2013
+- src: images/Ruderer_in_Danzig_2013.jpg
+  title: Ruderer in Danzig 2013
+länder:
+- polen
+title: Polen Bug Narew Weichsel Ostsee 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

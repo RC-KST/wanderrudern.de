@@ -1,13 +1,13 @@
-+++
-title = "Preisverleihung Berlin 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["teltowkanal"]
-"länder" = []
-"typ" = "veranstaltung"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+länder: []
+title: Preisverleihung Berlin 2011
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

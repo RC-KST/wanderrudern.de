@@ -1,208 +1,144 @@
-+++
-title = "Fährfahrt Oslo 2024"
-author = ""
-date = 2024-08-08T01:00:00+02:00
-begin = "2024-08-01"
-"gewässer" = []
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Porsgrunn auf dem Weg zum Meer 2018"
-src = "images/Porsgrunn_auf_dem_Weg_zum_Meer_2018.jpg"
-[[images]]
-title = "Schiffstunnel Porsgrunn 2018"
-src = "images/Schiffstunnel_Porsgrunn_2018.jpg"
-[[images]]
-title = "Holzkirche bei Porsgrunn 2018"
-src = "images/Holzkirche_bei_Porsgrunn_2018.jpg"
-[[images]]
-title = "Ruderboot auf dem Skaggerak 2018"
-src = "images/Ruderboot_auf_dem_Skaggerak_2018.jpg"
-[[images]]
-title = "Windschutz zwischen den Schaeren 2018"
-src = "images/Windschutz_zwischen_den_Schaeren_2018.jpg"
-[[images]]
-title = "ideale Pausenstelle auf der letzten Klipppe vor dem Skaggerak 2018"
-src = "images/ideale_Pausenstelle_auf_der_letzten_Klipppe_vor_dem_Skaggerak_2018.jpg"
-[[images]]
-title = "enge Durchfahrt zwischen den Klippen 2018"
-src = "images/enge_Durchfahrt_zwischen_den_Klippen_2018.jpg"
-[[images]]
-title = "Ruderer Camping Lydhusstranda 2018"
-src = "images/Ruderer_Camping_Lydhusstranda_2018.jpg"
-[[images]]
-title = "Ruderboote Stavern 2018"
-src = "images/Ruderboote_Stavern_2018.jpg"
-[[images]]
-title = "E-Vierer auf dem Weg nach Sandefjord 2018"
-src = "images/E-Vierer_auf_dem_Weg_nach_Sandefjord_2018.jpg"
-[[images]]
-title = "Inrigger vor den letzten Schaeren 2018"
-src = "images/Inrigger_vor_den_letzten_Schaeren_2018.jpg"
-[[images]]
-title = "Einfahrt in den Sandefjord 2018"
-src = "images/Einfahrt_in_den_Sandefjord_2018.jpg"
-[[images]]
-title = "Mittagspause vor Sandefjord 2018"
-src = "images/Mittagspause_vor_Sandefjord_2018.jpg"
-[[images]]
-title = "Nirina auf dem Sprungbett 2018"
-src = "images/Nirina_auf_dem_Sprungbett_2018.jpg"
-[[images]]
-title = "Ruderer auf der Klippe 2018"
-src = "images/Ruderer_auf_der_Klippe_2018.jpg"
-[[images]]
-title = "Besuch vom Faehrschiff 2018"
-src = "images/Besuch_vom_Faehrschiff_2018.jpg"
-[[images]]
-title = "Passage durch die Felsen Sandefjord 2018"
-src = "images/Passage_durch_die_Felsen_Sandefjord_2018.jpg"
-[[images]]
-title = "Sandefjord Ruderclub 2018"
-src = "images/Sandefjord_Ruderclub_2018.jpg"
-[[images]]
-title = "Lingling am Steuer Sandefjord 208"
-src = "images/Lingling_am_Steuer_Sandefjord_208.jpg"
-[[images]]
-title = "Badepause kurz vor Tonsberg 2018"
-src = "images/Badepause_kurz_vor_Tonsberg_2018.jpg"
-[[images]]
-title = "Ruderboot auf dem Weg nach Tonsberg 2018"
-src = "images/Ruderboot_auf_dem_Weg_nach_Tonsberg_2018.jpg"
-[[images]]
-title = "Walhalla in Tonsberg 2018"
-src = "images/Walhalla_in_Tonsberg_2018.jpg"
-[[images]]
-title = "Tonsberg Ruderverein 2018"
-src = "images/Tonsberg_Ruderverein_2018.jpg"
-[[images]]
-title = "Wasserfront Tonsberg 2018"
-src = "images/Wasserfront_Tonsberg_2018.jpg"
-[[images]]
-title = "Wikingerschiff in Tonsberg 2018"
-src = "images/Wikingerschiff_in_Tonsberg_2018.jpg"
-[[images]]
-title = "Verladeterminal im Oslofjord 2018"
-src = "images/Verladeterminal_im_Oslofjord_2018.jpg"
-[[images]]
-title = "Ruderboote am Badestrand Oslofjord 2018"
-src = "images/Ruderboote_am_Badestrand_Oslofjord_2018.jpg"
-[[images]]
-title = "Runenstein Wikingermuseum 2018"
-src = "images/Runenstein_Wikingermuseum_2018.jpg"
-[[images]]
-title = "Tanker im Oslofjord 2018"
-src = "images/Tanker_im_Oslofjord_2018.jpg"
-[[images]]
-title = "Beilwerfen Wikingermuseum 2018"
-src = "images/Beilwerfen_Wikingermuseum_2018.jpg"
-[[images]]
-title = "WaWa beim Bogenschiessen 2018"
-src = "images/WaWa_beim_Bogenschiessen_2018.jpg"
-[[images]]
-title = "Stocktanz Wikingermuseum 2018"
-src = "images/Stocktanz_Wikingermuseum_2018.jpg"
-[[images]]
-title = "Paul Robin Hood Wikingermuseum 2018"
-src = "images/Paul_Robin_Hood_Wikingermuseum_2018.jpg"
-[[images]]
-title = "Bogenschiessen Wikingermuseum 2018"
-src = "images/Bogenschiessen_Wikingermuseum_2018.jpg"
-[[images]]
-title = "dichter Faehrverkehr Horten 2018"
-src = "images/dichter_Faehrverkehr_Horten_2018.jpg"
-[[images]]
-title = "Kanal zum Ruderclub Horten"
-src = "images/Kanal_zum_Ruderclub_Horten.jpg"
-[[images]]
-title = "Horten Ruderclub 2018"
-src = "images/Horten_Ruderclub_2018.jpg"
-[[images]]
-title = "ruppiges Wetter auf dem Oslofjord 2018"
-src = "images/ruppiges_Wetter_auf_dem_Oslofjord_2018.jpg"
-[[images]]
-title = "vor der schuetzenden Klippe im Oslofjord 2018"
-src = "images/vor_der_schuetzenden_Klippe_im_Oslofjord_2018.jpg"
-[[images]]
-title = "Inrigger vor Containerschiff 2018"
-src = "images/Inrigger_vor_Containerschiff_2018.jpg"
-[[images]]
-title = "E-Dreier auf dem inneren Oslofjord 2018"
-src = "images/E-Dreier_auf_dem_inneren_Oslofjord_2018.jpg"
-[[images]]
-title = "Ruderer Pause auf einer Insel im Oslofjord 2018"
-src = "images/Ruderer_Pause_auf_einer_Insel_im_Oslofjord_2018.jpg"
-[[images]]
-title = "Schiebewind auf dem Oslofjord es wird ruppig 2018"
-src = "images/Schiebewind_auf_dem_Oslofjord_es_wird_ruppig_2018.jpg"
-[[images]]
-title = "Oslofjord Deckung hinter einer Insel Ruderboote 2018"
-src = "images/Oslofjord_Deckung_hinter_einer_Insel_Ruderboote_2018.jpg"
-[[images]]
-title = "Oslofjord die Sonne kommt durch 2018"
-src = "images/Oslofjord_die_Sonne_kommt_durch_2018.jpg"
-[[images]]
-title = "Oslofjord endlich zwischen den Inseln 2018"
-src = "images/Oslofjord_endlich_zwischen_den_Inseln_2018.jpg"
-[[images]]
-title = "alle Boote in Solodden 2018"
-src = "images/alle_Boote_in_Solodden_2018.jpg"
-[[images]]
-title = "innerer Oslofjord bei 5 Beaufort 2018"
-src = "images/innerer_Oslofjord_bei_5_Beaufort_2018.jpg"
-[[images]]
-title = "Ruderer in Oslo am Ziel 2018"
-src = "images/Ruderer_in_Oslo_am_Ziel_2018.jpg"
-[[images]]
-title = "Materialtransport auf Solodden Oslo 2018"
-src = "images/Materialtransport_auf_Solodden_Oslo_2018.jpg"
-[[images]]
-title = "Holmenkollen Ruderer 2018"
-src = "images/Holmenkollen_Ruderer_2018.jpg"
-[[images]]
-title = "Viggeland Park Oslo 2018"
-src = "images/Viggeland_Park_Oslo_2018.jpg"
-[[images]]
-title = "Ruderer im Viggelandpark Oslo 2018"
-src = "images/Ruderer_im_Viggelandpark_Oslo_2018.jpg"
-[[images]]
-title = "Holmenkollen Sprungschanze Oslo 2018"
-src = "images/Holmenkollen_Sprungschanze_Oslo_2018.jpg"
-[[images]]
-title = "Wikinger in Oslo 2018"
-src = "images/Wikinger_in_Oslo_2018.jpg"
-[[images]]
-title = "Drachenkopf Oslo 2018"
-src = "images/Drachenkopf_Oslo_2018.jpg"
-[[images]]
-title = "Heyerdal Ra in Oslo 2018"
-src = "images/Heyerdal_Ra_in_Oslo_2018.jpg"
-[[images]]
-title = "Nirina Viggelandpark 2018"
-src = "images/Nirina_Viggelandpark_2018.jpg"
-[[images]]
-title = "Kontiki und Nirina 2018"
-src = "images/Kontiki_und_Nirina_2018.jpg"
-[[images]]
-title = "Fram Museum in Oslo Ruderer 2018"
-src = "images/Fram_Museum_in_Oslo_Ruderer_2018.jpg"
-[[images]]
-title = "Promenade Magic 2018"
-src = "images/Promenade_Magic_2018.jpg"
-[[images]]
-title = "Heckrestaurant Magic 2018"
-src = "images/Heckrestaurant_Magic_2018.jpg"
-[[images]]
-title = "Ruderer auf Luxusheimreise mit der Color Magic 2018"
-src = "images/Ruderer_auf_Luxusheimreise_mit_der_Color_Magic_2018.jpg"
-[[images]]
-title = "Ruderer auf der Color Magic die Frisur sitzt 2018"
-src = "images/Ruderer_auf_der_Color_Magic_die_Frisur_sitzt_2018.jpg"
-[[images]]
-title = "Cocktails auf der Faehre 2018"
-src = "images/Cocktails_auf_der_Faehre_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2024-08-01"
+date: "2024-08-08T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Porsgrunn_auf_dem_Weg_zum_Meer_2018.jpg
+  title: Porsgrunn auf dem Weg zum Meer 2018
+- src: images/Schiffstunnel_Porsgrunn_2018.jpg
+  title: Schiffstunnel Porsgrunn 2018
+- src: images/Holzkirche_bei_Porsgrunn_2018.jpg
+  title: Holzkirche bei Porsgrunn 2018
+- src: images/Ruderboot_auf_dem_Skaggerak_2018.jpg
+  title: Ruderboot auf dem Skaggerak 2018
+- src: images/Windschutz_zwischen_den_Schaeren_2018.jpg
+  title: Windschutz zwischen den Schaeren 2018
+- src: images/ideale_Pausenstelle_auf_der_letzten_Klipppe_vor_dem_Skaggerak_2018.jpg
+  title: ideale Pausenstelle auf der letzten Klipppe vor dem Skaggerak 2018
+- src: images/enge_Durchfahrt_zwischen_den_Klippen_2018.jpg
+  title: enge Durchfahrt zwischen den Klippen 2018
+- src: images/Ruderer_Camping_Lydhusstranda_2018.jpg
+  title: Ruderer Camping Lydhusstranda 2018
+- src: images/Ruderboote_Stavern_2018.jpg
+  title: Ruderboote Stavern 2018
+- src: images/E-Vierer_auf_dem_Weg_nach_Sandefjord_2018.jpg
+  title: E-Vierer auf dem Weg nach Sandefjord 2018
+- src: images/Inrigger_vor_den_letzten_Schaeren_2018.jpg
+  title: Inrigger vor den letzten Schaeren 2018
+- src: images/Einfahrt_in_den_Sandefjord_2018.jpg
+  title: Einfahrt in den Sandefjord 2018
+- src: images/Mittagspause_vor_Sandefjord_2018.jpg
+  title: Mittagspause vor Sandefjord 2018
+- src: images/Nirina_auf_dem_Sprungbett_2018.jpg
+  title: Nirina auf dem Sprungbett 2018
+- src: images/Ruderer_auf_der_Klippe_2018.jpg
+  title: Ruderer auf der Klippe 2018
+- src: images/Besuch_vom_Faehrschiff_2018.jpg
+  title: Besuch vom Faehrschiff 2018
+- src: images/Passage_durch_die_Felsen_Sandefjord_2018.jpg
+  title: Passage durch die Felsen Sandefjord 2018
+- src: images/Sandefjord_Ruderclub_2018.jpg
+  title: Sandefjord Ruderclub 2018
+- src: images/Lingling_am_Steuer_Sandefjord_208.jpg
+  title: Lingling am Steuer Sandefjord 208
+- src: images/Badepause_kurz_vor_Tonsberg_2018.jpg
+  title: Badepause kurz vor Tonsberg 2018
+- src: images/Ruderboot_auf_dem_Weg_nach_Tonsberg_2018.jpg
+  title: Ruderboot auf dem Weg nach Tonsberg 2018
+- src: images/Walhalla_in_Tonsberg_2018.jpg
+  title: Walhalla in Tonsberg 2018
+- src: images/Tonsberg_Ruderverein_2018.jpg
+  title: Tonsberg Ruderverein 2018
+- src: images/Wasserfront_Tonsberg_2018.jpg
+  title: Wasserfront Tonsberg 2018
+- src: images/Wikingerschiff_in_Tonsberg_2018.jpg
+  title: Wikingerschiff in Tonsberg 2018
+- src: images/Verladeterminal_im_Oslofjord_2018.jpg
+  title: Verladeterminal im Oslofjord 2018
+- src: images/Ruderboote_am_Badestrand_Oslofjord_2018.jpg
+  title: Ruderboote am Badestrand Oslofjord 2018
+- src: images/Runenstein_Wikingermuseum_2018.jpg
+  title: Runenstein Wikingermuseum 2018
+- src: images/Tanker_im_Oslofjord_2018.jpg
+  title: Tanker im Oslofjord 2018
+- src: images/Beilwerfen_Wikingermuseum_2018.jpg
+  title: Beilwerfen Wikingermuseum 2018
+- src: images/WaWa_beim_Bogenschiessen_2018.jpg
+  title: WaWa beim Bogenschiessen 2018
+- src: images/Stocktanz_Wikingermuseum_2018.jpg
+  title: Stocktanz Wikingermuseum 2018
+- src: images/Paul_Robin_Hood_Wikingermuseum_2018.jpg
+  title: Paul Robin Hood Wikingermuseum 2018
+- src: images/Bogenschiessen_Wikingermuseum_2018.jpg
+  title: Bogenschiessen Wikingermuseum 2018
+- src: images/dichter_Faehrverkehr_Horten_2018.jpg
+  title: dichter Faehrverkehr Horten 2018
+- src: images/Kanal_zum_Ruderclub_Horten.jpg
+  title: Kanal zum Ruderclub Horten
+- src: images/Horten_Ruderclub_2018.jpg
+  title: Horten Ruderclub 2018
+- src: images/ruppiges_Wetter_auf_dem_Oslofjord_2018.jpg
+  title: ruppiges Wetter auf dem Oslofjord 2018
+- src: images/vor_der_schuetzenden_Klippe_im_Oslofjord_2018.jpg
+  title: vor der schuetzenden Klippe im Oslofjord 2018
+- src: images/Inrigger_vor_Containerschiff_2018.jpg
+  title: Inrigger vor Containerschiff 2018
+- src: images/E-Dreier_auf_dem_inneren_Oslofjord_2018.jpg
+  title: E-Dreier auf dem inneren Oslofjord 2018
+- src: images/Ruderer_Pause_auf_einer_Insel_im_Oslofjord_2018.jpg
+  title: Ruderer Pause auf einer Insel im Oslofjord 2018
+- src: images/Schiebewind_auf_dem_Oslofjord_es_wird_ruppig_2018.jpg
+  title: Schiebewind auf dem Oslofjord es wird ruppig 2018
+- src: images/Oslofjord_Deckung_hinter_einer_Insel_Ruderboote_2018.jpg
+  title: Oslofjord Deckung hinter einer Insel Ruderboote 2018
+- src: images/Oslofjord_die_Sonne_kommt_durch_2018.jpg
+  title: Oslofjord die Sonne kommt durch 2018
+- src: images/Oslofjord_endlich_zwischen_den_Inseln_2018.jpg
+  title: Oslofjord endlich zwischen den Inseln 2018
+- src: images/alle_Boote_in_Solodden_2018.jpg
+  title: alle Boote in Solodden 2018
+- src: images/innerer_Oslofjord_bei_5_Beaufort_2018.jpg
+  title: innerer Oslofjord bei 5 Beaufort 2018
+- src: images/Ruderer_in_Oslo_am_Ziel_2018.jpg
+  title: Ruderer in Oslo am Ziel 2018
+- src: images/Materialtransport_auf_Solodden_Oslo_2018.jpg
+  title: Materialtransport auf Solodden Oslo 2018
+- src: images/Holmenkollen_Ruderer_2018.jpg
+  title: Holmenkollen Ruderer 2018
+- src: images/Viggeland_Park_Oslo_2018.jpg
+  title: Viggeland Park Oslo 2018
+- src: images/Ruderer_im_Viggelandpark_Oslo_2018.jpg
+  title: Ruderer im Viggelandpark Oslo 2018
+- src: images/Holmenkollen_Sprungschanze_Oslo_2018.jpg
+  title: Holmenkollen Sprungschanze Oslo 2018
+- src: images/Wikinger_in_Oslo_2018.jpg
+  title: Wikinger in Oslo 2018
+- src: images/Drachenkopf_Oslo_2018.jpg
+  title: Drachenkopf Oslo 2018
+- src: images/Heyerdal_Ra_in_Oslo_2018.jpg
+  title: Heyerdal Ra in Oslo 2018
+- src: images/Nirina_Viggelandpark_2018.jpg
+  title: Nirina Viggelandpark 2018
+- src: images/Kontiki_und_Nirina_2018.jpg
+  title: Kontiki und Nirina 2018
+- src: images/Fram_Museum_in_Oslo_Ruderer_2018.jpg
+  title: Fram Museum in Oslo Ruderer 2018
+- src: images/Promenade_Magic_2018.jpg
+  title: Promenade Magic 2018
+- src: images/Heckrestaurant_Magic_2018.jpg
+  title: Heckrestaurant Magic 2018
+- src: images/Ruderer_auf_Luxusheimreise_mit_der_Color_Magic_2018.jpg
+  title: Ruderer auf Luxusheimreise mit der Color Magic 2018
+- src: images/Ruderer_auf_der_Color_Magic_die_Frisur_sitzt_2018.jpg
+  title: Ruderer auf der Color Magic die Frisur sitzt 2018
+- src: images/Cocktails_auf_der_Faehre_2018.jpg
+  title: Cocktails auf der Faehre 2018
+länder:
+- schweden
+title: Fährfahrt Oslo 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

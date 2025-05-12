@@ -1,52 +1,46 @@
-+++
-title = "Spreewald 2024"
-author = ""
-date = 2024-10-10T01:00:00+02:00
-begin = "2024-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Pizza in Wendenschloss 2024"
-src = "images/Pizza_in_Wendenschloss_2024.jpg"
-[[images]]
-title = "Pause in KW 2024"
-src = "images/Pause_in_KW_2024.jpg"
-[[images]]
-title = "Ruderboot Dreier im Spreewald 2024"
-src = "images/Ruderboot_Dreier_im_Spreewald_2024.jpg"
-[[images]]
-title = "Herbst Idylle im Spreewald 2024"
-src = "images/Herbst_Idylle_im_Spreewald_2024.jpg"
-[[images]]
-title = "Kneipe im Spreewald 2024"
-src = "images/Kneipe_im_Spreewald_2024.jpg"
-[[images]]
-title = "Frühstück im Spreewald 2024"
-src = "images/Fruhstuck_im_Spreewald_2024.jpg"
-[[images]]
-title = "Ruderboote im Spreewald 2024"
-src = "images/Ruderboote_im_Spreewald_2024.jpg"
-[[images]]
-title = "Spreewaldfliess 2024"
-src = "images/Spreewaldfliess_2024.jpg"
-[[images]]
-title = "Boote aufladen Werder Spree 2024"
-src = "images/Boote_aufladen_Werder_Spree_2024.jpg"
-[[images]]
-title = "Ruderboote in Prieros 2024"
-src = "images/Ruderboote_in_Prieros_2024.jpg"
-[[images]]
-title = "Enger Graben im Spreewald 2024"
-src = "images/Enger_Graben_im_Spreewald_2024.jpg"
-[[images]]
-title = "Ruderboot Kürbisse im Spreeewald 2024"
-src = "images/Ruderboot_Kurbisse_im_Spreeewald_2024.jpg"
-[[images]]
-title = "Spreewaldschleuse 2024"
-src = "images/Spreewaldschleuse_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-10-01"
+date: "2024-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+- oder
+images:
+- src: images/Pizza_in_Wendenschloss_2024.jpg
+  title: Pizza in Wendenschloss 2024
+- src: images/Pause_in_KW_2024.jpg
+  title: Pause in KW 2024
+- src: images/Ruderboot_Dreier_im_Spreewald_2024.jpg
+  title: Ruderboot Dreier im Spreewald 2024
+- src: images/Herbst_Idylle_im_Spreewald_2024.jpg
+  title: Herbst Idylle im Spreewald 2024
+- src: images/Kneipe_im_Spreewald_2024.jpg
+  title: Kneipe im Spreewald 2024
+- src: images/Fruhstuck_im_Spreewald_2024.jpg
+  title: Frühstück im Spreewald 2024
+- src: images/Ruderboote_im_Spreewald_2024.jpg
+  title: Ruderboote im Spreewald 2024
+- src: images/Spreewaldfliess_2024.jpg
+  title: Spreewaldfliess 2024
+- src: images/Boote_aufladen_Werder_Spree_2024.jpg
+  title: Boote aufladen Werder Spree 2024
+- src: images/Ruderboote_in_Prieros_2024.jpg
+  title: Ruderboote in Prieros 2024
+- src: images/Enger_Graben_im_Spreewald_2024.jpg
+  title: Enger Graben im Spreewald 2024
+- src: images/Ruderboot_Kurbisse_im_Spreeewald_2024.jpg
+  title: Ruderboot Kürbisse im Spreeewald 2024
+- src: images/Spreewaldschleuse_2024.jpg
+  title: Spreewaldschleuse 2024
+länder: []
+title: Spreewald 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

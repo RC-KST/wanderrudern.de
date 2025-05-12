@@ -1,43 +1,37 @@
-+++
-title = "Mosel 1996"
-author = ""
-date = 1996-01-01T01:00:00+02:00
-begin = "1996-01-01"
-"gewässer" = ["rhein", "mosel"]
-"länder" = ["frankreich", "luxemburg"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bootsanhänger thionville Ruderboote"
-src = "images/bootshaenger_thionville.jpg"
-[[images]]
-title = "mosel akw rudern"
-src = "images/mosel_akw.jpg"
-[[images]]
-title = "stevie burg mosel ruderboot"
-src = "images/stevie_burg.jpg"
-[[images]]
-title = "roemisches bad trier"
-src = "images/roemisches_bad.jpg"
-[[images]]
-title = "porta nigra trier"
-src = "images/porta_nigra.jpg"
-[[images]]
-title = "landschaft mosel"
-src = "images/landschaft.jpg"
-[[images]]
-title = "weinberge stevie mosel"
-src = "images/weinberge_stevie.jpg"
-[[images]]
-title = "moselschleife stevie ruderer"
-src = "images/moselschleife_stevie.jpg"
-[[images]]
-title = "wellen steg ruderboot"
-src = "images/wellen.jpg"
-[[images]]
-title = "mibach matze jochen im Ruderzweier"
-src = "images/mibach_matze_jochen.jpg"
-
-+++
+---
+author: ""
+begin: "1996-01-01"
+date: "1996-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+images:
+- src: images/bootshaenger_thionville.jpg
+  title: Bootsanhänger thionville Ruderboote
+- src: images/mosel_akw.jpg
+  title: mosel akw rudern
+- src: images/stevie_burg.jpg
+  title: stevie burg mosel ruderboot
+- src: images/roemisches_bad.jpg
+  title: roemisches bad trier
+- src: images/porta_nigra.jpg
+  title: porta nigra trier
+- src: images/landschaft.jpg
+  title: landschaft mosel
+- src: images/weinberge_stevie.jpg
+  title: weinberge stevie mosel
+- src: images/moselschleife_stevie.jpg
+  title: moselschleife stevie ruderer
+- src: images/wellen.jpg
+  title: wellen steg ruderboot
+- src: images/mibach_matze_jochen.jpg
+  title: mibach matze jochen im Ruderzweier
+länder:
+- frankreich
+- luxemburg
+title: Mosel 1996
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

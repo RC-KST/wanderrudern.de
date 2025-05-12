@@ -1,13 +1,13 @@
-+++
-title = "inari 2003"
-author = ""
-date = 2003-01-01T01:00:00+02:00
-begin = "2003-01-01"
-"gewässer" = ["ivalojoki"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2003-01-01"
+date: "2003-01-01T01:00:00+02:00"
+gewässer:
+- ivalojoki
+länder: []
+title: inari 2003
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

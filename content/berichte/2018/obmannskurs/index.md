@@ -1,16 +1,15 @@
-+++
-title = "Obmannskurse 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Dscf0082"
-src = "images/Dscf0082.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Dscf0082.jpg
+  title: Dscf0082
+länder: []
+title: Obmannskurse 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

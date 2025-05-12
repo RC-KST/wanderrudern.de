@@ -1,34 +1,28 @@
-+++
-title = "Oste Marathon Hemmoor 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["oste"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Sieger des Oste Marathon 2023"
-src = "images/Sieger_des_Oste_Marathon_2023.jpg"
-[[images]]
-title = "Grosse Schiffe Oste Marathon 2023"
-src = "images/Grosse_Schiffe_Oste_Marathon_2023.jpg"
-[[images]]
-title = "Robben auf der Sandbank Oste Marathon 2023"
-src = "images/Robben_auf_der_Sandbank_Oste_Marathon_2023.jpg"
-[[images]]
-title = "Jugend Dreier Oste Marathon 2023"
-src = "images/Jugend_Dreier_Oste_Marathon_2023.jpg"
-[[images]]
-title = "Baumgarten E-Zweier Oste Marathon 2023 Sandbank"
-src = "images/Baumgarten_E-Zweier_Oste_Marathon_2023_Sandbank.jpg"
-[[images]]
-title = "Oste Marathon 2023 C-Zweier mit Steuermann"
-src = "images/Oste_Marathon_2023_C-Zweier_mit_Steuermann.jpg"
-[[images]]
-title = "Rudermannschaft RC KST Sandbank Oste Marathon 2023"
-src = "images/Rudermannschaft_RC_KST_Sandbank_Oste_Marathon_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- oste
+images:
+- src: images/Sieger_des_Oste_Marathon_2023.jpg
+  title: Sieger des Oste Marathon 2023
+- src: images/Grosse_Schiffe_Oste_Marathon_2023.jpg
+  title: Grosse Schiffe Oste Marathon 2023
+- src: images/Robben_auf_der_Sandbank_Oste_Marathon_2023.jpg
+  title: Robben auf der Sandbank Oste Marathon 2023
+- src: images/Jugend_Dreier_Oste_Marathon_2023.jpg
+  title: Jugend Dreier Oste Marathon 2023
+- src: images/Baumgarten_E-Zweier_Oste_Marathon_2023_Sandbank.jpg
+  title: Baumgarten E-Zweier Oste Marathon 2023 Sandbank
+- src: images/Oste_Marathon_2023_C-Zweier_mit_Steuermann.jpg
+  title: Oste Marathon 2023 C-Zweier mit Steuermann
+- src: images/Rudermannschaft_RC_KST_Sandbank_Oste_Marathon_2023.jpg
+  title: Rudermannschaft RC KST Sandbank Oste Marathon 2023
+länder: []
+title: Oste Marathon Hemmoor 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

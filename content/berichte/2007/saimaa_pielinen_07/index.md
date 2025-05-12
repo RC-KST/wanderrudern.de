@@ -1,199 +1,149 @@
-+++
-title = "Saimaa Pielinen 07"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["oder", "bug", "saimaa", "enonvesi", "orivesi", "phyhäselkä", "pielisjoki", "pielinen"]
-"länder" = ["deutschland", "finnland", "schweden", "schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Mannschaft auf der Silja Symphony SP07"
-src = "images/Mannschaft_auf_der_Silja_Symphony_SP07.JPG"
-[[images]]
-title = "Promenade Symphony SP07"
-src = "images/Promenade_Symphony_SP07.JPG"
-[[images]]
-title = "Kirchboot in der Werft SP07"
-src = "images/Kirchboot_in_der_Werft_SP07.jpg"
-[[images]]
-title = "Fenster zur Promenade SP07"
-src = "images/Fenster_zur_Promenade_SP07.JPG"
-[[images]]
-title = "Kirchboot in Puumala SP07"
-src = "images/Kirchboot_in_Puumala_SP07.JPG"
-[[images]]
-title = "Stefan Patrick auf Schlag im Kirchboot SP07"
-src = "images/Stefan_Patrick_auf_Schlag_im_Kirchboot_SP07.jpg"
-[[images]]
-title = "Pause im Kirchboot Bug SP07"
-src = "images/Pause_im_Kirchboot_Bug_SP07.jpg"
-[[images]]
-title = "Steg in Savonlinna SP07"
-src = "images/Steg_in_Savonlinna_SP07.jpg"
-[[images]]
-title = "Kirchboot Savonlinna SP07"
-src = "images/Kirchboot_Savonlinna_SP07.JPG"
-[[images]]
-title = "Burg Olavlinna SP07"
-src = "images/Burg_Olavlinna_SP07.JPG"
-[[images]]
-title = "Ruderer in Savonlinna SP07"
-src = "images/Ruderer_in_Savonlinna_SP07.JPG"
-[[images]]
-title = "Jens Theotime am Steuer Kirchboot SP07"
-src = "images/Jens_Theotime_am_Steuer_Kirchboot_SP07.JPG"
-[[images]]
-title = "Freddy Patrick am Steuer SP07"
-src = "images/Freddy_Patrick_am_Steuer_SP07.JPG"
-[[images]]
-title = "Jens Windy am Steuer SP07"
-src = "images/Jens_Windy_am_Steuer_SP07.JPG"
-[[images]]
-title = "Steffel Windy am Steuer SP07"
-src = "images/Steffel_Windy_am_Steuer_SP07.JPG"
-[[images]]
-title = "Ruderer Zeltlager am Strand SP07"
-src = "images/Ruderer_Zeltlager_am_Strand_SP07.JPG"
-[[images]]
-title = "Abendessen auf der Insel SP07"
-src = "images/Abendessen_auf_der_Insel_SP07.jpg"
-[[images]]
-title = "Einsame Insel Kirchboot Windy SP07"
-src = "images/Einsame_Insel_Kirchboot_Windy_SP07.jpg"
-[[images]]
-title = "Einsame Insel am Strand SP07"
-src = "images/Einsame_Insel_am_Strand_SP07.jpg"
-[[images]]
-title = "Sonnenuntergang am Saimaa SP07"
-src = "images/Sonnenuntergang_am_Saimaa_SP07.JPG"
-[[images]]
-title = "Kinder am Feuer SP07"
-src = "images/Kinder_am_Feuer_SP07.JPG"
-[[images]]
-title = "Sophie rudert SP07"
-src = "images/Sophie_rudert_SP07.jpg"
-[[images]]
-title = "Sophie Moritz am Steuer des Kirchboots SP07"
-src = "images/Sophie_Moritz_am_Steuer_des_Kirchboots_SP07.JPG"
-[[images]]
-title = "Sophie am Steuer des Kirchboot SP07"
-src = "images/Sophie_am_Steuer_des_Kirchboot_SP07.JPG"
-[[images]]
-title = "Pause im Schutz der Insel SP07"
-src = "images/Pause_im_Schutz_der_Insel_SP07.JPG"
-[[images]]
-title = "Savonranta Jachthafen SP07"
-src = "images/Savonranta_Jachthafen_SP07.jpg"
-[[images]]
-title = "Niklas Steffel Churchboat SP07"
-src = "images/Niklas_Steffel_Churchboat_SP07.JPG"
-[[images]]
-title = "Uimaharju Fabrik SP07"
-src = "images/Uimaharju_Fabrik_SP07.jpg"
-[[images]]
-title = "Schleusentor Pielisjoki SP07"
-src = "images/Schleusentor_Pielisjoki_SP07.jpg"
-[[images]]
-title = "Strand Pielinen Anfang SP07"
-src = "images/Strand_Pielinen_Anfang_SP07.jpg"
-[[images]]
-title = "Kirchboot Zweier SP07"
-src = "images/Kirchboot_Zweier_SP07.JPG"
-[[images]]
-title = "Zweier mit Steuermann SP07"
-src = "images/Zweier_mit_Steuermann_SP07.jpg"
-[[images]]
-title = "Sonnenuntergang am Pielinen SP07"
-src = "images/Sonnenuntergang_am_Pielinen_SP07.JPG"
-[[images]]
-title = "Segeln im Kirchboot SP07"
-src = "images/Segeln_im_Kirchboot_SP07.JPG"
-[[images]]
-title = "Pielinen SP07"
-src = "images/Pielinen_SP07.jpg"
-[[images]]
-title = "Theotime im Wasser SP07"
-src = "images/Theotime_im_Wasser_SP07.jpg"
-[[images]]
-title = "Victor Freddy Kirchboot SP07"
-src = "images/Victor_Freddy_Kirchboot_SP07.JPG"
-[[images]]
-title = "Pielinen vom Koli SP07"
-src = "images/Pielinen_vom_Koli_SP07.JPG"
-[[images]]
-title = "Blick vom Koli SP07"
-src = "images/Blick_vom_Koli_SP07.JPG"
-[[images]]
-title = "Wanderer am Koli SP07"
-src = "images/Wanderer_am_Koli_SP07.jpg"
-[[images]]
-title = "Malte Sophie auf Koli SP07"
-src = "images/Malte_Sophie_auf_Koli_SP07.JPG"
-[[images]]
-title = "Lagerfeuer am Pielinen SP07"
-src = "images/Lagerfeuer_am_Pielinen_SP07.JPG"
-[[images]]
-title = "Pause auf dem Puruvesi SP07"
-src = "images/Pause_auf_dem_Puruvesi_SP07.JPG"
-[[images]]
-title = "Patrik Niklas vor der Sauna SP07"
-src = "images/Patrik_Niklas_vor_der_Sauna_SP07.JPG"
-[[images]]
-title = "Rastplatz Paukkaja SP07"
-src = "images/Rastplatz_Paukkaja_SP07.jpg"
-[[images]]
-title = "Raekyla SP07"
-src = "images/Raekyla_SP07.jpg"
-[[images]]
-title = "Freddy Windy am Strand SP07"
-src = "images/Freddy_Windy_am_Strand_SP07.jpg"
-[[images]]
-title = "Einkauf in Kerimaeki SP07"
-src = "images/Einkauf_in_Kerimaeki_SP07.JPG"
-[[images]]
-title = "Theotime Ingrid Kerimaeki Kirche SP07"
-src = "images/Theotime_Ingrid_Kerimaeki_Kirche_SP07.JPG"
-[[images]]
-title = "Nachtwache im Schwimmbad SP07"
-src = "images/Nachtwache_im_Schwimmbad_SP07.JPG"
-[[images]]
-title = "Kerimaki Steg SP07"
-src = "images/Kerimaki_Steg_SP07.jpg"
-[[images]]
-title = "Tetriniemi SP07"
-src = "images/Tetriniemi_SP07.jpg"
-[[images]]
-title = "abwaschen SP07"
-src = "images/abwaschen_SP07.jpg"
-[[images]]
-title = "Kartoffeln waschen SP07"
-src = "images/Kartoffeln_waschen_SP07.jpg"
-[[images]]
-title = "Holz machen SP07"
-src = "images/Holz_machen_SP07.jpg"
-[[images]]
-title = "Anlegen bei Sturm SP07"
-src = "images/Anlegen_bei_Sturm_SP07.JPG"
-[[images]]
-title = "sturm SP07"
-src = "images/sturm_SP07.jpg"
-[[images]]
-title = "Steg puumala SP07"
-src = "images/Steg_puumala_SP07.jpg"
-[[images]]
-title = "Kirchboot in Vollbesetzung SP07"
-src = "images/Kirchboot_in_Vollbesetzung_SP07.JPG"
-[[images]]
-title = "badende SP07"
-src = "images/badende_SP07.jpg"
-[[images]]
-title = "Kirchboot vor Puumala SP07"
-src = "images/Kirchboot_vor_Puumala_SP07.JPG"
-[[images]]
-title = "Malte Sophie SP07"
-src = "images/Malte_Sophie_SP07.JPG"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- bug
+- saimaa
+- enonvesi
+- orivesi
+- phyhäselkä
+- pielisjoki
+- pielinen
+images:
+- src: images/Mannschaft_auf_der_Silja_Symphony_SP07.JPG
+  title: Mannschaft auf der Silja Symphony SP07
+- src: images/Promenade_Symphony_SP07.JPG
+  title: Promenade Symphony SP07
+- src: images/Kirchboot_in_der_Werft_SP07.jpg
+  title: Kirchboot in der Werft SP07
+- src: images/Fenster_zur_Promenade_SP07.JPG
+  title: Fenster zur Promenade SP07
+- src: images/Kirchboot_in_Puumala_SP07.JPG
+  title: Kirchboot in Puumala SP07
+- src: images/Stefan_Patrick_auf_Schlag_im_Kirchboot_SP07.jpg
+  title: Stefan Patrick auf Schlag im Kirchboot SP07
+- src: images/Pause_im_Kirchboot_Bug_SP07.jpg
+  title: Pause im Kirchboot Bug SP07
+- src: images/Steg_in_Savonlinna_SP07.jpg
+  title: Steg in Savonlinna SP07
+- src: images/Kirchboot_Savonlinna_SP07.JPG
+  title: Kirchboot Savonlinna SP07
+- src: images/Burg_Olavlinna_SP07.JPG
+  title: Burg Olavlinna SP07
+- src: images/Ruderer_in_Savonlinna_SP07.JPG
+  title: Ruderer in Savonlinna SP07
+- src: images/Jens_Theotime_am_Steuer_Kirchboot_SP07.JPG
+  title: Jens Theotime am Steuer Kirchboot SP07
+- src: images/Freddy_Patrick_am_Steuer_SP07.JPG
+  title: Freddy Patrick am Steuer SP07
+- src: images/Jens_Windy_am_Steuer_SP07.JPG
+  title: Jens Windy am Steuer SP07
+- src: images/Steffel_Windy_am_Steuer_SP07.JPG
+  title: Steffel Windy am Steuer SP07
+- src: images/Ruderer_Zeltlager_am_Strand_SP07.JPG
+  title: Ruderer Zeltlager am Strand SP07
+- src: images/Abendessen_auf_der_Insel_SP07.jpg
+  title: Abendessen auf der Insel SP07
+- src: images/Einsame_Insel_Kirchboot_Windy_SP07.jpg
+  title: Einsame Insel Kirchboot Windy SP07
+- src: images/Einsame_Insel_am_Strand_SP07.jpg
+  title: Einsame Insel am Strand SP07
+- src: images/Sonnenuntergang_am_Saimaa_SP07.JPG
+  title: Sonnenuntergang am Saimaa SP07
+- src: images/Kinder_am_Feuer_SP07.JPG
+  title: Kinder am Feuer SP07
+- src: images/Sophie_rudert_SP07.jpg
+  title: Sophie rudert SP07
+- src: images/Sophie_Moritz_am_Steuer_des_Kirchboots_SP07.JPG
+  title: Sophie Moritz am Steuer des Kirchboots SP07
+- src: images/Sophie_am_Steuer_des_Kirchboot_SP07.JPG
+  title: Sophie am Steuer des Kirchboot SP07
+- src: images/Pause_im_Schutz_der_Insel_SP07.JPG
+  title: Pause im Schutz der Insel SP07
+- src: images/Savonranta_Jachthafen_SP07.jpg
+  title: Savonranta Jachthafen SP07
+- src: images/Niklas_Steffel_Churchboat_SP07.JPG
+  title: Niklas Steffel Churchboat SP07
+- src: images/Uimaharju_Fabrik_SP07.jpg
+  title: Uimaharju Fabrik SP07
+- src: images/Schleusentor_Pielisjoki_SP07.jpg
+  title: Schleusentor Pielisjoki SP07
+- src: images/Strand_Pielinen_Anfang_SP07.jpg
+  title: Strand Pielinen Anfang SP07
+- src: images/Kirchboot_Zweier_SP07.JPG
+  title: Kirchboot Zweier SP07
+- src: images/Zweier_mit_Steuermann_SP07.jpg
+  title: Zweier mit Steuermann SP07
+- src: images/Sonnenuntergang_am_Pielinen_SP07.JPG
+  title: Sonnenuntergang am Pielinen SP07
+- src: images/Segeln_im_Kirchboot_SP07.JPG
+  title: Segeln im Kirchboot SP07
+- src: images/Pielinen_SP07.jpg
+  title: Pielinen SP07
+- src: images/Theotime_im_Wasser_SP07.jpg
+  title: Theotime im Wasser SP07
+- src: images/Victor_Freddy_Kirchboot_SP07.JPG
+  title: Victor Freddy Kirchboot SP07
+- src: images/Pielinen_vom_Koli_SP07.JPG
+  title: Pielinen vom Koli SP07
+- src: images/Blick_vom_Koli_SP07.JPG
+  title: Blick vom Koli SP07
+- src: images/Wanderer_am_Koli_SP07.jpg
+  title: Wanderer am Koli SP07
+- src: images/Malte_Sophie_auf_Koli_SP07.JPG
+  title: Malte Sophie auf Koli SP07
+- src: images/Lagerfeuer_am_Pielinen_SP07.JPG
+  title: Lagerfeuer am Pielinen SP07
+- src: images/Pause_auf_dem_Puruvesi_SP07.JPG
+  title: Pause auf dem Puruvesi SP07
+- src: images/Patrik_Niklas_vor_der_Sauna_SP07.JPG
+  title: Patrik Niklas vor der Sauna SP07
+- src: images/Rastplatz_Paukkaja_SP07.jpg
+  title: Rastplatz Paukkaja SP07
+- src: images/Raekyla_SP07.jpg
+  title: Raekyla SP07
+- src: images/Freddy_Windy_am_Strand_SP07.jpg
+  title: Freddy Windy am Strand SP07
+- src: images/Einkauf_in_Kerimaeki_SP07.JPG
+  title: Einkauf in Kerimaeki SP07
+- src: images/Theotime_Ingrid_Kerimaeki_Kirche_SP07.JPG
+  title: Theotime Ingrid Kerimaeki Kirche SP07
+- src: images/Nachtwache_im_Schwimmbad_SP07.JPG
+  title: Nachtwache im Schwimmbad SP07
+- src: images/Kerimaki_Steg_SP07.jpg
+  title: Kerimaki Steg SP07
+- src: images/Tetriniemi_SP07.jpg
+  title: Tetriniemi SP07
+- src: images/abwaschen_SP07.jpg
+  title: abwaschen SP07
+- src: images/Kartoffeln_waschen_SP07.jpg
+  title: Kartoffeln waschen SP07
+- src: images/Holz_machen_SP07.jpg
+  title: Holz machen SP07
+- src: images/Anlegen_bei_Sturm_SP07.JPG
+  title: Anlegen bei Sturm SP07
+- src: images/sturm_SP07.jpg
+  title: sturm SP07
+- src: images/Steg_puumala_SP07.jpg
+  title: Steg puumala SP07
+- src: images/Kirchboot_in_Vollbesetzung_SP07.JPG
+  title: Kirchboot in Vollbesetzung SP07
+- src: images/badende_SP07.jpg
+  title: badende SP07
+- src: images/Kirchboot_vor_Puumala_SP07.JPG
+  title: Kirchboot vor Puumala SP07
+- src: images/Malte_Sophie_SP07.JPG
+  title: Malte Sophie SP07
+länder:
+- deutschland
+- finnland
+- schweden
+- schweiz
+title: Saimaa Pielinen 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

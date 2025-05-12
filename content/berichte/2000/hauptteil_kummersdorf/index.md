@@ -1,16 +1,17 @@
-+++
-title = "Anrudern Richtershorn 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["dahme", "wolziger see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kummersdorf an der Schleuse Ruderer"
-src = "images/kummersdorf.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- wolziger see
+images:
+- src: images/kummersdorf.jpg
+  title: Kummersdorf an der Schleuse Ruderer
+länder: []
+title: Anrudern Richtershorn 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

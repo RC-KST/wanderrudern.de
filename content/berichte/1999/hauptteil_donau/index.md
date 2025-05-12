@@ -1,43 +1,42 @@
-+++
-title = "donau 1999"
-author = ""
-date = 1999-01-01T01:00:00+02:00
-begin = "1999-01-01"
-"gewässer" = ["donau", "mossoni-donau", "oste", "po"]
-"länder" = ["deutschland", "finnland", "italien", "österreich", "slowakei"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "straubing ruderboot am Steg"
-src = "images/straubing.jpg"
-[[images]]
-title = "passau klemchen beim Rudern"
-src = "images/passau_klemchen.jpg"
-[[images]]
-title = "ostereiersuche der ruderer"
-src = "images/ostereier2.jpg"
-[[images]]
-title = "krystina auf der donau"
-src = "images/krystina2.jpg"
-[[images]]
-title = "wien steg anlegen mit ruderboot"
-src = "images/wien_steg.jpg"
-[[images]]
-title = "wien belvedere ruderer"
-src = "images/wien-belvedere.jpg"
-[[images]]
-title = "zweier mossoni-donau"
-src = "images/zweier_mossoni.jpg"
-[[images]]
-title = "klemchen mossoni umtrage"
-src = "images/klemchen_mossoni.jpg"
-[[images]]
-title = "Laura kai auto"
-src = "images/Laura_kai_auto.jpg"
-[[images]]
-title = "fischerbastei ruderer in Budapest"
-src = "images/fischerbastei.jpg"
-
-+++
+---
+author: ""
+begin: "1999-01-01"
+date: "1999-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- mossoni-donau
+- oste
+- po
+images:
+- src: images/straubing.jpg
+  title: straubing ruderboot am Steg
+- src: images/passau_klemchen.jpg
+  title: passau klemchen beim Rudern
+- src: images/ostereier2.jpg
+  title: ostereiersuche der ruderer
+- src: images/krystina2.jpg
+  title: krystina auf der donau
+- src: images/wien_steg.jpg
+  title: wien steg anlegen mit ruderboot
+- src: images/wien-belvedere.jpg
+  title: wien belvedere ruderer
+- src: images/zweier_mossoni.jpg
+  title: zweier mossoni-donau
+- src: images/klemchen_mossoni.jpg
+  title: klemchen mossoni umtrage
+- src: images/Laura_kai_auto.jpg
+  title: Laura kai auto
+- src: images/fischerbastei.jpg
+  title: fischerbastei ruderer in Budapest
+länder:
+- deutschland
+- finnland
+- italien
+- österreich
+- slowakei
+title: donau 1999
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

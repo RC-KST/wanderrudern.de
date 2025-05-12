@@ -1,37 +1,30 @@
-+++
-title = "Werder Brandenburg November 2023"
-author = ""
-date = 2023-11-11T01:00:00+02:00
-begin = "2023-11-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboote in Werder Samstag im November 2023"
-src = "images/Ruderboote_in_Werder_Samstag_im_November_2023.jpg"
-[[images]]
-title = "E-Zweier bei Sonne Mitte November auf der Havel 2023"
-src = "images/E-Zweier_bei_Sonne_Mitte_November_auf_der_Havel_2023.jpg"
-[[images]]
-title = "Steuerfrau Havel im November 2023"
-src = "images/Steuerfrau_Havel_im_November_2023.jpg"
-[[images]]
-title = "Quartier in Brandenburg Havel 2023"
-src = "images/Quartier_in_Brandenburg_Havel_2023.jpg"
-[[images]]
-title = "Ruderboot Krumme Havel November 2023"
-src = "images/Ruderboot_Krumme_Havel_November_2023.jpg"
-[[images]]
-title = "Ruderboote vor dem Hotel Brandenburg 2023"
-src = "images/Ruderboote_vor_dem_Hotel_Brandenburg_2023.jpg"
-[[images]]
-title = "Ruderboot vor Glienicker Bruecke November 2023"
-src = "images/Ruderboot_vor_Glienicker_Bruecke_November_2023.jpg"
-[[images]]
-title = "Ruderboote Havelspitze Brandenburg 2023"
-src = "images/Ruderboote_Havelspitze_Brandenburg_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-11-01"
+date: "2023-11-11T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Ruderboote_in_Werder_Samstag_im_November_2023.jpg
+  title: Ruderboote in Werder Samstag im November 2023
+- src: images/E-Zweier_bei_Sonne_Mitte_November_auf_der_Havel_2023.jpg
+  title: E-Zweier bei Sonne Mitte November auf der Havel 2023
+- src: images/Steuerfrau_Havel_im_November_2023.jpg
+  title: Steuerfrau Havel im November 2023
+- src: images/Quartier_in_Brandenburg_Havel_2023.jpg
+  title: Quartier in Brandenburg Havel 2023
+- src: images/Ruderboot_Krumme_Havel_November_2023.jpg
+  title: Ruderboot Krumme Havel November 2023
+- src: images/Ruderboote_vor_dem_Hotel_Brandenburg_2023.jpg
+  title: Ruderboote vor dem Hotel Brandenburg 2023
+- src: images/Ruderboot_vor_Glienicker_Bruecke_November_2023.jpg
+  title: Ruderboot vor Glienicker Bruecke November 2023
+- src: images/Ruderboote_Havelspitze_Brandenburg_2023.jpg
+  title: Ruderboote Havelspitze Brandenburg 2023
+länder: []
+title: Werder Brandenburg November 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

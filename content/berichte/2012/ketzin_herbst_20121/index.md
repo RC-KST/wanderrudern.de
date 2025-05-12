@@ -1,25 +1,23 @@
-+++
-title = "Ketzin Herbst 2012"
-author = ""
-date = 2012-11-11T01:00:00+02:00
-begin = "2012-11-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Marlies in Brandenburg Ketzin 2012"
-src = "images/Marlies_in_Brandenburg_Ketzin_2012.jpg"
-[[images]]
-title = "Malabar in Brandenburg Ruderer beim Inder Ketzin 2012"
-src = "images/Malabar_in_Brandenburg_Ruderer_beim_Inder_Ketzin_2012.jpg"
-[[images]]
-title = "Auf der Havel nach Ketzin 2012"
-src = "images/Auf_der_Havel_nach_Ketzin_2012.jpg"
-[[images]]
-title = "Vierer in Ketzin Herbst 2012"
-src = "images/Vierer_in_Ketzin_Herbst_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-11-01"
+date: "2012-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Marlies_in_Brandenburg_Ketzin_2012.jpg
+  title: Marlies in Brandenburg Ketzin 2012
+- src: images/Malabar_in_Brandenburg_Ruderer_beim_Inder_Ketzin_2012.jpg
+  title: Malabar in Brandenburg Ruderer beim Inder Ketzin 2012
+- src: images/Auf_der_Havel_nach_Ketzin_2012.jpg
+  title: Auf der Havel nach Ketzin 2012
+- src: images/Vierer_in_Ketzin_Herbst_2012.jpg
+  title: Vierer in Ketzin Herbst 2012
+länder: []
+title: Ketzin Herbst 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

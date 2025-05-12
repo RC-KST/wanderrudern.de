@@ -1,28 +1,24 @@
-+++
-title = "Beetzsee Herbst 2012"
-author = ""
-date = 2012-03-03T01:00:00+02:00
-begin = "2012-03-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Potsdam Jungfernsee Herbst 2012"
-src = "images/Potsdam_Jungfernsee_Herbst_2012.jpg"
-[[images]]
-title = "Kaffeepause im Pionierlager Herbst 12"
-src = "images/Kaffeepause_im_Pionierlager_Herbst_12.jpg"
-[[images]]
-title = "Ketzin Beetzseefahrt 2012"
-src = "images/Ketzin_Beetzseefahrt_2012.jpg"
-[[images]]
-title = "Havelufer Herbst 2012"
-src = "images/Havelufer_Herbst_2012.jpg"
-[[images]]
-title = "Wanderruderer bei Havel Brandenburg Herbst 2012"
-src = "images/Wanderruderer_bei_Havel_Brandenburg_Herbst_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-03-01"
+date: "2012-03-03T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Potsdam_Jungfernsee_Herbst_2012.jpg
+  title: Potsdam Jungfernsee Herbst 2012
+- src: images/Kaffeepause_im_Pionierlager_Herbst_12.jpg
+  title: Kaffeepause im Pionierlager Herbst 12
+- src: images/Ketzin_Beetzseefahrt_2012.jpg
+  title: Ketzin Beetzseefahrt 2012
+- src: images/Havelufer_Herbst_2012.jpg
+  title: Havelufer Herbst 2012
+- src: images/Wanderruderer_bei_Havel_Brandenburg_Herbst_2012.jpg
+  title: Wanderruderer bei Havel Brandenburg Herbst 2012
+länder: []
+title: Beetzsee Herbst 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,79 +1,58 @@
-+++
-title = "Templiner Seenplatte 2024"
-author = ""
-date = 2024-01-01T01:00:00+02:00
-begin = "2024-01-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Stadtbesichtigung Templin 2024"
-src = "images/Stadtbesichtigung_Templin_2024.jpg"
-[[images]]
-title = "Stadtbesichtigung Ruderinnen Templin 2024"
-src = "images/Stadtbesichtigung_Ruderinnen_Templin_2024.jpg"
-[[images]]
-title = "Birkenwerder Altarm Ruderboot Templin 2024"
-src = "images/Birkenwerder_Altarm_Ruderboot_Templin_2024.jpg"
-[[images]]
-title = "C-Vierer Ruderboot auf der Havel Templin 2024"
-src = "images/C-Vierer_Ruderboot_auf_der_Havel_Templin_2024.jpg"
-[[images]]
-title = "Constantin im Ruderboot Schleuse Lehnitzsee Templin 2024"
-src = "images/Constantin_im_Ruderboot_Schleuse_Lehnitzsee_Templin_2024.jpg"
-[[images]]
-title = "Ruderboote Schleuse Lehnitz 2024"
-src = "images/Ruderboote_Schleuse_Lehnitz_2024.jpg"
-[[images]]
-title = "Bootsschleppe Schleuse Lehnitz 2024"
-src = "images/Bootsschleppe_Schleuse_Lehnitz_2024.jpg"
-[[images]]
-title = "Bowling in Zehdenick 2024"
-src = "images/Bowling_in_Zehdenick_2024.jpg"
-[[images]]
-title = "Schleuse Templin 2024"
-src = "images/Schleuse_Templin_2024.jpg"
-[[images]]
-title = "Obere Havel Templin 2024"
-src = "images/Obere_Havel_Templin_2024.jpg"
-[[images]]
-title = "Rudervierer auf der oberen Havel Templin 2024"
-src = "images/Rudervierer_auf_der_oberen_Havel_Templin_2024.jpg"
-[[images]]
-title = "Ruderer in Templin 2024"
-src = "images/Ruderer_in_Templin_2024.jpg"
-[[images]]
-title = "Templin Abendessen der Ruderer 2024"
-src = "images/Templin_Abendessen_der_Ruderer_2024.jpg"
-[[images]]
-title = "Templiner Ruderverein Ruderboote 2024"
-src = "images/Templiner_Ruderverein_Ruderboote_2024.jpg"
-[[images]]
-title = "Templin alte Bruecke 2024"
-src = "images/Templin_alte_Bruecke_2024.jpg"
-[[images]]
-title = "Templin Ruderclub 2024"
-src = "images/Templin_Ruderclub_2024.jpg"
-[[images]]
-title = "Templiner Seenplatte 2024 Ruderboot mit Schwan"
-src = "images/Templiner_Seenplatte_2024_Ruderboot_mit_Schwan.jpg"
-[[images]]
-title = "Templin Ruderboot Jugend 2024"
-src = "images/Templin_Ruderboot_Jugend_2024.jpg"
-[[images]]
-title = "Templiner Seenplatte Brueckendurchfahrt 2024"
-src = "images/Templiner_Seenplatte_Brueckendurchfahrt_2024.jpg"
-[[images]]
-title = "Wander Ruderboot Templiner Fliess 2024"
-src = "images/Wander_Ruderboot_Templiner_Fliess_2024.jpg"
-[[images]]
-title = "Templiner Seenplatte Ruderboot mit den Masters 2024"
-src = "images/Templiner_Seenplatte_Ruderboot_mit_den_Masters_2024.jpg"
-[[images]]
-title = "Templiner Seenplatte am Rohr 2024"
-src = "images/Templiner_Seenplatte_am_Rohr_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-01-01"
+date: "2024-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Stadtbesichtigung_Templin_2024.jpg
+  title: Stadtbesichtigung Templin 2024
+- src: images/Stadtbesichtigung_Ruderinnen_Templin_2024.jpg
+  title: Stadtbesichtigung Ruderinnen Templin 2024
+- src: images/Birkenwerder_Altarm_Ruderboot_Templin_2024.jpg
+  title: Birkenwerder Altarm Ruderboot Templin 2024
+- src: images/C-Vierer_Ruderboot_auf_der_Havel_Templin_2024.jpg
+  title: C-Vierer Ruderboot auf der Havel Templin 2024
+- src: images/Constantin_im_Ruderboot_Schleuse_Lehnitzsee_Templin_2024.jpg
+  title: Constantin im Ruderboot Schleuse Lehnitzsee Templin 2024
+- src: images/Ruderboote_Schleuse_Lehnitz_2024.jpg
+  title: Ruderboote Schleuse Lehnitz 2024
+- src: images/Bootsschleppe_Schleuse_Lehnitz_2024.jpg
+  title: Bootsschleppe Schleuse Lehnitz 2024
+- src: images/Bowling_in_Zehdenick_2024.jpg
+  title: Bowling in Zehdenick 2024
+- src: images/Schleuse_Templin_2024.jpg
+  title: Schleuse Templin 2024
+- src: images/Obere_Havel_Templin_2024.jpg
+  title: Obere Havel Templin 2024
+- src: images/Rudervierer_auf_der_oberen_Havel_Templin_2024.jpg
+  title: Rudervierer auf der oberen Havel Templin 2024
+- src: images/Ruderer_in_Templin_2024.jpg
+  title: Ruderer in Templin 2024
+- src: images/Templin_Abendessen_der_Ruderer_2024.jpg
+  title: Templin Abendessen der Ruderer 2024
+- src: images/Templiner_Ruderverein_Ruderboote_2024.jpg
+  title: Templiner Ruderverein Ruderboote 2024
+- src: images/Templin_alte_Bruecke_2024.jpg
+  title: Templin alte Bruecke 2024
+- src: images/Templin_Ruderclub_2024.jpg
+  title: Templin Ruderclub 2024
+- src: images/Templiner_Seenplatte_2024_Ruderboot_mit_Schwan.jpg
+  title: Templiner Seenplatte 2024 Ruderboot mit Schwan
+- src: images/Templin_Ruderboot_Jugend_2024.jpg
+  title: Templin Ruderboot Jugend 2024
+- src: images/Templiner_Seenplatte_Brueckendurchfahrt_2024.jpg
+  title: Templiner Seenplatte Brueckendurchfahrt 2024
+- src: images/Wander_Ruderboot_Templiner_Fliess_2024.jpg
+  title: Wander Ruderboot Templiner Fliess 2024
+- src: images/Templiner_Seenplatte_Ruderboot_mit_den_Masters_2024.jpg
+  title: Templiner Seenplatte Ruderboot mit den Masters 2024
+- src: images/Templiner_Seenplatte_am_Rohr_2024.jpg
+  title: Templiner Seenplatte am Rohr 2024
+länder: []
+title: Templiner Seenplatte 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

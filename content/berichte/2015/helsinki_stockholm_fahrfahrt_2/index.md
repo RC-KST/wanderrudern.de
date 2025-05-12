@@ -1,43 +1,34 @@
-+++
-title = "Helsinki Stockholm Fährfahrt 2015"
-author = ""
-date = 2015-02-02T01:00:00+02:00
-begin = "2015-02-01"
-"gewässer" = []
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Silja Serenade Stockholm 2015"
-src = "images/Silja_Serenade_Stockholm_2015.jpg"
-[[images]]
-title = "Buffet 1 Serenade 2015"
-src = "images/Buffet_1_Serenade_2015.jpg"
-[[images]]
-title = "Buffet 2 Serenade 2015"
-src = "images/Buffet_2_Serenade_2015.jpg"
-[[images]]
-title = "Goldener Saal Stadthuset Stockholm 2015"
-src = "images/Goldener_Saal_Stadthuset_Stockholm_2015.jpg"
-[[images]]
-title = "Buffet 3 Serenade 2015"
-src = "images/Buffet_3_Serenade_2015.jpg"
-[[images]]
-title = "Buffet 4 Serenade 2015"
-src = "images/Buffet_4_Serenade_2015.jpg"
-[[images]]
-title = "Ruderer Nachtclub Serenade 2015"
-src = "images/Ruderer_Nachtclub_Serenade_2015.jpg"
-[[images]]
-title = "Helsinki im Hafen 2015"
-src = "images/Helsinki_im_Hafen_2015.jpg"
-[[images]]
-title = "Markthalle Helsinki 2015"
-src = "images/Markthalle_Helsinki_2015.jpg"
-[[images]]
-title = "schaeren vor helsinki 2015"
-src = "images/schaeren_vor_helsinki_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-02-01"
+date: "2015-02-02T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Silja_Serenade_Stockholm_2015.jpg
+  title: Silja Serenade Stockholm 2015
+- src: images/Buffet_1_Serenade_2015.jpg
+  title: Buffet 1 Serenade 2015
+- src: images/Buffet_2_Serenade_2015.jpg
+  title: Buffet 2 Serenade 2015
+- src: images/Goldener_Saal_Stadthuset_Stockholm_2015.jpg
+  title: Goldener Saal Stadthuset Stockholm 2015
+- src: images/Buffet_3_Serenade_2015.jpg
+  title: Buffet 3 Serenade 2015
+- src: images/Buffet_4_Serenade_2015.jpg
+  title: Buffet 4 Serenade 2015
+- src: images/Ruderer_Nachtclub_Serenade_2015.jpg
+  title: Ruderer Nachtclub Serenade 2015
+- src: images/Helsinki_im_Hafen_2015.jpg
+  title: Helsinki im Hafen 2015
+- src: images/Markthalle_Helsinki_2015.jpg
+  title: Markthalle Helsinki 2015
+- src: images/schaeren_vor_helsinki_2015.jpg
+  title: schaeren vor helsinki 2015
+länder:
+- schweden
+title: Helsinki Stockholm Fährfahrt 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,61 +1,51 @@
-+++
-title = "Havelquelle 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["havel", "müritz", "havelquellgebiet", "useriner see", "käbelicksee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Wellblechrohre als Kanal gibt es nicht nur in Finnland Havelquelle 2016"
-src = "images/Wellblechrohre_als_Kanal_gibt_es_nicht_nur_in_Finnland_Havelquelle_2016.jpg"
-[[images]]
-title = "Havelquelle 2016"
-src = "images/Havelquelle_2016.jpg"
-[[images]]
-title = "Karte Havel 2016"
-src = "images/Karte_Havel_2016.jpg"
-[[images]]
-title = "Pizza essen in Birkenwerder Havelquelle 2016"
-src = "images/Pizza_essen_in_Birkenwerder_Havelquelle_2016.jpg"
-[[images]]
-title = "Ruderboot bei Birkenwerder Havelquelle 2016"
-src = "images/Ruderboot_bei_Birkenwerder_Havelquelle_2016.jpg"
-[[images]]
-title = "Bootswagen Lehnitz Havelquelle 2016"
-src = "images/Bootswagen_Lehnitz_Havelquelle_2016.jpg"
-[[images]]
-title = "Lehnitz Schleuse mit Ruderbooten Havelquelle 2016"
-src = "images/Lehnitz_Schleuse_mit_Ruderbooten_Havelquelle_2016.jpg"
-[[images]]
-title = "zu wenig Platz zum Rudern Havelquelle 2016"
-src = "images/zu_wenig_Platz_zum_Rudern_Havelquelle_2016.jpg"
-[[images]]
-title = "Ruderboote in Schleuse Havelquelle 2016"
-src = "images/Ruderboote_in_Schleuse_Havelquelle_2016.jpg"
-[[images]]
-title = "Havel Richtung Fuerstenberg 2016"
-src = "images/Havel_Richtung_Fuerstenberg_2016.jpg"
-[[images]]
-title = "Havel ganz weit oben 2016"
-src = "images/Havel_ganz_weit_oben_2016.jpg"
-[[images]]
-title = "Lorenbahn an der oberen Havel 2016"
-src = "images/Lorenbahn_an_der_oberen_Havel_2016.jpg"
-[[images]]
-title = "Eismeer auf der Lorenbahn Havelquelle 2016"
-src = "images/Eismeer_auf_der_Lorenbahn_Havelquelle_2016.jpg"
-[[images]]
-title = "Ruderboot Blankenfoerde Havelquelle 2016"
-src = "images/Ruderboot_Blankenfoerde_Havelquelle_2016.jpg"
-[[images]]
-title = "Weg nach Blankenfoerde Havelquelle 2016"
-src = "images/Weg_nach_Blankenfoerde_Havelquelle_2016.jpg"
-[[images]]
-title = "Rudervierer im Wald Havelquelle 2016"
-src = "images/Rudervierer_im_Wald_Havelquelle_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- müritz
+- havelquellgebiet
+- useriner see
+- käbelicksee
+- oder
+images:
+- src: images/Wellblechrohre_als_Kanal_gibt_es_nicht_nur_in_Finnland_Havelquelle_2016.jpg
+  title: Wellblechrohre als Kanal gibt es nicht nur in Finnland Havelquelle 2016
+- src: images/Havelquelle_2016.jpg
+  title: Havelquelle 2016
+- src: images/Karte_Havel_2016.jpg
+  title: Karte Havel 2016
+- src: images/Pizza_essen_in_Birkenwerder_Havelquelle_2016.jpg
+  title: Pizza essen in Birkenwerder Havelquelle 2016
+- src: images/Ruderboot_bei_Birkenwerder_Havelquelle_2016.jpg
+  title: Ruderboot bei Birkenwerder Havelquelle 2016
+- src: images/Bootswagen_Lehnitz_Havelquelle_2016.jpg
+  title: Bootswagen Lehnitz Havelquelle 2016
+- src: images/Lehnitz_Schleuse_mit_Ruderbooten_Havelquelle_2016.jpg
+  title: Lehnitz Schleuse mit Ruderbooten Havelquelle 2016
+- src: images/zu_wenig_Platz_zum_Rudern_Havelquelle_2016.jpg
+  title: zu wenig Platz zum Rudern Havelquelle 2016
+- src: images/Ruderboote_in_Schleuse_Havelquelle_2016.jpg
+  title: Ruderboote in Schleuse Havelquelle 2016
+- src: images/Havel_Richtung_Fuerstenberg_2016.jpg
+  title: Havel Richtung Fuerstenberg 2016
+- src: images/Havel_ganz_weit_oben_2016.jpg
+  title: Havel ganz weit oben 2016
+- src: images/Lorenbahn_an_der_oberen_Havel_2016.jpg
+  title: Lorenbahn an der oberen Havel 2016
+- src: images/Eismeer_auf_der_Lorenbahn_Havelquelle_2016.jpg
+  title: Eismeer auf der Lorenbahn Havelquelle 2016
+- src: images/Ruderboot_Blankenfoerde_Havelquelle_2016.jpg
+  title: Ruderboot Blankenfoerde Havelquelle 2016
+- src: images/Weg_nach_Blankenfoerde_Havelquelle_2016.jpg
+  title: Weg nach Blankenfoerde Havelquelle 2016
+- src: images/Rudervierer_im_Wald_Havelquelle_2016.jpg
+  title: Rudervierer im Wald Havelquelle 2016
+länder: []
+title: Havelquelle 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

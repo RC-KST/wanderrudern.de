@@ -1,52 +1,39 @@
-+++
-title = "Rahnsdorf Ruedersdorf Pfingsten 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Abendessen machen Rahnsdorf 2013"
-src = "images/Abendessen_machen_Rahnsdorf_2013.jpg"
-[[images]]
-title = "Hannes Martin Anna beim Kochen Rahnsdorf 2013"
-src = "images/Hannes_Martin_Anna_beim_Kochen_Rahnsdorf_2013.jpg"
-[[images]]
-title = "Woltersdorfer Schleuse Jonathan 2013"
-src = "images/Woltersdorfer_Schleuse_Jonathan_2013.jpg"
-[[images]]
-title = "Zweier im Kanal zum Kalksee 2013"
-src = "images/Zweier_im_Kanal_zum_Kalksee_2013.jpg"
-[[images]]
-title = "Ruderboote auf dem Stienitzsee 2013"
-src = "images/Ruderboote_auf_dem_Stienitzsee_2013.jpg"
-[[images]]
-title = "Nirina im Schiffstunnel  2013"
-src = "images/Nirina_im_Schiffstunnel__2013.jpg"
-[[images]]
-title = "Ruderboote Rahnsdorf 2013"
-src = "images/Ruderboote_Rahnsdorf_2013.jpg"
-[[images]]
-title = "Kanal nach Gruenheide 2013"
-src = "images/Kanal_nach_Gruenheide_2013.jpg"
-[[images]]
-title = "Moellensee Ende 2013"
-src = "images/Moellensee_Ende_2013.jpg"
-[[images]]
-title = "Ablegen am Peetzsee 2013"
-src = "images/Ablegen_am_Peetzsee_2013.jpg"
-[[images]]
-title = "Badepause ruderer am Peetzsee 2013"
-src = "images/Badepause_ruderer_am_Peetzsee_2013.jpg"
-[[images]]
-title = "coole jungs beim tischtennis 2013"
-src = "images/coole_jungs_beim_tischtennis_2013.jpg"
-[[images]]
-title = "Leonie Maren in der Kueche Rahnsdorf 2013"
-src = "images/Leonie_Maren_in_der_Kueche_Rahnsdorf_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Abendessen_machen_Rahnsdorf_2013.jpg
+  title: Abendessen machen Rahnsdorf 2013
+- src: images/Hannes_Martin_Anna_beim_Kochen_Rahnsdorf_2013.jpg
+  title: Hannes Martin Anna beim Kochen Rahnsdorf 2013
+- src: images/Woltersdorfer_Schleuse_Jonathan_2013.jpg
+  title: Woltersdorfer Schleuse Jonathan 2013
+- src: images/Zweier_im_Kanal_zum_Kalksee_2013.jpg
+  title: Zweier im Kanal zum Kalksee 2013
+- src: images/Ruderboote_auf_dem_Stienitzsee_2013.jpg
+  title: Ruderboote auf dem Stienitzsee 2013
+- src: images/Nirina_im_Schiffstunnel__2013.jpg
+  title: Nirina im Schiffstunnel  2013
+- src: images/Ruderboote_Rahnsdorf_2013.jpg
+  title: Ruderboote Rahnsdorf 2013
+- src: images/Kanal_nach_Gruenheide_2013.jpg
+  title: Kanal nach Gruenheide 2013
+- src: images/Moellensee_Ende_2013.jpg
+  title: Moellensee Ende 2013
+- src: images/Ablegen_am_Peetzsee_2013.jpg
+  title: Ablegen am Peetzsee 2013
+- src: images/Badepause_ruderer_am_Peetzsee_2013.jpg
+  title: Badepause ruderer am Peetzsee 2013
+- src: images/coole_jungs_beim_tischtennis_2013.jpg
+  title: coole jungs beim tischtennis 2013
+- src: images/Leonie_Maren_in_der_Kueche_Rahnsdorf_2013.jpg
+  title: Leonie Maren in der Kueche Rahnsdorf 2013
+länder: []
+title: Rahnsdorf Ruedersdorf Pfingsten 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

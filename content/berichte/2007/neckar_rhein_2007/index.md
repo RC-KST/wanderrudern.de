@@ -1,124 +1,92 @@
-+++
-title = "Neckar Rhein 2007"
-author = ""
-date = 2007-05-05T01:00:00+02:00
-begin = "2007-05-01"
-"gewässer" = ["rhein", "neckar", "oder"]
-"länder" = ["deutschland", "italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Baumgarten Bus in Stuttgart NR07"
-src = "images/Baumgarten_Bus_in_Stuttgart_NR07.jpg"
-[[images]]
-title = "Steg Stuttgarter RG NR07"
-src = "images/Steg_Stuttgarter_RG_NR07.jpg"
-[[images]]
-title = "Fruehstueck in Stuttgart NR07"
-src = "images/Fruehstueck_in_Stuttgart_NR07.jpg"
-[[images]]
-title = "Steilwand am Neckar NR07"
-src = "images/Steilwand_am_Neckar_NR07.jpg"
-[[images]]
-title = "Neckarstrecke mit vielen Weinbergen NR07"
-src = "images/Neckarstrecke_mit_vielen_Weinbergen_NR07.jpg"
-[[images]]
-title = "Kinder mit Spielzeug NR07"
-src = "images/Kinder_mit_Spielzeug_NR07.jpg"
-[[images]]
-title = "Ruderer im Weinberg NR07"
-src = "images/Ruderer_im_Weinberg_NR07.jpg"
-[[images]]
-title = "Weinprobe NR07"
-src = "images/Weinprobe_NR07.jpg"
-[[images]]
-title = "Lauffener Ruderclub NR07"
-src = "images/Lauffener_Ruderclub_NR07.jpg"
-[[images]]
-title = "schleuse-lauffen NR07"
-src = "images/schleuse-lauffen_NR07.jpg"
-[[images]]
-title = "Bad Wimpfen mit Ruderern NR7"
-src = "images/Bad_Wimpfen_mit_Ruderern_NR7.jpg"
-[[images]]
-title = "Bad Wimpfen am Neckar NR0702"
-src = "images/Bad_Wimpfen_am_Neckar_NR0702.jpg"
-[[images]]
-title = "bad wimpfen NR07"
-src = "images/bad_wimpfen_NR07.jpg"
-[[images]]
-title = "Neckarverlauf NR07"
-src = "images/Neckarverlauf_NR07.jpg"
-[[images]]
-title = "Bad Wimpfen von oben NR07"
-src = "images/Bad_Wimpfen_von_oben_NR07.jpg"
-[[images]]
-title = "Ruderboot auf dem Neckar NR07"
-src = "images/Ruderboot_auf_dem_Neckar_NR07.jpg"
-[[images]]
-title = "kinder-vierer NR07"
-src = "images/kinder-vierer_NR07.jpg"
-[[images]]
-title = "Burgturm Bad Wimpfen NR07"
-src = "images/Burgturm_Bad_Wimpfen_NR07.jpg"
-[[images]]
-title = "neckar-weinberg NR07"
-src = "images/neckar-weinberg_NR07.jpg"
-[[images]]
-title = "Weinberge am Neckarufer NR07"
-src = "images/Weinberge_am_Neckarufer_NR07.jpg"
-[[images]]
-title = "Levon auf der Schleusenleiter NR07"
-src = "images/Levon_auf_der_Schleusenleiter_NR07.jpg"
-[[images]]
-title = "luis+nick im Ruderzweier NR07"
-src = "images/luis_nick_im_Ruderzweier_NR07.jpg"
-[[images]]
-title = "Sandro Neckar NR07"
-src = "images/Sandro_Neckar_NR07.jpg"
-[[images]]
-title = "Fracher in der Schleuse NR07"
-src = "images/Fracher_in_der_Schleuse_NR07.jpg"
-[[images]]
-title = "Schleuse Heilbronn NR07"
-src = "images/Schleuse_Heilbronn_NR07.jpg"
-[[images]]
-title = "Ruderer vor dem Heindelberger Schloss NR07"
-src = "images/Ruderer_vor_dem_Heindelberger_Schloss_NR07.jpg"
-[[images]]
-title = "Ausfahrt aus Neckarschleuse NR07"
-src = "images/Ausfahrt_aus_Neckarschleuse_NR07.jpg"
-[[images]]
-title = "bootsschleppe Neckar 2 NR07"
-src = "images/bootsschleppe_Neckar_2_NR07.jpg"
-[[images]]
-title = "bootsschleppe Neckar NR07"
-src = "images/bootsschleppe_Neckar_NR07.jpg"
-[[images]]
-title = "Ruderer in heidelberg NR07"
-src = "images/Ruderer_in_heidelberg_NR07.jpg"
-[[images]]
-title = "Wiesbaden Ruderverein NR07"
-src = "images/Wiesbaden_Ruderverein_NR07.jpg"
-[[images]]
-title = "Rhein bei Wiesbaden NR07"
-src = "images/Rhein_bei_Wiesbaden_NR07.jpg"
-[[images]]
-title = "Ruderverein Wiesbaden am Rhein NR07"
-src = "images/Ruderverein_Wiesbaden_am_Rhein_NR07.jpg"
-[[images]]
-title = "lorch am Rhein NR7"
-src = "images/lorch_am_Rhein_NR7.jpg"
-[[images]]
-title = "Rhein bei Bacharach NR07"
-src = "images/Rhein_bei_Bacharach_NR07.jpg"
-[[images]]
-title = "bootshaus-bacharach NR07"
-src = "images/bootshaus-bacharach_NR07.jpg"
-[[images]]
-title = "Bootstransport in Bacharach NR07"
-src = "images/Bootstransport_in_Bacharach_NR07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-05-01"
+date: "2007-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+- neckar
+- oder
+images:
+- src: images/Baumgarten_Bus_in_Stuttgart_NR07.jpg
+  title: Baumgarten Bus in Stuttgart NR07
+- src: images/Steg_Stuttgarter_RG_NR07.jpg
+  title: Steg Stuttgarter RG NR07
+- src: images/Fruehstueck_in_Stuttgart_NR07.jpg
+  title: Fruehstueck in Stuttgart NR07
+- src: images/Steilwand_am_Neckar_NR07.jpg
+  title: Steilwand am Neckar NR07
+- src: images/Neckarstrecke_mit_vielen_Weinbergen_NR07.jpg
+  title: Neckarstrecke mit vielen Weinbergen NR07
+- src: images/Kinder_mit_Spielzeug_NR07.jpg
+  title: Kinder mit Spielzeug NR07
+- src: images/Ruderer_im_Weinberg_NR07.jpg
+  title: Ruderer im Weinberg NR07
+- src: images/Weinprobe_NR07.jpg
+  title: Weinprobe NR07
+- src: images/Lauffener_Ruderclub_NR07.jpg
+  title: Lauffener Ruderclub NR07
+- src: images/schleuse-lauffen_NR07.jpg
+  title: schleuse-lauffen NR07
+- src: images/Bad_Wimpfen_mit_Ruderern_NR7.jpg
+  title: Bad Wimpfen mit Ruderern NR7
+- src: images/Bad_Wimpfen_am_Neckar_NR0702.jpg
+  title: Bad Wimpfen am Neckar NR0702
+- src: images/bad_wimpfen_NR07.jpg
+  title: bad wimpfen NR07
+- src: images/Neckarverlauf_NR07.jpg
+  title: Neckarverlauf NR07
+- src: images/Bad_Wimpfen_von_oben_NR07.jpg
+  title: Bad Wimpfen von oben NR07
+- src: images/Ruderboot_auf_dem_Neckar_NR07.jpg
+  title: Ruderboot auf dem Neckar NR07
+- src: images/kinder-vierer_NR07.jpg
+  title: kinder-vierer NR07
+- src: images/Burgturm_Bad_Wimpfen_NR07.jpg
+  title: Burgturm Bad Wimpfen NR07
+- src: images/neckar-weinberg_NR07.jpg
+  title: neckar-weinberg NR07
+- src: images/Weinberge_am_Neckarufer_NR07.jpg
+  title: Weinberge am Neckarufer NR07
+- src: images/Levon_auf_der_Schleusenleiter_NR07.jpg
+  title: Levon auf der Schleusenleiter NR07
+- src: images/luis_nick_im_Ruderzweier_NR07.jpg
+  title: luis+nick im Ruderzweier NR07
+- src: images/Sandro_Neckar_NR07.jpg
+  title: Sandro Neckar NR07
+- src: images/Fracher_in_der_Schleuse_NR07.jpg
+  title: Fracher in der Schleuse NR07
+- src: images/Schleuse_Heilbronn_NR07.jpg
+  title: Schleuse Heilbronn NR07
+- src: images/Ruderer_vor_dem_Heindelberger_Schloss_NR07.jpg
+  title: Ruderer vor dem Heindelberger Schloss NR07
+- src: images/Ausfahrt_aus_Neckarschleuse_NR07.jpg
+  title: Ausfahrt aus Neckarschleuse NR07
+- src: images/bootsschleppe_Neckar_2_NR07.jpg
+  title: bootsschleppe Neckar 2 NR07
+- src: images/bootsschleppe_Neckar_NR07.jpg
+  title: bootsschleppe Neckar NR07
+- src: images/Ruderer_in_heidelberg_NR07.jpg
+  title: Ruderer in heidelberg NR07
+- src: images/Wiesbaden_Ruderverein_NR07.jpg
+  title: Wiesbaden Ruderverein NR07
+- src: images/Rhein_bei_Wiesbaden_NR07.jpg
+  title: Rhein bei Wiesbaden NR07
+- src: images/Ruderverein_Wiesbaden_am_Rhein_NR07.jpg
+  title: Ruderverein Wiesbaden am Rhein NR07
+- src: images/lorch_am_Rhein_NR7.jpg
+  title: lorch am Rhein NR7
+- src: images/Rhein_bei_Bacharach_NR07.jpg
+  title: Rhein bei Bacharach NR07
+- src: images/bootshaus-bacharach_NR07.jpg
+  title: bootshaus-bacharach NR07
+- src: images/Bootstransport_in_Bacharach_NR07.jpg
+  title: Bootstransport in Bacharach NR07
+länder:
+- deutschland
+- italien
+title: Neckar Rhein 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

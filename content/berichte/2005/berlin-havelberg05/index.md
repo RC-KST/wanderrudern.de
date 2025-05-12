@@ -1,22 +1,21 @@
-+++
-title = "Berlin havelberg 2005"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = ["elbe", "havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "havel rathenow steg Ruderboote"
-src = "images/havel05_rathenow_steg.jpg"
-[[images]]
-title = "havel rathenow steg Ruderer"
-src = "images/Havel05_rathenow.jpg"
-[[images]]
-title = "Gepäck verladen Rudern"
-src = "images/havel05_steg.jpg"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+images:
+- src: images/havel05_rathenow_steg.jpg
+  title: havel rathenow steg Ruderboote
+- src: images/Havel05_rathenow.jpg
+  title: havel rathenow steg Ruderer
+- src: images/havel05_steg.jpg
+  title: Gepäck verladen Rudern
+länder: []
+title: Berlin havelberg 2005
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,16 @@
-+++
-title = "storkow 2006"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["saale", "unstrut", "oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- saale
+- unstrut
+- oder
+länder:
+- deutschland
+title: storkow 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

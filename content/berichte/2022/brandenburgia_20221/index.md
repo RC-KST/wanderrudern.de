@@ -1,25 +1,23 @@
-+++
-title = "Brandenburgia 2022"
-author = ""
-date = 2022-03-03T01:00:00+02:00
-begin = "2022-03-01"
-"gewässer" = ["havel", "spree"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Veltener Stichkanal 2022"
-src = "images/Veltener_Stichkanal_2022.jpg"
-[[images]]
-title = "Zitadelle Spandau mit dem Ruderboot 2022"
-src = "images/Zitadelle_Spandau_mit_dem_Ruderboot_2022.jpg"
-[[images]]
-title = "Masters E-Vierer vor Eiswerder 2022"
-src = "images/Masters_E-Vierer_vor_Eiswerder_2022.jpg"
-[[images]]
-title = "Ruderboot Wasserstadt Oberhavel 2022"
-src = "images/Ruderboot_Wasserstadt_Oberhavel_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-03-01"
+date: "2022-03-03T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+images:
+- src: images/Veltener_Stichkanal_2022.jpg
+  title: Veltener Stichkanal 2022
+- src: images/Zitadelle_Spandau_mit_dem_Ruderboot_2022.jpg
+  title: Zitadelle Spandau mit dem Ruderboot 2022
+- src: images/Masters_E-Vierer_vor_Eiswerder_2022.jpg
+  title: Masters E-Vierer vor Eiswerder 2022
+- src: images/Ruderboot_Wasserstadt_Oberhavel_2022.jpg
+  title: Ruderboot Wasserstadt Oberhavel 2022
+länder: []
+title: Brandenburgia 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

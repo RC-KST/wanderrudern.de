@@ -1,7 +1,7 @@
-+++
-title = "Was ist Wanderrudern"
-weight = 20
-+++
+---
+title: Was ist Wanderrudern
+weight: 20
+---
 
 Rudern ist olympische Sportart...
 

@@ -1,40 +1,33 @@
-+++
-title = "Lehnin Wanderrudertreffen 2011"
-author = ""
-date = 2011-08-08T01:00:00+02:00
-begin = "2011-08-01"
-"gewässer" = ["havel", "zernsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sockbrot am Lagerfeuer Lehnin 2011"
-src = "images/Sockbrot_am_Lagerfeuer_Lehnin_2011.jpg"
-[[images]]
-title = "Nirina auf der Havel 2011"
-src = "images/Nirina_auf_der_Havel_2011.jpg"
-[[images]]
-title = "Annika Nirina Uwe WRT 2011"
-src = "images/Annika_Nirina_Uwe_WRT_2011.jpg"
-[[images]]
-title = "Lagerfeuer Lehnin WRT2011"
-src = "images/Lagerfeuer_Lehnin_WRT2011.jpg"
-[[images]]
-title = "Zeltaufbau Jugend Lehnin WRT 2011"
-src = "images/Zeltaufbau_Jugend_Lehnin_WRT_2011.jpg"
-[[images]]
-title = "Zeltaufbau AH Lehnin WRT 2011"
-src = "images/Zeltaufbau_AH_Lehnin_WRT_2011.jpg"
-[[images]]
-title = "Martin Elina Lehnin WRT2011"
-src = "images/Martin_Elina_Lehnin_WRT2011.jpg"
-[[images]]
-title = "Badefloss Lehnin WRT 2011"
-src = "images/Badefloss_Lehnin_WRT_2011.jpg"
-[[images]]
-title = "Emster Kanal Lehnin 2011"
-src = "images/Emster_Kanal_Lehnin_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-08-01"
+date: "2011-08-08T01:00:00+02:00"
+gewässer:
+- havel
+- zernsee
+images:
+- src: images/Sockbrot_am_Lagerfeuer_Lehnin_2011.jpg
+  title: Sockbrot am Lagerfeuer Lehnin 2011
+- src: images/Nirina_auf_der_Havel_2011.jpg
+  title: Nirina auf der Havel 2011
+- src: images/Annika_Nirina_Uwe_WRT_2011.jpg
+  title: Annika Nirina Uwe WRT 2011
+- src: images/Lagerfeuer_Lehnin_WRT2011.jpg
+  title: Lagerfeuer Lehnin WRT2011
+- src: images/Zeltaufbau_Jugend_Lehnin_WRT_2011.jpg
+  title: Zeltaufbau Jugend Lehnin WRT 2011
+- src: images/Zeltaufbau_AH_Lehnin_WRT_2011.jpg
+  title: Zeltaufbau AH Lehnin WRT 2011
+- src: images/Martin_Elina_Lehnin_WRT2011.jpg
+  title: Martin Elina Lehnin WRT2011
+- src: images/Badefloss_Lehnin_WRT_2011.jpg
+  title: Badefloss Lehnin WRT 2011
+- src: images/Emster_Kanal_Lehnin_2011.jpg
+  title: Emster Kanal Lehnin 2011
+länder: []
+title: Lehnin Wanderrudertreffen 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

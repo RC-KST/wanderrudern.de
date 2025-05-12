@@ -1,40 +1,34 @@
-+++
-title = "Weser 2004 Februar"
-author = ""
-date = 2004-02-02T01:00:00+02:00
-begin = "2004-02-01"
-"gewässer" = ["weser", "lesum", "aller"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Schnee Rudern auf der Weser"
-src = "images/hann_einsetzen.jpg"
-[[images]]
-title = "Rudern ist Wintersport"
-src = "images/mannsch_schnee.jpg"
-[[images]]
-title = "eingeschneiter Steuermann Ruderboot"
-src = "images/martina_schnee.jpg"
-[[images]]
-title = "Elbe im Februar"
-src = "images/boot.jpg"
-[[images]]
-title = "martina auf Schlag im Ruderboot"
-src = "images/martina2_we01.jpg"
-[[images]]
-title = "Verden bei Hochwasser"
-src = "images/verden_steg.jpg"
-[[images]]
-title = "Hochwassermarke 2"
-src = "images/hochwasser.jpg"
-[[images]]
-title = "Vegesack im Nebel Ruderclub"
-src = "images/nebel_We01.jpg"
-[[images]]
-title = "Fahrtende in Vegesack"
-src = "images/vegesack.jpg"
-
-+++
+---
+author: ""
+begin: "2004-02-01"
+date: "2004-02-02T01:00:00+02:00"
+gewässer:
+- weser
+- lesum
+- aller
+images:
+- src: images/hann_einsetzen.jpg
+  title: Schnee Rudern auf der Weser
+- src: images/mannsch_schnee.jpg
+  title: Rudern ist Wintersport
+- src: images/martina_schnee.jpg
+  title: eingeschneiter Steuermann Ruderboot
+- src: images/boot.jpg
+  title: Elbe im Februar
+- src: images/martina2_we01.jpg
+  title: martina auf Schlag im Ruderboot
+- src: images/verden_steg.jpg
+  title: Verden bei Hochwasser
+- src: images/hochwasser.jpg
+  title: Hochwassermarke 2
+- src: images/nebel_We01.jpg
+  title: Vegesack im Nebel Ruderclub
+- src: images/vegesack.jpg
+  title: Fahrtende in Vegesack
+länder: []
+title: Weser 2004 Februar
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

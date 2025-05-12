@@ -1,16 +1,19 @@
-+++
-title = "Ehrenamtsaward 2013"
-author = ""
-date = 2013-04-04T01:00:00+02:00
-begin = "2013-04-01"
-"gewässer" = ["donau", "fulda", "orivesi"]
-"länder" = ["bulgarien"]
-"typ" = "marathon"
-[[images]]
-title = "Ehrenamtsaward nachwuchsmannschaft des Jahres 2014 rc kst"
-src = "images/Ehrenamtsaward_nachwuchsmannschaft_des_Jahres_2014_rc_kst.jpg"
-
-+++
+---
+author: ""
+begin: "2013-04-01"
+date: "2013-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- fulda
+- orivesi
+images:
+- src: images/Ehrenamtsaward_nachwuchsmannschaft_des_Jahres_2014_rc_kst.jpg
+  title: Ehrenamtsaward nachwuchsmannschaft des Jahres 2014 rc kst
+länder:
+- bulgarien
+title: Ehrenamtsaward 2013
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

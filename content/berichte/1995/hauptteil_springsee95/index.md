@@ -1,25 +1,26 @@
-+++
-title = "Springsee 1995"
-author = ""
-date = 1995-01-01T01:00:00+02:00
-begin = "1995-01-01"
-"gewässer" = ["rhein", "dahme", "wolziger see", "scharmützelsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "umgestürzter Baum auf Motorboote Schleuse Kummersdorf"
-src = "images/baum_sp95.jpg"
-[[images]]
-title = "schleuse Storkow Ruderboote"
-src = "images/schleuse_Sp95.jpg"
-[[images]]
-title = "springsee schleuse ruderer"
-src = "images/springsee.jpg"
-[[images]]
-title = "ruderfahrt springsee ruderboot"
-src = "images/rueckfahrt.jpg"
-
-+++
+---
+author: ""
+begin: "1995-01-01"
+date: "1995-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- dahme
+- wolziger see
+- scharmützelsee
+- oder
+images:
+- src: images/baum_sp95.jpg
+  title: umgestürzter Baum auf Motorboote Schleuse Kummersdorf
+- src: images/schleuse_Sp95.jpg
+  title: schleuse Storkow Ruderboote
+- src: images/springsee.jpg
+  title: springsee schleuse ruderer
+- src: images/rueckfahrt.jpg
+  title: ruderfahrt springsee ruderboot
+länder: []
+title: Springsee 1995
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

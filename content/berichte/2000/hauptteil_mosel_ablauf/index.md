@@ -1,13 +1,14 @@
-+++
-title = "mosel 2000"
-author = ""
-date = 2000-05-05T01:00:00+02:00
-begin = "2000-05-01"
-"gewässer" = ["mosel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2000-05-01"
+date: "2000-05-05T01:00:00+02:00"
+gewässer:
+- mosel
+- oder
+länder: []
+title: mosel 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

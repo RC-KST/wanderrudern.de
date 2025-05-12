@@ -1,37 +1,29 @@
-+++
-title = "Tag der offenen Tür 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Ruderer beim Tag der offenen Tür 2023"
-src = "images/Ruderer_beim_Tag_der_offenen_Tur_2023.jpg"
-[[images]]
-title = "Chinapfanne beim Tag der offenen Tür 2023"
-src = "images/Chinapfanne_beim_Tag_der_offenen_Tur_2023.jpg"
-[[images]]
-title = "Medaillen verteilen am Tag der offenen Tür 2023"
-src = "images/Medaillen_verteilen_am_Tag_der_offenen_Tur_2023.jpg"
-[[images]]
-title = "Proberudern Tag der offenen Tür 2023"
-src = "images/Proberudern_Tag_der_offenen_Tur_2023.jpg"
-[[images]]
-title = "Grillchef beim Tag der offenen Tür 2023"
-src = "images/Grillchef_beim_Tag_der_offenen_Tur_2023.jpg"
-[[images]]
-title = "Medaillenflut beim Ruderclub Kleinmachnow 2023"
-src = "images/Medaillenflut_beim_Ruderclub_Kleinmachnow_2023.jpg"
-[[images]]
-title = "Tag der offenen Tür Proberudern 2023"
-src = "images/Tag_der_offenen_Tur_Proberudern_2023.jpg"
-[[images]]
-title = "Salatbüffet am Tag der offenen Tür 2023"
-src = "images/Salatbuffet_am_Tag_der_offenen_Tur_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderer_beim_Tag_der_offenen_Tur_2023.jpg
+  title: Ruderer beim Tag der offenen Tür 2023
+- src: images/Chinapfanne_beim_Tag_der_offenen_Tur_2023.jpg
+  title: Chinapfanne beim Tag der offenen Tür 2023
+- src: images/Medaillen_verteilen_am_Tag_der_offenen_Tur_2023.jpg
+  title: Medaillen verteilen am Tag der offenen Tür 2023
+- src: images/Proberudern_Tag_der_offenen_Tur_2023.jpg
+  title: Proberudern Tag der offenen Tür 2023
+- src: images/Grillchef_beim_Tag_der_offenen_Tur_2023.jpg
+  title: Grillchef beim Tag der offenen Tür 2023
+- src: images/Medaillenflut_beim_Ruderclub_Kleinmachnow_2023.jpg
+  title: Medaillenflut beim Ruderclub Kleinmachnow 2023
+- src: images/Tag_der_offenen_Tur_Proberudern_2023.jpg
+  title: Tag der offenen Tür Proberudern 2023
+- src: images/Salatbuffet_am_Tag_der_offenen_Tur_2023.jpg
+  title: Salatbüffet am Tag der offenen Tür 2023
+länder: []
+title: Tag der offenen Tür 2023
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

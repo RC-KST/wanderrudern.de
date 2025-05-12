@@ -1,22 +1,19 @@
-+++
-title = "Schleusenfest 2014"
-author = ""
-date = 2014-03-03T01:00:00+02:00
-begin = "2014-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kirchboot beim Einsetzen Schleusenfest 2013"
-src = "images/Kirchboot_beim_Einsetzen_Schleusenfest_2013.jpg"
-[[images]]
-title = "Kirchboot Schleuse Kleinmachnow Schleusenfest 2013"
-src = "images/Kirchboot_Schleuse_Kleinmachnow_Schleusenfest_2013.jpg"
-[[images]]
-title = "Kirchboot auf dem Pohlesee Schleusenfest 2013"
-src = "images/Kirchboot_auf_dem_Pohlesee_Schleusenfest_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2014-03-01"
+date: "2014-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kirchboot_beim_Einsetzen_Schleusenfest_2013.jpg
+  title: Kirchboot beim Einsetzen Schleusenfest 2013
+- src: images/Kirchboot_Schleuse_Kleinmachnow_Schleusenfest_2013.jpg
+  title: Kirchboot Schleuse Kleinmachnow Schleusenfest 2013
+- src: images/Kirchboot_auf_dem_Pohlesee_Schleusenfest_2013.jpg
+  title: Kirchboot auf dem Pohlesee Schleusenfest 2013
+länder: []
+title: Schleusenfest 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

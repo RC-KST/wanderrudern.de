@@ -1,49 +1,37 @@
-+++
-title = "Tag der offenen Tuer 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Bootstaufe Enonvesi Tag der offenen Tür 2019"
-src = "images/Bootstaufe_Enonvesi_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Goldmedaille für Isabel Brandenburger Wettbewerb 2018"
-src = "images/Goldmedaille_fur_Isabel_Brandenburger_Wettbewerb_2018.jpg"
-[[images]]
-title = "Preisverleihung Wanderruderpreise Tag der offenen Tür 2019"
-src = "images/Preisverleihung_Wanderruderpreise_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Proberudern Tag der offenen Tür 2019"
-src = "images/Proberudern_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Götz am Grill Tag der offenen Tür 2019"
-src = "images/Gotz_am_Grill_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Dame vom Grill Tag der offenen Tür 2019"
-src = "images/Dame_vom_Grill_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Bürgermeister Albers beim Tag der offenen Tür 2019"
-src = "images/Burgermeister_Albers_beim_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Essensverkauf Tag der offenen Tür 2019"
-src = "images/Essensverkauf_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Aufbau Tag der offenen Tür 2019"
-src = "images/Aufbau_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Erst mal aufs Ergo Tag der offenen Tür 2019"
-src = "images/Erst_mal_aufs_Ergo_Tag_der_offenen_Tur_2019.jpg"
-[[images]]
-title = "Kuchenverkauf Tag der offnen Tür 2019"
-src = "images/Kuchenverkauf_Tag_der_offnen_Tur_2019.jpg"
-[[images]]
-title = "Proberudern im Regen Tag der offenen Tür 2019"
-src = "images/Proberudern_im_Regen_Tag_der_offenen_Tur_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Bootstaufe_Enonvesi_Tag_der_offenen_Tur_2019.jpg
+  title: Bootstaufe Enonvesi Tag der offenen Tür 2019
+- src: images/Goldmedaille_fur_Isabel_Brandenburger_Wettbewerb_2018.jpg
+  title: Goldmedaille für Isabel Brandenburger Wettbewerb 2018
+- src: images/Preisverleihung_Wanderruderpreise_Tag_der_offenen_Tur_2019.jpg
+  title: Preisverleihung Wanderruderpreise Tag der offenen Tür 2019
+- src: images/Proberudern_Tag_der_offenen_Tur_2019.jpg
+  title: Proberudern Tag der offenen Tür 2019
+- src: images/Gotz_am_Grill_Tag_der_offenen_Tur_2019.jpg
+  title: Götz am Grill Tag der offenen Tür 2019
+- src: images/Dame_vom_Grill_Tag_der_offenen_Tur_2019.jpg
+  title: Dame vom Grill Tag der offenen Tür 2019
+- src: images/Burgermeister_Albers_beim_Tag_der_offenen_Tur_2019.jpg
+  title: Bürgermeister Albers beim Tag der offenen Tür 2019
+- src: images/Essensverkauf_Tag_der_offenen_Tur_2019.jpg
+  title: Essensverkauf Tag der offenen Tür 2019
+- src: images/Aufbau_Tag_der_offenen_Tur_2019.jpg
+  title: Aufbau Tag der offenen Tür 2019
+- src: images/Erst_mal_aufs_Ergo_Tag_der_offenen_Tur_2019.jpg
+  title: Erst mal aufs Ergo Tag der offenen Tür 2019
+- src: images/Kuchenverkauf_Tag_der_offnen_Tur_2019.jpg
+  title: Kuchenverkauf Tag der offnen Tür 2019
+- src: images/Proberudern_im_Regen_Tag_der_offenen_Tur_2019.jpg
+  title: Proberudern im Regen Tag der offenen Tür 2019
+länder: []
+title: Tag der offenen Tuer 2019
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

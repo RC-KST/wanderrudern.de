@@ -1,43 +1,34 @@
-+++
-title = "Litomerice - Pirna 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Pirna Gluehwein kochen 2015"
-src = "images/Pirna_Gluehwein_kochen_2015.jpg"
-[[images]]
-title = "Start Marina Labe Pistany 2015"
-src = "images/Start_Marina_Labe_Pistany_2015.jpg"
-[[images]]
-title = "Ruderer See an der Elbe Leitmeritz 2015"
-src = "images/Ruderer_See_an_der_Elbe_Leitmeritz_2015.jpg"
-[[images]]
-title = "Elbe oberhalb von Aussig 2015"
-src = "images/Elbe_oberhalb_von_Aussig_2015.jpg"
-[[images]]
-title = "Burg Schreckenstein an der Elbe 2015"
-src = "images/Burg_Schreckenstein_an_der_Elbe_2015.jpg"
-[[images]]
-title = "Boote tragen Decin 2015"
-src = "images/Boote_tragen_Decin_2015.jpg"
-[[images]]
-title = "Ruderer im Schloss Tetschen 2015"
-src = "images/Ruderer_im_Schloss_Tetschen_2015.jpg"
-[[images]]
-title = "Feste Koenigsstein Elbe 2015"
-src = "images/Feste_Koenigsstein_Elbe_2015.jpg"
-[[images]]
-title = "Trainer neben dem Vierer Elbe 2015"
-src = "images/Trainer_neben_dem_Vierer_Elbe_2015.jpg"
-[[images]]
-title = "Ruderer vor der Bastei 2015"
-src = "images/Ruderer_vor_der_Bastei_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Pirna_Gluehwein_kochen_2015.jpg
+  title: Pirna Gluehwein kochen 2015
+- src: images/Start_Marina_Labe_Pistany_2015.jpg
+  title: Start Marina Labe Pistany 2015
+- src: images/Ruderer_See_an_der_Elbe_Leitmeritz_2015.jpg
+  title: Ruderer See an der Elbe Leitmeritz 2015
+- src: images/Elbe_oberhalb_von_Aussig_2015.jpg
+  title: Elbe oberhalb von Aussig 2015
+- src: images/Burg_Schreckenstein_an_der_Elbe_2015.jpg
+  title: Burg Schreckenstein an der Elbe 2015
+- src: images/Boote_tragen_Decin_2015.jpg
+  title: Boote tragen Decin 2015
+- src: images/Ruderer_im_Schloss_Tetschen_2015.jpg
+  title: Ruderer im Schloss Tetschen 2015
+- src: images/Feste_Koenigsstein_Elbe_2015.jpg
+  title: Feste Koenigsstein Elbe 2015
+- src: images/Trainer_neben_dem_Vierer_Elbe_2015.jpg
+  title: Trainer neben dem Vierer Elbe 2015
+- src: images/Ruderer_vor_der_Bastei_2015.jpg
+  title: Ruderer vor der Bastei 2015
+länder: []
+title: Litomerice - Pirna 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,46 +1,36 @@
-+++
-title = "Warthe Marathon 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["warthe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Seeadler an der Warthe 2023"
-src = "images/Seeadler_an_der_Warthe_2023.jpg"
-[[images]]
-title = "Hotelzimmer Kolo 2023"
-src = "images/Hotelzimmer_Kolo_2023.jpg"
-[[images]]
-title = "E-Dreier mit Steuermann auf der Warthe 2023"
-src = "images/E-Dreier_mit_Steuermann_auf_der_Warthe_2023.jpg"
-[[images]]
-title = "E-Zweier auf der Warthe 2023"
-src = "images/E-Zweier_auf_der_Warthe_2023.jpg"
-[[images]]
-title = "Abendessen der Ruderer Pyzdry 2023"
-src = "images/Abendessen_der_Ruderer_Pyzdry_2023.jpg"
-[[images]]
-title = "Ort an der Warthe 2023"
-src = "images/Ort_an_der_Warthe_2023.jpg"
-[[images]]
-title = "Warthe 2023 Start in Kolo"
-src = "images/Warthe_2023_Start_in_Kolo.jpg"
-[[images]]
-title = "Pyzdry Warthe 2023"
-src = "images/Pyzdry_Warthe_2023.jpg"
-[[images]]
-title = "Bootsanhänger in Gorzow Warthe 2023"
-src = "images/Bootsanhanger_in_Gorzow_Warthe_2023.jpg"
-[[images]]
-title = "Gorzow Warthe 2023"
-src = "images/Gorzow_Warthe_2023.jpg"
-[[images]]
-title = "Stary Zatom anlegen an der Fähre 2023"
-src = "images/Stary_Zatom_anlegen_an_der_Fahre_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Seeadler_an_der_Warthe_2023.jpg
+  title: Seeadler an der Warthe 2023
+- src: images/Hotelzimmer_Kolo_2023.jpg
+  title: Hotelzimmer Kolo 2023
+- src: images/E-Dreier_mit_Steuermann_auf_der_Warthe_2023.jpg
+  title: E-Dreier mit Steuermann auf der Warthe 2023
+- src: images/E-Zweier_auf_der_Warthe_2023.jpg
+  title: E-Zweier auf der Warthe 2023
+- src: images/Abendessen_der_Ruderer_Pyzdry_2023.jpg
+  title: Abendessen der Ruderer Pyzdry 2023
+- src: images/Ort_an_der_Warthe_2023.jpg
+  title: Ort an der Warthe 2023
+- src: images/Warthe_2023_Start_in_Kolo.jpg
+  title: Warthe 2023 Start in Kolo
+- src: images/Pyzdry_Warthe_2023.jpg
+  title: Pyzdry Warthe 2023
+- src: images/Bootsanhanger_in_Gorzow_Warthe_2023.jpg
+  title: Bootsanhänger in Gorzow Warthe 2023
+- src: images/Gorzow_Warthe_2023.jpg
+  title: Gorzow Warthe 2023
+- src: images/Stary_Zatom_anlegen_an_der_Fahre_2023.jpg
+  title: Stary Zatom anlegen an der Fähre 2023
+länder: []
+title: Warthe Marathon 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

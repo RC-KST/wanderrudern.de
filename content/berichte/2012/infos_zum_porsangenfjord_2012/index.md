@@ -1,22 +1,22 @@
-+++
-title = "Nordkap 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["po", "porsangenfjord", "barentssee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "steilkueste 2012"
-src = "images/steilkueste_2012.jpg"
-[[images]]
-title = "Dreier auf der Barentssee 2012"
-src = "images/Dreier_auf_der_Barentssee_2012.jpg"
-[[images]]
-title = "Letzte Bucht aber ohne Strassenanschluss 2012"
-src = "images/Letzte_Bucht_aber_ohne_Strassenanschluss_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- po
+- porsangenfjord
+- barentssee
+images:
+- src: images/steilkueste_2012.jpg
+  title: steilkueste 2012
+- src: images/Dreier_auf_der_Barentssee_2012.jpg
+  title: Dreier auf der Barentssee 2012
+- src: images/Letzte_Bucht_aber_ohne_Strassenanschluss_2012.jpg
+  title: Letzte Bucht aber ohne Strassenanschluss 2012
+länder: []
+title: Nordkap 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

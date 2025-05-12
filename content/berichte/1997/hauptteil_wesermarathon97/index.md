@@ -1,13 +1,14 @@
-+++
-title = "Wesermarathon 1997"
-author = ""
-date = 1997-04-04T01:00:00+02:00
-begin = "1997-04-01"
-"gewässer" = ["weser", "werra"]
-"länder" = []
-"typ" = "marathon"
-
-+++
+---
+author: ""
+begin: "1997-04-01"
+date: "1997-04-04T01:00:00+02:00"
+gewässer:
+- weser
+- werra
+länder: []
+title: Wesermarathon 1997
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

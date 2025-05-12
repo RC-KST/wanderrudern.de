@@ -1,193 +1,136 @@
-+++
-title = "Oder Ratibor - Dzwinow 2024 "
-author = ""
-date = 2024-03-03T01:00:00+02:00
-begin = "2024-03-01"
-"gewässer" = ["ostsee", "oder"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ratibor Bootsanhänger 2024"
-src = "images/Ratibor_Bootsanhanger_2024.jpg"
-[[images]]
-title = "Ratibor Ruderboote am Ufer 2024"
-src = "images/Ratibor_Ruderboote_am_Ufer_2024.jpg"
-[[images]]
-title = "Schleuse Cosel Ruderboote 2024"
-src = "images/Schleuse_Cosel_Ruderboote_2024.jpg"
-[[images]]
-title = "Ruderboote kommen aus der Schleuse Cosel 2024"
-src = "images/Ruderboote_kommen_aus_der_Schleuse_Cosel_2024.jpg"
-[[images]]
-title = "Schild Oder bei Ratibow 2024"
-src = "images/Schild_Oder_bei_Ratibow_2024.jpg"
-[[images]]
-title = "Stilvolles Abendessen in Oppeln Oder 2024"
-src = "images/Stilvolles_Abendessen_in_Oppeln_Oder_2024.jpg"
-[[images]]
-title = "Luxushotel in Oppeln Ruderer 2024"
-src = "images/Luxushotel_in_Oppeln_Ruderer_2024.jpg"
-[[images]]
-title = "Abendessen der Ruderer iin Oppeln 2024"
-src = "images/Abendessen_der_Ruderer_iin_Oppeln_2024.jpg"
-[[images]]
-title = "Blick auf die Ruderboote aus dem Hotel Piast Oppeln 2024"
-src = "images/Blick_auf_die_Ruderboote_aus_dem_Hotel_Piast_Oppeln_2024.jpg"
-[[images]]
-title = "Umtragen an Oder Schleuse 2024"
-src = "images/Umtragen_an_Oder_Schleuse_2024.jpg"
-[[images]]
-title = "Umtagen von Ruderboot an kaputter Oder-Schleuse 2024"
-src = "images/Umtagen_von_Ruderboot_an_kaputter_Oder-Schleuse_2024.jpg"
-[[images]]
-title = "Ruderboote auf Reede Schleuse Oder 2024"
-src = "images/Ruderboote_auf_Reede_Schleuse_Oder_2024.jpg"
-[[images]]
-title = "Oderschleuse mit Drempel 2024"
-src = "images/Oderschleuse_mit_Drempel_2024.jpg"
-[[images]]
-title = "Rudern durch Breslau Oder 2024"
-src = "images/Rudern_durch_Breslau_Oder_2024.jpg"
-[[images]]
-title = "Anlegen in Brzeg Dolny Oder 2024"
-src = "images/Anlegen_in_Brzeg_Dolny_Oder_2024.jpg"
-[[images]]
-title = "Polnisches Abendessen Brzeg Dolny 2024"
-src = "images/Polnisches_Abendessen_Brzeg_Dolny_2024.jpg"
-[[images]]
-title = "Zisterzienserabtei Leubus 2024"
-src = "images/Zisterzienserabtei_Leubus_2024.jpg"
-[[images]]
-title = "Kloster Leubus Blick auf die Kirche 2024"
-src = "images/Kloster_Leubus_Blick_auf_die_Kirche_2024.jpg"
-[[images]]
-title = "Kloster Leubus Saale 2024"
-src = "images/Kloster_Leubus_Saale_2024.jpg"
-[[images]]
-title = "Zisterzienserabtei Leubus Galerie 2024"
-src = "images/Zisterzienserabtei_Leubus_Galerie_2024.jpg"
-[[images]]
-title = "Ruderer vor dem Kloster Leubus Oder 2024"
-src = "images/Ruderer_vor_dem_Kloster_Leubus_Oder_2024.jpg"
-[[images]]
-title = "Ruderboote auf der oberen Oder 2024"
-src = "images/Ruderboote_auf_der_oberen_Oder_2024.jpg"
-[[images]]
-title = "Kirche Kloster Leubus Oder 2024"
-src = "images/Kirche_Kloster_Leubus_Oder_2024.jpg"
-[[images]]
-title = "guenstige Anlegestelle an der Oder 2024"
-src = "images/guenstige_Anlegestelle_an_der_Oder_2024.jpg"
-[[images]]
-title = "Der Fahrtenleiter mit Degen Oder 2024"
-src = "images/Der_Fahrtenleiter_mit_Degen_Oder_2024.jpg"
-[[images]]
-title = "Ruderer beim Abendessen Scinawa Oder 2024"
-src = "images/Ruderer_beim_Abendessen_Scinawa_Oder_2024.jpg"
-[[images]]
-title = "E-Dreier mit Steuermann auf der Oder 2024"
-src = "images/E-Dreier_mit_Steuermann_auf_der_Oder_2024.jpg"
-[[images]]
-title = "Zamek Czerna Zimmer Oder 2024"
-src = "images/Zamek_Czerna_Zimmer_Oder_2024.jpg"
-[[images]]
-title = "Ballsaal Zamek Czerna Oder 2024"
-src = "images/Ballsaal_Zamek_Czerna_Oder_2024.jpg"
-[[images]]
-title = "Herrschaftliches Schlafzimmer Oder 2024"
-src = "images/Herrschaftliches_Schlafzimmer_Oder_2024.jpg"
-[[images]]
-title = "Schloss Schwarz Vorzimmer Oder 2024"
-src = "images/Schloss_Schwarz_Vorzimmer_Oder_2024.jpg"
-[[images]]
-title = "Schloss Schwarz in Klein Tschirne Oder 2024"
-src = "images/Schloss_Schwarz_in_Klein_Tschirne_Oder_2024.jpg"
-[[images]]
-title = "Cigacice Ruderboote im Hafen Oder 2024"
-src = "images/Cigacice_Ruderboote_im_Hafen_Oder_2024.jpg"
-[[images]]
-title = "Balkon mit Oderblick Cigacice 2024"
-src = "images/Balkon_mit_Oderblick_Cigacice_2024.jpg"
-[[images]]
-title = "Hochwassergraben am Hotel in Crossen 2024"
-src = "images/Hochwassergraben_am_Hotel_in_Crossen_2024.jpg"
-[[images]]
-title = "Ruderboot auf der Oder 2024"
-src = "images/Ruderboot_auf_der_Oder_2024.jpg"
-[[images]]
-title = "E-Vierer mit Steuermann auf der Oder 2024"
-src = "images/E-Vierer_mit_Steuermann_auf_der_Oder_2024.jpg"
-[[images]]
-title = "Abendessen auf dem Hotelhof in Crossen an Ostern Oder 2024"
-src = "images/Abendessen_auf_dem_Hotelhof_in_Crossen_an_Ostern_Oder_2024.jpg"
-[[images]]
-title = "Drei ruderinnen im Zimmer Oder 2024"
-src = "images/Drei_ruderinnen_im_Zimmer_Oder_2024.jpg"
-[[images]]
-title = "Aufgelaufen in der Oder 2024"
-src = "images/Aufgelaufen_in_der_Oder_2024.jpg"
-[[images]]
-title = "Windiges Wetter unterhalb von Frankfurt Oder 2024"
-src = "images/Windiges_Wetter_unterhalb_von_Frankfurt_Oder_2024.jpg"
-[[images]]
-title = "Krajnik Dolny Ruderboote an der Grenze Oder 2024"
-src = "images/Krajnik_Dolny_Ruderboote_an_der_Grenze_Oder_2024.jpg"
-[[images]]
-title = "Abendessen kochen Oder 2024"
-src = "images/Abendessen_kochen_Oder_2024.jpg"
-[[images]]
-title = "Ruderboot Einfahrt nach Stettin Oder 2024"
-src = "images/Ruderboot_Einfahrt_nach_Stettin_Oder_2024.jpg"
-[[images]]
-title = "Ruderboote in Stettin Oder 2024"
-src = "images/Ruderboote_in_Stettin_Oder_2024.jpg"
-[[images]]
-title = "Oder Wildschwein auf Abfangkurs 2024"
-src = "images/Oder_Wildschwein_auf_Abfangkurs_2024.jpg"
-[[images]]
-title = "Stettin beim Ruderverein Oder 2024"
-src = "images/Stettin_beim_Ruderverein_Oder_2024.jpg"
-[[images]]
-title = "Schlosshof on Stettin Oder 2024"
-src = "images/Schlosshof_on_Stettin_Oder_2024.jpg"
-[[images]]
-title = "Hakenterasse Stettin Oder 2024"
-src = "images/Hakenterasse_Stettin_Oder_2024.jpg"
-[[images]]
-title = "Stettin Rudern durch die Innenstadt Oder 2024"
-src = "images/Stettin_Rudern_durch_die_Innenstadt_Oder_2024.jpg"
-[[images]]
-title = "Stettiner Hafen Oder 2024"
-src = "images/Stettiner_Hafen_Oder_2024.jpg"
-[[images]]
-title = "Hafen Kopice Stettiner Haff Oder 2024"
-src = "images/Hafen_Kopice_Stettiner_Haff_Oder_2024.jpg"
-[[images]]
-title = "Faehranleger am Stettiner Haff Oder 2024"
-src = "images/Faehranleger_am_Stettiner_Haff_Oder_2024.jpg"
-[[images]]
-title = "Ferienhaus Kopice Ruderer am Kamin Oder 2024"
-src = "images/Ferienhaus_Kopice_Ruderer_am_Kamin_Oder_2024.jpg"
-[[images]]
-title = "Wikingersiedlung Wolin Oder 2024"
-src = "images/Wikingersiedlung_Wolin_Oder_2024.jpg"
-[[images]]
-title = "E-Vierer auf dem Stettiner Haff Oder 2024"
-src = "images/E-Vierer_auf_dem_Stettiner_Haff_Oder_2024.jpg"
-[[images]]
-title = "Pseudo Kogge in Dzwinow Oder 2024"
-src = "images/Pseudo_Kogge_in_Dzwinow_Oder_2024.jpg"
-[[images]]
-title = "Auf der Ostsee Mündung der Dzwinow 2024"
-src = "images/Auf_der_Ostsee_Mundung_der_Dzwinow_2024.jpg"
-[[images]]
-title = "Offene Ostsee vor Dzwinow 2024"
-src = "images/Offene_Ostsee_vor_Dzwinow_2024.jpg"
-[[images]]
-title = "Badestrand Dzwinow 2024"
-src = "images/Badestrand_Dzwinow_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-03-01"
+date: "2024-03-03T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+images:
+- src: images/Ratibor_Bootsanhanger_2024.jpg
+  title: Ratibor Bootsanhänger 2024
+- src: images/Ratibor_Ruderboote_am_Ufer_2024.jpg
+  title: Ratibor Ruderboote am Ufer 2024
+- src: images/Schleuse_Cosel_Ruderboote_2024.jpg
+  title: Schleuse Cosel Ruderboote 2024
+- src: images/Ruderboote_kommen_aus_der_Schleuse_Cosel_2024.jpg
+  title: Ruderboote kommen aus der Schleuse Cosel 2024
+- src: images/Schild_Oder_bei_Ratibow_2024.jpg
+  title: Schild Oder bei Ratibow 2024
+- src: images/Stilvolles_Abendessen_in_Oppeln_Oder_2024.jpg
+  title: Stilvolles Abendessen in Oppeln Oder 2024
+- src: images/Luxushotel_in_Oppeln_Ruderer_2024.jpg
+  title: Luxushotel in Oppeln Ruderer 2024
+- src: images/Abendessen_der_Ruderer_iin_Oppeln_2024.jpg
+  title: Abendessen der Ruderer iin Oppeln 2024
+- src: images/Blick_auf_die_Ruderboote_aus_dem_Hotel_Piast_Oppeln_2024.jpg
+  title: Blick auf die Ruderboote aus dem Hotel Piast Oppeln 2024
+- src: images/Umtragen_an_Oder_Schleuse_2024.jpg
+  title: Umtragen an Oder Schleuse 2024
+- src: images/Umtagen_von_Ruderboot_an_kaputter_Oder-Schleuse_2024.jpg
+  title: Umtagen von Ruderboot an kaputter Oder-Schleuse 2024
+- src: images/Ruderboote_auf_Reede_Schleuse_Oder_2024.jpg
+  title: Ruderboote auf Reede Schleuse Oder 2024
+- src: images/Oderschleuse_mit_Drempel_2024.jpg
+  title: Oderschleuse mit Drempel 2024
+- src: images/Rudern_durch_Breslau_Oder_2024.jpg
+  title: Rudern durch Breslau Oder 2024
+- src: images/Anlegen_in_Brzeg_Dolny_Oder_2024.jpg
+  title: Anlegen in Brzeg Dolny Oder 2024
+- src: images/Polnisches_Abendessen_Brzeg_Dolny_2024.jpg
+  title: Polnisches Abendessen Brzeg Dolny 2024
+- src: images/Zisterzienserabtei_Leubus_2024.jpg
+  title: Zisterzienserabtei Leubus 2024
+- src: images/Kloster_Leubus_Blick_auf_die_Kirche_2024.jpg
+  title: Kloster Leubus Blick auf die Kirche 2024
+- src: images/Kloster_Leubus_Saale_2024.jpg
+  title: Kloster Leubus Saale 2024
+- src: images/Zisterzienserabtei_Leubus_Galerie_2024.jpg
+  title: Zisterzienserabtei Leubus Galerie 2024
+- src: images/Ruderer_vor_dem_Kloster_Leubus_Oder_2024.jpg
+  title: Ruderer vor dem Kloster Leubus Oder 2024
+- src: images/Ruderboote_auf_der_oberen_Oder_2024.jpg
+  title: Ruderboote auf der oberen Oder 2024
+- src: images/Kirche_Kloster_Leubus_Oder_2024.jpg
+  title: Kirche Kloster Leubus Oder 2024
+- src: images/guenstige_Anlegestelle_an_der_Oder_2024.jpg
+  title: guenstige Anlegestelle an der Oder 2024
+- src: images/Der_Fahrtenleiter_mit_Degen_Oder_2024.jpg
+  title: Der Fahrtenleiter mit Degen Oder 2024
+- src: images/Ruderer_beim_Abendessen_Scinawa_Oder_2024.jpg
+  title: Ruderer beim Abendessen Scinawa Oder 2024
+- src: images/E-Dreier_mit_Steuermann_auf_der_Oder_2024.jpg
+  title: E-Dreier mit Steuermann auf der Oder 2024
+- src: images/Zamek_Czerna_Zimmer_Oder_2024.jpg
+  title: Zamek Czerna Zimmer Oder 2024
+- src: images/Ballsaal_Zamek_Czerna_Oder_2024.jpg
+  title: Ballsaal Zamek Czerna Oder 2024
+- src: images/Herrschaftliches_Schlafzimmer_Oder_2024.jpg
+  title: Herrschaftliches Schlafzimmer Oder 2024
+- src: images/Schloss_Schwarz_Vorzimmer_Oder_2024.jpg
+  title: Schloss Schwarz Vorzimmer Oder 2024
+- src: images/Schloss_Schwarz_in_Klein_Tschirne_Oder_2024.jpg
+  title: Schloss Schwarz in Klein Tschirne Oder 2024
+- src: images/Cigacice_Ruderboote_im_Hafen_Oder_2024.jpg
+  title: Cigacice Ruderboote im Hafen Oder 2024
+- src: images/Balkon_mit_Oderblick_Cigacice_2024.jpg
+  title: Balkon mit Oderblick Cigacice 2024
+- src: images/Hochwassergraben_am_Hotel_in_Crossen_2024.jpg
+  title: Hochwassergraben am Hotel in Crossen 2024
+- src: images/Ruderboot_auf_der_Oder_2024.jpg
+  title: Ruderboot auf der Oder 2024
+- src: images/E-Vierer_mit_Steuermann_auf_der_Oder_2024.jpg
+  title: E-Vierer mit Steuermann auf der Oder 2024
+- src: images/Abendessen_auf_dem_Hotelhof_in_Crossen_an_Ostern_Oder_2024.jpg
+  title: Abendessen auf dem Hotelhof in Crossen an Ostern Oder 2024
+- src: images/Drei_ruderinnen_im_Zimmer_Oder_2024.jpg
+  title: Drei ruderinnen im Zimmer Oder 2024
+- src: images/Aufgelaufen_in_der_Oder_2024.jpg
+  title: Aufgelaufen in der Oder 2024
+- src: images/Windiges_Wetter_unterhalb_von_Frankfurt_Oder_2024.jpg
+  title: Windiges Wetter unterhalb von Frankfurt Oder 2024
+- src: images/Krajnik_Dolny_Ruderboote_an_der_Grenze_Oder_2024.jpg
+  title: Krajnik Dolny Ruderboote an der Grenze Oder 2024
+- src: images/Abendessen_kochen_Oder_2024.jpg
+  title: Abendessen kochen Oder 2024
+- src: images/Ruderboot_Einfahrt_nach_Stettin_Oder_2024.jpg
+  title: Ruderboot Einfahrt nach Stettin Oder 2024
+- src: images/Ruderboote_in_Stettin_Oder_2024.jpg
+  title: Ruderboote in Stettin Oder 2024
+- src: images/Oder_Wildschwein_auf_Abfangkurs_2024.jpg
+  title: Oder Wildschwein auf Abfangkurs 2024
+- src: images/Stettin_beim_Ruderverein_Oder_2024.jpg
+  title: Stettin beim Ruderverein Oder 2024
+- src: images/Schlosshof_on_Stettin_Oder_2024.jpg
+  title: Schlosshof on Stettin Oder 2024
+- src: images/Hakenterasse_Stettin_Oder_2024.jpg
+  title: Hakenterasse Stettin Oder 2024
+- src: images/Stettin_Rudern_durch_die_Innenstadt_Oder_2024.jpg
+  title: Stettin Rudern durch die Innenstadt Oder 2024
+- src: images/Stettiner_Hafen_Oder_2024.jpg
+  title: Stettiner Hafen Oder 2024
+- src: images/Hafen_Kopice_Stettiner_Haff_Oder_2024.jpg
+  title: Hafen Kopice Stettiner Haff Oder 2024
+- src: images/Faehranleger_am_Stettiner_Haff_Oder_2024.jpg
+  title: Faehranleger am Stettiner Haff Oder 2024
+- src: images/Ferienhaus_Kopice_Ruderer_am_Kamin_Oder_2024.jpg
+  title: Ferienhaus Kopice Ruderer am Kamin Oder 2024
+- src: images/Wikingersiedlung_Wolin_Oder_2024.jpg
+  title: Wikingersiedlung Wolin Oder 2024
+- src: images/E-Vierer_auf_dem_Stettiner_Haff_Oder_2024.jpg
+  title: E-Vierer auf dem Stettiner Haff Oder 2024
+- src: images/Pseudo_Kogge_in_Dzwinow_Oder_2024.jpg
+  title: Pseudo Kogge in Dzwinow Oder 2024
+- src: images/Auf_der_Ostsee_Mundung_der_Dzwinow_2024.jpg
+  title: Auf der Ostsee Mündung der Dzwinow 2024
+- src: images/Offene_Ostsee_vor_Dzwinow_2024.jpg
+  title: Offene Ostsee vor Dzwinow 2024
+- src: images/Badestrand_Dzwinow_2024.jpg
+  title: Badestrand Dzwinow 2024
+länder:
+- polen
+title: 'Oder Ratibor - Dzwinow 2024 '
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

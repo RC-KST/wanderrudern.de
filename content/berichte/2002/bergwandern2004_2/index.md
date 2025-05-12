@@ -1,25 +1,22 @@
-+++
-title = "Bergwandern2004_1"
-author = ""
-date = 2002-01-01T01:00:00+02:00
-begin = "2002-01-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "kochofen"
-src = "images/kochofen.jpg"
-[[images]]
-title = "sonntagskarsee"
-src = "images/sonntagskarsee.jpg"
-[[images]]
-title = "gollinghuette"
-src = "images/gollinghuette.jpg"
-[[images]]
-title = "gumpeneck2"
-src = "images/gumpeneck2.jpg"
-
-+++
+---
+author: ""
+begin: "2002-01-01"
+date: "2002-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/kochofen.jpg
+  title: kochofen
+- src: images/sonntagskarsee.jpg
+  title: sonntagskarsee
+- src: images/gollinghuette.jpg
+  title: gollinghuette
+- src: images/gumpeneck2.jpg
+  title: gumpeneck2
+länder: []
+title: Bergwandern2004_1
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

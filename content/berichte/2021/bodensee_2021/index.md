@@ -1,67 +1,52 @@
-+++
-title = "Bodensee 2021"
-author = ""
-date = 2021-05-05T01:00:00+02:00
-begin = "2021-05-01"
-"gewässer" = ["rhein"]
-"länder" = ["italien", "schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot Bodensee Silvester 2021"
-src = "images/Ruderboot_Bodensee_Silvester_2021.jpg"
-[[images]]
-title = "David am Steuer Bodensee Silvester 2021"
-src = "images/David_am_Steuer_Bodensee_Silvester_2021.jpg"
-[[images]]
-title = "Abendessen Raclette Bodensee Silvester 2021"
-src = "images/Abendessen_Raclette_Bodensee_Silvester_2021.jpg"
-[[images]]
-title = "Ruderer unter Palmen Silvester 2021"
-src = "images/Ruderer_unter_Palmen_Silvester_2021.jpg"
-[[images]]
-title = "Ruderboot in Allensbach Silvester 2021"
-src = "images/Ruderboot_in_Allensbach_Silvester_2021.jpg"
-[[images]]
-title = "Simone am Steuer Meersburg Silvester 2021"
-src = "images/Simone_am_Steuer_Meersburg_Silvester_2021.jpg"
-[[images]]
-title = "Insel Reichenau im morgendlichen Dunst Silvester 2021"
-src = "images/Insel_Reichenau_im_morgendlichen_Dunst_Silvester_2021.jpg"
-[[images]]
-title = "Alpenkulisse am Bodensee Silvester 2021"
-src = "images/Alpenkulisse_am_Bodensee_Silvester_2021.jpg"
-[[images]]
-title = "Rudern zum Ende des Regenbogens Silvester 2021"
-src = "images/Rudern_zum_Ende_des_Regenbogens_Silvester_2021.jpg"
-[[images]]
-title = "Unwetter über Allensbach Silvester 2021"
-src = "images/Unwetter_uber_Allensbach_Silvester_2021.jpg"
-[[images]]
-title = "Blumenschmuck Mainau Silvester 2021"
-src = "images/Blumenschmuck_Mainau_Silvester_2021.jpg"
-[[images]]
-title = "Kinderspielplatz Mainau Silvester 2021"
-src = "images/Kinderspielplatz_Mainau_Silvester_2021.jpg"
-[[images]]
-title = "Ruderboot Stein am Rhein Silvester 2021"
-src = "images/Ruderboot_Stein_am_Rhein_Silvester_2021.jpg"
-[[images]]
-title = "Schmetterlingshaus Mainau Silvester 2021"
-src = "images/Schmetterlingshaus_Mainau_Silvester_2021.jpg"
-[[images]]
-title = "Ruderin Bodensee bei Sonne Silvester 2021"
-src = "images/Ruderin_Bodensee_bei_Sonne_Silvester_2021.jpg"
-[[images]]
-title = "Meersburg am Bodensee Silvester 2021"
-src = "images/Meersburg_am_Bodensee_Silvester_2021.jpg"
-[[images]]
-title = "Boot aufladen im Nebel Neujahr 2022"
-src = "images/Boot_aufladen_im_Nebel_Neujahr_2022.jpg"
-[[images]]
-title = "Alpen über dem Bodensee Silvester 2021"
-src = "images/Alpen_uber_dem_Bodensee_Silvester_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-05-01"
+date: "2021-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+images:
+- src: images/Ruderboot_Bodensee_Silvester_2021.jpg
+  title: Ruderboot Bodensee Silvester 2021
+- src: images/David_am_Steuer_Bodensee_Silvester_2021.jpg
+  title: David am Steuer Bodensee Silvester 2021
+- src: images/Abendessen_Raclette_Bodensee_Silvester_2021.jpg
+  title: Abendessen Raclette Bodensee Silvester 2021
+- src: images/Ruderer_unter_Palmen_Silvester_2021.jpg
+  title: Ruderer unter Palmen Silvester 2021
+- src: images/Ruderboot_in_Allensbach_Silvester_2021.jpg
+  title: Ruderboot in Allensbach Silvester 2021
+- src: images/Simone_am_Steuer_Meersburg_Silvester_2021.jpg
+  title: Simone am Steuer Meersburg Silvester 2021
+- src: images/Insel_Reichenau_im_morgendlichen_Dunst_Silvester_2021.jpg
+  title: Insel Reichenau im morgendlichen Dunst Silvester 2021
+- src: images/Alpenkulisse_am_Bodensee_Silvester_2021.jpg
+  title: Alpenkulisse am Bodensee Silvester 2021
+- src: images/Rudern_zum_Ende_des_Regenbogens_Silvester_2021.jpg
+  title: Rudern zum Ende des Regenbogens Silvester 2021
+- src: images/Unwetter_uber_Allensbach_Silvester_2021.jpg
+  title: Unwetter über Allensbach Silvester 2021
+- src: images/Blumenschmuck_Mainau_Silvester_2021.jpg
+  title: Blumenschmuck Mainau Silvester 2021
+- src: images/Kinderspielplatz_Mainau_Silvester_2021.jpg
+  title: Kinderspielplatz Mainau Silvester 2021
+- src: images/Ruderboot_Stein_am_Rhein_Silvester_2021.jpg
+  title: Ruderboot Stein am Rhein Silvester 2021
+- src: images/Schmetterlingshaus_Mainau_Silvester_2021.jpg
+  title: Schmetterlingshaus Mainau Silvester 2021
+- src: images/Ruderin_Bodensee_bei_Sonne_Silvester_2021.jpg
+  title: Ruderin Bodensee bei Sonne Silvester 2021
+- src: images/Meersburg_am_Bodensee_Silvester_2021.jpg
+  title: Meersburg am Bodensee Silvester 2021
+- src: images/Boot_aufladen_im_Nebel_Neujahr_2022.jpg
+  title: Boot aufladen im Nebel Neujahr 2022
+- src: images/Alpen_uber_dem_Bodensee_Silvester_2021.jpg
+  title: Alpen über dem Bodensee Silvester 2021
+länder:
+- italien
+- schweiz
+title: Bodensee 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,19 +1,23 @@
-+++
-title = "Anrudern Bootstaufe RC KST 2010"
-author = ""
-date = 2010-02-02T01:00:00+02:00
-begin = "2010-02-01"
-"gewässer" = ["oder", "inarisee", "saimaa"]
-"länder" = ["deutschland", "finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "elch02"
-src = "images/elch02.gif"
-[[images]]
-title = "saimaa"
-src = "images/saimaa.gif"
-
-+++
+---
+author: ""
+begin: "2010-02-01"
+date: "2010-02-02T01:00:00+02:00"
+gewässer:
+- oder
+- inarisee
+- saimaa
+images:
+- src: images/elch02.gif
+  title: elch02
+- src: images/saimaa.gif
+  title: saimaa
+länder:
+- deutschland
+- finnland
+- schweden
+title: Anrudern Bootstaufe RC KST 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

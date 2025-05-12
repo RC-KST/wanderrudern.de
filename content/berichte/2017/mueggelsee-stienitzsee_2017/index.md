@@ -1,34 +1,29 @@
-+++
-title = "Mueggelsee-Stienitzsee 2017"
-author = ""
-date = 2017-06-06T01:00:00+02:00
-begin = "2017-06-01"
-"gewässer" = ["teltowkanal", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Eisteller REDO 2017"
-src = "images/Eisteller_REDO_2017.jpg"
-[[images]]
-title = "Koepenicker Becken Ruderboot 2017"
-src = "images/Koepenicker_Becken_Ruderboot_2017.jpg"
-[[images]]
-title = "KWO Oberschoeneweide Ruderer 2017"
-src = "images/KWO_Oberschoeneweide_Ruderer_2017.jpg"
-[[images]]
-title = "Dreier mit Steuermann auf der Mueggelspree 2017"
-src = "images/Dreier_mit_Steuermann_auf_der_Mueggelspree_2017.jpg"
-[[images]]
-title = "E-Dreier in Rahnsdorf 2017"
-src = "images/E-Dreier_in_Rahnsdorf_2017.jpg"
-[[images]]
-title = "Ruderboote auf dem Stienitzsee 2017"
-src = "images/Ruderboote_auf_dem_Stienitzsee_2017.jpg"
-[[images]]
-title = "Ruderinnen Stienitzsee 2017"
-src = "images/Ruderinnen_Stienitzsee_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-06-01"
+date: "2017-06-06T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- oder
+images:
+- src: images/Eisteller_REDO_2017.jpg
+  title: Eisteller REDO 2017
+- src: images/Koepenicker_Becken_Ruderboot_2017.jpg
+  title: Koepenicker Becken Ruderboot 2017
+- src: images/KWO_Oberschoeneweide_Ruderer_2017.jpg
+  title: KWO Oberschoeneweide Ruderer 2017
+- src: images/Dreier_mit_Steuermann_auf_der_Mueggelspree_2017.jpg
+  title: Dreier mit Steuermann auf der Mueggelspree 2017
+- src: images/E-Dreier_in_Rahnsdorf_2017.jpg
+  title: E-Dreier in Rahnsdorf 2017
+- src: images/Ruderboote_auf_dem_Stienitzsee_2017.jpg
+  title: Ruderboote auf dem Stienitzsee 2017
+- src: images/Ruderinnen_Stienitzsee_2017.jpg
+  title: Ruderinnen Stienitzsee 2017
+länder: []
+title: Mueggelsee-Stienitzsee 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,31 +1,28 @@
-+++
-title = "Havelberg 2020"
-author = ""
-date = 2020-01-01T01:00:00+02:00
-begin = "2020-01-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Start in Stahnsdorf an der Schleuse Ruderboote"
-src = "images/Start_in_Stahnsdorf_an_der_Schleuse_Ruderboote.jpg"
-[[images]]
-title = "Stadtanleger Ketzin Pfingsten 2020"
-src = "images/Stadtanleger_Ketzin_Pfingsten_2020.jpg"
-[[images]]
-title = "Schleuse Bannetze 2020"
-src = "images/Schleuse_Bannetze_2020.jpg"
-[[images]]
-title = "Ruderboote Milow P2020"
-src = "images/Ruderboote_Milow_P2020.jpg"
-[[images]]
-title = "Mittagspause in Milow 2020"
-src = "images/Mittagspause_in_Milow_2020.jpg"
-[[images]]
-title = "Verkrautung Moegelin P2020"
-src = "images/Verkrautung_Moegelin_P2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-01-01"
+date: "2020-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Start_in_Stahnsdorf_an_der_Schleuse_Ruderboote.jpg
+  title: Start in Stahnsdorf an der Schleuse Ruderboote
+- src: images/Stadtanleger_Ketzin_Pfingsten_2020.jpg
+  title: Stadtanleger Ketzin Pfingsten 2020
+- src: images/Schleuse_Bannetze_2020.jpg
+  title: Schleuse Bannetze 2020
+- src: images/Ruderboote_Milow_P2020.jpg
+  title: Ruderboote Milow P2020
+- src: images/Mittagspause_in_Milow_2020.jpg
+  title: Mittagspause in Milow 2020
+- src: images/Verkrautung_Moegelin_P2020.jpg
+  title: Verkrautung Moegelin P2020
+länder: []
+title: Havelberg 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*
@@ -36,6 +33,7 @@ Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte e
 
 # Pfingstwanderfahrt 2020
 
+![Milow Ruderboote](./images/Ruderboote_Milow_P2020.jpg)
 
 Stahnsdorf - Havelberg
 
@@ -48,7 +46,6 @@ Auf jeden Fall ein empfehlenswertes Quartier und relativ preiswert. Da die Ferie
 Am nächsten Morgen ging es bei sonnigem Wetter die Havel weiter abwärts, zunächst bis Brandenburg. Unser Indisches Stammlokal Malabar war noch wegen Umbau geschlossen, aber “Essen to go” gab es. So saßen die Ruderer am Steg des Brandenburger Wasserwanderrastplatzes und genossen ihr Mittagessen.
 
 Nach der Pause ruderten wir durch die Sportbootschleuse und dann über den Plauer See. Windig wie immer aber “nur” Nordwind, so dass man nach einigen windigen Kilometern unter Landdeckung gehen konnte.
-
 Ziel war nicht der Ruderclub Plaue (geschlossen wegen Corona), sondern ein Hotel ein Stück weiter in Richtung Wusterwitz.
 
 Günstig nur 100m vom Plauer Badestrand gelegen. Das günstig bezog sich leider nur auf die Lage, nicht auf den Preis. Darüber hinaus war eines der “Nichtraucherzimmer” derartig verraucht, dass wir das Hotel nur bedingt empfehlen können.

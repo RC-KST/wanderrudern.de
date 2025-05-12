@@ -1,31 +1,29 @@
-+++
-title = "Havelberg 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["elbe", "havel", "plauer see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Libelle Havelberg 2012"
-src = "images/Libelle_Havelberg_2012.jpg"
-[[images]]
-title = "Vanessa in der Schleuse Havel 2012"
-src = "images/Vanessa_in_der_Schleuse_Havel_2012.jpg"
-[[images]]
-title = "Fruehstueck in Plaue Havelberg 2012"
-src = "images/Fruehstueck_in_Plaue_Havelberg_2012.jpg"
-[[images]]
-title = "Batmann auf Schlag Havel 2012"
-src = "images/Batmann_auf_Schlag_Havel_2012.jpg"
-[[images]]
-title = "Kindervierer Havel 2012"
-src = "images/Kindervierer_Havel_2012.jpg"
-[[images]]
-title = "Rudervierer Havel 2012"
-src = "images/Rudervierer_Havel_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- oder
+images:
+- src: images/Libelle_Havelberg_2012.jpg
+  title: Libelle Havelberg 2012
+- src: images/Vanessa_in_der_Schleuse_Havel_2012.jpg
+  title: Vanessa in der Schleuse Havel 2012
+- src: images/Fruehstueck_in_Plaue_Havelberg_2012.jpg
+  title: Fruehstueck in Plaue Havelberg 2012
+- src: images/Batmann_auf_Schlag_Havel_2012.jpg
+  title: Batmann auf Schlag Havel 2012
+- src: images/Kindervierer_Havel_2012.jpg
+  title: Kindervierer Havel 2012
+- src: images/Rudervierer_Havel_2012.jpg
+  title: Rudervierer Havel 2012
+länder: []
+title: Havelberg 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

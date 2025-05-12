@@ -1,34 +1,30 @@
-+++
-title = "Oder Breslau Cigacice 2023"
-author = ""
-date = 2023-05-05T01:00:00+02:00
-begin = "2023-05-01"
-"gewässer" = ["oder", "po"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote beim Ablegen in Breslau 2023"
-src = "images/Ruderboote_beim_Ablegen_in_Breslau_2023.jpg"
-[[images]]
-title = "Schleuse in Breslau Oder 2023"
-src = "images/Schleuse_in_Breslau_Oder_2023.jpg"
-[[images]]
-title = "Breslauer Innenstadt Oder 2023"
-src = "images/Breslauer_Innenstadt_Oder_2023.jpg"
-[[images]]
-title = "Lubiasz Kloster mit Ruderboot Oder 2023"
-src = "images/Lubiasz_Kloster_mit_Ruderboot_Oder_2023.jpg"
-[[images]]
-title = "Ruderzweier auf der Oder 2023"
-src = "images/Ruderzweier_auf_der_Oder_2023.jpg"
-[[images]]
-title = "WhatsApp Bild 2023-04-29 um 20.38.00"
-src = "images/WhatsApp_Bild_2023-04-29_um_20.38.00.jpg"
-[[images]]
-title = "Baumgarten E-Vierer auf der Oder 2023"
-src = "images/Baumgarten_E-Vierer_auf_der_Oder_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-05-01"
+date: "2023-05-05T01:00:00+02:00"
+gewässer:
+- oder
+- po
+images:
+- src: images/Ruderboote_beim_Ablegen_in_Breslau_2023.jpg
+  title: Ruderboote beim Ablegen in Breslau 2023
+- src: images/Schleuse_in_Breslau_Oder_2023.jpg
+  title: Schleuse in Breslau Oder 2023
+- src: images/Breslauer_Innenstadt_Oder_2023.jpg
+  title: Breslauer Innenstadt Oder 2023
+- src: images/Lubiasz_Kloster_mit_Ruderboot_Oder_2023.jpg
+  title: Lubiasz Kloster mit Ruderboot Oder 2023
+- src: images/Ruderzweier_auf_der_Oder_2023.jpg
+  title: Ruderzweier auf der Oder 2023
+- src: images/WhatsApp_Bild_2023-04-29_um_20.38.00.jpg
+  title: WhatsApp Bild 2023-04-29 um 20.38.00
+- src: images/Baumgarten_E-Vierer_auf_der_Oder_2023.jpg
+  title: Baumgarten E-Vierer auf der Oder 2023
+länder:
+- polen
+title: Oder Breslau Cigacice 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

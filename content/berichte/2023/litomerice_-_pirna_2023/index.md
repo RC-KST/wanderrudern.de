@@ -1,43 +1,35 @@
-+++
-title = "Litomerice - Pirna 2023"
-author = ""
-date = 2023-12-12T01:00:00+02:00
-begin = "2023-12-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schmilka an der Elbe 2023"
-src = "images/Schmilka_an_der_Elbe_2023.jpg"
-[[images]]
-title = "Einsetzen der Ruderboote in Lovosice Dezember 2023"
-src = "images/Einsetzen_der_Ruderboote_in_Lovosice_Dezember_2023.jpg"
-[[images]]
-title = "Weihnachtsmarkt Decin 2023"
-src = "images/Weihnachtsmarkt_Decin_2023.jpg"
-[[images]]
-title = "Ruderboot Elbsandstein Dezember 2023"
-src = "images/Ruderboot_Elbsandstein_Dezember_2023.jpg"
-[[images]]
-title = "Schleuse Usti Dezmber 2023 Ruderboot"
-src = "images/Schleuse_Usti_Dezmber_2023_Ruderboot.jpg"
-[[images]]
-title = "Ankunft in Decin Dezember 2023"
-src = "images/Ankunft_in_Decin_Dezember_2023.jpg"
-[[images]]
-title = "Aqua Hotel Decin 2023"
-src = "images/Aqua_Hotel_Decin_2023.jpg"
-[[images]]
-title = "Decin Ruderboote Dezember 2023"
-src = "images/Decin_Ruderboote_Dezember_2023.jpg"
-[[images]]
-title = "Steuermann im Elbsandsteingebirge 2023"
-src = "images/Steuermann_im_Elbsandsteingebirge_2023.jpg"
-[[images]]
-title = "Bastei an der Elbe 2023"
-src = "images/Bastei_an_der_Elbe_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-12-01"
+date: "2023-12-12T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Schmilka_an_der_Elbe_2023.jpg
+  title: Schmilka an der Elbe 2023
+- src: images/Einsetzen_der_Ruderboote_in_Lovosice_Dezember_2023.jpg
+  title: Einsetzen der Ruderboote in Lovosice Dezember 2023
+- src: images/Weihnachtsmarkt_Decin_2023.jpg
+  title: Weihnachtsmarkt Decin 2023
+- src: images/Ruderboot_Elbsandstein_Dezember_2023.jpg
+  title: Ruderboot Elbsandstein Dezember 2023
+- src: images/Schleuse_Usti_Dezmber_2023_Ruderboot.jpg
+  title: Schleuse Usti Dezmber 2023 Ruderboot
+- src: images/Ankunft_in_Decin_Dezember_2023.jpg
+  title: Ankunft in Decin Dezember 2023
+- src: images/Aqua_Hotel_Decin_2023.jpg
+  title: Aqua Hotel Decin 2023
+- src: images/Decin_Ruderboote_Dezember_2023.jpg
+  title: Decin Ruderboote Dezember 2023
+- src: images/Steuermann_im_Elbsandsteingebirge_2023.jpg
+  title: Steuermann im Elbsandsteingebirge 2023
+- src: images/Bastei_an_der_Elbe_2023.jpg
+  title: Bastei an der Elbe 2023
+länder: []
+title: Litomerice - Pirna 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

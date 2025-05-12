@@ -1,13 +1,13 @@
-+++
-title = "Abrudern Schmoeckwitz 07"
-author = ""
-date = 2007-10-10T01:00:00+02:00
-begin = "2007-10-01"
-"gewässer" = ["teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2007-10-01"
+date: "2007-10-10T01:00:00+02:00"
+gewässer:
+- teltowkanal
+länder: []
+title: Abrudern Schmoeckwitz 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

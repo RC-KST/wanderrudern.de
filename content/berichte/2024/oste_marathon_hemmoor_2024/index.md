@@ -1,37 +1,31 @@
-+++
-title = "Oste Marathon Hemmoor 2024"
-author = ""
-date = 2024-06-06T01:00:00+02:00
-begin = "2024-06-01"
-"gewässer" = ["oste", "oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Gesamtsieger Oste 2024 RC KST"
-src = "images/Gesamtsieger_Oste_2024_RC_KST.jpg"
-[[images]]
-title = "Ruderer RC KST Oste 2024"
-src = "images/Ruderer_RC_KST_Oste_2024.jpg"
-[[images]]
-title = "Oste Riff 2024 Ruderboote"
-src = "images/Oste_Riff_2024_Ruderboote.jpg"
-[[images]]
-title = "Oste Riff 2024 grosse Schiffe"
-src = "images/Oste_Riff_2024_grosse_Schiffe.jpg"
-[[images]]
-title = "Seehunde Oste 2024"
-src = "images/Seehunde_Oste_2024.jpg"
-[[images]]
-title = "Hemmoor 2024 AH-Zweier"
-src = "images/Hemmoor_2024_AH-Zweier.jpg"
-[[images]]
-title = "Hemmoor vor dem Steg 2024"
-src = "images/Hemmoor_vor_dem_Steg_2024.jpg"
-[[images]]
-title = "Container Frachter Oste 2024"
-src = "images/Container_Frachter_Oste_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-06-01"
+date: "2024-06-06T01:00:00+02:00"
+gewässer:
+- oste
+- oder
+images:
+- src: images/Gesamtsieger_Oste_2024_RC_KST.jpg
+  title: Gesamtsieger Oste 2024 RC KST
+- src: images/Ruderer_RC_KST_Oste_2024.jpg
+  title: Ruderer RC KST Oste 2024
+- src: images/Oste_Riff_2024_Ruderboote.jpg
+  title: Oste Riff 2024 Ruderboote
+- src: images/Oste_Riff_2024_grosse_Schiffe.jpg
+  title: Oste Riff 2024 grosse Schiffe
+- src: images/Seehunde_Oste_2024.jpg
+  title: Seehunde Oste 2024
+- src: images/Hemmoor_2024_AH-Zweier.jpg
+  title: Hemmoor 2024 AH-Zweier
+- src: images/Hemmoor_vor_dem_Steg_2024.jpg
+  title: Hemmoor vor dem Steg 2024
+- src: images/Container_Frachter_Oste_2024.jpg
+  title: Container Frachter Oste 2024
+länder: []
+title: Oste Marathon Hemmoor 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

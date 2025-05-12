@@ -1,28 +1,23 @@
-+++
-title = "Preisverleihung Berliner Wettbewerb 08"
-author = ""
-date = 2009-01-01T01:00:00+02:00
-begin = "2009-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Gewinner Sommerwettbewerb 08"
-src = "images/Gewinner_Sommerwettbewerb_08.jpg"
-[[images]]
-title = "Gewinner Sommerwettbewerb Männer 08"
-src = "images/Gewinner_Sommerwettbewerb_Manner_08.jpg"
-[[images]]
-title = "Ruderer vom KST am Steg beim BRC 09"
-src = "images/Ruderer_vom_KST_am_Steg_beim_BRC_09.jpg"
-[[images]]
-title = "Vierer vor der Wannseebrücke 09"
-src = "images/Vierer_vor_der_Wannseebrucke_09.jpg"
-[[images]]
-title = "Auf dem Heimweg nach Stahnsdorf 09"
-src = "images/Auf_dem_Heimweg_nach_Stahnsdorf_09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-01-01"
+date: "2009-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Gewinner_Sommerwettbewerb_08.jpg
+  title: Gewinner Sommerwettbewerb 08
+- src: images/Gewinner_Sommerwettbewerb_Manner_08.jpg
+  title: Gewinner Sommerwettbewerb Männer 08
+- src: images/Ruderer_vom_KST_am_Steg_beim_BRC_09.jpg
+  title: Ruderer vom KST am Steg beim BRC 09
+- src: images/Vierer_vor_der_Wannseebrucke_09.jpg
+  title: Vierer vor der Wannseebrücke 09
+- src: images/Auf_dem_Heimweg_nach_Stahnsdorf_09.jpg
+  title: Auf dem Heimweg nach Stahnsdorf 09
+länder: []
+title: Preisverleihung Berliner Wettbewerb 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

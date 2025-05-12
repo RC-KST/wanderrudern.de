@@ -1,4 +1,4 @@
-+++
-title = "Neuigkeiten"
-weight = 20
-+++
+---
+title: Neuigkeiten
+weight: 20
+---

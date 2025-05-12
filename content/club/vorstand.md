@@ -1,6 +1,6 @@
-+++
-title = "Vorstand"
-weight = 50
-+++
+---
+title: Vorstand
+weight: 50
+---
 
 {{< vorstand-table >}}

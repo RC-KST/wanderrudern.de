@@ -1,22 +1,22 @@
-+++
-title = "Oranienburg06"
-author = ""
-date = 2006-11-11T01:00:00+02:00
-begin = "2006-11-01"
-"gewässer" = ["havel", "neuendorfer see", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Levon steuert bei Nacht 06"
-src = "images/Levon_steuert_bei_Nacht_06.JPG"
-[[images]]
-title = "Ruderboot bei Nach in Spandau 06"
-src = "images/Ruderboot_bei_Nach_in_Spandau_06.JPG"
-[[images]]
-title = "Ruderer im Boot Oder Havel Kanal  06"
-src = "images/Ruderer_im_Boot_Oder_Havel_Kanal__06.JPG"
-
-+++
+---
+author: ""
+begin: "2006-11-01"
+date: "2006-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- neuendorfer see
+- bug
+images:
+- src: images/Levon_steuert_bei_Nacht_06.JPG
+  title: Levon steuert bei Nacht 06
+- src: images/Ruderboot_bei_Nach_in_Spandau_06.JPG
+  title: Ruderboot bei Nach in Spandau 06
+- src: images/Ruderer_im_Boot_Oder_Havel_Kanal__06.JPG
+  title: Ruderer im Boot Oder Havel Kanal  06
+länder: []
+title: Oranienburg06
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

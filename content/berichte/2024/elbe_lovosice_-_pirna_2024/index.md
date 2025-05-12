@@ -1,40 +1,33 @@
-+++
-title = "Elbe Lovosice - Pirna 2024"
-author = ""
-date = 2024-01-01T01:00:00+02:00
-begin = "2024-01-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote Lovosice Elbe Advent 2024"
-src = "images/Ruderboote_Lovosice_Elbe_Advent_2024.jpg"
-[[images]]
-title = "Weihnachtsdeko Lovosice 2024"
-src = "images/Weihnachtsdeko_Lovosice_2024.jpg"
-[[images]]
-title = "Killerfaehre vor der Bastei Advent 2024"
-src = "images/Killerfaehre_vor_der_Bastei_Advent_2024.jpg"
-[[images]]
-title = "Start in Lovosice Advent 2024"
-src = "images/Start_in_Lovosice_Advent_2024.jpg"
-[[images]]
-title = "Ruderboot Elb-Sandstein Gebirge Advent 2024"
-src = "images/Ruderboot_Elb-Sandstein_Gebirge_Advent_2024.jpg"
-[[images]]
-title = "Wanderrudern auf der Elbe im Advent 2024"
-src = "images/Wanderrudern_auf_der_Elbe_im_Advent_2024.jpg"
-[[images]]
-title = "Decin Advent 2024 Ruderboote"
-src = "images/Decin_Advent_2024_Ruderboote.jpg"
-[[images]]
-title = "Ruderer unter der Bastei Advent 2024"
-src = "images/Ruderer_unter_der_Bastei_Advent_2024.jpg"
-[[images]]
-title = "Ruderboote am Ziel in Pirna 2024"
-src = "images/Ruderboote_am_Ziel_in_Pirna_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-01-01"
+date: "2024-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Ruderboote_Lovosice_Elbe_Advent_2024.jpg
+  title: Ruderboote Lovosice Elbe Advent 2024
+- src: images/Weihnachtsdeko_Lovosice_2024.jpg
+  title: Weihnachtsdeko Lovosice 2024
+- src: images/Killerfaehre_vor_der_Bastei_Advent_2024.jpg
+  title: Killerfaehre vor der Bastei Advent 2024
+- src: images/Start_in_Lovosice_Advent_2024.jpg
+  title: Start in Lovosice Advent 2024
+- src: images/Ruderboot_Elb-Sandstein_Gebirge_Advent_2024.jpg
+  title: Ruderboot Elb-Sandstein Gebirge Advent 2024
+- src: images/Wanderrudern_auf_der_Elbe_im_Advent_2024.jpg
+  title: Wanderrudern auf der Elbe im Advent 2024
+- src: images/Decin_Advent_2024_Ruderboote.jpg
+  title: Decin Advent 2024 Ruderboote
+- src: images/Ruderer_unter_der_Bastei_Advent_2024.jpg
+  title: Ruderer unter der Bastei Advent 2024
+- src: images/Ruderboote_am_Ziel_in_Pirna_2024.jpg
+  title: Ruderboote am Ziel in Pirna 2024
+länder: []
+title: Elbe Lovosice - Pirna 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

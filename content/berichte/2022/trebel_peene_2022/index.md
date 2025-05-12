@@ -1,64 +1,49 @@
-+++
-title = "Trebel Peene 2022"
-author = ""
-date = 2022-06-06T01:00:00+02:00
-begin = "2022-06-01"
-"gewässer" = ["peene", "trebel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Wasserwanderrastplatz Tribsees Ruderboote 2022"
-src = "images/Wasserwanderrastplatz_Tribsees_Ruderboote_2022.jpg"
-[[images]]
-title = "Mecklenburger Landstrasse 2022"
-src = "images/Mecklenburger_Landstrasse_2022.jpg"
-[[images]]
-title = "Bootsanhänger am Fahrrad 2022"
-src = "images/Bootsanhanger_am_Fahrrad_2022.jpg"
-[[images]]
-title = "Boote abladen an der Trebel 2022"
-src = "images/Boote_abladen_an_der_Trebel_2022.jpg"
-[[images]]
-title = "Wasserwanderrastplatz Nehringen Trebel 2022"
-src = "images/Wasserwanderrastplatz_Nehringen_Trebel_2022.jpg"
-[[images]]
-title = "Nehringen Trebel Melone als Nachtisch 2022"
-src = "images/Nehringen_Trebel_Melone_als_Nachtisch_2022.jpg"
-[[images]]
-title = "Melina Sonnenbaden im Ruderboot Trebel 2022"
-src = "images/Melina_Sonnenbaden_im_Ruderboot_Trebel_2022.jpg"
-[[images]]
-title = "Johann im Ruderboot obere Trebel 2022"
-src = "images/Johann_im_Ruderboot_obere_Trebel_2022.jpg"
-[[images]]
-title = "Ruderboot Alte Trebel 2022"
-src = "images/Ruderboot_Alte_Trebel_2022.jpg"
-[[images]]
-title = "Ruderboote Alte Trebel blockiert 2022"
-src = "images/Ruderboote_Alte_Trebel_blockiert_2022.jpg"
-[[images]]
-title = "Ruderboote im Dschungel Trebel 2022"
-src = "images/Ruderboote_im_Dschungel_Trebel_2022.jpg"
-[[images]]
-title = "Trebel Ruderboote 2022"
-src = "images/Trebel_Ruderboote_2022.jpg"
-[[images]]
-title = "Historische Klappbrücke Nehringen Trebel 2022"
-src = "images/Historische_Klappbrucke_Nehringen_Trebel_2022.jpg"
-[[images]]
-title = "Studenten beim Biertrinken Trebel 2022"
-src = "images/Studenten_beim_Biertrinken_Trebel_2022.jpg"
-[[images]]
-title = "Timo mit großem Messer beim Melone schneiden Trebbel 2022"
-src = "images/Timo_mit_grossem_Messer_beim_Melone_schneiden_Trebbel_2022.jpg"
-[[images]]
-title = "Ruderer baden in der Trebel 2022"
-src = "images/Ruderer_baden_in_der_Trebel_2022.jpg"
-[[images]]
-title = "Abendidyll Nehringen Pferde an der Tränke 2022"
-src = "images/Abendidyll_Nehringen_Pferde_an_der_Tranke_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-06-01"
+date: "2022-06-06T01:00:00+02:00"
+gewässer:
+- peene
+- trebel
+images:
+- src: images/Wasserwanderrastplatz_Tribsees_Ruderboote_2022.jpg
+  title: Wasserwanderrastplatz Tribsees Ruderboote 2022
+- src: images/Mecklenburger_Landstrasse_2022.jpg
+  title: Mecklenburger Landstrasse 2022
+- src: images/Bootsanhanger_am_Fahrrad_2022.jpg
+  title: Bootsanhänger am Fahrrad 2022
+- src: images/Boote_abladen_an_der_Trebel_2022.jpg
+  title: Boote abladen an der Trebel 2022
+- src: images/Wasserwanderrastplatz_Nehringen_Trebel_2022.jpg
+  title: Wasserwanderrastplatz Nehringen Trebel 2022
+- src: images/Nehringen_Trebel_Melone_als_Nachtisch_2022.jpg
+  title: Nehringen Trebel Melone als Nachtisch 2022
+- src: images/Melina_Sonnenbaden_im_Ruderboot_Trebel_2022.jpg
+  title: Melina Sonnenbaden im Ruderboot Trebel 2022
+- src: images/Johann_im_Ruderboot_obere_Trebel_2022.jpg
+  title: Johann im Ruderboot obere Trebel 2022
+- src: images/Ruderboot_Alte_Trebel_2022.jpg
+  title: Ruderboot Alte Trebel 2022
+- src: images/Ruderboote_Alte_Trebel_blockiert_2022.jpg
+  title: Ruderboote Alte Trebel blockiert 2022
+- src: images/Ruderboote_im_Dschungel_Trebel_2022.jpg
+  title: Ruderboote im Dschungel Trebel 2022
+- src: images/Trebel_Ruderboote_2022.jpg
+  title: Trebel Ruderboote 2022
+- src: images/Historische_Klappbrucke_Nehringen_Trebel_2022.jpg
+  title: Historische Klappbrücke Nehringen Trebel 2022
+- src: images/Studenten_beim_Biertrinken_Trebel_2022.jpg
+  title: Studenten beim Biertrinken Trebel 2022
+- src: images/Timo_mit_grossem_Messer_beim_Melone_schneiden_Trebbel_2022.jpg
+  title: Timo mit großem Messer beim Melone schneiden Trebbel 2022
+- src: images/Ruderer_baden_in_der_Trebel_2022.jpg
+  title: Ruderer baden in der Trebel 2022
+- src: images/Abendidyll_Nehringen_Pferde_an_der_Tranke_2022.jpg
+  title: Abendidyll Nehringen Pferde an der Tränke 2022
+länder: []
+title: Trebel Peene 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

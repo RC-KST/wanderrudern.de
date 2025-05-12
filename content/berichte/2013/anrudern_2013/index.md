@@ -1,31 +1,25 @@
-+++
-title = "Anrudern 2013"
-author = ""
-date = 2013-03-03T01:00:00+02:00
-begin = "2013-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Nirina und LingLing mit dem Winsauerpreis Anrudern 2013"
-src = "images/Nirina_und_LingLing_mit_dem_Winsauerpreis_Anrudern_2013.jpg"
-[[images]]
-title = "Medaillen Pokale Anrudern RC KST 2013"
-src = "images/Medaillen_Pokale_Anrudern_RC_KST_2013.jpg"
-[[images]]
-title = "Boote vom Schnee befreien Anrudern 2013"
-src = "images/Boote_vom_Schnee_befreien_Anrudern_2013.jpg"
-[[images]]
-title = "Bootstaufe Barbar"
-src = "images/Bootstaufe_Barbar.jpg"
-[[images]]
-title = "Bootstaufe Hjaelmaren"
-src = "images/Bootstaufe_Hjaelmaren.jpg"
-[[images]]
-title = "Anrudern im Schnee 2013"
-src = "images/Anrudern_im_Schnee_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-03-01"
+date: "2013-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Nirina_und_LingLing_mit_dem_Winsauerpreis_Anrudern_2013.jpg
+  title: Nirina und LingLing mit dem Winsauerpreis Anrudern 2013
+- src: images/Medaillen_Pokale_Anrudern_RC_KST_2013.jpg
+  title: Medaillen Pokale Anrudern RC KST 2013
+- src: images/Boote_vom_Schnee_befreien_Anrudern_2013.jpg
+  title: Boote vom Schnee befreien Anrudern 2013
+- src: images/Bootstaufe_Barbar.jpg
+  title: Bootstaufe Barbar
+- src: images/Bootstaufe_Hjaelmaren.jpg
+  title: Bootstaufe Hjaelmaren
+- src: images/Anrudern_im_Schnee_2013.jpg
+  title: Anrudern im Schnee 2013
+länder: []
+title: Anrudern 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

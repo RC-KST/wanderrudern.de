@@ -1,13 +1,15 @@
-+++
-title = "Klein Koeris 2003"
-author = ""
-date = 2003-01-01T01:00:00+02:00
-begin = "2003-01-01"
-"gewässer" = ["dahme", "spree", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2003-01-01"
+date: "2003-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+länder: []
+title: Klein Koeris 2003
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

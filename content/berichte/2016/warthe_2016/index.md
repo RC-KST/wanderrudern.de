@@ -1,61 +1,47 @@
-+++
-title = "Warthe 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["warthe"]
-"länder" = ["polen"]
-"typ" = "marathon"
-[[images]]
-title = "Kolo Hotel Sara Warthe 2016"
-src = "images/Kolo_Hotel_Sara_Warthe_2016.jpg"
-[[images]]
-title = "Quartier beim Obstbauern Warthe 2016"
-src = "images/Quartier_beim_Obstbauern_Warthe_2016.jpg"
-[[images]]
-title = "Poznan Hostel Petit im Hinterhof Warthe 2016"
-src = "images/Poznan_Hostel_Petit_im_Hinterhof_Warthe_2016.jpg"
-[[images]]
-title = "Landkarte Warthe 2016"
-src = "images/Landkarte_Warthe_2016.jpg"
-[[images]]
-title = "Ablegen Kolo Warthe 2016"
-src = "images/Ablegen_Kolo_Warthe_2016.jpg"
-[[images]]
-title = "Polnische Seilfaehre auf der Warthe 2016"
-src = "images/Polnische_Seilfaehre_auf_der_Warthe_2016.jpg"
-[[images]]
-title = "Warthe Idyll mit Ruderboot 2016"
-src = "images/Warthe_Idyll_mit_Ruderboot_2016.jpg"
-[[images]]
-title = "Bieber sind gut zur Natur Warthe 2016"
-src = "images/Bieber_sind_gut_zur_Natur_Warthe_2016.jpg"
-[[images]]
-title = "Girlie Zweier auf der Warthe 2016"
-src = "images/Girlie_Zweier_auf_der_Warthe_2016.jpg"
-[[images]]
-title = "Schulze mit Zaubertrank Warthe 2016"
-src = "images/Schulze_mit_Zaubertrank_Warthe_2016.jpg"
-[[images]]
-title = "Dreier in Posen Warthe 2016"
-src = "images/Dreier_in_Posen_Warthe_2016.jpg"
-[[images]]
-title = "Landdienst mit Storch Warthe 2016"
-src = "images/Landdienst_mit_Storch_Warthe_2016.jpg"
-[[images]]
-title = "Polnische Seilfaehre Warthe 2016"
-src = "images/Polnische_Seilfaehre_Warthe_2016.jpg"
-[[images]]
-title = "Baumgarten E-Dreier auf der Warthe 2016"
-src = "images/Baumgarten_E-Dreier_auf_der_Warthe_2016.jpg"
-[[images]]
-title = "Zweier auf der Warthe 2016"
-src = "images/Zweier_auf_der_Warthe_2016.jpg"
-[[images]]
-title = "Aufladen in Gorzow Warthe 2016"
-src = "images/Aufladen_in_Gorzow_Warthe_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Kolo_Hotel_Sara_Warthe_2016.jpg
+  title: Kolo Hotel Sara Warthe 2016
+- src: images/Quartier_beim_Obstbauern_Warthe_2016.jpg
+  title: Quartier beim Obstbauern Warthe 2016
+- src: images/Poznan_Hostel_Petit_im_Hinterhof_Warthe_2016.jpg
+  title: Poznan Hostel Petit im Hinterhof Warthe 2016
+- src: images/Landkarte_Warthe_2016.jpg
+  title: Landkarte Warthe 2016
+- src: images/Ablegen_Kolo_Warthe_2016.jpg
+  title: Ablegen Kolo Warthe 2016
+- src: images/Polnische_Seilfaehre_auf_der_Warthe_2016.jpg
+  title: Polnische Seilfaehre auf der Warthe 2016
+- src: images/Warthe_Idyll_mit_Ruderboot_2016.jpg
+  title: Warthe Idyll mit Ruderboot 2016
+- src: images/Bieber_sind_gut_zur_Natur_Warthe_2016.jpg
+  title: Bieber sind gut zur Natur Warthe 2016
+- src: images/Girlie_Zweier_auf_der_Warthe_2016.jpg
+  title: Girlie Zweier auf der Warthe 2016
+- src: images/Schulze_mit_Zaubertrank_Warthe_2016.jpg
+  title: Schulze mit Zaubertrank Warthe 2016
+- src: images/Dreier_in_Posen_Warthe_2016.jpg
+  title: Dreier in Posen Warthe 2016
+- src: images/Landdienst_mit_Storch_Warthe_2016.jpg
+  title: Landdienst mit Storch Warthe 2016
+- src: images/Polnische_Seilfaehre_Warthe_2016.jpg
+  title: Polnische Seilfaehre Warthe 2016
+- src: images/Baumgarten_E-Dreier_auf_der_Warthe_2016.jpg
+  title: Baumgarten E-Dreier auf der Warthe 2016
+- src: images/Zweier_auf_der_Warthe_2016.jpg
+  title: Zweier auf der Warthe 2016
+- src: images/Aufladen_in_Gorzow_Warthe_2016.jpg
+  title: Aufladen in Gorzow Warthe 2016
+länder:
+- polen
+title: Warthe 2016
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

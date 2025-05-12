@@ -1,40 +1,35 @@
-+++
-title = "Bundeskanzleramt 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["spree", "teltowkanal", "wannsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Spreebogen Kanzleramt 2012"
-src = "images/Spreebogen_Kanzleramt_2012.jpg"
-[[images]]
-title = "Ruderboot auf der Spree nahe dem Regierungsviertel 2012"
-src = "images/Ruderboot_auf_der_Spree_nahe_dem_Regierungsviertel_2012.jpg"
-[[images]]
-title = "kongresshalle 2012"
-src = "images/kongresshalle_2012.jpg"
-[[images]]
-title = "Bundeskanzleramt vom Wasser aus 2012"
-src = "images/Bundeskanzleramt_vom_Wasser_aus_2012.jpg"
-[[images]]
-title = "Spandau Nebenarm BKA2012"
-src = "images/Spandau_Nebenarm_BKA2012.jpg"
-[[images]]
-title = "Ghettogangsta auf dem Rudersteg 2012"
-src = "images/Ghettogangsta_auf_dem_Rudersteg_2012.jpg"
-[[images]]
-title = "Scharfe Lanke Januar 2012"
-src = "images/Scharfe_Lanke_Januar_2012.jpg"
-[[images]]
-title = "Dresdenia 2012 Januar"
-src = "images/Dresdenia_2012_Januar.jpg"
-[[images]]
-title = "Grunewaldturm Januar 2012"
-src = "images/Grunewaldturm_Januar_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- spree
+- teltowkanal
+- wannsee
+- oder
+images:
+- src: images/Spreebogen_Kanzleramt_2012.jpg
+  title: Spreebogen Kanzleramt 2012
+- src: images/Ruderboot_auf_der_Spree_nahe_dem_Regierungsviertel_2012.jpg
+  title: Ruderboot auf der Spree nahe dem Regierungsviertel 2012
+- src: images/kongresshalle_2012.jpg
+  title: kongresshalle 2012
+- src: images/Bundeskanzleramt_vom_Wasser_aus_2012.jpg
+  title: Bundeskanzleramt vom Wasser aus 2012
+- src: images/Spandau_Nebenarm_BKA2012.jpg
+  title: Spandau Nebenarm BKA2012
+- src: images/Ghettogangsta_auf_dem_Rudersteg_2012.jpg
+  title: Ghettogangsta auf dem Rudersteg 2012
+- src: images/Scharfe_Lanke_Januar_2012.jpg
+  title: Scharfe Lanke Januar 2012
+- src: images/Dresdenia_2012_Januar.jpg
+  title: Dresdenia 2012 Januar
+- src: images/Grunewaldturm_Januar_2012.jpg
+  title: Grunewaldturm Januar 2012
+länder: []
+title: Bundeskanzleramt 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

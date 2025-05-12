@@ -1,22 +1,21 @@
-+++
-title = "Main 2018"
-author = ""
-date = 2018-05-05T01:00:00+02:00
-begin = "2018-05-01"
-"gewässer" = ["main", "aller"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "WRT 2018 Aequatorpreis Nirina"
-src = "images/WRT_2018_Aequatorpreis_Nirina.jpg"
-[[images]]
-title = "Aequatorpreiskuchen Nirina 2018"
-src = "images/Aequatorpreiskuchen_Nirina_2018.jpg"
-[[images]]
-title = "Nirina mit Aequatorpreis 2018"
-src = "images/Nirina_mit_Aequatorpreis_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-05-01"
+date: "2018-05-05T01:00:00+02:00"
+gewässer:
+- main
+- aller
+images:
+- src: images/WRT_2018_Aequatorpreis_Nirina.jpg
+  title: WRT 2018 Aequatorpreis Nirina
+- src: images/Aequatorpreiskuchen_Nirina_2018.jpg
+  title: Aequatorpreiskuchen Nirina 2018
+- src: images/Nirina_mit_Aequatorpreis_2018.jpg
+  title: Nirina mit Aequatorpreis 2018
+länder: []
+title: Main 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

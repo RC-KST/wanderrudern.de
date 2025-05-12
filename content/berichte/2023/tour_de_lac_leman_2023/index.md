@@ -1,76 +1,57 @@
-+++
-title = "Tour de Lac Leman 2023"
-author = ""
-date = 2023-05-05T01:00:00+02:00
-begin = "2023-05-01"
-"gewässer" = ["lac leman"]
-"länder" = ["schweiz"]
-"typ" = "marathon"
-[[images]]
-title = "Ruderer im Bunker Genf 2023"
-src = "images/Ruderer_im_Bunker_Genf_2023.jpg"
-[[images]]
-title = "Boote auf Tour du Lac vorbereiten 2023"
-src = "images/Boote_auf_Tour_du_Lac_vorbereiten_2023.jpg"
-[[images]]
-title = "Genf 2023 Marathon Boot vorbereiten"
-src = "images/Genf_2023_Marathon_Boot_vorbereiten.jpg"
-[[images]]
-title = "Genf Ruderer Tour du Lac 2023"
-src = "images/Genf_Ruderer_Tour_du_Lac_2023.jpg"
-[[images]]
-title = "Ruderer Genf vor dem Start 2023"
-src = "images/Ruderer_Genf_vor_dem_Start_2023.jpg"
-[[images]]
-title = "Boote vor dem Start Genf 2023"
-src = "images/Boote_vor_dem_Start_Genf_2023.jpg"
-[[images]]
-title = "Baumgarten Marathon Genfer See 2023"
-src = "images/Baumgarten_Marathon_Genfer_See_2023.jpg"
-[[images]]
-title = "Kleinmachnower Ruderboot auf der Tour du Lac Leman 2023"
-src = "images/Kleinmachnower_Ruderboot_auf_der_Tour_du_Lac_Leman_2023.jpg"
-[[images]]
-title = "Fanclub Kleinmachnow in Genf 2023"
-src = "images/Fanclub_Kleinmachnow_in_Genf_2023.jpg"
-[[images]]
-title = "Baumgarten Marathon Vierer Tour du Lac Leman 2023"
-src = "images/Baumgarten_Marathon_Vierer_Tour_du_Lac_Leman_2023.jpg"
-[[images]]
-title = "Wendetonne Rivaz Tour du Lac Leman 2023"
-src = "images/Wendetonne_Rivaz_Tour_du_Lac_Leman_2023.jpg"
-[[images]]
-title = "Shannon in Genf 2023"
-src = "images/Shannon_in_Genf_2023.jpg"
-[[images]]
-title = "Kleinmachnower Ruderer dritter Platz Tour du Lac Leman 2023"
-src = "images/Kleinmachnower_Ruderer_dritter_Platz_Tour_du_Lac_Leman_2023.jpg"
-[[images]]
-title = "Zweier Platz Lac Leman 2023"
-src = "images/Zweier_Platz_Lac_Leman_2023.jpg"
-[[images]]
-title = "Dritter Platz auf der Tour du Lac Leman 2023"
-src = "images/Dritter_Platz_auf_der_Tour_du_Lac_Leman_2023.jpg"
-[[images]]
-title = "Lars prüft die Wasserqualität am Genfer See 2023"
-src = "images/Lars_pruft_die_Wasserqualitat_am_Genfer_See_2023.jpg"
-[[images]]
-title = "Kleinmachnower Ruderer vor dem Genfer See 2023"
-src = "images/Kleinmachnower_Ruderer_vor_dem_Genfer_See_2023.jpg"
-[[images]]
-title = "Genf Nachspeise 2023"
-src = "images/Genf_Nachspeise_2023.jpg"
-[[images]]
-title = "Genf Vorspeise 2023"
-src = "images/Genf_Vorspeise_2023.jpg"
-[[images]]
-title = "Genf Hauptgericht 2023"
-src = "images/Genf_Hauptgericht_2023.jpg"
-[[images]]
-title = "Sieger Lac Leman 2023"
-src = "images/Sieger_Lac_Leman_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-05-01"
+date: "2023-05-05T01:00:00+02:00"
+gewässer:
+- lac leman
+images:
+- src: images/Ruderer_im_Bunker_Genf_2023.jpg
+  title: Ruderer im Bunker Genf 2023
+- src: images/Boote_auf_Tour_du_Lac_vorbereiten_2023.jpg
+  title: Boote auf Tour du Lac vorbereiten 2023
+- src: images/Genf_2023_Marathon_Boot_vorbereiten.jpg
+  title: Genf 2023 Marathon Boot vorbereiten
+- src: images/Genf_Ruderer_Tour_du_Lac_2023.jpg
+  title: Genf Ruderer Tour du Lac 2023
+- src: images/Ruderer_Genf_vor_dem_Start_2023.jpg
+  title: Ruderer Genf vor dem Start 2023
+- src: images/Boote_vor_dem_Start_Genf_2023.jpg
+  title: Boote vor dem Start Genf 2023
+- src: images/Baumgarten_Marathon_Genfer_See_2023.jpg
+  title: Baumgarten Marathon Genfer See 2023
+- src: images/Kleinmachnower_Ruderboot_auf_der_Tour_du_Lac_Leman_2023.jpg
+  title: Kleinmachnower Ruderboot auf der Tour du Lac Leman 2023
+- src: images/Fanclub_Kleinmachnow_in_Genf_2023.jpg
+  title: Fanclub Kleinmachnow in Genf 2023
+- src: images/Baumgarten_Marathon_Vierer_Tour_du_Lac_Leman_2023.jpg
+  title: Baumgarten Marathon Vierer Tour du Lac Leman 2023
+- src: images/Wendetonne_Rivaz_Tour_du_Lac_Leman_2023.jpg
+  title: Wendetonne Rivaz Tour du Lac Leman 2023
+- src: images/Shannon_in_Genf_2023.jpg
+  title: Shannon in Genf 2023
+- src: images/Kleinmachnower_Ruderer_dritter_Platz_Tour_du_Lac_Leman_2023.jpg
+  title: Kleinmachnower Ruderer dritter Platz Tour du Lac Leman 2023
+- src: images/Zweier_Platz_Lac_Leman_2023.jpg
+  title: Zweier Platz Lac Leman 2023
+- src: images/Dritter_Platz_auf_der_Tour_du_Lac_Leman_2023.jpg
+  title: Dritter Platz auf der Tour du Lac Leman 2023
+- src: images/Lars_pruft_die_Wasserqualitat_am_Genfer_See_2023.jpg
+  title: Lars prüft die Wasserqualität am Genfer See 2023
+- src: images/Kleinmachnower_Ruderer_vor_dem_Genfer_See_2023.jpg
+  title: Kleinmachnower Ruderer vor dem Genfer See 2023
+- src: images/Genf_Nachspeise_2023.jpg
+  title: Genf Nachspeise 2023
+- src: images/Genf_Vorspeise_2023.jpg
+  title: Genf Vorspeise 2023
+- src: images/Genf_Hauptgericht_2023.jpg
+  title: Genf Hauptgericht 2023
+- src: images/Sieger_Lac_Leman_2023.jpg
+  title: Sieger Lac Leman 2023
+länder:
+- schweiz
+title: Tour de Lac Leman 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

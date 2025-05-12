@@ -1,19 +1,22 @@
-+++
-title = "Spreewald 1999"
-author = ""
-date = 1999-05-05T01:00:00+02:00
-begin = "1999-05-01"
-"gewässer" = ["spree", "teltowkanal", "spreewald", "wannsee", "neuendorfer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "spreewald schleuse ruderboot"
-src = "images/spreewald2.jpg"
-[[images]]
-title = "spreewald im regen ruderboot"
-src = "images/spreewald3.jpg"
-
-+++
+---
+author: ""
+begin: "1999-05-01"
+date: "1999-05-05T01:00:00+02:00"
+gewässer:
+- spree
+- teltowkanal
+- spreewald
+- wannsee
+- neuendorfer see
+images:
+- src: images/spreewald2.jpg
+  title: spreewald schleuse ruderboot
+- src: images/spreewald3.jpg
+  title: spreewald im regen ruderboot
+länder: []
+title: Spreewald 1999
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

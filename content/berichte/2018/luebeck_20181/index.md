@@ -1,64 +1,48 @@
-+++
-title = "Luebeck 2018"
-author = ""
-date = 2018-07-07T01:00:00+02:00
-begin = "2018-07-01"
-"gewässer" = ["ostsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schiff direkt vor dem Rudersteg Lübeck 2018"
-src = "images/Schiff_direkt_vor_dem_Rudersteg_Lubeck_2018.jpg"
-[[images]]
-title = "Schiffe am kai Luebeck 2018"
-src = "images/Schiffe_am_kai_Luebeck_2018.jpg"
-[[images]]
-title = "Kindervierer vor Travemünde Strand 2018"
-src = "images/Kindervierer_vor_Travemunde_Strand_2018.jpg"
-[[images]]
-title = "Lubecker RG start der Ruderboote 2018"
-src = "images/Lubecker_RG_start_der_Ruderboote_2018.jpg"
-[[images]]
-title = "Travemuende Ruderboot Strand 2018"
-src = "images/Travemuende_Ruderboot_Strand_2018.jpg"
-[[images]]
-title = "Travemünde Ruderboote 2018"
-src = "images/Travemunde_Ruderboote_2018.jpg"
-[[images]]
-title = "Hafendurchfahrt travemünde 2018"
-src = "images/Hafendurchfahrt_travemunde_2018.jpg"
-[[images]]
-title = "vor dem Leuchtturm Travemünde 2018"
-src = "images/vor_dem_Leuchtturm_Travemunde_2018.jpg"
-[[images]]
-title = "Zweier auf der Ostsee Travemünde 2018"
-src = "images/Zweier_auf_der_Ostsee_Travemunde_2018.jpg"
-[[images]]
-title = "Luebeck Rathaus 2018"
-src = "images/Luebeck_Rathaus_2018.jpg"
-[[images]]
-title = "Abendessen Lubeck Ruderer 2018"
-src = "images/Abendessen_Lubeck_Ruderer_2018.jpg"
-[[images]]
-title = "Johanna am Grill Luebeck 2018"
-src = "images/Johanna_am_Grill_Luebeck_2018.jpg"
-[[images]]
-title = "Holstentor Luebeck 2018"
-src = "images/Holstentor_Luebeck_2018.jpg"
-[[images]]
-title = "Niederegger Luebeck 2018"
-src = "images/Niederegger_Luebeck_2018.jpg"
-[[images]]
-title = "obere Trave Luebeck 2018"
-src = "images/obere_Trave_Luebeck_2018.jpg"
-[[images]]
-title = "Badenixe am Strand Luebeck 2018"
-src = "images/Badenixe_am_Strand_Luebeck_2018.jpg"
-[[images]]
-title = "Zweier auf der oberen Trave 2018"
-src = "images/Zweier_auf_der_oberen_Trave_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-07-01"
+date: "2018-07-07T01:00:00+02:00"
+gewässer:
+- ostsee
+images:
+- src: images/Schiff_direkt_vor_dem_Rudersteg_Lubeck_2018.jpg
+  title: Schiff direkt vor dem Rudersteg Lübeck 2018
+- src: images/Schiffe_am_kai_Luebeck_2018.jpg
+  title: Schiffe am kai Luebeck 2018
+- src: images/Kindervierer_vor_Travemunde_Strand_2018.jpg
+  title: Kindervierer vor Travemünde Strand 2018
+- src: images/Lubecker_RG_start_der_Ruderboote_2018.jpg
+  title: Lubecker RG start der Ruderboote 2018
+- src: images/Travemuende_Ruderboot_Strand_2018.jpg
+  title: Travemuende Ruderboot Strand 2018
+- src: images/Travemunde_Ruderboote_2018.jpg
+  title: Travemünde Ruderboote 2018
+- src: images/Hafendurchfahrt_travemunde_2018.jpg
+  title: Hafendurchfahrt travemünde 2018
+- src: images/vor_dem_Leuchtturm_Travemunde_2018.jpg
+  title: vor dem Leuchtturm Travemünde 2018
+- src: images/Zweier_auf_der_Ostsee_Travemunde_2018.jpg
+  title: Zweier auf der Ostsee Travemünde 2018
+- src: images/Luebeck_Rathaus_2018.jpg
+  title: Luebeck Rathaus 2018
+- src: images/Abendessen_Lubeck_Ruderer_2018.jpg
+  title: Abendessen Lubeck Ruderer 2018
+- src: images/Johanna_am_Grill_Luebeck_2018.jpg
+  title: Johanna am Grill Luebeck 2018
+- src: images/Holstentor_Luebeck_2018.jpg
+  title: Holstentor Luebeck 2018
+- src: images/Niederegger_Luebeck_2018.jpg
+  title: Niederegger Luebeck 2018
+- src: images/obere_Trave_Luebeck_2018.jpg
+  title: obere Trave Luebeck 2018
+- src: images/Badenixe_am_Strand_Luebeck_2018.jpg
+  title: Badenixe am Strand Luebeck 2018
+- src: images/Zweier_auf_der_oberen_Trave_2018.jpg
+  title: Zweier auf der oberen Trave 2018
+länder: []
+title: Luebeck 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

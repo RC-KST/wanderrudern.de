@@ -1,19 +1,19 @@
-+++
-title = "Berliner Abrudern 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["spree", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Abrudern Berlin 2010"
-src = "images/Abrudern_Berlin_2010.jpg"
-[[images]]
-title = "Orivesi legt ab Abrudern Berlin 2010"
-src = "images/Orivesi_legt_ab_Abrudern_Berlin_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- spree
+- teltowkanal
+images:
+- src: images/Abrudern_Berlin_2010.jpg
+  title: Abrudern Berlin 2010
+- src: images/Orivesi_legt_ab_Abrudern_Berlin_2010.jpg
+  title: Orivesi legt ab Abrudern Berlin 2010
+länder: []
+title: Berliner Abrudern 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,19 @@
-+++
-title = "Schulrudern Kant 2018"
-author = ""
-date = 2018-09-09T01:00:00+02:00
-begin = "2018-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kant Schulrudern 2018 Pohlesee am Strand"
-src = "images/Kant_Schulrudern_2018_Pohlesee_am_Strand.jpg"
-[[images]]
-title = "Kant Schulrudern mit 8 Booten 2018"
-src = "images/Kant_Schulrudern_mit_8_Booten_2018.jpg"
-[[images]]
-title = "Anfaengerausbildung Kant wir arbeiten noch dran 2018"
-src = "images/Anfaengerausbildung_Kant_wir_arbeiten_noch_dran_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-09-01"
+date: "2018-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kant_Schulrudern_2018_Pohlesee_am_Strand.jpg
+  title: Kant Schulrudern 2018 Pohlesee am Strand
+- src: images/Kant_Schulrudern_mit_8_Booten_2018.jpg
+  title: Kant Schulrudern mit 8 Booten 2018
+- src: images/Anfaengerausbildung_Kant_wir_arbeiten_noch_dran_2018.jpg
+  title: Anfaengerausbildung Kant wir arbeiten noch dran 2018
+länder: []
+title: Schulrudern Kant 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,67 +1,53 @@
-+++
-title = "Moder Rhein 2024"
-author = ""
-date = 2024-02-02T01:00:00+02:00
-begin = "2024-02-01"
-"gewässer" = ["rhein", "neckar", "moder", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Einstieg an der Moder 2024"
-src = "images/Einstieg_an_der_Moder_2024.jpg"
-[[images]]
-title = "Moder 2024 letztes Hindernis"
-src = "images/Moder_2024_letztes_Hindernis.jpg"
-[[images]]
-title = "Carlos Maria Bingen 2024"
-src = "images/Carlos_Maria_Bingen_2024.jpg"
-[[images]]
-title = "Schiffsverkehr auf dem Rhein Februar 2024"
-src = "images/Schiffsverkehr_auf_dem_Rhein_Februar_2024.jpg"
-[[images]]
-title = "Köln Innenstadt im Ruderboot Februar 2024"
-src = "images/Koln_Innenstadt_im_Ruderboot_Februar_2024.jpg"
-[[images]]
-title = "Homberg die Stadt im Grünen Februar 2024"
-src = "images/Homberg_die_Stadt_im_Grunen_Februar_2024.jpg"
-[[images]]
-title = "Moder 2024 mit Baum gesperrt"
-src = "images/Moder_2024_mit_Baum_gesperrt.jpg"
-[[images]]
-title = "Moder 2024 Vierer umtragen"
-src = "images/Moder_2024_Vierer_umtragen.jpg"
-[[images]]
-title = "Moder 2024 umtragen"
-src = "images/Moder_2024_umtragen.jpg"
-[[images]]
-title = "mannheim Neckar 2024"
-src = "images/mannheim_Neckar_2024.jpg"
-[[images]]
-title = "Hafenbecke Karlsruhe 2024"
-src = "images/Hafenbecke_Karlsruhe_2024.jpg"
-[[images]]
-title = "Goldfische im Ruderkasten Mannheim 2024"
-src = "images/Goldfische_im_Ruderkasten_Mannheim_2024.jpg"
-[[images]]
-title = "Rudervierer St Goar Februar 2024"
-src = "images/Rudervierer_St_Goar_Februar_2024.jpg"
-[[images]]
-title = "MIchel vor der Lorelei Februar 2024"
-src = "images/MIchel_vor_der_Lorelei_Februar_2024.jpg"
-[[images]]
-title = "Ruderboot Bonn Februar 2024"
-src = "images/Ruderboot_Bonn_Februar_2024.jpg"
-[[images]]
-title = "Schleppzug auf dem Rhein 2024"
-src = "images/Schleppzug_auf_dem_Rhein_2024.jpg"
-[[images]]
-title = "Niederrhein Februar 2024"
-src = "images/Niederrhein_Februar_2024.jpg"
-[[images]]
-title = "Maria Carlos WaWa in Dormagen Februar 2024"
-src = "images/Maria_Carlos_WaWa_in_Dormagen_Februar_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-02-01"
+date: "2024-02-02T01:00:00+02:00"
+gewässer:
+- rhein
+- neckar
+- moder
+- oder
+images:
+- src: images/Einstieg_an_der_Moder_2024.jpg
+  title: Einstieg an der Moder 2024
+- src: images/Moder_2024_letztes_Hindernis.jpg
+  title: Moder 2024 letztes Hindernis
+- src: images/Carlos_Maria_Bingen_2024.jpg
+  title: Carlos Maria Bingen 2024
+- src: images/Schiffsverkehr_auf_dem_Rhein_Februar_2024.jpg
+  title: Schiffsverkehr auf dem Rhein Februar 2024
+- src: images/Koln_Innenstadt_im_Ruderboot_Februar_2024.jpg
+  title: Köln Innenstadt im Ruderboot Februar 2024
+- src: images/Homberg_die_Stadt_im_Grunen_Februar_2024.jpg
+  title: Homberg die Stadt im Grünen Februar 2024
+- src: images/Moder_2024_mit_Baum_gesperrt.jpg
+  title: Moder 2024 mit Baum gesperrt
+- src: images/Moder_2024_Vierer_umtragen.jpg
+  title: Moder 2024 Vierer umtragen
+- src: images/Moder_2024_umtragen.jpg
+  title: Moder 2024 umtragen
+- src: images/mannheim_Neckar_2024.jpg
+  title: mannheim Neckar 2024
+- src: images/Hafenbecke_Karlsruhe_2024.jpg
+  title: Hafenbecke Karlsruhe 2024
+- src: images/Goldfische_im_Ruderkasten_Mannheim_2024.jpg
+  title: Goldfische im Ruderkasten Mannheim 2024
+- src: images/Rudervierer_St_Goar_Februar_2024.jpg
+  title: Rudervierer St Goar Februar 2024
+- src: images/MIchel_vor_der_Lorelei_Februar_2024.jpg
+  title: MIchel vor der Lorelei Februar 2024
+- src: images/Ruderboot_Bonn_Februar_2024.jpg
+  title: Ruderboot Bonn Februar 2024
+- src: images/Schleppzug_auf_dem_Rhein_2024.jpg
+  title: Schleppzug auf dem Rhein 2024
+- src: images/Niederrhein_Februar_2024.jpg
+  title: Niederrhein Februar 2024
+- src: images/Maria_Carlos_WaWa_in_Dormagen_Februar_2024.jpg
+  title: Maria Carlos WaWa in Dormagen Februar 2024
+länder: []
+title: Moder Rhein 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

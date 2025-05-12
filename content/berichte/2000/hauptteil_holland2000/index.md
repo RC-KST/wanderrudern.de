@@ -1,40 +1,38 @@
-+++
-title = "Wesermarathon 2000"
-author = ""
-date = 2000-04-04T01:00:00+02:00
-begin = "2000-04-01"
-"gewässer" = ["ijssel", "ijsselmeer", "weser", "elbe", "oste", "nordsee", "bug"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Hausboot in Lemmer Ruderergepäck"
-src = "images/hausboot_lemmer.jpg"
-[[images]]
-title = "Grachtenfahrt mit Ruderboot"
-src = "images/stadt.jpg"
-[[images]]
-title = "Ruder-Zweier in Friesland"
-src = "images/boot_kanal.jpg"
-[[images]]
-title = "Ostern baden in der Nordsee Martina"
-src = "images/brandung_martina.jpg"
-[[images]]
-title = "Dünengürtel auf Schiermonnikoog"
-src = "images/duenen.jpg"
-[[images]]
-title = "Holländischer Kanal mit Windmühle Rudereboot"
-src = "images/windmuehlen.jpg"
-[[images]]
-title = "Karte lesen als Steuermann im Ruderboot"
-src = "images/christopher.jpg"
-[[images]]
-title = "Geert am Steuer des Hausboots"
-src = "images/geert_boot.jpg"
-[[images]]
-title = "Ruderzweier vor Blumenmeer in Holland"
-src = "images/tulpen.jpg"
-
-+++
+---
+author: ""
+begin: "2000-04-01"
+date: "2000-04-04T01:00:00+02:00"
+gewässer:
+- ijssel
+- ijsselmeer
+- weser
+- elbe
+- oste
+- nordsee
+- bug
+images:
+- src: images/hausboot_lemmer.jpg
+  title: Hausboot in Lemmer Ruderergepäck
+- src: images/stadt.jpg
+  title: Grachtenfahrt mit Ruderboot
+- src: images/boot_kanal.jpg
+  title: Ruder-Zweier in Friesland
+- src: images/brandung_martina.jpg
+  title: Ostern baden in der Nordsee Martina
+- src: images/duenen.jpg
+  title: Dünengürtel auf Schiermonnikoog
+- src: images/windmuehlen.jpg
+  title: Holländischer Kanal mit Windmühle Rudereboot
+- src: images/christopher.jpg
+  title: Karte lesen als Steuermann im Ruderboot
+- src: images/geert_boot.jpg
+  title: Geert am Steuer des Hausboots
+- src: images/tulpen.jpg
+  title: Ruderzweier vor Blumenmeer in Holland
+länder: []
+title: Wesermarathon 2000
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

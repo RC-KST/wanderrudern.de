@@ -1,13 +1,13 @@
-+++
-title = "Masuren Berlin 09"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["narew"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- narew
+länder: []
+title: Masuren Berlin 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

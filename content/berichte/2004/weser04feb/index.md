@@ -1,13 +1,14 @@
-+++
-title = "Weser 2004 Februar"
-author = ""
-date = 2004-01-01T01:00:00+02:00
-begin = "2004-01-01"
-"gewässer" = ["weser", "aller"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2004-01-01"
+date: "2004-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- aller
+länder: []
+title: Weser 2004 Februar
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

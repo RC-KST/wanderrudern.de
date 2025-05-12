@@ -1,37 +1,31 @@
-+++
-title = "Wesermarathon 2017"
-author = ""
-date = 2017-05-05T01:00:00+02:00
-begin = "2017-05-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Sieger Wesermarathon 2017"
-src = "images/Sieger_Wesermarathon_2017.jpg"
-[[images]]
-title = "Beverungen nach 52 km Wesermarathon 2017"
-src = "images/Beverungen_nach_52_km_Wesermarathon_2017.jpg"
-[[images]]
-title = "Fulda Vorfahrt 2017"
-src = "images/Fulda_Vorfahrt_2017.jpg"
-[[images]]
-title = "Umtragen Schleuse Kassel 2017"
-src = "images/Umtragen_Schleuse_Kassel_2017.jpg"
-[[images]]
-title = "Schleuse Hann Muenden 2017"
-src = "images/Schleuse_Hann_Muenden_2017.jpg"
-[[images]]
-title = "Schulze mit Maerchenbier 2017"
-src = "images/Schulze_mit_Maerchenbier_2017.jpg"
-[[images]]
-title = "DJH Hann Muenden Wesermarathonstart 2017"
-src = "images/DJH_Hann_Muenden_Wesermarathonstart_2017.jpg"
-[[images]]
-title = "Wesermarathon 2017 im Nebel"
-src = "images/Wesermarathon_2017_im_Nebel.jpg"
-
-+++
+---
+author: ""
+begin: "2017-05-01"
+date: "2017-05-05T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+images:
+- src: images/Sieger_Wesermarathon_2017.jpg
+  title: Sieger Wesermarathon 2017
+- src: images/Beverungen_nach_52_km_Wesermarathon_2017.jpg
+  title: Beverungen nach 52 km Wesermarathon 2017
+- src: images/Fulda_Vorfahrt_2017.jpg
+  title: Fulda Vorfahrt 2017
+- src: images/Umtragen_Schleuse_Kassel_2017.jpg
+  title: Umtragen Schleuse Kassel 2017
+- src: images/Schleuse_Hann_Muenden_2017.jpg
+  title: Schleuse Hann Muenden 2017
+- src: images/Schulze_mit_Maerchenbier_2017.jpg
+  title: Schulze mit Maerchenbier 2017
+- src: images/DJH_Hann_Muenden_Wesermarathonstart_2017.jpg
+  title: DJH Hann Muenden Wesermarathonstart 2017
+- src: images/Wesermarathon_2017_im_Nebel.jpg
+  title: Wesermarathon 2017 im Nebel
+länder: []
+title: Wesermarathon 2017
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

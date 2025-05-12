@@ -1,25 +1,22 @@
-+++
-title = "main 2004"
-author = ""
-date = 2004-05-05T01:00:00+02:00
-begin = "2004-05-01"
-"gewässer" = ["main"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "wuerzburg04"
-src = "images/wuerzburg04.jpg"
-[[images]]
-title = "wertheim mannschaft Ruderer"
-src = "images/wertheim_mannschaft.jpg"
-[[images]]
-title = "miltenberg marktplatz"
-src = "images/miltenberg_marktplatz.jpg"
-[[images]]
-title = "miltenberg strasse"
-src = "images/miltenberg_strasse04_2.jpg"
-
-+++
+---
+author: ""
+begin: "2004-05-01"
+date: "2004-05-05T01:00:00+02:00"
+gewässer:
+- main
+images:
+- src: images/wuerzburg04.jpg
+  title: wuerzburg04
+- src: images/wertheim_mannschaft.jpg
+  title: wertheim mannschaft Ruderer
+- src: images/miltenberg_marktplatz.jpg
+  title: miltenberg marktplatz
+- src: images/miltenberg_strasse04_2.jpg
+  title: miltenberg strasse
+länder: []
+title: main 2004
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

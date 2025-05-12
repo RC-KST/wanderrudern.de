@@ -1,121 +1,93 @@
-+++
-title = "Finnland Saimaa 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["inn", "oder", "weichsel", "narew", "saimaa"]
-"länder" = ["finnland", "schweden", "polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "es ist kalt und windig 2019"
-src = "images/es_ist_kalt_und_windig_2019.jpg"
-[[images]]
-title = "Inrigger auf dem Saimaa 2019"
-src = "images/Inrigger_auf_dem_Saimaa_2019.jpg"
-[[images]]
-title = "Til beim Wellenreiten 2019"
-src = "images/Til_beim_Wellenreiten_2019.jpg"
-[[images]]
-title = "endlich am geheizten Quartier nach 55 km 2019"
-src = "images/endlich_am_geheizten_Quartier_nach_55_km_2019.jpg"
-[[images]]
-title = "E-Zweier in den Wellen 2019"
-src = "images/E-Zweier_in_den_Wellen_2019.jpg"
-[[images]]
-title = "letzter Windschutz vor der offenen Flaeche 2019"
-src = "images/letzter_Windschutz_vor_der_offenen_Flaeche_2019.jpg"
-[[images]]
-title = "Johanna und Felsen 2019"
-src = "images/Johanna_und_Felsen_2019.jpg"
-[[images]]
-title = "Steuerfrau bei kaltem Wetter 2019"
-src = "images/Steuerfrau_bei_kaltem_Wetter_2019.jpg"
-[[images]]
-title = "Tims Boot Finnland 2019"
-src = "images/Tims_Boot_Finnland_2019.jpg"
-[[images]]
-title = "Felix macht Feuerholz 2019"
-src = "images/Felix_macht_Feuerholz_2019.jpg"
-[[images]]
-title = "Holz machen Biwakplatz 2019"
-src = "images/Holz_machen_Biwakplatz_2019.jpg"
-[[images]]
-title = "Biwakplatz Hiekkaniemie 2019"
-src = "images/Biwakplatz_Hiekkaniemie_2019.jpg"
-[[images]]
-title = "Tim Johanna Biwakplatz 2019"
-src = "images/Tim_Johanna_Biwakplatz_2019.jpg"
-[[images]]
-title = "Abwaschdienst Biwakplatz 2019"
-src = "images/Abwaschdienst_Biwakplatz_2019.jpg"
-[[images]]
-title = "guter Witz 2019"
-src = "images/guter_Witz_2019.jpg"
-[[images]]
-title = "Puumala Huette 2019"
-src = "images/Puumala_Huette_2019.jpg"
-[[images]]
-title = "Spielplatz fuer die kleinen 2019"
-src = "images/Spielplatz_fuer_die_kleinen_2019.jpg"
-[[images]]
-title = "Johanna schummelt 2019"
-src = "images/Johanna_schummelt_2019.jpg"
-[[images]]
-title = "etwas Nachttisch 2019"
-src = "images/etwas_Nachttisch_2019.jpg"
-[[images]]
-title = "noch mal etwas nachtisch 2019"
-src = "images/noch_mal_etwas_nachtisch_2019.jpg"
-[[images]]
-title = "Ruderer in Helsinki 2019"
-src = "images/Ruderer_in_Helsinki_2019.jpg"
-[[images]]
-title = "Buffet Abendessen Siljaline 2019"
-src = "images/Buffet_Abendessen_Siljaline_2019.jpg"
-[[images]]
-title = "Buffet Abendessen 2 2019"
-src = "images/Buffet_Abendessen_2_2019.jpg"
-[[images]]
-title = "Eis essen vor der Markthalle Helsinki 2019"
-src = "images/Eis_essen_vor_der_Markthalle_Helsinki_2019.jpg"
-[[images]]
-title = "Cocktails in der Bugbar 2019"
-src = "images/Cocktails_in_der_Bugbar_2019.jpg"
-[[images]]
-title = "Promenade Serenade 2019"
-src = "images/Promenade_Serenade_2019.jpg"
-[[images]]
-title = "Mannschaft am Bug 2019"
-src = "images/Mannschaft_am_Bug_2019.jpg"
-[[images]]
-title = "Isabel am Bug 2019"
-src = "images/Isabel_am_Bug_2019.jpg"
-[[images]]
-title = "Bugblick Faehre 2019"
-src = "images/Bugblick_Faehre_2019.jpg"
-[[images]]
-title = "Einfahrt nach Stockholm 2019"
-src = "images/Einfahrt_nach_Stockholm_2019.jpg"
-[[images]]
-title = "Family Kabine voll belegt 2019"
-src = "images/Family_Kabine_voll_belegt_2019.jpg"
-[[images]]
-title = "Warten auf die Ankunft 2019"
-src = "images/Warten_auf_die_Ankunft_2019.jpg"
-[[images]]
-title = "Schleusentreppe Carl Johann Schweden 2019"
-src = "images/Schleusentreppe_Carl_Johann_Schweden_2019.jpg"
-[[images]]
-title = "Trelleburg 2019"
-src = "images/Trelleburg_2019.jpg"
-[[images]]
-title = "Wikingerburg Trelleborgen 2019"
-src = "images/Wikingerburg_Trelleborgen_2019.jpg"
-[[images]]
-title = "Pizza in Trelleburg 2019"
-src = "images/Pizza_in_Trelleburg_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- oder
+- weichsel
+- narew
+- saimaa
+images:
+- src: images/es_ist_kalt_und_windig_2019.jpg
+  title: es ist kalt und windig 2019
+- src: images/Inrigger_auf_dem_Saimaa_2019.jpg
+  title: Inrigger auf dem Saimaa 2019
+- src: images/Til_beim_Wellenreiten_2019.jpg
+  title: Til beim Wellenreiten 2019
+- src: images/endlich_am_geheizten_Quartier_nach_55_km_2019.jpg
+  title: endlich am geheizten Quartier nach 55 km 2019
+- src: images/E-Zweier_in_den_Wellen_2019.jpg
+  title: E-Zweier in den Wellen 2019
+- src: images/letzter_Windschutz_vor_der_offenen_Flaeche_2019.jpg
+  title: letzter Windschutz vor der offenen Flaeche 2019
+- src: images/Johanna_und_Felsen_2019.jpg
+  title: Johanna und Felsen 2019
+- src: images/Steuerfrau_bei_kaltem_Wetter_2019.jpg
+  title: Steuerfrau bei kaltem Wetter 2019
+- src: images/Tims_Boot_Finnland_2019.jpg
+  title: Tims Boot Finnland 2019
+- src: images/Felix_macht_Feuerholz_2019.jpg
+  title: Felix macht Feuerholz 2019
+- src: images/Holz_machen_Biwakplatz_2019.jpg
+  title: Holz machen Biwakplatz 2019
+- src: images/Biwakplatz_Hiekkaniemie_2019.jpg
+  title: Biwakplatz Hiekkaniemie 2019
+- src: images/Tim_Johanna_Biwakplatz_2019.jpg
+  title: Tim Johanna Biwakplatz 2019
+- src: images/Abwaschdienst_Biwakplatz_2019.jpg
+  title: Abwaschdienst Biwakplatz 2019
+- src: images/guter_Witz_2019.jpg
+  title: guter Witz 2019
+- src: images/Puumala_Huette_2019.jpg
+  title: Puumala Huette 2019
+- src: images/Spielplatz_fuer_die_kleinen_2019.jpg
+  title: Spielplatz fuer die kleinen 2019
+- src: images/Johanna_schummelt_2019.jpg
+  title: Johanna schummelt 2019
+- src: images/etwas_Nachttisch_2019.jpg
+  title: etwas Nachttisch 2019
+- src: images/noch_mal_etwas_nachtisch_2019.jpg
+  title: noch mal etwas nachtisch 2019
+- src: images/Ruderer_in_Helsinki_2019.jpg
+  title: Ruderer in Helsinki 2019
+- src: images/Buffet_Abendessen_Siljaline_2019.jpg
+  title: Buffet Abendessen Siljaline 2019
+- src: images/Buffet_Abendessen_2_2019.jpg
+  title: Buffet Abendessen 2 2019
+- src: images/Eis_essen_vor_der_Markthalle_Helsinki_2019.jpg
+  title: Eis essen vor der Markthalle Helsinki 2019
+- src: images/Cocktails_in_der_Bugbar_2019.jpg
+  title: Cocktails in der Bugbar 2019
+- src: images/Promenade_Serenade_2019.jpg
+  title: Promenade Serenade 2019
+- src: images/Mannschaft_am_Bug_2019.jpg
+  title: Mannschaft am Bug 2019
+- src: images/Isabel_am_Bug_2019.jpg
+  title: Isabel am Bug 2019
+- src: images/Bugblick_Faehre_2019.jpg
+  title: Bugblick Faehre 2019
+- src: images/Einfahrt_nach_Stockholm_2019.jpg
+  title: Einfahrt nach Stockholm 2019
+- src: images/Family_Kabine_voll_belegt_2019.jpg
+  title: Family Kabine voll belegt 2019
+- src: images/Warten_auf_die_Ankunft_2019.jpg
+  title: Warten auf die Ankunft 2019
+- src: images/Schleusentreppe_Carl_Johann_Schweden_2019.jpg
+  title: Schleusentreppe Carl Johann Schweden 2019
+- src: images/Trelleburg_2019.jpg
+  title: Trelleburg 2019
+- src: images/Wikingerburg_Trelleborgen_2019.jpg
+  title: Wikingerburg Trelleborgen 2019
+- src: images/Pizza_in_Trelleburg_2019.jpg
+  title: Pizza in Trelleburg 2019
+länder:
+- finnland
+- schweden
+- polen
+title: Finnland Saimaa 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

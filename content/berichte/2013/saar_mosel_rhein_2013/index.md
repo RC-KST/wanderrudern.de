@@ -1,160 +1,118 @@
-+++
-title = "Mosel Rhein 2013"
-author = ""
-date = 2013-05-05T01:00:00+02:00
-begin = "2013-05-01"
-"gewässer" = ["rhein", "mosel", "saar", "aller", "oder"]
-"länder" = ["deutschland", "frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Hotel Cactus Buhl Lorraine 2013"
-src = "images/Hotel_Cactus_Buhl_Lorraine_2013.jpg"
-[[images]]
-title = "Tunnel von Arzviller leider kein einsetzen moeglich 2013"
-src = "images/Tunnel_von_Arzviller_leider_kein_einsetzen_moeglich_2013.jpg"
-[[images]]
-title = "Aufriggern in Arzviller 2013"
-src = "images/Aufriggern_in_Arzviller_2013.jpg"
-[[images]]
-title = "kanal marne rhein saarkanal 2013"
-src = "images/kanal_marne_rhein_saarkanal_2013.jpg"
-[[images]]
-title = "rhein marne kanal 2013"
-src = "images/rhein_marne_kanal_2013.jpg"
-[[images]]
-title = "kanalbruecke rhein marne kanal 2013"
-src = "images/kanalbruecke_rhein_marne_kanal_2013.jpg"
-[[images]]
-title = "kanal 5m ueber dem etang du stock 2013"
-src = "images/kanal_5m_ueber_dem_etang_du_stock_2013.jpg"
-[[images]]
-title = "domaine le bachats rhodes 2013"
-src = "images/domaine_le_bachats_rhodes_2013.jpg"
-[[images]]
-title = "abendessen am etang de stock 2013"
-src = "images/abendessen_am_etang_de_stock_2013.jpg"
-[[images]]
-title = "Karte vom saarkanal 2013"
-src = "images/Karte_vom_saarkanal_2013.jpg"
-[[images]]
-title = "Ruderboote in Saarkanalschleuse 2013"
-src = "images/Ruderboote_in_Saarkanalschleuse_2013.jpg"
-[[images]]
-title = "Ruderer in Saarkanalschleuse 2013"
-src = "images/Ruderer_in_Saarkanalschleuse_2013.jpg"
-[[images]]
-title = "jonathan spielt mit elektrischer eisenbahn saarkanal 2013"
-src = "images/jonathan_spielt_mit_elektrischer_eisenbahn_saarkanal_2013.jpg"
-[[images]]
-title = "vor uns die Saar Saargemuend 2013"
-src = "images/vor_uns_die_Saar_Saargemuend_2013.jpg"
-[[images]]
-title = "jonathan ruderboot auf der wasserhochstrasse 2013"
-src = "images/jonathan_ruderboot_auf_der_wasserhochstrasse_2013.jpg"
-[[images]]
-title = "Schleuse am saarkanal 2013"
-src = "images/Schleuse_am_saarkanal_2013.jpg"
-[[images]]
-title = "Hotel saare union 2013"
-src = "images/Hotel_saare_union_2013.jpg"
-[[images]]
-title = "saargemuend 2013-1"
-src = "images/saargemuend_2013-1.jpg"
-[[images]]
-title = "letzte kanalschleuse saarkanal 2013"
-src = "images/letzte_kanalschleuse_saarkanal_2013.jpg"
-[[images]]
-title = "aussetzen in saargemuend 2013"
-src = "images/aussetzen_in_saargemuend_2013.jpg"
-[[images]]
-title = "Vier ruderinnen beim tv gucken 2013"
-src = "images/Vier_ruderinnen_beim_tv_gucken_2013.jpg"
-[[images]]
-title = "das passiert wenn man keinen fuehrerschein braucht 2013"
-src = "images/das_passiert_wenn_man_keinen_fuehrerschein_braucht_2013.jpg"
-[[images]]
-title = "am ende der franzoesischen saarstrecke 2013"
-src = "images/am_ende_der_franzoesischen_saarstrecke_2013.jpg"
-[[images]]
-title = "downtown saarbruecken 2013"
-src = "images/downtown_saarbruecken_2013.jpg"
-[[images]]
-title = "wenig idyllische saarstrecke 2013"
-src = "images/wenig_idyllische_saarstrecke_2013.jpg"
-[[images]]
-title = "jiajia auf der saar 2013"
-src = "images/jiajia_auf_der_saar_2013.jpg"
-[[images]]
-title = "vergangene industrie an der saar 2013"
-src = "images/vergangene_industrie_an_der_saar_2013.jpg"
-[[images]]
-title = "Ruderer in der saarschleife 2013"
-src = "images/Ruderer_in_der_saarschleife_2013.jpg"
-[[images]]
-title = "Abendliches Training Saarluis 2013"
-src = "images/Abendliches_Training_Saarluis_2013.jpg"
-[[images]]
-title = "grossschleuse saar 2013"
-src = "images/grossschleuse_saar_2013.jpg"
-[[images]]
-title = "Saarlouis boote tragen 2013"
-src = "images/Saarlouis_boote_tragen_2013.jpg"
-[[images]]
-title = "chinesisches abendessen in saarluis 2013"
-src = "images/chinesisches_abendessen_in_saarluis_2013.jpg"
-[[images]]
-title = "Ruderboote in Saarschleuse 2013"
-src = "images/Ruderboote_in_Saarschleuse_2013.jpg"
-[[images]]
-title = "Jonathan in der Saarschleife 2013"
-src = "images/Jonathan_in_der_Saarschleife_2013.jpg"
-[[images]]
-title = "volle konzentration beim schleusen saar 2013"
-src = "images/volle_konzentration_beim_schleusen_saar_2013.jpg"
-[[images]]
-title = "Saarburg ueber dem Wasserfall 2013"
-src = "images/Saarburg_ueber_dem_Wasserfall_2013.jpg"
-[[images]]
-title = "djh saarburg 2013"
-src = "images/djh_saarburg_2013.jpg"
-[[images]]
-title = "maedchen auf der saarburg 2013"
-src = "images/maedchen_auf_der_saarburg_2013.jpg"
-[[images]]
-title = "Ruderinnen vor der Porta Nigra 2013"
-src = "images/Ruderinnen_vor_der_Porta_Nigra_2013.jpg"
-[[images]]
-title = "roemische baeder trier 2013"
-src = "images/roemische_baeder_trier_2013.jpg"
-[[images]]
-title = "Saar unterlauf 2013"
-src = "images/Saar_unterlauf_2013.jpg"
-[[images]]
-title = "bootshaus treviris 2013"
-src = "images/bootshaus_treviris_2013.jpg"
-[[images]]
-title = "treviris etappe zu kurz 2013"
-src = "images/treviris_etappe_zu_kurz_2013.jpg"
-[[images]]
-title = "Sportbootschleuse Mosel 2013"
-src = "images/Sportbootschleuse_Mosel_2013.jpg"
-[[images]]
-title = "weinberge an der mosel 2013"
-src = "images/weinberge_an_der_mosel_2013.jpg"
-[[images]]
-title = "Aufladen in Piesport 2013"
-src = "images/Aufladen_in_Piesport_2013.jpg"
-[[images]]
-title = "gladiatorenkaempfe in Trier 2013"
-src = "images/gladiatorenkaempfe_in_Trier_2013.jpg"
-[[images]]
-title = "jonathan im weinkeller 2013"
-src = "images/jonathan_im_weinkeller_2013.jpg"
-[[images]]
-title = "joe vor den weinbergen 2013"
-src = "images/joe_vor_den_weinbergen_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-05-01"
+date: "2013-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+- saar
+- aller
+- oder
+images:
+- src: images/Hotel_Cactus_Buhl_Lorraine_2013.jpg
+  title: Hotel Cactus Buhl Lorraine 2013
+- src: images/Tunnel_von_Arzviller_leider_kein_einsetzen_moeglich_2013.jpg
+  title: Tunnel von Arzviller leider kein einsetzen moeglich 2013
+- src: images/Aufriggern_in_Arzviller_2013.jpg
+  title: Aufriggern in Arzviller 2013
+- src: images/kanal_marne_rhein_saarkanal_2013.jpg
+  title: kanal marne rhein saarkanal 2013
+- src: images/rhein_marne_kanal_2013.jpg
+  title: rhein marne kanal 2013
+- src: images/kanalbruecke_rhein_marne_kanal_2013.jpg
+  title: kanalbruecke rhein marne kanal 2013
+- src: images/kanal_5m_ueber_dem_etang_du_stock_2013.jpg
+  title: kanal 5m ueber dem etang du stock 2013
+- src: images/domaine_le_bachats_rhodes_2013.jpg
+  title: domaine le bachats rhodes 2013
+- src: images/abendessen_am_etang_de_stock_2013.jpg
+  title: abendessen am etang de stock 2013
+- src: images/Karte_vom_saarkanal_2013.jpg
+  title: Karte vom saarkanal 2013
+- src: images/Ruderboote_in_Saarkanalschleuse_2013.jpg
+  title: Ruderboote in Saarkanalschleuse 2013
+- src: images/Ruderer_in_Saarkanalschleuse_2013.jpg
+  title: Ruderer in Saarkanalschleuse 2013
+- src: images/jonathan_spielt_mit_elektrischer_eisenbahn_saarkanal_2013.jpg
+  title: jonathan spielt mit elektrischer eisenbahn saarkanal 2013
+- src: images/vor_uns_die_Saar_Saargemuend_2013.jpg
+  title: vor uns die Saar Saargemuend 2013
+- src: images/jonathan_ruderboot_auf_der_wasserhochstrasse_2013.jpg
+  title: jonathan ruderboot auf der wasserhochstrasse 2013
+- src: images/Schleuse_am_saarkanal_2013.jpg
+  title: Schleuse am saarkanal 2013
+- src: images/Hotel_saare_union_2013.jpg
+  title: Hotel saare union 2013
+- src: images/saargemuend_2013-1.jpg
+  title: saargemuend 2013-1
+- src: images/letzte_kanalschleuse_saarkanal_2013.jpg
+  title: letzte kanalschleuse saarkanal 2013
+- src: images/aussetzen_in_saargemuend_2013.jpg
+  title: aussetzen in saargemuend 2013
+- src: images/Vier_ruderinnen_beim_tv_gucken_2013.jpg
+  title: Vier ruderinnen beim tv gucken 2013
+- src: images/das_passiert_wenn_man_keinen_fuehrerschein_braucht_2013.jpg
+  title: das passiert wenn man keinen fuehrerschein braucht 2013
+- src: images/am_ende_der_franzoesischen_saarstrecke_2013.jpg
+  title: am ende der franzoesischen saarstrecke 2013
+- src: images/downtown_saarbruecken_2013.jpg
+  title: downtown saarbruecken 2013
+- src: images/wenig_idyllische_saarstrecke_2013.jpg
+  title: wenig idyllische saarstrecke 2013
+- src: images/jiajia_auf_der_saar_2013.jpg
+  title: jiajia auf der saar 2013
+- src: images/vergangene_industrie_an_der_saar_2013.jpg
+  title: vergangene industrie an der saar 2013
+- src: images/Ruderer_in_der_saarschleife_2013.jpg
+  title: Ruderer in der saarschleife 2013
+- src: images/Abendliches_Training_Saarluis_2013.jpg
+  title: Abendliches Training Saarluis 2013
+- src: images/grossschleuse_saar_2013.jpg
+  title: grossschleuse saar 2013
+- src: images/Saarlouis_boote_tragen_2013.jpg
+  title: Saarlouis boote tragen 2013
+- src: images/chinesisches_abendessen_in_saarluis_2013.jpg
+  title: chinesisches abendessen in saarluis 2013
+- src: images/Ruderboote_in_Saarschleuse_2013.jpg
+  title: Ruderboote in Saarschleuse 2013
+- src: images/Jonathan_in_der_Saarschleife_2013.jpg
+  title: Jonathan in der Saarschleife 2013
+- src: images/volle_konzentration_beim_schleusen_saar_2013.jpg
+  title: volle konzentration beim schleusen saar 2013
+- src: images/Saarburg_ueber_dem_Wasserfall_2013.jpg
+  title: Saarburg ueber dem Wasserfall 2013
+- src: images/djh_saarburg_2013.jpg
+  title: djh saarburg 2013
+- src: images/maedchen_auf_der_saarburg_2013.jpg
+  title: maedchen auf der saarburg 2013
+- src: images/Ruderinnen_vor_der_Porta_Nigra_2013.jpg
+  title: Ruderinnen vor der Porta Nigra 2013
+- src: images/roemische_baeder_trier_2013.jpg
+  title: roemische baeder trier 2013
+- src: images/Saar_unterlauf_2013.jpg
+  title: Saar unterlauf 2013
+- src: images/bootshaus_treviris_2013.jpg
+  title: bootshaus treviris 2013
+- src: images/treviris_etappe_zu_kurz_2013.jpg
+  title: treviris etappe zu kurz 2013
+- src: images/Sportbootschleuse_Mosel_2013.jpg
+  title: Sportbootschleuse Mosel 2013
+- src: images/weinberge_an_der_mosel_2013.jpg
+  title: weinberge an der mosel 2013
+- src: images/Aufladen_in_Piesport_2013.jpg
+  title: Aufladen in Piesport 2013
+- src: images/gladiatorenkaempfe_in_Trier_2013.jpg
+  title: gladiatorenkaempfe in Trier 2013
+- src: images/jonathan_im_weinkeller_2013.jpg
+  title: jonathan im weinkeller 2013
+- src: images/joe_vor_den_weinbergen_2013.jpg
+  title: joe vor den weinbergen 2013
+länder:
+- deutschland
+- frankreich
+title: Mosel Rhein 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,43 +1,34 @@
-+++
-title = "LItomerice - Pirna 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = []
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer vor der Bastei 2018"
-src = "images/Ruderer_vor_der_Bastei_2018.jpg"
-[[images]]
-title = "Feste Königstein 2018"
-src = "images/Feste_Konigstein_2018.jpg"
-[[images]]
-title = "Start in Lovosice 2018"
-src = "images/Start_in_Lovosice_2018.jpg"
-[[images]]
-title = "Im Schneefall auf der Elbe 2018"
-src = "images/Im_Schneefall_auf_der_Elbe_2018.jpg"
-[[images]]
-title = "Ruderer Bad Schandau 2018"
-src = "images/Ruderer_Bad_Schandau_2018.jpg"
-[[images]]
-title = "Schleuse Usti Ruderboote 2018"
-src = "images/Schleuse_Usti_Ruderboote_2018.jpg"
-[[images]]
-title = "Schleuse Schreckenstein 2018"
-src = "images/Schleuse_Schreckenstein_2018.jpg"
-[[images]]
-title = "Ruderer Elbsandsteingebirge 2018"
-src = "images/Ruderer_Elbsandsteingebirge_2018.jpg"
-[[images]]
-title = "Siegerkuchen in Decin 2018"
-src = "images/Siegerkuchen_in_Decin_2018.jpg"
-[[images]]
-title = "Weihnachtsmarkt Pirna 2018"
-src = "images/Weihnachtsmarkt_Pirna_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderer_vor_der_Bastei_2018.jpg
+  title: Ruderer vor der Bastei 2018
+- src: images/Feste_Konigstein_2018.jpg
+  title: Feste Königstein 2018
+- src: images/Start_in_Lovosice_2018.jpg
+  title: Start in Lovosice 2018
+- src: images/Im_Schneefall_auf_der_Elbe_2018.jpg
+  title: Im Schneefall auf der Elbe 2018
+- src: images/Ruderer_Bad_Schandau_2018.jpg
+  title: Ruderer Bad Schandau 2018
+- src: images/Schleuse_Usti_Ruderboote_2018.jpg
+  title: Schleuse Usti Ruderboote 2018
+- src: images/Schleuse_Schreckenstein_2018.jpg
+  title: Schleuse Schreckenstein 2018
+- src: images/Ruderer_Elbsandsteingebirge_2018.jpg
+  title: Ruderer Elbsandsteingebirge 2018
+- src: images/Siegerkuchen_in_Decin_2018.jpg
+  title: Siegerkuchen in Decin 2018
+- src: images/Weihnachtsmarkt_Pirna_2018.jpg
+  title: Weihnachtsmarkt Pirna 2018
+länder:
+- tschechien
+title: LItomerice - Pirna 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

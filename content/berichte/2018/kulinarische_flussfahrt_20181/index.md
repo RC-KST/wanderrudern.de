@@ -1,13 +1,15 @@
-+++
-title = "Kulinarische Flussfahrt 2018"
-author = ""
-date = 2018-05-05T01:00:00+02:00
-begin = "2018-05-01"
-"gewässer" = []
-"länder" = ["norwegen", "polen", "bulgarien"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2018-05-01"
+date: "2018-05-05T01:00:00+02:00"
+gewässer: []
+länder:
+- norwegen
+- polen
+- bulgarien
+title: Kulinarische Flussfahrt 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

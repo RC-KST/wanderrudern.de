@@ -1,25 +1,21 @@
-+++
-title = "Arbeitseinsatz 2020 Februar"
-author = ""
-date = 2020-02-02T01:00:00+02:00
-begin = "2020-02-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Skulls sortieren Februar 2020"
-src = "images/Skulls_sortieren_Februar_2020.jpg"
-[[images]]
-title = "Skulls lackieren Februar 2020"
-src = "images/Skulls_lackieren_Februar_2020.jpg"
-[[images]]
-title = "Skulls aufarbeiten Februar 2020"
-src = "images/Skulls_aufarbeiten_Februar_2020.jpg"
-[[images]]
-title = "Rollsitze reparieren Februar 2020"
-src = "images/Rollsitze_reparieren_Februar_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-02-01"
+date: "2020-02-02T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Skulls_sortieren_Februar_2020.jpg
+  title: Skulls sortieren Februar 2020
+- src: images/Skulls_lackieren_Februar_2020.jpg
+  title: Skulls lackieren Februar 2020
+- src: images/Skulls_aufarbeiten_Februar_2020.jpg
+  title: Skulls aufarbeiten Februar 2020
+- src: images/Rollsitze_reparieren_Februar_2020.jpg
+  title: Rollsitze reparieren Februar 2020
+länder: []
+title: Arbeitseinsatz 2020 Februar
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

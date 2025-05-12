@@ -1,28 +1,24 @@
-+++
-title = "Elbe Marathon 2019"
-author = ""
-date = 2019-02-02T01:00:00+02:00
-begin = "2019-02-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Johanna in Wittenberg Elbe Marthon 2019"
-src = "images/Johanna_in_Wittenberg_Elbe_Marthon_2019.jpg"
-[[images]]
-title = "Bootsanhaenger Meissen Elbemarathon 2019"
-src = "images/Bootsanhaenger_Meissen_Elbemarathon_2019.jpg"
-[[images]]
-title = "Ablegen Torgau Elbe Marathon 2019"
-src = "images/Ablegen_Torgau_Elbe_Marathon_20191.jpg"
-[[images]]
-title = "Torgau Ruderboot Elbe Marathon 2019"
-src = "images/Torgau_Ruderboot_Elbe_Marathon_2019.jpg"
-[[images]]
-title = "Torgau vom Ruderboot gesehen Elbemarathon 2019"
-src = "images/Torgau_vom_Ruderboot_gesehen_Elbemarathon_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-02-01"
+date: "2019-02-02T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Johanna_in_Wittenberg_Elbe_Marthon_2019.jpg
+  title: Johanna in Wittenberg Elbe Marthon 2019
+- src: images/Bootsanhaenger_Meissen_Elbemarathon_2019.jpg
+  title: Bootsanhaenger Meissen Elbemarathon 2019
+- src: images/Ablegen_Torgau_Elbe_Marathon_20191.jpg
+  title: Ablegen Torgau Elbe Marathon 2019
+- src: images/Torgau_Ruderboot_Elbe_Marathon_2019.jpg
+  title: Torgau Ruderboot Elbe Marathon 2019
+- src: images/Torgau_vom_Ruderboot_gesehen_Elbemarathon_2019.jpg
+  title: Torgau vom Ruderboot gesehen Elbemarathon 2019
+länder: []
+title: Elbe Marathon 2019
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,73 +1,57 @@
-+++
-title = "Wesermarathon 09"
-author = ""
-date = 2009-01-01T01:00:00+02:00
-begin = "2009-01-01"
-"gewässer" = ["weser", "fulda", "narew", "pielisjoki"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Boote abladen in Rotenburg Fulda 09"
-src = "images/Boote_abladen_in_Rotenburg_Fulda_09.jpg"
-[[images]]
-title = "Ruderboot Narew auf der Fulda"
-src = "images/Ruderboot_Narew_auf_der_Fulda.jpg"
-[[images]]
-title = "Baum quer in der Fulda 09"
-src = "images/Baum_quer_in_der_Fulda_09.jpg"
-[[images]]
-title = "Fuldaschleuse 09"
-src = "images/Fuldaschleuse_09.jpg"
-[[images]]
-title = "Wiedereinsteigen in Fuldaschleuse 09"
-src = "images/Wiedereinsteigen_in_Fuldaschleuse_09.jpg"
-[[images]]
-title = "Kindermannschaft Rudervierer Fulda 09"
-src = "images/Kindermannschaft_Rudervierer_Fulda_09.jpg"
-[[images]]
-title = "Ruderzweier auf der Fulda 09"
-src = "images/Ruderzweier_auf_der_Fulda_09.jpg"
-[[images]]
-title = "Schleuse Guxhagen Fulda 09"
-src = "images/Schleuse_Guxhagen_Fulda_09.jpg"
-[[images]]
-title = "Stromschnelle auf der Fulda Ruderboot 09"
-src = "images/Stromschnelle_auf_der_Fulda_Ruderboot_09.jpg"
-[[images]]
-title = "Schwan im Angriff Fulda 09"
-src = "images/Schwan_im_Angriff_Fulda_09.jpg"
-[[images]]
-title = "als Landdienst hat mans besser 09"
-src = "images/als_Landdienst_hat_mans_besser_09.jpg"
-[[images]]
-title = "Kassel am Steg 09"
-src = "images/Kassel_am_Steg_09.jpg"
-[[images]]
-title = "die Masters am Biertisch 09"
-src = "images/die_Masters_am_Biertisch_09.jpg"
-[[images]]
-title = "Auf der Fulda 09 Ruderboote"
-src = "images/Auf_der_Fulda_09_Ruderboote.jpg"
-[[images]]
-title = "Hann Münden Schleuse Fulda 09"
-src = "images/Hann_Munden_Schleuse_Fulda_09.jpg"
-[[images]]
-title = "Weser mal wieder im Nebel 09"
-src = "images/Weser_mal_wieder_im_Nebel_09.jpg"
-[[images]]
-title = "Wesermarathon 09"
-src = "images/Wesermarathon_09.jpg"
-[[images]]
-title = "Ruderboot auf dem Wesermarathon 09"
-src = "images/Ruderboot_auf_dem_Wesermarathon_09.jpg"
-[[images]]
-title = "Baumgarten C Vierer auf dem Marathon"
-src = "images/Baumgarten_C_Vierer_auf_dem_Marathon.jpg"
-[[images]]
-title = "Ruderzweier Wesermarathon Masters 09"
-src = "images/Ruderzweier_Wesermarathon_Masters_09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-01-01"
+date: "2009-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+- narew
+- pielisjoki
+images:
+- src: images/Boote_abladen_in_Rotenburg_Fulda_09.jpg
+  title: Boote abladen in Rotenburg Fulda 09
+- src: images/Ruderboot_Narew_auf_der_Fulda.jpg
+  title: Ruderboot Narew auf der Fulda
+- src: images/Baum_quer_in_der_Fulda_09.jpg
+  title: Baum quer in der Fulda 09
+- src: images/Fuldaschleuse_09.jpg
+  title: Fuldaschleuse 09
+- src: images/Wiedereinsteigen_in_Fuldaschleuse_09.jpg
+  title: Wiedereinsteigen in Fuldaschleuse 09
+- src: images/Kindermannschaft_Rudervierer_Fulda_09.jpg
+  title: Kindermannschaft Rudervierer Fulda 09
+- src: images/Ruderzweier_auf_der_Fulda_09.jpg
+  title: Ruderzweier auf der Fulda 09
+- src: images/Schleuse_Guxhagen_Fulda_09.jpg
+  title: Schleuse Guxhagen Fulda 09
+- src: images/Stromschnelle_auf_der_Fulda_Ruderboot_09.jpg
+  title: Stromschnelle auf der Fulda Ruderboot 09
+- src: images/Schwan_im_Angriff_Fulda_09.jpg
+  title: Schwan im Angriff Fulda 09
+- src: images/als_Landdienst_hat_mans_besser_09.jpg
+  title: als Landdienst hat mans besser 09
+- src: images/Kassel_am_Steg_09.jpg
+  title: Kassel am Steg 09
+- src: images/die_Masters_am_Biertisch_09.jpg
+  title: die Masters am Biertisch 09
+- src: images/Auf_der_Fulda_09_Ruderboote.jpg
+  title: Auf der Fulda 09 Ruderboote
+- src: images/Hann_Munden_Schleuse_Fulda_09.jpg
+  title: Hann Münden Schleuse Fulda 09
+- src: images/Weser_mal_wieder_im_Nebel_09.jpg
+  title: Weser mal wieder im Nebel 09
+- src: images/Wesermarathon_09.jpg
+  title: Wesermarathon 09
+- src: images/Ruderboot_auf_dem_Wesermarathon_09.jpg
+  title: Ruderboot auf dem Wesermarathon 09
+- src: images/Baumgarten_C_Vierer_auf_dem_Marathon.jpg
+  title: Baumgarten C Vierer auf dem Marathon
+- src: images/Ruderzweier_Wesermarathon_Masters_09.jpg
+  title: Ruderzweier Wesermarathon Masters 09
+länder: []
+title: Wesermarathon 09
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

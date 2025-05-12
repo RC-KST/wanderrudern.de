@@ -1,40 +1,40 @@
-+++
-title = "Oder 2001"
-author = ""
-date = 2001-04-04T01:00:00+02:00
-begin = "2001-04-01"
-"gewässer" = ["aller", "dahme", "teltowkanal", "oder-havel-kanal", "oder-spree-kanal", "wannsee", "oder", "bug"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Eisenhüttenstadt Ruderverein Ruderer"
-src = "images/fuerstenwalde.jpg"
-[[images]]
-title = "Baumgarten E-Zweier Ruderboot"
-src = "images/zweier_od01.jpg"
-[[images]]
-title = "Anke steuert Ruderboot"
-src = "images/anke.jpg"
-[[images]]
-title = "Ruderboote an der Oder"
-src = "images/boote_pause.jpg"
-[[images]]
-title = "buddelkasten"
-src = "images/buddelkasten.jpg"
-[[images]]
-title = "Frankfurt Oder Ruderer"
-src = "images/frankfurt.jpg"
-[[images]]
-title = "Abelegen an der Oder "
-src = "images/anlegen.jpg"
-[[images]]
-title = "zweier1"
-src = "images/zweier1.jpg"
-[[images]]
-title = "Schiffshebewerk Niederfinow"
-src = "images/hebewerk_od01.jpg"
-
-+++
+---
+author: ""
+begin: "2001-04-01"
+date: "2001-04-04T01:00:00+02:00"
+gewässer:
+- aller
+- dahme
+- teltowkanal
+- oder-havel-kanal
+- oder-spree-kanal
+- wannsee
+- oder
+- bug
+images:
+- src: images/fuerstenwalde.jpg
+  title: Eisenhüttenstadt Ruderverein Ruderer
+- src: images/zweier_od01.jpg
+  title: Baumgarten E-Zweier Ruderboot
+- src: images/anke.jpg
+  title: Anke steuert Ruderboot
+- src: images/boote_pause.jpg
+  title: Ruderboote an der Oder
+- src: images/buddelkasten.jpg
+  title: buddelkasten
+- src: images/frankfurt.jpg
+  title: Frankfurt Oder Ruderer
+- src: images/anlegen.jpg
+  title: 'Abelegen an der Oder '
+- src: images/zweier1.jpg
+  title: zweier1
+- src: images/hebewerk_od01.jpg
+  title: Schiffshebewerk Niederfinow
+länder:
+- deutschland
+title: Oder 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

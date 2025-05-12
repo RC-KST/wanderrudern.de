@@ -1,25 +1,21 @@
-+++
-title = "Schulrudern Kant Gymnasium 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Tim kant schulrudern 2017"
-src = "images/Tim_kant_schulrudern_2017.jpg"
-[[images]]
-title = "Kant Schulrudern 2017 warten auf besseres Wetter"
-src = "images/Kant_Schulrudern_2017_warten_auf_besseres_Wetter.jpg"
-[[images]]
-title = "Kant Schulrudern 2017 skulls am steg"
-src = "images/Kant_Schulrudern_2017_skulls_am_steg.jpg"
-[[images]]
-title = "Kant schulrudern Pohlesee 2017"
-src = "images/Kant_schulrudern_Pohlesee_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Tim_kant_schulrudern_2017.jpg
+  title: Tim kant schulrudern 2017
+- src: images/Kant_Schulrudern_2017_warten_auf_besseres_Wetter.jpg
+  title: Kant Schulrudern 2017 warten auf besseres Wetter
+- src: images/Kant_Schulrudern_2017_skulls_am_steg.jpg
+  title: Kant Schulrudern 2017 skulls am steg
+- src: images/Kant_schulrudern_Pohlesee_2017.jpg
+  title: Kant schulrudern Pohlesee 2017
+länder: []
+title: Schulrudern Kant Gymnasium 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

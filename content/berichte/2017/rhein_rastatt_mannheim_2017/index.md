@@ -1,40 +1,32 @@
-+++
-title = "Rhein Rastatt Mannheim 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["rhein"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Stefan Schulze bekommt Aequatorpreis 2017"
-src = "images/Stefan_Schulze_bekommt_Aequatorpreis_2017.jpg"
-[[images]]
-title = "Winsauerpreis 2016 Ruderclub Kleinmachnow Stahnsdorf Teltow"
-src = "images/Winsauerpreis_2016_Ruderclub_Kleinmachnow_Stahnsdorf_Teltow.jpg"
-[[images]]
-title = "Fruehstueck  der Ruderer in Rastatt 2017"
-src = "images/Fruehstueck__der_Ruderer_in_Rastatt_2017.jpg"
-[[images]]
-title = "Rastatt Steg im Nebel 2017"
-src = "images/Rastatt_Steg_im_Nebel_2017.jpg"
-[[images]]
-title = "Nirina auf dem Rhein 2017"
-src = "images/Nirina_auf_dem_Rhein_2017.jpg"
-[[images]]
-title = "Kreuzfahrer auf dem Rhein 2017"
-src = "images/Kreuzfahrer_auf_dem_Rhein_2017.jpg"
-[[images]]
-title = "leichter Snack fuer unterwegs speyer 2017"
-src = "images/leichter_Snack_fuer_unterwegs_speyer_2017.jpg"
-[[images]]
-title = "Mannheim Bootssteg 2017"
-src = "images/Mannheim_Bootssteg_2017.jpg"
-[[images]]
-title = "Niirina mit Siegried Kaidel und Ina Holtz 2017"
-src = "images/Niirina_mit_Siegried_Kaidel_und_Ina_Holtz_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+images:
+- src: images/Stefan_Schulze_bekommt_Aequatorpreis_2017.jpg
+  title: Stefan Schulze bekommt Aequatorpreis 2017
+- src: images/Winsauerpreis_2016_Ruderclub_Kleinmachnow_Stahnsdorf_Teltow.jpg
+  title: Winsauerpreis 2016 Ruderclub Kleinmachnow Stahnsdorf Teltow
+- src: images/Fruehstueck__der_Ruderer_in_Rastatt_2017.jpg
+  title: Fruehstueck  der Ruderer in Rastatt 2017
+- src: images/Rastatt_Steg_im_Nebel_2017.jpg
+  title: Rastatt Steg im Nebel 2017
+- src: images/Nirina_auf_dem_Rhein_2017.jpg
+  title: Nirina auf dem Rhein 2017
+- src: images/Kreuzfahrer_auf_dem_Rhein_2017.jpg
+  title: Kreuzfahrer auf dem Rhein 2017
+- src: images/leichter_Snack_fuer_unterwegs_speyer_2017.jpg
+  title: leichter Snack fuer unterwegs speyer 2017
+- src: images/Mannheim_Bootssteg_2017.jpg
+  title: Mannheim Bootssteg 2017
+- src: images/Niirina_mit_Siegried_Kaidel_und_Ina_Holtz_2017.jpg
+  title: Niirina mit Siegried Kaidel und Ina Holtz 2017
+länder: []
+title: Rhein Rastatt Mannheim 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

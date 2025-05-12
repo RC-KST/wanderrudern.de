@@ -1,175 +1,128 @@
-+++
-title = "Rhein 2011"
-author = ""
-date = 2011-05-05T01:00:00+02:00
-begin = "2011-05-01"
-"gewässer" = ["rhein", "neckar", "ijssel", "ijsselmeer", "waal", "oder"]
-"länder" = ["schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Aufriggern in Grenzach Rhein 2011"
-src = "images/Aufriggern_in_Grenzach_Rhein_2011.jpg"
-[[images]]
-title = "C-Dreier auf dem Rheinseitenkanal 2011"
-src = "images/C-Dreier_auf_dem_Rheinseitenkanal_2011.jpg"
-[[images]]
-title = "Aussetzstelle Neuenburg Rheinwanderfahrt 2011"
-src = "images/Aussetzstelle_Neuenburg_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Nirina im Ruderboot in Basel Start der Rheinfahrt 11"
-src = "images/Nirina_im_Ruderboot_in_Basel_Start_der_Rheinfahrt_11.jpg"
-[[images]]
-title = "Vierer auf dem Oberrhein 2011"
-src = "images/Vierer_auf_dem_Oberrhein_2011.jpg"
-[[images]]
-title = "Martin klettert am Steg Rheinwanderfahrt 2011"
-src = "images/Martin_klettert_am_Steg_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Ruderboote in der Rheinschleuse 2011"
-src = "images/Ruderboote_in_der_Rheinschleuse_2011.jpg"
-[[images]]
-title = "Gute Ausstiegsstelle Rein 2011"
-src = "images/Gute_Ausstiegsstelle_Rein_2011.jpg"
-[[images]]
-title = "Thomas in der Schleuse Rheinwanderfahrt 2011"
-src = "images/Thomas_in_der_Schleuse_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Rheinseitenkanal 2011"
-src = "images/Rheinseitenkanal_2011.jpg"
-[[images]]
-title = "Dreier ohne in Mannheim Rhein_ 2011"
-src = "images/Dreier_ohne_in_Mannheim_Rhein__2011.jpg"
-[[images]]
-title = "Sommerabend in Strassburg Rhein 2011"
-src = "images/Sommerabend_in_Strassburg_Rhein_2011.jpg"
-[[images]]
-title = "Anlegestelle Kehl auf der Kiesbank Rheinwanderfahrt 2011"
-src = "images/Anlegestelle_Kehl_auf_der_Kiesbank_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "AHs vor der Schleuse Iffezheim Rhein 2011"
-src = "images/AHs_vor_der_Schleuse_Iffezheim_Rhein_2011.jpg"
-[[images]]
-title = "Kiesbank in Kehl Rhein 2011"
-src = "images/Kiesbank_in_Kehl_Rhein_2011.jpg"
-[[images]]
-title = "Nirina Elina in Strassburg 2011"
-src = "images/Nirina_Elina_in_Strassburg_2011.jpg"
-[[images]]
-title = "Dom zu Speyer Rheinwanderfahrt 2011"
-src = "images/Dom_zu_Speyer_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Rheinschleuse Frankreich 2011"
-src = "images/Rheinschleuse_Frankreich_2011.jpg"
-[[images]]
-title = "Baden im Rhein 2011"
-src = "images/Baden_im_Rhein_2011.jpg"
-[[images]]
-title = "Gunter versenkt das Nibelungengold im Rhein 2011"
-src = "images/Gunter_versenkt_das_Nibelungengold_im_Rhein_2011.jpg"
-[[images]]
-title = "Dom zu Worms Rheinwanderrudern 2011"
-src = "images/Dom_zu_Worms_Rheinwanderrudern_2011.jpg"
-[[images]]
-title = "Hochmotivierte Kinderruderer Karlsruhe Rheinwanderfahrt 2011"
-src = "images/Hochmotivierte_Kinderruderer_Karlsruhe_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "AHs beim Skat Worms Wanderrudern Rhein 2011"
-src = "images/AHs_beim_Skat_Worms_Wanderrudern_Rhein_2011.jpg"
-[[images]]
-title = "Kochdienst in Eltville Rhein 2011"
-src = "images/Kochdienst_in_Eltville_Rhein_2011.jpg"
-[[images]]
-title = "Eltville Ruderboote Rhein 11"
-src = "images/Eltville_Ruderboote_Rhein_11.jpg"
-[[images]]
-title = "Rudervierer auf der Gebirgsstrecke Rhein 11"
-src = "images/Rudervierer_auf_der_Gebirgsstrecke_Rhein_11.jpg"
-[[images]]
-title = "Elina Rhein Gebirgsstrecke 2011"
-src = "images/Elina_Rhein_Gebirgsstrecke_2011.jpg"
-[[images]]
-title = "Kaub am Rhein 2011"
-src = "images/Kaub_am_Rhein_2011.jpg"
-[[images]]
-title = "Blick von der Lorelei Rheinwanderfahrt 2011"
-src = "images/Blick_von_der_Lorelei_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Lorelei Rheinwanderfahrt 2011"
-src = "images/Lorelei_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Ruderboot im Binger Loch Rheinwanderfahrt 2011"
-src = "images/Ruderboot_im_Binger_Loch_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Anstrengende Ruderstrecke nach Honnef Rheinwanderfahrt 2011"
-src = "images/Anstrengende_Ruderstrecke_nach_Honnef_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Steg in Honnef Rheinwanderfahrt 2011"
-src = "images/Steg_in_Honnef_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Weinberge am Rhein Wanderruderfahrt 2011"
-src = "images/Weinberge_am_Rhein_Wanderruderfahrt_2011.jpg"
-[[images]]
-title = "Deutsches Eck Rhein Mosel 2011"
-src = "images/Deutsches_Eck_Rhein_Mosel_2011.jpg"
-[[images]]
-title = "Elina zwischen den Frachtern Rhein 2011"
-src = "images/Elina_zwischen_den_Frachtern_Rhein_2011.jpg"
-[[images]]
-title = "Schiffsverkehr auf dem Niederrhein 11"
-src = "images/Schiffsverkehr_auf_dem_Niederrhein_11.jpg"
-[[images]]
-title = "ein paar Wellen auf dem Rhein 2011"
-src = "images/ein_paar_Wellen_auf_dem_Rhein_2011.jpg"
-[[images]]
-title = "Landdienst mit Grundnahrungsmittel Rheinfahrt 2011"
-src = "images/Landdienst_mit_Grundnahrungsmittel_Rheinfahrt_2011.jpg"
-[[images]]
-title = "Rees Bootshaus Rhein 2011"
-src = "images/Rees_Bootshaus_Rhein_2011.jpg"
-[[images]]
-title = "Rauchende Schlote am Unterrhein 2011"
-src = "images/Rauchende_Schlote_am_Unterrhein_2011.jpg"
-[[images]]
-title = "Elina for Leverkusen Rheinwanderfahrt 2011"
-src = "images/Elina_for_Leverkusen_Rheinwanderfahrt_2011.jpg"
-[[images]]
-title = "Start in Rees Rhein 2011"
-src = "images/Start_in_Rees_Rhein_2011.jpg"
-[[images]]
-title = "Ruderer vor dem Kraftwerk Rhein 2011"
-src = "images/Ruderer_vor_dem_Kraftwerk_Rhein_2011.jpg"
-[[images]]
-title = "Start bei Daventria Ijssel 2011"
-src = "images/Start_bei_Daventria_Ijssel_2011.jpg"
-[[images]]
-title = "Zweier auf dem Niederrhein 2011"
-src = "images/Zweier_auf_dem_Niederrhein_2011.jpg"
-[[images]]
-title = "lezte Bruecke in Kampen Ijssel 2011"
-src = "images/lezte_Bruecke_in_Kampen_Ijssel_2011.jpg"
-[[images]]
-title = "Maedchenboot auf dem Weg zum Ijsselmeer 2011"
-src = "images/Maedchenboot_auf_dem_Weg_zum_Ijsselmeer_2011.jpg"
-[[images]]
-title = "Abzweig der Ijssel 2011"
-src = "images/Abzweig_der_Ijssel_2011.jpg"
-[[images]]
-title = "Blick uebers Ijsselmeer 2011"
-src = "images/Blick_uebers_Ijsselmeer_2011.jpg"
-[[images]]
-title = "Bootsanhaenger am Ziel Ijssel 2011"
-src = "images/Bootsanhaenger_am_Ziel_Ijssel_2011.jpg"
-[[images]]
-title = "Sonnenuntergang am Ijsselmeer 2011"
-src = "images/Sonnenuntergang_am_Ijsselmeer_2011.jpg"
-[[images]]
-title = "Ijsselmeer Ruderboote am Ziel R11"
-src = "images/Ijsselmeer_Ruderboote_am_Ziel_R11.jpg"
-[[images]]
-title = "Ruderer beim Abschiedsessen Kampen 2011"
-src = "images/Ruderer_beim_Abschiedsessen_Kampen_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-05-01"
+date: "2011-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+- neckar
+- ijssel
+- ijsselmeer
+- waal
+- oder
+images:
+- src: images/Aufriggern_in_Grenzach_Rhein_2011.jpg
+  title: Aufriggern in Grenzach Rhein 2011
+- src: images/C-Dreier_auf_dem_Rheinseitenkanal_2011.jpg
+  title: C-Dreier auf dem Rheinseitenkanal 2011
+- src: images/Aussetzstelle_Neuenburg_Rheinwanderfahrt_2011.jpg
+  title: Aussetzstelle Neuenburg Rheinwanderfahrt 2011
+- src: images/Nirina_im_Ruderboot_in_Basel_Start_der_Rheinfahrt_11.jpg
+  title: Nirina im Ruderboot in Basel Start der Rheinfahrt 11
+- src: images/Vierer_auf_dem_Oberrhein_2011.jpg
+  title: Vierer auf dem Oberrhein 2011
+- src: images/Martin_klettert_am_Steg_Rheinwanderfahrt_2011.jpg
+  title: Martin klettert am Steg Rheinwanderfahrt 2011
+- src: images/Ruderboote_in_der_Rheinschleuse_2011.jpg
+  title: Ruderboote in der Rheinschleuse 2011
+- src: images/Gute_Ausstiegsstelle_Rein_2011.jpg
+  title: Gute Ausstiegsstelle Rein 2011
+- src: images/Thomas_in_der_Schleuse_Rheinwanderfahrt_2011.jpg
+  title: Thomas in der Schleuse Rheinwanderfahrt 2011
+- src: images/Rheinseitenkanal_2011.jpg
+  title: Rheinseitenkanal 2011
+- src: images/Dreier_ohne_in_Mannheim_Rhein__2011.jpg
+  title: Dreier ohne in Mannheim Rhein_ 2011
+- src: images/Sommerabend_in_Strassburg_Rhein_2011.jpg
+  title: Sommerabend in Strassburg Rhein 2011
+- src: images/Anlegestelle_Kehl_auf_der_Kiesbank_Rheinwanderfahrt_2011.jpg
+  title: Anlegestelle Kehl auf der Kiesbank Rheinwanderfahrt 2011
+- src: images/AHs_vor_der_Schleuse_Iffezheim_Rhein_2011.jpg
+  title: AHs vor der Schleuse Iffezheim Rhein 2011
+- src: images/Kiesbank_in_Kehl_Rhein_2011.jpg
+  title: Kiesbank in Kehl Rhein 2011
+- src: images/Nirina_Elina_in_Strassburg_2011.jpg
+  title: Nirina Elina in Strassburg 2011
+- src: images/Dom_zu_Speyer_Rheinwanderfahrt_2011.jpg
+  title: Dom zu Speyer Rheinwanderfahrt 2011
+- src: images/Rheinschleuse_Frankreich_2011.jpg
+  title: Rheinschleuse Frankreich 2011
+- src: images/Baden_im_Rhein_2011.jpg
+  title: Baden im Rhein 2011
+- src: images/Gunter_versenkt_das_Nibelungengold_im_Rhein_2011.jpg
+  title: Gunter versenkt das Nibelungengold im Rhein 2011
+- src: images/Dom_zu_Worms_Rheinwanderrudern_2011.jpg
+  title: Dom zu Worms Rheinwanderrudern 2011
+- src: images/Hochmotivierte_Kinderruderer_Karlsruhe_Rheinwanderfahrt_2011.jpg
+  title: Hochmotivierte Kinderruderer Karlsruhe Rheinwanderfahrt 2011
+- src: images/AHs_beim_Skat_Worms_Wanderrudern_Rhein_2011.jpg
+  title: AHs beim Skat Worms Wanderrudern Rhein 2011
+- src: images/Kochdienst_in_Eltville_Rhein_2011.jpg
+  title: Kochdienst in Eltville Rhein 2011
+- src: images/Eltville_Ruderboote_Rhein_11.jpg
+  title: Eltville Ruderboote Rhein 11
+- src: images/Rudervierer_auf_der_Gebirgsstrecke_Rhein_11.jpg
+  title: Rudervierer auf der Gebirgsstrecke Rhein 11
+- src: images/Elina_Rhein_Gebirgsstrecke_2011.jpg
+  title: Elina Rhein Gebirgsstrecke 2011
+- src: images/Kaub_am_Rhein_2011.jpg
+  title: Kaub am Rhein 2011
+- src: images/Blick_von_der_Lorelei_Rheinwanderfahrt_2011.jpg
+  title: Blick von der Lorelei Rheinwanderfahrt 2011
+- src: images/Lorelei_Rheinwanderfahrt_2011.jpg
+  title: Lorelei Rheinwanderfahrt 2011
+- src: images/Ruderboot_im_Binger_Loch_Rheinwanderfahrt_2011.jpg
+  title: Ruderboot im Binger Loch Rheinwanderfahrt 2011
+- src: images/Anstrengende_Ruderstrecke_nach_Honnef_Rheinwanderfahrt_2011.jpg
+  title: Anstrengende Ruderstrecke nach Honnef Rheinwanderfahrt 2011
+- src: images/Steg_in_Honnef_Rheinwanderfahrt_2011.jpg
+  title: Steg in Honnef Rheinwanderfahrt 2011
+- src: images/Weinberge_am_Rhein_Wanderruderfahrt_2011.jpg
+  title: Weinberge am Rhein Wanderruderfahrt 2011
+- src: images/Deutsches_Eck_Rhein_Mosel_2011.jpg
+  title: Deutsches Eck Rhein Mosel 2011
+- src: images/Elina_zwischen_den_Frachtern_Rhein_2011.jpg
+  title: Elina zwischen den Frachtern Rhein 2011
+- src: images/Schiffsverkehr_auf_dem_Niederrhein_11.jpg
+  title: Schiffsverkehr auf dem Niederrhein 11
+- src: images/ein_paar_Wellen_auf_dem_Rhein_2011.jpg
+  title: ein paar Wellen auf dem Rhein 2011
+- src: images/Landdienst_mit_Grundnahrungsmittel_Rheinfahrt_2011.jpg
+  title: Landdienst mit Grundnahrungsmittel Rheinfahrt 2011
+- src: images/Rees_Bootshaus_Rhein_2011.jpg
+  title: Rees Bootshaus Rhein 2011
+- src: images/Rauchende_Schlote_am_Unterrhein_2011.jpg
+  title: Rauchende Schlote am Unterrhein 2011
+- src: images/Elina_for_Leverkusen_Rheinwanderfahrt_2011.jpg
+  title: Elina for Leverkusen Rheinwanderfahrt 2011
+- src: images/Start_in_Rees_Rhein_2011.jpg
+  title: Start in Rees Rhein 2011
+- src: images/Ruderer_vor_dem_Kraftwerk_Rhein_2011.jpg
+  title: Ruderer vor dem Kraftwerk Rhein 2011
+- src: images/Start_bei_Daventria_Ijssel_2011.jpg
+  title: Start bei Daventria Ijssel 2011
+- src: images/Zweier_auf_dem_Niederrhein_2011.jpg
+  title: Zweier auf dem Niederrhein 2011
+- src: images/lezte_Bruecke_in_Kampen_Ijssel_2011.jpg
+  title: lezte Bruecke in Kampen Ijssel 2011
+- src: images/Maedchenboot_auf_dem_Weg_zum_Ijsselmeer_2011.jpg
+  title: Maedchenboot auf dem Weg zum Ijsselmeer 2011
+- src: images/Abzweig_der_Ijssel_2011.jpg
+  title: Abzweig der Ijssel 2011
+- src: images/Blick_uebers_Ijsselmeer_2011.jpg
+  title: Blick uebers Ijsselmeer 2011
+- src: images/Bootsanhaenger_am_Ziel_Ijssel_2011.jpg
+  title: Bootsanhaenger am Ziel Ijssel 2011
+- src: images/Sonnenuntergang_am_Ijsselmeer_2011.jpg
+  title: Sonnenuntergang am Ijsselmeer 2011
+- src: images/Ijsselmeer_Ruderboote_am_Ziel_R11.jpg
+  title: Ijsselmeer Ruderboote am Ziel R11
+- src: images/Ruderer_beim_Abschiedsessen_Kampen_2011.jpg
+  title: Ruderer beim Abschiedsessen Kampen 2011
+länder:
+- schweiz
+title: Rhein 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

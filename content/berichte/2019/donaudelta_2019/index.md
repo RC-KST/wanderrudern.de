@@ -1,175 +1,128 @@
-+++
-title = "Donaudelta 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["donau", "aller", "oder", "mittelmeer"]
-"länder" = ["ungarn", "ukraine", "slowakei"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anreise zur Donaum mit Ruderbooten 2019"
-src = "images/Anreise_zur_Donaum_mit_Ruderbooten_2019.jpg"
-[[images]]
-title = "Boote riggern Calararsi 2019"
-src = "images/Boote_riggern_Calararsi_2019.jpg"
-[[images]]
-title = "Vierer im ruppigen Wasser Donau 2019"
-src = "images/Vierer_im_ruppigen_Wasser_Donau_2019.jpg"
-[[images]]
-title = "Donau Johanna auf Schlag 2019"
-src = "images/Donau_Johanna_auf_Schlag_2019.jpg"
-[[images]]
-title = "Ruderer mit Schafherde Donau 2019"
-src = "images/Ruderer_mit_Schafherde_Donau_2019.jpg"
-[[images]]
-title = "Bruecke von Cernavoda Isabel Donau 2019"
-src = "images/Bruecke_von_Cernavoda_Isabel_Donau_2019.jpg"
-[[images]]
-title = "Pension bei Cernavoda Donau 2019"
-src = "images/Pension_bei_Cernavoda_Donau_2019.jpg"
-[[images]]
-title = "Hotel bei Cernavoda Donau 2019-1jpg"
-src = "images/Hotel_bei_Cernavoda_Donau_2019-1jpg.jpg"
-[[images]]
-title = "Donau mit Gegenwind 2019"
-src = "images/Donau_mit_Gegenwind_2019.jpg"
-[[images]]
-title = "Anlegen im Windschatten Donau 2019"
-src = "images/Anlegen_im_Windschatten_Donau_2019.jpg"
-[[images]]
-title = "Boot umtragen am Nebenarm Donau 2019"
-src = "images/Boot_umtragen_am_Nebenarm_Donau_2019.jpg"
-[[images]]
-title = "Le Mos Fane Marasu 2019"
-src = "images/Le_Mos_Fane_Marasu_2019.jpg"
-[[images]]
-title = "Old Fanes Lodge Marasu Donau 2019"
-src = "images/Old_Fanes_Lodge_Marasu_Donau_2019.jpg"
-[[images]]
-title = "Warten auf die Faehre Donau 2019"
-src = "images/Warten_auf_die_Faehre_Donau_2019.jpg"
-[[images]]
-title = "Galati im Hafen Ruderboot Donau 2019"
-src = "images/Galati_im_Hafen_Ruderboot_Donau_2019.jpg"
-[[images]]
-title = "Seeschifffahrt auf der Donau 2019"
-src = "images/Seeschifffahrt_auf_der_Donau_2019.jpg"
-[[images]]
-title = "Hotel Riverside in Galati 2019"
-src = "images/Hotel_Riverside_in_Galati_2019.jpg"
-[[images]]
-title = "Ruebezahl im Baum Donau 2019"
-src = "images/Ruebezahl_im_Baum_Donau_2019.jpg"
-[[images]]
-title = "Ruinen in Isaccea Donau 2019"
-src = "images/Ruinen_in_Isaccea_Donau_2019.jpg"
-[[images]]
-title = "Regenwetter auf der Donau Johanna 2019"
-src = "images/Regenwetter_auf_der_Donau_Johanna_2019.jpg"
-[[images]]
-title = "Polizeikontrolle Isaccea Donau 2019"
-src = "images/Polizeikontrolle_Isaccea_Donau_2019.jpg"
-[[images]]
-title = "Ortszentrum Isaccea Lars Donau 2019"
-src = "images/Ortszentrum_Isaccea_Lars_Donau_2019.jpg"
-[[images]]
-title = "Neuwagen in Isaccea Donau 2019"
-src = "images/Neuwagen_in_Isaccea_Donau_2019.jpg"
-[[images]]
-title = "Hagelschauer Ruderboot Tulcea Donau 2019"
-src = "images/Hagelschauer_Ruderboot_Tulcea_Donau_2019.jpg"
-[[images]]
-title = "Tulcea vom Wasser aus Donau 2019"
-src = "images/Tulcea_vom_Wasser_aus_Donau_2019.jpg"
-[[images]]
-title = "Aussetzstelle Nufaru Donau 2019"
-src = "images/Aussetzstelle_Nufaru_Donau_2019.jpg"
-[[images]]
-title = "Kneipe Nufaru Donau 2019"
-src = "images/Kneipe_Nufaru_Donau_2019.jpg"
-[[images]]
-title = "Manfred im Donaudelta 2019"
-src = "images/Manfred_im_Donaudelta_2019.jpg"
-[[images]]
-title = "Graeben im Donaudelta 2019"
-src = "images/Graeben_im_Donaudelta_2019.jpg"
-[[images]]
-title = "Lars Donau kurz vor dem Schwarzen Meer 2019"
-src = "images/Lars_Donau_kurz_vor_dem_Schwarzen_Meer_2019.jpg"
-[[images]]
-title = "Pelikane im Donaudelta 2019"
-src = "images/Pelikane_im_Donaudelta_2019.jpg"
-[[images]]
-title = "Auf dem schwarzen Meer mit dem Ruderboot 2019"
-src = "images/Auf_dem_schwarzen_Meer_mit_dem_Ruderboot_2019.jpg"
-[[images]]
-title = "Vierer auf dem Schwarzen Meer Donau 2019"
-src = "images/Vierer_auf_dem_Schwarzen_Meer_Donau_2019.jpg"
-[[images]]
-title = "Maria am Schwarzmeerstrand Donau 2019"
-src = "images/Maria_am_Schwarzmeerstrand_Donau_2019.jpg"
-[[images]]
-title = "Ruderer am Schwarzen Meer Donau 2019"
-src = "images/Ruderer_am_Schwarzen_Meer_Donau_2019.jpg"
-[[images]]
-title = "Suempfe an der Kueste des Schwarzen Meeres Donau 2019"
-src = "images/Suempfe_an_der_Kueste_des_Schwarzen_Meeres_Donau_2019.jpg"
-[[images]]
-title = "Orthodoxe Kirche Sfantu Gheorghe Donau 2019"
-src = "images/Orthodoxe_Kirche_Sfantu_Gheorghe_Donau_2019.jpg"
-[[images]]
-title = "Jo als Babbysitter Donau 2019"
-src = "images/Jo_als_Babbysitter_Donau_2019.jpg"
-[[images]]
-title = "Sfantu Gheorghe Fischerhafen Ruderboot Donau 2019"
-src = "images/Sfantu_Gheorghe_Fischerhafen_Ruderboot_Donau_2019.jpg"
-[[images]]
-title = "Strassse in Sfantu Gheorghe Donau 2019"
-src = "images/Strassse_in_Sfantu_Gheorghe_Donau_2019.jpg"
-[[images]]
-title = "Fischer an der Donau 2019"
-src = "images/Fischer_an_der_Donau_2019.jpg"
-[[images]]
-title = "Johanna saegt den Weg frei Donaudelta 2019"
-src = "images/Johanna_saegt_den_Weg_frei_Donaudelta_2019.jpg"
-[[images]]
-title = "Pension Ichim in Sfantu Gheorghe Donau 2019"
-src = "images/Pension_Ichim_in_Sfantu_Gheorghe_Donau_2019.jpg"
-[[images]]
-title = "Johanna raeumt den Weg fuer die Boote frei Donaudelta 2019"
-src = "images/Johanna_raeumt_den_Weg_fuer_die_Boote_frei_Donaudelta_2019.jpg"
-[[images]]
-title = "wir kommen immer durch Donaudelta 2019"
-src = "images/wir_kommen_immer_durch_Donaudelta_2019.jpg"
-[[images]]
-title = "Kanal Crasnicol Donaudelta 2019"
-src = "images/Kanal_Crasnicol_Donaudelta_2019.jpg"
-[[images]]
-title = "kleines Hindernis im Donaudelta 2019"
-src = "images/kleines_Hindernis_im_Donaudelta_2019.jpg"
-[[images]]
-title = "Michel beim chillen Donau 2019"
-src = "images/Michel_beim_chillen_Donau_2019.jpg"
-[[images]]
-title = "Isabel im Donaudelta 2019"
-src = "images/Isabel_im_Donaudelta_2019.jpg"
-[[images]]
-title = "Quartier in Sarichoi Donau 2019"
-src = "images/Quartier_in_Sarichoi_Donau_2019.jpg"
-[[images]]
-title = "Lacul Razim Sarichoi Donau 2019"
-src = "images/Lacul_Razim_Sarichoi_Donau_2019.jpg"
-[[images]]
-title = "Kirche in Sarichoi Donau 2019"
-src = "images/Kirche_in_Sarichoi_Donau_2019.jpg"
-[[images]]
-title = "Pension Piui in Dunavatu de Jos Donau 2019"
-src = "images/Pension_Piui_in_Dunavatu_de_Jos_Donau_2019.jpg"
-[[images]]
-title = "Sonnenuntergang am Lacul Razim Donaudelta 2019"
-src = "images/Sonnenuntergang_am_Lacul_Razim_Donaudelta_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- aller
+- oder
+- mittelmeer
+images:
+- src: images/Anreise_zur_Donaum_mit_Ruderbooten_2019.jpg
+  title: Anreise zur Donaum mit Ruderbooten 2019
+- src: images/Boote_riggern_Calararsi_2019.jpg
+  title: Boote riggern Calararsi 2019
+- src: images/Vierer_im_ruppigen_Wasser_Donau_2019.jpg
+  title: Vierer im ruppigen Wasser Donau 2019
+- src: images/Donau_Johanna_auf_Schlag_2019.jpg
+  title: Donau Johanna auf Schlag 2019
+- src: images/Ruderer_mit_Schafherde_Donau_2019.jpg
+  title: Ruderer mit Schafherde Donau 2019
+- src: images/Bruecke_von_Cernavoda_Isabel_Donau_2019.jpg
+  title: Bruecke von Cernavoda Isabel Donau 2019
+- src: images/Pension_bei_Cernavoda_Donau_2019.jpg
+  title: Pension bei Cernavoda Donau 2019
+- src: images/Hotel_bei_Cernavoda_Donau_2019-1jpg.jpg
+  title: Hotel bei Cernavoda Donau 2019-1jpg
+- src: images/Donau_mit_Gegenwind_2019.jpg
+  title: Donau mit Gegenwind 2019
+- src: images/Anlegen_im_Windschatten_Donau_2019.jpg
+  title: Anlegen im Windschatten Donau 2019
+- src: images/Boot_umtragen_am_Nebenarm_Donau_2019.jpg
+  title: Boot umtragen am Nebenarm Donau 2019
+- src: images/Le_Mos_Fane_Marasu_2019.jpg
+  title: Le Mos Fane Marasu 2019
+- src: images/Old_Fanes_Lodge_Marasu_Donau_2019.jpg
+  title: Old Fanes Lodge Marasu Donau 2019
+- src: images/Warten_auf_die_Faehre_Donau_2019.jpg
+  title: Warten auf die Faehre Donau 2019
+- src: images/Galati_im_Hafen_Ruderboot_Donau_2019.jpg
+  title: Galati im Hafen Ruderboot Donau 2019
+- src: images/Seeschifffahrt_auf_der_Donau_2019.jpg
+  title: Seeschifffahrt auf der Donau 2019
+- src: images/Hotel_Riverside_in_Galati_2019.jpg
+  title: Hotel Riverside in Galati 2019
+- src: images/Ruebezahl_im_Baum_Donau_2019.jpg
+  title: Ruebezahl im Baum Donau 2019
+- src: images/Ruinen_in_Isaccea_Donau_2019.jpg
+  title: Ruinen in Isaccea Donau 2019
+- src: images/Regenwetter_auf_der_Donau_Johanna_2019.jpg
+  title: Regenwetter auf der Donau Johanna 2019
+- src: images/Polizeikontrolle_Isaccea_Donau_2019.jpg
+  title: Polizeikontrolle Isaccea Donau 2019
+- src: images/Ortszentrum_Isaccea_Lars_Donau_2019.jpg
+  title: Ortszentrum Isaccea Lars Donau 2019
+- src: images/Neuwagen_in_Isaccea_Donau_2019.jpg
+  title: Neuwagen in Isaccea Donau 2019
+- src: images/Hagelschauer_Ruderboot_Tulcea_Donau_2019.jpg
+  title: Hagelschauer Ruderboot Tulcea Donau 2019
+- src: images/Tulcea_vom_Wasser_aus_Donau_2019.jpg
+  title: Tulcea vom Wasser aus Donau 2019
+- src: images/Aussetzstelle_Nufaru_Donau_2019.jpg
+  title: Aussetzstelle Nufaru Donau 2019
+- src: images/Kneipe_Nufaru_Donau_2019.jpg
+  title: Kneipe Nufaru Donau 2019
+- src: images/Manfred_im_Donaudelta_2019.jpg
+  title: Manfred im Donaudelta 2019
+- src: images/Graeben_im_Donaudelta_2019.jpg
+  title: Graeben im Donaudelta 2019
+- src: images/Lars_Donau_kurz_vor_dem_Schwarzen_Meer_2019.jpg
+  title: Lars Donau kurz vor dem Schwarzen Meer 2019
+- src: images/Pelikane_im_Donaudelta_2019.jpg
+  title: Pelikane im Donaudelta 2019
+- src: images/Auf_dem_schwarzen_Meer_mit_dem_Ruderboot_2019.jpg
+  title: Auf dem schwarzen Meer mit dem Ruderboot 2019
+- src: images/Vierer_auf_dem_Schwarzen_Meer_Donau_2019.jpg
+  title: Vierer auf dem Schwarzen Meer Donau 2019
+- src: images/Maria_am_Schwarzmeerstrand_Donau_2019.jpg
+  title: Maria am Schwarzmeerstrand Donau 2019
+- src: images/Ruderer_am_Schwarzen_Meer_Donau_2019.jpg
+  title: Ruderer am Schwarzen Meer Donau 2019
+- src: images/Suempfe_an_der_Kueste_des_Schwarzen_Meeres_Donau_2019.jpg
+  title: Suempfe an der Kueste des Schwarzen Meeres Donau 2019
+- src: images/Orthodoxe_Kirche_Sfantu_Gheorghe_Donau_2019.jpg
+  title: Orthodoxe Kirche Sfantu Gheorghe Donau 2019
+- src: images/Jo_als_Babbysitter_Donau_2019.jpg
+  title: Jo als Babbysitter Donau 2019
+- src: images/Sfantu_Gheorghe_Fischerhafen_Ruderboot_Donau_2019.jpg
+  title: Sfantu Gheorghe Fischerhafen Ruderboot Donau 2019
+- src: images/Strassse_in_Sfantu_Gheorghe_Donau_2019.jpg
+  title: Strassse in Sfantu Gheorghe Donau 2019
+- src: images/Fischer_an_der_Donau_2019.jpg
+  title: Fischer an der Donau 2019
+- src: images/Johanna_saegt_den_Weg_frei_Donaudelta_2019.jpg
+  title: Johanna saegt den Weg frei Donaudelta 2019
+- src: images/Pension_Ichim_in_Sfantu_Gheorghe_Donau_2019.jpg
+  title: Pension Ichim in Sfantu Gheorghe Donau 2019
+- src: images/Johanna_raeumt_den_Weg_fuer_die_Boote_frei_Donaudelta_2019.jpg
+  title: Johanna raeumt den Weg fuer die Boote frei Donaudelta 2019
+- src: images/wir_kommen_immer_durch_Donaudelta_2019.jpg
+  title: wir kommen immer durch Donaudelta 2019
+- src: images/Kanal_Crasnicol_Donaudelta_2019.jpg
+  title: Kanal Crasnicol Donaudelta 2019
+- src: images/kleines_Hindernis_im_Donaudelta_2019.jpg
+  title: kleines Hindernis im Donaudelta 2019
+- src: images/Michel_beim_chillen_Donau_2019.jpg
+  title: Michel beim chillen Donau 2019
+- src: images/Isabel_im_Donaudelta_2019.jpg
+  title: Isabel im Donaudelta 2019
+- src: images/Quartier_in_Sarichoi_Donau_2019.jpg
+  title: Quartier in Sarichoi Donau 2019
+- src: images/Lacul_Razim_Sarichoi_Donau_2019.jpg
+  title: Lacul Razim Sarichoi Donau 2019
+- src: images/Kirche_in_Sarichoi_Donau_2019.jpg
+  title: Kirche in Sarichoi Donau 2019
+- src: images/Pension_Piui_in_Dunavatu_de_Jos_Donau_2019.jpg
+  title: Pension Piui in Dunavatu de Jos Donau 2019
+- src: images/Sonnenuntergang_am_Lacul_Razim_Donaudelta_2019.jpg
+  title: Sonnenuntergang am Lacul Razim Donaudelta 2019
+länder:
+- ungarn
+- ukraine
+- slowakei
+title: Donaudelta 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

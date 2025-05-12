@@ -1,79 +1,62 @@
-+++
-title = "Kroatien Ruderfahrt 2007"
-author = ""
-date = 2007-02-02T01:00:00+02:00
-begin = "2007-02-01"
-"gewässer" = ["mittelmeer", "kroatische adria", "novigrader meer"]
-"länder" = ["deutschland", "österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Chrishe kocht"
-src = "images/Chrishe_kocht.JPG"
-[[images]]
-title = "Boote startklar machen"
-src = "images/Boote_startklar_machen.JPG"
-[[images]]
-title = "Boote vor dem Start"
-src = "images/Boote_vor_dem_Start.JPG"
-[[images]]
-title = "Mala Paklenica"
-src = "images/Mala_Paklenica.JPG"
-[[images]]
-title = "Mannschaft der Saimaa auf der Adria"
-src = "images/Mannschaft_der_Saimaa_auf_der_Adria.JPG"
-[[images]]
-title = "Steilwand Velebit"
-src = "images/Steilwand_Velebit.JPG"
-[[images]]
-title = "Ruderer beim Wandern im Velebit"
-src = "images/Ruderer_beim_Wandern_im_Velebit.JPG"
-[[images]]
-title = "Matze vor der kargen Kueste"
-src = "images/Matze_vor_der_kargen_Kueste.JPG"
-[[images]]
-title = "Ruderboote im Adriahafen"
-src = "images/Ruderboote_im_Adriahafen.JPG"
-[[images]]
-title = "Patrick Sophie beim Sonnen"
-src = "images/Patrick_Sophie_beim_Sonnen.JPG"
-[[images]]
-title = "Stefan Durchfahrt zum Novigrader Meer"
-src = "images/Stefan_Durchfahrt_zum_Novigrader_Meer.JPG"
-[[images]]
-title = "Ruderboot in Maslenica am Steg"
-src = "images/Ruderboot_in_Maslenica_am_Steg.JPG"
-[[images]]
-title = "Kriegsschaeden Maslenica"
-src = "images/Kriegsschaeden_Maslenica.JPG"
-[[images]]
-title = "Patrick vor der Mondlandschaft"
-src = "images/Patrick_vor_der_Mondlandschaft.JPG"
-[[images]]
-title = "Grotte an der Adria"
-src = "images/Grotte_an_der_Adria.JPG"
-[[images]]
-title = "Krka Wasserfall von unten"
-src = "images/Krka_Wasserfall_von_unten.JPG"
-[[images]]
-title = "Patrick auf dem Wasserfallsteg"
-src = "images/Patrick_auf_dem_Wasserfallsteg.JPG"
-[[images]]
-title = "Krka Wasserfaelle 2007"
-src = "images/Krka_Wasserfaelle_2007.JPG"
-[[images]]
-title = "Baden 9 Februar"
-src = "images/Baden_9_Februar.JPG"
-[[images]]
-title = "Badende Adria Februar"
-src = "images/Badende_Adria_Februar.JPG"
-[[images]]
-title = "Badende Adria"
-src = "images/Badende_Adria.JPG"
-[[images]]
-title = "Moritz Novigrader Meer"
-src = "images/Moritz_Novigrader_Meer.JPG"
-
-+++
+---
+author: ""
+begin: "2007-02-01"
+date: "2007-02-02T01:00:00+02:00"
+gewässer:
+- mittelmeer
+- kroatische adria
+- novigrader meer
+images:
+- src: images/Chrishe_kocht.JPG
+  title: Chrishe kocht
+- src: images/Boote_startklar_machen.JPG
+  title: Boote startklar machen
+- src: images/Boote_vor_dem_Start.JPG
+  title: Boote vor dem Start
+- src: images/Mala_Paklenica.JPG
+  title: Mala Paklenica
+- src: images/Mannschaft_der_Saimaa_auf_der_Adria.JPG
+  title: Mannschaft der Saimaa auf der Adria
+- src: images/Steilwand_Velebit.JPG
+  title: Steilwand Velebit
+- src: images/Ruderer_beim_Wandern_im_Velebit.JPG
+  title: Ruderer beim Wandern im Velebit
+- src: images/Matze_vor_der_kargen_Kueste.JPG
+  title: Matze vor der kargen Kueste
+- src: images/Ruderboote_im_Adriahafen.JPG
+  title: Ruderboote im Adriahafen
+- src: images/Patrick_Sophie_beim_Sonnen.JPG
+  title: Patrick Sophie beim Sonnen
+- src: images/Stefan_Durchfahrt_zum_Novigrader_Meer.JPG
+  title: Stefan Durchfahrt zum Novigrader Meer
+- src: images/Ruderboot_in_Maslenica_am_Steg.JPG
+  title: Ruderboot in Maslenica am Steg
+- src: images/Kriegsschaeden_Maslenica.JPG
+  title: Kriegsschaeden Maslenica
+- src: images/Patrick_vor_der_Mondlandschaft.JPG
+  title: Patrick vor der Mondlandschaft
+- src: images/Grotte_an_der_Adria.JPG
+  title: Grotte an der Adria
+- src: images/Krka_Wasserfall_von_unten.JPG
+  title: Krka Wasserfall von unten
+- src: images/Patrick_auf_dem_Wasserfallsteg.JPG
+  title: Patrick auf dem Wasserfallsteg
+- src: images/Krka_Wasserfaelle_2007.JPG
+  title: Krka Wasserfaelle 2007
+- src: images/Baden_9_Februar.JPG
+  title: Baden 9 Februar
+- src: images/Badende_Adria_Februar.JPG
+  title: Badende Adria Februar
+- src: images/Badende_Adria.JPG
+  title: Badende Adria
+- src: images/Moritz_Novigrader_Meer.JPG
+  title: Moritz Novigrader Meer
+länder:
+- deutschland
+- österreich
+title: Kroatien Ruderfahrt 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

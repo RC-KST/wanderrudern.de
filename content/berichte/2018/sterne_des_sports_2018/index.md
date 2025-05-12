@@ -1,16 +1,17 @@
-+++
-title = "Sterne des Sports 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["po", "erne"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sterne des Sports 2018 RC KST"
-src = "images/Sterne_des_Sports_2018_RC_KST.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- po
+- erne
+images:
+- src: images/Sterne_des_Sports_2018_RC_KST.jpg
+  title: Sterne des Sports 2018 RC KST
+länder: []
+title: Sterne des Sports 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

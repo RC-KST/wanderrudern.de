@@ -1,37 +1,32 @@
-+++
-title = "Oste Marathon Hemmoor 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["elbe", "oste", "pielisjoki"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Mannschaft RC KST in Hemmoor 2014"
-src = "images/Mannschaft_RC_KST_in_Hemmoor_2014.jpg"
-[[images]]
-title = "Abends in Hemmoor 2014"
-src = "images/Abends_in_Hemmoor_2014.jpg"
-[[images]]
-title = "Jugendvierer Hemmoor Oste Marathon 2014"
-src = "images/Jugendvierer_Hemmoor_Oste_Marathon_2014.jpg"
-[[images]]
-title = "AH-Vierer Oste Marathon 2014"
-src = "images/AH-Vierer_Oste_Marathon_2014.jpg"
-[[images]]
-title = "Seehund auf Sansbank Osteriff 2014"
-src = "images/Seehund_auf_Sansbank_Osteriff_2014.jpg"
-[[images]]
-title = "Jugend Ruderer Osteriff 2014"
-src = "images/Jugend_Ruderer_Osteriff_2014.jpg"
-[[images]]
-title = "Frauenmannschaft auf dem Osteriff 2014"
-src = "images/Frauenmannschaft_auf_dem_Osteriff_2014.jpg"
-[[images]]
-title = "Containerfrachter am Osteriff 2014"
-src = "images/Containerfrachter_am_Osteriff_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oste
+- pielisjoki
+images:
+- src: images/Mannschaft_RC_KST_in_Hemmoor_2014.jpg
+  title: Mannschaft RC KST in Hemmoor 2014
+- src: images/Abends_in_Hemmoor_2014.jpg
+  title: Abends in Hemmoor 2014
+- src: images/Jugendvierer_Hemmoor_Oste_Marathon_2014.jpg
+  title: Jugendvierer Hemmoor Oste Marathon 2014
+- src: images/AH-Vierer_Oste_Marathon_2014.jpg
+  title: AH-Vierer Oste Marathon 2014
+- src: images/Seehund_auf_Sansbank_Osteriff_2014.jpg
+  title: Seehund auf Sansbank Osteriff 2014
+- src: images/Jugend_Ruderer_Osteriff_2014.jpg
+  title: Jugend Ruderer Osteriff 2014
+- src: images/Frauenmannschaft_auf_dem_Osteriff_2014.jpg
+  title: Frauenmannschaft auf dem Osteriff 2014
+- src: images/Containerfrachter_am_Osteriff_2014.jpg
+  title: Containerfrachter am Osteriff 2014
+länder: []
+title: Oste Marathon Hemmoor 2014
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,37 +1,33 @@
-+++
-title = "Altruppin 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["havel", "teltowkanal", "ruppiner see", "wannsee"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Wannsee Sonia Nirina Altruppin-Wanderfahrt 2014"
-src = "images/Wannsee_Sonia_Nirina_Altruppin-Wanderfahrt_2014.jpg"
-[[images]]
-title = "Stahlwerk Hennigsdorf Altruppin-Wanderfahrt 2014"
-src = "images/Stahlwerk_Hennigsdorf_Altruppin-Wanderfahrt_2014.jpg"
-[[images]]
-title = "Schleuse Pinnow Altruppin-Wanderfahrt 2014"
-src = "images/Schleuse_Pinnow_Altruppin-Wanderfahrt_2014.jpg"
-[[images]]
-title = "Ruppiner Kanal Ruderboot Altruppin-Wanderfahrt 2014"
-src = "images/Ruppiner_Kanal_Ruderboot_Altruppin-Wanderfahrt_2014.jpg"
-[[images]]
-title = "Deutschlandzweier auf dem Buetzsee Altruppin-Wanderfahrt 2014"
-src = "images/Deutschlandzweier_auf_dem_Buetzsee_Altruppin-Wanderfahrt_2014.jpg"
-[[images]]
-title = "Wustrauer Rhin Altruppin-Wanderfahrt 2014"
-src = "images/Wustrauer_Rhin_Altruppin-Wanderfahrt_2014.jpg"
-[[images]]
-title = "Grillen in Altruppin 2014"
-src = "images/Grillen_in_Altruppin_2014.jpg"
-[[images]]
-title = "Kneipenbesuch am Zermuetzelsee Altruppin-Wanderfahrt 2014"
-src = "images/Kneipenbesuch_am_Zermuetzelsee_Altruppin-Wanderfahrt_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- teltowkanal
+- ruppiner see
+- wannsee
+images:
+- src: images/Wannsee_Sonia_Nirina_Altruppin-Wanderfahrt_2014.jpg
+  title: Wannsee Sonia Nirina Altruppin-Wanderfahrt 2014
+- src: images/Stahlwerk_Hennigsdorf_Altruppin-Wanderfahrt_2014.jpg
+  title: Stahlwerk Hennigsdorf Altruppin-Wanderfahrt 2014
+- src: images/Schleuse_Pinnow_Altruppin-Wanderfahrt_2014.jpg
+  title: Schleuse Pinnow Altruppin-Wanderfahrt 2014
+- src: images/Ruppiner_Kanal_Ruderboot_Altruppin-Wanderfahrt_2014.jpg
+  title: Ruppiner Kanal Ruderboot Altruppin-Wanderfahrt 2014
+- src: images/Deutschlandzweier_auf_dem_Buetzsee_Altruppin-Wanderfahrt_2014.jpg
+  title: Deutschlandzweier auf dem Buetzsee Altruppin-Wanderfahrt 2014
+- src: images/Wustrauer_Rhin_Altruppin-Wanderfahrt_2014.jpg
+  title: Wustrauer Rhin Altruppin-Wanderfahrt 2014
+- src: images/Grillen_in_Altruppin_2014.jpg
+  title: Grillen in Altruppin 2014
+- src: images/Kneipenbesuch_am_Zermuetzelsee_Altruppin-Wanderfahrt_2014.jpg
+  title: Kneipenbesuch am Zermuetzelsee Altruppin-Wanderfahrt 2014
+länder: []
+title: Altruppin 2014
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

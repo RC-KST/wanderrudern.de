@@ -1,13 +1,19 @@
-+++
-title = "Spreewald 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["aller", "dahme", "spree", "spreewald", "oder"]
-"länder" = ["deutschland", "schweiz"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- dahme
+- spree
+- spreewald
+- oder
+länder:
+- deutschland
+- schweiz
+title: Spreewald 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,19 +1,17 @@
-+++
-title = "Obmannskurs 2022"
-author = ""
-date = 2022-01-01T01:00:00+02:00
-begin = "2022-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs 2022 bei Stoffonkel"
-src = "images/Obmannskurs_2022_bei_Stoffonkel.jpg"
-[[images]]
-title = "Obammnskurs 2022 das neue Ergometer"
-src = "images/Obammnskurs_2022_das_neue_Ergometer.jpg"
-
-+++
+---
+author: ""
+begin: "2022-01-01"
+date: "2022-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_2022_bei_Stoffonkel.jpg
+  title: Obmannskurs 2022 bei Stoffonkel
+- src: images/Obammnskurs_2022_das_neue_Ergometer.jpg
+  title: Obammnskurs 2022 das neue Ergometer
+länder: []
+title: Obmannskurs 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

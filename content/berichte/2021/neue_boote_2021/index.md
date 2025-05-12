@@ -1,28 +1,23 @@
-+++
-title = "Neue Boote 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Marathon+ Ruderboot Shannon 2021"
-src = "images/Marathon__Ruderboot_Shannon_2021.jpg"
-[[images]]
-title = "Trainingseiner Ruderboot Schatterinchen 2021"
-src = "images/Trainingseiner_Ruderboot_Schatterinchen_2021.jpg"
-[[images]]
-title = "Inrigger 3x+ 2021"
-src = "images/Inrigger_3x__2021.jpg"
-[[images]]
-title = "E-Vierer Bandak 2021"
-src = "images/E-Vierer_Bandak_2021.jpg"
-[[images]]
-title = "Inrigger 3x+ vor der Reparatur1"
-src = "images/Inrigger_3x__vor_der_Reparatur1.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Marathon__Ruderboot_Shannon_2021.jpg
+  title: Marathon+ Ruderboot Shannon 2021
+- src: images/Trainingseiner_Ruderboot_Schatterinchen_2021.jpg
+  title: Trainingseiner Ruderboot Schatterinchen 2021
+- src: images/Inrigger_3x__2021.jpg
+  title: Inrigger 3x+ 2021
+- src: images/E-Vierer_Bandak_2021.jpg
+  title: E-Vierer Bandak 2021
+- src: images/Inrigger_3x__vor_der_Reparatur1.jpg
+  title: Inrigger 3x+ vor der Reparatur1
+länder: []
+title: Neue Boote 2021
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

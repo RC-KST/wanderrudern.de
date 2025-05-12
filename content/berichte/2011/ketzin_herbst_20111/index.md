@@ -1,13 +1,14 @@
-+++
-title = "Ketzin Herbst 2011"
-author = ""
-date = 2011-11-11T01:00:00+02:00
-begin = "2011-11-01"
-"gewässer" = ["havel", "trebelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2011-11-01"
+date: "2011-11-11T01:00:00+02:00"
+gewässer:
+- havel
+- trebelsee
+länder: []
+title: Ketzin Herbst 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

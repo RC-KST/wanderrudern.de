@@ -1,157 +1,118 @@
-+++
-title = "Polen Bug Narew Weichsel Ostsee 2013"
-author = ""
-date = 2013-05-05T01:00:00+02:00
-begin = "2013-05-01"
-"gewässer" = ["ostsee", "oder", "weichsel", "narew", "bug", "po", "saimaa"]
-"länder" = ["polen", "ukraine"]
-"typ" = "marathon"
-[[images]]
-title = "Grenze Dorohusk in die Ukraine Bug 2013-1"
-src = "images/Grenze_Dorohusk_in_die_Ukraine_Bug_2013-1.jpg"
-[[images]]
-title = "einsetzen swierze Bug 2013"
-src = "images/einsetzen_swierze_Bug_2013.jpg"
-[[images]]
-title = "einsetzstelle am Bug Swierze 2013"
-src = "images/einsetzstelle_am_Bug_Swierze_2013.jpg"
-[[images]]
-title = "oberer bug 2013"
-src = "images/oberer_bug_2013.jpg"
-[[images]]
-title = "Landdienst am Bug bei Zbereze 2013"
-src = "images/Landdienst_am_Bug_bei_Zbereze_2013.jpg"
-[[images]]
-title = "umleitung auf dem Bug 2013"
-src = "images/umleitung_auf_dem_Bug_2013.jpg"
-[[images]]
-title = "umleitung verfehlt Bug 2013"
-src = "images/umleitung_verfehlt_Bug_2013.jpg"
-[[images]]
-title = "Aussetzstelle zbereze Bug 2013"
-src = "images/Aussetzstelle_zbereze_Bug_2013.jpg"
-[[images]]
-title = "annierose auf dem Bug 2013"
-src = "images/annierose_auf_dem_Bug_2013.jpg"
-[[images]]
-title = "bug 2013  tag 2"
-src = "images/bug_2013__tag_21.jpg"
-[[images]]
-title = "Lagerfeuer in Sobibor Bug 2013"
-src = "images/Lagerfeuer_in_Sobibor_Bug_2013.jpg"
-[[images]]
-title = "Mittagspause im angesicht von belorus bug 2013"
-src = "images/Mittagspause_im_angesicht_von_belorus_bug_2013.jpg"
-[[images]]
-title = "Sumpf so weit das Auge reicht Bug 2013"
-src = "images/Sumpf_so_weit_das_Auge_reicht_Bug_2013.jpg"
-[[images]]
-title = "Bug bei Koden 2013"
-src = "images/Bug_bei_Koden_2013.jpg"
-[[images]]
-title = "Bug im Gewitter 2013"
-src = "images/Bug_im_Gewitter_2013.jpg"
-[[images]]
-title = "Koden Huetten Bug 2013"
-src = "images/Koden_Huetten_Bug_2013.jpg"
-[[images]]
-title = "Boot beladen in Koden Bug 2013"
-src = "images/Boot_beladen_in_Koden_Bug_2013.jpg"
-[[images]]
-title = "am weissen strand des Bug 2013"
-src = "images/am_weissen_strand_des_Bug_2013.jpg"
-[[images]]
-title = "umtragen Terespol Bug 2013-1"
-src = "images/umtragen_Terespol_Bug_2013-1.jpg"
-[[images]]
-title = "Nirina in Terespol Bug 2013"
-src = "images/Nirina_in_Terespol_Bug_2013.jpg"
-[[images]]
-title = "Abendessen in Bubel Bug 2013"
-src = "images/Abendessen_in_Bubel_Bug_2013.jpg"
-[[images]]
-title = "Mittlerer bug 2013"
-src = "images/Mittlerer_bug_2013.jpg"
-[[images]]
-title = "Bikini schoenheiten auf dem Bug 2013"
-src = "images/Bikini_schoenheiten_auf_dem_Bug_2013.jpg"
-[[images]]
-title = "libellenbegleitung bug 2013"
-src = "images/libellenbegleitung_bug_2013.jpg"
-[[images]]
-title = "mal wieder ein Gewitter kurz vor dem Ziel Bug 2013"
-src = "images/mal_wieder_ein_Gewitter_kurz_vor_dem_Ziel_Bug_2013.jpg"
-[[images]]
-title = "leichter regen bug 2013"
-src = "images/leichter_regen_bug_2013.jpg"
-[[images]]
-title = "zwei nixen am Boot Bug 2013"
-src = "images/zwei_nixen_am_Boot_Bug_2013.jpg"
-[[images]]
-title = "erste faehre auf dem Bug 2013"
-src = "images/erste_faehre_auf_dem_Bug_2013.jpg"
-[[images]]
-title = "Billiard in grodek Bug 2013"
-src = "images/Billiard_in_grodek_Bug_2013.jpg"
-[[images]]
-title = "Abendessen Grodek Bug 2013"
-src = "images/Abendessen_Grodek_Bug_2013.jpg"
-[[images]]
-title = "Anlegestelle grodek bug 2013"
-src = "images/Anlegestelle_grodek_bug_2013.jpg"
-[[images]]
-title = "jonathan auf dem bug 2013"
-src = "images/jonathan_auf_dem_bug_2013.jpg"
-[[images]]
-title = "Zweier auf dem Bug 2013"
-src = "images/Zweier_auf_dem_Bug_2013.jpg"
-[[images]]
-title = "jonathan sichert das boot Bug 2013"
-src = "images/jonathan_sichert_das_boot_Bug_2013.jpg"
-[[images]]
-title = "Trampolin in Brok Bug 2013"
-src = "images/Trampolin_in_Brok_Bug_2013.jpg"
-[[images]]
-title = "Entspannung in Wyskow Bug 2013"
-src = "images/Entspannung_in_Wyskow_Bug_2013.jpg"
-[[images]]
-title = "vier grazien in brok bug 2013"
-src = "images/vier_grazien_in_brok_bug_2013.jpg"
-[[images]]
-title = "Dreier auf dem Bug 2013-1"
-src = "images/Dreier_auf_dem_Bug_2013-1.jpg"
-[[images]]
-title = "Pension in Wyzskow Bug 2013"
-src = "images/Pension_in_Wyzskow_Bug_2013.jpg"
-[[images]]
-title = "Kanal nach Warschau Bug 2013"
-src = "images/Kanal_nach_Warschau_Bug_2013.jpg"
-[[images]]
-title = "Aussetzstelle kanal zeranski Bug 2013"
-src = "images/Aussetzstelle_kanal_zeranski_Bug_2013.jpg"
-[[images]]
-title = "paul jiajia unter Bug 2013"
-src = "images/paul_jiajia_unter_Bug_2013.jpg"
-[[images]]
-title = "Bug kurz vor der Muendung 2013"
-src = "images/Bug_kurz_vor_der_Muendung_2013.jpg"
-[[images]]
-title = "Stadtbesichtigung Warschau Ruderer Bug 2013"
-src = "images/Stadtbesichtigung_Warschau_Ruderer_Bug_2013.jpg"
-[[images]]
-title = "Ruderer am Ende der ersten Teilstrecke Bug 2013"
-src = "images/Ruderer_am_Ende_der_ersten_Teilstrecke_Bug_2013.jpg"
-[[images]]
-title = "Ruder-Touristen auf dem Weg nach Warschau 2013"
-src = "images/Ruder-Touristen_auf_dem_Weg_nach_Warschau_2013.jpg"
-[[images]]
-title = "es lebe der sozialismus warschau 2013"
-src = "images/es_lebe_der_sozialismus_warschau_2013.jpg"
-[[images]]
-title = "Warschau downtown 2013"
-src = "images/Warschau_downtown_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-05-01"
+date: "2013-05-05T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+- weichsel
+- narew
+- bug
+- po
+- saimaa
+images:
+- src: images/Grenze_Dorohusk_in_die_Ukraine_Bug_2013-1.jpg
+  title: Grenze Dorohusk in die Ukraine Bug 2013-1
+- src: images/einsetzen_swierze_Bug_2013.jpg
+  title: einsetzen swierze Bug 2013
+- src: images/einsetzstelle_am_Bug_Swierze_2013.jpg
+  title: einsetzstelle am Bug Swierze 2013
+- src: images/oberer_bug_2013.jpg
+  title: oberer bug 2013
+- src: images/Landdienst_am_Bug_bei_Zbereze_2013.jpg
+  title: Landdienst am Bug bei Zbereze 2013
+- src: images/umleitung_auf_dem_Bug_2013.jpg
+  title: umleitung auf dem Bug 2013
+- src: images/umleitung_verfehlt_Bug_2013.jpg
+  title: umleitung verfehlt Bug 2013
+- src: images/Aussetzstelle_zbereze_Bug_2013.jpg
+  title: Aussetzstelle zbereze Bug 2013
+- src: images/annierose_auf_dem_Bug_2013.jpg
+  title: annierose auf dem Bug 2013
+- src: images/bug_2013__tag_21.jpg
+  title: bug 2013  tag 2
+- src: images/Lagerfeuer_in_Sobibor_Bug_2013.jpg
+  title: Lagerfeuer in Sobibor Bug 2013
+- src: images/Mittagspause_im_angesicht_von_belorus_bug_2013.jpg
+  title: Mittagspause im angesicht von belorus bug 2013
+- src: images/Sumpf_so_weit_das_Auge_reicht_Bug_2013.jpg
+  title: Sumpf so weit das Auge reicht Bug 2013
+- src: images/Bug_bei_Koden_2013.jpg
+  title: Bug bei Koden 2013
+- src: images/Bug_im_Gewitter_2013.jpg
+  title: Bug im Gewitter 2013
+- src: images/Koden_Huetten_Bug_2013.jpg
+  title: Koden Huetten Bug 2013
+- src: images/Boot_beladen_in_Koden_Bug_2013.jpg
+  title: Boot beladen in Koden Bug 2013
+- src: images/am_weissen_strand_des_Bug_2013.jpg
+  title: am weissen strand des Bug 2013
+- src: images/umtragen_Terespol_Bug_2013-1.jpg
+  title: umtragen Terespol Bug 2013-1
+- src: images/Nirina_in_Terespol_Bug_2013.jpg
+  title: Nirina in Terespol Bug 2013
+- src: images/Abendessen_in_Bubel_Bug_2013.jpg
+  title: Abendessen in Bubel Bug 2013
+- src: images/Mittlerer_bug_2013.jpg
+  title: Mittlerer bug 2013
+- src: images/Bikini_schoenheiten_auf_dem_Bug_2013.jpg
+  title: Bikini schoenheiten auf dem Bug 2013
+- src: images/libellenbegleitung_bug_2013.jpg
+  title: libellenbegleitung bug 2013
+- src: images/mal_wieder_ein_Gewitter_kurz_vor_dem_Ziel_Bug_2013.jpg
+  title: mal wieder ein Gewitter kurz vor dem Ziel Bug 2013
+- src: images/leichter_regen_bug_2013.jpg
+  title: leichter regen bug 2013
+- src: images/zwei_nixen_am_Boot_Bug_2013.jpg
+  title: zwei nixen am Boot Bug 2013
+- src: images/erste_faehre_auf_dem_Bug_2013.jpg
+  title: erste faehre auf dem Bug 2013
+- src: images/Billiard_in_grodek_Bug_2013.jpg
+  title: Billiard in grodek Bug 2013
+- src: images/Abendessen_Grodek_Bug_2013.jpg
+  title: Abendessen Grodek Bug 2013
+- src: images/Anlegestelle_grodek_bug_2013.jpg
+  title: Anlegestelle grodek bug 2013
+- src: images/jonathan_auf_dem_bug_2013.jpg
+  title: jonathan auf dem bug 2013
+- src: images/Zweier_auf_dem_Bug_2013.jpg
+  title: Zweier auf dem Bug 2013
+- src: images/jonathan_sichert_das_boot_Bug_2013.jpg
+  title: jonathan sichert das boot Bug 2013
+- src: images/Trampolin_in_Brok_Bug_2013.jpg
+  title: Trampolin in Brok Bug 2013
+- src: images/Entspannung_in_Wyskow_Bug_2013.jpg
+  title: Entspannung in Wyskow Bug 2013
+- src: images/vier_grazien_in_brok_bug_2013.jpg
+  title: vier grazien in brok bug 2013
+- src: images/Dreier_auf_dem_Bug_2013-1.jpg
+  title: Dreier auf dem Bug 2013-1
+- src: images/Pension_in_Wyzskow_Bug_2013.jpg
+  title: Pension in Wyzskow Bug 2013
+- src: images/Kanal_nach_Warschau_Bug_2013.jpg
+  title: Kanal nach Warschau Bug 2013
+- src: images/Aussetzstelle_kanal_zeranski_Bug_2013.jpg
+  title: Aussetzstelle kanal zeranski Bug 2013
+- src: images/paul_jiajia_unter_Bug_2013.jpg
+  title: paul jiajia unter Bug 2013
+- src: images/Bug_kurz_vor_der_Muendung_2013.jpg
+  title: Bug kurz vor der Muendung 2013
+- src: images/Stadtbesichtigung_Warschau_Ruderer_Bug_2013.jpg
+  title: Stadtbesichtigung Warschau Ruderer Bug 2013
+- src: images/Ruderer_am_Ende_der_ersten_Teilstrecke_Bug_2013.jpg
+  title: Ruderer am Ende der ersten Teilstrecke Bug 2013
+- src: images/Ruder-Touristen_auf_dem_Weg_nach_Warschau_2013.jpg
+  title: Ruder-Touristen auf dem Weg nach Warschau 2013
+- src: images/es_lebe_der_sozialismus_warschau_2013.jpg
+  title: es lebe der sozialismus warschau 2013
+- src: images/Warschau_downtown_2013.jpg
+  title: Warschau downtown 2013
+länder:
+- polen
+- ukraine
+title: Polen Bug Narew Weichsel Ostsee 2013
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,23 @@
-+++
-title = "Bleilochtalsperre"
-author = ""
-date = 1994-01-01T01:00:00+02:00
-begin = "1994-01-01"
-"gewässer" = ["saale"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bleilochtalsperre am Steg"
-src = "images/amSteg.jpg"
-[[images]]
-title = "Rudervierer vor Felswand"
-src = "images/felswand.jpg"
-[[images]]
-title = "Talende Ruderboot"
-src = "images/seeende.jpg"
-[[images]]
-title = "Am Ende der Talsperre Ruderer"
-src = "images/felswand2.jpg"
-
-+++
+---
+author: ""
+begin: "1994-01-01"
+date: "1994-01-01T01:00:00+02:00"
+gewässer:
+- saale
+images:
+- src: images/amSteg.jpg
+  title: Bleilochtalsperre am Steg
+- src: images/felswand.jpg
+  title: Rudervierer vor Felswand
+- src: images/seeende.jpg
+  title: Talende Ruderboot
+- src: images/felswand2.jpg
+  title: Am Ende der Talsperre Ruderer
+länder:
+- deutschland
+title: Bleilochtalsperre
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

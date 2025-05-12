@@ -1,37 +1,32 @@
-+++
-title = "Decin Meissen 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anreise nach Decin im Stau DC10"
-src = "images/Anreise_nach_Decin_im_Stau_DC10.jpg"
-[[images]]
-title = "Barke zusammenbauen in Decin 10"
-src = "images/Barke_zusammenbauen_in_Decin_10.jpg"
-[[images]]
-title = "Ruderer beim Barkenbau DC10"
-src = "images/Ruderer_beim_Barkenbau_DC10.jpg"
-[[images]]
-title = "Nirina schraubt unter dem Boot DC10"
-src = "images/Nirina_schraubt_unter_dem_Boot_DC10.jpg"
-[[images]]
-title = "Barke auf der Elbe im Elbsandstein DC10"
-src = "images/Barke_auf_der_Elbe_im_Elbsandstein_DC10.jpg"
-[[images]]
-title = "Rudervierer bunkert Gluehwein DC10"
-src = "images/Rudervierer_bunkert_Gluehwein_DC10.jpg"
-[[images]]
-title = "Gluehweinkocher auf der Barke DC10"
-src = "images/Gluehweinkocher_auf_der_Barke_DC10.jpg"
-[[images]]
-title = "Ruderer in Kneipe in Decin DC10"
-src = "images/Ruderer_in_Kneipe_in_Decin_DC10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Anreise_nach_Decin_im_Stau_DC10.jpg
+  title: Anreise nach Decin im Stau DC10
+- src: images/Barke_zusammenbauen_in_Decin_10.jpg
+  title: Barke zusammenbauen in Decin 10
+- src: images/Ruderer_beim_Barkenbau_DC10.jpg
+  title: Ruderer beim Barkenbau DC10
+- src: images/Nirina_schraubt_unter_dem_Boot_DC10.jpg
+  title: Nirina schraubt unter dem Boot DC10
+- src: images/Barke_auf_der_Elbe_im_Elbsandstein_DC10.jpg
+  title: Barke auf der Elbe im Elbsandstein DC10
+- src: images/Rudervierer_bunkert_Gluehwein_DC10.jpg
+  title: Rudervierer bunkert Gluehwein DC10
+- src: images/Gluehweinkocher_auf_der_Barke_DC10.jpg
+  title: Gluehweinkocher auf der Barke DC10
+- src: images/Ruderer_in_Kneipe_in_Decin_DC10.jpg
+  title: Ruderer in Kneipe in Decin DC10
+länder:
+- deutschland
+title: Decin Meissen 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

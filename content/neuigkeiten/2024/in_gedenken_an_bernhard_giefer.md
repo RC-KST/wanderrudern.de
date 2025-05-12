@@ -1,9 +1,9 @@
-+++
-title = "Gedenken an Bernhard Giefer"
-date = "2024-05-01"
-draft = false
-author = "Stefan"
-+++
+---
+author: Stefan
+date: "2024-05-01"
+draft: false
+title: Gedenken an Bernhard Giefer
+---
 
 Wir trauern um unseren Freund Bernhard Giefer
 

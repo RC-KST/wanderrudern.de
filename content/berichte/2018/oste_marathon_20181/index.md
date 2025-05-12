@@ -1,58 +1,45 @@
-+++
-title = "Oste Marathon 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["elbe", "oste"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Neuer Bootsanhaenger 2018"
-src = "images/Neuer_Bootsanhaenger_2018.jpg"
-[[images]]
-title = "Bierzapfen Osteriff 2018"
-src = "images/Bierzapfen_Osteriff_2018.jpg"
-[[images]]
-title = "Zeitnahme Hemoor 2018"
-src = "images/Zeitnahme_Hemoor_2018.jpg"
-[[images]]
-title = "AH-Vierer vor Klappbruecke 2018"
-src = "images/AH-Vierer_vor_Klappbruecke_2018.jpg"
-[[images]]
-title = "C-Vierer Sprinter auf der Oste 2018"
-src = "images/C-Vierer_Sprinter_auf_der_Oste_2018.jpg"
-[[images]]
-title = "Dreier auf der Oste 2018"
-src = "images/Dreier_auf_der_Oste_2018.jpg"
-[[images]]
-title = "Osteriff mit Bierfass 2018"
-src = "images/Osteriff_mit_Bierfass_2018.jpg"
-[[images]]
-title = "Containerfrachter am Osteriff 2018"
-src = "images/Containerfrachter_am_Osteriff_2018.jpg"
-[[images]]
-title = "Kriegsschiff an der Oste 2018"
-src = "images/Kriegsschiff_an_der_Oste_2018.jpg"
-[[images]]
-title = "Baden in der Oste 2018"
-src = "images/Baden_in_der_Oste_2018.jpg"
-[[images]]
-title = "Osteriff Ruderboote Frachter 2018"
-src = "images/Osteriff_Ruderboote_Frachter_2018.jpg"
-[[images]]
-title = "Ruderer auf dem Osteriff 2018"
-src = "images/Ruderer_auf_dem_Osteriff_2018.jpg"
-[[images]]
-title = "Maedels im Festzelt Hemoor 2018"
-src = "images/Maedels_im_Festzelt_Hemoor_2018.jpg"
-[[images]]
-title = "Feiern in Hemmoor 2018"
-src = "images/Feiern_in_Hemmoor_2018.jpg"
-[[images]]
-title = "Mittagspause in Neuhaus 2018"
-src = "images/Mittagspause_in_Neuhaus_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oste
+images:
+- src: images/Neuer_Bootsanhaenger_2018.jpg
+  title: Neuer Bootsanhaenger 2018
+- src: images/Bierzapfen_Osteriff_2018.jpg
+  title: Bierzapfen Osteriff 2018
+- src: images/Zeitnahme_Hemoor_2018.jpg
+  title: Zeitnahme Hemoor 2018
+- src: images/AH-Vierer_vor_Klappbruecke_2018.jpg
+  title: AH-Vierer vor Klappbruecke 2018
+- src: images/C-Vierer_Sprinter_auf_der_Oste_2018.jpg
+  title: C-Vierer Sprinter auf der Oste 2018
+- src: images/Dreier_auf_der_Oste_2018.jpg
+  title: Dreier auf der Oste 2018
+- src: images/Osteriff_mit_Bierfass_2018.jpg
+  title: Osteriff mit Bierfass 2018
+- src: images/Containerfrachter_am_Osteriff_2018.jpg
+  title: Containerfrachter am Osteriff 2018
+- src: images/Kriegsschiff_an_der_Oste_2018.jpg
+  title: Kriegsschiff an der Oste 2018
+- src: images/Baden_in_der_Oste_2018.jpg
+  title: Baden in der Oste 2018
+- src: images/Osteriff_Ruderboote_Frachter_2018.jpg
+  title: Osteriff Ruderboote Frachter 2018
+- src: images/Ruderer_auf_dem_Osteriff_2018.jpg
+  title: Ruderer auf dem Osteriff 2018
+- src: images/Maedels_im_Festzelt_Hemoor_2018.jpg
+  title: Maedels im Festzelt Hemoor 2018
+- src: images/Feiern_in_Hemmoor_2018.jpg
+  title: Feiern in Hemmoor 2018
+- src: images/Mittagspause_in_Neuhaus_2018.jpg
+  title: Mittagspause in Neuhaus 2018
+länder: []
+title: Oste Marathon 2018
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

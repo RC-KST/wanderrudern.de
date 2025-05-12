@@ -1,184 +1,139 @@
-+++
-title = "Finnland Saimaa 2016"
-author = ""
-date = 2016-05-05T01:00:00+02:00
-begin = "2016-05-01"
-"gewässer" = ["inn", "maas", "oder", "saimaa", "suvavesi", "juojärvi"]
-"länder" = ["deutschland", "frankreich", "dänemark", "finnland", "schweden", "belgien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Laura JiaJia Stockholmer schloss 2016"
-src = "images/Laura_JiaJia_Stockholmer_schloss_2016.jpg"
-[[images]]
-title = "Laura Nirina Abba Museum 2016"
-src = "images/Laura_Nirina_Abba_Museum_2016.jpg"
-[[images]]
-title = "Laura Nirina on stage with abba 2016"
-src = "images/Laura_Nirina_on_stage_with_abba_2016.jpg"
-[[images]]
-title = "Ruderer auf der Silja Serenade Finnland 2016"
-src = "images/Ruderer_auf_der_Silja_Serenade_Finnland_2016.jpg"
-[[images]]
-title = "E-Vierer in Puumala finnland 2016"
-src = "images/E-Vierer_in_Puumala_finnland_2016.jpg"
-[[images]]
-title = "Ruderboot Sulkava Finnland 2016"
-src = "images/Ruderboot_Sulkava_Finnland_2016.jpg"
-[[images]]
-title = "Ruderstadion Sulkava finnland 2016"
-src = "images/Ruderstadion_Sulkava_finnland_2016.jpg"
-[[images]]
-title = "Ruderboote Saimaa Finnland 2016"
-src = "images/Ruderboote_Saimaa_Finnland_2016.jpg"
-[[images]]
-title = "Schaerengarten saimaa Ruderer Finnland 2016"
-src = "images/Schaerengarten_saimaa_Ruderer_Finnland_2016.jpg"
-[[images]]
-title = "E-Zweier Finnland 2016"
-src = "images/E-Zweier_Finnland_2016.jpg"
-[[images]]
-title = "Saimaa Panorama finnland 2016"
-src = "images/Saimaa_Panorama_finnland_2016.jpg"
-[[images]]
-title = "Nirina und JiaJIa finnland 2016"
-src = "images/Nirina_und_JiaJIa_finnland_2016.jpg"
-[[images]]
-title = "Kochdienst in Savonlinna Finnland 2016"
-src = "images/Kochdienst_in_Savonlinna_Finnland_2016.jpg"
-[[images]]
-title = "Inselpause Saimaa Finnland 2016"
-src = "images/Inselpause_Saimaa_Finnland_2016.jpg"
-[[images]]
-title = "Biwak Insel Hietasaari Finnland 2016"
-src = "images/Biwak_Insel_Hietasaari_Finnland_2016.jpg"
-[[images]]
-title = "Wolfgang vor Burg Olavlinna Finnland 2016"
-src = "images/Wolfgang_vor_Burg_Olavlinna_Finnland_2016.jpg"
-[[images]]
-title = "Pyromanen Finnland 2016"
-src = "images/Pyromanen_Finnland_2016.jpg"
-[[images]]
-title = "Laura JiaJia auf Hietasaari Finnland 2016"
-src = "images/Laura_JiaJia_auf_Hietasaari_Finnland_2016.jpg"
-[[images]]
-title = "Holztrupp auf Hietasaari 2016"
-src = "images/Holztrupp_auf_Hietasaari_2016.jpg"
-[[images]]
-title = "Abendessen auf der offenen Feuerstelle Finnland 2016"
-src = "images/Abendessen_auf_der_offenen_Feuerstelle_Finnland_2016.jpg"
-[[images]]
-title = "Sonnenuntergang auf Hietasaari Finnand 2016"
-src = "images/Sonnenuntergang_auf_Hietasaari_Finnand_20161.jpg"
-[[images]]
-title = "zelte trocknen kuopio finnland 2016"
-src = "images/zelte_trocknen_kuopio_finnland_2016.jpg"
-[[images]]
-title = "Schleuse Varkaus finnland 2016"
-src = "images/Schleuse_Varkaus_finnland_2016.jpg"
-[[images]]
-title = "Campingplatz Kuopio finnland 2016"
-src = "images/Campingplatz_Kuopio_finnland_2016.jpg"
-[[images]]
-title = "ruderer beim baden finnland 2016"
-src = "images/ruderer_beim_baden_finnland_2016.jpg"
-[[images]]
-title = "girlies mit multebeeren finnland 2016"
-src = "images/girlies_mit_multebeeren_finnland_2016.jpg"
-[[images]]
-title = "Lidl Grillmeiste finnland 2016"
-src = "images/Lidl_Grillmeiste_finnland_2016.jpg"
-[[images]]
-title = "Nirina JiaJia ruderboot finnland 2016"
-src = "images/Nirina_JiaJia_ruderboot_finnland_2016.jpg"
-[[images]]
-title = "Inselgruppen Saimaa finnland 2016"
-src = "images/Inselgruppen_Saimaa_finnland_2016.jpg"
-[[images]]
-title = "feuerstelle summa nach dem regen finnland 2016"
-src = "images/feuerstelle_summa_nach_dem_regen_finnland_2016.jpg"
-[[images]]
-title = "burger abendbrot finnland 2016"
-src = "images/burger_abendbrot_finnland_2016.jpg"
-[[images]]
-title = "burger essen in lintula finnland 2016"
-src = "images/burger_essen_in_lintula_finnland_2016.jpg"
-[[images]]
-title = "einfahrt ins rohr finnland 2016"
-src = "images/einfahrt_ins_rohr_finnland_2016.jpg"
-[[images]]
-title = "Kloster Lintula finnland 2016"
-src = "images/Kloster_Lintula_finnland_2016.jpg"
-[[images]]
-title = "engstelle im kolovesi nationalpark finnland 2016"
-src = "images/engstelle_im_kolovesi_nationalpark_finnland_2016.jpg"
-[[images]]
-title = "Pizzaessen im Lappenhuette finnland 2016"
-src = "images/Pizzaessen_im_Lappenhuette_finnland_2016.jpg"
-[[images]]
-title = "ab durchs rohr finnland 2016"
-src = "images/ab_durchs_rohr_finnland_2016.jpg"
-[[images]]
-title = "biwakplatz mit Holzherd finnland 2016"
-src = "images/biwakplatz_mit_Holzherd_finnland_2016.jpg"
-[[images]]
-title = "Enonvesi 12 km vor dem Wind finnland 2016"
-src = "images/Enonvesi_12_km_vor_dem_Wind_finnland_2016.jpg"
-[[images]]
-title = "enonvesi wir warten auf das dritte boot finnland 2016"
-src = "images/enonvesi_wir_warten_auf_das_dritte_boot_finnland_2016.jpg"
-[[images]]
-title = "E-Zweier in den wellen finnland 2016"
-src = "images/E-Zweier_in_den_wellen_finnland_2016.jpg"
-[[images]]
-title = "Boot an felseninsel finnland 2016"
-src = "images/Boot_an_felseninsel_finnland_2016.jpg"
-[[images]]
-title = "kochen in Savonranta finnland 2016"
-src = "images/kochen_in_Savonranta_finnland_2016.jpg"
-[[images]]
-title = "Zelte im windschatten finnland 2016"
-src = "images/Zelte_im_windschatten_finnland_2016.jpg"
-[[images]]
-title = "orivesi undendliche weiten finnland 2016"
-src = "images/orivesi_undendliche_weiten_finnland_2016.jpg"
-[[images]]
-title = "auf den Raikuun kanal finnland 2016"
-src = "images/auf_den_Raikuun_kanal_finnland_2016.jpg"
-[[images]]
-title = "klippe mitten auf dem See finnland 2016"
-src = "images/klippe_mitten_auf_dem_See_finnland_2016.jpg"
-[[images]]
-title = "biwak varpaniemi finnland 2016"
-src = "images/biwak_varpaniemi_finnland_2016.jpg"
-[[images]]
-title = "landdienst verlaedt gepaeck finnland 2016"
-src = "images/landdienst_verlaedt_gepaeck_finnland_2016.jpg"
-[[images]]
-title = "kurz vor kerimaeki finnöland 2016"
-src = "images/kurz_vor_kerimaeki_finnoland_2016.jpg"
-[[images]]
-title = "auf dem weg nach punkaharju finnland 2016"
-src = "images/auf_dem_weg_nach_punkaharju_finnland_2016.jpg"
-[[images]]
-title = "zweier vor tetriniemi finnland 2016"
-src = "images/zweier_vor_tetriniemi_finnland_2016.jpg"
-[[images]]
-title = "boote umtragen finnland 2016"
-src = "images/boote_umtragen_finnland_2016.jpg"
-[[images]]
-title = "gesperrtes rohr finnland 2016"
-src = "images/gesperrtes_rohr_finnland_2016.jpg"
-[[images]]
-title = "girlies im Nachtclub Silja serenade finnland 2016"
-src = "images/girlies_im_Nachtclub_Silja_serenade_finnland_2016.jpg"
-[[images]]
-title = "lagerfeuer hiekkaniemi finnland 2016"
-src = "images/lagerfeuer_hiekkaniemi_finnland_2016.jpg"
-[[images]]
-title = "feuerteufel finnland 2016"
-src = "images/feuerteufel_finnland_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-05-01"
+date: "2016-05-05T01:00:00+02:00"
+gewässer:
+- inn
+- maas
+- oder
+- saimaa
+- suvavesi
+- juojärvi
+images:
+- src: images/Laura_JiaJia_Stockholmer_schloss_2016.jpg
+  title: Laura JiaJia Stockholmer schloss 2016
+- src: images/Laura_Nirina_Abba_Museum_2016.jpg
+  title: Laura Nirina Abba Museum 2016
+- src: images/Laura_Nirina_on_stage_with_abba_2016.jpg
+  title: Laura Nirina on stage with abba 2016
+- src: images/Ruderer_auf_der_Silja_Serenade_Finnland_2016.jpg
+  title: Ruderer auf der Silja Serenade Finnland 2016
+- src: images/E-Vierer_in_Puumala_finnland_2016.jpg
+  title: E-Vierer in Puumala finnland 2016
+- src: images/Ruderboot_Sulkava_Finnland_2016.jpg
+  title: Ruderboot Sulkava Finnland 2016
+- src: images/Ruderstadion_Sulkava_finnland_2016.jpg
+  title: Ruderstadion Sulkava finnland 2016
+- src: images/Ruderboote_Saimaa_Finnland_2016.jpg
+  title: Ruderboote Saimaa Finnland 2016
+- src: images/Schaerengarten_saimaa_Ruderer_Finnland_2016.jpg
+  title: Schaerengarten saimaa Ruderer Finnland 2016
+- src: images/E-Zweier_Finnland_2016.jpg
+  title: E-Zweier Finnland 2016
+- src: images/Saimaa_Panorama_finnland_2016.jpg
+  title: Saimaa Panorama finnland 2016
+- src: images/Nirina_und_JiaJIa_finnland_2016.jpg
+  title: Nirina und JiaJIa finnland 2016
+- src: images/Kochdienst_in_Savonlinna_Finnland_2016.jpg
+  title: Kochdienst in Savonlinna Finnland 2016
+- src: images/Inselpause_Saimaa_Finnland_2016.jpg
+  title: Inselpause Saimaa Finnland 2016
+- src: images/Biwak_Insel_Hietasaari_Finnland_2016.jpg
+  title: Biwak Insel Hietasaari Finnland 2016
+- src: images/Wolfgang_vor_Burg_Olavlinna_Finnland_2016.jpg
+  title: Wolfgang vor Burg Olavlinna Finnland 2016
+- src: images/Pyromanen_Finnland_2016.jpg
+  title: Pyromanen Finnland 2016
+- src: images/Laura_JiaJia_auf_Hietasaari_Finnland_2016.jpg
+  title: Laura JiaJia auf Hietasaari Finnland 2016
+- src: images/Holztrupp_auf_Hietasaari_2016.jpg
+  title: Holztrupp auf Hietasaari 2016
+- src: images/Abendessen_auf_der_offenen_Feuerstelle_Finnland_2016.jpg
+  title: Abendessen auf der offenen Feuerstelle Finnland 2016
+- src: images/Sonnenuntergang_auf_Hietasaari_Finnand_20161.jpg
+  title: Sonnenuntergang auf Hietasaari Finnand 2016
+- src: images/zelte_trocknen_kuopio_finnland_2016.jpg
+  title: zelte trocknen kuopio finnland 2016
+- src: images/Schleuse_Varkaus_finnland_2016.jpg
+  title: Schleuse Varkaus finnland 2016
+- src: images/Campingplatz_Kuopio_finnland_2016.jpg
+  title: Campingplatz Kuopio finnland 2016
+- src: images/ruderer_beim_baden_finnland_2016.jpg
+  title: ruderer beim baden finnland 2016
+- src: images/girlies_mit_multebeeren_finnland_2016.jpg
+  title: girlies mit multebeeren finnland 2016
+- src: images/Lidl_Grillmeiste_finnland_2016.jpg
+  title: Lidl Grillmeiste finnland 2016
+- src: images/Nirina_JiaJia_ruderboot_finnland_2016.jpg
+  title: Nirina JiaJia ruderboot finnland 2016
+- src: images/Inselgruppen_Saimaa_finnland_2016.jpg
+  title: Inselgruppen Saimaa finnland 2016
+- src: images/feuerstelle_summa_nach_dem_regen_finnland_2016.jpg
+  title: feuerstelle summa nach dem regen finnland 2016
+- src: images/burger_abendbrot_finnland_2016.jpg
+  title: burger abendbrot finnland 2016
+- src: images/burger_essen_in_lintula_finnland_2016.jpg
+  title: burger essen in lintula finnland 2016
+- src: images/einfahrt_ins_rohr_finnland_2016.jpg
+  title: einfahrt ins rohr finnland 2016
+- src: images/Kloster_Lintula_finnland_2016.jpg
+  title: Kloster Lintula finnland 2016
+- src: images/engstelle_im_kolovesi_nationalpark_finnland_2016.jpg
+  title: engstelle im kolovesi nationalpark finnland 2016
+- src: images/Pizzaessen_im_Lappenhuette_finnland_2016.jpg
+  title: Pizzaessen im Lappenhuette finnland 2016
+- src: images/ab_durchs_rohr_finnland_2016.jpg
+  title: ab durchs rohr finnland 2016
+- src: images/biwakplatz_mit_Holzherd_finnland_2016.jpg
+  title: biwakplatz mit Holzherd finnland 2016
+- src: images/Enonvesi_12_km_vor_dem_Wind_finnland_2016.jpg
+  title: Enonvesi 12 km vor dem Wind finnland 2016
+- src: images/enonvesi_wir_warten_auf_das_dritte_boot_finnland_2016.jpg
+  title: enonvesi wir warten auf das dritte boot finnland 2016
+- src: images/E-Zweier_in_den_wellen_finnland_2016.jpg
+  title: E-Zweier in den wellen finnland 2016
+- src: images/Boot_an_felseninsel_finnland_2016.jpg
+  title: Boot an felseninsel finnland 2016
+- src: images/kochen_in_Savonranta_finnland_2016.jpg
+  title: kochen in Savonranta finnland 2016
+- src: images/Zelte_im_windschatten_finnland_2016.jpg
+  title: Zelte im windschatten finnland 2016
+- src: images/orivesi_undendliche_weiten_finnland_2016.jpg
+  title: orivesi undendliche weiten finnland 2016
+- src: images/auf_den_Raikuun_kanal_finnland_2016.jpg
+  title: auf den Raikuun kanal finnland 2016
+- src: images/klippe_mitten_auf_dem_See_finnland_2016.jpg
+  title: klippe mitten auf dem See finnland 2016
+- src: images/biwak_varpaniemi_finnland_2016.jpg
+  title: biwak varpaniemi finnland 2016
+- src: images/landdienst_verlaedt_gepaeck_finnland_2016.jpg
+  title: landdienst verlaedt gepaeck finnland 2016
+- src: images/kurz_vor_kerimaeki_finnoland_2016.jpg
+  title: kurz vor kerimaeki finnöland 2016
+- src: images/auf_dem_weg_nach_punkaharju_finnland_2016.jpg
+  title: auf dem weg nach punkaharju finnland 2016
+- src: images/zweier_vor_tetriniemi_finnland_2016.jpg
+  title: zweier vor tetriniemi finnland 2016
+- src: images/boote_umtragen_finnland_2016.jpg
+  title: boote umtragen finnland 2016
+- src: images/gesperrtes_rohr_finnland_2016.jpg
+  title: gesperrtes rohr finnland 2016
+- src: images/girlies_im_Nachtclub_Silja_serenade_finnland_2016.jpg
+  title: girlies im Nachtclub Silja serenade finnland 2016
+- src: images/lagerfeuer_hiekkaniemi_finnland_2016.jpg
+  title: lagerfeuer hiekkaniemi finnland 2016
+- src: images/feuerteufel_finnland_2016.jpg
+  title: feuerteufel finnland 2016
+länder:
+- deutschland
+- frankreich
+- dänemark
+- finnland
+- schweden
+- belgien
+title: Finnland Saimaa 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

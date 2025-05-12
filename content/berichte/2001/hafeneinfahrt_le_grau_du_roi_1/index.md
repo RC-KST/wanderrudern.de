@@ -1,13 +1,13 @@
-+++
-title = "Frankreich Camargue 10"
-author = ""
-date = 2001-01-01T01:00:00+02:00
-begin = "2001-01-01"
-"gewässer" = []
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2001-01-01"
+date: "2001-01-01T01:00:00+02:00"
+gewässer: []
+länder:
+- frankreich
+title: Frankreich Camargue 10
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

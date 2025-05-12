@@ -1,163 +1,119 @@
-+++
-title = "Donau 2013 Rumänien Bulgarien"
-author = ""
-date = 2013-03-03T01:00:00+02:00
-begin = "2013-03-01"
-"gewässer" = ["donau", "oder", "erne"]
-"länder" = ["ungarn", "bulgarien", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bazias Startpunkt an der Donau 2013"
-src = "images/Bazias_Startpunkt_an_der_Donau_2013.jpg"
-[[images]]
-title = "Laura vor Golubac Donau 2013"
-src = "images/Laura_vor_Golubac_Donau_2013.jpg"
-[[images]]
-title = "Treibsand an der Donau 2013"
-src = "images/Treibsand_an_der_Donau_2013.jpg"
-[[images]]
-title = "Cookie mit Hummer Donau 2013"
-src = "images/Cookie_mit_Hummer_Donau_2013.jpg"
-[[images]]
-title = "Berzasca am Nachmittag chillen Donau 13"
-src = "images/Berzasca_am_Nachmittag_chillen_Donau_13.jpg"
-[[images]]
-title = "Vierer hat abgebrochen Donau 2013"
-src = "images/Vierer_hat_abgebrochen_Donau_2013.jpg"
-[[images]]
-title = "Alles Weicheier bei der Bundeswehr Donau 2013"
-src = "images/Alles_Weicheier_bei_der_Bundeswehr_Donau_2013.jpg"
-[[images]]
-title = "Schlammcatchen Donau 2013"
-src = "images/Schlammcatchen_Donau_2013.jpg"
-[[images]]
-title = "Knueppeldamm Donau 2013"
-src = "images/Knueppeldamm_Donau_2013.jpg"
-[[images]]
-title = "Downtown Drobeta Turnu Severin Donau 2013"
-src = "images/Downtown_Drobeta_Turnu_Severin_Donau_2013.jpg"
-[[images]]
-title = "Abendessen mit Livemusik Donau 2013"
-src = "images/Abendessen_mit_Livemusik_Donau_2013.jpg"
-[[images]]
-title = "Neustart Donau 2013"
-src = "images/Neustart_Donau_2013.jpg"
-[[images]]
-title = "Djerdap II Donau 2013"
-src = "images/Djerdap_II_Donau_2013.jpg"
-[[images]]
-title = "Vodka Stalingrad Donau 2013"
-src = "images/Vodka_Stalingrad_Donau_2013.jpg"
-[[images]]
-title = "Gruia Quartier ohne Heizung Donau 2013"
-src = "images/Gruia_Quartier_ohne_Heizung_Donau_2013.jpg"
-[[images]]
-title = "Fussmarsch Dorfstrasse Rumaenien Donau 2013"
-src = "images/Fussmarsch_Dorfstrasse_Rumaenien_Donau_2013.jpg"
-[[images]]
-title = "Fussmarsch blick auf die Donau 2013"
-src = "images/Fussmarsch_blick_auf_die_Donau_2013.jpg"
-[[images]]
-title = "67 km nach Calafat Donau 2013"
-src = "images/67_km_nach_Calafat_Donau_2013.jpg"
-[[images]]
-title = "Calafat Hotel Donau 2013"
-src = "images/Calafat_Hotel_Donau_2013.jpg"
-[[images]]
-title = "Lom Downtown Donau 2013-1"
-src = "images/Lom_Downtown_Donau_2013-1.jpg"
-[[images]]
-title = "Boot in Loom Donau 2013"
-src = "images/Boot_in_Loom_Donau_2013.jpg"
-[[images]]
-title = "Donau 2013 vor Orjahovo"
-src = "images/Donau_2013_vor_Orjahovo.jpg"
-[[images]]
-title = "Motel Raj Donau 2013"
-src = "images/Motel_Raj_Donau_2013.jpg"
-[[images]]
-title = "Steg Motel Raj Donau 2013"
-src = "images/Steg_Motel_Raj_Donau_2013.jpg"
-[[images]]
-title = "kleiner Ausflug ins Gestruepp Donau 2013"
-src = "images/kleiner_Ausflug_ins_Gestruepp_Donau_2013.jpg"
-[[images]]
-title = "Abendessen Zagrazhden Donau 2013"
-src = "images/Abendessen_Zagrazhden_Donau_2013.jpg"
-[[images]]
-title = "Pause auf dem Weg nach Zagrazhden"
-src = "images/Pause_auf_dem_Weg_nach_Zagrazhden.jpg"
-[[images]]
-title = "endlich gutes Wetter DOnau 2013"
-src = "images/endlich_gutes_Wetter_DOnau_2013.jpg"
-[[images]]
-title = "Ponton Bruecke Belene Vierer Donau 2013"
-src = "images/Ponton_Bruecke_Belene_Vierer_Donau_2013.jpg"
-[[images]]
-title = "Pontonbruecke Belene Donau 2013-1"
-src = "images/Pontonbruecke_Belene_Donau_2013-1.jpg"
-[[images]]
-title = "Donau nach Ruse 2013"
-src = "images/Donau_nach_Ruse_2013.jpg"
-[[images]]
-title = "Grand Hotel Riga in Ruse Donau 2013"
-src = "images/Grand_Hotel_Riga_in_Ruse_Donau_2013.jpg"
-[[images]]
-title = "Perun Svishtov Donau 2013"
-src = "images/Perun_Svishtov_Donau_2013.jpg"
-[[images]]
-title = "Ruderinnen im Schuhladen Donau 2013"
-src = "images/Ruderinnen_im_Schuhladen_Donau_2013.jpg"
-[[images]]
-title = "Abendessen Ruse Donau 2013"
-src = "images/Abendessen_Ruse_Donau_2013.jpg"
-[[images]]
-title = "Ruse Stadtzentrum Donau 2013"
-src = "images/Ruse_Stadtzentrum_Donau_2013.jpg"
-[[images]]
-title = "Ruse Bruecke Rumaenien Bulgarien Donau 2013"
-src = "images/Ruse_Bruecke_Rumaenien_Bulgarien_Donau_2013.jpg"
-[[images]]
-title = "Ehrenmal in Ruse Donau 2013"
-src = "images/Ehrenmal_in_Ruse_Donau_2013.jpg"
-[[images]]
-title = "Donau 2013 bei Ruse"
-src = "images/Donau_2013_bei_Ruse.jpg"
-[[images]]
-title = "Blondinen beim kochen Donau 2013"
-src = "images/Blondinen_beim_kochen_Donau_2013.jpg"
-[[images]]
-title = "Ruderer im Swimming pool Doanu 2013"
-src = "images/Ruderer_im_Swimming_pool_Doanu_2013.jpg"
-[[images]]
-title = "Dunavets Ferienhaus Donau 2013"
-src = "images/Dunavets_Ferienhaus_Donau_2013.jpg"
-[[images]]
-title = "Calarasi am Ziel Donau 2013"
-src = "images/Calarasi_am_Ziel_Donau_2013.jpg"
-[[images]]
-title = "Dunavets ablegen 2013"
-src = "images/Dunavets_ablegen_2013.jpg"
-[[images]]
-title = "Donau bei Dunavets 2013"
-src = "images/Donau_bei_Dunavets_2013.jpg"
-[[images]]
-title = "Abendessen Calarasi 2013"
-src = "images/Abendessen_Calarasi_2013.jpg"
-[[images]]
-title = "Calarasi Hotel Albatros Donau 2013"
-src = "images/Calarasi_Hotel_Albatros_Donau_2013.jpg"
-[[images]]
-title = "durchs karpatental Donau 2013"
-src = "images/durchs_karpatental_Donau_2013.jpg"
-[[images]]
-title = "Gegenverkehr auf der Hauptstrasse Donau 2013"
-src = "images/Gegenverkehr_auf_der_Hauptstrasse_Donau_2013.jpg"
-[[images]]
-title = "Zufahrt zum Grenzuebergang Arad Donau 2013"
-src = "images/Zufahrt_zum_Grenzuebergang_Arad_Donau_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-03-01"
+date: "2013-03-03T01:00:00+02:00"
+gewässer:
+- donau
+- oder
+- erne
+images:
+- src: images/Bazias_Startpunkt_an_der_Donau_2013.jpg
+  title: Bazias Startpunkt an der Donau 2013
+- src: images/Laura_vor_Golubac_Donau_2013.jpg
+  title: Laura vor Golubac Donau 2013
+- src: images/Treibsand_an_der_Donau_2013.jpg
+  title: Treibsand an der Donau 2013
+- src: images/Cookie_mit_Hummer_Donau_2013.jpg
+  title: Cookie mit Hummer Donau 2013
+- src: images/Berzasca_am_Nachmittag_chillen_Donau_13.jpg
+  title: Berzasca am Nachmittag chillen Donau 13
+- src: images/Vierer_hat_abgebrochen_Donau_2013.jpg
+  title: Vierer hat abgebrochen Donau 2013
+- src: images/Alles_Weicheier_bei_der_Bundeswehr_Donau_2013.jpg
+  title: Alles Weicheier bei der Bundeswehr Donau 2013
+- src: images/Schlammcatchen_Donau_2013.jpg
+  title: Schlammcatchen Donau 2013
+- src: images/Knueppeldamm_Donau_2013.jpg
+  title: Knueppeldamm Donau 2013
+- src: images/Downtown_Drobeta_Turnu_Severin_Donau_2013.jpg
+  title: Downtown Drobeta Turnu Severin Donau 2013
+- src: images/Abendessen_mit_Livemusik_Donau_2013.jpg
+  title: Abendessen mit Livemusik Donau 2013
+- src: images/Neustart_Donau_2013.jpg
+  title: Neustart Donau 2013
+- src: images/Djerdap_II_Donau_2013.jpg
+  title: Djerdap II Donau 2013
+- src: images/Vodka_Stalingrad_Donau_2013.jpg
+  title: Vodka Stalingrad Donau 2013
+- src: images/Gruia_Quartier_ohne_Heizung_Donau_2013.jpg
+  title: Gruia Quartier ohne Heizung Donau 2013
+- src: images/Fussmarsch_Dorfstrasse_Rumaenien_Donau_2013.jpg
+  title: Fussmarsch Dorfstrasse Rumaenien Donau 2013
+- src: images/Fussmarsch_blick_auf_die_Donau_2013.jpg
+  title: Fussmarsch blick auf die Donau 2013
+- src: images/67_km_nach_Calafat_Donau_2013.jpg
+  title: 67 km nach Calafat Donau 2013
+- src: images/Calafat_Hotel_Donau_2013.jpg
+  title: Calafat Hotel Donau 2013
+- src: images/Lom_Downtown_Donau_2013-1.jpg
+  title: Lom Downtown Donau 2013-1
+- src: images/Boot_in_Loom_Donau_2013.jpg
+  title: Boot in Loom Donau 2013
+- src: images/Donau_2013_vor_Orjahovo.jpg
+  title: Donau 2013 vor Orjahovo
+- src: images/Motel_Raj_Donau_2013.jpg
+  title: Motel Raj Donau 2013
+- src: images/Steg_Motel_Raj_Donau_2013.jpg
+  title: Steg Motel Raj Donau 2013
+- src: images/kleiner_Ausflug_ins_Gestruepp_Donau_2013.jpg
+  title: kleiner Ausflug ins Gestruepp Donau 2013
+- src: images/Abendessen_Zagrazhden_Donau_2013.jpg
+  title: Abendessen Zagrazhden Donau 2013
+- src: images/Pause_auf_dem_Weg_nach_Zagrazhden.jpg
+  title: Pause auf dem Weg nach Zagrazhden
+- src: images/endlich_gutes_Wetter_DOnau_2013.jpg
+  title: endlich gutes Wetter DOnau 2013
+- src: images/Ponton_Bruecke_Belene_Vierer_Donau_2013.jpg
+  title: Ponton Bruecke Belene Vierer Donau 2013
+- src: images/Pontonbruecke_Belene_Donau_2013-1.jpg
+  title: Pontonbruecke Belene Donau 2013-1
+- src: images/Donau_nach_Ruse_2013.jpg
+  title: Donau nach Ruse 2013
+- src: images/Grand_Hotel_Riga_in_Ruse_Donau_2013.jpg
+  title: Grand Hotel Riga in Ruse Donau 2013
+- src: images/Perun_Svishtov_Donau_2013.jpg
+  title: Perun Svishtov Donau 2013
+- src: images/Ruderinnen_im_Schuhladen_Donau_2013.jpg
+  title: Ruderinnen im Schuhladen Donau 2013
+- src: images/Abendessen_Ruse_Donau_2013.jpg
+  title: Abendessen Ruse Donau 2013
+- src: images/Ruse_Stadtzentrum_Donau_2013.jpg
+  title: Ruse Stadtzentrum Donau 2013
+- src: images/Ruse_Bruecke_Rumaenien_Bulgarien_Donau_2013.jpg
+  title: Ruse Bruecke Rumaenien Bulgarien Donau 2013
+- src: images/Ehrenmal_in_Ruse_Donau_2013.jpg
+  title: Ehrenmal in Ruse Donau 2013
+- src: images/Donau_2013_bei_Ruse.jpg
+  title: Donau 2013 bei Ruse
+- src: images/Blondinen_beim_kochen_Donau_2013.jpg
+  title: Blondinen beim kochen Donau 2013
+- src: images/Ruderer_im_Swimming_pool_Doanu_2013.jpg
+  title: Ruderer im Swimming pool Doanu 2013
+- src: images/Dunavets_Ferienhaus_Donau_2013.jpg
+  title: Dunavets Ferienhaus Donau 2013
+- src: images/Calarasi_am_Ziel_Donau_2013.jpg
+  title: Calarasi am Ziel Donau 2013
+- src: images/Dunavets_ablegen_2013.jpg
+  title: Dunavets ablegen 2013
+- src: images/Donau_bei_Dunavets_2013.jpg
+  title: Donau bei Dunavets 2013
+- src: images/Abendessen_Calarasi_2013.jpg
+  title: Abendessen Calarasi 2013
+- src: images/Calarasi_Hotel_Albatros_Donau_2013.jpg
+  title: Calarasi Hotel Albatros Donau 2013
+- src: images/durchs_karpatental_Donau_2013.jpg
+  title: durchs karpatental Donau 2013
+- src: images/Gegenverkehr_auf_der_Hauptstrasse_Donau_2013.jpg
+  title: Gegenverkehr auf der Hauptstrasse Donau 2013
+- src: images/Zufahrt_zum_Grenzuebergang_Arad_Donau_2013.jpg
+  title: Zufahrt zum Grenzuebergang Arad Donau 2013
+länder:
+- ungarn
+- bulgarien
+- serbien
+title: Donau 2013 Rumänien Bulgarien
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

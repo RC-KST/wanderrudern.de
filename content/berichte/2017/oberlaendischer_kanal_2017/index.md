@@ -1,13 +1,16 @@
-+++
-title = "Oberlaendischer Kanal 2017"
-author = ""
-date = 2017-07-07T01:00:00+02:00
-begin = "2017-07-01"
-"gewässer" = ["ostsee", "oder", "oberländischer kanal"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2017-07-01"
+date: "2017-07-07T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+- oberländischer kanal
+länder:
+- polen
+title: Oberlaendischer Kanal 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

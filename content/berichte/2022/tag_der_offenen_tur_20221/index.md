@@ -1,46 +1,35 @@
-+++
-title = "Tag der offenen Tür 2022"
-author = ""
-date = 2022-04-04T01:00:00+02:00
-begin = "2022-04-01"
-"gewässer" = []
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Proberudern 2022"
-src = "images/Proberudern_2022.jpg"
-[[images]]
-title = "wir brauchen mal ein paar Leitern Tag der offenen tür 2022"
-src = "images/wir_brauchen_mal_ein_paar_Leitern_Tag_der_offenen_tur_2022.jpg"
-[[images]]
-title = "Aufbau Tag der offenen Tür Ruderclub 2022"
-src = "images/Aufbau_Tag_der_offenen_Tur_Ruderclub_2022.jpg"
-[[images]]
-title = "Dachbau am Bootslager 2022"
-src = "images/Dachbau_am_Bootslager_2022.jpg"
-[[images]]
-title = "Behelfsdach bauen 2022"
-src = "images/Behelfsdach_bauen_2022.jpg"
-[[images]]
-title = "Abendliches Grillen Tag der offenen Tür 2022"
-src = "images/Abendliches_Grillen_Tag_der_offenen_Tur_2022.jpg"
-[[images]]
-title = "Eva-Lotte am Grill Tag der offenen Tür 2022"
-src = "images/Eva-Lotte_am_Grill_Tag_der_offenen_Tur_2022.jpg"
-[[images]]
-title = "Proberudern beim RC KST 2022"
-src = "images/Proberudern_beim_RC_KST_2022.jpg"
-[[images]]
-title = "Gabriela übt GigEiner 2022"
-src = "images/Gabriela_ubt_GigEiner_2022.jpg"
-[[images]]
-title = "Leierkastenmann Rübezahl beim Tag der offenen Tür 2022"
-src = "images/Leierkastenmann_Rubezahl_beim_Tag_der_offenen_Tur_2022.jpg"
-[[images]]
-title = "Ruderergometer im Einsatz Tag der offenen Tür Rudern 2022"
-src = "images/Ruderergometer_im_Einsatz_Tag_der_offenen_Tur_Rudern_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-04-01"
+date: "2022-04-04T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Proberudern_2022.jpg
+  title: Proberudern 2022
+- src: images/wir_brauchen_mal_ein_paar_Leitern_Tag_der_offenen_tur_2022.jpg
+  title: wir brauchen mal ein paar Leitern Tag der offenen tür 2022
+- src: images/Aufbau_Tag_der_offenen_Tur_Ruderclub_2022.jpg
+  title: Aufbau Tag der offenen Tür Ruderclub 2022
+- src: images/Dachbau_am_Bootslager_2022.jpg
+  title: Dachbau am Bootslager 2022
+- src: images/Behelfsdach_bauen_2022.jpg
+  title: Behelfsdach bauen 2022
+- src: images/Abendliches_Grillen_Tag_der_offenen_Tur_2022.jpg
+  title: Abendliches Grillen Tag der offenen Tür 2022
+- src: images/Eva-Lotte_am_Grill_Tag_der_offenen_Tur_2022.jpg
+  title: Eva-Lotte am Grill Tag der offenen Tür 2022
+- src: images/Proberudern_beim_RC_KST_2022.jpg
+  title: Proberudern beim RC KST 2022
+- src: images/Gabriela_ubt_GigEiner_2022.jpg
+  title: Gabriela übt GigEiner 2022
+- src: images/Leierkastenmann_Rubezahl_beim_Tag_der_offenen_Tur_2022.jpg
+  title: Leierkastenmann Rübezahl beim Tag der offenen Tür 2022
+- src: images/Ruderergometer_im_Einsatz_Tag_der_offenen_Tur_Rudern_2022.jpg
+  title: Ruderergometer im Einsatz Tag der offenen Tür Rudern 2022
+länder: []
+title: Tag der offenen Tür 2022
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

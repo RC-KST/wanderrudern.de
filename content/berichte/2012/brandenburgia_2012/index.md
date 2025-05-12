@@ -1,25 +1,23 @@
-+++
-title = "Brandenburgia 2012"
-author = ""
-date = 2012-08-08T01:00:00+02:00
-begin = "2012-08-01"
-"gewässer" = ["havel", "neuendorfer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jo auf der Havel Brandenburgia 2012"
-src = "images/Jo_auf_der_Havel_Brandenburgia_2012.jpg"
-[[images]]
-title = "Abendstimmung Brandenburgia 2012"
-src = "images/Abendstimmung_Brandenburgia_2012.jpg"
-[[images]]
-title = "RC KST Vierer bei Birkenwerder am Steg 2012"
-src = "images/RC_KST_Vierer_bei_Birkenwerder_am_Steg_2012.jpg"
-[[images]]
-title = "Badepause Brandenburgia 2012"
-src = "images/Badepause_Brandenburgia_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-08-01"
+date: "2012-08-08T01:00:00+02:00"
+gewässer:
+- havel
+- neuendorfer see
+images:
+- src: images/Jo_auf_der_Havel_Brandenburgia_2012.jpg
+  title: Jo auf der Havel Brandenburgia 2012
+- src: images/Abendstimmung_Brandenburgia_2012.jpg
+  title: Abendstimmung Brandenburgia 2012
+- src: images/RC_KST_Vierer_bei_Birkenwerder_am_Steg_2012.jpg
+  title: RC KST Vierer bei Birkenwerder am Steg 2012
+- src: images/Badepause_Brandenburgia_2012.jpg
+  title: Badepause Brandenburgia 2012
+länder: []
+title: Brandenburgia 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

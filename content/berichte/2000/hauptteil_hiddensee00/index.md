@@ -1,25 +1,24 @@
-+++
-title = "hiddensee 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["hiddensee"]
-"länder" = ["dänemark", "finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot im Strelasund Rudern"
-src = "images/kerteminde.jpg"
-[[images]]
-title = "Wolfgang und Chrishe im Ruderboot auf der Ostsee"
-src = "images/wolfgang_christian.jpg"
-[[images]]
-title = "Wechsel im Ruderboot"
-src = "images/wechsel.jpg"
-[[images]]
-title = "Jana Wolfgang im Ruderboot"
-src = "images/wolfgang_jana.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- hiddensee
+images:
+- src: images/kerteminde.jpg
+  title: Ruderboot im Strelasund Rudern
+- src: images/wolfgang_christian.jpg
+  title: Wolfgang und Chrishe im Ruderboot auf der Ostsee
+- src: images/wechsel.jpg
+  title: Wechsel im Ruderboot
+- src: images/wolfgang_jana.jpg
+  title: Jana Wolfgang im Ruderboot
+länder:
+- dänemark
+- finnland
+title: hiddensee 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

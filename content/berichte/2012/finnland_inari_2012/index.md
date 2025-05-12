@@ -1,13 +1,15 @@
-+++
-title = "Finnland Inari 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["inn", "porsangenfjord"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- porsangenfjord
+länder:
+- finnland
+title: Finnland Inari 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,118 +1,90 @@
-+++
-title = "Moldau Elbe 2016"
-author = ""
-date = 2016-10-10T01:00:00+02:00
-begin = "2016-10-01"
-"gewässer" = ["elbe", "moldau", "plauer see", "elbe-havel-kanal", "oder"]
-"länder" = ["deutschland", "tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Selfie auf der Treppe Moldau 2016"
-src = "images/Selfie_auf_der_Treppe_Moldau_2016.jpg"
-[[images]]
-title = "Bootsanhaenger in Budweis Moldau 2016"
-src = "images/Bootsanhaenger_in_Budweis_Moldau_2016.jpg"
-[[images]]
-title = "Budweis Startsteg Moldau 2016"
-src = "images/Budweis_Startsteg_Moldau_2016.jpg"
-[[images]]
-title = "Moldau in Budweis 2016"
-src = "images/Moldau_in_Budweis_2016.jpg"
-[[images]]
-title = "Schleuse Moldau 2016"
-src = "images/Schleuse_Moldau_2016.jpg"
-[[images]]
-title = "Ruderboot Boldua Budweis Tyn 2016"
-src = "images/Ruderboot_Boldua_Budweis_Tyn_2016.jpg"
-[[images]]
-title = "Moldauschleuse hinter Budweis 2016"
-src = "images/Moldauschleuse_hinter_Budweis_2016.jpg"
-[[images]]
-title = "Moldau hinter Budweise 2016"
-src = "images/Moldau_hinter_Budweise_2016.jpg"
-[[images]]
-title = "Umsetzstelle obere Moldau 2016"
-src = "images/Umsetzstelle_obere_Moldau_2016.jpg"
-[[images]]
-title = "Dreier Budweis Tyn Moldau 2016"
-src = "images/Dreier_Budweis_Tyn_Moldau_2016.jpg"
-[[images]]
-title = "Wehr im Bau Hnevkovice Moldau 2016"
-src = "images/Wehr_im_Bau_Hnevkovice_Moldau_2016.jpg"
-[[images]]
-title = "Baustelle an der Moldau 2016"
-src = "images/Baustelle_an_der_Moldau_2016.jpg"
-[[images]]
-title = "umtragen an der angeblich geoeffneten Schleuse Moldau 2016"
-src = "images/umtragen_an_der_angeblich_geoeffneten_Schleuse_Moldau_2016.jpg"
-[[images]]
-title = "mal wieder Boot tragen Moldau 2016"
-src = "images/mal_wieder_Boot_tragen_Moldau_2016.jpg"
-[[images]]
-title = "Orlik Stausee Moldau 2016"
-src = "images/Orlik_Stausee_Moldau_2016.jpg"
-[[images]]
-title = "Staumauer Orlik Boot umkarren Moldau 2016"
-src = "images/Staumauer_Orlik_Boot_umkarren_Moldau_2016.jpg"
-[[images]]
-title = "Staumauer Slapy Ruderboote Moldau 2016"
-src = "images/Staumauer_Slapy_Ruderboote_Moldau_2016.jpg"
-[[images]]
-title = "Schleusentore Moldau 2016"
-src = "images/Schleusentore_Moldau_2016.jpg"
-[[images]]
-title = "umtragen Slapy Moldau 2016"
-src = "images/umtragen_Slapy_Moldau_2016.jpg"
-[[images]]
-title = "Regenklappe Moldau 2016"
-src = "images/Regenklappe_Moldau_2016.jpg"
-[[images]]
-title = "Bootsgasse in Prag Moldau 2016"
-src = "images/Bootsgasse_in_Prag_Moldau_2016.jpg"
-[[images]]
-title = "Fahre nach Prag Moldau 2016"
-src = "images/Fahre_nach_Prag_Moldau_2016.jpg"
-[[images]]
-title = "Karlsbruecke mit Hdradschin Moldau 2016"
-src = "images/Karlsbruecke_mit_Hdradschin_Moldau_2016.jpg"
-[[images]]
-title = "Ruderboot unter der Karlsbruecke Moldau 2016"
-src = "images/Ruderboot_unter_der_Karlsbruecke_Moldau_2016.jpg"
-[[images]]
-title = "Blick vom Hradschin auf Prag Moldau 2016"
-src = "images/Blick_vom_Hradschin_auf_Prag_Moldau_2016.jpg"
-[[images]]
-title = "Ruderboote umsetzen in die alte Moldau 2016"
-src = "images/Ruderboote_umsetzen_in_die_alte_Moldau_2016.jpg"
-[[images]]
-title = "Einsetzen an der alten Moldau 2016"
-src = "images/Einsetzen_an_der_alten_Moldau_2016.jpg"
-[[images]]
-title = "Melnik im Blick Alte Moldau 2016"
-src = "images/Melnik_im_Blick_Alte_Moldau_2016.jpg"
-[[images]]
-title = "Schleuse Roudnice Elbe 2016"
-src = "images/Schleuse_Roudnice_Elbe_2016.jpg"
-[[images]]
-title = "Ruderclub Litomerice Elbe 2016"
-src = "images/Ruderclub_Litomerice_Elbe_2016.jpg"
-[[images]]
-title = "Rathen Elbsandstein Elbe 2016"
-src = "images/Rathen_Elbsandstein_Elbe_2016.jpg"
-[[images]]
-title = "Rudervierer vor Bastei Elbe 2016"
-src = "images/Rudervierer_vor_Bastei_Elbe_2016.jpg"
-[[images]]
-title = "Meissen Albrechtsburg Elbe 2016"
-src = "images/Meissen_Albrechtsburg_Elbe_2016.jpg"
-[[images]]
-title = "Wittenberg Altstadt Elbe 2016"
-src = "images/Wittenberg_Altstadt_Elbe_2016.jpg"
-[[images]]
-title = "Schleuse Parey Elbe Herbst 2016"
-src = "images/Schleuse_Parey_Elbe_Herbst_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-10-01"
+date: "2016-10-10T01:00:00+02:00"
+gewässer:
+- elbe
+- moldau
+- plauer see
+- elbe-havel-kanal
+- oder
+images:
+- src: images/Selfie_auf_der_Treppe_Moldau_2016.jpg
+  title: Selfie auf der Treppe Moldau 2016
+- src: images/Bootsanhaenger_in_Budweis_Moldau_2016.jpg
+  title: Bootsanhaenger in Budweis Moldau 2016
+- src: images/Budweis_Startsteg_Moldau_2016.jpg
+  title: Budweis Startsteg Moldau 2016
+- src: images/Moldau_in_Budweis_2016.jpg
+  title: Moldau in Budweis 2016
+- src: images/Schleuse_Moldau_2016.jpg
+  title: Schleuse Moldau 2016
+- src: images/Ruderboot_Boldua_Budweis_Tyn_2016.jpg
+  title: Ruderboot Boldua Budweis Tyn 2016
+- src: images/Moldauschleuse_hinter_Budweis_2016.jpg
+  title: Moldauschleuse hinter Budweis 2016
+- src: images/Moldau_hinter_Budweise_2016.jpg
+  title: Moldau hinter Budweise 2016
+- src: images/Umsetzstelle_obere_Moldau_2016.jpg
+  title: Umsetzstelle obere Moldau 2016
+- src: images/Dreier_Budweis_Tyn_Moldau_2016.jpg
+  title: Dreier Budweis Tyn Moldau 2016
+- src: images/Wehr_im_Bau_Hnevkovice_Moldau_2016.jpg
+  title: Wehr im Bau Hnevkovice Moldau 2016
+- src: images/Baustelle_an_der_Moldau_2016.jpg
+  title: Baustelle an der Moldau 2016
+- src: images/umtragen_an_der_angeblich_geoeffneten_Schleuse_Moldau_2016.jpg
+  title: umtragen an der angeblich geoeffneten Schleuse Moldau 2016
+- src: images/mal_wieder_Boot_tragen_Moldau_2016.jpg
+  title: mal wieder Boot tragen Moldau 2016
+- src: images/Orlik_Stausee_Moldau_2016.jpg
+  title: Orlik Stausee Moldau 2016
+- src: images/Staumauer_Orlik_Boot_umkarren_Moldau_2016.jpg
+  title: Staumauer Orlik Boot umkarren Moldau 2016
+- src: images/Staumauer_Slapy_Ruderboote_Moldau_2016.jpg
+  title: Staumauer Slapy Ruderboote Moldau 2016
+- src: images/Schleusentore_Moldau_2016.jpg
+  title: Schleusentore Moldau 2016
+- src: images/umtragen_Slapy_Moldau_2016.jpg
+  title: umtragen Slapy Moldau 2016
+- src: images/Regenklappe_Moldau_2016.jpg
+  title: Regenklappe Moldau 2016
+- src: images/Bootsgasse_in_Prag_Moldau_2016.jpg
+  title: Bootsgasse in Prag Moldau 2016
+- src: images/Fahre_nach_Prag_Moldau_2016.jpg
+  title: Fahre nach Prag Moldau 2016
+- src: images/Karlsbruecke_mit_Hdradschin_Moldau_2016.jpg
+  title: Karlsbruecke mit Hdradschin Moldau 2016
+- src: images/Ruderboot_unter_der_Karlsbruecke_Moldau_2016.jpg
+  title: Ruderboot unter der Karlsbruecke Moldau 2016
+- src: images/Blick_vom_Hradschin_auf_Prag_Moldau_2016.jpg
+  title: Blick vom Hradschin auf Prag Moldau 2016
+- src: images/Ruderboote_umsetzen_in_die_alte_Moldau_2016.jpg
+  title: Ruderboote umsetzen in die alte Moldau 2016
+- src: images/Einsetzen_an_der_alten_Moldau_2016.jpg
+  title: Einsetzen an der alten Moldau 2016
+- src: images/Melnik_im_Blick_Alte_Moldau_2016.jpg
+  title: Melnik im Blick Alte Moldau 2016
+- src: images/Schleuse_Roudnice_Elbe_2016.jpg
+  title: Schleuse Roudnice Elbe 2016
+- src: images/Ruderclub_Litomerice_Elbe_2016.jpg
+  title: Ruderclub Litomerice Elbe 2016
+- src: images/Rathen_Elbsandstein_Elbe_2016.jpg
+  title: Rathen Elbsandstein Elbe 2016
+- src: images/Rudervierer_vor_Bastei_Elbe_2016.jpg
+  title: Rudervierer vor Bastei Elbe 2016
+- src: images/Meissen_Albrechtsburg_Elbe_2016.jpg
+  title: Meissen Albrechtsburg Elbe 2016
+- src: images/Wittenberg_Altstadt_Elbe_2016.jpg
+  title: Wittenberg Altstadt Elbe 2016
+- src: images/Schleuse_Parey_Elbe_Herbst_2016.jpg
+  title: Schleuse Parey Elbe Herbst 2016
+länder:
+- deutschland
+- tschechien
+title: Moldau Elbe 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

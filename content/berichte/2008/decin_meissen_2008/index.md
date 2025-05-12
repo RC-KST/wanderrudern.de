@@ -1,40 +1,32 @@
-+++
-title = "Decin Meissen 2008"
-author = ""
-date = 2008-01-01T01:00:00+02:00
-begin = "2008-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Thomas in Decin 08"
-src = "images/Thomas_in_Decin_08.jpg"
-[[images]]
-title = "Sophie mit Skulls Decin 08"
-src = "images/Sophie_mit_Skulls_Decin_08.jpg"
-[[images]]
-title = "Sandro Decin 08"
-src = "images/Sandro_Decin_08.jpg"
-[[images]]
-title = "Boote riggern Decin 08"
-src = "images/Boote_riggern_Decin_08.jpg"
-[[images]]
-title = "Barke zusammenschrauben Decin 08"
-src = "images/Barke_zusammenschrauben_Decin_08.jpg"
-[[images]]
-title = "Barkensteuerleute Decin 08"
-src = "images/Barkensteuerleute_Decin_08.jpg"
-[[images]]
-title = "Dresden Decinfahrt 08"
-src = "images/Dresden_Decinfahrt_08.jpg"
-[[images]]
-title = "elbe08-barke"
-src = "images/elbe08-barke.jpg"
-[[images]]
-title = "Weihnachtsmann am Steuer Decin 0802"
-src = "images/Weihnachtsmann_am_Steuer_Decin_0802.jpg"
-
-+++
+---
+author: ""
+begin: "2008-01-01"
+date: "2008-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Thomas_in_Decin_08.jpg
+  title: Thomas in Decin 08
+- src: images/Sophie_mit_Skulls_Decin_08.jpg
+  title: Sophie mit Skulls Decin 08
+- src: images/Sandro_Decin_08.jpg
+  title: Sandro Decin 08
+- src: images/Boote_riggern_Decin_08.jpg
+  title: Boote riggern Decin 08
+- src: images/Barke_zusammenschrauben_Decin_08.jpg
+  title: Barke zusammenschrauben Decin 08
+- src: images/Barkensteuerleute_Decin_08.jpg
+  title: Barkensteuerleute Decin 08
+- src: images/Dresden_Decinfahrt_08.jpg
+  title: Dresden Decinfahrt 08
+- src: images/elbe08-barke.jpg
+  title: elbe08-barke
+- src: images/Weihnachtsmann_am_Steuer_Decin_0802.jpg
+  title: Weihnachtsmann am Steuer Decin 0802
+länder: []
+title: Decin Meissen 2008
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,14 @@
-+++
-title = "Mirow 1997"
-author = ""
-date = 1997-09-09T01:00:00+02:00
-begin = "1997-09-01"
-"gewässer" = ["müritz", "mecklenburger seenplatte"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "1997-09-01"
+date: "1997-09-09T01:00:00+02:00"
+gewässer:
+- müritz
+- mecklenburger seenplatte
+länder: []
+title: Mirow 1997
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

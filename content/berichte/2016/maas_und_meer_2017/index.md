@@ -1,22 +1,26 @@
-+++
-title = "Finnland Saimaa 2016"
-author = ""
-date = 2016-08-08T01:00:00+02:00
-begin = "2016-08-01"
-"gewässer" = ["inn", "maas", "nordsee", "saimaa"]
-"länder" = ["frankreich", "finnland", "belgien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ardennen Maas"
-src = "images/Ardennen_Maas.jpg"
-[[images]]
-title = "Dinant Maas"
-src = "images/Dinant_Maas.jpg"
-[[images]]
-title = "Texel"
-src = "images/Texel.jpg"
-
-+++
+---
+author: ""
+begin: "2016-08-01"
+date: "2016-08-08T01:00:00+02:00"
+gewässer:
+- inn
+- maas
+- nordsee
+- saimaa
+images:
+- src: images/Ardennen_Maas.jpg
+  title: Ardennen Maas
+- src: images/Dinant_Maas.jpg
+  title: Dinant Maas
+- src: images/Texel.jpg
+  title: Texel
+länder:
+- frankreich
+- finnland
+- belgien
+title: Finnland Saimaa 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,12 @@
-+++
-title = "Preisverleihung Berliner Wettbewerb 08"
-author = ""
-date = 2008-01-01T01:00:00+02:00
-begin = "2008-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2008-01-01"
+date: "2008-01-01T01:00:00+02:00"
+gewässer: []
+länder: []
+title: Preisverleihung Berliner Wettbewerb 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

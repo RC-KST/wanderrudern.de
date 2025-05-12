@@ -1,46 +1,36 @@
-+++
-title = "Burgwall Templiner Seenplatte 2015"
-author = ""
-date = 2015-10-10T01:00:00+02:00
-begin = "2015-10-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote riggern Burgwall 2015"
-src = "images/Boote_riggern_Burgwall_2015.jpg"
-[[images]]
-title = "Ruderer Burgwall 2015"
-src = "images/Ruderer_Burgwall_2015.jpg"
-[[images]]
-title = "Hannes auf der Havel bi Burgwall 2015"
-src = "images/Hannes_auf_der_Havel_bi_Burgwall_2015.jpg"
-[[images]]
-title = "Bootstrailer in Burgwall 2015"
-src = "images/Bootstrailer_in_Burgwall_2015.jpg"
-[[images]]
-title = "Wentowsee Ende 2015"
-src = "images/Wentowsee_Ende_2015.jpg"
-[[images]]
-title = "Schleuse Templin 2015"
-src = "images/Schleuse_Templin_2015.jpg"
-[[images]]
-title = "Chaos Kindervierer Templin 2015"
-src = "images/Chaos_Kindervierer_Templin_2015.jpg"
-[[images]]
-title = "Rudervierer bei Burgwall 2015"
-src = "images/Rudervierer_bei_Burgwall_2015.jpg"
-[[images]]
-title = "Templiner Seenplatte 2015"
-src = "images/Templiner_Seenplatte_2015.jpg"
-[[images]]
-title = "Ruderer auf dem Wentowsee 2015"
-src = "images/Ruderer_auf_dem_Wentowsee_2015.jpg"
-[[images]]
-title = "Wentowsee Ruderboote 2015"
-src = "images/Wentowsee_Ruderboote_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-10-01"
+date: "2015-10-10T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Boote_riggern_Burgwall_2015.jpg
+  title: Boote riggern Burgwall 2015
+- src: images/Ruderer_Burgwall_2015.jpg
+  title: Ruderer Burgwall 2015
+- src: images/Hannes_auf_der_Havel_bi_Burgwall_2015.jpg
+  title: Hannes auf der Havel bi Burgwall 2015
+- src: images/Bootstrailer_in_Burgwall_2015.jpg
+  title: Bootstrailer in Burgwall 2015
+- src: images/Wentowsee_Ende_2015.jpg
+  title: Wentowsee Ende 2015
+- src: images/Schleuse_Templin_2015.jpg
+  title: Schleuse Templin 2015
+- src: images/Chaos_Kindervierer_Templin_2015.jpg
+  title: Chaos Kindervierer Templin 2015
+- src: images/Rudervierer_bei_Burgwall_2015.jpg
+  title: Rudervierer bei Burgwall 2015
+- src: images/Templiner_Seenplatte_2015.jpg
+  title: Templiner Seenplatte 2015
+- src: images/Ruderer_auf_dem_Wentowsee_2015.jpg
+  title: Ruderer auf dem Wentowsee 2015
+- src: images/Wentowsee_Ruderboote_2015.jpg
+  title: Wentowsee Ruderboote 2015
+länder: []
+title: Burgwall Templiner Seenplatte 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

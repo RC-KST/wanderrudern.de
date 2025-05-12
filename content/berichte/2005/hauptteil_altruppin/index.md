@@ -1,19 +1,19 @@
-+++
-title = "Altruppin"
-author = ""
-date = 2005-01-01T01:00:00+02:00
-begin = "2005-01-01"
-"gewässer" = ["ruppiner see", "saimaa"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruppiner Gewässer Altruppin Rudern"
-src = "images/rhin.jpg"
-[[images]]
-title = "Ruderboot Altruppin"
-src = "images/boote.jpg"
-
-+++
+---
+author: ""
+begin: "2005-01-01"
+date: "2005-01-01T01:00:00+02:00"
+gewässer:
+- ruppiner see
+- saimaa
+images:
+- src: images/rhin.jpg
+  title: Ruppiner Gewässer Altruppin Rudern
+- src: images/boote.jpg
+  title: Ruderboot Altruppin
+länder: []
+title: Altruppin
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

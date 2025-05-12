@@ -1,28 +1,25 @@
-+++
-title = "Kirchboottaufe Werder 08"
-author = ""
-date = 2008-01-01T01:00:00+02:00
-begin = "2008-01-01"
-"gewässer" = ["havel"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Platzeck beim Kirchboot"
-src = "images/Platzeck_beim_Kirchboot.jpg"
-[[images]]
-title = "Moritz am Kirchboot"
-src = "images/Moritz_am_Kirchboot.jpg"
-[[images]]
-title = "Minister Ruprecht im Kirchboot"
-src = "images/Minister_Ruprecht_im_Kirchboot.jpg"
-[[images]]
-title = "Kirchboot wird zu Wasser gelassen"
-src = "images/Kirchboot_wird_zu_Wasser_gelassen.jpg"
-[[images]]
-title = "Das Kirchboot legt ab"
-src = "images/Das_Kirchboot_legt_ab.jpg"
-
-+++
+---
+author: ""
+begin: "2008-01-01"
+date: "2008-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Platzeck_beim_Kirchboot.jpg
+  title: Platzeck beim Kirchboot
+- src: images/Moritz_am_Kirchboot.jpg
+  title: Moritz am Kirchboot
+- src: images/Minister_Ruprecht_im_Kirchboot.jpg
+  title: Minister Ruprecht im Kirchboot
+- src: images/Kirchboot_wird_zu_Wasser_gelassen.jpg
+  title: Kirchboot wird zu Wasser gelassen
+- src: images/Das_Kirchboot_legt_ab.jpg
+  title: Das Kirchboot legt ab
+länder:
+- finnland
+title: Kirchboottaufe Werder 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

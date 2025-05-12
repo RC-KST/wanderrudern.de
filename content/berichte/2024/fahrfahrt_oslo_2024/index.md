@@ -1,70 +1,51 @@
-+++
-title = "Fährfahrt Oslo 2024"
-author = ""
-date = 2024-12-12T01:00:00+02:00
-begin = "2024-12-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kirche am Holmenkollen 2024"
-src = "images/Kirche_am_Holmenkollen_2024.jpg"
-[[images]]
-title = "Ruderer vor der Color Fantasy 2024"
-src = "images/Ruderer_vor_der_Color_Fantasy_2024.jpg"
-[[images]]
-title = "Promenade Color Fantays 2024"
-src = "images/Promenade_Color_Fantays_2024.jpg"
-[[images]]
-title = "Einfahrt Oslofjord 2024"
-src = "images/Einfahrt_Oslofjord_2024.jpg"
-[[images]]
-title = "Hotel Lobby Oslo 2024"
-src = "images/Hotel_Lobby_Oslo_2024.jpg"
-[[images]]
-title = "KonTiki 2024"
-src = "images/KonTiki_2024.jpg"
-[[images]]
-title = "Ruderer vor dem Moai 2024"
-src = "images/Ruderer_vor_dem_Moai_2024.jpg"
-[[images]]
-title = "Akker Brygge Ruderer 2024"
-src = "images/Akker_Brygge_Ruderer_2024.jpg"
-[[images]]
-title = "Auf der Fram im Eismeer 2024"
-src = "images/Auf_der_Fram_im_Eismeer_2024.jpg"
-[[images]]
-title = "AUf der Oper Oslo 2024"
-src = "images/AUf_der_Oper_Oslo_2024.jpg"
-[[images]]
-title = "Blick von Akkershus Am Morgen Oslo 2024"
-src = "images/Blick_von_Akkershus_Am_Morgen_Oslo_2024.jpg"
-[[images]]
-title = "Kinderbeschäftigung auf der Color Line 2024"
-src = "images/Kinderbeschaftigung_auf_der_Color_Line_2024.jpg"
-[[images]]
-title = "Ruderer vor dem Schloss in Oslo 2024"
-src = "images/Ruderer_vor_dem_Schloss_in_Oslo_2024.jpg"
-[[images]]
-title = "Holmenkollen 2024"
-src = "images/Holmenkollen_2024.jpg"
-[[images]]
-title = "Ruderboot von Nansen 2024"
-src = "images/Ruderboot_von_Nansen_2024.jpg"
-[[images]]
-title = "Holmenkollen Sprungschanze 2024"
-src = "images/Holmenkollen_Sprungschanze_2024.jpg"
-[[images]]
-title = "Blick über Oslo vom Holmenkollen 2024"
-src = "images/Blick_uber_Oslo_vom_Holmenkollen_2024.jpg"
-[[images]]
-title = "Viggeland die Frisur sitzt 2024"
-src = "images/Viggeland_die_Frisur_sitzt_2024.jpg"
-[[images]]
-title = "Viggeland Park 2024"
-src = "images/Viggeland_Park_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-12-01"
+date: "2024-12-12T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kirche_am_Holmenkollen_2024.jpg
+  title: Kirche am Holmenkollen 2024
+- src: images/Ruderer_vor_der_Color_Fantasy_2024.jpg
+  title: Ruderer vor der Color Fantasy 2024
+- src: images/Promenade_Color_Fantays_2024.jpg
+  title: Promenade Color Fantays 2024
+- src: images/Einfahrt_Oslofjord_2024.jpg
+  title: Einfahrt Oslofjord 2024
+- src: images/Hotel_Lobby_Oslo_2024.jpg
+  title: Hotel Lobby Oslo 2024
+- src: images/KonTiki_2024.jpg
+  title: KonTiki 2024
+- src: images/Ruderer_vor_dem_Moai_2024.jpg
+  title: Ruderer vor dem Moai 2024
+- src: images/Akker_Brygge_Ruderer_2024.jpg
+  title: Akker Brygge Ruderer 2024
+- src: images/Auf_der_Fram_im_Eismeer_2024.jpg
+  title: Auf der Fram im Eismeer 2024
+- src: images/AUf_der_Oper_Oslo_2024.jpg
+  title: AUf der Oper Oslo 2024
+- src: images/Blick_von_Akkershus_Am_Morgen_Oslo_2024.jpg
+  title: Blick von Akkershus Am Morgen Oslo 2024
+- src: images/Kinderbeschaftigung_auf_der_Color_Line_2024.jpg
+  title: Kinderbeschäftigung auf der Color Line 2024
+- src: images/Ruderer_vor_dem_Schloss_in_Oslo_2024.jpg
+  title: Ruderer vor dem Schloss in Oslo 2024
+- src: images/Holmenkollen_2024.jpg
+  title: Holmenkollen 2024
+- src: images/Ruderboot_von_Nansen_2024.jpg
+  title: Ruderboot von Nansen 2024
+- src: images/Holmenkollen_Sprungschanze_2024.jpg
+  title: Holmenkollen Sprungschanze 2024
+- src: images/Blick_uber_Oslo_vom_Holmenkollen_2024.jpg
+  title: Blick über Oslo vom Holmenkollen 2024
+- src: images/Viggeland_die_Frisur_sitzt_2024.jpg
+  title: Viggeland die Frisur sitzt 2024
+- src: images/Viggeland_Park_2024.jpg
+  title: Viggeland Park 2024
+länder: []
+title: Fährfahrt Oslo 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,24 @@
-+++
-title = "Preisverleihung Sommer 07"
-author = ""
-date = 2007-03-03T01:00:00+02:00
-begin = "2007-03-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "RC KST bei Preisverleihun"
-src = "images/RC_KST_bei_Preisverleihun.JPG"
-[[images]]
-title = "Kinder Preisverleihung Sommerwettbewerb 07"
-src = "images/Kinder_Preisverleihung_Sommerwettbewerb_07.JPG"
-[[images]]
-title = "Preise Jugend RC Kleinmachnow"
-src = "images/Preise_Jugend_RC_Kleinmachnow.JPG"
-[[images]]
-title = "Kinder Jugend Sommerwettbewerb Berlin 07"
-src = "images/Kinder_Jugend_Sommerwettbewerb_Berlin_07.JPG"
-[[images]]
-title = "Preisverleihung Berliner Sommerwettbewerb 07"
-src = "images/Preisverleihung_Berliner_Sommerwettbewerb_07.JPG"
-
-+++
+---
+author: ""
+begin: "2007-03-01"
+date: "2007-03-03T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/RC_KST_bei_Preisverleihun.JPG
+  title: RC KST bei Preisverleihun
+- src: images/Kinder_Preisverleihung_Sommerwettbewerb_07.JPG
+  title: Kinder Preisverleihung Sommerwettbewerb 07
+- src: images/Preise_Jugend_RC_Kleinmachnow.JPG
+  title: Preise Jugend RC Kleinmachnow
+- src: images/Kinder_Jugend_Sommerwettbewerb_Berlin_07.JPG
+  title: Kinder Jugend Sommerwettbewerb Berlin 07
+- src: images/Preisverleihung_Berliner_Sommerwettbewerb_07.JPG
+  title: Preisverleihung Berliner Sommerwettbewerb 07
+länder: []
+title: Preisverleihung Sommer 07
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

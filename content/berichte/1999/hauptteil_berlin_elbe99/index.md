@@ -1,22 +1,23 @@
-+++
-title = "Berlin_Elbe99"
-author = ""
-date = 1999-10-10T01:00:00+02:00
-begin = "1999-10-01"
-"gewässer" = ["elbe", "havel", "elbe-havel-kanal"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot auf der Elbe"
-src = "images/havel.jpg"
-[[images]]
-title = "Ruderer auf der Elbe"
-src = "images/elbe.jpg"
-[[images]]
-title = "Ruderer im Hafen Tangermünde"
-src = "images/tangermuende99.jpg"
-
-+++
+---
+author: ""
+begin: "1999-10-01"
+date: "1999-10-10T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- elbe-havel-kanal
+images:
+- src: images/havel.jpg
+  title: Ruderboot auf der Elbe
+- src: images/elbe.jpg
+  title: Ruderer auf der Elbe
+- src: images/tangermuende99.jpg
+  title: Ruderer im Hafen Tangermünde
+länder:
+- italien
+title: Berlin_Elbe99
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,13 +1,19 @@
-+++
-title = "Donau Ostern 2004 Wien-Budapest"
-author = ""
-date = 2004-01-01T01:00:00+02:00
-begin = "2004-01-01"
-"gewässer" = ["donau", "donaukanal", "mossoni-donau", "oste", "oder"]
-"länder" = ["ungarn", "slowakei"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2004-01-01"
+date: "2004-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- donaukanal
+- mossoni-donau
+- oste
+- oder
+länder:
+- ungarn
+- slowakei
+title: Donau Ostern 2004 Wien-Budapest
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

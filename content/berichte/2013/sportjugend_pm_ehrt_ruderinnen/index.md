@@ -1,16 +1,17 @@
-+++
-title = "Sportjugend PM ehrt Ruderinnen 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["inn", "po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Nirina und LingLing Ehrung der Sportjugend 2013"
-src = "images/Nirina_und_LingLing_Ehrung_der_Sportjugend_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- po
+images:
+- src: images/Nirina_und_LingLing_Ehrung_der_Sportjugend_2013.jpg
+  title: Nirina und LingLing Ehrung der Sportjugend 2013
+länder: []
+title: Sportjugend PM ehrt Ruderinnen 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

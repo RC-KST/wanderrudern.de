@@ -1,64 +1,53 @@
-+++
-title = "Spreewald 2023"
-author = ""
-date = 2023-10-10T01:00:00+02:00
-begin = "2023-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Inrigger Machnower Schleuse Spreewald 2023"
-src = "images/Inrigger_Machnower_Schleuse_Spreewald_2023.jpg"
-[[images]]
-title = "Ruderboote Prieros KJF Spreewald 2023"
-src = "images/Ruderboote_Prieros_KJF_Spreewald_2023.jpg"
-[[images]]
-title = "Schleuse Prieros 2023"
-src = "images/Schleuse_Prieros_2023.jpg"
-[[images]]
-title = "Obere Puhlstromschleuse Spreewald 2023"
-src = "images/Obere_Puhlstromschleuse_Spreewald_2023.jpg"
-[[images]]
-title = "Timo im Spreewald 2023"
-src = "images/Timo_im_Spreewald_2023.jpg"
-[[images]]
-title = "Alt Schadow 2023"
-src = "images/Alt_Schadow_2023.jpg"
-[[images]]
-title = "Pizzajungs Spreewald 2023"
-src = "images/Pizzajungs_Spreewald_2023.jpg"
-[[images]]
-title = "Schleuse Neue Mühle Spreewald 2023"
-src = "images/Schleuse_Neue_Muhle_Spreewald_2023.jpg"
-[[images]]
-title = "Spreewald Prieros 2023"
-src = "images/Spreewald_Prieros_2023.jpg"
-[[images]]
-title = "Speisesaal KJF Spreewald 2023"
-src = "images/Speisesaal_KJF_Spreewald_2023.jpg"
-[[images]]
-title = "RUderboot im Spreewald 2023"
-src = "images/RUderboot_im_Spreewald_2023.jpg"
-[[images]]
-title = "Biberblockade Spreewald 2023"
-src = "images/Biberblockade_Spreewald_2023.jpg"
-[[images]]
-title = "Ruderboot Nordumfluter Lübben Spreewald 2023"
-src = "images/Ruderboot_Nordumfluter_Lubben_Spreewald_2023.jpg"
-[[images]]
-title = "Lagerfeuer Lübben 2023"
-src = "images/Lagerfeuer_Lubben_2023.jpg"
-[[images]]
-title = "Verkehrsstau im Spreewald 2023"
-src = "images/Verkehrsstau_im_Spreewald_2023.jpg"
-[[images]]
-title = "Ruderboote in der Spreewaldschleuse 2023"
-src = "images/Ruderboote_in_der_Spreewaldschleuse_2023.jpg"
-[[images]]
-title = "Schleuse im Spreewald 2023"
-src = "images/Schleuse_im_Spreewald_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-10-01"
+date: "2023-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+images:
+- src: images/Inrigger_Machnower_Schleuse_Spreewald_2023.jpg
+  title: Inrigger Machnower Schleuse Spreewald 2023
+- src: images/Ruderboote_Prieros_KJF_Spreewald_2023.jpg
+  title: Ruderboote Prieros KJF Spreewald 2023
+- src: images/Schleuse_Prieros_2023.jpg
+  title: Schleuse Prieros 2023
+- src: images/Obere_Puhlstromschleuse_Spreewald_2023.jpg
+  title: Obere Puhlstromschleuse Spreewald 2023
+- src: images/Timo_im_Spreewald_2023.jpg
+  title: Timo im Spreewald 2023
+- src: images/Alt_Schadow_2023.jpg
+  title: Alt Schadow 2023
+- src: images/Pizzajungs_Spreewald_2023.jpg
+  title: Pizzajungs Spreewald 2023
+- src: images/Schleuse_Neue_Muhle_Spreewald_2023.jpg
+  title: Schleuse Neue Mühle Spreewald 2023
+- src: images/Spreewald_Prieros_2023.jpg
+  title: Spreewald Prieros 2023
+- src: images/Speisesaal_KJF_Spreewald_2023.jpg
+  title: Speisesaal KJF Spreewald 2023
+- src: images/RUderboot_im_Spreewald_2023.jpg
+  title: RUderboot im Spreewald 2023
+- src: images/Biberblockade_Spreewald_2023.jpg
+  title: Biberblockade Spreewald 2023
+- src: images/Ruderboot_Nordumfluter_Lubben_Spreewald_2023.jpg
+  title: Ruderboot Nordumfluter Lübben Spreewald 2023
+- src: images/Lagerfeuer_Lubben_2023.jpg
+  title: Lagerfeuer Lübben 2023
+- src: images/Verkehrsstau_im_Spreewald_2023.jpg
+  title: Verkehrsstau im Spreewald 2023
+- src: images/Ruderboote_in_der_Spreewaldschleuse_2023.jpg
+  title: Ruderboote in der Spreewaldschleuse 2023
+- src: images/Schleuse_im_Spreewald_2023.jpg
+  title: Schleuse im Spreewald 2023
+länder: []
+title: Spreewald 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

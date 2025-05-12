@@ -1,37 +1,32 @@
-+++
-title = "Havelberg 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Brandenburger Havel 2023 Ruderboot"
-src = "images/Brandenburger_Havel_2023_Ruderboot.jpg"
-[[images]]
-title = "Schleuse Rathenow Ruderboot 2023"
-src = "images/Schleuse_Rathenow_Ruderboot_2023.jpg"
-[[images]]
-title = "Havel vor Havelberg Ruderboot 2023"
-src = "images/Havel_vor_Havelberg_Ruderboot_2023.jpg"
-[[images]]
-title = "Ruderboot Schleuse Brandenburg 2023"
-src = "images/Ruderboot_Schleuse_Brandenburg_2023.jpg"
-[[images]]
-title = "Frühstück der Ruderer Plaue 2023"
-src = "images/Fruhstuck_der_Ruderer_Plaue_2023.jpg"
-[[images]]
-title = "Mögeliner Havel 2023"
-src = "images/Mogeliner_Havel_2023.jpg"
-[[images]]
-title = "Ruderclub Rathenow Ruderboote 2023"
-src = "images/Ruderclub_Rathenow_Ruderboote_2023.jpg"
-[[images]]
-title = "Havelberg Dom 2023"
-src = "images/Havelberg_Dom_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Brandenburger_Havel_2023_Ruderboot.jpg
+  title: Brandenburger Havel 2023 Ruderboot
+- src: images/Schleuse_Rathenow_Ruderboot_2023.jpg
+  title: Schleuse Rathenow Ruderboot 2023
+- src: images/Havel_vor_Havelberg_Ruderboot_2023.jpg
+  title: Havel vor Havelberg Ruderboot 2023
+- src: images/Ruderboot_Schleuse_Brandenburg_2023.jpg
+  title: Ruderboot Schleuse Brandenburg 2023
+- src: images/Fruhstuck_der_Ruderer_Plaue_2023.jpg
+  title: Frühstück der Ruderer Plaue 2023
+- src: images/Mogeliner_Havel_2023.jpg
+  title: Mögeliner Havel 2023
+- src: images/Ruderclub_Rathenow_Ruderboote_2023.jpg
+  title: Ruderclub Rathenow Ruderboote 2023
+- src: images/Havelberg_Dom_2023.jpg
+  title: Havelberg Dom 2023
+länder: []
+title: Havelberg 2023
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,20 @@
-+++
-title = "Mirow 1999"
-author = ""
-date = 1999-01-01T01:00:00+02:00
-begin = "1999-01-01"
-"gewässer" = ["müritz"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "am strand der müritz ruderer"
-src = "images/baum_mi99.jpg"
-[[images]]
-title = "christopher steuert über die Müritz"
-src = "images/christopher_mi99.jpg"
-[[images]]
-title = "Vierer Rudern Ruderboot Mirow"
-src = "images/vierer_mi99.jpg"
-
-+++
+---
+author: ""
+begin: "1999-01-01"
+date: "1999-01-01T01:00:00+02:00"
+gewässer:
+- müritz
+images:
+- src: images/baum_mi99.jpg
+  title: am strand der müritz ruderer
+- src: images/christopher_mi99.jpg
+  title: christopher steuert über die Müritz
+- src: images/vierer_mi99.jpg
+  title: Vierer Rudern Ruderboot Mirow
+länder: []
+title: Mirow 1999
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

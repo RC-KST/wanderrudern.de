@@ -1,22 +1,21 @@
-+++
-title = "Ketzin Herbst 2014"
-author = ""
-date = 2014-11-11T01:00:00+02:00
-begin = "2014-11-01"
-"gewässer" = ["trebelsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderjugend Ketzin 2014"
-src = "images/Ruderjugend_Ketzin_2014.jpg"
-[[images]]
-title = "Ruderer im Malabar Herbst 2014"
-src = "images/Ruderer_im_Malabar_Herbst_2014.jpg"
-[[images]]
-title = "Exotische Fruechte in Ketzin 2014"
-src = "images/Exotische_Fruechte_in_Ketzin_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-11-01"
+date: "2014-11-11T01:00:00+02:00"
+gewässer:
+- trebelsee
+- oder
+images:
+- src: images/Ruderjugend_Ketzin_2014.jpg
+  title: Ruderjugend Ketzin 2014
+- src: images/Ruderer_im_Malabar_Herbst_2014.jpg
+  title: Ruderer im Malabar Herbst 2014
+- src: images/Exotische_Fruechte_in_Ketzin_2014.jpg
+  title: Exotische Fruechte in Ketzin 2014
+länder: []
+title: Ketzin Herbst 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,31 +1,27 @@
-+++
-title = "Havelkanal-Marathon 2015"
-author = ""
-date = 2015-10-10T01:00:00+02:00
-begin = "2015-10-01"
-"gewässer" = ["havel", "wannsee"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Marathonstart Kleinmachnow 2015"
-src = "images/Marathonstart_Kleinmachnow_2015.jpg"
-[[images]]
-title = "Havelkanal bei Hennigsdorf 2015"
-src = "images/Havelkanal_bei_Hennigsdorf_2015.jpg"
-[[images]]
-title = "Gegenboot nach 50km Havelkanalmarathon 2015"
-src = "images/Gegenboot_nach_50km_Havelkanalmarathon_2015.jpg"
-[[images]]
-title = "Schleuse Schoenwalde Havelkanal 2015"
-src = "images/Schleuse_Schoenwalde_Havelkanal_2015.jpg"
-[[images]]
-title = "Sacrower Kirche bei Sonnenaufgang Havelkanal Marathon 2015"
-src = "images/Sacrower_Kirche_bei_Sonnenaufgang_Havelkanal_Marathon_2015.jpg"
-[[images]]
-title = "Havelkanal Marathon 2015"
-src = "images/Havelkanal_Marathon_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-10-01"
+date: "2015-10-10T01:00:00+02:00"
+gewässer:
+- havel
+- wannsee
+images:
+- src: images/Marathonstart_Kleinmachnow_2015.jpg
+  title: Marathonstart Kleinmachnow 2015
+- src: images/Havelkanal_bei_Hennigsdorf_2015.jpg
+  title: Havelkanal bei Hennigsdorf 2015
+- src: images/Gegenboot_nach_50km_Havelkanalmarathon_2015.jpg
+  title: Gegenboot nach 50km Havelkanalmarathon 2015
+- src: images/Schleuse_Schoenwalde_Havelkanal_2015.jpg
+  title: Schleuse Schoenwalde Havelkanal 2015
+- src: images/Sacrower_Kirche_bei_Sonnenaufgang_Havelkanal_Marathon_2015.jpg
+  title: Sacrower Kirche bei Sonnenaufgang Havelkanal Marathon 2015
+- src: images/Havelkanal_Marathon_2015.jpg
+  title: Havelkanal Marathon 2015
+länder: []
+title: Havelkanal-Marathon 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

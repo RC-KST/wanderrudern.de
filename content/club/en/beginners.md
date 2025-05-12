@@ -1,8 +1,8 @@
-+++
-title = "Beginners"
-weight = 90
-language = "en"
-+++
+---
+language: en
+title: Beginners
+weight: 90
+---
 
 
 This is some english test!

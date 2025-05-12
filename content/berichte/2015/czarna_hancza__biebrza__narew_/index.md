@@ -1,205 +1,156 @@
-+++
-title = "Main-Donau-Kanal Main 2015"
-author = ""
-date = 2015-05-05T01:00:00+02:00
-begin = "2015-05-01"
-"gewässer" = ["donau", "main", "main-donau-kanal", "oder", "bromberger kanal", "weichsel", "oberländischer kanal", "narew", "bug", "czarna hancza", "biebzra", "jez wigry", "kanal augustow"]
-"länder" = ["finnland", "polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote fertiig fuer Polen Wanderfahrt 2015"
-src = "images/Ruderboote_fertiig_fuer_Polen_Wanderfahrt_2015.jpg"
-[[images]]
-title = "Ruderer weit im Osten 2015"
-src = "images/Ruderer_weit_im_Osten_2015.jpg"
-[[images]]
-title = "Girlies Aussichtsturm Jez Wigry 2015"
-src = "images/Girlies_Aussichtsturm_Jez_Wigry_2015.jpg"
-[[images]]
-title = "Hotel am Jez Wigry 2015"
-src = "images/Hotel_am_Jez_Wigry_2015.jpg"
-[[images]]
-title = "Ruderboot Jez Wigry 2015"
-src = "images/Ruderboot_Jez_Wigry_2015.jpg"
-[[images]]
-title = "Ruderer im Kloster Polen 2015"
-src = "images/Ruderer_im_Kloster_Polen_2015.jpg"
-[[images]]
-title = "Shoppen am Kloster wigry 2015"
-src = "images/Shoppen_am_Kloster_wigry_2015.jpg"
-[[images]]
-title = "Ruderboote auf em Jez Wigry 2015"
-src = "images/Ruderboote_auf_em_Jez_Wigry_2015.jpg"
-[[images]]
-title = "staken auf der czarna hancza 2015"
-src = "images/staken_auf_der_czarna_hancza_2015.jpg"
-[[images]]
-title = "Czarna Hancza im Schilf 2015"
-src = "images/Czarna_Hancza_im_Schilf_2015.jpg"
-[[images]]
-title = "Czarna Hancza im Ruderboot Polen 2015"
-src = "images/Czarna_Hancza_im_Ruderboot_Polen_2015.jpg"
-[[images]]
-title = "Czarna Hancza mitten im Wald 2015"
-src = "images/Czarna_Hancza_mitten_im_Wald_2015.jpg"
-[[images]]
-title = "Zweier auf der Czarna Hancza 2015"
-src = "images/Zweier_auf_der_Czarna_Hancza_2015.jpg"
-[[images]]
-title = "Pause an der Czarna Hancza 2015"
-src = "images/Pause_an_der_Czarna_Hancza_2015.jpg"
-[[images]]
-title = "Ruderer im Sumpf der Czarna Hancza 2015"
-src = "images/Ruderer_im_Sumpf_der_Czarna_Hancza_2015.jpg"
-[[images]]
-title = "aufgelaufen in der Czarna Hancza 2015"
-src = "images/aufgelaufen_in_der_Czarna_Hancza_2015.jpg"
-[[images]]
-title = "Ruderboote vor Augustow 2015"
-src = "images/Ruderboote_vor_Augustow_2015.jpg"
-[[images]]
-title = "Schleuse Kanal Augustow 2015"
-src = "images/Schleuse_Kanal_Augustow_2015.jpg"
-[[images]]
-title = "Badestrand kurz vor Augustow 2015"
-src = "images/Badestrand_kurz_vor_Augustow_2015.jpg"
-[[images]]
-title = "Augustow Ruderer 2015"
-src = "images/Augustow_Ruderer_2015.jpg"
-[[images]]
-title = "LinglIng mitten im Schilf 2015"
-src = "images/LinglIng_mitten_im_Schilf_2015.jpg"
-[[images]]
-title = "Ruderer auf der Netta Polen 2015"
-src = "images/Ruderer_auf_der_Netta_Polen_2015.jpg"
-[[images]]
-title = "Seekuh in der Netta 2015"
-src = "images/Seekuh_in_der_Netta_2015.jpg"
-[[images]]
-title = "Ruderer auf der Biebzra 2015"
-src = "images/Ruderer_auf_der_Biebzra_2015.jpg"
-[[images]]
-title = "Ruderboot Biebzra 2015"
-src = "images/Ruderboot_Biebzra_2015.jpg"
-[[images]]
-title = "Abendessen in Dolistowo 2015"
-src = "images/Abendessen_in_Dolistowo_2015.jpg"
-[[images]]
-title = "Sandbank Pause Biebzra 2015"
-src = "images/Sandbank_Pause_Biebzra_2015.jpg"
-[[images]]
-title = "Bezostowo Ruderboote an der Biebzra 2015"
-src = "images/Bezostowo_Ruderboote_an_der_Biebzra_2015.jpg"
-[[images]]
-title = "Zweier auf der Biebzra 2015"
-src = "images/Zweier_auf_der_Biebzra_2015.jpg"
-[[images]]
-title = "Jachhafen Lomza Ruderer 2015"
-src = "images/Jachhafen_Lomza_Ruderer_2015.jpg"
-[[images]]
-title = "Narew fast ohne wasser polen 2015"
-src = "images/Narew_fast_ohne_wasser_polen_2015.jpg"
-[[images]]
-title = "stromschnelle an der narew 2015"
-src = "images/stromschnelle_an_der_narew_2015.jpg"
-[[images]]
-title = "Wildwasser auf der Narew 2015"
-src = "images/Wildwasser_auf_der_Narew_2015.jpg"
-[[images]]
-title = "Abendessen Ostroleka Polen 2015"
-src = "images/Abendessen_Ostroleka_Polen_2015.jpg"
-[[images]]
-title = "Paul und Bente Wildwasser auf der Narew 2015"
-src = "images/Paul_und_Bente_Wildwasser_auf_der_Narew_2015.jpg"
-[[images]]
-title = "pause am strand der narew 2015"
-src = "images/pause_am_strand_der_narew_2015.jpg"
-[[images]]
-title = "Dreier auf dem Weg nach Rozan 2015"
-src = "images/Dreier_auf_dem_Weg_nach_Rozan_2015.jpg"
-[[images]]
-title = "Ruderboote vor Rozan 2015"
-src = "images/Ruderboote_vor_Rozan_2015.jpg"
-[[images]]
-title = "Rozan bruecke anlegen der ruderboote 2015"
-src = "images/Rozan_bruecke_anlegen_der_ruderboote_2015.jpg"
-[[images]]
-title = "Ruderboot auf der Sandbank 2015"
-src = "images/Ruderboot_auf_der_Sandbank_2015.jpg"
-[[images]]
-title = "Heckwellen von Ruderbooten auf der Narew 2015"
-src = "images/Heckwellen_von_Ruderbooten_auf_der_Narew_2015.jpg"
-[[images]]
-title = "abends am lagerfeuer polen 2015"
-src = "images/abends_am_lagerfeuer_polen_2015.jpg"
-[[images]]
-title = "Grillen am Abend Polen 2015"
-src = "images/Grillen_am_Abend_Polen_2015.jpg"
-[[images]]
-title = "Quartier mitten im Wald bei Pultusk 2015"
-src = "images/Quartier_mitten_im_Wald_bei_Pultusk_2015.jpg"
-[[images]]
-title = "Narew Stauseee 2015"
-src = "images/Narew_Stauseee_2015.jpg"
-[[images]]
-title = "Shoppende Ruderinnen vor dem Kulturpalast 2015"
-src = "images/Shoppende_Ruderinnen_vor_dem_Kulturpalast_2015.jpg"
-[[images]]
-title = "Blick auf Warschau 2015"
-src = "images/Blick_auf_Warschau_2015.jpg"
-[[images]]
-title = "Warschau weichsel 2015"
-src = "images/Warschau_weichsel_2015.jpg"
-[[images]]
-title = "Schleuse Zeran mit ganz wenig Wasser 2015"
-src = "images/Schleuse_Zeran_mit_ganz_wenig_Wasser_2015.jpg"
-[[images]]
-title = "Ruder Girlies auf der Weichsel 2015"
-src = "images/Ruder_Girlies_auf_der_Weichsel_2015.jpg"
-[[images]]
-title = "Warschau vor dem Kraftwerk 2015"
-src = "images/Warschau_vor_dem_Kraftwerk_2015.jpg"
-[[images]]
-title = "Nirina im Muslima look 2015b"
-src = "images/Nirina_im_Muslima_look_2015b.jpg"
-[[images]]
-title = "Weichsel mal wieder aufgelaufen 2015"
-src = "images/Weichsel_mal_wieder_aufgelaufen_2015.jpg"
-[[images]]
-title = "hier sind wir letztes mal gerudert 2015"
-src = "images/hier_sind_wir_letztes_mal_gerudert_2015.jpg"
-[[images]]
-title = "Anlegen am Wadi 2015"
-src = "images/Anlegen_am_Wadi_2015.jpg"
-[[images]]
-title = "Ruderboot vor den Sandbaenken auf der Weichsel 2015"
-src = "images/Ruderboot_vor_den_Sandbaenken_auf_der_Weichsel_2015.jpg"
-[[images]]
-title = "Ruderboote auf der Weichsel 2015"
-src = "images/Ruderboote_auf_der_Weichsel_2015.jpg"
-[[images]]
-title = "Quartier Lada 2015"
-src = "images/Quartier_Lada_2015.jpg"
-[[images]]
-title = "Jiajia auf dem Weichselstausee 2015"
-src = "images/Jiajia_auf_dem_Weichselstausee_2015.jpg"
-[[images]]
-title = "Stromschnelle weichsel panorama 2015"
-src = "images/Stromschnelle_weichsel_panorama_2015.jpg"
-[[images]]
-title = "wir suchen den weg durch die stromschnelle 2015"
-src = "images/wir_suchen_den_weg_durch_die_stromschnelle_2015.jpg"
-[[images]]
-title = "Stromschnelle weichsel 2015"
-src = "images/Stromschnelle_weichsel_2015.jpg"
-[[images]]
-title = "durch die stromschnelle 2015"
-src = "images/durch_die_stromschnelle_2015.jpg"
-[[images]]
-title = "Ruderboote in den stromschnellen der weichsel"
-src = "images/Ruderboote_in_den_stromschnellen_der_weichsel.jpg"
-
-+++
+---
+author: ""
+begin: "2015-05-01"
+date: "2015-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- main
+- main-donau-kanal
+- oder
+- bromberger kanal
+- weichsel
+- oberländischer kanal
+- narew
+- bug
+- czarna hancza
+- biebzra
+- jez wigry
+- kanal augustow
+images:
+- src: images/Ruderboote_fertiig_fuer_Polen_Wanderfahrt_2015.jpg
+  title: Ruderboote fertiig fuer Polen Wanderfahrt 2015
+- src: images/Ruderer_weit_im_Osten_2015.jpg
+  title: Ruderer weit im Osten 2015
+- src: images/Girlies_Aussichtsturm_Jez_Wigry_2015.jpg
+  title: Girlies Aussichtsturm Jez Wigry 2015
+- src: images/Hotel_am_Jez_Wigry_2015.jpg
+  title: Hotel am Jez Wigry 2015
+- src: images/Ruderboot_Jez_Wigry_2015.jpg
+  title: Ruderboot Jez Wigry 2015
+- src: images/Ruderer_im_Kloster_Polen_2015.jpg
+  title: Ruderer im Kloster Polen 2015
+- src: images/Shoppen_am_Kloster_wigry_2015.jpg
+  title: Shoppen am Kloster wigry 2015
+- src: images/Ruderboote_auf_em_Jez_Wigry_2015.jpg
+  title: Ruderboote auf em Jez Wigry 2015
+- src: images/staken_auf_der_czarna_hancza_2015.jpg
+  title: staken auf der czarna hancza 2015
+- src: images/Czarna_Hancza_im_Schilf_2015.jpg
+  title: Czarna Hancza im Schilf 2015
+- src: images/Czarna_Hancza_im_Ruderboot_Polen_2015.jpg
+  title: Czarna Hancza im Ruderboot Polen 2015
+- src: images/Czarna_Hancza_mitten_im_Wald_2015.jpg
+  title: Czarna Hancza mitten im Wald 2015
+- src: images/Zweier_auf_der_Czarna_Hancza_2015.jpg
+  title: Zweier auf der Czarna Hancza 2015
+- src: images/Pause_an_der_Czarna_Hancza_2015.jpg
+  title: Pause an der Czarna Hancza 2015
+- src: images/Ruderer_im_Sumpf_der_Czarna_Hancza_2015.jpg
+  title: Ruderer im Sumpf der Czarna Hancza 2015
+- src: images/aufgelaufen_in_der_Czarna_Hancza_2015.jpg
+  title: aufgelaufen in der Czarna Hancza 2015
+- src: images/Ruderboote_vor_Augustow_2015.jpg
+  title: Ruderboote vor Augustow 2015
+- src: images/Schleuse_Kanal_Augustow_2015.jpg
+  title: Schleuse Kanal Augustow 2015
+- src: images/Badestrand_kurz_vor_Augustow_2015.jpg
+  title: Badestrand kurz vor Augustow 2015
+- src: images/Augustow_Ruderer_2015.jpg
+  title: Augustow Ruderer 2015
+- src: images/LinglIng_mitten_im_Schilf_2015.jpg
+  title: LinglIng mitten im Schilf 2015
+- src: images/Ruderer_auf_der_Netta_Polen_2015.jpg
+  title: Ruderer auf der Netta Polen 2015
+- src: images/Seekuh_in_der_Netta_2015.jpg
+  title: Seekuh in der Netta 2015
+- src: images/Ruderer_auf_der_Biebzra_2015.jpg
+  title: Ruderer auf der Biebzra 2015
+- src: images/Ruderboot_Biebzra_2015.jpg
+  title: Ruderboot Biebzra 2015
+- src: images/Abendessen_in_Dolistowo_2015.jpg
+  title: Abendessen in Dolistowo 2015
+- src: images/Sandbank_Pause_Biebzra_2015.jpg
+  title: Sandbank Pause Biebzra 2015
+- src: images/Bezostowo_Ruderboote_an_der_Biebzra_2015.jpg
+  title: Bezostowo Ruderboote an der Biebzra 2015
+- src: images/Zweier_auf_der_Biebzra_2015.jpg
+  title: Zweier auf der Biebzra 2015
+- src: images/Jachhafen_Lomza_Ruderer_2015.jpg
+  title: Jachhafen Lomza Ruderer 2015
+- src: images/Narew_fast_ohne_wasser_polen_2015.jpg
+  title: Narew fast ohne wasser polen 2015
+- src: images/stromschnelle_an_der_narew_2015.jpg
+  title: stromschnelle an der narew 2015
+- src: images/Wildwasser_auf_der_Narew_2015.jpg
+  title: Wildwasser auf der Narew 2015
+- src: images/Abendessen_Ostroleka_Polen_2015.jpg
+  title: Abendessen Ostroleka Polen 2015
+- src: images/Paul_und_Bente_Wildwasser_auf_der_Narew_2015.jpg
+  title: Paul und Bente Wildwasser auf der Narew 2015
+- src: images/pause_am_strand_der_narew_2015.jpg
+  title: pause am strand der narew 2015
+- src: images/Dreier_auf_dem_Weg_nach_Rozan_2015.jpg
+  title: Dreier auf dem Weg nach Rozan 2015
+- src: images/Ruderboote_vor_Rozan_2015.jpg
+  title: Ruderboote vor Rozan 2015
+- src: images/Rozan_bruecke_anlegen_der_ruderboote_2015.jpg
+  title: Rozan bruecke anlegen der ruderboote 2015
+- src: images/Ruderboot_auf_der_Sandbank_2015.jpg
+  title: Ruderboot auf der Sandbank 2015
+- src: images/Heckwellen_von_Ruderbooten_auf_der_Narew_2015.jpg
+  title: Heckwellen von Ruderbooten auf der Narew 2015
+- src: images/abends_am_lagerfeuer_polen_2015.jpg
+  title: abends am lagerfeuer polen 2015
+- src: images/Grillen_am_Abend_Polen_2015.jpg
+  title: Grillen am Abend Polen 2015
+- src: images/Quartier_mitten_im_Wald_bei_Pultusk_2015.jpg
+  title: Quartier mitten im Wald bei Pultusk 2015
+- src: images/Narew_Stauseee_2015.jpg
+  title: Narew Stauseee 2015
+- src: images/Shoppende_Ruderinnen_vor_dem_Kulturpalast_2015.jpg
+  title: Shoppende Ruderinnen vor dem Kulturpalast 2015
+- src: images/Blick_auf_Warschau_2015.jpg
+  title: Blick auf Warschau 2015
+- src: images/Warschau_weichsel_2015.jpg
+  title: Warschau weichsel 2015
+- src: images/Schleuse_Zeran_mit_ganz_wenig_Wasser_2015.jpg
+  title: Schleuse Zeran mit ganz wenig Wasser 2015
+- src: images/Ruder_Girlies_auf_der_Weichsel_2015.jpg
+  title: Ruder Girlies auf der Weichsel 2015
+- src: images/Warschau_vor_dem_Kraftwerk_2015.jpg
+  title: Warschau vor dem Kraftwerk 2015
+- src: images/Nirina_im_Muslima_look_2015b.jpg
+  title: Nirina im Muslima look 2015b
+- src: images/Weichsel_mal_wieder_aufgelaufen_2015.jpg
+  title: Weichsel mal wieder aufgelaufen 2015
+- src: images/hier_sind_wir_letztes_mal_gerudert_2015.jpg
+  title: hier sind wir letztes mal gerudert 2015
+- src: images/Anlegen_am_Wadi_2015.jpg
+  title: Anlegen am Wadi 2015
+- src: images/Ruderboot_vor_den_Sandbaenken_auf_der_Weichsel_2015.jpg
+  title: Ruderboot vor den Sandbaenken auf der Weichsel 2015
+- src: images/Ruderboote_auf_der_Weichsel_2015.jpg
+  title: Ruderboote auf der Weichsel 2015
+- src: images/Quartier_Lada_2015.jpg
+  title: Quartier Lada 2015
+- src: images/Jiajia_auf_dem_Weichselstausee_2015.jpg
+  title: Jiajia auf dem Weichselstausee 2015
+- src: images/Stromschnelle_weichsel_panorama_2015.jpg
+  title: Stromschnelle weichsel panorama 2015
+- src: images/wir_suchen_den_weg_durch_die_stromschnelle_2015.jpg
+  title: wir suchen den weg durch die stromschnelle 2015
+- src: images/Stromschnelle_weichsel_2015.jpg
+  title: Stromschnelle weichsel 2015
+- src: images/durch_die_stromschnelle_2015.jpg
+  title: durch die stromschnelle 2015
+- src: images/Ruderboote_in_den_stromschnellen_der_weichsel.jpg
+  title: Ruderboote in den stromschnellen der weichsel
+länder:
+- finnland
+- polen
+title: Main-Donau-Kanal Main 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

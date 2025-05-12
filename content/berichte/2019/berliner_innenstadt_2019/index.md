@@ -1,67 +1,51 @@
-+++
-title = "Berliner Innenstadt 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["inn", "spree"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bundeskanzleramt mit Ruderbooten 2019"
-src = "images/Bundeskanzleramt_mit_Ruderbooten_2019.jpg"
-[[images]]
-title = "Baumgarten C5x+ in der Schleuse Charlottenburg 2019"
-src = "images/Baumgarten_C5x__in_der_Schleuse_Charlottenburg_2019.jpg"
-[[images]]
-title = "Start in Treptow Stadtdurchfahrt 2019"
-src = "images/Start_in_Treptow_Stadtdurchfahrt_2019.jpg"
-[[images]]
-title = "Ruderboote Oberbaumbruecke 2019"
-src = "images/Ruderboote_Oberbaumbruecke_2019.jpg"
-[[images]]
-title = "Haus an der Spree 2019"
-src = "images/Haus_an_der_Spree_2019.jpg"
-[[images]]
-title = "Gebaeude im Osthafen 2019"
-src = "images/Gebaeude_im_Osthafen_2019.jpg"
-[[images]]
-title = "Anlage Spreeufer 2019"
-src = "images/Anlage_Spreeufer_2019.jpg"
-[[images]]
-title = "Ruderboote vor der Schleuse Muehlendamm 2019"
-src = "images/Ruderboote_vor_der_Schleuse_Muehlendamm_2019.jpg"
-[[images]]
-title = "Schleuse Muehlendamm 2019"
-src = "images/Schleuse_Muehlendamm_2019.jpg"
-[[images]]
-title = "Berliner Dom vom Ruderboot 2019"
-src = "images/Berliner_Dom_vom_Ruderboot_20191.jpg"
-[[images]]
-title = "Stadtschloss Berlin Humboldforum vom Ruderboot 2019"
-src = "images/Stadtschloss_Berlin_Humboldforum_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Neues Museum vom Ruderboot 2019"
-src = "images/Neues_Museum_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Bode Museum vom Ruderboot 2019"
-src = "images/Bode_Museum_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Museumsinsel Berlin Ruderboot 2019"
-src = "images/Museumsinsel_Berlin_Ruderboot_2019.jpg"
-[[images]]
-title = "Bahnhof Friedrichstrasse Boot 2019"
-src = "images/Bahnhof_Friedrichstrasse_Boot_2019.jpg"
-[[images]]
-title = "Reichstag vom Ruderboot 2019"
-src = "images/Reichstag_vom_Ruderboot_2019.jpg"
-[[images]]
-title = "Reichstag mit Ruderbooten 2019"
-src = "images/Reichstag_mit_Ruderbooten_2019.jpg"
-[[images]]
-title = "Ruderboote vor dem Berliner Hauptbahnhof 2019"
-src = "images/Ruderboote_vor_dem_Berliner_Hauptbahnhof_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- spree
+images:
+- src: images/Bundeskanzleramt_mit_Ruderbooten_2019.jpg
+  title: Bundeskanzleramt mit Ruderbooten 2019
+- src: images/Baumgarten_C5x__in_der_Schleuse_Charlottenburg_2019.jpg
+  title: Baumgarten C5x+ in der Schleuse Charlottenburg 2019
+- src: images/Start_in_Treptow_Stadtdurchfahrt_2019.jpg
+  title: Start in Treptow Stadtdurchfahrt 2019
+- src: images/Ruderboote_Oberbaumbruecke_2019.jpg
+  title: Ruderboote Oberbaumbruecke 2019
+- src: images/Haus_an_der_Spree_2019.jpg
+  title: Haus an der Spree 2019
+- src: images/Gebaeude_im_Osthafen_2019.jpg
+  title: Gebaeude im Osthafen 2019
+- src: images/Anlage_Spreeufer_2019.jpg
+  title: Anlage Spreeufer 2019
+- src: images/Ruderboote_vor_der_Schleuse_Muehlendamm_2019.jpg
+  title: Ruderboote vor der Schleuse Muehlendamm 2019
+- src: images/Schleuse_Muehlendamm_2019.jpg
+  title: Schleuse Muehlendamm 2019
+- src: images/Berliner_Dom_vom_Ruderboot_20191.jpg
+  title: Berliner Dom vom Ruderboot 2019
+- src: images/Stadtschloss_Berlin_Humboldforum_vom_Ruderboot_2019.jpg
+  title: Stadtschloss Berlin Humboldforum vom Ruderboot 2019
+- src: images/Neues_Museum_vom_Ruderboot_2019.jpg
+  title: Neues Museum vom Ruderboot 2019
+- src: images/Bode_Museum_vom_Ruderboot_2019.jpg
+  title: Bode Museum vom Ruderboot 2019
+- src: images/Museumsinsel_Berlin_Ruderboot_2019.jpg
+  title: Museumsinsel Berlin Ruderboot 2019
+- src: images/Bahnhof_Friedrichstrasse_Boot_2019.jpg
+  title: Bahnhof Friedrichstrasse Boot 2019
+- src: images/Reichstag_vom_Ruderboot_2019.jpg
+  title: Reichstag vom Ruderboot 2019
+- src: images/Reichstag_mit_Ruderbooten_2019.jpg
+  title: Reichstag mit Ruderbooten 2019
+- src: images/Ruderboote_vor_dem_Berliner_Hauptbahnhof_2019.jpg
+  title: Ruderboote vor dem Berliner Hauptbahnhof 2019
+länder: []
+title: Berliner Innenstadt 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

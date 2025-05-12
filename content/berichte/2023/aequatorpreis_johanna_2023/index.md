@@ -1,16 +1,15 @@
-+++
-title = "Aequatorpreis Johanna 2023"
-author = ""
-date = 2023-08-08T01:00:00+02:00
-begin = "2023-08-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "johanna mit warthefaehre 2014"
-src = "images/johanna_mit_warthefaehre_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2023-08-01"
+date: "2023-08-08T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/johanna_mit_warthefaehre_2014.jpg
+  title: johanna mit warthefaehre 2014
+länder: []
+title: Aequatorpreis Johanna 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

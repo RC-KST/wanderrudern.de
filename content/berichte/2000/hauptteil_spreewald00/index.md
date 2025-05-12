@@ -1,25 +1,27 @@
-+++
-title = "Spreewald 2000"
-author = ""
-date = 2000-10-10T01:00:00+02:00
-begin = "2000-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Martina Kilian rudern im Spreewald "
-src = "images/martina_kilian.jpg"
-[[images]]
-title = "Martina bedient eine Spreewaldschleuse"
-src = "images/schleuse_SP00.jpg"
-[[images]]
-title = "mitten im Hochwald mit dem Ruderboot"
-src = "images/kilian_martina.jpg"
-[[images]]
-title = "Kilian in einer Spreewaldschleuse Ruderboot"
-src = "images/kilian.jpg"
-
-+++
+---
+author: ""
+begin: "2000-10-01"
+date: "2000-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- köthener see
+images:
+- src: images/martina_kilian.jpg
+  title: 'Martina Kilian rudern im Spreewald '
+- src: images/schleuse_SP00.jpg
+  title: Martina bedient eine Spreewaldschleuse
+- src: images/kilian_martina.jpg
+  title: mitten im Hochwald mit dem Ruderboot
+- src: images/kilian.jpg
+  title: Kilian in einer Spreewaldschleuse Ruderboot
+länder:
+- finnland
+title: Spreewald 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

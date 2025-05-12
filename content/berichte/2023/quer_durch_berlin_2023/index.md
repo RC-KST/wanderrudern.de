@@ -1,34 +1,31 @@
-+++
-title = "Quer durch Berlin 2023"
-author = ""
-date = 2023-01-01T01:00:00+02:00
-begin = "2023-01-01"
-"gewässer" = ["aller", "spree", "shannon", "pielisjoki"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Quer durch Berlin RC KST Jugendboot Mastesboot 2023"
-src = "images/Quer_durch_Berlin_RC_KST_Jugendboot_Mastesboot_2023.jpg"
-[[images]]
-title = "Baumgarten Marathon Quer durch Berlin Sieger SM Gig4x+"
-src = "images/Baumgarten_Marathon_Quer_durch_Berlin_Sieger_SM_Gig4x_.jpg"
-[[images]]
-title = "Masters bei Quer durch Berlin 2023"
-src = "images/Masters_bei_Quer_durch_Berlin_2023.jpg"
-[[images]]
-title = "Quer durch Berlin 2023 Am Start"
-src = "images/Quer_durch_Berlin_2023_Am_Start.jpg"
-[[images]]
-title = "Quer durch Berlin 2023 Siege Senior Männer"
-src = "images/Quer_durch_Berlin_2023_Siege_Senior_Manner.jpg"
-[[images]]
-title = "Mastersboot Quer durch Berlin 2023"
-src = "images/Mastersboot_Quer_durch_Berlin_2023.jpg"
-[[images]]
-title = "Siegermannschaft Quer durch Berlin Senior Männer 2023"
-src = "images/Siegermannschaft_Quer_durch_Berlin_Senior_Manner_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-01-01"
+date: "2023-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- spree
+- shannon
+- pielisjoki
+images:
+- src: images/Quer_durch_Berlin_RC_KST_Jugendboot_Mastesboot_2023.jpg
+  title: Quer durch Berlin RC KST Jugendboot Mastesboot 2023
+- src: images/Baumgarten_Marathon_Quer_durch_Berlin_Sieger_SM_Gig4x_.jpg
+  title: Baumgarten Marathon Quer durch Berlin Sieger SM Gig4x+
+- src: images/Masters_bei_Quer_durch_Berlin_2023.jpg
+  title: Masters bei Quer durch Berlin 2023
+- src: images/Quer_durch_Berlin_2023_Am_Start.jpg
+  title: Quer durch Berlin 2023 Am Start
+- src: images/Quer_durch_Berlin_2023_Siege_Senior_Manner.jpg
+  title: Quer durch Berlin 2023 Siege Senior Männer
+- src: images/Mastersboot_Quer_durch_Berlin_2023.jpg
+  title: Mastersboot Quer durch Berlin 2023
+- src: images/Siegermannschaft_Quer_durch_Berlin_Senior_Manner_2023.jpg
+  title: Siegermannschaft Quer durch Berlin Senior Männer 2023
+länder: []
+title: Quer durch Berlin 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

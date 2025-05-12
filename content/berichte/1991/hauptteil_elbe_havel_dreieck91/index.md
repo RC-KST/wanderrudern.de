@@ -1,43 +1,37 @@
-+++
-title = "Elbe Havel Dreieck 91"
-author = ""
-date = 1991-01-01T01:00:00+02:00
-begin = "1991-01-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-
-[[images]]
-title = "Gepäck am Steg zum Beladen in die Ruderboote"
-src = "images/gepaeck_steg.jpg"
-[[images]]
-title = "nici"
-src = "images/nici.jpg"
-[[images]]
-title = "Ketzin Motorboot"
-src = "images/hausboot.jpg"
-[[images]]
-title = "Vierer auf der Havel"
-src = "images/boote_seite.jpg"
-[[images]]
-title = "Schoko Bubi"
-src = "images/thilo.jpg"
-[[images]]
-title = "In der Schleuse Ruderboot"
-src = "images/schleuse91.jpg"
-[[images]]
-title = "nici_schleuse"
-src = "images/nici_schleuse.jpg"
-[[images]]
-title = "Tangermünder Stadtmauer Ruderer"
-src = "images/tangermuende.jpg"
-[[images]]
-title = "volles_boot"
-src = "images/volles_boot.jpg"
-[[images]]
-title = "Rathenow beim Frühstück am Rudersteg"
-src = "images/rathenow.jpg"
-+++
+---
+author: ""
+begin: "1991-01-01"
+date: "1991-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/gepaeck_steg.jpg
+  title: Gepäck am Steg zum Beladen in die Ruderboote
+- src: images/nici.jpg
+  title: nici
+- src: images/hausboot.jpg
+  title: Ketzin Motorboot
+- src: images/boote_seite.jpg
+  title: Vierer auf der Havel
+- src: images/thilo.jpg
+  title: Schoko Bubi
+- src: images/schleuse91.jpg
+  title: In der Schleuse Ruderboot
+- src: images/nici_schleuse.jpg
+  title: nici_schleuse
+- src: images/tangermuende.jpg
+  title: Tangermünder Stadtmauer Ruderer
+- src: images/volles_boot.jpg
+  title: volles_boot
+- src: images/rathenow.jpg
+  title: Rathenow beim Frühstück am Rudersteg
+länder:
+- deutschland
+title: Elbe Havel Dreieck 91
+typ: wanderfahrt
+---
 
 
 

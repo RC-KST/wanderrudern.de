@@ -1,199 +1,144 @@
-+++
-title = "Main-Dona-Kanal_Main Blog 2015"
-author = ""
-date = 2015-05-05T01:00:00+02:00
-begin = "2015-05-01"
-"gewässer" = ["donau", "rhein", "main", "saale", "nordsee", "oder", "czarna hancza"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kelheim Boote abladen MDK 2015"
-src = "images/Kelheim_Boote_abladen_MDK_2015.jpg"
-[[images]]
-title = "im Altmuehltal MDK 2015"
-src = "images/im_Altmuehltal_MDK_2015.jpg"
-[[images]]
-title = "Burg im Altmuehltal MDK 2015"
-src = "images/Burg_im_Altmuehltal_MDK_2015.jpg"
-[[images]]
-title = "Start in Berching MDK 2015"
-src = "images/Start_in_Berching_MDK_2015.jpg"
-[[images]]
-title = "Rudervierer auf der Scheitelhaltung des Main Donau Kanals 2015"
-src = "images/Rudervierer_auf_der_Scheitelhaltung_des_Main_Donau_Kanals_2015.jpg"
-[[images]]
-title = "Wasserscheide Rhein Donau MDK 2015"
-src = "images/Wasserscheide_Rhein_Donau_MDK_2015.jpg"
-[[images]]
-title = "MDK Bootsumtrage 2015"
-src = "images/MDK_Bootsumtrage_2015.jpg"
-[[images]]
-title = "endloses umtragen am MDK 2015"
-src = "images/endloses_umtragen_am_MDK_2015.jpg"
-[[images]]
-title = "MDK Schleuse von unten 2015"
-src = "images/MDK_Schleuse_von_unten_2015.jpg"
-[[images]]
-title = "das soll eine umtrage sein MDK 2015"
-src = "images/das_soll_eine_umtrage_sein_MDK_2015.jpg"
-[[images]]
-title = "Erlangen vor adem ruderclub MDK 2015"
-src = "images/Erlangen_vor_adem_ruderclub_MDK_2015.jpg"
-[[images]]
-title = "Erlangen am Ruderclub MDK 2015"
-src = "images/Erlangen_am_Ruderclub_MDK_2015.jpg"
-[[images]]
-title = "Treppe zur Regnitz 2015"
-src = "images/Treppe_zur_Regnitz_2015.jpg"
-[[images]]
-title = "Felix mal wieder im Wasser MDK 2015"
-src = "images/Felix_mal_wieder_im_Wasser_MDK_2015.jpg"
-[[images]]
-title = "Umtragen in die Regnitz MDK 2015"
-src = "images/Umtragen_in_die_Regnitz_MDK_2015.jpg"
-[[images]]
-title = "Umtrage Main Donau Kanal Regnitz MDK 2015"
-src = "images/Umtrage_Main_Donau_Kanal_Regnitz_MDK_2015.jpg"
-[[images]]
-title = "Wildwasser Regnitz MDK 2015"
-src = "images/Wildwasser_Regnitz_MDK_2015.jpg"
-[[images]]
-title = "wildwasser treideln Regnitz MDK 2015"
-src = "images/wildwasser_treideln_Regnitz_MDK_2015.jpg"
-[[images]]
-title = "Bamberg MDK 2015"
-src = "images/Bamberg_MDK_2015.jpg"
-[[images]]
-title = "Ruderer in Bamberg MDK 2015"
-src = "images/Ruderer_in_Bamberg_MDK_2015.jpg"
-[[images]]
-title = "Schleuse Ludwig Main Kanal MDK 2015"
-src = "images/Schleuse_Ludwig_Main_Kanal_MDK_2015.jpg"
-[[images]]
-title = "Landienst in den Weinbergen MDK 2015"
-src = "images/Landienst_in_den_Weinbergen_MDK_2015.jpg"
-[[images]]
-title = "Mainschleife MDK 2015"
-src = "images/Mainschleife_MDK_2015.jpg"
-[[images]]
-title = "Kitzingen MDK 2015"
-src = "images/Kitzingen_MDK_2015.jpg"
-[[images]]
-title = "Weinberge Mainschleife MDK 2015"
-src = "images/Weinberge_Mainschleife_MDK_2015.jpg"
-[[images]]
-title = "Main 2015"
-src = "images/Main_2015.jpg"
-[[images]]
-title = "Landdienst Laura beim Einkaufen MDK 2015"
-src = "images/Landdienst_Laura_beim_Einkaufen_MDK_2015.jpg"
-[[images]]
-title = "Ruderboote auf dem Main MDK 2015"
-src = "images/Ruderboote_auf_dem_Main_MDK_2015.jpg"
-[[images]]
-title = "Ruderboote in Wuerzburg MDK 2015"
-src = "images/Ruderboote_in_Wuerzburg_MDK_2015.jpg"
-[[images]]
-title = "sitzreparatur im wuerzburg 2015"
-src = "images/sitzreparatur_im_wuerzburg_2015.jpg"
-[[images]]
-title = "Ruderinnen in Wuerzburg MDK 2015"
-src = "images/Ruderinnen_in_Wuerzburg_MDK_2015.jpg"
-[[images]]
-title = "Main im Nebel MDK 2015"
-src = "images/Main_im_Nebel_MDK_2015.jpg"
-[[images]]
-title = "Weinberge am Main MDK 2015"
-src = "images/Weinberge_am_Main_MDK_2015.jpg"
-[[images]]
-title = "Jo auf dem Main MDK 2015"
-src = "images/Jo_auf_dem_Main_MDK_2015.jpg"
-[[images]]
-title = "Burg am Main MDK 2015"
-src = "images/Burg_am_Main_MDK_2015.jpg"
-[[images]]
-title = "warten vor der Schleuse MDK 2015"
-src = "images/warten_vor_der_Schleuse_MDK_2015.jpg"
-[[images]]
-title = "Ruderer in Miltenberg MDK 2015"
-src = "images/Ruderer_in_Miltenberg_MDK_2015.jpg"
-[[images]]
-title = "Aschaffenburg MDK 2015"
-src = "images/Aschaffenburg_MDK_2015.jpg"
-[[images]]
-title = "Aschaffenburg Schloss MDK 2015"
-src = "images/Aschaffenburg_Schloss_MDK_2015.jpg"
-[[images]]
-title = "Frankfurt skyline vom ruderboot 2015"
-src = "images/Frankfurt_skyline_vom_ruderboot_2015.jpg"
-[[images]]
-title = "Main Spessart MDK 2015"
-src = "images/Main_Spessart_MDK_2015.jpg"
-[[images]]
-title = "Mainz Rhein 2015"
-src = "images/Mainz_Rhein_2015.jpg"
-[[images]]
-title = "Start in Mainz Rhein 2015"
-src = "images/Start_in_Mainz_Rhein_2015.jpg"
-[[images]]
-title = "Abendessen a la France MDK 2015"
-src = "images/Abendessen_a_la_France_MDK_2015.jpg"
-[[images]]
-title = "Ruderboot kurz vor Bingen Rhein 2015"
-src = "images/Ruderboot_kurz_vor_Bingen_Rhein_2015.jpg"
-[[images]]
-title = "Ruderer in Bingen Rhein 2015"
-src = "images/Ruderer_in_Bingen_Rhein_2015.jpg"
-[[images]]
-title = "Assmannshausen am Rhein 2015"
-src = "images/Assmannshausen_am_Rhein_2015.jpg"
-[[images]]
-title = "Nirina und Moritz im Binger Loch  Rhein 2015"
-src = "images/Nirina_und_Moritz_im_Binger_Loch__Rhein_2015.jpg"
-[[images]]
-title = "viel Verkehr auf dem Rhein 2015"
-src = "images/viel_Verkehr_auf_dem_Rhein_2015.jpg"
-[[images]]
-title = "Kaub am Rhein 2015"
-src = "images/Kaub_am_Rhein_2015.jpg"
-[[images]]
-title = "Burgen im Rheintal Rhein 2015"
-src = "images/Burgen_im_Rheintal_Rhein_2015.jpg"
-[[images]]
-title = "Loreley am Rhein 2015"
-src = "images/Loreley_am_Rhein_2015.jpg"
-[[images]]
-title = "Loreley Felsen Rhein 2015"
-src = "images/Loreley_Felsen_Rhein_2015.jpg"
-[[images]]
-title = "Blick aufs Rheintal von der Loreley aus 2015"
-src = "images/Blick_aufs_Rheintal_von_der_Loreley_aus_2015.jpg"
-[[images]]
-title = "Ruderboote im Hafen an der Loreley 2015"
-src = "images/Ruderboote_im_Hafen_an_der_Loreley_2015.jpg"
-[[images]]
-title = "Ruderboot kurz vor Boppard 2015"
-src = "images/Ruderboot_kurz_vor_Boppard_2015.jpg"
-[[images]]
-title = "kaltes Quartier Boppard Bootshalle 2015"
-src = "images/kaltes_Quartier_Boppard_Bootshalle_2015.jpg"
-[[images]]
-title = "ein paar Schiffe auf dem Rhein 2015"
-src = "images/ein_paar_Schiffe_auf_dem_Rhein_2015.jpg"
-[[images]]
-title = "wieder eine Burg im Rheintal 2015"
-src = "images/wieder_eine_Burg_im_Rheintal_2015.jpg"
-[[images]]
-title = "Ruderboot in Koblenz 2015"
-src = "images/Ruderboot_in_Koblenz_2015.jpg"
-[[images]]
-title = "deutsches Eck im Koblenz vom Ruderboot aus 2015"
-src = "images/deutsches_Eck_im_Koblenz_vom_Ruderboot_aus_2015.jpg"
-[[images]]
-title = "am Ziel in Honnef 2015"
-src = "images/am_Ziel_in_Honnef_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-05-01"
+date: "2015-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- rhein
+- main
+- saale
+- nordsee
+- oder
+- czarna hancza
+images:
+- src: images/Kelheim_Boote_abladen_MDK_2015.jpg
+  title: Kelheim Boote abladen MDK 2015
+- src: images/im_Altmuehltal_MDK_2015.jpg
+  title: im Altmuehltal MDK 2015
+- src: images/Burg_im_Altmuehltal_MDK_2015.jpg
+  title: Burg im Altmuehltal MDK 2015
+- src: images/Start_in_Berching_MDK_2015.jpg
+  title: Start in Berching MDK 2015
+- src: images/Rudervierer_auf_der_Scheitelhaltung_des_Main_Donau_Kanals_2015.jpg
+  title: Rudervierer auf der Scheitelhaltung des Main Donau Kanals 2015
+- src: images/Wasserscheide_Rhein_Donau_MDK_2015.jpg
+  title: Wasserscheide Rhein Donau MDK 2015
+- src: images/MDK_Bootsumtrage_2015.jpg
+  title: MDK Bootsumtrage 2015
+- src: images/endloses_umtragen_am_MDK_2015.jpg
+  title: endloses umtragen am MDK 2015
+- src: images/MDK_Schleuse_von_unten_2015.jpg
+  title: MDK Schleuse von unten 2015
+- src: images/das_soll_eine_umtrage_sein_MDK_2015.jpg
+  title: das soll eine umtrage sein MDK 2015
+- src: images/Erlangen_vor_adem_ruderclub_MDK_2015.jpg
+  title: Erlangen vor adem ruderclub MDK 2015
+- src: images/Erlangen_am_Ruderclub_MDK_2015.jpg
+  title: Erlangen am Ruderclub MDK 2015
+- src: images/Treppe_zur_Regnitz_2015.jpg
+  title: Treppe zur Regnitz 2015
+- src: images/Felix_mal_wieder_im_Wasser_MDK_2015.jpg
+  title: Felix mal wieder im Wasser MDK 2015
+- src: images/Umtragen_in_die_Regnitz_MDK_2015.jpg
+  title: Umtragen in die Regnitz MDK 2015
+- src: images/Umtrage_Main_Donau_Kanal_Regnitz_MDK_2015.jpg
+  title: Umtrage Main Donau Kanal Regnitz MDK 2015
+- src: images/Wildwasser_Regnitz_MDK_2015.jpg
+  title: Wildwasser Regnitz MDK 2015
+- src: images/wildwasser_treideln_Regnitz_MDK_2015.jpg
+  title: wildwasser treideln Regnitz MDK 2015
+- src: images/Bamberg_MDK_2015.jpg
+  title: Bamberg MDK 2015
+- src: images/Ruderer_in_Bamberg_MDK_2015.jpg
+  title: Ruderer in Bamberg MDK 2015
+- src: images/Schleuse_Ludwig_Main_Kanal_MDK_2015.jpg
+  title: Schleuse Ludwig Main Kanal MDK 2015
+- src: images/Landienst_in_den_Weinbergen_MDK_2015.jpg
+  title: Landienst in den Weinbergen MDK 2015
+- src: images/Mainschleife_MDK_2015.jpg
+  title: Mainschleife MDK 2015
+- src: images/Kitzingen_MDK_2015.jpg
+  title: Kitzingen MDK 2015
+- src: images/Weinberge_Mainschleife_MDK_2015.jpg
+  title: Weinberge Mainschleife MDK 2015
+- src: images/Main_2015.jpg
+  title: Main 2015
+- src: images/Landdienst_Laura_beim_Einkaufen_MDK_2015.jpg
+  title: Landdienst Laura beim Einkaufen MDK 2015
+- src: images/Ruderboote_auf_dem_Main_MDK_2015.jpg
+  title: Ruderboote auf dem Main MDK 2015
+- src: images/Ruderboote_in_Wuerzburg_MDK_2015.jpg
+  title: Ruderboote in Wuerzburg MDK 2015
+- src: images/sitzreparatur_im_wuerzburg_2015.jpg
+  title: sitzreparatur im wuerzburg 2015
+- src: images/Ruderinnen_in_Wuerzburg_MDK_2015.jpg
+  title: Ruderinnen in Wuerzburg MDK 2015
+- src: images/Main_im_Nebel_MDK_2015.jpg
+  title: Main im Nebel MDK 2015
+- src: images/Weinberge_am_Main_MDK_2015.jpg
+  title: Weinberge am Main MDK 2015
+- src: images/Jo_auf_dem_Main_MDK_2015.jpg
+  title: Jo auf dem Main MDK 2015
+- src: images/Burg_am_Main_MDK_2015.jpg
+  title: Burg am Main MDK 2015
+- src: images/warten_vor_der_Schleuse_MDK_2015.jpg
+  title: warten vor der Schleuse MDK 2015
+- src: images/Ruderer_in_Miltenberg_MDK_2015.jpg
+  title: Ruderer in Miltenberg MDK 2015
+- src: images/Aschaffenburg_MDK_2015.jpg
+  title: Aschaffenburg MDK 2015
+- src: images/Aschaffenburg_Schloss_MDK_2015.jpg
+  title: Aschaffenburg Schloss MDK 2015
+- src: images/Frankfurt_skyline_vom_ruderboot_2015.jpg
+  title: Frankfurt skyline vom ruderboot 2015
+- src: images/Main_Spessart_MDK_2015.jpg
+  title: Main Spessart MDK 2015
+- src: images/Mainz_Rhein_2015.jpg
+  title: Mainz Rhein 2015
+- src: images/Start_in_Mainz_Rhein_2015.jpg
+  title: Start in Mainz Rhein 2015
+- src: images/Abendessen_a_la_France_MDK_2015.jpg
+  title: Abendessen a la France MDK 2015
+- src: images/Ruderboot_kurz_vor_Bingen_Rhein_2015.jpg
+  title: Ruderboot kurz vor Bingen Rhein 2015
+- src: images/Ruderer_in_Bingen_Rhein_2015.jpg
+  title: Ruderer in Bingen Rhein 2015
+- src: images/Assmannshausen_am_Rhein_2015.jpg
+  title: Assmannshausen am Rhein 2015
+- src: images/Nirina_und_Moritz_im_Binger_Loch__Rhein_2015.jpg
+  title: Nirina und Moritz im Binger Loch  Rhein 2015
+- src: images/viel_Verkehr_auf_dem_Rhein_2015.jpg
+  title: viel Verkehr auf dem Rhein 2015
+- src: images/Kaub_am_Rhein_2015.jpg
+  title: Kaub am Rhein 2015
+- src: images/Burgen_im_Rheintal_Rhein_2015.jpg
+  title: Burgen im Rheintal Rhein 2015
+- src: images/Loreley_am_Rhein_2015.jpg
+  title: Loreley am Rhein 2015
+- src: images/Loreley_Felsen_Rhein_2015.jpg
+  title: Loreley Felsen Rhein 2015
+- src: images/Blick_aufs_Rheintal_von_der_Loreley_aus_2015.jpg
+  title: Blick aufs Rheintal von der Loreley aus 2015
+- src: images/Ruderboote_im_Hafen_an_der_Loreley_2015.jpg
+  title: Ruderboote im Hafen an der Loreley 2015
+- src: images/Ruderboot_kurz_vor_Boppard_2015.jpg
+  title: Ruderboot kurz vor Boppard 2015
+- src: images/kaltes_Quartier_Boppard_Bootshalle_2015.jpg
+  title: kaltes Quartier Boppard Bootshalle 2015
+- src: images/ein_paar_Schiffe_auf_dem_Rhein_2015.jpg
+  title: ein paar Schiffe auf dem Rhein 2015
+- src: images/wieder_eine_Burg_im_Rheintal_2015.jpg
+  title: wieder eine Burg im Rheintal 2015
+- src: images/Ruderboot_in_Koblenz_2015.jpg
+  title: Ruderboot in Koblenz 2015
+- src: images/deutsches_Eck_im_Koblenz_vom_Ruderboot_aus_2015.jpg
+  title: deutsches Eck im Koblenz vom Ruderboot aus 2015
+- src: images/am_Ziel_in_Honnef_2015.jpg
+  title: am Ziel in Honnef 2015
+länder: []
+title: Main-Dona-Kanal_Main Blog 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

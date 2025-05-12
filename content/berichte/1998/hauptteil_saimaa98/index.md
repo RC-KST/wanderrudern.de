@@ -1,31 +1,28 @@
-+++
-title = "Saimaa 1998"
-author = ""
-date = 1998-01-01T01:00:00+02:00
-begin = "1998-01-01"
-"gewässer" = ["oder", "saimaa"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Siljaline Fähre Bug Der König der Welt"
-src = "images/faehre_bug.jpg"
-[[images]]
-title = "Silja Fähre cocktails"
-src = "images/faehre_cocktails.jpg"
-[[images]]
-title = "finnland rückwärts rudern"
-src = "images/finnland7.jpg"
-[[images]]
-title = "puumala saimaa ruderer"
-src = "images/finnland1.jpg"
-[[images]]
-title = "Weg durchs gestrüpp schlagen Ruderer saimaa"
-src = "images/finnland3.jpg"
-[[images]]
-title = "freefall in Stockholm"
-src = "images/freefall.jpg"
-
-+++
+---
+author: ""
+begin: "1998-01-01"
+date: "1998-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- saimaa
+images:
+- src: images/faehre_bug.jpg
+  title: Siljaline Fähre Bug Der König der Welt
+- src: images/faehre_cocktails.jpg
+  title: Silja Fähre cocktails
+- src: images/finnland7.jpg
+  title: finnland rückwärts rudern
+- src: images/finnland1.jpg
+  title: puumala saimaa ruderer
+- src: images/finnland3.jpg
+  title: Weg durchs gestrüpp schlagen Ruderer saimaa
+- src: images/freefall.jpg
+  title: freefall in Stockholm
+länder:
+- finnland
+title: Saimaa 1998
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

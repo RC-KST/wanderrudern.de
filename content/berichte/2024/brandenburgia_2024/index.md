@@ -1,22 +1,20 @@
-+++
-title = "Brandenburgia 2024"
-author = ""
-date = 2024-05-05T01:00:00+02:00
-begin = "2024-05-01"
-"gewässer" = ["tegler see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Brandenburgia Spandau Niederneuendorfer See 2024"
-src = "images/Brandenburgia_Spandau_Niederneuendorfer_See_2024.jpg"
-[[images]]
-title = "Brandenburgia am Steg 2024"
-src = "images/Brandenburgia_am_Steg_2024.jpg"
-[[images]]
-title = "Sechserbruecke Tegel Brandenburgia 2024"
-src = "images/Sechserbruecke_Tegel_Brandenburgia_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-05-01"
+date: "2024-05-05T01:00:00+02:00"
+gewässer:
+- tegler see
+images:
+- src: images/Brandenburgia_Spandau_Niederneuendorfer_See_2024.jpg
+  title: Brandenburgia Spandau Niederneuendorfer See 2024
+- src: images/Brandenburgia_am_Steg_2024.jpg
+  title: Brandenburgia am Steg 2024
+- src: images/Sechserbruecke_Tegel_Brandenburgia_2024.jpg
+  title: Sechserbruecke Tegel Brandenburgia 2024
+länder: []
+title: Brandenburgia 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

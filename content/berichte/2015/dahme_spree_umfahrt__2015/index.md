@@ -1,109 +1,87 @@
-+++
-title = "Dahme Spree Blog 2015"
-author = ""
-date = 2015-07-07T01:00:00+02:00
-begin = "2015-07-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "oder-spree-kanal", "spreewald", "schwielochsee", "neuendorfer see", "köthener see", "oder"]
-"länder" = ["polen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboot kurz vor der Dahme Teltowkanal 2015"
-src = "images/Ruderboot_kurz_vor_der_Dahme_Teltowkanal_2015.jpg"
-[[images]]
-title = "Ruderboote beim Post SV 2015"
-src = "images/Ruderboote_beim_Post_SV_2015.jpg"
-[[images]]
-title = "wieviele ruderer bekommt man in einen zweier 2015"
-src = "images/wieviele_ruderer_bekommt_man_in_einen_zweier_2015.jpg"
-[[images]]
-title = "Ruderer im Tretboot Koethen 2015"
-src = "images/Ruderer_im_Tretboot_Koethen_2015.jpg"
-[[images]]
-title = "Ruderer sind Analphabeten 2015"
-src = "images/Ruderer_sind_Analphabeten_2015.jpg"
-[[images]]
-title = "Ruderer Schleuse Hermsdorf 2015"
-src = "images/Ruderer_Schleuse_Hermsdorf_2015.jpg"
-[[images]]
-title = "Bootsschleppe Dahme Spree Umflutkanal 2015"
-src = "images/Bootsschleppe_Dahme_Spree_Umflutkanal_2015.jpg"
-[[images]]
-title = "mitten im Spreewald 2015"
-src = "images/mitten_im_Spreewald_2015.jpg"
-[[images]]
-title = "Regenguss Spreewald 2015"
-src = "images/Regenguss_Spreewald_2015.jpg"
-[[images]]
-title = "Ruderer auf dem Randkanal Spreewald 2015"
-src = "images/Ruderer_auf_dem_Randkanal_Spreewald_2015.jpg"
-[[images]]
-title = "Schleuse Wasserburg Spreewald 2015"
-src = "images/Schleuse_Wasserburg_Spreewald_2015.jpg"
-[[images]]
-title = "Schleusenkletterer Spreewald 2015"
-src = "images/Schleusenkletterer_Spreewald_2015.jpg"
-[[images]]
-title = "enge Streck Spreewald 2015"
-src = "images/enge_Streck_Spreewald_2015.jpg"
-[[images]]
-title = "Gegenverkehr Schaffotschleuse 2015"
-src = "images/Gegenverkehr_Schaffotschleuse_2015.jpg"
-[[images]]
-title = "Schaffotschleuse Spreewald 2015"
-src = "images/Schaffotschleuse_Spreewald_2015.jpg"
-[[images]]
-title = "enger Graben Spreewald 2015"
-src = "images/enger_Graben_Spreewald_2015.jpg"
-[[images]]
-title = "Pause im Spreewald 2015"
-src = "images/Pause_im_Spreewald_2015.jpg"
-[[images]]
-title = "Jonathan vincent Spreewald 2015"
-src = "images/Jonathan_vincent_Spreewald_2015.jpg"
-[[images]]
-title = "Ruderer auf der Spree 2015"
-src = "images/Ruderer_auf_der_Spree_2015.jpg"
-[[images]]
-title = "Ruderboote auf dem Schwielochsee 2015-1"
-src = "images/Ruderboote_auf_dem_Schwielochsee_2015-1.jpg"
-[[images]]
-title = "Regenguss auf dem Schwielochsee 2015"
-src = "images/Regenguss_auf_dem_Schwielochsee_2015.jpg"
-[[images]]
-title = "Sturm auf dem Schwielochsee 2015"
-src = "images/Sturm_auf_dem_Schwielochsee_2015.jpg"
-[[images]]
-title = "Einer mit Steuermann Schwielochsee 2015"
-src = "images/Einer_mit_Steuermann_Schwielochsee_2015.jpg"
-[[images]]
-title = "Ruderboote Spreewaldfahrt 2015"
-src = "images/Ruderboote_Spreewaldfahrt_2015.jpg"
-[[images]]
-title = "Baum auf der Spree 2015"
-src = "images/Baum_auf_der_Spree_2015.jpg"
-[[images]]
-title = "Ruderer im Baum Spree 2015"
-src = "images/Ruderer_im_Baum_Spree_2015.jpg"
-[[images]]
-title = "Schleuse Wergensee 2015-1"
-src = "images/Schleuse_Wergensee_2015-1.jpg"
-[[images]]
-title = "Mueggelspree 2015"
-src = "images/Mueggelspree_2015.jpg"
-[[images]]
-title = "mal wieder ein einer mit steuermann 2015"
-src = "images/mal_wieder_ein_einer_mit_steuermann_2015.jpg"
-[[images]]
-title = "Gosener Graben Spreewald 2015"
-src = "images/Gosener_Graben_Spreewald_2015.jpg"
-[[images]]
-title = "Seddinsee im Sturm 2015"
-src = "images/Seddinsee_im_Sturm_2015.jpg"
-[[images]]
-title = "Kinderdreier Spreewaldfahrt 2015"
-src = "images/Kinderdreier_Spreewaldfahrt_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-07-01"
+date: "2015-07-07T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- oder-spree-kanal
+- spreewald
+- schwielochsee
+- neuendorfer see
+- köthener see
+- oder
+images:
+- src: images/Ruderboot_kurz_vor_der_Dahme_Teltowkanal_2015.jpg
+  title: Ruderboot kurz vor der Dahme Teltowkanal 2015
+- src: images/Ruderboote_beim_Post_SV_2015.jpg
+  title: Ruderboote beim Post SV 2015
+- src: images/wieviele_ruderer_bekommt_man_in_einen_zweier_2015.jpg
+  title: wieviele ruderer bekommt man in einen zweier 2015
+- src: images/Ruderer_im_Tretboot_Koethen_2015.jpg
+  title: Ruderer im Tretboot Koethen 2015
+- src: images/Ruderer_sind_Analphabeten_2015.jpg
+  title: Ruderer sind Analphabeten 2015
+- src: images/Ruderer_Schleuse_Hermsdorf_2015.jpg
+  title: Ruderer Schleuse Hermsdorf 2015
+- src: images/Bootsschleppe_Dahme_Spree_Umflutkanal_2015.jpg
+  title: Bootsschleppe Dahme Spree Umflutkanal 2015
+- src: images/mitten_im_Spreewald_2015.jpg
+  title: mitten im Spreewald 2015
+- src: images/Regenguss_Spreewald_2015.jpg
+  title: Regenguss Spreewald 2015
+- src: images/Ruderer_auf_dem_Randkanal_Spreewald_2015.jpg
+  title: Ruderer auf dem Randkanal Spreewald 2015
+- src: images/Schleuse_Wasserburg_Spreewald_2015.jpg
+  title: Schleuse Wasserburg Spreewald 2015
+- src: images/Schleusenkletterer_Spreewald_2015.jpg
+  title: Schleusenkletterer Spreewald 2015
+- src: images/enge_Streck_Spreewald_2015.jpg
+  title: enge Streck Spreewald 2015
+- src: images/Gegenverkehr_Schaffotschleuse_2015.jpg
+  title: Gegenverkehr Schaffotschleuse 2015
+- src: images/Schaffotschleuse_Spreewald_2015.jpg
+  title: Schaffotschleuse Spreewald 2015
+- src: images/enger_Graben_Spreewald_2015.jpg
+  title: enger Graben Spreewald 2015
+- src: images/Pause_im_Spreewald_2015.jpg
+  title: Pause im Spreewald 2015
+- src: images/Jonathan_vincent_Spreewald_2015.jpg
+  title: Jonathan vincent Spreewald 2015
+- src: images/Ruderer_auf_der_Spree_2015.jpg
+  title: Ruderer auf der Spree 2015
+- src: images/Ruderboote_auf_dem_Schwielochsee_2015-1.jpg
+  title: Ruderboote auf dem Schwielochsee 2015-1
+- src: images/Regenguss_auf_dem_Schwielochsee_2015.jpg
+  title: Regenguss auf dem Schwielochsee 2015
+- src: images/Sturm_auf_dem_Schwielochsee_2015.jpg
+  title: Sturm auf dem Schwielochsee 2015
+- src: images/Einer_mit_Steuermann_Schwielochsee_2015.jpg
+  title: Einer mit Steuermann Schwielochsee 2015
+- src: images/Ruderboote_Spreewaldfahrt_2015.jpg
+  title: Ruderboote Spreewaldfahrt 2015
+- src: images/Baum_auf_der_Spree_2015.jpg
+  title: Baum auf der Spree 2015
+- src: images/Ruderer_im_Baum_Spree_2015.jpg
+  title: Ruderer im Baum Spree 2015
+- src: images/Schleuse_Wergensee_2015-1.jpg
+  title: Schleuse Wergensee 2015-1
+- src: images/Mueggelspree_2015.jpg
+  title: Mueggelspree 2015
+- src: images/mal_wieder_ein_einer_mit_steuermann_2015.jpg
+  title: mal wieder ein einer mit steuermann 2015
+- src: images/Gosener_Graben_Spreewald_2015.jpg
+  title: Gosener Graben Spreewald 2015
+- src: images/Seddinsee_im_Sturm_2015.jpg
+  title: Seddinsee im Sturm 2015
+- src: images/Kinderdreier_Spreewaldfahrt_2015.jpg
+  title: Kinderdreier Spreewaldfahrt 2015
+länder:
+- polen
+title: Dahme Spree Blog 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

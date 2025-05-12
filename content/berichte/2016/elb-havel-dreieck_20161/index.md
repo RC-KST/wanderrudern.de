@@ -1,61 +1,49 @@
-+++
-title = "Elb-Havel-Dreieck 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["elbe", "havel", "oder"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rotkaeppchen Elb Havel dreieck 2016"
-src = "images/Rotkaeppchen_Elb_Havel_dreieck_2016.jpg"
-[[images]]
-title = "Baden Wusterwitz 2016"
-src = "images/Baden_Wusterwitz_2016.jpg"
-[[images]]
-title = "Schleuse Wusterwitz 2016"
-src = "images/Schleuse_Wusterwitz_2016.jpg"
-[[images]]
-title = "Elbe-Havel-Kanal 2016"
-src = "images/Elbe-Havel-Kanal_2016.jpg"
-[[images]]
-title = "Tangermuende Hafen 2016"
-src = "images/Tangermuende_Hafen_2016.jpg"
-[[images]]
-title = "Elbe Km 404 Dreick 2016"
-src = "images/Elbe_Km_404_Dreick_2016.jpg"
-[[images]]
-title = "Elbestrand Juli 2016"
-src = "images/Elbestrand_Juli_2016.jpg"
-[[images]]
-title = "Havelberg RC KST Jugend 2016"
-src = "images/Havelberg_RC_KST_Jugend_2016.jpg"
-[[images]]
-title = "Rathenow Ruderjugend 2016"
-src = "images/Rathenow_Ruderjugend_2016.jpg"
-[[images]]
-title = "Ruderer am Havelstrand 2016"
-src = "images/Ruderer_am_Havelstrand_2016.jpg"
-[[images]]
-title = "Maja badet Elb havel dreieck 2016"
-src = "images/Maja_badet_Elb_havel_dreieck_2016.jpg"
-[[images]]
-title = "Plaue beladene Boote 2016"
-src = "images/Plaue_beladene_Boote_2016.jpg"
-[[images]]
-title = "Monsumregen in Brandenburg 2016"
-src = "images/Monsumregen_in_Brandenburg_2016.jpg"
-[[images]]
-title = "tiefentspanntes rudern palue 2016"
-src = "images/tiefentspanntes_rudern_palue_2016.jpg"
-[[images]]
-title = "Lehnin ruderboote beladen 2016"
-src = "images/Lehnin_ruderboote_beladen_2016.jpg"
-[[images]]
-title = "Sacrow Paretzer Kanal rueckweg von der Elbe 2016"
-src = "images/Sacrow_Paretzer_Kanal_rueckweg_von_der_Elbe_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- oder
+images:
+- src: images/Rotkaeppchen_Elb_Havel_dreieck_2016.jpg
+  title: Rotkaeppchen Elb Havel dreieck 2016
+- src: images/Baden_Wusterwitz_2016.jpg
+  title: Baden Wusterwitz 2016
+- src: images/Schleuse_Wusterwitz_2016.jpg
+  title: Schleuse Wusterwitz 2016
+- src: images/Elbe-Havel-Kanal_2016.jpg
+  title: Elbe-Havel-Kanal 2016
+- src: images/Tangermuende_Hafen_2016.jpg
+  title: Tangermuende Hafen 2016
+- src: images/Elbe_Km_404_Dreick_2016.jpg
+  title: Elbe Km 404 Dreick 2016
+- src: images/Elbestrand_Juli_2016.jpg
+  title: Elbestrand Juli 2016
+- src: images/Havelberg_RC_KST_Jugend_2016.jpg
+  title: Havelberg RC KST Jugend 2016
+- src: images/Rathenow_Ruderjugend_2016.jpg
+  title: Rathenow Ruderjugend 2016
+- src: images/Ruderer_am_Havelstrand_2016.jpg
+  title: Ruderer am Havelstrand 2016
+- src: images/Maja_badet_Elb_havel_dreieck_2016.jpg
+  title: Maja badet Elb havel dreieck 2016
+- src: images/Plaue_beladene_Boote_2016.jpg
+  title: Plaue beladene Boote 2016
+- src: images/Monsumregen_in_Brandenburg_2016.jpg
+  title: Monsumregen in Brandenburg 2016
+- src: images/tiefentspanntes_rudern_palue_2016.jpg
+  title: tiefentspanntes rudern palue 2016
+- src: images/Lehnin_ruderboote_beladen_2016.jpg
+  title: Lehnin ruderboote beladen 2016
+- src: images/Sacrow_Paretzer_Kanal_rueckweg_von_der_Elbe_2016.jpg
+  title: Sacrow Paretzer Kanal rueckweg von der Elbe 2016
+länder:
+- finnland
+title: Elb-Havel-Dreieck 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

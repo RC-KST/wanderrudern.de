@@ -1,22 +1,22 @@
-+++
-title = "porsangen 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["oder", "po"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Endlose Strasse in Lapland"
-src = "images/strasse.jpg"
-[[images]]
-title = "Martina"
-src = "images/beifahrerin.jpg"
-[[images]]
-title = "Martina auf dem Puijo"
-src = "images/kuopio.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- po
+images:
+- src: images/strasse.jpg
+  title: Endlose Strasse in Lapland
+- src: images/beifahrerin.jpg
+  title: Martina
+- src: images/kuopio.jpg
+  title: Martina auf dem Puijo
+länder:
+- finnland
+title: porsangen 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

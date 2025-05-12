@@ -1,16 +1,19 @@
-+++
-title = "Anrudern 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["po", "lagune von venedig"]
-"länder" = ["deutschland", "finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jiajia mit Landrat Blasig beim Ehrenamtsaward 2012"
-src = "images/Jiajia_mit_Landrat_Blasig_beim_Ehrenamtsaward_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- po
+- lagune von venedig
+images:
+- src: images/Jiajia_mit_Landrat_Blasig_beim_Ehrenamtsaward_2012.jpg
+  title: Jiajia mit Landrat Blasig beim Ehrenamtsaward 2012
+länder:
+- deutschland
+- finnland
+title: Anrudern 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

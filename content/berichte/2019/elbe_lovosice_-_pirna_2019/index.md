@@ -1,46 +1,36 @@
-+++
-title = "Elbe Lovosice - Pirna 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Feste Koenigststein Elbe 2019"
-src = "images/Feste_Koenigststein_Elbe_2019.jpg"
-[[images]]
-title = "Anlegen in Pirna 2019"
-src = "images/Anlegen_in_Pirna_2019.jpg"
-[[images]]
-title = "Johanna Melina Whirpool Elbe 2019"
-src = "images/Johanna_Melina_Whirpool_Elbe_2019.jpg"
-[[images]]
-title = "Abladen der Ruderboote Lovosice 2019"
-src = "images/Abladen_der_Ruderboote_Lovosice_2019.jpg"
-[[images]]
-title = "Ablegen Lovosice Elbe 2019"
-src = "images/Ablegen_Lovosice_Elbe_2019.jpg"
-[[images]]
-title = "Elb Sandsteingebirge Ruderboot Tschechien 2019"
-src = "images/Elb_Sandsteingebirge_Ruderboot_Tschechien_2019.jpg"
-[[images]]
-title = "Ankunft Decin bei Sonne 2019"
-src = "images/Ankunft_Decin_bei_Sonne_2019.jpg"
-[[images]]
-title = "Klamotten trocknen Decin 2019"
-src = "images/Klamotten_trocknen_Decin_2019.jpg"
-[[images]]
-title = "Felix Jo Aufstieg zur Burg Decin 2019"
-src = "images/Felix_Jo_Aufstieg_zur_Burg_Decin_2019.jpg"
-[[images]]
-title = "Pegel Decin 2019"
-src = "images/Pegel_Decin_2019.jpg"
-[[images]]
-title = "Weihnachtsmarkt Pirna 2019"
-src = "images/Weihnachtsmarkt_Pirna_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Feste_Koenigststein_Elbe_2019.jpg
+  title: Feste Koenigststein Elbe 2019
+- src: images/Anlegen_in_Pirna_2019.jpg
+  title: Anlegen in Pirna 2019
+- src: images/Johanna_Melina_Whirpool_Elbe_2019.jpg
+  title: Johanna Melina Whirpool Elbe 2019
+- src: images/Abladen_der_Ruderboote_Lovosice_2019.jpg
+  title: Abladen der Ruderboote Lovosice 2019
+- src: images/Ablegen_Lovosice_Elbe_2019.jpg
+  title: Ablegen Lovosice Elbe 2019
+- src: images/Elb_Sandsteingebirge_Ruderboot_Tschechien_2019.jpg
+  title: Elb Sandsteingebirge Ruderboot Tschechien 2019
+- src: images/Ankunft_Decin_bei_Sonne_2019.jpg
+  title: Ankunft Decin bei Sonne 2019
+- src: images/Klamotten_trocknen_Decin_2019.jpg
+  title: Klamotten trocknen Decin 2019
+- src: images/Felix_Jo_Aufstieg_zur_Burg_Decin_2019.jpg
+  title: Felix Jo Aufstieg zur Burg Decin 2019
+- src: images/Pegel_Decin_2019.jpg
+  title: Pegel Decin 2019
+- src: images/Weihnachtsmarkt_Pirna_2019.jpg
+  title: Weihnachtsmarkt Pirna 2019
+länder: []
+title: Elbe Lovosice - Pirna 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,7 +1,7 @@
-+++
-title = "Wettbewerb 2024"
-weight = 1
-+++
+---
+title: Wettbewerb 2024
+weight: 1
+---
 
 Dieses Jahr war wohl nicht so viel los :(
 

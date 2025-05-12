@@ -1,34 +1,33 @@
-+++
-title = "Spreewald 2017"
-author = ""
-date = 2017-10-10T01:00:00+02:00
-begin = "2017-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Simone im Spreewald 2017"
-src = "images/Simone_im_Spreewald_2017.jpg"
-[[images]]
-title = "Schleuse Kleinmachnow Start zum Spreewald 2017"
-src = "images/Schleuse_Kleinmachnow_Start_zum_Spreewald_2017.jpg"
-[[images]]
-title = "Spree Dahme Umflutkanal Ruderer 2017"
-src = "images/Spree_Dahme_Umflutkanal_Ruderer_2017.jpg"
-[[images]]
-title = "Vierer in Wendenschloss Spreewald 2017"
-src = "images/Vierer_in_Wendenschloss_Spreewald_2017.jpg"
-[[images]]
-title = "Abendessen Jugendherberge Luebben 2017"
-src = "images/Abendessen_Jugendherberge_Luebben_2017.jpg"
-[[images]]
-title = "Abendliches Grillen DJH Luebben 2017"
-src = "images/Abendliches_Grillen_DJH_Luebben_2017.jpg"
-[[images]]
-title = "Ruderboot im Spreewald 2017"
-src = "images/Ruderboot_im_Spreewald_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-10-01"
+date: "2017-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+images:
+- src: images/Simone_im_Spreewald_2017.jpg
+  title: Simone im Spreewald 2017
+- src: images/Schleuse_Kleinmachnow_Start_zum_Spreewald_2017.jpg
+  title: Schleuse Kleinmachnow Start zum Spreewald 2017
+- src: images/Spree_Dahme_Umflutkanal_Ruderer_2017.jpg
+  title: Spree Dahme Umflutkanal Ruderer 2017
+- src: images/Vierer_in_Wendenschloss_Spreewald_2017.jpg
+  title: Vierer in Wendenschloss Spreewald 2017
+- src: images/Abendessen_Jugendherberge_Luebben_2017.jpg
+  title: Abendessen Jugendherberge Luebben 2017
+- src: images/Abendliches_Grillen_DJH_Luebben_2017.jpg
+  title: Abendliches Grillen DJH Luebben 2017
+- src: images/Ruderboot_im_Spreewald_2017.jpg
+  title: Ruderboot im Spreewald 2017
+länder: []
+title: Spreewald 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

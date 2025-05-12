@@ -1,22 +1,19 @@
-+++
-title = "SPD Sommerfest 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "SPD Sommerfest Rathausmarkt 2017"
-src = "images/SPD_Sommerfest_Rathausmarkt_2017.jpg"
-[[images]]
-title = "Ruderboot auf dem Weg zum Rathausmarkt 2017"
-src = "images/Ruderboot_auf_dem_Weg_zum_Rathausmarkt_2017.jpg"
-[[images]]
-title = "Boot auf dem Rathausmarkt Kleinmachnow 2017"
-src = "images/Boot_auf_dem_Rathausmarkt_Kleinmachnow_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/SPD_Sommerfest_Rathausmarkt_2017.jpg
+  title: SPD Sommerfest Rathausmarkt 2017
+- src: images/Ruderboot_auf_dem_Weg_zum_Rathausmarkt_2017.jpg
+  title: Ruderboot auf dem Weg zum Rathausmarkt 2017
+- src: images/Boot_auf_dem_Rathausmarkt_Kleinmachnow_2017.jpg
+  title: Boot auf dem Rathausmarkt Kleinmachnow 2017
+länder: []
+title: SPD Sommerfest 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

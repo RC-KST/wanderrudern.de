@@ -1,40 +1,35 @@
-+++
-title = "Oder Ostern 1992"
-author = ""
-date = 1992-07-07T01:00:00+02:00
-begin = "1992-07-01"
-"gewässer" = ["oste", "wannsee", "oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Deutschlandflaggen Ruderboot "
-src = "images/thilo_flaggen.jpg"
-[[images]]
-title = "schleuse Eisenhüttenstadt Rudern"
-src = "images/schleuse_ehst.jpg"
-[[images]]
-title = "Tonne Strömung Oder Rudern"
-src = "images/bohje.jpg"
-[[images]]
-title = "Ruderboot auf der Oder"
-src = "images/julia_oder.jpg"
-[[images]]
-title = "Zweier Ruderboot rudern Oder"
-src = "images/zweier_oder.jpg"
-[[images]]
-title = "zwei Vierer rudern auf der Oder"
-src = "images/beladene_Boote.jpg"
-[[images]]
-title = "Schiffshebewerk Niederfinow"
-src = "images/hebewerk1.jpg"
-[[images]]
-title = "Ruderer im Schiffshebewerk Niederfinow"
-src = "images/hebewerk_innen2.jpg"
-[[images]]
-title = "Oder-Havel-Kanal Ruderin "
-src = "images/julia.jpg"
-
-+++
+---
+author: ""
+begin: "1992-07-01"
+date: "1992-07-07T01:00:00+02:00"
+gewässer:
+- oste
+- wannsee
+- oder
+images:
+- src: images/thilo_flaggen.jpg
+  title: 'Deutschlandflaggen Ruderboot '
+- src: images/schleuse_ehst.jpg
+  title: schleuse Eisenhüttenstadt Rudern
+- src: images/bohje.jpg
+  title: Tonne Strömung Oder Rudern
+- src: images/julia_oder.jpg
+  title: Ruderboot auf der Oder
+- src: images/zweier_oder.jpg
+  title: Zweier Ruderboot rudern Oder
+- src: images/beladene_Boote.jpg
+  title: zwei Vierer rudern auf der Oder
+- src: images/hebewerk1.jpg
+  title: Schiffshebewerk Niederfinow
+- src: images/hebewerk_innen2.jpg
+  title: Ruderer im Schiffshebewerk Niederfinow
+- src: images/julia.jpg
+  title: 'Oder-Havel-Kanal Ruderin '
+länder:
+- deutschland
+title: Oder Ostern 1992
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

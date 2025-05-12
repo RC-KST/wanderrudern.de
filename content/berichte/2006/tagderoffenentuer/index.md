@@ -1,31 +1,25 @@
-+++
-title = "Tag der offenen Tür 2006"
-author = ""
-date = 2006-04-04T01:00:00+02:00
-begin = "2006-04-01"
-"gewässer" = []
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Ruderboot Steg Kleinmachnow"
-src = "images/tot06_steg.jpg"
-[[images]]
-title = "Schleuse Kleinmachnow Ruderboot"
-src = "images/tot06_amsteg2.jpg"
-[[images]]
-title = "Ruderer Feier Stahnsdorf"
-src = "images/tot06_pavillion.jpg"
-[[images]]
-title = "Ruderdreier Anfängerrudern"
-src = "images/tot06_dreier.jpg"
-[[images]]
-title = "Rudervierer Anfänger Stahnsdorf"
-src = "images/tot06_vierer2.jpg"
-[[images]]
-title = "tot06_feuer"
-src = "images/tot06_feuer.jpg"
-
-+++
+---
+author: ""
+begin: "2006-04-01"
+date: "2006-04-04T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/tot06_steg.jpg
+  title: Ruderboot Steg Kleinmachnow
+- src: images/tot06_amsteg2.jpg
+  title: Schleuse Kleinmachnow Ruderboot
+- src: images/tot06_pavillion.jpg
+  title: Ruderer Feier Stahnsdorf
+- src: images/tot06_dreier.jpg
+  title: Ruderdreier Anfängerrudern
+- src: images/tot06_vierer2.jpg
+  title: Rudervierer Anfänger Stahnsdorf
+- src: images/tot06_feuer.jpg
+  title: tot06_feuer
+länder: []
+title: Tag der offenen Tür 2006
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,43 +1,34 @@
-+++
-title = "Drachenboot-Rudercup 2015"
-author = ""
-date = 2015-07-07T01:00:00+02:00
-begin = "2015-07-01"
-"gewässer" = ["aller"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "TCC beim Drachenbootrudercup 2015"
-src = "images/TCC_beim_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Drachenbootrudercup 2015"
-src = "images/Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Gospel Chor Drachenbootrudercup 2015"
-src = "images/Gospel_Chor_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Zuschauer Drachenbootrudercup 2015"
-src = "images/Zuschauer_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Drachenbootrudercup 2015 Linke gegen Piraten"
-src = "images/Drachenbootrudercup_2015_Linke_gegen_Piraten.jpg"
-[[images]]
-title = "Gruene Sieger der Mixed Klasse Drachenbootrudercup 2015"
-src = "images/Gruene_Sieger_der_Mixed_Klasse_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Teltower Carneval Club Feenwind Drachenbootrudercup 2015"
-src = "images/Teltower_Carneval_Club_Feenwind_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Ruderboot am Steg in Stahnsdorf Drachenbootrudercup 2015"
-src = "images/Ruderboot_am_Steg_in_Stahnsdorf_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Pokale Drachenbootrudercup 2015"
-src = "images/Pokale_Drachenbootrudercup_2015.jpg"
-[[images]]
-title = "Rettungsboot mit Rettungsschwimmer Drachenbootrudercup 2015"
-src = "images/Rettungsboot_mit_Rettungsschwimmer_Drachenbootrudercup_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-07-01"
+date: "2015-07-07T01:00:00+02:00"
+gewässer:
+- aller
+images:
+- src: images/TCC_beim_Drachenbootrudercup_2015.jpg
+  title: TCC beim Drachenbootrudercup 2015
+- src: images/Drachenbootrudercup_2015.jpg
+  title: Drachenbootrudercup 2015
+- src: images/Gospel_Chor_Drachenbootrudercup_2015.jpg
+  title: Gospel Chor Drachenbootrudercup 2015
+- src: images/Zuschauer_Drachenbootrudercup_2015.jpg
+  title: Zuschauer Drachenbootrudercup 2015
+- src: images/Drachenbootrudercup_2015_Linke_gegen_Piraten.jpg
+  title: Drachenbootrudercup 2015 Linke gegen Piraten
+- src: images/Gruene_Sieger_der_Mixed_Klasse_Drachenbootrudercup_2015.jpg
+  title: Gruene Sieger der Mixed Klasse Drachenbootrudercup 2015
+- src: images/Teltower_Carneval_Club_Feenwind_Drachenbootrudercup_2015.jpg
+  title: Teltower Carneval Club Feenwind Drachenbootrudercup 2015
+- src: images/Ruderboot_am_Steg_in_Stahnsdorf_Drachenbootrudercup_2015.jpg
+  title: Ruderboot am Steg in Stahnsdorf Drachenbootrudercup 2015
+- src: images/Pokale_Drachenbootrudercup_2015.jpg
+  title: Pokale Drachenbootrudercup 2015
+- src: images/Rettungsboot_mit_Rettungsschwimmer_Drachenbootrudercup_2015.jpg
+  title: Rettungsboot mit Rettungsschwimmer Drachenbootrudercup 2015
+länder: []
+title: Drachenboot-Rudercup 2015
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

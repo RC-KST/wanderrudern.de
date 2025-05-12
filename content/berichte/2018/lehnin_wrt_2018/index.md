@@ -1,43 +1,35 @@
-+++
-title = "Lehnin WRT 2018"
-author = ""
-date = 2018-08-08T01:00:00+02:00
-begin = "2018-08-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Mittagspause WRT 2018 Lehnin"
-src = "images/Mittagspause_WRT_2018_Lehnin.jpg"
-[[images]]
-title = "Mittagspause Kleinkreuz WRT Lehnin 2018"
-src = "images/Mittagspause_Kleinkreuz_WRT_Lehnin_2018.jpg"
-[[images]]
-title = "Emster Kanal WRT 2018 Lehnin"
-src = "images/Emster_Kanal_WRT_2018_Lehnin.jpg"
-[[images]]
-title = "Mannschaft des RC KST beim Wanderrudertreffen in Lehnin 2018"
-src = "images/Mannschaft_des_RC_KST_beim_Wanderrudertreffen_in_Lehnin_2018.jpg"
-[[images]]
-title = "WRT 2018 Lehnin"
-src = "images/WRT_2018_Lehnin.jpg"
-[[images]]
-title = "Lehnin WRT 2018"
-src = "images/Lehnin_WRT_2018.jpg"
-[[images]]
-title = "Cocktails in Werder WRT 2018"
-src = "images/Cocktails_in_Werder_WRT_2018.jpg"
-[[images]]
-title = "Nachtlager des VL WRT 2018"
-src = "images/Nachtlager_des_VL_WRT_2018.jpg"
-[[images]]
-title = "Girlies beim WRT 2018 Lehnin"
-src = "images/Girlies_beim_WRT_2018_Lehnin.jpg"
-[[images]]
-title = "Felix Schleppzug Werder WRT 2018"
-src = "images/Felix_Schleppzug_Werder_WRT_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-08-01"
+date: "2018-08-08T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Mittagspause_WRT_2018_Lehnin.jpg
+  title: Mittagspause WRT 2018 Lehnin
+- src: images/Mittagspause_Kleinkreuz_WRT_Lehnin_2018.jpg
+  title: Mittagspause Kleinkreuz WRT Lehnin 2018
+- src: images/Emster_Kanal_WRT_2018_Lehnin.jpg
+  title: Emster Kanal WRT 2018 Lehnin
+- src: images/Mannschaft_des_RC_KST_beim_Wanderrudertreffen_in_Lehnin_2018.jpg
+  title: Mannschaft des RC KST beim Wanderrudertreffen in Lehnin 2018
+- src: images/WRT_2018_Lehnin.jpg
+  title: WRT 2018 Lehnin
+- src: images/Lehnin_WRT_2018.jpg
+  title: Lehnin WRT 2018
+- src: images/Cocktails_in_Werder_WRT_2018.jpg
+  title: Cocktails in Werder WRT 2018
+- src: images/Nachtlager_des_VL_WRT_2018.jpg
+  title: Nachtlager des VL WRT 2018
+- src: images/Girlies_beim_WRT_2018_Lehnin.jpg
+  title: Girlies beim WRT 2018 Lehnin
+- src: images/Felix_Schleppzug_Werder_WRT_2018.jpg
+  title: Felix Schleppzug Werder WRT 2018
+länder: []
+title: Lehnin WRT 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

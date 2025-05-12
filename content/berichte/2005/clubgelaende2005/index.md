@@ -1,34 +1,27 @@
-+++
-title = "Clubgelaende2005"
-author = ""
-date = 2005-10-10T01:00:00+02:00
-begin = "2005-10-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Veranda_rohbau"
-src = "images/Veranda_rohbau.jpg"
-[[images]]
-title = "veranda_joerg"
-src = "images/veranda_joerg.jpg"
-[[images]]
-title = "angela_franzi_bau"
-src = "images/angela_franzi_bau.jpg"
-[[images]]
-title = "dach_veranda"
-src = "images/dach_veranda.jpg"
-[[images]]
-title = "lina_anstreichen"
-src = "images/lina_anstreichen.jpg"
-[[images]]
-title = "isabella_bau"
-src = "images/isabella_bau.jpg"
-[[images]]
-title = "schuppen_bau"
-src = "images/schuppen_bau.jpg"
-
-+++
+---
+author: ""
+begin: "2005-10-01"
+date: "2005-10-10T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Veranda_rohbau.jpg
+  title: Veranda_rohbau
+- src: images/veranda_joerg.jpg
+  title: veranda_joerg
+- src: images/angela_franzi_bau.jpg
+  title: angela_franzi_bau
+- src: images/dach_veranda.jpg
+  title: dach_veranda
+- src: images/lina_anstreichen.jpg
+  title: lina_anstreichen
+- src: images/isabella_bau.jpg
+  title: isabella_bau
+- src: images/schuppen_bau.jpg
+  title: schuppen_bau
+länder: []
+title: Clubgelaende2005
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

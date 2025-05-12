@@ -1,7 +1,7 @@
-+++
-title = "Mitgliedschaft"
-weight = 50
-+++
+---
+title: Mitgliedschaft
+weight: 50
+---
 
 {{< csv-to-table "preise.csv" >}}
 

@@ -1,283 +1,199 @@
-+++
-title = "Unstrut Saale Elbe 2012"
-author = ""
-date = 2012-10-10T01:00:00+02:00
-begin = "2012-10-01"
-"gewässer" = ["elbe", "saale", "unstrut", "oder", "saimaa"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bootsanhaenger mit Nirina USE2012"
-src = "images/Bootsanhaenger_mit_Nirina_USE2012.jpg"
-[[images]]
-title = "Jugendherberge  Heldrungen  USE2012jpg"
-src = "images/Jugendherberge__Heldrungen__USE2012jpg.jpg"
-[[images]]
-title = "Wildwasser auf der Unstrut USE2012"
-src = "images/Wildwasser_auf_der_Unstrut_USE2012.jpg"
-[[images]]
-title = "Riesige Eisenbahnbruecke Unstrut USE2012"
-src = "images/Riesige_Eisenbahnbruecke_Unstrut_USE2012.jpg"
-[[images]]
-title = "Saaleschleuse USE2012"
-src = "images/Saaleschleuse_USE2012.jpg"
-[[images]]
-title = "Zwerg 8 und 9 Unstrut 2012"
-src = "images/Zwerg_8_und_9_Unstrut_2012.jpg"
-[[images]]
-title = "Saalestrand in Halle USE2012"
-src = "images/Saalestrand_in_Halle_USE2012.jpg"
-[[images]]
-title = "Saale mit Herbstlaub USE2012"
-src = "images/Saale_mit_Herbstlaub_USE2012.jpg"
-[[images]]
-title = "leichter wind und vereinzelt niederschlag USE2012"
-src = "images/leichter_wind_und_vereinzelt_niederschlag_USE2012.jpg"
-[[images]]
-title = "Tangermuende im Hafen USE2012"
-src = "images/Tangermuende_im_Hafen_USE2012.jpg"
-[[images]]
-title = "Wolly im Regen auf der Elbe USE2012"
-src = "images/Wolly_im_Regen_auf_der_Elbe_USE2012.jpg"
-[[images]]
-title = "Ruderboote vor dem Kyfhaeuserdenkmal USE 2012"
-src = "images/Ruderboote_vor_dem_Kyfhaeuserdenkmal_USE_2012.jpg"
-[[images]]
-title = "Mauerklettern verboten USE2012"
-src = "images/Mauerklettern_verboten_USE2012.jpg"
-[[images]]
-title = "vom kyfhaeuser auf die Boote USE2012"
-src = "images/vom_kyfhaeuser_auf_die_Boote_USE2012.jpg"
-[[images]]
-title = "Einsetzen Ruderboot Heldrungen USE2012"
-src = "images/Einsetzen_Ruderboot_Heldrungen_USE2012.jpg"
-[[images]]
-title = "Einsetzstelle Heldrungen USE2012"
-src = "images/Einsetzstelle_Heldrungen_USE2012.jpg"
-[[images]]
-title = "Abends in Bottendorf USE2012"
-src = "images/Abends_in_Bottendorf_USE2012.jpg"
-[[images]]
-title = "Schleuse auf der Unstrut USE2012"
-src = "images/Schleuse_auf_der_Unstrut_USE2012.jpg"
-[[images]]
-title = "Wildwasser unstrut USE2012"
-src = "images/Wildwasser_unstrut_USE2012.jpg"
-[[images]]
-title = "Baumgarten Dreier auf der Unstrut USE2012"
-src = "images/Baumgarten_Dreier_auf_der_Unstrut_USE2012.jpg"
-[[images]]
-title = "JiaJia auf der Unstrut USE2012"
-src = "images/JiaJia_auf_der_Unstrut_USE2012.jpg"
-[[images]]
-title = "Weinbau am Ufer der Unstrut USE2012"
-src = "images/Weinbau_am_Ufer_der_Unstrut_USE2012.jpg"
-[[images]]
-title = "Stau in Merseburg USE2012"
-src = "images/Stau_in_Merseburg_USE2012.jpg"
-[[images]]
-title = "der rasende Reporter im Einsatz USE2012"
-src = "images/der_rasende_Reporter_im_Einsatz_USE2012.jpg"
-[[images]]
-title = "Merseburg Abendessen USE2012"
-src = "images/Merseburg_Abendessen_USE2012.jpg"
-[[images]]
-title = "Merseburg Stadtbesichtigung bei Nacht USE2012"
-src = "images/Merseburg_Stadtbesichtigung_bei_Nacht_USE2012.jpg"
-[[images]]
-title = "Penner auf der Parkbank Merseburg USE2012"
-src = "images/Penner_auf_der_Parkbank_Merseburg_USE2012.jpg"
-[[images]]
-title = "Merseburg bei Nacht USE2012"
-src = "images/Merseburg_bei_Nacht_USE2012.jpg"
-[[images]]
-title = "Saale bei Halle USE2012"
-src = "images/Saale_bei_Halle_USE2012.jpg"
-[[images]]
-title = "Halle Downtown USE2012"
-src = "images/Halle_Downtown_USE2012.jpg"
-[[images]]
-title = "Vierer vor Burg Wettin USE2012"
-src = "images/Vierer_vor_Burg_Wettin_USE2012.jpg"
-[[images]]
-title = "Ruderer auf der Bernburg USE2012"
-src = "images/Ruderer_auf_der_Bernburg_USE2012.jpg"
-[[images]]
-title = "Bernburg USE2012"
-src = "images/Bernburg_USE2012.jpg"
-[[images]]
-title = "es macht spass und ich bin freiwillig hier USE2012"
-src = "images/es_macht_spass_und_ich_bin_freiwillig_hier_USE2012.jpg"
-[[images]]
-title = "Magdeburg im Ruderclub USE2012"
-src = "images/Magdeburg_im_Ruderclub_USE2012.jpg"
-[[images]]
-title = "Schuhe trocknen Magdeburg USE2012"
-src = "images/Schuhe_trocknen_Magdeburg_USE2012.jpg"
-[[images]]
-title = "REstaurant Tangermuende USE2012"
-src = "images/REstaurant_Tangermuende_USE2012.jpg"
-[[images]]
-title = "Tangermuende Schlosspark USE2012"
-src = "images/Tangermuende_Schlosspark_USE2012.jpg"
-[[images]]
-title = "Tangermuende am Ruderverein USE2012"
-src = "images/Tangermuende_am_Ruderverein_USE2012.jpg"
-[[images]]
-title = "kuechenhilfen Wittenberge USE2012"
-src = "images/kuechenhilfen_Wittenberge_USE2012.jpg"
-[[images]]
-title = "Ning macht das Abendessen Wittenberge USE2012"
-src = "images/Ning_macht_das_Abendessen_Wittenberge_USE2012.jpg"
-[[images]]
-title = "Elbe kurz vor Wittenberge USE2012"
-src = "images/Elbe_kurz_vor_Wittenberge_USE2012.jpg"
-[[images]]
-title = "Chillen am Strand USE2012"
-src = "images/Chillen_am_Strand_USE2012.jpg"
-[[images]]
-title = "Regenbogen Bune bei Damnatz USE2012"
-src = "images/Regenbogen_Bune_bei_Damnatz_USE2012.jpg"
-[[images]]
-title = "Schnackenburg bei gutem Wetter USE20012"
-src = "images/Schnackenburg_bei_gutem_Wetter_USE20012.jpg"
-[[images]]
-title = "Baumgarten Inrigger auf der Elbe USE2012"
-src = "images/Baumgarten_Inrigger_auf_der_Elbe_USE2012.jpg"
-[[images]]
-title = "Baumgarten Boote in Lauenburg USE2012"
-src = "images/Baumgarten_Boote_in_Lauenburg_USE2012.jpg"
-[[images]]
-title = "Abendstimmung in Lauenburg an der Elbe USE2012"
-src = "images/Abendstimmung_in_Lauenburg_an_der_Elbe_USE2012.jpg"
-[[images]]
-title = "Am steg in Lauenburg USE2012"
-src = "images/Am_steg_in_Lauenburg_USE2012.jpg"
-[[images]]
-title = "Schiffshebewerk Scharnebeck USE2012"
-src = "images/Schiffshebewerk_Scharnebeck_USE2012.jpg"
-[[images]]
-title = "Nirina Martin im Schiffshebewerk Scharnebeck USE2012"
-src = "images/Nirina_Martin_im_Schiffshebewerk_Scharnebeck_USE2012.jpg"
-[[images]]
-title = "im Trog halbe Höhe USE2012"
-src = "images/im_Trog_halbe_Hohe_USE2012.jpg"
-[[images]]
-title = "und unter uns der elbe seiten kanal USE2012"
-src = "images/und_unter_uns_der_elbe_seiten_kanal_USE2012.jpg"
-[[images]]
-title = "Ilmenau bruecke USE2012"
-src = "images/Ilmenau_bruecke_USE2012.jpg"
-[[images]]
-title = "mannschaft auf der kanalbruecke USE2012"
-src = "images/mannschaft_auf_der_kanalbruecke_USE2012.jpg"
-[[images]]
-title = "unter uns die Ilmenau USE2012"
-src = "images/unter_uns_die_Ilmenau_USE2012.jpg"
-[[images]]
-title = "doppelter Regenbogen auf dem Elbe Seiten  kanal USE2012"
-src = "images/doppelter_Regenbogen_auf_dem_Elbe_Seiten__kanal_USE2012.jpg"
-[[images]]
-title = "Einsteigen an der Ilmenau USE2012"
-src = "images/Einsteigen_an_der_Ilmenau_USE2012.jpg"
-[[images]]
-title = "Elbe Seiten kanal von der Ilmenau aus USE2012"
-src = "images/Elbe_Seiten_kanal_von_der_Ilmenau_aus_USE2012.jpg"
-[[images]]
-title = "Boot umtragen an der Ilmenau USE2012"
-src = "images/Boot_umtragen_an_der_Ilmenau_USE2012.jpg"
-[[images]]
-title = "Ilmenau mal entspannt USE2012"
-src = "images/Ilmenau_mal_entspannt_USE2012.jpg"
-[[images]]
-title = "Baum im Fahrwasser Ilemau USE2012"
-src = "images/Baum_im_Fahrwasser_Ilemau_USE2012.jpg"
-[[images]]
-title = "flache Baeume auf der Ilmenau USE2012"
-src = "images/flache_Baeume_auf_der_Ilmenau_USE2012.jpg"
-[[images]]
-title = "Ilmenau mit Baum USE2012"
-src = "images/Ilmenau_mit_Baum_USE2012.jpg"
-[[images]]
-title = "Wehr Lueneburg USE2012"
-src = "images/Wehr_Lueneburg_USE2012.jpg"
-[[images]]
-title = "Lueneburg Bootshaus USE2012"
-src = "images/Lueneburg_Bootshaus_USE2012.jpg"
-[[images]]
-title = "martin ilmenaukanal USE2012"
-src = "images/martin_ilmenaukanal_USE2012.jpg"
-[[images]]
-title = "Ruderclub Suederelbe Hamburg USE2012"
-src = "images/Ruderclub_Suederelbe_Hamburg_USE2012.jpg"
-[[images]]
-title = "reiherstiegschleuse hamburg inrigger USE2012"
-src = "images/reiherstiegschleuse_hamburg_inrigger_USE2012.jpg"
-[[images]]
-title = "Frachter hamburger hafen USE2012"
-src = "images/Frachter_hamburger_hafen_USE2012.jpg"
-[[images]]
-title = "Siloanlage Hamburg Hafen USE2012"
-src = "images/Siloanlage_Hamburg_Hafen_USE2012.jpg"
-[[images]]
-title = "Eisenbahnbruecke im Zollkanal USE2012"
-src = "images/Eisenbahnbruecke_im_Zollkanal_USE2012.jpg"
-[[images]]
-title = "speicherstadt hamburg USE2012"
-src = "images/speicherstadt_hamburg_USE2012.jpg"
-[[images]]
-title = "Nicolaifleet Hamburg USE2012"
-src = "images/Nicolaifleet_Hamburg_USE2012.jpg"
-[[images]]
-title = "an den Landungsbruecken USE2012"
-src = "images/an_den_Landungsbruecken_USE2012.jpg"
-[[images]]
-title = "hinter den St Pauli landungsbruecken USE2012"
-src = "images/hinter_den_St_Pauli_landungsbruecken_USE2012.jpg"
-[[images]]
-title = "schwimmdocks hamburg USE2012"
-src = "images/schwimmdocks_hamburg_USE2012.jpg"
-[[images]]
-title = "im hamburger hafen mit dem inrigger USE2012"
-src = "images/im_hamburger_hafen_mit_dem_inrigger_USE2012.jpg"
-[[images]]
-title = "Rathausschleuse Hamburg USE2012"
-src = "images/Rathausschleuse_Hamburg_USE2012.jpg"
-[[images]]
-title = "Hamburger Rathaus mit Ruderern USE20212"
-src = "images/Hamburger_Rathaus_mit_Ruderern_USE20212.jpg"
-[[images]]
-title = "binnenalster Hamburg USE2012"
-src = "images/binnenalster_Hamburg_USE2012.jpg"
-[[images]]
-title = "Alter Elbtunnel Hamburg USE2012"
-src = "images/Alter_Elbtunnel_Hamburg_USE2012.jpg"
-[[images]]
-title = "Hamburg vom Michel aus gesehen USE2012"
-src = "images/Hamburg_vom_Michel_aus_gesehen_USE2012.jpg"
-[[images]]
-title = "Reeperbahn Hamburg USE2012"
-src = "images/Reeperbahn_Hamburg_USE2012.jpg"
-[[images]]
-title = "Landungsbruecken bei Nacht USE2012"
-src = "images/Landungsbruecken_bei_Nacht_USE2012.jpg"
-[[images]]
-title = "Hamburg Planetarium USE2012"
-src = "images/Hamburg_Planetarium_USE2012.jpg"
-[[images]]
-title = "Fleet in Hamburg USE2012"
-src = "images/Fleet_in_Hamburg_USE2012.jpg"
-[[images]]
-title = "Wohlstandsteich in Hamburg USE2012"
-src = "images/Wohlstandsteich_in_Hamburg_USE2012.jpg"
-[[images]]
-title = "row in Hamburg USE2012"
-src = "images/row_in_Hamburg_USE2012.jpg"
-[[images]]
-title = "Ruderverein Teichwiesen unser Endziel USE2012"
-src = "images/Ruderverein_Teichwiesen_unser_Endziel_USE2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-10-01"
+date: "2012-10-10T01:00:00+02:00"
+gewässer:
+- elbe
+- saale
+- unstrut
+- oder
+- saimaa
+images:
+- src: images/Bootsanhaenger_mit_Nirina_USE2012.jpg
+  title: Bootsanhaenger mit Nirina USE2012
+- src: images/Jugendherberge__Heldrungen__USE2012jpg.jpg
+  title: Jugendherberge  Heldrungen  USE2012jpg
+- src: images/Wildwasser_auf_der_Unstrut_USE2012.jpg
+  title: Wildwasser auf der Unstrut USE2012
+- src: images/Riesige_Eisenbahnbruecke_Unstrut_USE2012.jpg
+  title: Riesige Eisenbahnbruecke Unstrut USE2012
+- src: images/Saaleschleuse_USE2012.jpg
+  title: Saaleschleuse USE2012
+- src: images/Zwerg_8_und_9_Unstrut_2012.jpg
+  title: Zwerg 8 und 9 Unstrut 2012
+- src: images/Saalestrand_in_Halle_USE2012.jpg
+  title: Saalestrand in Halle USE2012
+- src: images/Saale_mit_Herbstlaub_USE2012.jpg
+  title: Saale mit Herbstlaub USE2012
+- src: images/leichter_wind_und_vereinzelt_niederschlag_USE2012.jpg
+  title: leichter wind und vereinzelt niederschlag USE2012
+- src: images/Tangermuende_im_Hafen_USE2012.jpg
+  title: Tangermuende im Hafen USE2012
+- src: images/Wolly_im_Regen_auf_der_Elbe_USE2012.jpg
+  title: Wolly im Regen auf der Elbe USE2012
+- src: images/Ruderboote_vor_dem_Kyfhaeuserdenkmal_USE_2012.jpg
+  title: Ruderboote vor dem Kyfhaeuserdenkmal USE 2012
+- src: images/Mauerklettern_verboten_USE2012.jpg
+  title: Mauerklettern verboten USE2012
+- src: images/vom_kyfhaeuser_auf_die_Boote_USE2012.jpg
+  title: vom kyfhaeuser auf die Boote USE2012
+- src: images/Einsetzen_Ruderboot_Heldrungen_USE2012.jpg
+  title: Einsetzen Ruderboot Heldrungen USE2012
+- src: images/Einsetzstelle_Heldrungen_USE2012.jpg
+  title: Einsetzstelle Heldrungen USE2012
+- src: images/Abends_in_Bottendorf_USE2012.jpg
+  title: Abends in Bottendorf USE2012
+- src: images/Schleuse_auf_der_Unstrut_USE2012.jpg
+  title: Schleuse auf der Unstrut USE2012
+- src: images/Wildwasser_unstrut_USE2012.jpg
+  title: Wildwasser unstrut USE2012
+- src: images/Baumgarten_Dreier_auf_der_Unstrut_USE2012.jpg
+  title: Baumgarten Dreier auf der Unstrut USE2012
+- src: images/JiaJia_auf_der_Unstrut_USE2012.jpg
+  title: JiaJia auf der Unstrut USE2012
+- src: images/Weinbau_am_Ufer_der_Unstrut_USE2012.jpg
+  title: Weinbau am Ufer der Unstrut USE2012
+- src: images/Stau_in_Merseburg_USE2012.jpg
+  title: Stau in Merseburg USE2012
+- src: images/der_rasende_Reporter_im_Einsatz_USE2012.jpg
+  title: der rasende Reporter im Einsatz USE2012
+- src: images/Merseburg_Abendessen_USE2012.jpg
+  title: Merseburg Abendessen USE2012
+- src: images/Merseburg_Stadtbesichtigung_bei_Nacht_USE2012.jpg
+  title: Merseburg Stadtbesichtigung bei Nacht USE2012
+- src: images/Penner_auf_der_Parkbank_Merseburg_USE2012.jpg
+  title: Penner auf der Parkbank Merseburg USE2012
+- src: images/Merseburg_bei_Nacht_USE2012.jpg
+  title: Merseburg bei Nacht USE2012
+- src: images/Saale_bei_Halle_USE2012.jpg
+  title: Saale bei Halle USE2012
+- src: images/Halle_Downtown_USE2012.jpg
+  title: Halle Downtown USE2012
+- src: images/Vierer_vor_Burg_Wettin_USE2012.jpg
+  title: Vierer vor Burg Wettin USE2012
+- src: images/Ruderer_auf_der_Bernburg_USE2012.jpg
+  title: Ruderer auf der Bernburg USE2012
+- src: images/Bernburg_USE2012.jpg
+  title: Bernburg USE2012
+- src: images/es_macht_spass_und_ich_bin_freiwillig_hier_USE2012.jpg
+  title: es macht spass und ich bin freiwillig hier USE2012
+- src: images/Magdeburg_im_Ruderclub_USE2012.jpg
+  title: Magdeburg im Ruderclub USE2012
+- src: images/Schuhe_trocknen_Magdeburg_USE2012.jpg
+  title: Schuhe trocknen Magdeburg USE2012
+- src: images/REstaurant_Tangermuende_USE2012.jpg
+  title: REstaurant Tangermuende USE2012
+- src: images/Tangermuende_Schlosspark_USE2012.jpg
+  title: Tangermuende Schlosspark USE2012
+- src: images/Tangermuende_am_Ruderverein_USE2012.jpg
+  title: Tangermuende am Ruderverein USE2012
+- src: images/kuechenhilfen_Wittenberge_USE2012.jpg
+  title: kuechenhilfen Wittenberge USE2012
+- src: images/Ning_macht_das_Abendessen_Wittenberge_USE2012.jpg
+  title: Ning macht das Abendessen Wittenberge USE2012
+- src: images/Elbe_kurz_vor_Wittenberge_USE2012.jpg
+  title: Elbe kurz vor Wittenberge USE2012
+- src: images/Chillen_am_Strand_USE2012.jpg
+  title: Chillen am Strand USE2012
+- src: images/Regenbogen_Bune_bei_Damnatz_USE2012.jpg
+  title: Regenbogen Bune bei Damnatz USE2012
+- src: images/Schnackenburg_bei_gutem_Wetter_USE20012.jpg
+  title: Schnackenburg bei gutem Wetter USE20012
+- src: images/Baumgarten_Inrigger_auf_der_Elbe_USE2012.jpg
+  title: Baumgarten Inrigger auf der Elbe USE2012
+- src: images/Baumgarten_Boote_in_Lauenburg_USE2012.jpg
+  title: Baumgarten Boote in Lauenburg USE2012
+- src: images/Abendstimmung_in_Lauenburg_an_der_Elbe_USE2012.jpg
+  title: Abendstimmung in Lauenburg an der Elbe USE2012
+- src: images/Am_steg_in_Lauenburg_USE2012.jpg
+  title: Am steg in Lauenburg USE2012
+- src: images/Schiffshebewerk_Scharnebeck_USE2012.jpg
+  title: Schiffshebewerk Scharnebeck USE2012
+- src: images/Nirina_Martin_im_Schiffshebewerk_Scharnebeck_USE2012.jpg
+  title: Nirina Martin im Schiffshebewerk Scharnebeck USE2012
+- src: images/im_Trog_halbe_Hohe_USE2012.jpg
+  title: im Trog halbe Höhe USE2012
+- src: images/und_unter_uns_der_elbe_seiten_kanal_USE2012.jpg
+  title: und unter uns der elbe seiten kanal USE2012
+- src: images/Ilmenau_bruecke_USE2012.jpg
+  title: Ilmenau bruecke USE2012
+- src: images/mannschaft_auf_der_kanalbruecke_USE2012.jpg
+  title: mannschaft auf der kanalbruecke USE2012
+- src: images/unter_uns_die_Ilmenau_USE2012.jpg
+  title: unter uns die Ilmenau USE2012
+- src: images/doppelter_Regenbogen_auf_dem_Elbe_Seiten__kanal_USE2012.jpg
+  title: doppelter Regenbogen auf dem Elbe Seiten  kanal USE2012
+- src: images/Einsteigen_an_der_Ilmenau_USE2012.jpg
+  title: Einsteigen an der Ilmenau USE2012
+- src: images/Elbe_Seiten_kanal_von_der_Ilmenau_aus_USE2012.jpg
+  title: Elbe Seiten kanal von der Ilmenau aus USE2012
+- src: images/Boot_umtragen_an_der_Ilmenau_USE2012.jpg
+  title: Boot umtragen an der Ilmenau USE2012
+- src: images/Ilmenau_mal_entspannt_USE2012.jpg
+  title: Ilmenau mal entspannt USE2012
+- src: images/Baum_im_Fahrwasser_Ilemau_USE2012.jpg
+  title: Baum im Fahrwasser Ilemau USE2012
+- src: images/flache_Baeume_auf_der_Ilmenau_USE2012.jpg
+  title: flache Baeume auf der Ilmenau USE2012
+- src: images/Ilmenau_mit_Baum_USE2012.jpg
+  title: Ilmenau mit Baum USE2012
+- src: images/Wehr_Lueneburg_USE2012.jpg
+  title: Wehr Lueneburg USE2012
+- src: images/Lueneburg_Bootshaus_USE2012.jpg
+  title: Lueneburg Bootshaus USE2012
+- src: images/martin_ilmenaukanal_USE2012.jpg
+  title: martin ilmenaukanal USE2012
+- src: images/Ruderclub_Suederelbe_Hamburg_USE2012.jpg
+  title: Ruderclub Suederelbe Hamburg USE2012
+- src: images/reiherstiegschleuse_hamburg_inrigger_USE2012.jpg
+  title: reiherstiegschleuse hamburg inrigger USE2012
+- src: images/Frachter_hamburger_hafen_USE2012.jpg
+  title: Frachter hamburger hafen USE2012
+- src: images/Siloanlage_Hamburg_Hafen_USE2012.jpg
+  title: Siloanlage Hamburg Hafen USE2012
+- src: images/Eisenbahnbruecke_im_Zollkanal_USE2012.jpg
+  title: Eisenbahnbruecke im Zollkanal USE2012
+- src: images/speicherstadt_hamburg_USE2012.jpg
+  title: speicherstadt hamburg USE2012
+- src: images/Nicolaifleet_Hamburg_USE2012.jpg
+  title: Nicolaifleet Hamburg USE2012
+- src: images/an_den_Landungsbruecken_USE2012.jpg
+  title: an den Landungsbruecken USE2012
+- src: images/hinter_den_St_Pauli_landungsbruecken_USE2012.jpg
+  title: hinter den St Pauli landungsbruecken USE2012
+- src: images/schwimmdocks_hamburg_USE2012.jpg
+  title: schwimmdocks hamburg USE2012
+- src: images/im_hamburger_hafen_mit_dem_inrigger_USE2012.jpg
+  title: im hamburger hafen mit dem inrigger USE2012
+- src: images/Rathausschleuse_Hamburg_USE2012.jpg
+  title: Rathausschleuse Hamburg USE2012
+- src: images/Hamburger_Rathaus_mit_Ruderern_USE20212.jpg
+  title: Hamburger Rathaus mit Ruderern USE20212
+- src: images/binnenalster_Hamburg_USE2012.jpg
+  title: binnenalster Hamburg USE2012
+- src: images/Alter_Elbtunnel_Hamburg_USE2012.jpg
+  title: Alter Elbtunnel Hamburg USE2012
+- src: images/Hamburg_vom_Michel_aus_gesehen_USE2012.jpg
+  title: Hamburg vom Michel aus gesehen USE2012
+- src: images/Reeperbahn_Hamburg_USE2012.jpg
+  title: Reeperbahn Hamburg USE2012
+- src: images/Landungsbruecken_bei_Nacht_USE2012.jpg
+  title: Landungsbruecken bei Nacht USE2012
+- src: images/Hamburg_Planetarium_USE2012.jpg
+  title: Hamburg Planetarium USE2012
+- src: images/Fleet_in_Hamburg_USE2012.jpg
+  title: Fleet in Hamburg USE2012
+- src: images/Wohlstandsteich_in_Hamburg_USE2012.jpg
+  title: Wohlstandsteich in Hamburg USE2012
+- src: images/row_in_Hamburg_USE2012.jpg
+  title: row in Hamburg USE2012
+- src: images/Ruderverein_Teichwiesen_unser_Endziel_USE2012.jpg
+  title: Ruderverein Teichwiesen unser Endziel USE2012
+länder:
+- deutschland
+title: Unstrut Saale Elbe 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

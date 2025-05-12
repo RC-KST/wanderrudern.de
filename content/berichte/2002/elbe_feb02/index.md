@@ -1,31 +1,27 @@
-+++
-title = "Prag Hamburg 2002"
-author = ""
-date = 2002-02-02T01:00:00+02:00
-begin = "2002-02-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Elbe Februar Rudern"
-src = "images/martina_elb02.jpg"
-[[images]]
-title = "Elbe Februar Rudern"
-src = "images/steffi.jpg"
-[[images]]
-title = "Wittenberg Februar Rudern"
-src = "images/wittenberg_elb02.jpg"
-[[images]]
-title = "Hichwasser Elbe Wittenberg"
-src = "images/bootshaus.jpg"
-[[images]]
-title = "Hochwasser Elbe Aken Ruderboot"
-src = "images/rampe.jpg"
-[[images]]
-title = "Mittellandkanalbrücke "
-src = "images/kanalbruecke.jpg"
-
-+++
+---
+author: ""
+begin: "2002-02-01"
+date: "2002-02-02T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/martina_elb02.jpg
+  title: Elbe Februar Rudern
+- src: images/steffi.jpg
+  title: Elbe Februar Rudern
+- src: images/wittenberg_elb02.jpg
+  title: Wittenberg Februar Rudern
+- src: images/bootshaus.jpg
+  title: Hichwasser Elbe Wittenberg
+- src: images/rampe.jpg
+  title: Hochwasser Elbe Aken Ruderboot
+- src: images/kanalbruecke.jpg
+  title: 'Mittellandkanalbrücke '
+länder: []
+title: Prag Hamburg 2002
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

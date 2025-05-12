@@ -1,37 +1,31 @@
-+++
-title = "Ketzin-Lehnin 2017"
-author = ""
-date = 2017-05-05T01:00:00+02:00
-begin = "2017-05-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Malte auf dem Emster Kanal 2017"
-src = "images/Malte_auf_dem_Emster_Kanal_2017.jpg"
-[[images]]
-title = "Fischbroetchen Werder Mai 2017"
-src = "images/Fischbroetchen_Werder_Mai_2017.jpg"
-[[images]]
-title = "Ketzin vor dem Seesportclub April 2017"
-src = "images/Ketzin_vor_dem_Seesportclub_April_2017.jpg"
-[[images]]
-title = "Ketzin bei Sonnenschein 2017"
-src = "images/Ketzin_bei_Sonnenschein_2017.jpg"
-[[images]]
-title = "Lehnin Shoppen mit dem Ruderboot April 2017"
-src = "images/Lehnin_Shoppen_mit_dem_Ruderboot_April_2017.jpg"
-[[images]]
-title = "Nirina und Sophie auf dem Emster Kanal 2017"
-src = "images/Nirina_und_Sophie_auf_dem_Emster_Kanal_2017.jpg"
-[[images]]
-title = "Ruderer im Malabar April 2017"
-src = "images/Ruderer_im_Malabar_April_2017.jpg"
-[[images]]
-title = "Ruderer bei der Baumbluete 2017"
-src = "images/Ruderer_bei_der_Baumbluete_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-05-01"
+date: "2017-05-05T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Malte_auf_dem_Emster_Kanal_2017.jpg
+  title: Malte auf dem Emster Kanal 2017
+- src: images/Fischbroetchen_Werder_Mai_2017.jpg
+  title: Fischbroetchen Werder Mai 2017
+- src: images/Ketzin_vor_dem_Seesportclub_April_2017.jpg
+  title: Ketzin vor dem Seesportclub April 2017
+- src: images/Ketzin_bei_Sonnenschein_2017.jpg
+  title: Ketzin bei Sonnenschein 2017
+- src: images/Lehnin_Shoppen_mit_dem_Ruderboot_April_2017.jpg
+  title: Lehnin Shoppen mit dem Ruderboot April 2017
+- src: images/Nirina_und_Sophie_auf_dem_Emster_Kanal_2017.jpg
+  title: Nirina und Sophie auf dem Emster Kanal 2017
+- src: images/Ruderer_im_Malabar_April_2017.jpg
+  title: Ruderer im Malabar April 2017
+- src: images/Ruderer_bei_der_Baumbluete_2017.jpg
+  title: Ruderer bei der Baumbluete 2017
+länder: []
+title: Ketzin-Lehnin 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,25 @@
-+++
-title = "Wiking Sternfahrt 2022"
-author = ""
-date = 2022-01-01T01:00:00+02:00
-begin = "2022-01-01"
-"gewässer" = ["spree", "teltowkanal"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Partytisch des RC KST Wiking 2022"
-src = "images/Partytisch_des_RC_KST_Wiking_2022.jpg"
-[[images]]
-title = "Marathon Vierer auf dem Wannsee Wiking 2022"
-src = "images/Marathon_Vierer_auf_dem_Wannsee_Wiking_2022.jpg"
-[[images]]
-title = "Schleuse Britz Wiking 2022"
-src = "images/Schleuse_Britz_Wiking_2022.jpg"
-[[images]]
-title = "Party bei Wiking 2022"
-src = "images/Party_bei_Wiking_2022.jpg"
-[[images]]
-title = "Schleuse Kleinmachnow Wiking 2022"
-src = "images/Schleuse_Kleinmachnow_Wiking_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-01-01"
+date: "2022-01-01T01:00:00+02:00"
+gewässer:
+- spree
+- teltowkanal
+images:
+- src: images/Partytisch_des_RC_KST_Wiking_2022.jpg
+  title: Partytisch des RC KST Wiking 2022
+- src: images/Marathon_Vierer_auf_dem_Wannsee_Wiking_2022.jpg
+  title: Marathon Vierer auf dem Wannsee Wiking 2022
+- src: images/Schleuse_Britz_Wiking_2022.jpg
+  title: Schleuse Britz Wiking 2022
+- src: images/Party_bei_Wiking_2022.jpg
+  title: Party bei Wiking 2022
+- src: images/Schleuse_Kleinmachnow_Wiking_2022.jpg
+  title: Schleuse Kleinmachnow Wiking 2022
+länder: []
+title: Wiking Sternfahrt 2022
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

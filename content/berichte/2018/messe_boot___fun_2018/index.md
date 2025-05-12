@@ -1,34 +1,27 @@
-+++
-title = "Messe Boot + Fun 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rudern ist funsport Messe 2018"
-src = "images/Rudern_ist_funsport_Messe_2018.jpg"
-[[images]]
-title = "Boote fuer die Messe 2018"
-src = "images/Boote_fuer_die_Messe_2018.jpg"
-[[images]]
-title = "Handwerker auf der Messe beim Teppich verlegen 2018"
-src = "images/Handwerker_auf_der_Messe_beim_Teppich_verlegen_2018.jpg"
-[[images]]
-title = "Messestand 2018"
-src = "images/Messestand_2018.jpg"
-[[images]]
-title = "Fun Trainer Messe 2018"
-src = "images/Fun_Trainer_Messe_2018.jpg"
-[[images]]
-title = "Family Trainer Fun Trainer im grossen Becken Messe 2018"
-src = "images/Family_Trainer_Fun_Trainer_im_grossen_Becken_Messe_2018.jpg"
-[[images]]
-title = "Family Trainer Messe 2018"
-src = "images/Family_Trainer_Messe_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Rudern_ist_funsport_Messe_2018.jpg
+  title: Rudern ist funsport Messe 2018
+- src: images/Boote_fuer_die_Messe_2018.jpg
+  title: Boote fuer die Messe 2018
+- src: images/Handwerker_auf_der_Messe_beim_Teppich_verlegen_2018.jpg
+  title: Handwerker auf der Messe beim Teppich verlegen 2018
+- src: images/Messestand_2018.jpg
+  title: Messestand 2018
+- src: images/Fun_Trainer_Messe_2018.jpg
+  title: Fun Trainer Messe 2018
+- src: images/Family_Trainer_Fun_Trainer_im_grossen_Becken_Messe_2018.jpg
+  title: Family Trainer Fun Trainer im grossen Becken Messe 2018
+- src: images/Family_Trainer_Messe_2018.jpg
+  title: Family Trainer Messe 2018
+länder: []
+title: Messe Boot + Fun 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

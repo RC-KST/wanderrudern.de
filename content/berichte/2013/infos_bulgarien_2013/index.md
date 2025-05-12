@@ -1,19 +1,20 @@
-+++
-title = "Donau 2013 Rumänien Bulgarien"
-author = ""
-date = 2013-05-05T01:00:00+02:00
-begin = "2013-05-01"
-"gewässer" = ["donau", "oder"]
-"länder" = ["bulgarien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Lom Stadtzentrum Donau 2013"
-src = "images/Lom_Stadtzentrum_Donau_2013.jpg"
-[[images]]
-title = "Ruse Stadtzentrum Donau 2013"
-src = "images/Ruse_Stadtzentrum_Donau_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-05-01"
+date: "2013-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- oder
+images:
+- src: images/Lom_Stadtzentrum_Donau_2013.jpg
+  title: Lom Stadtzentrum Donau 2013
+- src: images/Ruse_Stadtzentrum_Donau_2013.jpg
+  title: Ruse Stadtzentrum Donau 2013
+länder:
+- bulgarien
+title: Donau 2013 Rumänien Bulgarien
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

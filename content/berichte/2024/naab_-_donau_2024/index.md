@@ -1,70 +1,53 @@
-+++
-title = "Naab - Donau 2024"
-author = ""
-date = 2024-05-05T01:00:00+02:00
-begin = "2024-05-01"
-"gewässer" = ["donau", "naab"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Naab Einsetzstelle Schirndorf 2024"
-src = "images/Naab_Einsetzstelle_Schirndorf_2024.jpg"
-[[images]]
-title = "Schirndorf an der Naab Ruderboote 2024"
-src = "images/Schirndorf_an_der_Naab_Ruderboote_2024.jpg"
-[[images]]
-title = "Ruderzweier auf der Naab 2024"
-src = "images/Ruderzweier_auf_der_Naab_2024.jpg"
-[[images]]
-title = "Burg bei Kallmünz an der Naab 2024"
-src = "images/Burg_bei_Kallmunz_an_der_Naab_2024.jpg"
-[[images]]
-title = "Felsen am Ufer der Naab 2024"
-src = "images/Felsen_am_Ufer_der_Naab_2024.jpg"
-[[images]]
-title = "Umtragestelle Kallmünz Naab 2024"
-src = "images/Umtragestelle_Kallmunz_Naab_2024.jpg"
-[[images]]
-title = "Wehr Heizenhofen an der Naab 2024"
-src = "images/Wehr_Heizenhofen_an_der_Naab_2024.jpg"
-[[images]]
-title = "Naab Mittellauf 2024 Ruderboot"
-src = "images/Naab_Mittellauf_2024_Ruderboot.jpg"
-[[images]]
-title = "Heizenhofen Umtragestelle Naab 2024"
-src = "images/Heizenhofen_Umtragestelle_Naab_2024.jpg"
-[[images]]
-title = "Johanna zweitjüngste weibliche Äquatorpreisträgerin 2024"
-src = "images/Johanna_zweitjungste_weibliche_Aquatorpreistragerin_2024.jpg"
-[[images]]
-title = "Tim jüngster männlicher Äquatorpreisträger 2024"
-src = "images/Tim_jungster_mannlicher_Aquatorpreistrager_2024.jpg"
-[[images]]
-title = "WRT 2024 Stefan 35 Wettbewerbe"
-src = "images/WRT_2024_Stefan_35_Wettbewerbe.jpg"
-[[images]]
-title = "Johanna und Tim zweit und drittjüngste Äquatorpreisträger aller Zeiten 2024"
-src = "images/Johanna_und_Tim_zweit_und_drittjungste_Aquatorpreistrager_aller_Zeiten_2024.jpg"
-[[images]]
-title = "Äquatorpreis Torten Regensburg 2024"
-src = "images/Aquatorpreis_Torten_Regensburg_2024.jpg"
-[[images]]
-title = "Altes Rathaus in Regensburg Ruderer 2024"
-src = "images/Altes_Rathaus_in_Regensburg_Ruderer_2024.jpg"
-[[images]]
-title = "Kallmünz Naab 2024"
-src = "images/Kallmunz_Naab_2024.jpg"
-[[images]]
-title = "Skulpturen am Ufer der Naab 2024"
-src = "images/Skulpturen_am_Ufer_der_Naab_2024.jpg"
-[[images]]
-title = "Ruderboot auf der Naab 2024"
-src = "images/Ruderboot_auf_der_Naab_2024.jpg"
-[[images]]
-title = "Winsauerpreis für den RC KST 2024"
-src = "images/Winsauerpreis_fur_den_RC_KST_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-05-01"
+date: "2024-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- naab
+images:
+- src: images/Naab_Einsetzstelle_Schirndorf_2024.jpg
+  title: Naab Einsetzstelle Schirndorf 2024
+- src: images/Schirndorf_an_der_Naab_Ruderboote_2024.jpg
+  title: Schirndorf an der Naab Ruderboote 2024
+- src: images/Ruderzweier_auf_der_Naab_2024.jpg
+  title: Ruderzweier auf der Naab 2024
+- src: images/Burg_bei_Kallmunz_an_der_Naab_2024.jpg
+  title: Burg bei Kallmünz an der Naab 2024
+- src: images/Felsen_am_Ufer_der_Naab_2024.jpg
+  title: Felsen am Ufer der Naab 2024
+- src: images/Umtragestelle_Kallmunz_Naab_2024.jpg
+  title: Umtragestelle Kallmünz Naab 2024
+- src: images/Wehr_Heizenhofen_an_der_Naab_2024.jpg
+  title: Wehr Heizenhofen an der Naab 2024
+- src: images/Naab_Mittellauf_2024_Ruderboot.jpg
+  title: Naab Mittellauf 2024 Ruderboot
+- src: images/Heizenhofen_Umtragestelle_Naab_2024.jpg
+  title: Heizenhofen Umtragestelle Naab 2024
+- src: images/Johanna_zweitjungste_weibliche_Aquatorpreistragerin_2024.jpg
+  title: Johanna zweitjüngste weibliche Äquatorpreisträgerin 2024
+- src: images/Tim_jungster_mannlicher_Aquatorpreistrager_2024.jpg
+  title: Tim jüngster männlicher Äquatorpreisträger 2024
+- src: images/WRT_2024_Stefan_35_Wettbewerbe.jpg
+  title: WRT 2024 Stefan 35 Wettbewerbe
+- src: images/Johanna_und_Tim_zweit_und_drittjungste_Aquatorpreistrager_aller_Zeiten_2024.jpg
+  title: Johanna und Tim zweit und drittjüngste Äquatorpreisträger aller Zeiten 2024
+- src: images/Aquatorpreis_Torten_Regensburg_2024.jpg
+  title: Äquatorpreis Torten Regensburg 2024
+- src: images/Altes_Rathaus_in_Regensburg_Ruderer_2024.jpg
+  title: Altes Rathaus in Regensburg Ruderer 2024
+- src: images/Kallmunz_Naab_2024.jpg
+  title: Kallmünz Naab 2024
+- src: images/Skulpturen_am_Ufer_der_Naab_2024.jpg
+  title: Skulpturen am Ufer der Naab 2024
+- src: images/Ruderboot_auf_der_Naab_2024.jpg
+  title: Ruderboot auf der Naab 2024
+- src: images/Winsauerpreis_fur_den_RC_KST_2024.jpg
+  title: Winsauerpreis für den RC KST 2024
+länder: []
+title: Naab - Donau 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,121 +1,92 @@
-+++
-title = "Finnland Inari 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["inn", "oder", "porsangenfjord", "barentssee"]
-"länder" = ["deutschland", "finnland", "norwegen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anreise zum Porsangenfjord 2012"
-src = "images/Anreise_zum_Porsangenfjord_2012.jpg"
-[[images]]
-title = "Boote einsetzen in Lakselv 2012"
-src = "images/Boote_einsetzen_in_Lakselv_2012.jpg"
-[[images]]
-title = "Start in Lakselv 2012"
-src = "images/Start_in_Lakselv_2012.jpg"
-[[images]]
-title = "Seerobe Porsangenfjord 2012"
-src = "images/Seerobe_Porsangenfjord_2012.jpg"
-[[images]]
-title = "Inrigger am Trollholmsund 2012"
-src = "images/Inrigger_am_Trollholmsund_2012.jpg"
-[[images]]
-title = "Elina und der Troll 2012"
-src = "images/Elina_und_der_Troll_2012.jpg"
-[[images]]
-title = "Trolle am Porsangenfjord 2012"
-src = "images/Trolle_am_Porsangenfjord_2012.jpg"
-[[images]]
-title = "Trollholmen Porsangenfjord Rudern 2012"
-src = "images/Trollholmen_Porsangenfjord_Rudern_2012.jpg"
-[[images]]
-title = "Nirina findet ein Rentiergeweih Porsangenfjord 2012"
-src = "images/Nirina_findet_ein_Rentiergeweih_Porsangenfjord_2012.jpg"
-[[images]]
-title = "Zweier vor Trollholmen 2012"
-src = "images/Zweier_vor_Trollholmen_2012.jpg"
-[[images]]
-title = "E-Zweier bei Repvag 2012"
-src = "images/E-Zweier_bei_Repvag_2012.jpg"
-[[images]]
-title = "Uwe mit der Seekarte Porsangenfjord 2012"
-src = "images/Uwe_mit_der_Seekarte_Porsangenfjord_2012.jpg"
-[[images]]
-title = "Rentiere auf Repvag  Porsangenfjord 2012"
-src = "images/Rentiere_auf_Repvag__Porsangenfjord_2012.jpg"
-[[images]]
-title = "Anlege im Sturm am Porsangenfjord 2012"
-src = "images/Anlege_im_Sturm_am_Porsangenfjord_2012.jpg"
-[[images]]
-title = "Klippen kurz vor dem Mageroyasund"
-src = "images/Klippen_kurz_vor_dem_Mageroyasund.jpg"
-[[images]]
-title = "Mageroya sund 2012"
-src = "images/Mageroya_sund_2012.jpg"
-[[images]]
-title = "Inrigger vor dem Gastanker Mageroya 2012"
-src = "images/Inrigger_vor_dem_Gastanker_Mageroya_2012.jpg"
-[[images]]
-title = "Zweier vor Honningsvag 2012"
-src = "images/Zweier_vor_Honningsvag_2012.jpg"
-[[images]]
-title = "Zweier kaempft vor Honningsvag 2012"
-src = "images/Zweier_kaempft_vor_Honningsvag_2012.jpg"
-[[images]]
-title = "Ruderboot auf der Barentssee 2012"
-src = "images/Ruderboot_auf_der_Barentssee_2012.jpg"
-[[images]]
-title = "Ruderboot vor der Steilkueste von Mageroya 2012"
-src = "images/Ruderboot_vor_der_Steilkueste_von_Mageroya_2012.jpg"
-[[images]]
-title = "Brandung am Kap 2012"
-src = "images/Brandung_am_Kap_2012.jpg"
-[[images]]
-title = "Ruderboot in langen Wellen der Barentssee 2012"
-src = "images/Ruderboot_in_langen_Wellen_der_Barentssee_2012.jpg"
-[[images]]
-title = "Wellen barentssee 2012"
-src = "images/Wellen_barentssee_2012.jpg"
-[[images]]
-title = "Aussetzen Kamoeyvar 2012"
-src = "images/Aussetzen_Kamoeyvar_2012.jpg"
-[[images]]
-title = "Mit dem Ruderboot rund um die Vogelinsel 2012"
-src = "images/Mit_dem_Ruderboot_rund_um_die_Vogelinsel_2012.jpg"
-[[images]]
-title = "Noerdlichster Campingplatz der Welt 2012"
-src = "images/Noerdlichster_Campingplatz_der_Welt_2012.jpg"
-[[images]]
-title = "Nordkap 2012"
-src = "images/Nordkap_2012.jpg"
-[[images]]
-title = "zwei trolle 2012"
-src = "images/zwei_trolle_2012.jpg"
-[[images]]
-title = "Ruderer am Globus am Nordkap 2012"
-src = "images/Ruderer_am_Globus_am_Nordkap_2012.jpg"
-[[images]]
-title = "Elina auf der Klippe bei Kirkeporten 2012"
-src = "images/Elina_auf_der_Klippe_bei_Kirkeporten_2012.jpg"
-[[images]]
-title = "Kirkeporten 2012"
-src = "images/Kirkeporten_2012.jpg"
-[[images]]
-title = "Blick zum Nordkap 2012"
-src = "images/Blick_zum_Nordkap_2012.jpg"
-[[images]]
-title = "Rentiere am Nordkap 2012"
-src = "images/Rentiere_am_Nordkap_2012.jpg"
-[[images]]
-title = "drei trolle und ein ent 2012"
-src = "images/drei_trolle_und_ein_ent_2012.jpg"
-[[images]]
-title = "Ruderer am Polarkreis 2012"
-src = "images/Ruderer_am_Polarkreis_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- oder
+- porsangenfjord
+- barentssee
+images:
+- src: images/Anreise_zum_Porsangenfjord_2012.jpg
+  title: Anreise zum Porsangenfjord 2012
+- src: images/Boote_einsetzen_in_Lakselv_2012.jpg
+  title: Boote einsetzen in Lakselv 2012
+- src: images/Start_in_Lakselv_2012.jpg
+  title: Start in Lakselv 2012
+- src: images/Seerobe_Porsangenfjord_2012.jpg
+  title: Seerobe Porsangenfjord 2012
+- src: images/Inrigger_am_Trollholmsund_2012.jpg
+  title: Inrigger am Trollholmsund 2012
+- src: images/Elina_und_der_Troll_2012.jpg
+  title: Elina und der Troll 2012
+- src: images/Trolle_am_Porsangenfjord_2012.jpg
+  title: Trolle am Porsangenfjord 2012
+- src: images/Trollholmen_Porsangenfjord_Rudern_2012.jpg
+  title: Trollholmen Porsangenfjord Rudern 2012
+- src: images/Nirina_findet_ein_Rentiergeweih_Porsangenfjord_2012.jpg
+  title: Nirina findet ein Rentiergeweih Porsangenfjord 2012
+- src: images/Zweier_vor_Trollholmen_2012.jpg
+  title: Zweier vor Trollholmen 2012
+- src: images/E-Zweier_bei_Repvag_2012.jpg
+  title: E-Zweier bei Repvag 2012
+- src: images/Uwe_mit_der_Seekarte_Porsangenfjord_2012.jpg
+  title: Uwe mit der Seekarte Porsangenfjord 2012
+- src: images/Rentiere_auf_Repvag__Porsangenfjord_2012.jpg
+  title: Rentiere auf Repvag  Porsangenfjord 2012
+- src: images/Anlege_im_Sturm_am_Porsangenfjord_2012.jpg
+  title: Anlege im Sturm am Porsangenfjord 2012
+- src: images/Klippen_kurz_vor_dem_Mageroyasund.jpg
+  title: Klippen kurz vor dem Mageroyasund
+- src: images/Mageroya_sund_2012.jpg
+  title: Mageroya sund 2012
+- src: images/Inrigger_vor_dem_Gastanker_Mageroya_2012.jpg
+  title: Inrigger vor dem Gastanker Mageroya 2012
+- src: images/Zweier_vor_Honningsvag_2012.jpg
+  title: Zweier vor Honningsvag 2012
+- src: images/Zweier_kaempft_vor_Honningsvag_2012.jpg
+  title: Zweier kaempft vor Honningsvag 2012
+- src: images/Ruderboot_auf_der_Barentssee_2012.jpg
+  title: Ruderboot auf der Barentssee 2012
+- src: images/Ruderboot_vor_der_Steilkueste_von_Mageroya_2012.jpg
+  title: Ruderboot vor der Steilkueste von Mageroya 2012
+- src: images/Brandung_am_Kap_2012.jpg
+  title: Brandung am Kap 2012
+- src: images/Ruderboot_in_langen_Wellen_der_Barentssee_2012.jpg
+  title: Ruderboot in langen Wellen der Barentssee 2012
+- src: images/Wellen_barentssee_2012.jpg
+  title: Wellen barentssee 2012
+- src: images/Aussetzen_Kamoeyvar_2012.jpg
+  title: Aussetzen Kamoeyvar 2012
+- src: images/Mit_dem_Ruderboot_rund_um_die_Vogelinsel_2012.jpg
+  title: Mit dem Ruderboot rund um die Vogelinsel 2012
+- src: images/Noerdlichster_Campingplatz_der_Welt_2012.jpg
+  title: Noerdlichster Campingplatz der Welt 2012
+- src: images/Nordkap_2012.jpg
+  title: Nordkap 2012
+- src: images/zwei_trolle_2012.jpg
+  title: zwei trolle 2012
+- src: images/Ruderer_am_Globus_am_Nordkap_2012.jpg
+  title: Ruderer am Globus am Nordkap 2012
+- src: images/Elina_auf_der_Klippe_bei_Kirkeporten_2012.jpg
+  title: Elina auf der Klippe bei Kirkeporten 2012
+- src: images/Kirkeporten_2012.jpg
+  title: Kirkeporten 2012
+- src: images/Blick_zum_Nordkap_2012.jpg
+  title: Blick zum Nordkap 2012
+- src: images/Rentiere_am_Nordkap_2012.jpg
+  title: Rentiere am Nordkap 2012
+- src: images/drei_trolle_und_ein_ent_2012.jpg
+  title: drei trolle und ein ent 2012
+- src: images/Ruderer_am_Polarkreis_2012.jpg
+  title: Ruderer am Polarkreis 2012
+länder:
+- deutschland
+- finnland
+- norwegen
+title: Finnland Inari 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

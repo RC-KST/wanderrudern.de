@@ -1,37 +1,31 @@
-+++
-title = "Werder Kinderfahrt 2011"
-author = ""
-date = 2011-05-05T01:00:00+02:00
-begin = "2011-05-01"
-"gewässer" = ["schwielowsee", "wublitz"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ablegen beim RC KST 2011"
-src = "images/Ablegen_beim_RC_KST_2011.jpg"
-[[images]]
-title = "Ruderboote auf der Wublitz We11"
-src = "images/Ruderboote_auf_der_Wublitz_We11.jpg"
-[[images]]
-title = "Badende Ruderinnen We11"
-src = "images/Badende_Ruderinnen_We11.jpg"
-[[images]]
-title = "Vierer Wublitz We11"
-src = "images/Vierer_Wublitz_We11.jpg"
-[[images]]
-title = "Ruderer in Werder We11"
-src = "images/Ruderer_in_Werder_We11.jpg"
-[[images]]
-title = "Ruderzweier Wublitz We11"
-src = "images/Ruderzweier_Wublitz_We11.jpg"
-[[images]]
-title = "Blondie ist im Boot We11"
-src = "images/Blondie_ist_im_Boot_We11.jpg"
-[[images]]
-title = "Bamby We11"
-src = "images/Bamby_We11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-05-01"
+date: "2011-05-05T01:00:00+02:00"
+gewässer:
+- schwielowsee
+- wublitz
+images:
+- src: images/Ablegen_beim_RC_KST_2011.jpg
+  title: Ablegen beim RC KST 2011
+- src: images/Ruderboote_auf_der_Wublitz_We11.jpg
+  title: Ruderboote auf der Wublitz We11
+- src: images/Badende_Ruderinnen_We11.jpg
+  title: Badende Ruderinnen We11
+- src: images/Vierer_Wublitz_We11.jpg
+  title: Vierer Wublitz We11
+- src: images/Ruderer_in_Werder_We11.jpg
+  title: Ruderer in Werder We11
+- src: images/Ruderzweier_Wublitz_We11.jpg
+  title: Ruderzweier Wublitz We11
+- src: images/Blondie_ist_im_Boot_We11.jpg
+  title: Blondie ist im Boot We11
+- src: images/Bamby_We11.jpg
+  title: Bamby We11
+länder: []
+title: Werder Kinderfahrt 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

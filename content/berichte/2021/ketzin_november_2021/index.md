@@ -1,19 +1,18 @@
-+++
-title = "Ketzin November 2021"
-author = ""
-date = 2021-11-11T01:00:00+02:00
-begin = "2021-11-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Quartier Ketzin November 2021"
-src = "images/Quartier_Ketzin_November_2021.jpg"
-[[images]]
-title = "Steg in Brandenburg Havel 2021 November"
-src = "images/Steg_in_Brandenburg_Havel_2021_November.jpg"
-
-+++
+---
+author: ""
+begin: "2021-11-01"
+date: "2021-11-11T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Quartier_Ketzin_November_2021.jpg
+  title: Quartier Ketzin November 2021
+- src: images/Steg_in_Brandenburg_Havel_2021_November.jpg
+  title: Steg in Brandenburg Havel 2021 November
+länder: []
+title: Ketzin November 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

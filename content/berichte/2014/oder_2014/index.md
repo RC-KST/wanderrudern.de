@@ -1,28 +1,25 @@
-+++
-title = "Oder 2014"
-author = ""
-date = 2014-05-05T01:00:00+02:00
-begin = "2014-05-01"
-"gewässer" = ["oder"]
-"länder" = ["tschechien"]
-"typ" = "marathon"
-[[images]]
-title = "wenns mal nicht regnet kann man anders nass werden oder 2014"
-src = "images/wenns_mal_nicht_regnet_kann_man_anders_nass_werden_oder_2014.jpg"
-[[images]]
-title = "im dauerregen auf der oder 2014"
-src = "images/im_dauerregen_auf_der_oder_2014.jpg"
-[[images]]
-title = "faehrrampe Brzeg Dolny ruderboote oder 2014"
-src = "images/faehrrampe_Brzeg_Dolny_ruderboote_oder_2014.jpg"
-[[images]]
-title = "Ruderboote auf der Oder 2014"
-src = "images/Ruderboote_auf_der_Oder_2014.jpg"
-[[images]]
-title = "Nowa Sol Start am Sonntag morgen mal ohne regen oder2014"
-src = "images/Nowa_Sol_Start_am_Sonntag_morgen_mal_ohne_regen_oder2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-05-01"
+date: "2014-05-05T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/wenns_mal_nicht_regnet_kann_man_anders_nass_werden_oder_2014.jpg
+  title: wenns mal nicht regnet kann man anders nass werden oder 2014
+- src: images/im_dauerregen_auf_der_oder_2014.jpg
+  title: im dauerregen auf der oder 2014
+- src: images/faehrrampe_Brzeg_Dolny_ruderboote_oder_2014.jpg
+  title: faehrrampe Brzeg Dolny ruderboote oder 2014
+- src: images/Ruderboote_auf_der_Oder_2014.jpg
+  title: Ruderboote auf der Oder 2014
+- src: images/Nowa_Sol_Start_am_Sonntag_morgen_mal_ohne_regen_oder2014.jpg
+  title: Nowa Sol Start am Sonntag morgen mal ohne regen oder2014
+länder:
+- tschechien
+title: Oder 2014
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

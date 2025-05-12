@@ -1,31 +1,30 @@
-+++
-title = "Spreewald 2002"
-author = ""
-date = 2002-11-11T01:00:00+02:00
-begin = "2002-11-01"
-"gewässer" = ["spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kindervierer im Spreewald Ruderboot"
-src = "images/vierersp02.jpg"
-[[images]]
-title = "Spreewald rudern"
-src = "images/spreekahnsp02.jpg"
-[[images]]
-title = "Spreewaldschleuse Ruderboote"
-src = "images/schleuse2sp02.jpg"
-[[images]]
-title = "Martina rudernd auf der Spree"
-src = "images/brueckesp02.jpg"
-[[images]]
-title = "Schwielochsee Vierer Ruderboot"
-src = "images/kindervierersp02.jpg"
-[[images]]
-title = "Baden im See vom Boot aus"
-src = "images/badensp02.jpg"
-
-+++
+---
+author: ""
+begin: "2002-11-01"
+date: "2002-11-11T01:00:00+02:00"
+gewässer:
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+images:
+- src: images/vierersp02.jpg
+  title: Kindervierer im Spreewald Ruderboot
+- src: images/spreekahnsp02.jpg
+  title: Spreewald rudern
+- src: images/schleuse2sp02.jpg
+  title: Spreewaldschleuse Ruderboote
+- src: images/brueckesp02.jpg
+  title: Martina rudernd auf der Spree
+- src: images/kindervierersp02.jpg
+  title: Schwielochsee Vierer Ruderboot
+- src: images/badensp02.jpg
+  title: Baden im See vom Boot aus
+länder: []
+title: Spreewald 2002
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

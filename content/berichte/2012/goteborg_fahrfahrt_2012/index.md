@@ -1,55 +1,42 @@
-+++
-title = "Göteborg Fährfahrt 2012"
-author = ""
-date = 2012-02-02T01:00:00+02:00
-begin = "2012-02-01"
-"gewässer" = ["aller"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "auf der Komanndobruecke 2012"
-src = "images/auf_der_Komanndobruecke_2012.jpg"
-[[images]]
-title = "Elina Bruecke Goeteborg 2012"
-src = "images/Elina_Bruecke_Goeteborg_2012.jpg"
-[[images]]
-title = "Ruderer in Kiel auf der Stena Germanica 2012"
-src = "images/Ruderer_in_Kiel_auf_der_Stena_Germanica_2012.jpg"
-[[images]]
-title = "Stena Germanica ablegen in Kiel 2012"
-src = "images/Stena_Germanica_ablegen_in_Kiel_2012.jpg"
-[[images]]
-title = "Riesenaquarium Goeteborg 2012"
-src = "images/Riesenaquarium_Goeteborg_2012.jpg"
-[[images]]
-title = "Jens beim Astronautentest 2012"
-src = "images/Jens_beim_Astronautentest_2012.jpg"
-[[images]]
-title = "Laurie im Nasa Stuhl 2012"
-src = "images/Laurie_im_Nasa_Stuhl_2012.jpg"
-[[images]]
-title = "Elina Nirina im Maul 2012"
-src = "images/Elina_Nirina_im_Maul_2012.jpg"
-[[images]]
-title = "Strassenbahnhaltestelle Goeteborg 2012"
-src = "images/Strassenbahnhaltestelle_Goeteborg_2012.jpg"
-[[images]]
-title = "Rudererinsel Goeteborg 2012"
-src = "images/Rudererinsel_Goeteborg_2012.jpg"
-[[images]]
-title = "Ruderer in Goeteborg 2012"
-src = "images/Ruderer_in_Goeteborg_2012.jpg"
-[[images]]
-title = "Jens Elina Goeteborg 2012"
-src = "images/Jens_Elina_Goeteborg_2012.jpg"
-[[images]]
-title = "Elina Nirina Goeteborg 2012"
-src = "images/Elina_Nirina_Goeteborg_2012.jpg"
-[[images]]
-title = "Blick aus dem Bullauge Stena 2012"
-src = "images/Blick_aus_dem_Bullauge_Stena_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-02-01"
+date: "2012-02-02T01:00:00+02:00"
+gewässer:
+- aller
+images:
+- src: images/auf_der_Komanndobruecke_2012.jpg
+  title: auf der Komanndobruecke 2012
+- src: images/Elina_Bruecke_Goeteborg_2012.jpg
+  title: Elina Bruecke Goeteborg 2012
+- src: images/Ruderer_in_Kiel_auf_der_Stena_Germanica_2012.jpg
+  title: Ruderer in Kiel auf der Stena Germanica 2012
+- src: images/Stena_Germanica_ablegen_in_Kiel_2012.jpg
+  title: Stena Germanica ablegen in Kiel 2012
+- src: images/Riesenaquarium_Goeteborg_2012.jpg
+  title: Riesenaquarium Goeteborg 2012
+- src: images/Jens_beim_Astronautentest_2012.jpg
+  title: Jens beim Astronautentest 2012
+- src: images/Laurie_im_Nasa_Stuhl_2012.jpg
+  title: Laurie im Nasa Stuhl 2012
+- src: images/Elina_Nirina_im_Maul_2012.jpg
+  title: Elina Nirina im Maul 2012
+- src: images/Strassenbahnhaltestelle_Goeteborg_2012.jpg
+  title: Strassenbahnhaltestelle Goeteborg 2012
+- src: images/Rudererinsel_Goeteborg_2012.jpg
+  title: Rudererinsel Goeteborg 2012
+- src: images/Ruderer_in_Goeteborg_2012.jpg
+  title: Ruderer in Goeteborg 2012
+- src: images/Jens_Elina_Goeteborg_2012.jpg
+  title: Jens Elina Goeteborg 2012
+- src: images/Elina_Nirina_Goeteborg_2012.jpg
+  title: Elina Nirina Goeteborg 2012
+- src: images/Blick_aus_dem_Bullauge_Stena_2012.jpg
+  title: Blick aus dem Bullauge Stena 2012
+länder: []
+title: Göteborg Fährfahrt 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

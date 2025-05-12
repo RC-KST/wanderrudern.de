@@ -1,16 +1,18 @@
-+++
-title = "Stahnsdorf - Schnackenburg Nov 2011"
-author = ""
-date = 2011-07-07T01:00:00+02:00
-begin = "2011-07-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schleuse Havelberg Ex11"
-src = "images/Schleuse_Havelberg_Ex11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-07-01"
+date: "2011-07-07T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Schleuse_Havelberg_Ex11.jpg
+  title: Schleuse Havelberg Ex11
+länder: []
+title: Stahnsdorf - Schnackenburg Nov 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

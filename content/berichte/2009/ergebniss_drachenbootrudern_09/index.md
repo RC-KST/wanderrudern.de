@@ -1,19 +1,17 @@
-+++
-title = "Drachenbootcup 2009"
-author = ""
-date = 2009-01-01T01:00:00+02:00
-begin = "2009-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Drachenboot Siegerehrung Wikinger 09"
-src = "images/Drachenboot_Siegerehrung_Wikinger_09.jpg"
-[[images]]
-title = "Drachenboot Siegerehrung EON 09"
-src = "images/Drachenboot_Siegerehrung_EON_09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-01-01"
+date: "2009-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Drachenboot_Siegerehrung_Wikinger_09.jpg
+  title: Drachenboot Siegerehrung Wikinger 09
+- src: images/Drachenboot_Siegerehrung_EON_09.jpg
+  title: Drachenboot Siegerehrung EON 09
+länder: []
+title: Drachenbootcup 2009
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

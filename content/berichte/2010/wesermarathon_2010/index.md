@@ -1,31 +1,29 @@
-+++
-title = "Wesermarathon 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["weser", "werra", "aller", "narew"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Riggern der Boote in Eschwege WM2010"
-src = "images/Riggern_der_Boote_in_Eschwege_WM2010.jpg"
-[[images]]
-title = "Schleuse Eschwege Ruderboote WM2010"
-src = "images/Schleuse_Eschwege_Ruderboote_WM2010.jpg"
-[[images]]
-title = "Wesermarathon Ruderboot WM2010"
-src = "images/Wesermarathon_Ruderboot_WM2010.jpg"
-[[images]]
-title = "Ablegen Ruderboote Eschwege RC KST WM2010"
-src = "images/Ablegen_Ruderboote_Eschwege_RC_KST_WM2010.jpg"
-[[images]]
-title = "Werra Wehr Muenden WM2010"
-src = "images/Werra_Wehr_Muenden_WM2010.jpg"
-[[images]]
-title = "Wesermarathon Gold Ruderclub Kleinmachnow WM2010"
-src = "images/Wesermarathon_Gold_Ruderclub_Kleinmachnow_WM2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- weser
+- werra
+- aller
+- narew
+images:
+- src: images/Riggern_der_Boote_in_Eschwege_WM2010.jpg
+  title: Riggern der Boote in Eschwege WM2010
+- src: images/Schleuse_Eschwege_Ruderboote_WM2010.jpg
+  title: Schleuse Eschwege Ruderboote WM2010
+- src: images/Wesermarathon_Ruderboot_WM2010.jpg
+  title: Wesermarathon Ruderboot WM2010
+- src: images/Ablegen_Ruderboote_Eschwege_RC_KST_WM2010.jpg
+  title: Ablegen Ruderboote Eschwege RC KST WM2010
+- src: images/Werra_Wehr_Muenden_WM2010.jpg
+  title: Werra Wehr Muenden WM2010
+- src: images/Wesermarathon_Gold_Ruderclub_Kleinmachnow_WM2010.jpg
+  title: Wesermarathon Gold Ruderclub Kleinmachnow WM2010
+länder: []
+title: Wesermarathon 2010
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

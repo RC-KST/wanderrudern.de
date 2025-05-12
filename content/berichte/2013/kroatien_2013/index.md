@@ -1,106 +1,79 @@
-+++
-title = "Kroatienblog 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["oder", "krka"]
-"länder" = ["deutschland", "österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jonathan laedt material ein Kroatien 2013"
-src = "images/Jonathan_laedt_material_ein_Kroatien_2013.jpg"
-[[images]]
-title = "Bootsanhaenger in den Alpen Silvester 2013"
-src = "images/Bootsanhaenger_in_den_Alpen_Silvester_2013.jpg"
-[[images]]
-title = "Hotelparkplatz fuer Boote Maribor 2013"
-src = "images/Hotelparkplatz_fuer_Boote_Maribor_2013.jpg"
-[[images]]
-title = "sonnenuntergang jadirja kroatien 2013"
-src = "images/sonnenuntergang_jadirja_kroatien_2013.jpg"
-[[images]]
-title = "unterwasserfoto kroatien 2013"
-src = "images/unterwasserfoto_kroatien_2013.jpg"
-[[images]]
-title = "vom Velebit zur Adria Silvester 2013"
-src = "images/vom_Velebit_zur_Adria_Silvester_2013.jpg"
-[[images]]
-title = "erster abend am strand kroatien 2013"
-src = "images/erster_abend_am_strand_kroatien_2013.jpg"
-[[images]]
-title = "eis essen dezember kroatien 2013"
-src = "images/eis_essen_dezember_kroatien_2013.jpg"
-[[images]]
-title = "ruderboot auf den weg zu den kornaten kroatien 2013"
-src = "images/ruderboot_auf_den_weg_zu_den_kornaten_kroatien_2013.jpg"
-[[images]]
-title = "ruderboot kornaten 2013"
-src = "images/ruderboot_kornaten_2013.jpg"
-[[images]]
-title = "jiajia vor sibenik kroatien 2013"
-src = "images/jiajia_vor_sibenik_kroatien_2013.jpg"
-[[images]]
-title = "inrigger vor sibenik kroatien 2013"
-src = "images/inrigger_vor_sibenik_kroatien_2013.jpg"
-[[images]]
-title = "Ruderboote vor Zaton Kroatien 2013"
-src = "images/Ruderboote_vor_Zaton_Kroatien_2013.jpg"
-[[images]]
-title = "sibenik festung kroatien 2013"
-src = "images/sibenik_festung_kroatien_2013.jpg"
-[[images]]
-title = "ruderboote bei tribunji kroatien 2013"
-src = "images/ruderboote_bei_tribunji_kroatien_2013.jpg"
-[[images]]
-title = "Kroatische Kueste im Ruderboot 2013"
-src = "images/Kroatische_Kueste_im_Ruderboot_2013.jpg"
-[[images]]
-title = "Ruderer vor der Sibeniker Festung 2013"
-src = "images/Ruderer_vor_der_Sibeniker_Festung_2013.jpg"
-[[images]]
-title = "jenny oberhalb der wasserfaelle kroatien 2013"
-src = "images/jenny_oberhalb_der_wasserfaelle_kroatien_2013.jpg"
-[[images]]
-title = "tal des krka sibenik 2013"
-src = "images/tal_des_krka_sibenik_2013.jpg"
-[[images]]
-title = "maedchen an den krka wasserfaellen kroatien 2013"
-src = "images/maedchen_an_den_krka_wasserfaellen_kroatien_2013.jpg"
-[[images]]
-title = "krka faelle von oben kroatien 2013"
-src = "images/krka_faelle_von_oben_kroatien_2013.jpg"
-[[images]]
-title = "Abendessen Raclette in Kroatien 2013"
-src = "images/Abendessen_Raclette_in_Kroatien_2013.jpg"
-[[images]]
-title = "kroatische inseln mit dem ruderboot 2013"
-src = "images/kroatische_inseln_mit_dem_ruderboot_2013.jpg"
-[[images]]
-title = "ruderboot fjord von grebastica kroatien 2014"
-src = "images/ruderboot_fjord_von_grebastica_kroatien_2014.jpg"
-[[images]]
-title = "ruderboot auf suedkurs kroatien 2013"
-src = "images/ruderboot_auf_suedkurs_kroatien_2013.jpg"
-[[images]]
-title = "inrigger auf den weg in die kroatische inselwelt 2013"
-src = "images/inrigger_auf_den_weg_in_die_kroatische_inselwelt_2013.jpg"
-[[images]]
-title = "kuechendienst kroatien 2013"
-src = "images/kuechendienst_kroatien_2013.jpg"
-[[images]]
-title = "ruderboot auf dem weg zu den wasserfaellen krka 2014"
-src = "images/ruderboot_auf_dem_weg_zu_den_wasserfaellen_krka_2014.jpg"
-[[images]]
-title = "ruderer direkt vor den wasserfaellen kroatien 2013"
-src = "images/ruderer_direkt_vor_den_wasserfaellen_kroatien_2013.jpg"
-[[images]]
-title = "Canyon des Krka 2014"
-src = "images/Canyon_des_Krka_2014.jpg"
-[[images]]
-title = "krka wasserfaelle von unten mit dem ruderboot kroatien 2013"
-src = "images/krka_wasserfaelle_von_unten_mit_dem_ruderboot_kroatien_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- oder
+- krka
+images:
+- src: images/Jonathan_laedt_material_ein_Kroatien_2013.jpg
+  title: Jonathan laedt material ein Kroatien 2013
+- src: images/Bootsanhaenger_in_den_Alpen_Silvester_2013.jpg
+  title: Bootsanhaenger in den Alpen Silvester 2013
+- src: images/Hotelparkplatz_fuer_Boote_Maribor_2013.jpg
+  title: Hotelparkplatz fuer Boote Maribor 2013
+- src: images/sonnenuntergang_jadirja_kroatien_2013.jpg
+  title: sonnenuntergang jadirja kroatien 2013
+- src: images/unterwasserfoto_kroatien_2013.jpg
+  title: unterwasserfoto kroatien 2013
+- src: images/vom_Velebit_zur_Adria_Silvester_2013.jpg
+  title: vom Velebit zur Adria Silvester 2013
+- src: images/erster_abend_am_strand_kroatien_2013.jpg
+  title: erster abend am strand kroatien 2013
+- src: images/eis_essen_dezember_kroatien_2013.jpg
+  title: eis essen dezember kroatien 2013
+- src: images/ruderboot_auf_den_weg_zu_den_kornaten_kroatien_2013.jpg
+  title: ruderboot auf den weg zu den kornaten kroatien 2013
+- src: images/ruderboot_kornaten_2013.jpg
+  title: ruderboot kornaten 2013
+- src: images/jiajia_vor_sibenik_kroatien_2013.jpg
+  title: jiajia vor sibenik kroatien 2013
+- src: images/inrigger_vor_sibenik_kroatien_2013.jpg
+  title: inrigger vor sibenik kroatien 2013
+- src: images/Ruderboote_vor_Zaton_Kroatien_2013.jpg
+  title: Ruderboote vor Zaton Kroatien 2013
+- src: images/sibenik_festung_kroatien_2013.jpg
+  title: sibenik festung kroatien 2013
+- src: images/ruderboote_bei_tribunji_kroatien_2013.jpg
+  title: ruderboote bei tribunji kroatien 2013
+- src: images/Kroatische_Kueste_im_Ruderboot_2013.jpg
+  title: Kroatische Kueste im Ruderboot 2013
+- src: images/Ruderer_vor_der_Sibeniker_Festung_2013.jpg
+  title: Ruderer vor der Sibeniker Festung 2013
+- src: images/jenny_oberhalb_der_wasserfaelle_kroatien_2013.jpg
+  title: jenny oberhalb der wasserfaelle kroatien 2013
+- src: images/tal_des_krka_sibenik_2013.jpg
+  title: tal des krka sibenik 2013
+- src: images/maedchen_an_den_krka_wasserfaellen_kroatien_2013.jpg
+  title: maedchen an den krka wasserfaellen kroatien 2013
+- src: images/krka_faelle_von_oben_kroatien_2013.jpg
+  title: krka faelle von oben kroatien 2013
+- src: images/Abendessen_Raclette_in_Kroatien_2013.jpg
+  title: Abendessen Raclette in Kroatien 2013
+- src: images/kroatische_inseln_mit_dem_ruderboot_2013.jpg
+  title: kroatische inseln mit dem ruderboot 2013
+- src: images/ruderboot_fjord_von_grebastica_kroatien_2014.jpg
+  title: ruderboot fjord von grebastica kroatien 2014
+- src: images/ruderboot_auf_suedkurs_kroatien_2013.jpg
+  title: ruderboot auf suedkurs kroatien 2013
+- src: images/inrigger_auf_den_weg_in_die_kroatische_inselwelt_2013.jpg
+  title: inrigger auf den weg in die kroatische inselwelt 2013
+- src: images/kuechendienst_kroatien_2013.jpg
+  title: kuechendienst kroatien 2013
+- src: images/ruderboot_auf_dem_weg_zu_den_wasserfaellen_krka_2014.jpg
+  title: ruderboot auf dem weg zu den wasserfaellen krka 2014
+- src: images/ruderer_direkt_vor_den_wasserfaellen_kroatien_2013.jpg
+  title: ruderer direkt vor den wasserfaellen kroatien 2013
+- src: images/Canyon_des_Krka_2014.jpg
+  title: Canyon des Krka 2014
+- src: images/krka_wasserfaelle_von_unten_mit_dem_ruderboot_kroatien_2013.jpg
+  title: krka wasserfaelle von unten mit dem ruderboot kroatien 2013
+länder:
+- deutschland
+- österreich
+title: Kroatienblog 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

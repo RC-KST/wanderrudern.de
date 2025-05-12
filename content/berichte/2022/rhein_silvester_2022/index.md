@@ -1,67 +1,51 @@
-+++
-title = "Rhein Silvester 2022"
-author = ""
-date = 2022-05-05T01:00:00+02:00
-begin = "2022-05-01"
-"gewässer" = ["rhein", "neckar"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Feuerwerk über Monheim Silvester 2022"
-src = "images/Feuerwerk_uber_Monheim_Silvester_2022.jpg"
-[[images]]
-title = "Ruderboot am Hafen Neuss Silvester 2022"
-src = "images/Ruderboot_am_Hafen_Neuss_Silvester_2022.jpg"
-[[images]]
-title = "Baumgarten E-Zweier am Rhein Silvester 2022"
-src = "images/Baumgarten_E-Zweier_am_Rhein_Silvester_2022.jpg"
-[[images]]
-title = "Lampertheimer Altrhein Silvester 2022"
-src = "images/Lampertheimer_Altrhein_Silvester_2022.jpg"
-[[images]]
-title = "E-Zweier auf dem Rhein Silvester 2022"
-src = "images/E-Zweier_auf_dem_Rhein_Silvester_2022.jpg"
-[[images]]
-title = "Ruderboot in Lahnstein Silvester 2022"
-src = "images/Ruderboot_in_Lahnstein_Silvester_2022.jpg"
-[[images]]
-title = "Köln Durchfahrt mit dem Ruderboot Silvester 2022"
-src = "images/Koln_Durchfahrt_mit_dem_Ruderboot_Silvester_2022.jpg"
-[[images]]
-title = "Start in Phillipsburg Silvester 2022"
-src = "images/Start_in_Phillipsburg_Silvester_2022.jpg"
-[[images]]
-title = "Nirina auf dem Rhein Silvester 2022"
-src = "images/Nirina_auf_dem_Rhein_Silvester_2022.jpg"
-[[images]]
-title = "Marika auf dem Rhein Silvester 2022"
-src = "images/Marika_auf_dem_Rhein_Silvester_2022.jpg"
-[[images]]
-title = "Ruderboot vor Worms Silvester 20222"
-src = "images/Ruderboot_vor_Worms_Silvester_20222.jpg"
-[[images]]
-title = "Schiffsverkehr iim Binger Loch Silvester 2022"
-src = "images/Schiffsverkehr_iim_Binger_Loch_Silvester_2022.jpg"
-[[images]]
-title = "Ruderboot an der Loreley Silvester 2022"
-src = "images/Ruderboot_an_der_Loreley_Silvester_2022.jpg"
-[[images]]
-title = "Ruderzweier in St Goarshausen Silvester 2022"
-src = "images/Ruderzweier_in_St_Goarshausen_Silvester_2022.jpg"
-[[images]]
-title = "Deutsches Eck Mosel SIlvester 2022"
-src = "images/Deutsches_Eck_Mosel_SIlvester_2022.jpg"
-[[images]]
-title = "Ruderer Abendessen in Bönn Silvesterfahrt 2022"
-src = "images/Ruderer_Abendessen_in_Bonn_Silvesterfahrt_2022.jpg"
-[[images]]
-title = "Dormagen auf dem Rudersteg Silvester 2022"
-src = "images/Dormagen_auf_dem_Rudersteg_Silvester_2022.jpg"
-[[images]]
-title = "Silvesteressen in Dormagen 2022"
-src = "images/Silvesteressen_in_Dormagen_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-05-01"
+date: "2022-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+- neckar
+images:
+- src: images/Feuerwerk_uber_Monheim_Silvester_2022.jpg
+  title: Feuerwerk über Monheim Silvester 2022
+- src: images/Ruderboot_am_Hafen_Neuss_Silvester_2022.jpg
+  title: Ruderboot am Hafen Neuss Silvester 2022
+- src: images/Baumgarten_E-Zweier_am_Rhein_Silvester_2022.jpg
+  title: Baumgarten E-Zweier am Rhein Silvester 2022
+- src: images/Lampertheimer_Altrhein_Silvester_2022.jpg
+  title: Lampertheimer Altrhein Silvester 2022
+- src: images/E-Zweier_auf_dem_Rhein_Silvester_2022.jpg
+  title: E-Zweier auf dem Rhein Silvester 2022
+- src: images/Ruderboot_in_Lahnstein_Silvester_2022.jpg
+  title: Ruderboot in Lahnstein Silvester 2022
+- src: images/Koln_Durchfahrt_mit_dem_Ruderboot_Silvester_2022.jpg
+  title: Köln Durchfahrt mit dem Ruderboot Silvester 2022
+- src: images/Start_in_Phillipsburg_Silvester_2022.jpg
+  title: Start in Phillipsburg Silvester 2022
+- src: images/Nirina_auf_dem_Rhein_Silvester_2022.jpg
+  title: Nirina auf dem Rhein Silvester 2022
+- src: images/Marika_auf_dem_Rhein_Silvester_2022.jpg
+  title: Marika auf dem Rhein Silvester 2022
+- src: images/Ruderboot_vor_Worms_Silvester_20222.jpg
+  title: Ruderboot vor Worms Silvester 20222
+- src: images/Schiffsverkehr_iim_Binger_Loch_Silvester_2022.jpg
+  title: Schiffsverkehr iim Binger Loch Silvester 2022
+- src: images/Ruderboot_an_der_Loreley_Silvester_2022.jpg
+  title: Ruderboot an der Loreley Silvester 2022
+- src: images/Ruderzweier_in_St_Goarshausen_Silvester_2022.jpg
+  title: Ruderzweier in St Goarshausen Silvester 2022
+- src: images/Deutsches_Eck_Mosel_SIlvester_2022.jpg
+  title: Deutsches Eck Mosel SIlvester 2022
+- src: images/Ruderer_Abendessen_in_Bonn_Silvesterfahrt_2022.jpg
+  title: Ruderer Abendessen in Bönn Silvesterfahrt 2022
+- src: images/Dormagen_auf_dem_Rudersteg_Silvester_2022.jpg
+  title: Dormagen auf dem Rudersteg Silvester 2022
+- src: images/Silvesteressen_in_Dormagen_2022.jpg
+  title: Silvesteressen in Dormagen 2022
+länder: []
+title: Rhein Silvester 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,40 +1,35 @@
-+++
-title = "Elb-Havel-Dreieck 2006"
-author = ""
-date = 2006-01-01T01:00:00+02:00
-begin = "2006-01-01"
-"gewässer" = ["elbe", "havel", "plauer see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "El-Havel-Dreieck Silvester06"
-src = "images/El-Havel-Dreieck_Silvester06.jpg"
-[[images]]
-title = "Stahnsdorf_Start im Nebel Sv06"
-src = "images/Stahnsdorf_Start_im_Nebel_Sv06.jpg"
-[[images]]
-title = "Verladen des Gepaecks Sv06"
-src = "images/Verladen_des_Gepaecks_Sv06.jpg"
-[[images]]
-title = "Stahnsdorf Rudern im Nebel Sv06"
-src = "images/Stahnsdorf_Rudern_im_Nebel_Sv06.jpg"
-[[images]]
-title = "Steg Plaue Silvester 06"
-src = "images/Steg_Plaue_Silvester_06.jpg"
-[[images]]
-title = "Silvesterfeuerwerk 06 Plauer See"
-src = "images/Silvesterfeuerwerk_06_Plauer_See.jpg"
-[[images]]
-title = "Silvesterfeuerwerk 06 Kirchmoeser"
-src = "images/Silvesterfeuerwerk_06_Kirchmoeser.jpg"
-[[images]]
-title = "Ruderer feiern Silvester 06"
-src = "images/Ruderer_feiern_Silvester_06.jpg"
-[[images]]
-title = "Luftbild Plaue Silvester06"
-src = "images/Luftbild_Plaue_Silvester06.jpg"
-
-+++
+---
+author: ""
+begin: "2006-01-01"
+date: "2006-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- oder
+images:
+- src: images/El-Havel-Dreieck_Silvester06.jpg
+  title: El-Havel-Dreieck Silvester06
+- src: images/Stahnsdorf_Start_im_Nebel_Sv06.jpg
+  title: Stahnsdorf_Start im Nebel Sv06
+- src: images/Verladen_des_Gepaecks_Sv06.jpg
+  title: Verladen des Gepaecks Sv06
+- src: images/Stahnsdorf_Rudern_im_Nebel_Sv06.jpg
+  title: Stahnsdorf Rudern im Nebel Sv06
+- src: images/Steg_Plaue_Silvester_06.jpg
+  title: Steg Plaue Silvester 06
+- src: images/Silvesterfeuerwerk_06_Plauer_See.jpg
+  title: Silvesterfeuerwerk 06 Plauer See
+- src: images/Silvesterfeuerwerk_06_Kirchmoeser.jpg
+  title: Silvesterfeuerwerk 06 Kirchmoeser
+- src: images/Ruderer_feiern_Silvester_06.jpg
+  title: Ruderer feiern Silvester 06
+- src: images/Luftbild_Plaue_Silvester06.jpg
+  title: Luftbild Plaue Silvester06
+länder: []
+title: Elb-Havel-Dreieck 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

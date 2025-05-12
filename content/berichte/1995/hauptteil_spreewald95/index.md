@@ -1,40 +1,38 @@
-+++
-title = "Spreewald 1995"
-author = ""
-date = 1995-01-01T01:00:00+02:00
-begin = "1995-01-01"
-"gewässer" = ["dahme", "spree", "oder-spree-kanal", "spreewald", "wannsee", "schwielochsee", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "frauke Dahme Schleuse"
-src = "images/frauke.jpg"
-[[images]]
-title = "wehr Märkisch Buchholz "
-src = "images/wehr.jpg"
-[[images]]
-title = "schleuse spreewald heftige Strömung ruderboot"
-src = "images/schleuse_spreewald95.jpg"
-[[images]]
-title = "einfahrt in spreewald-schleuse mit Ruderboot"
-src = "images/einfahrt.jpg"
-[[images]]
-title = "im spreewald mit ruderboot"
-src = "images/spreewald.jpg"
-[[images]]
-title = "ruderboote umtragen"
-src = "images/umtragen.jpg"
-[[images]]
-title = "schaffotschleuse oberspreewald ruderer"
-src = "images/schaffot.jpg"
-[[images]]
-title = "schleusensteg warten auf die Schleusung"
-src = "images/schleusensteg.jpg"
-[[images]]
-title = "carola im ruderboot"
-src = "images/carola.jpg"
-
-+++
+---
+author: ""
+begin: "1995-01-01"
+date: "1995-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- oder-spree-kanal
+- spreewald
+- wannsee
+- schwielochsee
+- köthener see
+images:
+- src: images/frauke.jpg
+  title: frauke Dahme Schleuse
+- src: images/wehr.jpg
+  title: 'wehr Märkisch Buchholz '
+- src: images/schleuse_spreewald95.jpg
+  title: schleuse spreewald heftige Strömung ruderboot
+- src: images/einfahrt.jpg
+  title: einfahrt in spreewald-schleuse mit Ruderboot
+- src: images/spreewald.jpg
+  title: im spreewald mit ruderboot
+- src: images/umtragen.jpg
+  title: ruderboote umtragen
+- src: images/schaffot.jpg
+  title: schaffotschleuse oberspreewald ruderer
+- src: images/schleusensteg.jpg
+  title: schleusensteg warten auf die Schleusung
+- src: images/carola.jpg
+  title: carola im ruderboot
+länder: []
+title: Spreewald 1995
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

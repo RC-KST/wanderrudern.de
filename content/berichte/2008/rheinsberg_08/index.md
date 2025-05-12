@@ -1,34 +1,29 @@
-+++
-title = "Rheinsberg 08"
-author = ""
-date = 2008-05-05T01:00:00+02:00
-begin = "2008-05-01"
-"gewässer" = ["rhein"]
-"länder" = ["italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ein_Umweg_am_Schloss_vorbei"
-src = "images/Ein_Umweg_am_Schloss_vorbei.JPG"
-[[images]]
-title = "Einkehr_-Zum_Löwen-_in_Strasen"
-src = "images/Einkehr_-Zum_Lowen-_in_Strasen.JPG"
-[[images]]
-title = "Erfrischendes_Bad_im_Pälitzsee"
-src = "images/Erfrischendes_Bad_im_Palitzsee.JPG"
-[[images]]
-title = "Erholsame_schattige_Kanäle"
-src = "images/Erholsame_schattige_Kanale.JPG"
-[[images]]
-title = "Pause_am_Wendepunkt_Strasener_Schleuse"
-src = "images/Pause_am_Wendepunkt_Strasener_Schleuse.JPG"
-[[images]]
-title = "Schleuse_Marina_Wolfsbruch"
-src = "images/Schleuse_Marina_Wolfsbruch.JPG"
-[[images]]
-title = "Sonnenuntergang_Grienericksee_am_Verein"
-src = "images/Sonnenuntergang_Grienericksee_am_Verein.JPG"
-
-+++
+---
+author: ""
+begin: "2008-05-01"
+date: "2008-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+images:
+- src: images/Ein_Umweg_am_Schloss_vorbei.JPG
+  title: Ein_Umweg_am_Schloss_vorbei
+- src: images/Einkehr_-Zum_Lowen-_in_Strasen.JPG
+  title: Einkehr_-Zum_Löwen-_in_Strasen
+- src: images/Erfrischendes_Bad_im_Palitzsee.JPG
+  title: Erfrischendes_Bad_im_Pälitzsee
+- src: images/Erholsame_schattige_Kanale.JPG
+  title: Erholsame_schattige_Kanäle
+- src: images/Pause_am_Wendepunkt_Strasener_Schleuse.JPG
+  title: Pause_am_Wendepunkt_Strasener_Schleuse
+- src: images/Schleuse_Marina_Wolfsbruch.JPG
+  title: Schleuse_Marina_Wolfsbruch
+- src: images/Sonnenuntergang_Grienericksee_am_Verein.JPG
+  title: Sonnenuntergang_Grienericksee_am_Verein
+länder:
+- italien
+title: Rheinsberg 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

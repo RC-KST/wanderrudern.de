@@ -1,181 +1,132 @@
-+++
-title = "Donaublog 2016"
-author = ""
-date = 2016-04-04T01:00:00+02:00
-begin = "2016-04-01"
-"gewässer" = ["donau", "oder"]
-"länder" = ["deutschland", "schweden", "tschechien", "ungarn", "serbien"]
-"typ" = "marathon"
-[[images]]
-title = "Anhaenger Bolzen festziehen Donau 16"
-src = "images/Anhaenger_Bolzen_festziehen_Donau_16.jpg"
-[[images]]
-title = "Burgtheather Ruderer Donau 2016"
-src = "images/Burgtheather_Ruderer_Donau_2016.jpg"
-[[images]]
-title = "Shoppen bei HM in Wien Donau 2016"
-src = "images/Shoppen_bei_HM_in_Wien_Donau_2016.jpg"
-[[images]]
-title = "Kartrennen Wien Prater Donau 2016"
-src = "images/Kartrennen_Wien_Prater_Donau_2016.jpg"
-[[images]]
-title = "Ruderjugend in Wien Donau 2016"
-src = "images/Ruderjugend_in_Wien_Donau_2016.jpg"
-[[images]]
-title = "Schleuse Freudenau Wien Donau 2016"
-src = "images/Schleuse_Freudenau_Wien_Donau_2016.jpg"
-[[images]]
-title = "Zweier auf der Donau 2016"
-src = "images/Zweier_auf_der_Donau_2016.jpg"
-[[images]]
-title = "Vierer auf dem Weg nach Bratislava Donau 2016"
-src = "images/Vierer_auf_dem_Weg_nach_Bratislava_Donau_2016.jpg"
-[[images]]
-title = "Hainburg Donau 2016"
-src = "images/Hainburg_Donau_2016.jpg"
-[[images]]
-title = "March Muendung in die Donau 2016"
-src = "images/March_Muendung_in_die_Donau_2016.jpg"
-[[images]]
-title = "Girliez auf der Donau 2016"
-src = "images/Girliez_auf_der_Donau_2016.jpg"
-[[images]]
-title = "Abendessen Bratislava Donau 2016"
-src = "images/Abendessen_Bratislava_Donau_2016.jpg"
-[[images]]
-title = "Ruderer in Bratislava 2016"
-src = "images/Ruderer_in_Bratislava_2016.jpg"
-[[images]]
-title = "Anlegen in Bratislava Donau 2016"
-src = "images/Anlegen_in_Bratislava_Donau_2016.jpg"
-[[images]]
-title = "Bratislava Umtrage 1 Donau 2016"
-src = "images/Bratislava_Umtrage_1_Donau_2016.jpg"
-[[images]]
-title = "Umtrage 2 Donau 2016"
-src = "images/Umtrage_2_Donau_2016.jpg"
-[[images]]
-title = "Girlies auf der Mosoni Donau 2016"
-src = "images/Girlies_auf_der_Mosoni_Donau_2016.jpg"
-[[images]]
-title = "Umtrage 3 Donau 2016"
-src = "images/Umtrage_3_Donau_2016.jpg"
-[[images]]
-title = "Bratislava Einsetzen in Mosoni Donau 2016"
-src = "images/Bratislava_Einsetzen_in_Mosoni_Donau_2016.jpg"
-[[images]]
-title = "jochen Mosoni Donau 2016"
-src = "images/jochen_Mosoni_Donau_2016.jpg"
-[[images]]
-title = "Pause bei Manfred Klein Donau 2016"
-src = "images/Pause_bei_Manfred_Klein_Donau_2016.jpg"
-[[images]]
-title = "Mosoni Donau 2016 falsche Durchfahrt"
-src = "images/Mosoni_Donau_2016_falsche_Durchfahrt.jpg"
-[[images]]
-title = "Boot zur anlegestelle Donau 2016"
-src = "images/Boot_zur_anlegestelle_Donau_2016.jpg"
-[[images]]
-title = "Anlegen Komarno Donau 2016"
-src = "images/Anlegen_Komarno_Donau_2016.jpg"
-[[images]]
-title = "Wohnwagen Komarno Donau 2016"
-src = "images/Wohnwagen_Komarno_Donau_2016.jpg"
-[[images]]
-title = "Insel in der Mosoni Donau 2016"
-src = "images/Insel_in_der_Mosoni_Donau_2016.jpg"
-[[images]]
-title = "Esztergom Kirche Donau 2016"
-src = "images/Esztergom_Kirche_Donau_2016.jpg"
-[[images]]
-title = "Riesenfrachter auf der Donau 2016"
-src = "images/Riesenfrachter_auf_der_Donau_2016.jpg"
-[[images]]
-title = "Donau 2016 weg nach Esztergom"
-src = "images/Donau_2016_weg_nach_Esztergom.jpg"
-[[images]]
-title = "Fruehstueck Komarno Donau 2016"
-src = "images/Fruehstueck_Komarno_Donau_2016.jpg"
-[[images]]
-title = "Karpatenauslaeufer Donau 2016"
-src = "images/Karpatenauslaeufer_Donau_2016.jpg"
-[[images]]
-title = "Esztergom kroenungskirche Donau 2016"
-src = "images/Esztergom_kroenungskirche_Donau_2016.jpg"
-[[images]]
-title = "Jugend beim Fruehstueck Donau 2016"
-src = "images/Jugend_beim_Fruehstueck_Donau_2016.jpg"
-[[images]]
-title = "Quartier Esztergom Donau 2016"
-src = "images/Quartier_Esztergom_Donau_2016.jpg"
-[[images]]
-title = "Parlament Budapest Donau 2016"
-src = "images/Parlament_Budapest_Donau_2016.jpg"
-[[images]]
-title = "VL im glueck Donau 2016"
-src = "images/VL_im_glueck_Donau_2016.jpg"
-[[images]]
-title = "Nirina im Panoramabad Budapest Donau 2016"
-src = "images/Nirina_im_Panoramabad_Budapest_Donau_2016.jpg"
-[[images]]
-title = "U-bahn Budapest Donau 2016"
-src = "images/U-bahn_Budapest_Donau_2016.jpg"
-[[images]]
-title = "Fischerbastei Budapest Donau 2016"
-src = "images/Fischerbastei_Budapest_Donau_2016.jpg"
-[[images]]
-title = "Ruderverein Budapest Donau 2016"
-src = "images/Ruderverein_Budapest_Donau_2016.jpg"
-[[images]]
-title = "Budapest Schloss Donau 2016"
-src = "images/Budapest_Schloss_Donau_2016.jpg"
-[[images]]
-title = "Anlegestelle Dunauvjaros Donau 2016"
-src = "images/Anlegestelle_Dunauvjaros_Donau_2016.jpg"
-[[images]]
-title = "Abendessen Dunauvjaros Donbau 2016"
-src = "images/Abendessen_Dunauvjaros_Donbau_2016.jpg"
-[[images]]
-title = "Maria im Boot Donau 2016"
-src = "images/Maria_im_Boot_Donau_2016.jpg"
-[[images]]
-title = "Donau 2016 kurz vor Mohacs"
-src = "images/Donau_2016_kurz_vor_Mohacs.jpg"
-[[images]]
-title = "Kuchen aus Paks Donau 2016"
-src = "images/Kuchen_aus_Paks_Donau_2016.jpg"
-[[images]]
-title = "Ruderer in Mohacs Donau 2016"
-src = "images/Ruderer_in_Mohacs_Donau_2016.jpg"
-[[images]]
-title = "Steg in Mohacs Donau 2016"
-src = "images/Steg_in_Mohacs_Donau_2016.jpg"
-[[images]]
-title = "kroatische grenzkontrolle Donau 2016"
-src = "images/kroatische_grenzkontrolle_Donau_2016.jpg"
-[[images]]
-title = "Pension in Aljmas Donau 2016"
-src = "images/Pension_in_Aljmas_Donau_2016.jpg"
-[[images]]
-title = "Auwald kroatische donau 2016"
-src = "images/Auwald_kroatische_donau_2016.jpg"
-[[images]]
-title = "Jugendvierer aiuf der Donau 2016"
-src = "images/Jugendvierer_aiuf_der_Donau_2016.jpg"
-[[images]]
-title = "Einzelrudern kroatische Donau im Nebenarm 2016"
-src = "images/Einzelrudern_kroatische_Donau_im_Nebenarm_2016.jpg"
-[[images]]
-title = "Marlies Donau 2016"
-src = "images/Marlies_Donau_2016.jpg"
-[[images]]
-title = "Quartier in Ilok Donau 2016"
-src = "images/Quartier_in_Ilok_Donau_2016.jpg"
-[[images]]
-title = "Ruderer auf Burg Ilok Donau 2016"
-src = "images/Ruderer_auf_Burg_Ilok_Donau_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-04-01"
+date: "2016-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- oder
+images:
+- src: images/Anhaenger_Bolzen_festziehen_Donau_16.jpg
+  title: Anhaenger Bolzen festziehen Donau 16
+- src: images/Burgtheather_Ruderer_Donau_2016.jpg
+  title: Burgtheather Ruderer Donau 2016
+- src: images/Shoppen_bei_HM_in_Wien_Donau_2016.jpg
+  title: Shoppen bei HM in Wien Donau 2016
+- src: images/Kartrennen_Wien_Prater_Donau_2016.jpg
+  title: Kartrennen Wien Prater Donau 2016
+- src: images/Ruderjugend_in_Wien_Donau_2016.jpg
+  title: Ruderjugend in Wien Donau 2016
+- src: images/Schleuse_Freudenau_Wien_Donau_2016.jpg
+  title: Schleuse Freudenau Wien Donau 2016
+- src: images/Zweier_auf_der_Donau_2016.jpg
+  title: Zweier auf der Donau 2016
+- src: images/Vierer_auf_dem_Weg_nach_Bratislava_Donau_2016.jpg
+  title: Vierer auf dem Weg nach Bratislava Donau 2016
+- src: images/Hainburg_Donau_2016.jpg
+  title: Hainburg Donau 2016
+- src: images/March_Muendung_in_die_Donau_2016.jpg
+  title: March Muendung in die Donau 2016
+- src: images/Girliez_auf_der_Donau_2016.jpg
+  title: Girliez auf der Donau 2016
+- src: images/Abendessen_Bratislava_Donau_2016.jpg
+  title: Abendessen Bratislava Donau 2016
+- src: images/Ruderer_in_Bratislava_2016.jpg
+  title: Ruderer in Bratislava 2016
+- src: images/Anlegen_in_Bratislava_Donau_2016.jpg
+  title: Anlegen in Bratislava Donau 2016
+- src: images/Bratislava_Umtrage_1_Donau_2016.jpg
+  title: Bratislava Umtrage 1 Donau 2016
+- src: images/Umtrage_2_Donau_2016.jpg
+  title: Umtrage 2 Donau 2016
+- src: images/Girlies_auf_der_Mosoni_Donau_2016.jpg
+  title: Girlies auf der Mosoni Donau 2016
+- src: images/Umtrage_3_Donau_2016.jpg
+  title: Umtrage 3 Donau 2016
+- src: images/Bratislava_Einsetzen_in_Mosoni_Donau_2016.jpg
+  title: Bratislava Einsetzen in Mosoni Donau 2016
+- src: images/jochen_Mosoni_Donau_2016.jpg
+  title: jochen Mosoni Donau 2016
+- src: images/Pause_bei_Manfred_Klein_Donau_2016.jpg
+  title: Pause bei Manfred Klein Donau 2016
+- src: images/Mosoni_Donau_2016_falsche_Durchfahrt.jpg
+  title: Mosoni Donau 2016 falsche Durchfahrt
+- src: images/Boot_zur_anlegestelle_Donau_2016.jpg
+  title: Boot zur anlegestelle Donau 2016
+- src: images/Anlegen_Komarno_Donau_2016.jpg
+  title: Anlegen Komarno Donau 2016
+- src: images/Wohnwagen_Komarno_Donau_2016.jpg
+  title: Wohnwagen Komarno Donau 2016
+- src: images/Insel_in_der_Mosoni_Donau_2016.jpg
+  title: Insel in der Mosoni Donau 2016
+- src: images/Esztergom_Kirche_Donau_2016.jpg
+  title: Esztergom Kirche Donau 2016
+- src: images/Riesenfrachter_auf_der_Donau_2016.jpg
+  title: Riesenfrachter auf der Donau 2016
+- src: images/Donau_2016_weg_nach_Esztergom.jpg
+  title: Donau 2016 weg nach Esztergom
+- src: images/Fruehstueck_Komarno_Donau_2016.jpg
+  title: Fruehstueck Komarno Donau 2016
+- src: images/Karpatenauslaeufer_Donau_2016.jpg
+  title: Karpatenauslaeufer Donau 2016
+- src: images/Esztergom_kroenungskirche_Donau_2016.jpg
+  title: Esztergom kroenungskirche Donau 2016
+- src: images/Jugend_beim_Fruehstueck_Donau_2016.jpg
+  title: Jugend beim Fruehstueck Donau 2016
+- src: images/Quartier_Esztergom_Donau_2016.jpg
+  title: Quartier Esztergom Donau 2016
+- src: images/Parlament_Budapest_Donau_2016.jpg
+  title: Parlament Budapest Donau 2016
+- src: images/VL_im_glueck_Donau_2016.jpg
+  title: VL im glueck Donau 2016
+- src: images/Nirina_im_Panoramabad_Budapest_Donau_2016.jpg
+  title: Nirina im Panoramabad Budapest Donau 2016
+- src: images/U-bahn_Budapest_Donau_2016.jpg
+  title: U-bahn Budapest Donau 2016
+- src: images/Fischerbastei_Budapest_Donau_2016.jpg
+  title: Fischerbastei Budapest Donau 2016
+- src: images/Ruderverein_Budapest_Donau_2016.jpg
+  title: Ruderverein Budapest Donau 2016
+- src: images/Budapest_Schloss_Donau_2016.jpg
+  title: Budapest Schloss Donau 2016
+- src: images/Anlegestelle_Dunauvjaros_Donau_2016.jpg
+  title: Anlegestelle Dunauvjaros Donau 2016
+- src: images/Abendessen_Dunauvjaros_Donbau_2016.jpg
+  title: Abendessen Dunauvjaros Donbau 2016
+- src: images/Maria_im_Boot_Donau_2016.jpg
+  title: Maria im Boot Donau 2016
+- src: images/Donau_2016_kurz_vor_Mohacs.jpg
+  title: Donau 2016 kurz vor Mohacs
+- src: images/Kuchen_aus_Paks_Donau_2016.jpg
+  title: Kuchen aus Paks Donau 2016
+- src: images/Ruderer_in_Mohacs_Donau_2016.jpg
+  title: Ruderer in Mohacs Donau 2016
+- src: images/Steg_in_Mohacs_Donau_2016.jpg
+  title: Steg in Mohacs Donau 2016
+- src: images/kroatische_grenzkontrolle_Donau_2016.jpg
+  title: kroatische grenzkontrolle Donau 2016
+- src: images/Pension_in_Aljmas_Donau_2016.jpg
+  title: Pension in Aljmas Donau 2016
+- src: images/Auwald_kroatische_donau_2016.jpg
+  title: Auwald kroatische donau 2016
+- src: images/Jugendvierer_aiuf_der_Donau_2016.jpg
+  title: Jugendvierer aiuf der Donau 2016
+- src: images/Einzelrudern_kroatische_Donau_im_Nebenarm_2016.jpg
+  title: Einzelrudern kroatische Donau im Nebenarm 2016
+- src: images/Marlies_Donau_2016.jpg
+  title: Marlies Donau 2016
+- src: images/Quartier_in_Ilok_Donau_2016.jpg
+  title: Quartier in Ilok Donau 2016
+- src: images/Ruderer_auf_Burg_Ilok_Donau_2016.jpg
+  title: Ruderer auf Burg Ilok Donau 2016
+länder:
+- deutschland
+- schweden
+- tschechien
+- ungarn
+- serbien
+title: Donaublog 2016
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

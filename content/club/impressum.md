@@ -1,7 +1,7 @@
-+++
-title = "Impressum"
-weight = 100
-+++
+---
+title: Impressum
+weight: 100
+---
 
 ## Impressum
 

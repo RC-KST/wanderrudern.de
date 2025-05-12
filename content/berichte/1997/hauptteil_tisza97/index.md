@@ -1,31 +1,25 @@
-+++
-title = "Theiss 1997"
-author = ""
-date = 1997-03-03T01:00:00+02:00
-begin = "1997-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "bahnfahren in Ungarn ruderer"
-src = "images/bahnfahren.jpg"
-[[images]]
-title = "hotel in ostungarn ruderer"
-src = "images/hotel.jpg"
-[[images]]
-title = "rudern auf der Theiss Tisza"
-src = "images/aufdemfluss.jpg"
-[[images]]
-title = "kachelofen in der Fischergaststätte Ungarn Ruderer"
-src = "images/kachelofen.jpg"
-[[images]]
-title = "kai im Ruderboot auf der Theiss"
-src = "images/kai.jpg"
-[[images]]
-title = "kalter schlamm am Ufer der Theiss Ruderboot"
-src = "images/schlamm.jpg"
-
-+++
+---
+author: ""
+begin: "1997-03-01"
+date: "1997-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/bahnfahren.jpg
+  title: bahnfahren in Ungarn ruderer
+- src: images/hotel.jpg
+  title: hotel in ostungarn ruderer
+- src: images/aufdemfluss.jpg
+  title: rudern auf der Theiss Tisza
+- src: images/kachelofen.jpg
+  title: kachelofen in der Fischergaststätte Ungarn Ruderer
+- src: images/kai.jpg
+  title: kai im Ruderboot auf der Theiss
+- src: images/schlamm.jpg
+  title: kalter schlamm am Ufer der Theiss Ruderboot
+länder: []
+title: Theiss 1997
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

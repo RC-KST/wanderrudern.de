@@ -1,49 +1,40 @@
-+++
-title = "Elbe Darchau 2024"
-author = ""
-date = 2024-10-10T01:00:00+02:00
-begin = "2024-10-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Fussmarsch Weseram zum Quartier 2024"
-src = "images/Fussmarsch_Weseram_zum_Quartier_2024.jpg"
-[[images]]
-title = "Havel auf dem Weg nach Havelberg Herbst 2024"
-src = "images/Havel_auf_dem_Weg_nach_Havelberg_Herbst_2024.jpg"
-[[images]]
-title = "E3x+ auf der Elbe November 2024"
-src = "images/E3x__auf_der_Elbe_November_2024.jpg"
-[[images]]
-title = "Baumgarten E-Boote im Nebel Schnackenburg 2024"
-src = "images/Baumgarten_E-Boote_im_Nebel_Schnackenburg_2024.jpg"
-[[images]]
-title = "Anlegestelle Weseram 2024"
-src = "images/Anlegestelle_Weseram_2024.jpg"
-[[images]]
-title = "Haupschleuse Brandenburg 2024 E-Dreier"
-src = "images/Haupschleuse_Brandenburg_2024_E-Dreier.jpg"
-[[images]]
-title = "Ruderer Pension in Havelberg 2024"
-src = "images/Ruderer_Pension_in_Havelberg_2024.jpg"
-[[images]]
-title = "Schleuse Havelberg Herbst 2024"
-src = "images/Schleuse_Havelberg_Herbst_2024.jpg"
-[[images]]
-title = "Maria in Schnackenburg November 2024"
-src = "images/Maria_in_Schnackenburg_November_2024.jpg"
-[[images]]
-title = "Geburstagsparty Paul in Schnackenburg 2024"
-src = "images/Geburstagsparty_Paul_in_Schnackenburg_2024.jpg"
-[[images]]
-title = "Start im Nebel Schnackenburg 2024"
-src = "images/Start_im_Nebel_Schnackenburg_2024.jpg"
-[[images]]
-title = "Winterrudern auf der unteren Elbe 2024"
-src = "images/Winterrudern_auf_der_unteren_Elbe_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-10-01"
+date: "2024-10-10T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Fussmarsch_Weseram_zum_Quartier_2024.jpg
+  title: Fussmarsch Weseram zum Quartier 2024
+- src: images/Havel_auf_dem_Weg_nach_Havelberg_Herbst_2024.jpg
+  title: Havel auf dem Weg nach Havelberg Herbst 2024
+- src: images/E3x__auf_der_Elbe_November_2024.jpg
+  title: E3x+ auf der Elbe November 2024
+- src: images/Baumgarten_E-Boote_im_Nebel_Schnackenburg_2024.jpg
+  title: Baumgarten E-Boote im Nebel Schnackenburg 2024
+- src: images/Anlegestelle_Weseram_2024.jpg
+  title: Anlegestelle Weseram 2024
+- src: images/Haupschleuse_Brandenburg_2024_E-Dreier.jpg
+  title: Haupschleuse Brandenburg 2024 E-Dreier
+- src: images/Ruderer_Pension_in_Havelberg_2024.jpg
+  title: Ruderer Pension in Havelberg 2024
+- src: images/Schleuse_Havelberg_Herbst_2024.jpg
+  title: Schleuse Havelberg Herbst 2024
+- src: images/Maria_in_Schnackenburg_November_2024.jpg
+  title: Maria in Schnackenburg November 2024
+- src: images/Geburstagsparty_Paul_in_Schnackenburg_2024.jpg
+  title: Geburstagsparty Paul in Schnackenburg 2024
+- src: images/Start_im_Nebel_Schnackenburg_2024.jpg
+  title: Start im Nebel Schnackenburg 2024
+- src: images/Winterrudern_auf_der_unteren_Elbe_2024.jpg
+  title: Winterrudern auf der unteren Elbe 2024
+länder: []
+title: Elbe Darchau 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

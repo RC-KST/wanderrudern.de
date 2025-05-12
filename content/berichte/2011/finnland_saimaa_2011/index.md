@@ -1,187 +1,138 @@
-+++
-title = "Finnland Saimaa 2011"
-author = ""
-date = 2011-05-05T01:00:00+02:00
-begin = "2011-05-01"
-"gewässer" = ["inn", "aller", "oder", "bug", "saimaa", "orivesi"]
-"länder" = ["deutschland", "finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Maedchen auf der Faehre S11"
-src = "images/Maedchen_auf_der_Faehre_S11.jpg"
-[[images]]
-title = "Puumala am See S11"
-src = "images/Puumala_am_See_S11.jpg"
-[[images]]
-title = "Puumala Campingplatz Ruderer beim Fruehstueck S11"
-src = "images/Puumala_Campingplatz_Ruderer_beim_Fruehstueck_S11.jpg"
-[[images]]
-title = "Boote werden eingesetzt Puumala S11"
-src = "images/Boote_werden_eingesetzt_Puumala_S11.jpg"
-[[images]]
-title = "Jenny Ruderboot Saimaa 11"
-src = "images/Jenny_Ruderboot_Saimaa_11.jpg"
-[[images]]
-title = "Ruderboote Badepause S11"
-src = "images/Ruderboote_Badepause_S11.jpg"
-[[images]]
-title = "Ruderstadion Sulkava S11"
-src = "images/Ruderstadion_Sulkava_S11.jpg"
-[[images]]
-title = "Ruderer auf dem Weg nach Savonlinna S11"
-src = "images/Ruderer_auf_dem_Weg_nach_Savonlinna_S11.jpg"
-[[images]]
-title = "Rudererpaecken Saimaa 11"
-src = "images/Rudererpaecken_Saimaa_11.jpg"
-[[images]]
-title = "Elina Festung Olavlinna S11"
-src = "images/Elina_Festung_Olavlinna_S11.jpg"
-[[images]]
-title = "Gepaecktransport zur Insel S11"
-src = "images/Gepaecktransport_zur_Insel_S11.jpg"
-[[images]]
-title = "Abendessen S11"
-src = "images/Abendessen_S11.jpg"
-[[images]]
-title = "Ruderer am Lagerfeuer S11"
-src = "images/Ruderer_am_Lagerfeuer_S11.jpg"
-[[images]]
-title = "Ruderboote einsame Insel Finnland S11"
-src = "images/Ruderboote_einsame_Insel_Finnland_S11.jpg"
-[[images]]
-title = "Moritz weiss wos langgeht S11"
-src = "images/Moritz_weiss_wos_langgeht_S11.jpg"
-[[images]]
-title = "Schleuse Varkaus S11"
-src = "images/Schleuse_Varkaus_S11.jpg"
-[[images]]
-title = "Frauenpower im Ruderboot S11"
-src = "images/Frauenpower_im_Ruderboot_S11.jpg"
-[[images]]
-title = "Cookie und Marlene S11"
-src = "images/Cookie_und_Marlene_S11.jpg"
-[[images]]
-title = "Rudervierer auf dem Saimaa S11"
-src = "images/Rudervierer_auf_dem_Saimaa_S11.jpg"
-[[images]]
-title = "Fruestuecksbuffet Leppaevirta S11a"
-src = "images/Fruestuecksbuffet_Leppaevirta_S11a.jpg"
-[[images]]
-title = "Jochen im Bug S11"
-src = "images/Jochen_im_Bug_S11.jpg"
-[[images]]
-title = "Campingplatz kuopio s11"
-src = "images/Campingplatz_kuopio_s11.jpg"
-[[images]]
-title = "Eisessen Kuopio S11"
-src = "images/Eisessen_Kuopio_S11.jpg"
-[[images]]
-title = "Marlene Teppichwaeschersteg S11"
-src = "images/Marlene_Teppichwaeschersteg_S11.jpg"
-[[images]]
-title = "Ausblick vom Puijo S11"
-src = "images/Ausblick_vom_Puijo_S11.jpg"
-[[images]]
-title = "Sonnenuntergang Ristavesi S11"
-src = "images/Sonnenuntergang_Ristavesi_S11.jpg"
-[[images]]
-title = "ab durchs Rohr S11"
-src = "images/ab_durchs_Rohr_S11.jpg"
-[[images]]
-title = "Ruderboote am Ufer S11"
-src = "images/Ruderboote_am_Ufer_S11.jpg"
-[[images]]
-title = "Karl im Vierer S11"
-src = "images/Karl_im_Vierer_S11.jpg"
-[[images]]
-title = "Schleuse Varistaipale S11"
-src = "images/Schleuse_Varistaipale_S11.jpg"
-[[images]]
-title = "Schleusentreppe Varistaipale S11"
-src = "images/Schleusentreppe_Varistaipale_S11.jpg"
-[[images]]
-title = "Ruderinnen fertig zum Kirchenbesuch S11"
-src = "images/Ruderinnen_fertig_zum_Kirchenbesuch_S11.jpg"
-[[images]]
-title = "Cookie Moritz im Kloster S11"
-src = "images/Cookie_Moritz_im_Kloster_S11.jpg"
-[[images]]
-title = "Christel im Vierer S11"
-src = "images/Christel_im_Vierer_S11.jpg"
-[[images]]
-title = "Maedchen mit Baerenfell S11"
-src = "images/Maedchen_mit_Baerenfell_S11.jpg"
-[[images]]
-title = "leonardo auf der titanic S11"
-src = "images/leonardo_auf_der_titanic_S11.jpg"
-[[images]]
-title = "Unterstellen im Gewitter S11"
-src = "images/Unterstellen_im_Gewitter_S11.jpg"
-[[images]]
-title = "Rundhuette S11"
-src = "images/Rundhuette_S11.jpg"
-[[images]]
-title = "Blockhaus S11"
-src = "images/Blockhaus_S11.jpg"
-[[images]]
-title = "Regenjacken Segeln S11"
-src = "images/Regenjacken_Segeln_S11.jpg"
-[[images]]
-title = "Terasse im Gewitter S11"
-src = "images/Terasse_im_Gewitter_S11.jpg"
-[[images]]
-title = "Saunabesuch S11"
-src = "images/Saunabesuch_S11.jpg"
-[[images]]
-title = "grillplatz savonranta S11"
-src = "images/grillplatz_savonranta_S11.jpg"
-[[images]]
-title = "maximale Segelflaeche S11"
-src = "images/maximale_Segelflaeche_S11.jpg"
-[[images]]
-title = "rohrbruecke S11"
-src = "images/rohrbruecke_S11.jpg"
-[[images]]
-title = "Skatspiel S11"
-src = "images/Skatspiel_S11.jpg"
-[[images]]
-title = "Jogurt Jungs S11"
-src = "images/Jogurt_Jungs_S11.jpg"
-[[images]]
-title = "Finnische Landstrasse S11"
-src = "images/Finnische_Landstrasse_S11.jpg"
-[[images]]
-title = "Holzfloss S11"
-src = "images/Holzfloss_S11.jpg"
-[[images]]
-title = "Landdienst auf der Faehre S11"
-src = "images/Landdienst_auf_der_Faehre_S11.jpg"
-[[images]]
-title = "Zweier auf dem Orivesi S11"
-src = "images/Zweier_auf_dem_Orivesi_S11.jpg"
-[[images]]
-title = "Fata Morgana auf dem Orivesi S11"
-src = "images/Fata_Morgana_auf_dem_Orivesi_S11.jpg"
-[[images]]
-title = "Raekkyla Campingplatz S11"
-src = "images/Raekkyla_Campingplatz_S11.jpg"
-[[images]]
-title = "Bunker Salpa Linie S11"
-src = "images/Bunker_Salpa_Linie_S11.jpg"
-[[images]]
-title = "Zelten am Wasser S11"
-src = "images/Zelten_am_Wasser_S11.jpg"
-[[images]]
-title = "Kirche Kerimaeki S11"
-src = "images/Kirche_Kerimaeki_S11.jpg"
-[[images]]
-title = "Im Schilffeld S11"
-src = "images/Im_Schilffeld_S11.jpg"
-[[images]]
-title = "Abreise S11"
-src = "images/Abreise_S11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-05-01"
+date: "2011-05-05T01:00:00+02:00"
+gewässer:
+- inn
+- aller
+- oder
+- bug
+- saimaa
+- orivesi
+images:
+- src: images/Maedchen_auf_der_Faehre_S11.jpg
+  title: Maedchen auf der Faehre S11
+- src: images/Puumala_am_See_S11.jpg
+  title: Puumala am See S11
+- src: images/Puumala_Campingplatz_Ruderer_beim_Fruehstueck_S11.jpg
+  title: Puumala Campingplatz Ruderer beim Fruehstueck S11
+- src: images/Boote_werden_eingesetzt_Puumala_S11.jpg
+  title: Boote werden eingesetzt Puumala S11
+- src: images/Jenny_Ruderboot_Saimaa_11.jpg
+  title: Jenny Ruderboot Saimaa 11
+- src: images/Ruderboote_Badepause_S11.jpg
+  title: Ruderboote Badepause S11
+- src: images/Ruderstadion_Sulkava_S11.jpg
+  title: Ruderstadion Sulkava S11
+- src: images/Ruderer_auf_dem_Weg_nach_Savonlinna_S11.jpg
+  title: Ruderer auf dem Weg nach Savonlinna S11
+- src: images/Rudererpaecken_Saimaa_11.jpg
+  title: Rudererpaecken Saimaa 11
+- src: images/Elina_Festung_Olavlinna_S11.jpg
+  title: Elina Festung Olavlinna S11
+- src: images/Gepaecktransport_zur_Insel_S11.jpg
+  title: Gepaecktransport zur Insel S11
+- src: images/Abendessen_S11.jpg
+  title: Abendessen S11
+- src: images/Ruderer_am_Lagerfeuer_S11.jpg
+  title: Ruderer am Lagerfeuer S11
+- src: images/Ruderboote_einsame_Insel_Finnland_S11.jpg
+  title: Ruderboote einsame Insel Finnland S11
+- src: images/Moritz_weiss_wos_langgeht_S11.jpg
+  title: Moritz weiss wos langgeht S11
+- src: images/Schleuse_Varkaus_S11.jpg
+  title: Schleuse Varkaus S11
+- src: images/Frauenpower_im_Ruderboot_S11.jpg
+  title: Frauenpower im Ruderboot S11
+- src: images/Cookie_und_Marlene_S11.jpg
+  title: Cookie und Marlene S11
+- src: images/Rudervierer_auf_dem_Saimaa_S11.jpg
+  title: Rudervierer auf dem Saimaa S11
+- src: images/Fruestuecksbuffet_Leppaevirta_S11a.jpg
+  title: Fruestuecksbuffet Leppaevirta S11a
+- src: images/Jochen_im_Bug_S11.jpg
+  title: Jochen im Bug S11
+- src: images/Campingplatz_kuopio_s11.jpg
+  title: Campingplatz kuopio s11
+- src: images/Eisessen_Kuopio_S11.jpg
+  title: Eisessen Kuopio S11
+- src: images/Marlene_Teppichwaeschersteg_S11.jpg
+  title: Marlene Teppichwaeschersteg S11
+- src: images/Ausblick_vom_Puijo_S11.jpg
+  title: Ausblick vom Puijo S11
+- src: images/Sonnenuntergang_Ristavesi_S11.jpg
+  title: Sonnenuntergang Ristavesi S11
+- src: images/ab_durchs_Rohr_S11.jpg
+  title: ab durchs Rohr S11
+- src: images/Ruderboote_am_Ufer_S11.jpg
+  title: Ruderboote am Ufer S11
+- src: images/Karl_im_Vierer_S11.jpg
+  title: Karl im Vierer S11
+- src: images/Schleuse_Varistaipale_S11.jpg
+  title: Schleuse Varistaipale S11
+- src: images/Schleusentreppe_Varistaipale_S11.jpg
+  title: Schleusentreppe Varistaipale S11
+- src: images/Ruderinnen_fertig_zum_Kirchenbesuch_S11.jpg
+  title: Ruderinnen fertig zum Kirchenbesuch S11
+- src: images/Cookie_Moritz_im_Kloster_S11.jpg
+  title: Cookie Moritz im Kloster S11
+- src: images/Christel_im_Vierer_S11.jpg
+  title: Christel im Vierer S11
+- src: images/Maedchen_mit_Baerenfell_S11.jpg
+  title: Maedchen mit Baerenfell S11
+- src: images/leonardo_auf_der_titanic_S11.jpg
+  title: leonardo auf der titanic S11
+- src: images/Unterstellen_im_Gewitter_S11.jpg
+  title: Unterstellen im Gewitter S11
+- src: images/Rundhuette_S11.jpg
+  title: Rundhuette S11
+- src: images/Blockhaus_S11.jpg
+  title: Blockhaus S11
+- src: images/Regenjacken_Segeln_S11.jpg
+  title: Regenjacken Segeln S11
+- src: images/Terasse_im_Gewitter_S11.jpg
+  title: Terasse im Gewitter S11
+- src: images/Saunabesuch_S11.jpg
+  title: Saunabesuch S11
+- src: images/grillplatz_savonranta_S11.jpg
+  title: grillplatz savonranta S11
+- src: images/maximale_Segelflaeche_S11.jpg
+  title: maximale Segelflaeche S11
+- src: images/rohrbruecke_S11.jpg
+  title: rohrbruecke S11
+- src: images/Skatspiel_S11.jpg
+  title: Skatspiel S11
+- src: images/Jogurt_Jungs_S11.jpg
+  title: Jogurt Jungs S11
+- src: images/Finnische_Landstrasse_S11.jpg
+  title: Finnische Landstrasse S11
+- src: images/Holzfloss_S11.jpg
+  title: Holzfloss S11
+- src: images/Landdienst_auf_der_Faehre_S11.jpg
+  title: Landdienst auf der Faehre S11
+- src: images/Zweier_auf_dem_Orivesi_S11.jpg
+  title: Zweier auf dem Orivesi S11
+- src: images/Fata_Morgana_auf_dem_Orivesi_S11.jpg
+  title: Fata Morgana auf dem Orivesi S11
+- src: images/Raekkyla_Campingplatz_S11.jpg
+  title: Raekkyla Campingplatz S11
+- src: images/Bunker_Salpa_Linie_S11.jpg
+  title: Bunker Salpa Linie S11
+- src: images/Zelten_am_Wasser_S11.jpg
+  title: Zelten am Wasser S11
+- src: images/Kirche_Kerimaeki_S11.jpg
+  title: Kirche Kerimaeki S11
+- src: images/Im_Schilffeld_S11.jpg
+  title: Im Schilffeld S11
+- src: images/Abreise_S11.jpg
+  title: Abreise S11
+länder:
+- deutschland
+- finnland
+- schweden
+title: Finnland Saimaa 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

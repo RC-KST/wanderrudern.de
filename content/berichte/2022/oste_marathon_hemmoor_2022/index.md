@@ -1,64 +1,52 @@
-+++
-title = "Oste Marathon Hemmoor 2022"
-author = ""
-date = 2022-07-07T01:00:00+02:00
-begin = "2022-07-01"
-"gewässer" = ["oste", "spreewald", "wannsee", "shannon"]
-"länder" = ["frankreich"]
-"typ" = "marathon"
-[[images]]
-title = "Anhängertransport Oste Marathon 2022"
-src = "images/Anhangertransport_Oste_Marathon_2022.jpg"
-[[images]]
-title = "Baumgarten C4x+ Marathon auf der Oste 2022"
-src = "images/Baumgarten_C4x__Marathon_auf_der_Oste_2022.jpg"
-[[images]]
-title = "Schiffe am Oste riff 2022"
-src = "images/Schiffe_am_Oste_riff_2022.jpg"
-[[images]]
-title = "Baumgarten Marathon C4x+ Oste Marathon"
-src = "images/Baumgarten_Marathon_C4x__Oste_Marathon.jpg"
-[[images]]
-title = "Sieger des Oste Marathon 2022"
-src = "images/Sieger_des_Oste_Marathon_2022.jpg"
-[[images]]
-title = "Siegermannschaft Oste Marathon 2022"
-src = "images/Siegermannschaft_Oste_Marathon_2022.jpg"
-[[images]]
-title = "Meldebüro Hemmoor 2022"
-src = "images/Meldeburo_Hemmoor_2022.jpg"
-[[images]]
-title = "Regattaplatz Hemmoor Oste Marathon 2022"
-src = "images/Regattaplatz_Hemmoor_Oste_Marathon_2022.jpg"
-[[images]]
-title = "E-Zweier Oste Marathon 2022"
-src = "images/E-Zweier_Oste_Marathon_2022.jpg"
-[[images]]
-title = "Kleinmachnower Ruderer auf dem Oste Riff 2022"
-src = "images/Kleinmachnower_Ruderer_auf_dem_Oste_Riff_2022.jpg"
-[[images]]
-title = "LingLing auf dem Weg nach Hechthausen Oste Marathon 2022"
-src = "images/LingLing_auf_dem_Weg_nach_Hechthausen_Oste_Marathon_2022.jpg"
-[[images]]
-title = "Pokal trinken Oste Marathon 2022"
-src = "images/Pokal_trinken_Oste_Marathon_2022.jpg"
-[[images]]
-title = "RC KST Flagge weht über dem Osteriff 2022"
-src = "images/RC_KST_Flagge_weht_uber_dem_Osteriff_2022.jpg"
-[[images]]
-title = "Marika im Schlamm Oste Riff 2022"
-src = "images/Marika_im_Schlamm_Oste_Riff_2022.jpg"
-[[images]]
-title = "Ruderer auf dem Oste Riff 2022"
-src = "images/Ruderer_auf_dem_Oste_Riff_2022.jpg"
-[[images]]
-title = "Pause auf dem Steg Oste Marathon 2022"
-src = "images/Pause_auf_dem_Steg_Oste_Marathon_2022.jpg"
-[[images]]
-title = "Seerobben auf dem Oste Riff 2022"
-src = "images/Seerobben_auf_dem_Oste_Riff_2022.jpg"
-
-+++
+---
+author: ""
+begin: "2022-07-01"
+date: "2022-07-07T01:00:00+02:00"
+gewässer:
+- oste
+- spreewald
+- wannsee
+- shannon
+images:
+- src: images/Anhangertransport_Oste_Marathon_2022.jpg
+  title: Anhängertransport Oste Marathon 2022
+- src: images/Baumgarten_C4x__Marathon_auf_der_Oste_2022.jpg
+  title: Baumgarten C4x+ Marathon auf der Oste 2022
+- src: images/Schiffe_am_Oste_riff_2022.jpg
+  title: Schiffe am Oste riff 2022
+- src: images/Baumgarten_Marathon_C4x__Oste_Marathon.jpg
+  title: Baumgarten Marathon C4x+ Oste Marathon
+- src: images/Sieger_des_Oste_Marathon_2022.jpg
+  title: Sieger des Oste Marathon 2022
+- src: images/Siegermannschaft_Oste_Marathon_2022.jpg
+  title: Siegermannschaft Oste Marathon 2022
+- src: images/Meldeburo_Hemmoor_2022.jpg
+  title: Meldebüro Hemmoor 2022
+- src: images/Regattaplatz_Hemmoor_Oste_Marathon_2022.jpg
+  title: Regattaplatz Hemmoor Oste Marathon 2022
+- src: images/E-Zweier_Oste_Marathon_2022.jpg
+  title: E-Zweier Oste Marathon 2022
+- src: images/Kleinmachnower_Ruderer_auf_dem_Oste_Riff_2022.jpg
+  title: Kleinmachnower Ruderer auf dem Oste Riff 2022
+- src: images/LingLing_auf_dem_Weg_nach_Hechthausen_Oste_Marathon_2022.jpg
+  title: LingLing auf dem Weg nach Hechthausen Oste Marathon 2022
+- src: images/Pokal_trinken_Oste_Marathon_2022.jpg
+  title: Pokal trinken Oste Marathon 2022
+- src: images/RC_KST_Flagge_weht_uber_dem_Osteriff_2022.jpg
+  title: RC KST Flagge weht über dem Osteriff 2022
+- src: images/Marika_im_Schlamm_Oste_Riff_2022.jpg
+  title: Marika im Schlamm Oste Riff 2022
+- src: images/Ruderer_auf_dem_Oste_Riff_2022.jpg
+  title: Ruderer auf dem Oste Riff 2022
+- src: images/Pause_auf_dem_Steg_Oste_Marathon_2022.jpg
+  title: Pause auf dem Steg Oste Marathon 2022
+- src: images/Seerobben_auf_dem_Oste_Riff_2022.jpg
+  title: Seerobben auf dem Oste Riff 2022
+länder:
+- frankreich
+title: Oste Marathon Hemmoor 2022
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

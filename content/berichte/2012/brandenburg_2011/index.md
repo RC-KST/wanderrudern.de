@@ -1,16 +1,15 @@
-+++
-title = "Anrudern 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Nirina beim LRV Brandenburg 2011"
-src = "images/Nirina_beim_LRV_Brandenburg_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Nirina_beim_LRV_Brandenburg_2011.jpg
+  title: Nirina beim LRV Brandenburg 2011
+länder: []
+title: Anrudern 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

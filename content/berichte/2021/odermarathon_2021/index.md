@@ -1,49 +1,39 @@
-+++
-title = "Odermarathon 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["aller", "oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboote in Scinawa 2021"
-src = "images/Ruderboote_in_Scinawa_2021.jpg"
-[[images]]
-title = "Odermarathon 2021 in Glogau"
-src = "images/Odermarathon_2021_in_Glogau.jpg"
-[[images]]
-title = "VL auf der Oder 2021"
-src = "images/VL_auf_der_Oder_2021.jpg"
-[[images]]
-title = "Marathonrudern auf der Oder 2021"
-src = "images/Marathonrudern_auf_der_Oder_2021.jpg"
-[[images]]
-title = "Odermarathon Start in Scinawa 2021"
-src = "images/Odermarathon_Start_in_Scinawa_2021.jpg"
-[[images]]
-title = "Odermarathon 2021"
-src = "images/Odermarathon_2021.jpg"
-[[images]]
-title = "Rudermarathon auf der Oder Nowa Sol 2021"
-src = "images/Rudermarathon_auf_der_Oder_Nowa_Sol_2021.jpg"
-[[images]]
-title = "Start in Nowa Sol Oder 2021"
-src = "images/Start_in_Nowa_Sol_Oder_2021.jpg"
-[[images]]
-title = "Tim im E-Zweier auf der Oder 2021"
-src = "images/Tim_im_E-Zweier_auf_der_Oder_2021.jpg"
-[[images]]
-title = "Rudern auf der Oder 2021 im Nebel"
-src = "images/Rudern_auf_der_Oder_2021_im_Nebel.jpg"
-[[images]]
-title = "Ruderboot aussetzen in Kuestrin Oder 2021"
-src = "images/Ruderboot_aussetzen_in_Kuestrin_Oder_2021.jpg"
-[[images]]
-title = "Brueckenruine Oder 2021"
-src = "images/Brueckenruine_Oder_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- oder
+images:
+- src: images/Ruderboote_in_Scinawa_2021.jpg
+  title: Ruderboote in Scinawa 2021
+- src: images/Odermarathon_2021_in_Glogau.jpg
+  title: Odermarathon 2021 in Glogau
+- src: images/VL_auf_der_Oder_2021.jpg
+  title: VL auf der Oder 2021
+- src: images/Marathonrudern_auf_der_Oder_2021.jpg
+  title: Marathonrudern auf der Oder 2021
+- src: images/Odermarathon_Start_in_Scinawa_2021.jpg
+  title: Odermarathon Start in Scinawa 2021
+- src: images/Odermarathon_2021.jpg
+  title: Odermarathon 2021
+- src: images/Rudermarathon_auf_der_Oder_Nowa_Sol_2021.jpg
+  title: Rudermarathon auf der Oder Nowa Sol 2021
+- src: images/Start_in_Nowa_Sol_Oder_2021.jpg
+  title: Start in Nowa Sol Oder 2021
+- src: images/Tim_im_E-Zweier_auf_der_Oder_2021.jpg
+  title: Tim im E-Zweier auf der Oder 2021
+- src: images/Rudern_auf_der_Oder_2021_im_Nebel.jpg
+  title: Rudern auf der Oder 2021 im Nebel
+- src: images/Ruderboot_aussetzen_in_Kuestrin_Oder_2021.jpg
+  title: Ruderboot aussetzen in Kuestrin Oder 2021
+- src: images/Brueckenruine_Oder_2021.jpg
+  title: Brueckenruine Oder 2021
+länder: []
+title: Odermarathon 2021
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

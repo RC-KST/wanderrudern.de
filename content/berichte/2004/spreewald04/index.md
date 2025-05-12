@@ -1,13 +1,19 @@
-+++
-title = "Spree Pfingsten 2004"
-author = ""
-date = 2004-05-05T01:00:00+02:00
-begin = "2004-05-01"
-"gewässer" = ["dahme", "spree", "oder-spree-kanal", "spreewald", "neuendorfer see", "köthener see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2004-05-01"
+date: "2004-05-05T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- oder-spree-kanal
+- spreewald
+- neuendorfer see
+- köthener see
+- oder
+länder: []
+title: Spree Pfingsten 2004
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

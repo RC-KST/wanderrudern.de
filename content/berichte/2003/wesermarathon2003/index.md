@@ -1,31 +1,27 @@
-+++
-title = "Wesermarathon 2003"
-author = ""
-date = 2003-05-05T01:00:00+02:00
-begin = "2003-05-01"
-"gewässer" = ["weser", "fulda"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Baumgarten Fun Trainer in der Schleuse"
-src = "images/freddy_timo_kilian.jpg"
-[[images]]
-title = "norina_joerg_thomas"
-src = "images/norina_joerg_thomas.jpg"
-[[images]]
-title = "Bad Hersfeld Fulda Ruderboot"
-src = "images/greta.jpg"
-[[images]]
-title = "Wehr auf der Fulda Greta"
-src = "images/greta_rothenburg.jpg"
-[[images]]
-title = "Laura"
-src = "images/seegig_n3.jpg"
-[[images]]
-title = "Marathonstart Weser Ruderer"
-src = "images/laura_greta.jpg"
-
-+++
+---
+author: ""
+begin: "2003-05-01"
+date: "2003-05-05T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+images:
+- src: images/freddy_timo_kilian.jpg
+  title: Baumgarten Fun Trainer in der Schleuse
+- src: images/norina_joerg_thomas.jpg
+  title: norina_joerg_thomas
+- src: images/greta.jpg
+  title: Bad Hersfeld Fulda Ruderboot
+- src: images/greta_rothenburg.jpg
+  title: Wehr auf der Fulda Greta
+- src: images/seegig_n3.jpg
+  title: Laura
+- src: images/laura_greta.jpg
+  title: Marathonstart Weser Ruderer
+länder: []
+title: Wesermarathon 2003
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

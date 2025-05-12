@@ -1,16 +1,15 @@
-+++
-title = "Neuer Bootsanhänger "
-author = ""
-date = 2015-05-05T01:00:00+02:00
-begin = "2015-05-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderbootsanhaenger 2-lagig"
-src = "images/Ruderbootsanhaenger_2-lagig.png"
-
-+++
+---
+author: ""
+begin: "2015-05-01"
+date: "2015-05-05T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ruderbootsanhaenger_2-lagig.png
+  title: Ruderbootsanhaenger 2-lagig
+länder: []
+title: 'Neuer Bootsanhänger '
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

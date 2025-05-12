@@ -1,25 +1,21 @@
-+++
-title = "Schulrudern Kant 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Schuelerrudern Kant Gymnasium am Stoelpchensee 2019"
-src = "images/Schuelerrudern_Kant_Gymnasium_am_Stoelpchensee_2019.jpg"
-[[images]]
-title = "Schuelerrudern Kant Gymnasium 2019"
-src = "images/Schuelerrudern_Kant_Gymnasium_2019.jpg"
-[[images]]
-title = "Kant Gymnasium Teltow Schuelerrudern 2019"
-src = "images/Kant_Gymnasium_Teltow_Schuelerrudern_2019.jpg"
-[[images]]
-title = "Schuelerruderer Kant Gymnasium am Stoelpchensee 2019"
-src = "images/Schuelerruderer_Kant_Gymnasium_am_Stoelpchensee_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Schuelerrudern_Kant_Gymnasium_am_Stoelpchensee_2019.jpg
+  title: Schuelerrudern Kant Gymnasium am Stoelpchensee 2019
+- src: images/Schuelerrudern_Kant_Gymnasium_2019.jpg
+  title: Schuelerrudern Kant Gymnasium 2019
+- src: images/Kant_Gymnasium_Teltow_Schuelerrudern_2019.jpg
+  title: Kant Gymnasium Teltow Schuelerrudern 2019
+- src: images/Schuelerruderer_Kant_Gymnasium_am_Stoelpchensee_2019.jpg
+  title: Schuelerruderer Kant Gymnasium am Stoelpchensee 2019
+länder: []
+title: Schulrudern Kant 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

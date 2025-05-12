@@ -1,40 +1,32 @@
-+++
-title = "Ketzin Maerz 2022"
-author = ""
-date = 2022-03-03T01:00:00+02:00
-begin = "2022-03-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Machnower Schleuse Maerz 2022"
-src = "images/Machnower_Schleuse_Maerz_2022.jpg"
-[[images]]
-title = "Glienicker Bruecke auf dem Weg nach Ketzin Maerz 2022"
-src = "images/Glienicker_Bruecke_auf_dem_Weg_nach_Ketzin_Maerz_2022.jpg"
-[[images]]
-title = "Abendstimmung Ketzin Maerz 2022"
-src = "images/Abendstimmung_Ketzin_Maerz_2022.jpg"
-[[images]]
-title = "Ruderboot und Frachter Havel Brandenburg Maerz 2022"
-src = "images/Ruderboot_und_Frachter_Havel_Brandenburg_Maerz_2022.jpg"
-[[images]]
-title = "Schleuse Brandenburg Melina im Ruderboot Maerz 2022"
-src = "images/Schleuse_Brandenburg_Melina_im_Ruderboot_Maerz_2022.jpg"
-[[images]]
-title = "Master Ruderer bei Ketzin Maerz 2022"
-src = "images/Master_Ruderer_bei_Ketzin_Maerz_2022.jpg"
-[[images]]
-title = "E-Zweier in Ketzin Daemmerung Maerz 2022"
-src = "images/E-Zweier_in_Ketzin_Daemmerung_Maerz_2022.jpg"
-[[images]]
-title = "Baumgarten C5x+ Sacrow Paretzer Kanal Maerz 2022"
-src = "images/Baumgarten_C5x__Sacrow_Paretzer_Kanal_Maerz_2022.jpg"
-[[images]]
-title = "LRV Brandenburg Versammlung"
-src = "images/LRV_Brandenburg_Versammlung.jpg"
-
-+++
+---
+author: ""
+begin: "2022-03-01"
+date: "2022-03-03T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Machnower_Schleuse_Maerz_2022.jpg
+  title: Machnower Schleuse Maerz 2022
+- src: images/Glienicker_Bruecke_auf_dem_Weg_nach_Ketzin_Maerz_2022.jpg
+  title: Glienicker Bruecke auf dem Weg nach Ketzin Maerz 2022
+- src: images/Abendstimmung_Ketzin_Maerz_2022.jpg
+  title: Abendstimmung Ketzin Maerz 2022
+- src: images/Ruderboot_und_Frachter_Havel_Brandenburg_Maerz_2022.jpg
+  title: Ruderboot und Frachter Havel Brandenburg Maerz 2022
+- src: images/Schleuse_Brandenburg_Melina_im_Ruderboot_Maerz_2022.jpg
+  title: Schleuse Brandenburg Melina im Ruderboot Maerz 2022
+- src: images/Master_Ruderer_bei_Ketzin_Maerz_2022.jpg
+  title: Master Ruderer bei Ketzin Maerz 2022
+- src: images/E-Zweier_in_Ketzin_Daemmerung_Maerz_2022.jpg
+  title: E-Zweier in Ketzin Daemmerung Maerz 2022
+- src: images/Baumgarten_C5x__Sacrow_Paretzer_Kanal_Maerz_2022.jpg
+  title: Baumgarten C5x+ Sacrow Paretzer Kanal Maerz 2022
+- src: images/LRV_Brandenburg_Versammlung.jpg
+  title: LRV Brandenburg Versammlung
+länder: []
+title: Ketzin Maerz 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

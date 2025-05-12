@@ -1,70 +1,54 @@
-+++
-title = "Saar Mosel Rhein 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["rhein", "mosel", "saar"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Baumgarten Boote auf dem Anhänger WRT2021"
-src = "images/Baumgarten_Boote_auf_dem_Anhanger_WRT2021.jpg"
-[[images]]
-title = "Einsetzstelle Kleinblittersdorf Saar WRT021"
-src = "images/Einsetzstelle_Kleinblittersdorf_Saar_WRT021.jpg"
-[[images]]
-title = "Baumgarten Marathon Boot auf Wanderfahrt Saar WRT2021"
-src = "images/Baumgarten_Marathon_Boot_auf_Wanderfahrt_Saar_WRT2021.jpg"
-[[images]]
-title = "Vierer obere Saar WRT2021"
-src = "images/Vierer_obere_Saar_WRT2021.jpg"
-[[images]]
-title = "WRT 2021 Start an der Saar"
-src = "images/WRT_2021_Start_an_der_Saar.jpg"
-[[images]]
-title = "Wanderrudertreffen 2021 Start der Ruderboote"
-src = "images/Wanderrudertreffen_2021_Start_der_Ruderboote.jpg"
-[[images]]
-title = "Wanderrudertreffen WRT2021 Mittagspause"
-src = "images/Wanderrudertreffen_WRT2021_Mittagspause.jpg"
-[[images]]
-title = "Girlies in der Saarschleife WRT2021"
-src = "images/Girlies_in_der_Saarschleife_WRT2021.jpg"
-[[images]]
-title = "Ruderboote in der Saarschleife WRT2021"
-src = "images/Ruderboote_in_der_Saarschleife_WRT2021.jpg"
-[[images]]
-title = "Ruderer auf der unteren Saar WRT2021"
-src = "images/Ruderer_auf_der_unteren_Saar_WRT2021.jpg"
-[[images]]
-title = "Saarschleife Ruderer WRT2021"
-src = "images/Saarschleife_Ruderer_WRT2021.jpg"
-[[images]]
-title = "Ruderboote in der Saar Schleuse WRT2021"
-src = "images/Ruderboote_in_der_Saar_Schleuse_WRT2021.jpg"
-[[images]]
-title = "volle Schleuse auf der Saar WRT2021"
-src = "images/volle_Schleuse_auf_der_Saar_WRT2021.jpg"
-[[images]]
-title = "Ruderinnen untere Saar WRT2021"
-src = "images/Ruderinnen_untere_Saar_WRT2021.jpg"
-[[images]]
-title = "Äquatorpreisträger beim Wanderrudertreffen 2021"
-src = "images/Aquatorpreistrager_beim_Wanderrudertreffen_2021.jpg"
-[[images]]
-title = "Äquatorpreise Kuchen für die Sieger WRT2021"
-src = "images/Aquatorpreise_Kuchen_fur_die_Sieger_WRT2021.jpg"
-[[images]]
-title = "Patrik Äquatorpreis WRT2021"
-src = "images/Patrik_Aquatorpreis_WRT2021.jpg"
-[[images]]
-title = "Martin mit Äquatorpreis WRT2021"
-src = "images/Martin_mit_Aquatorpreis_WRT2021.jpg"
-[[images]]
-title = "Äquatorpreisträger Martin und Patrik"
-src = "images/Aquatorpreistrager_Martin_und_Patrik.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+- saar
+images:
+- src: images/Baumgarten_Boote_auf_dem_Anhanger_WRT2021.jpg
+  title: Baumgarten Boote auf dem Anhänger WRT2021
+- src: images/Einsetzstelle_Kleinblittersdorf_Saar_WRT021.jpg
+  title: Einsetzstelle Kleinblittersdorf Saar WRT021
+- src: images/Baumgarten_Marathon_Boot_auf_Wanderfahrt_Saar_WRT2021.jpg
+  title: Baumgarten Marathon Boot auf Wanderfahrt Saar WRT2021
+- src: images/Vierer_obere_Saar_WRT2021.jpg
+  title: Vierer obere Saar WRT2021
+- src: images/WRT_2021_Start_an_der_Saar.jpg
+  title: WRT 2021 Start an der Saar
+- src: images/Wanderrudertreffen_2021_Start_der_Ruderboote.jpg
+  title: Wanderrudertreffen 2021 Start der Ruderboote
+- src: images/Wanderrudertreffen_WRT2021_Mittagspause.jpg
+  title: Wanderrudertreffen WRT2021 Mittagspause
+- src: images/Girlies_in_der_Saarschleife_WRT2021.jpg
+  title: Girlies in der Saarschleife WRT2021
+- src: images/Ruderboote_in_der_Saarschleife_WRT2021.jpg
+  title: Ruderboote in der Saarschleife WRT2021
+- src: images/Ruderer_auf_der_unteren_Saar_WRT2021.jpg
+  title: Ruderer auf der unteren Saar WRT2021
+- src: images/Saarschleife_Ruderer_WRT2021.jpg
+  title: Saarschleife Ruderer WRT2021
+- src: images/Ruderboote_in_der_Saar_Schleuse_WRT2021.jpg
+  title: Ruderboote in der Saar Schleuse WRT2021
+- src: images/volle_Schleuse_auf_der_Saar_WRT2021.jpg
+  title: volle Schleuse auf der Saar WRT2021
+- src: images/Ruderinnen_untere_Saar_WRT2021.jpg
+  title: Ruderinnen untere Saar WRT2021
+- src: images/Aquatorpreistrager_beim_Wanderrudertreffen_2021.jpg
+  title: Äquatorpreisträger beim Wanderrudertreffen 2021
+- src: images/Aquatorpreise_Kuchen_fur_die_Sieger_WRT2021.jpg
+  title: Äquatorpreise Kuchen für die Sieger WRT2021
+- src: images/Patrik_Aquatorpreis_WRT2021.jpg
+  title: Patrik Äquatorpreis WRT2021
+- src: images/Martin_mit_Aquatorpreis_WRT2021.jpg
+  title: Martin mit Äquatorpreis WRT2021
+- src: images/Aquatorpreistrager_Martin_und_Patrik.jpg
+  title: Äquatorpreisträger Martin und Patrik
+länder: []
+title: Saar Mosel Rhein 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

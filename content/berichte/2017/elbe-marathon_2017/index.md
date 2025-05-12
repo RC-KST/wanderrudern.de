@@ -1,31 +1,26 @@
-+++
-title = "Elbe-Marathon 2017"
-author = ""
-date = 2017-03-03T01:00:00+02:00
-begin = "2017-03-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Marathon Meissen 2017"
-src = "images/Marathon_Meissen_2017.jpg"
-[[images]]
-title = "Coswig Ziel Elbemarathon 2017"
-src = "images/Coswig_Ziel_Elbemarathon_2017.jpg"
-[[images]]
-title = "Marathonruderer Meissen 2017"
-src = "images/Marathonruderer_Meissen_2017.jpg"
-[[images]]
-title = "E-Vierer Elbemarathon 2017"
-src = "images/E-Vierer_Elbemarathon_2017.jpg"
-[[images]]
-title = "ruppiges Wasser Elbemarathon 2017"
-src = "images/ruppiges_Wasser_Elbemarathon_2017.jpg"
-[[images]]
-title = "Aufladen Coswig Elbemarathon 2017"
-src = "images/Aufladen_Coswig_Elbemarathon_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-03-01"
+date: "2017-03-03T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Marathon_Meissen_2017.jpg
+  title: Marathon Meissen 2017
+- src: images/Coswig_Ziel_Elbemarathon_2017.jpg
+  title: Coswig Ziel Elbemarathon 2017
+- src: images/Marathonruderer_Meissen_2017.jpg
+  title: Marathonruderer Meissen 2017
+- src: images/E-Vierer_Elbemarathon_2017.jpg
+  title: E-Vierer Elbemarathon 2017
+- src: images/ruppiges_Wasser_Elbemarathon_2017.jpg
+  title: ruppiges Wasser Elbemarathon 2017
+- src: images/Aufladen_Coswig_Elbemarathon_2017.jpg
+  title: Aufladen Coswig Elbemarathon 2017
+länder: []
+title: Elbe-Marathon 2017
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

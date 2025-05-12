@@ -1,13 +1,20 @@
-+++
-title = "Polen Bug Narew Weichsel Ostsee 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["ostsee", "oder", "weichsel", "narew", "bug", "po"]
-"länder" = ["deutschland", "polen"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+- weichsel
+- narew
+- bug
+- po
+länder:
+- deutschland
+- polen
+title: Polen Bug Narew Weichsel Ostsee 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

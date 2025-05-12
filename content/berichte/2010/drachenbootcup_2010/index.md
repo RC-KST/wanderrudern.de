@@ -1,49 +1,37 @@
-+++
-title = "Drachenbootcup 2010"
-author = ""
-date = 2010-09-09T01:00:00+02:00
-begin = "2010-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Die ersten Drachen auf dem Weg zum Start Drachenbootcup_ 2010"
-src = "images/Die_ersten_Drachen_auf_dem_Weg_zum_Start_Drachenbootcup__2010.jpg"
-[[images]]
-title = "Drachenboote vor der Machnower Schleuse DB10"
-src = "images/Drachenboote_vor_der_Machnower_Schleuse_DB10.jpg"
-[[images]]
-title = "Drachenboot auf dem Weg zum Start DB10"
-src = "images/Drachenboot_auf_dem_Weg_zum_Start_DB10.jpg"
-[[images]]
-title = "Vorbereitungen am Zielturm in Kleinmachnow DB10"
-src = "images/Vorbereitungen_am_Zielturm_in_Kleinmachnow_DB10.jpg"
-[[images]]
-title = "Festgelaende Drachenboot Kleinmachnow 2010"
-src = "images/Festgelaende_Drachenboot_Kleinmachnow_2010.jpg"
-[[images]]
-title = "Drachenbootrudercup Kleinmachnow Gaeste beim Ruderclub DB10"
-src = "images/Drachenbootrudercup_Kleinmachnow_Gaeste_beim_Ruderclub_DB10.jpg"
-[[images]]
-title = "Gruene gegen SPD Drachenbootrudercup Kleinmachnow -DB10"
-src = "images/Gruene_gegen_SPD_Drachenbootrudercup_Kleinmachnow_-DB10.jpg"
-[[images]]
-title = "Boote vor dem Steg in Kleinmachnow Drachenbootcup 2010"
-src = "images/Boote_vor_dem_Steg_in_Kleinmachnow_Drachenbootcup_2010.jpg"
-[[images]]
-title = "Zuschauer bei der Siegerehrung Drachenbootrudercup Kleinmachnow 2010"
-src = "images/Zuschauer_bei_der_Siegerehrung_Drachenbootrudercup_Kleinmachnow_2010.jpg"
-[[images]]
-title = "Petra mit den Pokalen Drachenbootcup Kleinmachnow DB10"
-src = "images/Petra_mit_den_Pokalen_Drachenbootcup_Kleinmachnow_DB10.jpg"
-[[images]]
-title = "Feen beim Drachenbootcup 2010"
-src = "images/Feen_beim_Drachenbootcup_2010.jpg"
-[[images]]
-title = "Ruderboote beim Drachenbootcup 2010"
-src = "images/Ruderboote_beim_Drachenbootcup_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-09-01"
+date: "2010-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Die_ersten_Drachen_auf_dem_Weg_zum_Start_Drachenbootcup__2010.jpg
+  title: Die ersten Drachen auf dem Weg zum Start Drachenbootcup_ 2010
+- src: images/Drachenboote_vor_der_Machnower_Schleuse_DB10.jpg
+  title: Drachenboote vor der Machnower Schleuse DB10
+- src: images/Drachenboot_auf_dem_Weg_zum_Start_DB10.jpg
+  title: Drachenboot auf dem Weg zum Start DB10
+- src: images/Vorbereitungen_am_Zielturm_in_Kleinmachnow_DB10.jpg
+  title: Vorbereitungen am Zielturm in Kleinmachnow DB10
+- src: images/Festgelaende_Drachenboot_Kleinmachnow_2010.jpg
+  title: Festgelaende Drachenboot Kleinmachnow 2010
+- src: images/Drachenbootrudercup_Kleinmachnow_Gaeste_beim_Ruderclub_DB10.jpg
+  title: Drachenbootrudercup Kleinmachnow Gaeste beim Ruderclub DB10
+- src: images/Gruene_gegen_SPD_Drachenbootrudercup_Kleinmachnow_-DB10.jpg
+  title: Gruene gegen SPD Drachenbootrudercup Kleinmachnow -DB10
+- src: images/Boote_vor_dem_Steg_in_Kleinmachnow_Drachenbootcup_2010.jpg
+  title: Boote vor dem Steg in Kleinmachnow Drachenbootcup 2010
+- src: images/Zuschauer_bei_der_Siegerehrung_Drachenbootrudercup_Kleinmachnow_2010.jpg
+  title: Zuschauer bei der Siegerehrung Drachenbootrudercup Kleinmachnow 2010
+- src: images/Petra_mit_den_Pokalen_Drachenbootcup_Kleinmachnow_DB10.jpg
+  title: Petra mit den Pokalen Drachenbootcup Kleinmachnow DB10
+- src: images/Feen_beim_Drachenbootcup_2010.jpg
+  title: Feen beim Drachenbootcup 2010
+- src: images/Ruderboote_beim_Drachenbootcup_2010.jpg
+  title: Ruderboote beim Drachenbootcup 2010
+länder: []
+title: Drachenbootcup 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

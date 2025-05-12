@@ -1,28 +1,24 @@
-+++
-title = "Messe Boot + Fun 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Baumgarten Marathon+ auf der Bootsmesse 2021"
-src = "images/Baumgarten_Marathon__auf_der_Bootsmesse_2021.jpg"
-[[images]]
-title = "Kinder am Wasserbecken Boot und Fun 2021"
-src = "images/Kinder_am_Wasserbecken_Boot_und_Fun_2021.jpg"
-[[images]]
-title = "Baumgarten Family Trainer Boot und Fun 2021"
-src = "images/Baumgarten_Family_Trainer_Boot_und_Fun_2021.jpg"
-[[images]]
-title = "Baumgarten GigRacer Messe Boot und FUn 2021"
-src = "images/Baumgarten_GigRacer_Messe_Boot_und_FUn_2021.jpg"
-[[images]]
-title = "Kinder am Ergo Boot und Fun 2021"
-src = "images/Kinder_am_Ergo_Boot_und_Fun_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Baumgarten_Marathon__auf_der_Bootsmesse_2021.jpg
+  title: Baumgarten Marathon+ auf der Bootsmesse 2021
+- src: images/Kinder_am_Wasserbecken_Boot_und_Fun_2021.jpg
+  title: Kinder am Wasserbecken Boot und Fun 2021
+- src: images/Baumgarten_Family_Trainer_Boot_und_Fun_2021.jpg
+  title: Baumgarten Family Trainer Boot und Fun 2021
+- src: images/Baumgarten_GigRacer_Messe_Boot_und_FUn_2021.jpg
+  title: Baumgarten GigRacer Messe Boot und FUn 2021
+- src: images/Kinder_am_Ergo_Boot_und_Fun_2021.jpg
+  title: Kinder am Ergo Boot und Fun 2021
+länder: []
+title: Messe Boot + Fun 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

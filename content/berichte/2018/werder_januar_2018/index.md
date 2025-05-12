@@ -1,22 +1,20 @@
-+++
-title = "Werder Januar 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Januar Wanderfahrt Werder Ketzin 2018"
-src = "images/Januar_Wanderfahrt_Werder_Ketzin_2018.jpg"
-[[images]]
-title = "Wublitz im Januar 2018"
-src = "images/Wublitz_im_Januar_2018.jpg"
-[[images]]
-title = "Diaet beim REDO Werderfahrt 2018"
-src = "images/Diaet_beim_REDO_Werderfahrt_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Januar_Wanderfahrt_Werder_Ketzin_2018.jpg
+  title: Januar Wanderfahrt Werder Ketzin 2018
+- src: images/Wublitz_im_Januar_2018.jpg
+  title: Wublitz im Januar 2018
+- src: images/Diaet_beim_REDO_Werderfahrt_2018.jpg
+  title: Diaet beim REDO Werderfahrt 2018
+länder: []
+title: Werder Januar 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

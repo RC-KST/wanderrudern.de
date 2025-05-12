@@ -1,40 +1,32 @@
-+++
-title = "Elbe Marathon 2020"
-author = ""
-date = 2020-03-03T01:00:00+02:00
-begin = "2020-03-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Torgau Baerenzwinger Elbemarathon 2020"
-src = "images/Torgau_Baerenzwinger_Elbemarathon_2020.jpg"
-[[images]]
-title = "Start in Torgau Elbemarathon 2020"
-src = "images/Start_in_Torgau_Elbemarathon_2020.jpg"
-[[images]]
-title = "Elbemarathon 2020"
-src = "images/Elbemarathon_2020.jpg"
-[[images]]
-title = "Abladen Meissen Elbemarathon 2020"
-src = "images/Abladen_Meissen_Elbemarathon_2020.jpg"
-[[images]]
-title = "Meissen Bootshaus Elbemarathon 2020"
-src = "images/Meissen_Bootshaus_Elbemarathon_2020.jpg"
-[[images]]
-title = "Meissen Start im Regen Elbemarathon 2020"
-src = "images/Meissen_Start_im_Regen_Elbemarathon_2020.jpg"
-[[images]]
-title = "Jochen Elbemarathon 2020"
-src = "images/Jochen_Elbemarathon_2020.jpg"
-[[images]]
-title = "Max Cornelius Elbemarathon 2020"
-src = "images/Max_Cornelius_Elbemarathon_2020.jpg"
-[[images]]
-title = "Torgau in Sicht Elbemarathon 2020"
-src = "images/Torgau_in_Sicht_Elbemarathon_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-03-01"
+date: "2020-03-03T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Torgau_Baerenzwinger_Elbemarathon_2020.jpg
+  title: Torgau Baerenzwinger Elbemarathon 2020
+- src: images/Start_in_Torgau_Elbemarathon_2020.jpg
+  title: Start in Torgau Elbemarathon 2020
+- src: images/Elbemarathon_2020.jpg
+  title: Elbemarathon 2020
+- src: images/Abladen_Meissen_Elbemarathon_2020.jpg
+  title: Abladen Meissen Elbemarathon 2020
+- src: images/Meissen_Bootshaus_Elbemarathon_2020.jpg
+  title: Meissen Bootshaus Elbemarathon 2020
+- src: images/Meissen_Start_im_Regen_Elbemarathon_2020.jpg
+  title: Meissen Start im Regen Elbemarathon 2020
+- src: images/Jochen_Elbemarathon_2020.jpg
+  title: Jochen Elbemarathon 2020
+- src: images/Max_Cornelius_Elbemarathon_2020.jpg
+  title: Max Cornelius Elbemarathon 2020
+- src: images/Torgau_in_Sicht_Elbemarathon_2020.jpg
+  title: Torgau in Sicht Elbemarathon 2020
+länder: []
+title: Elbe Marathon 2020
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

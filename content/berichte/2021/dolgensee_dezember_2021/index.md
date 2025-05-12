@@ -1,43 +1,37 @@
-+++
-title = "Dolgensee Dezember 2021"
-author = ""
-date = 2021-12-12T01:00:00+02:00
-begin = "2021-12-01"
-"gewässer" = ["elbe", "dahme", "teltowkanal"]
-"länder" = ["tschechien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Tempelhofer Hafen Advent 2021"
-src = "images/Tempelhofer_Hafen_Advent_2021.jpg"
-[[images]]
-title = "Universal Soldier bei Wiking Advent 2021"
-src = "images/Universal_Soldier_bei_Wiking_Advent_2021.jpg"
-[[images]]
-title = "E-Vierer bei Pro Sport Advent 2021"
-src = "images/E-Vierer_bei_Pro_Sport_Advent_2021.jpg"
-[[images]]
-title = "Ruderboot im Gosener Graben Advent 2021"
-src = "images/Ruderboot_im_Gosener_Graben_Advent_2021.jpg"
-[[images]]
-title = "Gosener Graben Advent 2021"
-src = "images/Gosener_Graben_Advent_2021.jpg"
-[[images]]
-title = "kleines Hindernis Advent 2021"
-src = "images/kleines_Hindernis_Advent_2021.jpg"
-[[images]]
-title = "Schleuse Neue Mühle Advent 2021"
-src = "images/Schleuse_Neue_Muhle_Advent_2021.jpg"
-[[images]]
-title = "KW Ruderboot Advent 2021"
-src = "images/KW_Ruderboot_Advent_2021.jpg"
-[[images]]
-title = "Krüppelsee erstes Eis Advent 2021"
-src = "images/Kruppelsee_erstes_Eis_Advent_2021.jpg"
-[[images]]
-title = "Dolgensee nicht geht mehr Advent 2021"
-src = "images/Dolgensee_nicht_geht_mehr_Advent_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-12-01"
+date: "2021-12-12T01:00:00+02:00"
+gewässer:
+- elbe
+- dahme
+- teltowkanal
+images:
+- src: images/Tempelhofer_Hafen_Advent_2021.jpg
+  title: Tempelhofer Hafen Advent 2021
+- src: images/Universal_Soldier_bei_Wiking_Advent_2021.jpg
+  title: Universal Soldier bei Wiking Advent 2021
+- src: images/E-Vierer_bei_Pro_Sport_Advent_2021.jpg
+  title: E-Vierer bei Pro Sport Advent 2021
+- src: images/Ruderboot_im_Gosener_Graben_Advent_2021.jpg
+  title: Ruderboot im Gosener Graben Advent 2021
+- src: images/Gosener_Graben_Advent_2021.jpg
+  title: Gosener Graben Advent 2021
+- src: images/kleines_Hindernis_Advent_2021.jpg
+  title: kleines Hindernis Advent 2021
+- src: images/Schleuse_Neue_Muhle_Advent_2021.jpg
+  title: Schleuse Neue Mühle Advent 2021
+- src: images/KW_Ruderboot_Advent_2021.jpg
+  title: KW Ruderboot Advent 2021
+- src: images/Kruppelsee_erstes_Eis_Advent_2021.jpg
+  title: Krüppelsee erstes Eis Advent 2021
+- src: images/Dolgensee_nicht_geht_mehr_Advent_2021.jpg
+  title: Dolgensee nicht geht mehr Advent 2021
+länder:
+- tschechien
+title: Dolgensee Dezember 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

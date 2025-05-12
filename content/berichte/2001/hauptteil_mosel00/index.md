@@ -1,43 +1,39 @@
-+++
-title = "Camargue 2001"
-author = ""
-date = 2001-11-11T01:00:00+02:00
-begin = "2001-11-01"
-"gewässer" = ["rhein", "mosel"]
-"länder" = ["deutschland", "frankreich", "luxemburg", "italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Metz Mosel Ruderer Martina Wolfgang"
-src = "images/metz.jpg"
-[[images]]
-title = "rudern durch Metz"
-src = "images/metz_2.jpg"
-[[images]]
-title = "Ruderboote auf der Mosel"
-src = "images/wind.jpg"
-[[images]]
-title = "Karsten rudert im Zweier"
-src = "images/zweier_mo00.jpg"
-[[images]]
-title = "Ruderer-Frühstück in Trier"
-src = "images/trier_fruehstueck.jpg"
-[[images]]
-title = "Anke frühstückt"
-src = "images/hannah_anke.jpg"
-[[images]]
-title = "Malte als Kielschwein im Ruderboot"
-src = "images/malte.jpg"
-[[images]]
-title = "Weinprobe der Ruderer"
-src = "images/weinprobe1.jpg"
-[[images]]
-title = "Karsten Malte und Anke auf der Burg"
-src = "images/burg_mo00.jpg"
-[[images]]
-title = "Moselschleife"
-src = "images/moselschleife.jpg"
-
-+++
+---
+author: ""
+begin: "2001-11-01"
+date: "2001-11-11T01:00:00+02:00"
+gewässer:
+- rhein
+- mosel
+images:
+- src: images/metz.jpg
+  title: Metz Mosel Ruderer Martina Wolfgang
+- src: images/metz_2.jpg
+  title: rudern durch Metz
+- src: images/wind.jpg
+  title: Ruderboote auf der Mosel
+- src: images/zweier_mo00.jpg
+  title: Karsten rudert im Zweier
+- src: images/trier_fruehstueck.jpg
+  title: Ruderer-Frühstück in Trier
+- src: images/hannah_anke.jpg
+  title: Anke frühstückt
+- src: images/malte.jpg
+  title: Malte als Kielschwein im Ruderboot
+- src: images/weinprobe1.jpg
+  title: Weinprobe der Ruderer
+- src: images/burg_mo00.jpg
+  title: Karsten Malte und Anke auf der Burg
+- src: images/moselschleife.jpg
+  title: Moselschleife
+länder:
+- deutschland
+- frankreich
+- luxemburg
+- italien
+title: Camargue 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

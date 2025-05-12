@@ -1,142 +1,105 @@
-+++
-title = "Donau Bezdan Negotin 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["donau", "save", "aller", "oder"]
-"länder" = ["ungarn", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Serbische Grenzkontrolle Donau 2017"
-src = "images/Serbische_Grenzkontrolle_Donau_2017.jpg"
-[[images]]
-title = "Apatin Donau 2017"
-src = "images/Apatin_Donau_2017.jpg"
-[[images]]
-title = "Bezdan Start Donau 2017"
-src = "images/Bezdan_Start_Donau_2017.jpg"
-[[images]]
-title = "Donau kurz vor Apatin 2017"
-src = "images/Donau_kurz_vor_Apatin_2017.jpg"
-[[images]]
-title = "Apatin Abendessen Donau 2017"
-src = "images/Apatin_Abendessen_Donau_2017.jpg"
-[[images]]
-title = "Vierer Donau 2017"
-src = "images/Vierer_Donau_2017.jpg"
-[[images]]
-title = "Anlegen Backa Palanka 2017"
-src = "images/Anlegen_Backa_Palanka_2017.jpg"
-[[images]]
-title = "Ablegen Apatin Donau 2017"
-src = "images/Ablegen_Apatin_Donau_2017.jpg"
-[[images]]
-title = "Ruderboot auf der Donau 2017"
-src = "images/Ruderboot_auf_der_Donau_2017.jpg"
-[[images]]
-title = "Ruderboot Novi Sad 2017"
-src = "images/Ruderboot_Novi_Sad_2017.jpg"
-[[images]]
-title = "Pause unter dem Steilufer Donau 2017"
-src = "images/Pause_unter_dem_Steilufer_Donau_2017.jpg"
-[[images]]
-title = "Novi Sad Ruderer auf der Festung 2017"
-src = "images/Novi_Sad_Ruderer_auf_der_Festung_2017.jpg"
-[[images]]
-title = "Jugendvierer Donau 2017"
-src = "images/Jugendvierer_Donau_2017.jpg"
-[[images]]
-title = "Abbruchkante Donau 2017"
-src = "images/Abbruchkante_Donau_2017.jpg"
-[[images]]
-title = "Donauterassen Donau 2017"
-src = "images/Donauterassen_Donau_2017.jpg"
-[[images]]
-title = "Donaupanorama 2017"
-src = "images/Donaupanorama_2017.jpg"
-[[images]]
-title = "Badezimmer Party Donau 2017"
-src = "images/Badezimmer_Party_Donau_2017.jpg"
-[[images]]
-title = "Belgrad downtown 2017"
-src = "images/Belgrad_downtown_2017.jpg"
-[[images]]
-title = "Maria und Felix Donau 2017"
-src = "images/Maria_und_Felix_Donau_2017.jpg"
-[[images]]
-title = "Belgrad Save 2017"
-src = "images/Belgrad_Save_2017.jpg"
-[[images]]
-title = "Belgrad Blick von der Burg 2017"
-src = "images/Belgrad_Blick_von_der_Burg_2017.jpg"
-[[images]]
-title = "Arka Barka Belgrad 2017"
-src = "images/Arka_Barka_Belgrad_2017.jpg"
-[[images]]
-title = "Belgrad schwimmendes Quartier 2017"
-src = "images/Belgrad_schwimmendes_Quartier_2017.jpg"
-[[images]]
-title = "Blick auf Belgrad 2017"
-src = "images/Blick_auf_Belgrad_2017.jpg"
-[[images]]
-title = "Ruderer in Belgrad 2017"
-src = "images/Ruderer_in_Belgrad_2017.jpg"
-[[images]]
-title = "Nirina Donaunebenarm 2017"
-src = "images/Nirina_Donaunebenarm_2017.jpg"
-[[images]]
-title = "Autoservice Ostern 2017"
-src = "images/Autoservice_Ostern_2017.jpg"
-[[images]]
-title = "Rampe Smederevo 2017"
-src = "images/Rampe_Smederevo_2017.jpg"
-[[images]]
-title = "Dreier im Becken von Golubac 2017"
-src = "images/Dreier_im_Becken_von_Golubac_2017.jpg"
-[[images]]
-title = "Fruehstueck Campingplatz Donau 2017"
-src = "images/Fruehstueck_Campingplatz_Donau_2017.jpg"
-[[images]]
-title = "Canyon Donau 2017"
-src = "images/Canyon_Donau_2017.jpg"
-[[images]]
-title = "Becken von Golubac 2017"
-src = "images/Becken_von_Golubac_2017.jpg"
-[[images]]
-title = "Donau im Gebirge 2017"
-src = "images/Donau_im_Gebirge_2017.jpg"
-[[images]]
-title = "Eisernes Tor im heftigen Wind Donau 2017"
-src = "images/Eisernes_Tor_im_heftigen_Wind_Donau_2017.jpg"
-[[images]]
-title = "Donau Djerdap Ruderboote 2017"
-src = "images/Donau_Djerdap_Ruderboote_2017.jpg"
-[[images]]
-title = "Donji Milanovac Ruderboote anlegen 2017"
-src = "images/Donji_Milanovac_Ruderboote_anlegen_2017.jpg"
-[[images]]
-title = "Koster im Eisernen Tor 2017"
-src = "images/Koster_im_Eisernen_Tor_2017.jpg"
-[[images]]
-title = "Hotel Djerdap Donau 2017"
-src = "images/Hotel_Djerdap_Donau_2017.jpg"
-[[images]]
-title = "Einsetzen unterhalb von Djerdap 2017"
-src = "images/Einsetzen_unterhalb_von_Djerdap_2017.jpg"
-[[images]]
-title = "abgebranntes Hotel Brza Palanka 2017"
-src = "images/abgebranntes_Hotel_Brza_Palanka_2017.jpg"
-[[images]]
-title = "Camping bei Negotin 2017-1"
-src = "images/Camping_bei_Negotin_2017-1.jpg"
-[[images]]
-title = "Serbische Gebirgsstrasse 2017"
-src = "images/Serbische_Gebirgsstrasse_2017.jpg"
-[[images]]
-title = "Kupfermine Serbien 2017"
-src = "images/Kupfermine_Serbien_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- save
+- aller
+- oder
+images:
+- src: images/Serbische_Grenzkontrolle_Donau_2017.jpg
+  title: Serbische Grenzkontrolle Donau 2017
+- src: images/Apatin_Donau_2017.jpg
+  title: Apatin Donau 2017
+- src: images/Bezdan_Start_Donau_2017.jpg
+  title: Bezdan Start Donau 2017
+- src: images/Donau_kurz_vor_Apatin_2017.jpg
+  title: Donau kurz vor Apatin 2017
+- src: images/Apatin_Abendessen_Donau_2017.jpg
+  title: Apatin Abendessen Donau 2017
+- src: images/Vierer_Donau_2017.jpg
+  title: Vierer Donau 2017
+- src: images/Anlegen_Backa_Palanka_2017.jpg
+  title: Anlegen Backa Palanka 2017
+- src: images/Ablegen_Apatin_Donau_2017.jpg
+  title: Ablegen Apatin Donau 2017
+- src: images/Ruderboot_auf_der_Donau_2017.jpg
+  title: Ruderboot auf der Donau 2017
+- src: images/Ruderboot_Novi_Sad_2017.jpg
+  title: Ruderboot Novi Sad 2017
+- src: images/Pause_unter_dem_Steilufer_Donau_2017.jpg
+  title: Pause unter dem Steilufer Donau 2017
+- src: images/Novi_Sad_Ruderer_auf_der_Festung_2017.jpg
+  title: Novi Sad Ruderer auf der Festung 2017
+- src: images/Jugendvierer_Donau_2017.jpg
+  title: Jugendvierer Donau 2017
+- src: images/Abbruchkante_Donau_2017.jpg
+  title: Abbruchkante Donau 2017
+- src: images/Donauterassen_Donau_2017.jpg
+  title: Donauterassen Donau 2017
+- src: images/Donaupanorama_2017.jpg
+  title: Donaupanorama 2017
+- src: images/Badezimmer_Party_Donau_2017.jpg
+  title: Badezimmer Party Donau 2017
+- src: images/Belgrad_downtown_2017.jpg
+  title: Belgrad downtown 2017
+- src: images/Maria_und_Felix_Donau_2017.jpg
+  title: Maria und Felix Donau 2017
+- src: images/Belgrad_Save_2017.jpg
+  title: Belgrad Save 2017
+- src: images/Belgrad_Blick_von_der_Burg_2017.jpg
+  title: Belgrad Blick von der Burg 2017
+- src: images/Arka_Barka_Belgrad_2017.jpg
+  title: Arka Barka Belgrad 2017
+- src: images/Belgrad_schwimmendes_Quartier_2017.jpg
+  title: Belgrad schwimmendes Quartier 2017
+- src: images/Blick_auf_Belgrad_2017.jpg
+  title: Blick auf Belgrad 2017
+- src: images/Ruderer_in_Belgrad_2017.jpg
+  title: Ruderer in Belgrad 2017
+- src: images/Nirina_Donaunebenarm_2017.jpg
+  title: Nirina Donaunebenarm 2017
+- src: images/Autoservice_Ostern_2017.jpg
+  title: Autoservice Ostern 2017
+- src: images/Rampe_Smederevo_2017.jpg
+  title: Rampe Smederevo 2017
+- src: images/Dreier_im_Becken_von_Golubac_2017.jpg
+  title: Dreier im Becken von Golubac 2017
+- src: images/Fruehstueck_Campingplatz_Donau_2017.jpg
+  title: Fruehstueck Campingplatz Donau 2017
+- src: images/Canyon_Donau_2017.jpg
+  title: Canyon Donau 2017
+- src: images/Becken_von_Golubac_2017.jpg
+  title: Becken von Golubac 2017
+- src: images/Donau_im_Gebirge_2017.jpg
+  title: Donau im Gebirge 2017
+- src: images/Eisernes_Tor_im_heftigen_Wind_Donau_2017.jpg
+  title: Eisernes Tor im heftigen Wind Donau 2017
+- src: images/Donau_Djerdap_Ruderboote_2017.jpg
+  title: Donau Djerdap Ruderboote 2017
+- src: images/Donji_Milanovac_Ruderboote_anlegen_2017.jpg
+  title: Donji Milanovac Ruderboote anlegen 2017
+- src: images/Koster_im_Eisernen_Tor_2017.jpg
+  title: Koster im Eisernen Tor 2017
+- src: images/Hotel_Djerdap_Donau_2017.jpg
+  title: Hotel Djerdap Donau 2017
+- src: images/Einsetzen_unterhalb_von_Djerdap_2017.jpg
+  title: Einsetzen unterhalb von Djerdap 2017
+- src: images/abgebranntes_Hotel_Brza_Palanka_2017.jpg
+  title: abgebranntes Hotel Brza Palanka 2017
+- src: images/Camping_bei_Negotin_2017-1.jpg
+  title: Camping bei Negotin 2017-1
+- src: images/Serbische_Gebirgsstrasse_2017.jpg
+  title: Serbische Gebirgsstrasse 2017
+- src: images/Kupfermine_Serbien_2017.jpg
+  title: Kupfermine Serbien 2017
+länder:
+- ungarn
+- serbien
+title: Donau Bezdan Negotin 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

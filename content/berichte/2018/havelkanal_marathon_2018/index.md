@@ -1,25 +1,22 @@
-+++
-title = "Havelkanal Marathon 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Kilometerergebnis Havelkanal Marathon 2018"
-src = "images/Kilometerergebnis_Havelkanal_Marathon_2018.jpg"
-[[images]]
-title = "Teltowkanal am Ende des Marathons 2018"
-src = "images/Teltowkanal_am_Ende_des_Marathons_2018.jpg"
-[[images]]
-title = "Havelkanal 2018"
-src = "images/Havelkanal_2018.jpg"
-[[images]]
-title = "Schleusenstau Havelkanal Marathon 2018"
-src = "images/Schleusenstau_Havelkanal_Marathon_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Kilometerergebnis_Havelkanal_Marathon_2018.jpg
+  title: Kilometerergebnis Havelkanal Marathon 2018
+- src: images/Teltowkanal_am_Ende_des_Marathons_2018.jpg
+  title: Teltowkanal am Ende des Marathons 2018
+- src: images/Havelkanal_2018.jpg
+  title: Havelkanal 2018
+- src: images/Schleusenstau_Havelkanal_Marathon_2018.jpg
+  title: Schleusenstau Havelkanal Marathon 2018
+länder: []
+title: Havelkanal Marathon 2018
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

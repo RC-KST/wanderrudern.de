@@ -1,46 +1,39 @@
-+++
-title = "Schottland 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["oder"]
-"länder" = ["deutschland", "england", "schottland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Girlisz St Abbs 2016"
-src = "images/Girlisz_St_Abbs_2016.jpg"
-[[images]]
-title = "Stefan Klippe St abbs 2016"
-src = "images/Stefan_Klippe_St_abbs_2016.jpg"
-[[images]]
-title = "Arthurs seat Edinburgh 2016"
-src = "images/Arthurs_seat_Edinburgh_2016.jpg"
-[[images]]
-title = "Ruderinnen auf der DFDS 2016"
-src = "images/Ruderinnen_auf_der_DFDS_2016.jpg"
-[[images]]
-title = "Abendessen auf der DFDS 2016"
-src = "images/Abendessen_auf_der_DFDS_2016.jpg"
-[[images]]
-title = "St Abbs auf der Mole 2016"
-src = "images/St_Abbs_auf_der_Mole_2016.jpg"
-[[images]]
-title = "Edinburgh Burg 2016"
-src = "images/Edinburgh_Burg_2016.jpg"
-[[images]]
-title = "Ruderer abendliches feiern Drymen 2016"
-src = "images/Ruderer_abendliches_feiern_Drymen_2016.jpg"
-[[images]]
-title = "Ruderer Seil 2016"
-src = "images/Ruderer_Seil_2016.jpg"
-[[images]]
-title = "Atlantik Bruecke Oban 2016"
-src = "images/Atlantik_Bruecke_Oban_2016.jpg"
-[[images]]
-title = "schottische inseln 2016"
-src = "images/schottische_inseln_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Girlisz_St_Abbs_2016.jpg
+  title: Girlisz St Abbs 2016
+- src: images/Stefan_Klippe_St_abbs_2016.jpg
+  title: Stefan Klippe St abbs 2016
+- src: images/Arthurs_seat_Edinburgh_2016.jpg
+  title: Arthurs seat Edinburgh 2016
+- src: images/Ruderinnen_auf_der_DFDS_2016.jpg
+  title: Ruderinnen auf der DFDS 2016
+- src: images/Abendessen_auf_der_DFDS_2016.jpg
+  title: Abendessen auf der DFDS 2016
+- src: images/St_Abbs_auf_der_Mole_2016.jpg
+  title: St Abbs auf der Mole 2016
+- src: images/Edinburgh_Burg_2016.jpg
+  title: Edinburgh Burg 2016
+- src: images/Ruderer_abendliches_feiern_Drymen_2016.jpg
+  title: Ruderer abendliches feiern Drymen 2016
+- src: images/Ruderer_Seil_2016.jpg
+  title: Ruderer Seil 2016
+- src: images/Atlantik_Bruecke_Oban_2016.jpg
+  title: Atlantik Bruecke Oban 2016
+- src: images/schottische_inseln_2016.jpg
+  title: schottische inseln 2016
+länder:
+- deutschland
+- england
+- schottland
+title: Schottland 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

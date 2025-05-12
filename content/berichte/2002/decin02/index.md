@@ -1,22 +1,19 @@
-+++
-title = "Decin02"
-author = ""
-date = 2002-01-01T01:00:00+02:00
-begin = "2002-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barke im Schnee Rudern Ruderboot"
-src = "images/jugendbarke.jpg"
-[[images]]
-title = "Ruderer auf Barke mit Weihnachtsbaum"
-src = "images/ask_SRVW.jpg"
-[[images]]
-title = "Ruderer auf der Barke"
-src = "images/barke_AH.jpg"
-
-+++
+---
+author: ""
+begin: "2002-01-01"
+date: "2002-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/jugendbarke.jpg
+  title: Barke im Schnee Rudern Ruderboot
+- src: images/ask_SRVW.jpg
+  title: Ruderer auf Barke mit Weihnachtsbaum
+- src: images/barke_AH.jpg
+  title: Ruderer auf der Barke
+länder: []
+title: Decin02
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

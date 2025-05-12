@@ -1,13 +1,15 @@
-+++
-title = "Finnland Saimaa 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["inn", "saimaa"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- saimaa
+länder:
+- finnland
+title: Finnland Saimaa 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

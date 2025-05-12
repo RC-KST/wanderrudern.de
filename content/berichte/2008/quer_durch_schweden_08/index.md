@@ -1,226 +1,160 @@
-+++
-title = "Quer durch Schweden 08"
-author = ""
-date = 2008-02-02T01:00:00+02:00
-begin = "2008-02-01"
-"gewässer" = ["ostsee", "oder", "bug"]
-"länder" = ["dänemark", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sophie zeigt den Weg Sw08"
-src = "images/Sophie_zeigt_den_Weg_Sw08.jpg"
-[[images]]
-title = "Bootsanhaenger mit Gepaeck"
-src = "images/Bootsanhaenger_mit_Gepaeck.jpg"
-[[images]]
-title = "Stora Lee Startpunkt der Ruderer SW08"
-src = "images/Stora_Lee_Startpunkt_der_Ruderer_SW08.jpg"
-[[images]]
-title = "Die 3 Landdienstfahrer Sw08"
-src = "images/Die_3_Landdienstfahrer_Sw08.jpg"
-[[images]]
-title = "Insel im Stora Lee Sw08"
-src = "images/Insel_im_Stora_Lee_Sw08.jpg"
-[[images]]
-title = "Auf dem Stora Lee SW08"
-src = "images/Auf_dem_Stora_Lee_SW08.jpg"
-[[images]]
-title = "Rudervierer auf dem Stora Lee Sw08"
-src = "images/Rudervierer_auf_dem_Stora_Lee_Sw08.jpg"
-[[images]]
-title = "Klippen im Stora Lee Sw08"
-src = "images/Klippen_im_Stora_Lee_Sw08.jpg"
-[[images]]
-title = "Ruderboot auf dem Lelang SW08"
-src = "images/Ruderboot_auf_dem_Lelang_SW08.jpg"
-[[images]]
-title = "Auslegerreparatur Sw08"
-src = "images/Auslegerreparatur_Sw08.jpg"
-[[images]]
-title = "Schleusenkanal Sw08"
-src = "images/Schleusenkanal_Sw08.jpg"
-[[images]]
-title = "Schleusenkanal Lennartsfors Sw08"
-src = "images/Schleusenkanal_Lennartsfors_Sw08.jpg"
-[[images]]
-title = "Moritz und Peppi im Boot Sw08"
-src = "images/Moritz_und_Peppi_im_Boot_Sw08.jpg"
-[[images]]
-title = "Ruderboote in der Schleusentreppe Lennartsfors SW08"
-src = "images/Ruderboote_in_der_Schleusentreppe_Lennartsfors_SW08.jpg"
-[[images]]
-title = "lennartsfors schleusentreppe ruderboote sw08"
-src = "images/lennartsfors_schleusentreppe_ruderboote_sw08.jpg"
-[[images]]
-title = "aufwaertsschleusen gustavsfors Sw08"
-src = "images/aufwaertsschleusen_gustavsfors_Sw08.jpg"
-[[images]]
-title = "gustavsfors Schleusekanal Sw08"
-src = "images/gustavsfors_Schleusekanal_Sw08.jpg"
-[[images]]
-title = "Abendliches Bad in Dalsland SW08"
-src = "images/Abendliches_Bad_in_Dalsland_SW08.jpg"
-[[images]]
-title = "Ruderer bei der Pause Sw08"
-src = "images/Ruderer_bei_der_Pause_Sw08.jpg"
-[[images]]
-title = "Levon am Steuer Sw08"
-src = "images/Levon_am_Steuer_Sw08.jpg"
-[[images]]
-title = "Ruderer an der Trogbruecke Sw08"
-src = "images/Ruderer_an_der_Trogbruecke_Sw08.jpg"
-[[images]]
-title = "Auf der Schiffsbruecke SW08"
-src = "images/Auf_der_Schiffsbruecke_SW08.jpg"
-[[images]]
-title = "Aquadukt von Haverud SW08"
-src = "images/Aquadukt_von_Haverud_SW08.jpg"
-[[images]]
-title = "Einfahrt nach Haverud SW08"
-src = "images/Einfahrt_nach_Haverud_SW08.jpg"
-[[images]]
-title = "Warten in Haverud Sw0802"
-src = "images/Warten_in_Haverud_Sw0802.jpg"
-[[images]]
-title = "Patrick am Steuer Sw08"
-src = "images/Patrick_am_Steuer_Sw08.jpg"
-[[images]]
-title = "Ausfahrt auf den Vaenern Sw08"
-src = "images/Ausfahrt_auf_den_Vaenern_Sw08.jpg"
-[[images]]
-title = "Schild Dalsland Kanal  Sw08"
-src = "images/Schild_Dalsland_Kanal__Sw08.jpg"
-[[images]]
-title = "Ruderer zwischen den Zelten Sw08"
-src = "images/Ruderer_zwischen_den_Zelten_Sw08.jpg"
-[[images]]
-title = "Victor und Antonia am Strand Sw08"
-src = "images/Victor_und_Antonia_am_Strand_Sw08.jpg"
-[[images]]
-title = "Zeltplatz Mellerud Sw08"
-src = "images/Zeltplatz_Mellerud_Sw08.jpg"
-[[images]]
-title = "Regensfront vor den Ruderern Sw08"
-src = "images/Regensfront_vor_den_Ruderern_Sw08.jpg"
-[[images]]
-title = "Ruderboote auf dem Vaenern Sw08"
-src = "images/Ruderboote_auf_dem_Vaenern_Sw08.jpg"
-[[images]]
-title = "Antonia und Manuel Sw08"
-src = "images/Antonia_und_Manuel_Sw08.jpg"
-[[images]]
-title = "Traumstrand am Vaenern"
-src = "images/Traumstrand_am_Vaenern.jpg"
-[[images]]
-title = "Vaenern mit Kinnekulle Sw08"
-src = "images/Vaenern_mit_Kinnekulle_Sw08.jpg"
-[[images]]
-title = "Einsetzstelle Sw08"
-src = "images/Einsetzstelle_Sw08.jpg"
-[[images]]
-title = "Aussenschaeren Sw08"
-src = "images/Aussenschaeren_Sw08.jpg"
-[[images]]
-title = "Malte auf Schlag SW08"
-src = "images/Malte_auf_Schlag_SW08.jpg"
-[[images]]
-title = "Ruderboote in Sjoetorp Sw08"
-src = "images/Ruderboote_in_Sjoetorp_Sw08.jpg"
-[[images]]
-title = "Ruderboote in Gotakanal Schleuse Sw08"
-src = "images/Ruderboote_in_Gotakanal_Schleuse_Sw08.jpg"
-[[images]]
-title = "wo ist der Landdienst Sw08"
-src = "images/wo_ist_der_Landdienst_Sw08.jpg"
-[[images]]
-title = "Schleusenwartin3"
-src = "images/Schleusenwartin3.jpg"
-[[images]]
-title = "Ruderboote in Schleuse Sw08"
-src = "images/Ruderboote_in_Schleuse_Sw08.jpg"
-[[images]]
-title = "Badestrand fast wie Mallorca Sw08"
-src = "images/Badestrand_fast_wie_Mallorca_Sw08.jpg"
-[[images]]
-title = "Antonia flache Bruecke Sw08"
-src = "images/Antonia_flache_Bruecke_Sw08.jpg"
-[[images]]
-title = "Lina am Zweier Sw08"
-src = "images/Lina_am_Zweier_Sw08.jpg"
-[[images]]
-title = "Vierer von oben Sw08"
-src = "images/Vierer_von_oben_Sw08.jpg"
-[[images]]
-title = "sehr flache Bruecke Sw08"
-src = "images/sehr_flache_Bruecke_Sw08.jpg"
-[[images]]
-title = "Eisenbahn Hubbruecke Sw08"
-src = "images/Eisenbahn_Hubbruecke_Sw08.jpg"
-[[images]]
-title = "Auf dem Goetakanal SW08"
-src = "images/Auf_dem_Goetakanal_SW08.jpg"
-[[images]]
-title = "Lina auf dem Goetakanal"
-src = "images/Lina_auf_dem_Goetakanal.jpg"
-[[images]]
-title = "Sophie schwimmt im Vaettern SW08"
-src = "images/Sophie_schwimmt_im_Vaettern_SW08.jpg"
-[[images]]
-title = "Carl Johan Sluss Sw08"
-src = "images/Carl_Johan_Sluss_Sw08.jpg"
-[[images]]
-title = "Schleusenspringer SW08"
-src = "images/Schleusenspringer_SW08.jpg"
-[[images]]
-title = "auf dem falschen Flussarm Sw08"
-src = "images/auf_dem_falschen_Flussarm_Sw08.jpg"
-[[images]]
-title = "Schleusentreppe Carl Johan Sw08"
-src = "images/Schleusentreppe_Carl_Johan_Sw08.jpg"
-[[images]]
-title = "Ruderer bewundern den Kreuzfahrer Sw08"
-src = "images/Ruderer_bewundern_den_Kreuzfahrer_Sw08.jpg"
-[[images]]
-title = "Kreuzfahrer in Schleuse Sw08"
-src = "images/Kreuzfahrer_in_Schleuse_Sw08.jpg"
-[[images]]
-title = "etwas zu weit hinten Sw08"
-src = "images/etwas_zu_weit_hinten_Sw08.jpg"
-[[images]]
-title = "Ruderboot Sw08"
-src = "images/Ruderboot_Sw08.jpg"
-[[images]]
-title = "Rudern auf der Ostsee Sw08"
-src = "images/Rudern_auf_der_Ostsee_Sw08.jpg"
-[[images]]
-title = "schaereninsel Sw08"
-src = "images/schaereninsel_Sw08.jpg"
-[[images]]
-title = "Victor weiss wo es langgeht Sw08"
-src = "images/Victor_weiss_wo_es_langgeht_Sw08.jpg"
-[[images]]
-title = "Abendessen Sw08"
-src = "images/Abendessen_Sw08.jpg"
-[[images]]
-title = "Auf der Terasse Sw08"
-src = "images/Auf_der_Terasse_Sw08.jpg"
-[[images]]
-title = "Astrid Lindgrens Welt Sw08"
-src = "images/Astrid_Lindgrens_Welt_Sw08.jpg"
-[[images]]
-title = "Kinder im Junibaken SW08"
-src = "images/Kinder_im_Junibaken_SW08.jpg"
-[[images]]
-title = "Villa Kunterbunt SW08"
-src = "images/Villa_Kunterbunt_SW08.jpg"
-[[images]]
-title = "Vasa SW08"
-src = "images/Vasa_SW08.jpg"
-[[images]]
-title = "Sophie im Nachtclub SW08"
-src = "images/Sophie_im_Nachtclub_SW08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-02-01"
+date: "2008-02-02T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+- bug
+images:
+- src: images/Sophie_zeigt_den_Weg_Sw08.jpg
+  title: Sophie zeigt den Weg Sw08
+- src: images/Bootsanhaenger_mit_Gepaeck.jpg
+  title: Bootsanhaenger mit Gepaeck
+- src: images/Stora_Lee_Startpunkt_der_Ruderer_SW08.jpg
+  title: Stora Lee Startpunkt der Ruderer SW08
+- src: images/Die_3_Landdienstfahrer_Sw08.jpg
+  title: Die 3 Landdienstfahrer Sw08
+- src: images/Insel_im_Stora_Lee_Sw08.jpg
+  title: Insel im Stora Lee Sw08
+- src: images/Auf_dem_Stora_Lee_SW08.jpg
+  title: Auf dem Stora Lee SW08
+- src: images/Rudervierer_auf_dem_Stora_Lee_Sw08.jpg
+  title: Rudervierer auf dem Stora Lee Sw08
+- src: images/Klippen_im_Stora_Lee_Sw08.jpg
+  title: Klippen im Stora Lee Sw08
+- src: images/Ruderboot_auf_dem_Lelang_SW08.jpg
+  title: Ruderboot auf dem Lelang SW08
+- src: images/Auslegerreparatur_Sw08.jpg
+  title: Auslegerreparatur Sw08
+- src: images/Schleusenkanal_Sw08.jpg
+  title: Schleusenkanal Sw08
+- src: images/Schleusenkanal_Lennartsfors_Sw08.jpg
+  title: Schleusenkanal Lennartsfors Sw08
+- src: images/Moritz_und_Peppi_im_Boot_Sw08.jpg
+  title: Moritz und Peppi im Boot Sw08
+- src: images/Ruderboote_in_der_Schleusentreppe_Lennartsfors_SW08.jpg
+  title: Ruderboote in der Schleusentreppe Lennartsfors SW08
+- src: images/lennartsfors_schleusentreppe_ruderboote_sw08.jpg
+  title: lennartsfors schleusentreppe ruderboote sw08
+- src: images/aufwaertsschleusen_gustavsfors_Sw08.jpg
+  title: aufwaertsschleusen gustavsfors Sw08
+- src: images/gustavsfors_Schleusekanal_Sw08.jpg
+  title: gustavsfors Schleusekanal Sw08
+- src: images/Abendliches_Bad_in_Dalsland_SW08.jpg
+  title: Abendliches Bad in Dalsland SW08
+- src: images/Ruderer_bei_der_Pause_Sw08.jpg
+  title: Ruderer bei der Pause Sw08
+- src: images/Levon_am_Steuer_Sw08.jpg
+  title: Levon am Steuer Sw08
+- src: images/Ruderer_an_der_Trogbruecke_Sw08.jpg
+  title: Ruderer an der Trogbruecke Sw08
+- src: images/Auf_der_Schiffsbruecke_SW08.jpg
+  title: Auf der Schiffsbruecke SW08
+- src: images/Aquadukt_von_Haverud_SW08.jpg
+  title: Aquadukt von Haverud SW08
+- src: images/Einfahrt_nach_Haverud_SW08.jpg
+  title: Einfahrt nach Haverud SW08
+- src: images/Warten_in_Haverud_Sw0802.jpg
+  title: Warten in Haverud Sw0802
+- src: images/Patrick_am_Steuer_Sw08.jpg
+  title: Patrick am Steuer Sw08
+- src: images/Ausfahrt_auf_den_Vaenern_Sw08.jpg
+  title: Ausfahrt auf den Vaenern Sw08
+- src: images/Schild_Dalsland_Kanal__Sw08.jpg
+  title: Schild Dalsland Kanal  Sw08
+- src: images/Ruderer_zwischen_den_Zelten_Sw08.jpg
+  title: Ruderer zwischen den Zelten Sw08
+- src: images/Victor_und_Antonia_am_Strand_Sw08.jpg
+  title: Victor und Antonia am Strand Sw08
+- src: images/Zeltplatz_Mellerud_Sw08.jpg
+  title: Zeltplatz Mellerud Sw08
+- src: images/Regensfront_vor_den_Ruderern_Sw08.jpg
+  title: Regensfront vor den Ruderern Sw08
+- src: images/Ruderboote_auf_dem_Vaenern_Sw08.jpg
+  title: Ruderboote auf dem Vaenern Sw08
+- src: images/Antonia_und_Manuel_Sw08.jpg
+  title: Antonia und Manuel Sw08
+- src: images/Traumstrand_am_Vaenern.jpg
+  title: Traumstrand am Vaenern
+- src: images/Vaenern_mit_Kinnekulle_Sw08.jpg
+  title: Vaenern mit Kinnekulle Sw08
+- src: images/Einsetzstelle_Sw08.jpg
+  title: Einsetzstelle Sw08
+- src: images/Aussenschaeren_Sw08.jpg
+  title: Aussenschaeren Sw08
+- src: images/Malte_auf_Schlag_SW08.jpg
+  title: Malte auf Schlag SW08
+- src: images/Ruderboote_in_Sjoetorp_Sw08.jpg
+  title: Ruderboote in Sjoetorp Sw08
+- src: images/Ruderboote_in_Gotakanal_Schleuse_Sw08.jpg
+  title: Ruderboote in Gotakanal Schleuse Sw08
+- src: images/wo_ist_der_Landdienst_Sw08.jpg
+  title: wo ist der Landdienst Sw08
+- src: images/Schleusenwartin3.jpg
+  title: Schleusenwartin3
+- src: images/Ruderboote_in_Schleuse_Sw08.jpg
+  title: Ruderboote in Schleuse Sw08
+- src: images/Badestrand_fast_wie_Mallorca_Sw08.jpg
+  title: Badestrand fast wie Mallorca Sw08
+- src: images/Antonia_flache_Bruecke_Sw08.jpg
+  title: Antonia flache Bruecke Sw08
+- src: images/Lina_am_Zweier_Sw08.jpg
+  title: Lina am Zweier Sw08
+- src: images/Vierer_von_oben_Sw08.jpg
+  title: Vierer von oben Sw08
+- src: images/sehr_flache_Bruecke_Sw08.jpg
+  title: sehr flache Bruecke Sw08
+- src: images/Eisenbahn_Hubbruecke_Sw08.jpg
+  title: Eisenbahn Hubbruecke Sw08
+- src: images/Auf_dem_Goetakanal_SW08.jpg
+  title: Auf dem Goetakanal SW08
+- src: images/Lina_auf_dem_Goetakanal.jpg
+  title: Lina auf dem Goetakanal
+- src: images/Sophie_schwimmt_im_Vaettern_SW08.jpg
+  title: Sophie schwimmt im Vaettern SW08
+- src: images/Carl_Johan_Sluss_Sw08.jpg
+  title: Carl Johan Sluss Sw08
+- src: images/Schleusenspringer_SW08.jpg
+  title: Schleusenspringer SW08
+- src: images/auf_dem_falschen_Flussarm_Sw08.jpg
+  title: auf dem falschen Flussarm Sw08
+- src: images/Schleusentreppe_Carl_Johan_Sw08.jpg
+  title: Schleusentreppe Carl Johan Sw08
+- src: images/Ruderer_bewundern_den_Kreuzfahrer_Sw08.jpg
+  title: Ruderer bewundern den Kreuzfahrer Sw08
+- src: images/Kreuzfahrer_in_Schleuse_Sw08.jpg
+  title: Kreuzfahrer in Schleuse Sw08
+- src: images/etwas_zu_weit_hinten_Sw08.jpg
+  title: etwas zu weit hinten Sw08
+- src: images/Ruderboot_Sw08.jpg
+  title: Ruderboot Sw08
+- src: images/Rudern_auf_der_Ostsee_Sw08.jpg
+  title: Rudern auf der Ostsee Sw08
+- src: images/schaereninsel_Sw08.jpg
+  title: schaereninsel Sw08
+- src: images/Victor_weiss_wo_es_langgeht_Sw08.jpg
+  title: Victor weiss wo es langgeht Sw08
+- src: images/Abendessen_Sw08.jpg
+  title: Abendessen Sw08
+- src: images/Auf_der_Terasse_Sw08.jpg
+  title: Auf der Terasse Sw08
+- src: images/Astrid_Lindgrens_Welt_Sw08.jpg
+  title: Astrid Lindgrens Welt Sw08
+- src: images/Kinder_im_Junibaken_SW08.jpg
+  title: Kinder im Junibaken SW08
+- src: images/Villa_Kunterbunt_SW08.jpg
+  title: Villa Kunterbunt SW08
+- src: images/Vasa_SW08.jpg
+  title: Vasa SW08
+- src: images/Sophie_im_Nachtclub_SW08.jpg
+  title: Sophie im Nachtclub SW08
+länder:
+- dänemark
+- schweden
+title: Quer durch Schweden 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

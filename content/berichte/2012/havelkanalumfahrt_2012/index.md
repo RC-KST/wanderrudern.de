@@ -1,28 +1,25 @@
-+++
-title = "Havelkanalumfahrt 2012"
-author = ""
-date = 2012-01-01T01:00:00+02:00
-begin = "2012-01-01"
-"gewässer" = ["havel", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Machnower Schleuse Ruderverein Morgens 2012"
-src = "images/Machnower_Schleuse_Ruderverein_Morgens_2012.jpg"
-[[images]]
-title = "Ruderer vor der 100km Tour"
-src = "images/Ruderer_vor_der_100km_Tour.jpg"
-[[images]]
-title = "Frachter auf dem Havelkanal 2012"
-src = "images/Frachter_auf_dem_Havelkanal_2012.jpg"
-[[images]]
-title = "100 km Tour Spandauer Schleuse 2012"
-src = "images/100_km_Tour_Spandauer_Schleuse_2012.jpg"
-[[images]]
-title = "Sternfahrt Hevella 2012"
-src = "images/Sternfahrt_Hevella_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-01-01"
+date: "2012-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- oder
+images:
+- src: images/Machnower_Schleuse_Ruderverein_Morgens_2012.jpg
+  title: Machnower Schleuse Ruderverein Morgens 2012
+- src: images/Ruderer_vor_der_100km_Tour.jpg
+  title: Ruderer vor der 100km Tour
+- src: images/Frachter_auf_dem_Havelkanal_2012.jpg
+  title: Frachter auf dem Havelkanal 2012
+- src: images/100_km_Tour_Spandauer_Schleuse_2012.jpg
+  title: 100 km Tour Spandauer Schleuse 2012
+- src: images/Sternfahrt_Hevella_2012.jpg
+  title: Sternfahrt Hevella 2012
+länder: []
+title: Havelkanalumfahrt 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

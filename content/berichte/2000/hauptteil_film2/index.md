@@ -1,16 +1,15 @@
-+++
-title = "Decin00"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anlegen in Meissen Ruderboot Barke"
-src = "images/Ablegen.gif"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Ablegen.gif
+  title: Anlegen in Meissen Ruderboot Barke
+länder: []
+title: Decin00
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

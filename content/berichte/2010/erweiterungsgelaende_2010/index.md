@@ -1,28 +1,24 @@
-+++
-title = "Erweiterungsgelaende 2010"
-author = ""
-date = 2010-05-05T01:00:00+02:00
-begin = "2010-05-01"
-"gewässer" = ["oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Blick zum Wasser RC KST2010"
-src = "images/Blick_zum_Wasser_RC_KST2010.jpg"
-[[images]]
-title = "Blick zur Ruine neues Gelaende 2010"
-src = "images/Blick_zur_Ruine_neues_Gelaende_2010.jpg"
-[[images]]
-title = "Clubgelaende bei Uebernahme Mai 2010"
-src = "images/Clubgelaende_bei_Uebernahme_Mai_2010.jpg"
-[[images]]
-title = "Schrott vor dem Haus 2010"
-src = "images/Schrott_vor_dem_Haus_2010.jpg"
-[[images]]
-title = "Ruine auf dem Clubgelaende 2010"
-src = "images/Ruine_auf_dem_Clubgelaende_2010.jpg"
-
-+++
+---
+author: ""
+begin: "2010-05-01"
+date: "2010-05-05T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Blick_zum_Wasser_RC_KST2010.jpg
+  title: Blick zum Wasser RC KST2010
+- src: images/Blick_zur_Ruine_neues_Gelaende_2010.jpg
+  title: Blick zur Ruine neues Gelaende 2010
+- src: images/Clubgelaende_bei_Uebernahme_Mai_2010.jpg
+  title: Clubgelaende bei Uebernahme Mai 2010
+- src: images/Schrott_vor_dem_Haus_2010.jpg
+  title: Schrott vor dem Haus 2010
+- src: images/Ruine_auf_dem_Clubgelaende_2010.jpg
+  title: Ruine auf dem Clubgelaende 2010
+länder: []
+title: Erweiterungsgelaende 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

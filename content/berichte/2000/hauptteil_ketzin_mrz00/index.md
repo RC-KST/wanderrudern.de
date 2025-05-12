@@ -1,19 +1,19 @@
-+++
-title = "Ketzin März 2000"
-author = ""
-date = 2000-03-03T01:00:00+02:00
-begin = "2000-03-01"
-"gewässer" = ["wannsee", "zernsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ketzin Seesportclub Ruderer"
-src = "images/ketzin.jpg"
-[[images]]
-title = "Werder Steg Ruderboot"
-src = "images/werder.jpg"
-
-+++
+---
+author: ""
+begin: "2000-03-01"
+date: "2000-03-03T01:00:00+02:00"
+gewässer:
+- wannsee
+- zernsee
+images:
+- src: images/ketzin.jpg
+  title: Ketzin Seesportclub Ruderer
+- src: images/werder.jpg
+  title: Werder Steg Ruderboot
+länder: []
+title: Ketzin März 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,106 +1,83 @@
-+++
-title = "Main Donau Kanal Main"
-author = ""
-date = 2008-05-05T01:00:00+02:00
-begin = "2008-05-01"
-"gewässer" = ["donau", "rhein", "main", "neckar", "main-donau-kanal", "saimaa"]
-"länder" = ["deutschland", "italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote riggern in  Berching  MDK08"
-src = "images/Boote_riggern_in__Berching__MDK08.jpg"
-[[images]]
-title = "Moritz auf dem Main Donau Kanal MDK08"
-src = "images/Moritz_auf_dem_Main_Donau_Kanal_MDK08.jpg"
-[[images]]
-title = "Scheitelhaltung des Main Donau Kanals im Ruderboot MDK08"
-src = "images/Scheitelhaltung_des_Main_Donau_Kanals_im_Ruderboot_MDK08.jpg"
-[[images]]
-title = "Bootsumtrage am Main Donau Kanal 08"
-src = "images/Bootsumtrage_am_Main_Donau_Kanal_08.jpg"
-[[images]]
-title = "Wandern macht Spass MDK08"
-src = "images/Wandern_macht_Spass_MDK08.jpg"
-[[images]]
-title = "Start beim Ruderclub in Erlangen MDK08"
-src = "images/Start_beim_Ruderclub_in_Erlangen_MDK08.jpg"
-[[images]]
-title = "Bootswandern am MDK 08"
-src = "images/Bootswandern_am_MDK_08.jpg"
-[[images]]
-title = "lange umtrage am Main Donau Kanal 08"
-src = "images/lange_umtrage_am_Main_Donau_Kanal_08.jpg"
-[[images]]
-title = "Malte am Main Donau Kanal 08"
-src = "images/Malte_am_Main_Donau_Kanal_08.jpg"
-[[images]]
-title = "Ruderboot auf der Regnitz in Bamberg MDK08"
-src = "images/Ruderboot_auf_der_Regnitz_in_Bamberg_MDK08.jpg"
-[[images]]
-title = "Felsen und Weinberge am Main MDK08"
-src = "images/Felsen_und_Weinberge_am_Main_MDK08.jpg"
-[[images]]
-title = "Kirstin im Ruderboot auf dem Main MDK08"
-src = "images/Kirstin_im_Ruderboot_auf_dem_Main_MDK08.jpg"
-[[images]]
-title = "Pizza essen in Kitzingen MDK08"
-src = "images/Pizza_essen_in_Kitzingen_MDK08.jpg"
-[[images]]
-title = "Main rudern im Dunkeln MDK08"
-src = "images/Main_rudern_im_Dunkeln_MDK08.jpg"
-[[images]]
-title = "Altstadt von Karlstadt von der Burg aus MDK08"
-src = "images/Altstadt_von_Karlstadt_von_der_Burg_aus_MDK08.jpg"
-[[images]]
-title = "Sophie in Sportbootschleuse Main MDK08"
-src = "images/Sophie_in_Sportbootschleuse_Main_MDK08.jpg"
-[[images]]
-title = "Schleusenwart Moritz steigt wieder ein MDK08"
-src = "images/Schleusenwart_Moritz_steigt_wieder_ein_MDK08.jpg"
-[[images]]
-title = "Sportschleuse Main Unterwasser MDK08"
-src = "images/Sportschleuse_Main_Unterwasser_MDK08.jpg"
-[[images]]
-title = "Burgruine Wertheim MDK08"
-src = "images/Burgruine_Wertheim_MDK08.jpg"
-[[images]]
-title = "Ruderboot an der Decke MDK08"
-src = "images/Ruderboot_an_der_Decke_MDK08.jpg"
-[[images]]
-title = "Sophie vor dem Schloss in Aschaffenburg MDK08"
-src = "images/Sophie_vor_dem_Schloss_in_Aschaffenburg_MDK08.jpg"
-[[images]]
-title = "Steg in Aschaffenburg MDK08"
-src = "images/Steg_in_Aschaffenburg_MDK08.jpg"
-[[images]]
-title = "Frankfurt bei Nacht MDK08"
-src = "images/Frankfurt_bei_Nacht_MDK08.jpg"
-[[images]]
-title = "Frankfurter ruderverein in der bruecke MDK08"
-src = "images/Frankfurter_ruderverein_in_der_bruecke_MDK08.jpg"
-[[images]]
-title = "Frankfurt vom Ruderboot aus MDK08"
-src = "images/Frankfurt_vom_Ruderboot_aus_MDK08.jpg"
-[[images]]
-title = "Main Kilometer 0 MDK08"
-src = "images/Main_Kilometer_0_MDK08.jpg"
-[[images]]
-title = "Ueberholverbot was ist das MDK08"
-src = "images/Ueberholverbot_was_ist_das_MDK08.jpg"
-[[images]]
-title = "Ruderboot Binger Loch Rhein MDK08"
-src = "images/Ruderboot_Binger_Loch_Rhein_MDK08.jpg"
-[[images]]
-title = "Kaub am Rhein MDK08"
-src = "images/Kaub_am_Rhein_MDK08.jpg"
-[[images]]
-title = "Ruderboot in der Lorelei MDK08"
-src = "images/Ruderboot_in_der_Lorelei_MDK08.jpg"
-[[images]]
-title = "Quartier Germania Boppard MDK08"
-src = "images/Quartier_Germania_Boppard_MDK08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-05-01"
+date: "2008-05-05T01:00:00+02:00"
+gewässer:
+- donau
+- rhein
+- main
+- neckar
+- main-donau-kanal
+- saimaa
+images:
+- src: images/Boote_riggern_in__Berching__MDK08.jpg
+  title: Boote riggern in  Berching  MDK08
+- src: images/Moritz_auf_dem_Main_Donau_Kanal_MDK08.jpg
+  title: Moritz auf dem Main Donau Kanal MDK08
+- src: images/Scheitelhaltung_des_Main_Donau_Kanals_im_Ruderboot_MDK08.jpg
+  title: Scheitelhaltung des Main Donau Kanals im Ruderboot MDK08
+- src: images/Bootsumtrage_am_Main_Donau_Kanal_08.jpg
+  title: Bootsumtrage am Main Donau Kanal 08
+- src: images/Wandern_macht_Spass_MDK08.jpg
+  title: Wandern macht Spass MDK08
+- src: images/Start_beim_Ruderclub_in_Erlangen_MDK08.jpg
+  title: Start beim Ruderclub in Erlangen MDK08
+- src: images/Bootswandern_am_MDK_08.jpg
+  title: Bootswandern am MDK 08
+- src: images/lange_umtrage_am_Main_Donau_Kanal_08.jpg
+  title: lange umtrage am Main Donau Kanal 08
+- src: images/Malte_am_Main_Donau_Kanal_08.jpg
+  title: Malte am Main Donau Kanal 08
+- src: images/Ruderboot_auf_der_Regnitz_in_Bamberg_MDK08.jpg
+  title: Ruderboot auf der Regnitz in Bamberg MDK08
+- src: images/Felsen_und_Weinberge_am_Main_MDK08.jpg
+  title: Felsen und Weinberge am Main MDK08
+- src: images/Kirstin_im_Ruderboot_auf_dem_Main_MDK08.jpg
+  title: Kirstin im Ruderboot auf dem Main MDK08
+- src: images/Pizza_essen_in_Kitzingen_MDK08.jpg
+  title: Pizza essen in Kitzingen MDK08
+- src: images/Main_rudern_im_Dunkeln_MDK08.jpg
+  title: Main rudern im Dunkeln MDK08
+- src: images/Altstadt_von_Karlstadt_von_der_Burg_aus_MDK08.jpg
+  title: Altstadt von Karlstadt von der Burg aus MDK08
+- src: images/Sophie_in_Sportbootschleuse_Main_MDK08.jpg
+  title: Sophie in Sportbootschleuse Main MDK08
+- src: images/Schleusenwart_Moritz_steigt_wieder_ein_MDK08.jpg
+  title: Schleusenwart Moritz steigt wieder ein MDK08
+- src: images/Sportschleuse_Main_Unterwasser_MDK08.jpg
+  title: Sportschleuse Main Unterwasser MDK08
+- src: images/Burgruine_Wertheim_MDK08.jpg
+  title: Burgruine Wertheim MDK08
+- src: images/Ruderboot_an_der_Decke_MDK08.jpg
+  title: Ruderboot an der Decke MDK08
+- src: images/Sophie_vor_dem_Schloss_in_Aschaffenburg_MDK08.jpg
+  title: Sophie vor dem Schloss in Aschaffenburg MDK08
+- src: images/Steg_in_Aschaffenburg_MDK08.jpg
+  title: Steg in Aschaffenburg MDK08
+- src: images/Frankfurt_bei_Nacht_MDK08.jpg
+  title: Frankfurt bei Nacht MDK08
+- src: images/Frankfurter_ruderverein_in_der_bruecke_MDK08.jpg
+  title: Frankfurter ruderverein in der bruecke MDK08
+- src: images/Frankfurt_vom_Ruderboot_aus_MDK08.jpg
+  title: Frankfurt vom Ruderboot aus MDK08
+- src: images/Main_Kilometer_0_MDK08.jpg
+  title: Main Kilometer 0 MDK08
+- src: images/Ueberholverbot_was_ist_das_MDK08.jpg
+  title: Ueberholverbot was ist das MDK08
+- src: images/Ruderboot_Binger_Loch_Rhein_MDK08.jpg
+  title: Ruderboot Binger Loch Rhein MDK08
+- src: images/Kaub_am_Rhein_MDK08.jpg
+  title: Kaub am Rhein MDK08
+- src: images/Ruderboot_in_der_Lorelei_MDK08.jpg
+  title: Ruderboot in der Lorelei MDK08
+- src: images/Quartier_Germania_Boppard_MDK08.jpg
+  title: Quartier Germania Boppard MDK08
+länder:
+- deutschland
+- italien
+title: Main Donau Kanal Main
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

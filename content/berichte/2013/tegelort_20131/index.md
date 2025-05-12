@@ -1,37 +1,32 @@
-+++
-title = "Tegelort 2013"
-author = ""
-date = 2013-08-08T01:00:00+02:00
-begin = "2013-08-01"
-"gewässer" = ["havel", "spree", "tegler see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "jonathan und stefan spandauer bootsschleppe 2013"
-src = "images/jonathan_und_stefan_spandauer_bootsschleppe_2013.jpg"
-[[images]]
-title = "Nirnia und Jo im Ruderboot Tegelort 2013"
-src = "images/Nirnia_und_Jo_im_Ruderboot_Tegelort_2013.jpg"
-[[images]]
-title = "Alter spandauer schifffahrtskanal Tegelort 2013"
-src = "images/Alter_spandauer_schifffahrtskanal_Tegelort_2013.jpg"
-[[images]]
-title = "ruderboote am westhafen tegelort 2013"
-src = "images/ruderboote_am_westhafen_tegelort_2013.jpg"
-[[images]]
-title = "Bettina Ruderboot in Charlottenburg Spree 2013"
-src = "images/Bettina_Ruderboot_in_Charlottenburg_Spree_2013.jpg"
-[[images]]
-title = "Hohenzollernkanal ruderboote 2013"
-src = "images/Hohenzollernkanal_ruderboote_2013.jpg"
-[[images]]
-title = "Moby Dick mit Ruderboot Tegelort 2013"
-src = "images/Moby_Dick_mit_Ruderboot_Tegelort_2013.jpg"
-[[images]]
-title = "jonathan baded tegelort 2013"
-src = "images/jonathan_baded_tegelort_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-08-01"
+date: "2013-08-08T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+- tegler see
+images:
+- src: images/jonathan_und_stefan_spandauer_bootsschleppe_2013.jpg
+  title: jonathan und stefan spandauer bootsschleppe 2013
+- src: images/Nirnia_und_Jo_im_Ruderboot_Tegelort_2013.jpg
+  title: Nirnia und Jo im Ruderboot Tegelort 2013
+- src: images/Alter_spandauer_schifffahrtskanal_Tegelort_2013.jpg
+  title: Alter spandauer schifffahrtskanal Tegelort 2013
+- src: images/ruderboote_am_westhafen_tegelort_2013.jpg
+  title: ruderboote am westhafen tegelort 2013
+- src: images/Bettina_Ruderboot_in_Charlottenburg_Spree_2013.jpg
+  title: Bettina Ruderboot in Charlottenburg Spree 2013
+- src: images/Hohenzollernkanal_ruderboote_2013.jpg
+  title: Hohenzollernkanal ruderboote 2013
+- src: images/Moby_Dick_mit_Ruderboot_Tegelort_2013.jpg
+  title: Moby Dick mit Ruderboot Tegelort 2013
+- src: images/jonathan_baded_tegelort_2013.jpg
+  title: jonathan baded tegelort 2013
+länder: []
+title: Tegelort 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

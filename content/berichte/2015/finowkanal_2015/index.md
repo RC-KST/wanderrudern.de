@@ -1,43 +1,36 @@
-+++
-title = "Finowkanal 2015"
-author = ""
-date = 2015-08-08T01:00:00+02:00
-begin = "2015-08-01"
-"gewässer" = ["havel", "werbellinsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Werbellinkanal 2015"
-src = "images/Werbellinkanal_2015.jpg"
-[[images]]
-title = "das WSV hat mal wieder ein kleines Problem sie kriegt die Schleuse nicht mehr zu 2015"
-src = "images/das_WSV_hat_mal_wieder_ein_kleines_Problem_sie_kriegt_die_Schleuse_nicht_mehr_zu_2015.jpg"
-[[images]]
-title = "Abendliche Ruderstimmung auf der Havel 2015"
-src = "images/Abendliche_Ruderstimmung_auf_der_Havel_2015.jpg"
-[[images]]
-title = "es geht endlich in den Finowkanal 2015"
-src = "images/es_geht_endlich_in_den_Finowkanal_2015.jpg"
-[[images]]
-title = "Finowkanal kurz vor dem Ende 2015"
-src = "images/Finowkanal_kurz_vor_dem_Ende_2015.jpg"
-[[images]]
-title = "Schiffshebewerk Niederfinow 2015"
-src = "images/Schiffshebewerk_Niederfinow_2015.jpg"
-[[images]]
-title = "Bootsschleppe Lehnitz Finowkanal 2015"
-src = "images/Bootsschleppe_Lehnitz_Finowkanal_2015.jpg"
-[[images]]
-title = "Ruderboot einfahrt in Schleuse 4 Finowkanal"
-src = "images/Ruderboot_einfahrt_in_Schleuse_4_Finowkanal.jpg"
-[[images]]
-title = "Krautsperre fuer Motorboote Finowkanal 2015"
-src = "images/Krautsperre_fuer_Motorboote_Finowkanal_2015.jpg"
-[[images]]
-title = "Ruderboote in Niederfinow 2015"
-src = "images/Ruderboote_in_Niederfinow_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-08-01"
+date: "2015-08-08T01:00:00+02:00"
+gewässer:
+- havel
+- werbellinsee
+images:
+- src: images/Werbellinkanal_2015.jpg
+  title: Werbellinkanal 2015
+- src: images/das_WSV_hat_mal_wieder_ein_kleines_Problem_sie_kriegt_die_Schleuse_nicht_mehr_zu_2015.jpg
+  title: das WSV hat mal wieder ein kleines Problem sie kriegt die Schleuse nicht
+    mehr zu 2015
+- src: images/Abendliche_Ruderstimmung_auf_der_Havel_2015.jpg
+  title: Abendliche Ruderstimmung auf der Havel 2015
+- src: images/es_geht_endlich_in_den_Finowkanal_2015.jpg
+  title: es geht endlich in den Finowkanal 2015
+- src: images/Finowkanal_kurz_vor_dem_Ende_2015.jpg
+  title: Finowkanal kurz vor dem Ende 2015
+- src: images/Schiffshebewerk_Niederfinow_2015.jpg
+  title: Schiffshebewerk Niederfinow 2015
+- src: images/Bootsschleppe_Lehnitz_Finowkanal_2015.jpg
+  title: Bootsschleppe Lehnitz Finowkanal 2015
+- src: images/Ruderboot_einfahrt_in_Schleuse_4_Finowkanal.jpg
+  title: Ruderboot einfahrt in Schleuse 4 Finowkanal
+- src: images/Krautsperre_fuer_Motorboote_Finowkanal_2015.jpg
+  title: Krautsperre fuer Motorboote Finowkanal 2015
+- src: images/Ruderboote_in_Niederfinow_2015.jpg
+  title: Ruderboote in Niederfinow 2015
+länder: []
+title: Finowkanal 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

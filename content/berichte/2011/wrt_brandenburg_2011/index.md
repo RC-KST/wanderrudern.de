@@ -1,13 +1,14 @@
-+++
-title = "Wesermarathon 2011"
-author = ""
-date = 2011-08-08T01:00:00+02:00
-begin = "2011-08-01"
-"gewässer" = ["weser", "oder"]
-"länder" = []
-"typ" = "marathon"
-
-+++
+---
+author: ""
+begin: "2011-08-01"
+date: "2011-08-08T01:00:00+02:00"
+gewässer:
+- weser
+- oder
+länder: []
+title: Wesermarathon 2011
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

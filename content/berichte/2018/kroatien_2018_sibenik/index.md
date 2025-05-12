@@ -1,157 +1,112 @@
-+++
-title = "Kroatien 2018 Sibenik"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["krka", "kornaten"]
-"länder" = ["österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Anreise Kroatien Uebelbach 2018"
-src = "images/Anreise_Kroatien_Uebelbach_2018.jpg"
-[[images]]
-title = "Dreier zwischen Zmajan und Tijat Kroatien 2018"
-src = "images/Dreier_zwischen_Zmajan_und_Tijat_Kroatien_2018.jpg"
-[[images]]
-title = "E-Zweier Sibeniker Archipel Kroatien 2018"
-src = "images/E-Zweier_Sibeniker_Archipel_Kroatien_2018.jpg"
-[[images]]
-title = "Ruderboote auf Suedkurs Kroatien 2018"
-src = "images/Ruderboote_auf_Suedkurs_Kroatien_2018.jpg"
-[[images]]
-title = "Becken von Morinje Kroatien 2018"
-src = "images/Becken_von_Morinje_Kroatien_2018.jpg"
-[[images]]
-title = "Felsen am Sibeniker Kanal Kroatien 2018"
-src = "images/Felsen_am_Sibeniker_Kanal_Kroatien_2018.jpg"
-[[images]]
-title = "Sibenik mit Schiebewind Kroatien 2018"
-src = "images/Sibenik_mit_Schiebewind_Kroatien_2018.jpg"
-[[images]]
-title = "Fjord von Grebastica Kroatien 2018"
-src = "images/Fjord_von_Grebastica_Kroatien_2018.jpg"
-[[images]]
-title = "Krka Canyon die Frisur sitzt Kroatien 2018"
-src = "images/Krka_Canyon_die_Frisur_sitzt_Kroatien_2018.jpg"
-[[images]]
-title = "Krka Stege am Wasserfall Kroatien 2018"
-src = "images/Krka_Stege_am_Wasserfall_Kroatien_2018.jpg"
-[[images]]
-title = "Ruderer vor den Krka Wasserfaellen Kroatien 2018"
-src = "images/Ruderer_vor_den_Krka_Wasserfaellen_Kroatien_2018.jpg"
-[[images]]
-title = "Ruderer auf der Festung Sibenik 2018"
-src = "images/Ruderer_auf_der_Festung_Sibenik_2018.jpg"
-[[images]]
-title = "Trogir Uferpromenade Kroatien 2019"
-src = "images/Trogir_Uferpromenade_Kroatien_2019.jpg"
-[[images]]
-title = "Abstieg zur Adria Kroatien 2018"
-src = "images/Abstieg_zur_Adria_Kroatien_2018.jpg"
-[[images]]
-title = "Blick von der Terasse Zablace 2018"
-src = "images/Blick_von_der_Terasse_Zablace_2018.jpg"
-[[images]]
-title = "Pause bei Kaprije Kroatien 2018"
-src = "images/Pause_bei_Kaprije_Kroatien_2018.jpg"
-[[images]]
-title = "Bergkulisse Velebit Kroatien 2018"
-src = "images/Bergkulisse_Velebit_Kroatien_2018.jpg"
-[[images]]
-title = "johanna zwischen den Sibeniker Inseln 2018"
-src = "images/johanna_zwischen_den_Sibeniker_Inseln_2018.jpg"
-[[images]]
-title = "Ruderboot bei den Kornaten Kroatien 2018"
-src = "images/Ruderboot_bei_den_Kornaten_Kroatien_2018.jpg"
-[[images]]
-title = "Ruderboote vor Klippe in der Adria 2018"
-src = "images/Ruderboote_vor_Klippe_in_der_Adria_2018.jpg"
-[[images]]
-title = "die jugend macht Pizza Kroatien 2018"
-src = "images/die_jugend_macht_Pizza_Kroatien_2018.jpg"
-[[images]]
-title = "Primosten Blick vom Friedhof auf die Adrian Kroatien 2018"
-src = "images/Primosten_Blick_vom_Friedhof_auf_die_Adrian_Kroatien_2018.jpg"
-[[images]]
-title = "Pilgerweg zur Kirche Primosten Kroatien 2018"
-src = "images/Pilgerweg_zur_Kirche_Primosten_Kroatien_2018.jpg"
-[[images]]
-title = "Ruderer in Primosten Kroatien 2018"
-src = "images/Ruderer_in_Primosten_Kroatien_2018.jpg"
-[[images]]
-title = "Ruderboote Primosten am Strand Kroatien 2018"
-src = "images/Ruderboote_Primosten_am_Strand_Kroatien_2018.jpg"
-[[images]]
-title = "Martin 4000 WaWa 16000  Kroatien 2018"
-src = "images/Martin_4000_WaWa_16000__Kroatien_2018.jpg"
-[[images]]
-title = "Hafen Zablace Ruderboot Kroatien 2018"
-src = "images/Hafen_Zablace_Ruderboot_Kroatien_2018.jpg"
-[[images]]
-title = "Sonnenterasse in Zaton Kroatien 2018"
-src = "images/Sonnenterasse_in_Zaton_Kroatien_2018.jpg"
-[[images]]
-title = "Zaton downtown Kroatien 2018"
-src = "images/Zaton_downtown_Kroatien_2018.jpg"
-[[images]]
-title = "Sonia am Steuer Kroatien 2018"
-src = "images/Sonia_am_Steuer_Kroatien_2018.jpg"
-[[images]]
-title = "Ausfahrt auf die Adria Kroatien 2018"
-src = "images/Ausfahrt_auf_die_Adria_Kroatien_2018.jpg"
-[[images]]
-title = "Mittagspause Grebastica Kroatien 2018"
-src = "images/Mittagspause_Grebastica_Kroatien_2018.jpg"
-[[images]]
-title = "Isabel und Johanna an den Wasserfaellen 2019"
-src = "images/Isabel_und_Johanna_an_den_Wasserfaellen_2019.jpg"
-[[images]]
-title = "Krka bei Srkadin 2019"
-src = "images/Krka_bei_Srkadin_2019.jpg"
-[[images]]
-title = "Sonia an den Wasserfaellen 2019"
-src = "images/Sonia_an_den_Wasserfaellen_2019.jpg"
-[[images]]
-title = "Gischt an den Krka Faellen 2018"
-src = "images/Gischt_an_den_Krka_Faellen_2018.jpg"
-[[images]]
-title = "Maedels an den Wasserfaellen Kroatien 2018"
-src = "images/Maedels_an_den_Wasserfaellen_Kroatien_2018.jpg"
-[[images]]
-title = "Krka Wasserfaelle Maedchen Kroatien 2018"
-src = "images/Krka_Wasserfaelle_Maedchen_Kroatien_2018.jpg"
-[[images]]
-title = "Fischerkirche Sibenik Kroatien 2018"
-src = "images/Fischerkirche_Sibenik_Kroatien_2018.jpg"
-[[images]]
-title = "Treppen in Sibenik 2018"
-src = "images/Treppen_in_Sibenik_2018.jpg"
-[[images]]
-title = "Gassen in Sibenik 2018"
-src = "images/Gassen_in_Sibenik_2018.jpg"
-[[images]]
-title = "Blick von der Festung in Sibenik 2018"
-src = "images/Blick_von_der_Festung_in_Sibenik_2018.jpg"
-[[images]]
-title = "Ruderer in Trogir 2019"
-src = "images/Ruderer_in_Trogir_2019.jpg"
-[[images]]
-title = "Katedrale Split 2019"
-src = "images/Katedrale_Split_2019.jpg"
-[[images]]
-title = "Jupiter vor seinem Tempel Split 2019"
-src = "images/Jupiter_vor_seinem_Tempel_Split_2019.jpg"
-[[images]]
-title = "Katedrale Split Innen 2019"
-src = "images/Katedrale_Split_Innen_2019.jpg"
-[[images]]
-title = "Bootstransport Zablace Kroatien 2018"
-src = "images/Bootstransport_Zablace_Kroatien_2018.jpg"
-[[images]]
-title = "AH Selfie beim Baden Kroatien 2018"
-src = "images/AH_Selfie_beim_Baden_Kroatien_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- krka
+- kornaten
+images:
+- src: images/Anreise_Kroatien_Uebelbach_2018.jpg
+  title: Anreise Kroatien Uebelbach 2018
+- src: images/Dreier_zwischen_Zmajan_und_Tijat_Kroatien_2018.jpg
+  title: Dreier zwischen Zmajan und Tijat Kroatien 2018
+- src: images/E-Zweier_Sibeniker_Archipel_Kroatien_2018.jpg
+  title: E-Zweier Sibeniker Archipel Kroatien 2018
+- src: images/Ruderboote_auf_Suedkurs_Kroatien_2018.jpg
+  title: Ruderboote auf Suedkurs Kroatien 2018
+- src: images/Becken_von_Morinje_Kroatien_2018.jpg
+  title: Becken von Morinje Kroatien 2018
+- src: images/Felsen_am_Sibeniker_Kanal_Kroatien_2018.jpg
+  title: Felsen am Sibeniker Kanal Kroatien 2018
+- src: images/Sibenik_mit_Schiebewind_Kroatien_2018.jpg
+  title: Sibenik mit Schiebewind Kroatien 2018
+- src: images/Fjord_von_Grebastica_Kroatien_2018.jpg
+  title: Fjord von Grebastica Kroatien 2018
+- src: images/Krka_Canyon_die_Frisur_sitzt_Kroatien_2018.jpg
+  title: Krka Canyon die Frisur sitzt Kroatien 2018
+- src: images/Krka_Stege_am_Wasserfall_Kroatien_2018.jpg
+  title: Krka Stege am Wasserfall Kroatien 2018
+- src: images/Ruderer_vor_den_Krka_Wasserfaellen_Kroatien_2018.jpg
+  title: Ruderer vor den Krka Wasserfaellen Kroatien 2018
+- src: images/Ruderer_auf_der_Festung_Sibenik_2018.jpg
+  title: Ruderer auf der Festung Sibenik 2018
+- src: images/Trogir_Uferpromenade_Kroatien_2019.jpg
+  title: Trogir Uferpromenade Kroatien 2019
+- src: images/Abstieg_zur_Adria_Kroatien_2018.jpg
+  title: Abstieg zur Adria Kroatien 2018
+- src: images/Blick_von_der_Terasse_Zablace_2018.jpg
+  title: Blick von der Terasse Zablace 2018
+- src: images/Pause_bei_Kaprije_Kroatien_2018.jpg
+  title: Pause bei Kaprije Kroatien 2018
+- src: images/Bergkulisse_Velebit_Kroatien_2018.jpg
+  title: Bergkulisse Velebit Kroatien 2018
+- src: images/johanna_zwischen_den_Sibeniker_Inseln_2018.jpg
+  title: johanna zwischen den Sibeniker Inseln 2018
+- src: images/Ruderboot_bei_den_Kornaten_Kroatien_2018.jpg
+  title: Ruderboot bei den Kornaten Kroatien 2018
+- src: images/Ruderboote_vor_Klippe_in_der_Adria_2018.jpg
+  title: Ruderboote vor Klippe in der Adria 2018
+- src: images/die_jugend_macht_Pizza_Kroatien_2018.jpg
+  title: die jugend macht Pizza Kroatien 2018
+- src: images/Primosten_Blick_vom_Friedhof_auf_die_Adrian_Kroatien_2018.jpg
+  title: Primosten Blick vom Friedhof auf die Adrian Kroatien 2018
+- src: images/Pilgerweg_zur_Kirche_Primosten_Kroatien_2018.jpg
+  title: Pilgerweg zur Kirche Primosten Kroatien 2018
+- src: images/Ruderer_in_Primosten_Kroatien_2018.jpg
+  title: Ruderer in Primosten Kroatien 2018
+- src: images/Ruderboote_Primosten_am_Strand_Kroatien_2018.jpg
+  title: Ruderboote Primosten am Strand Kroatien 2018
+- src: images/Martin_4000_WaWa_16000__Kroatien_2018.jpg
+  title: Martin 4000 WaWa 16000  Kroatien 2018
+- src: images/Hafen_Zablace_Ruderboot_Kroatien_2018.jpg
+  title: Hafen Zablace Ruderboot Kroatien 2018
+- src: images/Sonnenterasse_in_Zaton_Kroatien_2018.jpg
+  title: Sonnenterasse in Zaton Kroatien 2018
+- src: images/Zaton_downtown_Kroatien_2018.jpg
+  title: Zaton downtown Kroatien 2018
+- src: images/Sonia_am_Steuer_Kroatien_2018.jpg
+  title: Sonia am Steuer Kroatien 2018
+- src: images/Ausfahrt_auf_die_Adria_Kroatien_2018.jpg
+  title: Ausfahrt auf die Adria Kroatien 2018
+- src: images/Mittagspause_Grebastica_Kroatien_2018.jpg
+  title: Mittagspause Grebastica Kroatien 2018
+- src: images/Isabel_und_Johanna_an_den_Wasserfaellen_2019.jpg
+  title: Isabel und Johanna an den Wasserfaellen 2019
+- src: images/Krka_bei_Srkadin_2019.jpg
+  title: Krka bei Srkadin 2019
+- src: images/Sonia_an_den_Wasserfaellen_2019.jpg
+  title: Sonia an den Wasserfaellen 2019
+- src: images/Gischt_an_den_Krka_Faellen_2018.jpg
+  title: Gischt an den Krka Faellen 2018
+- src: images/Maedels_an_den_Wasserfaellen_Kroatien_2018.jpg
+  title: Maedels an den Wasserfaellen Kroatien 2018
+- src: images/Krka_Wasserfaelle_Maedchen_Kroatien_2018.jpg
+  title: Krka Wasserfaelle Maedchen Kroatien 2018
+- src: images/Fischerkirche_Sibenik_Kroatien_2018.jpg
+  title: Fischerkirche Sibenik Kroatien 2018
+- src: images/Treppen_in_Sibenik_2018.jpg
+  title: Treppen in Sibenik 2018
+- src: images/Gassen_in_Sibenik_2018.jpg
+  title: Gassen in Sibenik 2018
+- src: images/Blick_von_der_Festung_in_Sibenik_2018.jpg
+  title: Blick von der Festung in Sibenik 2018
+- src: images/Ruderer_in_Trogir_2019.jpg
+  title: Ruderer in Trogir 2019
+- src: images/Katedrale_Split_2019.jpg
+  title: Katedrale Split 2019
+- src: images/Jupiter_vor_seinem_Tempel_Split_2019.jpg
+  title: Jupiter vor seinem Tempel Split 2019
+- src: images/Katedrale_Split_Innen_2019.jpg
+  title: Katedrale Split Innen 2019
+- src: images/Bootstransport_Zablace_Kroatien_2018.jpg
+  title: Bootstransport Zablace Kroatien 2018
+- src: images/AH_Selfie_beim_Baden_Kroatien_2018.jpg
+  title: AH Selfie beim Baden Kroatien 2018
+länder:
+- österreich
+title: Kroatien 2018 Sibenik
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

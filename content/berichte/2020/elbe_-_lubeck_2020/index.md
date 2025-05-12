@@ -1,169 +1,120 @@
-+++
-title = "Elbe - Lübeck 2020"
-author = ""
-date = 2020-05-05T01:00:00+02:00
-begin = "2020-05-01"
-"gewässer" = ["elbe"]
-"länder" = ["deutschland", "österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bad Schandau Start der Ruderboote Elbe 2020"
-src = "images/Bad_Schandau_Start_der_Ruderboote_Elbe_2020.jpg"
-[[images]]
-title = "Schandau Ruderboote am Start Elbe 2020"
-src = "images/Schandau_Ruderboote_am_Start_Elbe_2020.jpg"
-[[images]]
-title = "Feste Königstein Elbe 2020"
-src = "images/Feste_Konigstein_Elbe_2020.jpg"
-[[images]]
-title = "Meissen erste 3000 km Lage von Cajus Elbe 2020"
-src = "images/Meissen_erste_3000_km_Lage_von_Cajus_Elbe_2020.jpg"
-[[images]]
-title = "Dresden Innenstadt Elbe 2020"
-src = "images/Dresden_Innenstadt_Elbe_2020.jpg"
-[[images]]
-title = "Torgau am Steg Elbe 2020"
-src = "images/Torgau_am_Steg_Elbe_2020.jpg"
-[[images]]
-title = "Meissen nach dem Start 2020"
-src = "images/Meissen_nach_dem_Start_2020.jpg"
-[[images]]
-title = "Gierfaehre Elbe 2020"
-src = "images/Gierfaehre_Elbe_2020.jpg"
-[[images]]
-title = "Torgau in Sicht nach 75 km Elbe 2020"
-src = "images/Torgau_in_Sicht_nach_75_km_Elbe_2020.jpg"
-[[images]]
-title = "Ruderer in Wittenberg Elbe 2020"
-src = "images/Ruderer_in_Wittenberg_Elbe_2020.jpg"
-[[images]]
-title = "Girlie Ruderboot auf der Elbe 2020"
-src = "images/Girlie_Ruderboot_auf_der_Elbe_2020.jpg"
-[[images]]
-title = "Girlies auf der Elbe 2020"
-src = "images/Girlies_auf_der_Elbe_2020.jpg"
-[[images]]
-title = "Mieses Wetter auf der ELbe 2020"
-src = "images/Mieses_Wetter_auf_der_ELbe_2020.jpg"
-[[images]]
-title = "Ruderer Aken im Bootshaus Elbe 2020"
-src = "images/Ruderer_Aken_im_Bootshaus_Elbe_2020.jpg"
-[[images]]
-title = "Aken E-Boote und Inrigger Elbe 2020"
-src = "images/Aken_E-Boote_und_Inrigger_Elbe_2020.jpg"
-[[images]]
-title = "Magdeburg Tischtennis im Ruderclub Elbe 2020"
-src = "images/Magdeburg_Tischtennis_im_Ruderclub_Elbe_2020.jpg"
-[[images]]
-title = "Magdeburg Stadtdurchfahrt Elbe 2020"
-src = "images/Magdeburg_Stadtdurchfahrt_Elbe_2020.jpg"
-[[images]]
-title = "Quartier Boothalle Tangermuende Elbe 2020"
-src = "images/Quartier_Boothalle_Tangermuende_Elbe_2020.jpg"
-[[images]]
-title = "Fruehstueck Bootshalle Tangermuende Elbe 2020"
-src = "images/Fruehstueck_Bootshalle_Tangermuende_Elbe_2020.jpg"
-[[images]]
-title = "Tangermünde Hafen Ruderboote Elbe 2020"
-src = "images/Tangermunde_Hafen_Ruderboote_Elbe_2020.jpg"
-[[images]]
-title = "Dom Havelberg Elbe 2020"
-src = "images/Dom_Havelberg_Elbe_2020.jpg"
-[[images]]
-title = "Vierer auf der Elbe 2020"
-src = "images/Vierer_auf_der_Elbe_2020.jpg"
-[[images]]
-title = "Schnackenburg an der Elbe 2020"
-src = "images/Schnackenburg_an_der_Elbe_2020.jpg"
-[[images]]
-title = "Schnackenburg Quartier Alte Schule Elbe 2020"
-src = "images/Schnackenburg_Quartier_Alte_Schule_Elbe_2020.jpg"
-[[images]]
-title = "Isabel im Regen auf der Elbe 2020"
-src = "images/Isabel_im_Regen_auf_der_Elbe_2020.jpg"
-[[images]]
-title = "Einfahrt nach Hitzacker Elbe 2020"
-src = "images/Einfahrt_nach_Hitzacker_Elbe_2020.jpg"
-[[images]]
-title = "Hitzacker Anlegestelle Elbe 2020"
-src = "images/Hitzacker_Anlegestelle_Elbe_2020.jpg"
-[[images]]
-title = "WaWa als Gangster 2020"
-src = "images/WaWa_als_Gangster_2020.jpg"
-[[images]]
-title = "ruppige Schleuse richtung Lübeck Elbe 2020"
-src = "images/ruppige_Schleuse_richtung_Lubeck_Elbe_2020.jpg"
-[[images]]
-title = "Ruderboot Elbe Lübeck Kanal 2020"
-src = "images/Ruderboot_Elbe_Lubeck_Kanal_2020.jpg"
-[[images]]
-title = "Mölln Ruderboot 2020"
-src = "images/Molln_Ruderboot_2020.jpg"
-[[images]]
-title = "Ferienwohnung Lübeck 2020"
-src = "images/Ferienwohnung_Lubeck_2020.jpg"
-[[images]]
-title = "FEWO Lübeck 2020"
-src = "images/FEWO_Lubeck_2020.jpg"
-[[images]]
-title = "Holsten Tor bei Nachte Elbe 2020"
-src = "images/Holsten_Tor_bei_Nachte_Elbe_2020.jpg"
-[[images]]
-title = "Trave letzte Bruecke 2020"
-src = "images/Trave_letzte_Bruecke_2020.jpg"
-[[images]]
-title = "Cajus auf der letzten Travebruecke 2020"
-src = "images/Cajus_auf_der_letzten_Travebruecke_2020.jpg"
-[[images]]
-title = "Ruderboot auf der oberen Trave 2020"
-src = "images/Ruderboot_auf_der_oberen_Trave_2020.jpg"
-[[images]]
-title = "Luebeck  Hafenrundfahrt 2020"
-src = "images/Luebeck__Hafenrundfahrt_2020.jpg"
-[[images]]
-title = "Lübeck Kogge 2020"
-src = "images/Lubeck_Kogge_2020.jpg"
-[[images]]
-title = "Lübeck downtown ruderboote 2020"
-src = "images/Lubeck_downtown_ruderboote_2020.jpg"
-[[images]]
-title = "Lübeck E-Vierer 2020"
-src = "images/Lubeck_E-Vierer_2020.jpg"
-[[images]]
-title = "Marzipan bei Niederegger 2020"
-src = "images/Marzipan_bei_Niederegger_2020.jpg"
-[[images]]
-title = "Baumgarten E-Vierer mit Steuermann 2020"
-src = "images/Baumgarten_E-Vierer_mit_Steuermann_2020.jpg"
-[[images]]
-title = "Containerschiff von Achtern 2020"
-src = "images/Containerschiff_von_Achtern_2020.jpg"
-[[images]]
-title = "RoRo im Gegenverkehr 2020"
-src = "images/RoRo_im_Gegenverkehr_2020.jpg"
-[[images]]
-title = "Ruderboot mit Containerfrachter 2020"
-src = "images/Ruderboot_mit_Containerfrachter_2020.jpg"
-[[images]]
-title = "Ruderer Travemünde am Strand 2020"
-src = "images/Ruderer_Travemunde_am_Strand_2020.jpg"
-[[images]]
-title = "Ruderer Marktplatz Lübeck 2020"
-src = "images/Ruderer_Marktplatz_Lubeck_2020.jpg"
-[[images]]
-title = "Wakenitz Bruecke 2020"
-src = "images/Wakenitz_Bruecke_2020.jpg"
-[[images]]
-title = "E-Dreier auf der Wakenitz 2020"
-src = "images/E-Dreier_auf_der_Wakenitz_2020.jpg"
-[[images]]
-title = "Ruderakademie 2020"
-src = "images/Ruderakademie_2020.jpg"
-[[images]]
-title = "Ratzeburger See 2020"
-src = "images/Ratzeburger_See_2020.jpg"
-
-+++
+---
+author: ""
+begin: "2020-05-01"
+date: "2020-05-05T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Bad_Schandau_Start_der_Ruderboote_Elbe_2020.jpg
+  title: Bad Schandau Start der Ruderboote Elbe 2020
+- src: images/Schandau_Ruderboote_am_Start_Elbe_2020.jpg
+  title: Schandau Ruderboote am Start Elbe 2020
+- src: images/Feste_Konigstein_Elbe_2020.jpg
+  title: Feste Königstein Elbe 2020
+- src: images/Meissen_erste_3000_km_Lage_von_Cajus_Elbe_2020.jpg
+  title: Meissen erste 3000 km Lage von Cajus Elbe 2020
+- src: images/Dresden_Innenstadt_Elbe_2020.jpg
+  title: Dresden Innenstadt Elbe 2020
+- src: images/Torgau_am_Steg_Elbe_2020.jpg
+  title: Torgau am Steg Elbe 2020
+- src: images/Meissen_nach_dem_Start_2020.jpg
+  title: Meissen nach dem Start 2020
+- src: images/Gierfaehre_Elbe_2020.jpg
+  title: Gierfaehre Elbe 2020
+- src: images/Torgau_in_Sicht_nach_75_km_Elbe_2020.jpg
+  title: Torgau in Sicht nach 75 km Elbe 2020
+- src: images/Ruderer_in_Wittenberg_Elbe_2020.jpg
+  title: Ruderer in Wittenberg Elbe 2020
+- src: images/Girlie_Ruderboot_auf_der_Elbe_2020.jpg
+  title: Girlie Ruderboot auf der Elbe 2020
+- src: images/Girlies_auf_der_Elbe_2020.jpg
+  title: Girlies auf der Elbe 2020
+- src: images/Mieses_Wetter_auf_der_ELbe_2020.jpg
+  title: Mieses Wetter auf der ELbe 2020
+- src: images/Ruderer_Aken_im_Bootshaus_Elbe_2020.jpg
+  title: Ruderer Aken im Bootshaus Elbe 2020
+- src: images/Aken_E-Boote_und_Inrigger_Elbe_2020.jpg
+  title: Aken E-Boote und Inrigger Elbe 2020
+- src: images/Magdeburg_Tischtennis_im_Ruderclub_Elbe_2020.jpg
+  title: Magdeburg Tischtennis im Ruderclub Elbe 2020
+- src: images/Magdeburg_Stadtdurchfahrt_Elbe_2020.jpg
+  title: Magdeburg Stadtdurchfahrt Elbe 2020
+- src: images/Quartier_Boothalle_Tangermuende_Elbe_2020.jpg
+  title: Quartier Boothalle Tangermuende Elbe 2020
+- src: images/Fruehstueck_Bootshalle_Tangermuende_Elbe_2020.jpg
+  title: Fruehstueck Bootshalle Tangermuende Elbe 2020
+- src: images/Tangermunde_Hafen_Ruderboote_Elbe_2020.jpg
+  title: Tangermünde Hafen Ruderboote Elbe 2020
+- src: images/Dom_Havelberg_Elbe_2020.jpg
+  title: Dom Havelberg Elbe 2020
+- src: images/Vierer_auf_der_Elbe_2020.jpg
+  title: Vierer auf der Elbe 2020
+- src: images/Schnackenburg_an_der_Elbe_2020.jpg
+  title: Schnackenburg an der Elbe 2020
+- src: images/Schnackenburg_Quartier_Alte_Schule_Elbe_2020.jpg
+  title: Schnackenburg Quartier Alte Schule Elbe 2020
+- src: images/Isabel_im_Regen_auf_der_Elbe_2020.jpg
+  title: Isabel im Regen auf der Elbe 2020
+- src: images/Einfahrt_nach_Hitzacker_Elbe_2020.jpg
+  title: Einfahrt nach Hitzacker Elbe 2020
+- src: images/Hitzacker_Anlegestelle_Elbe_2020.jpg
+  title: Hitzacker Anlegestelle Elbe 2020
+- src: images/WaWa_als_Gangster_2020.jpg
+  title: WaWa als Gangster 2020
+- src: images/ruppige_Schleuse_richtung_Lubeck_Elbe_2020.jpg
+  title: ruppige Schleuse richtung Lübeck Elbe 2020
+- src: images/Ruderboot_Elbe_Lubeck_Kanal_2020.jpg
+  title: Ruderboot Elbe Lübeck Kanal 2020
+- src: images/Molln_Ruderboot_2020.jpg
+  title: Mölln Ruderboot 2020
+- src: images/Ferienwohnung_Lubeck_2020.jpg
+  title: Ferienwohnung Lübeck 2020
+- src: images/FEWO_Lubeck_2020.jpg
+  title: FEWO Lübeck 2020
+- src: images/Holsten_Tor_bei_Nachte_Elbe_2020.jpg
+  title: Holsten Tor bei Nachte Elbe 2020
+- src: images/Trave_letzte_Bruecke_2020.jpg
+  title: Trave letzte Bruecke 2020
+- src: images/Cajus_auf_der_letzten_Travebruecke_2020.jpg
+  title: Cajus auf der letzten Travebruecke 2020
+- src: images/Ruderboot_auf_der_oberen_Trave_2020.jpg
+  title: Ruderboot auf der oberen Trave 2020
+- src: images/Luebeck__Hafenrundfahrt_2020.jpg
+  title: Luebeck  Hafenrundfahrt 2020
+- src: images/Lubeck_Kogge_2020.jpg
+  title: Lübeck Kogge 2020
+- src: images/Lubeck_downtown_ruderboote_2020.jpg
+  title: Lübeck downtown ruderboote 2020
+- src: images/Lubeck_E-Vierer_2020.jpg
+  title: Lübeck E-Vierer 2020
+- src: images/Marzipan_bei_Niederegger_2020.jpg
+  title: Marzipan bei Niederegger 2020
+- src: images/Baumgarten_E-Vierer_mit_Steuermann_2020.jpg
+  title: Baumgarten E-Vierer mit Steuermann 2020
+- src: images/Containerschiff_von_Achtern_2020.jpg
+  title: Containerschiff von Achtern 2020
+- src: images/RoRo_im_Gegenverkehr_2020.jpg
+  title: RoRo im Gegenverkehr 2020
+- src: images/Ruderboot_mit_Containerfrachter_2020.jpg
+  title: Ruderboot mit Containerfrachter 2020
+- src: images/Ruderer_Travemunde_am_Strand_2020.jpg
+  title: Ruderer Travemünde am Strand 2020
+- src: images/Ruderer_Marktplatz_Lubeck_2020.jpg
+  title: Ruderer Marktplatz Lübeck 2020
+- src: images/Wakenitz_Bruecke_2020.jpg
+  title: Wakenitz Bruecke 2020
+- src: images/E-Dreier_auf_der_Wakenitz_2020.jpg
+  title: E-Dreier auf der Wakenitz 2020
+- src: images/Ruderakademie_2020.jpg
+  title: Ruderakademie 2020
+- src: images/Ratzeburger_See_2020.jpg
+  title: Ratzeburger See 2020
+länder:
+- deutschland
+- österreich
+title: Elbe - Lübeck 2020
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

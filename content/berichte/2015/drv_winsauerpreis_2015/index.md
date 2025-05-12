@@ -1,22 +1,19 @@
-+++
-title = "DRV Winsauerpreis 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Girlies mit dem Winsauerpreis 2015 RC KST"
-src = "images/Girlies_mit_dem_Winsauerpreis_2015_RC_KST.jpg"
-[[images]]
-title = "Baumgarten Ausstellungsboote auf dem WRT 2016 Bernburg"
-src = "images/Baumgarten_Ausstellungsboote_auf_dem_WRT_2016_Bernburg.jpg"
-[[images]]
-title = "Preisverleihung Winsauerpreis 2015 RC KSt"
-src = "images/Preisverleihung_Winsauerpreis_2015_RC_KSt.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Girlies_mit_dem_Winsauerpreis_2015_RC_KST.jpg
+  title: Girlies mit dem Winsauerpreis 2015 RC KST
+- src: images/Baumgarten_Ausstellungsboote_auf_dem_WRT_2016_Bernburg.jpg
+  title: Baumgarten Ausstellungsboote auf dem WRT 2016 Bernburg
+- src: images/Preisverleihung_Winsauerpreis_2015_RC_KSt.jpg
+  title: Preisverleihung Winsauerpreis 2015 RC KSt
+länder: []
+title: DRV Winsauerpreis 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

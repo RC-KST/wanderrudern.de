@@ -1,148 +1,120 @@
-+++
-title = "Spreewald Wattenmeer 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["elbe", "havel", "dahme", "spree", "müritz", "kölpinsee", "fleesensee", "mecklenburger seenplatte", "teltowkanal", "oder-havel-kanal", "spreewald", "schwielochsee", "neuendorfer see", "köthener see", "oder"]
-"länder" = ["deutschland", "finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "20210623_132227"
-src = "images/20210623_132227.jpg"
-[[images]]
-title = "Machnower See Zweier Ruderboot Spreewald 2021"
-src = "images/Machnower_See_Zweier_Ruderboot_Spreewald_2021.jpg"
-[[images]]
-title = "Teltowkanal in Richtung Spreewald 2021"
-src = "images/Teltowkanal_in_Richtung_Spreewald_2021.jpg"
-[[images]]
-title = "Neue Muehle Schleuse 2021"
-src = "images/Neue_Muehle_Schleuse_2021.jpg"
-[[images]]
-title = "Ruderer im Kiez 2021"
-src = "images/Ruderer_im_Kiez_2021.jpg"
-[[images]]
-title = "Marika im Spreewald 2021"
-src = "images/Marika_im_Spreewald_2021.jpg"
-[[images]]
-title = "Inrigger in der Spreewaldschleuse 2021"
-src = "images/Inrigger_in_der_Spreewaldschleuse_2021.jpg"
-[[images]]
-title = "Nutria im Spreewald 2021"
-src = "images/Nutria_im_Spreewald_2021.jpg"
-[[images]]
-title = "Abendessen Luebben 2021"
-src = "images/Abendessen_Luebben_2021.jpg"
-[[images]]
-title = "Ruderboote Spreewald 2021"
-src = "images/Ruderboote_Spreewald_2021.jpg"
-[[images]]
-title = "Johanna beim Schleusen Spreewald 2021"
-src = "images/Johanna_beim_Schleusen_Spreewald_2021.jpg"
-[[images]]
-title = "Nirina Spreewaldschleuse 2021"
-src = "images/Nirina_Spreewaldschleuse_2021.jpg"
-[[images]]
-title = "Schleuse Alt Schadow 2021 Ruderboote"
-src = "images/Schleuse_Alt_Schadow_2021_Ruderboote.jpg"
-[[images]]
-title = "David Alte Spree Ruderboote 2021"
-src = "images/David_Alte_Spree_Ruderboote_2021.jpg"
-[[images]]
-title = "Badestelle Schwielochsee 2021"
-src = "images/Badestelle_Schwielochsee_2021.jpg"
-[[images]]
-title = "Melina in Belzig 2021"
-src = "images/Melina_in_Belzig_2021.jpg"
-[[images]]
-title = "Boote beladen Schwielochsee 2021"
-src = "images/Boote_beladen_Schwielochsee_2021.jpg"
-[[images]]
-title = "Badepause im Oder Spree Kanal 2021"
-src = "images/Badepause_im_Oder_Spree_Kanal_2021.jpg"
-[[images]]
-title = "Eisenhuettenstadt etwas Wasser im Ruderboot 2021"
-src = "images/Eisenhuettenstadt_etwas_Wasser_im_Ruderboot_2021.jpg"
-[[images]]
-title = "Quartier beim Fischer an der Oder 2021"
-src = "images/Quartier_beim_Fischer_an_der_Oder_2021.jpg"
-[[images]]
-title = "Ruderboote nach 177l Regen am Oderstrand 2021"
-src = "images/Ruderboote_nach_177l_Regen_am_Oderstrand_2021.jpg"
-[[images]]
-title = "Marika Schleuse Hohensaaten 2021"
-src = "images/Marika_Schleuse_Hohensaaten_2021.jpg"
-[[images]]
-title = "Ruderboote Oderberger See 2021"
-src = "images/Ruderboote_Oderberger_See_2021.jpg"
-[[images]]
-title = "Schiffshebewerk Niederfinow 2021"
-src = "images/Schiffshebewerk_Niederfinow_2021.jpg"
-[[images]]
-title = "Auf dem Finowkanal Ruderboot 2021"
-src = "images/Auf_dem_Finowkanal_Ruderboot_2021.jpg"
-[[images]]
-title = "Finowkanal RUderboote 2021"
-src = "images/Finowkanal_RUderboote_2021.jpg"
-[[images]]
-title = "ruppiges Schleusen auf dem Finowkanal 2021"
-src = "images/ruppiges_Schleusen_auf_dem_Finowkanal_2021.jpg"
-[[images]]
-title = "Ruderer am Finowkanal 2021"
-src = "images/Ruderer_am_Finowkanal_2021.jpg"
-[[images]]
-title = "Kanuklub Finowfurt 2021"
-src = "images/Kanuklub_Finowfurt_2021.jpg"
-[[images]]
-title = "Finowkanal Schleuse Ruderboote 2021"
-src = "images/Finowkanal_Schleuse_Ruderboote_2021.jpg"
-[[images]]
-title = "Ruderboot auf dem Langen Troedel 2021"
-src = "images/Ruderboot_auf_dem_Langen_Troedel_2021.jpg"
-[[images]]
-title = "Camping Abendessen Liebenwalde 2021"
-src = "images/Camping_Abendessen_Liebenwalde_2021.jpg"
-[[images]]
-title = "Zelte aufbauen Liebenwalde 2021"
-src = "images/Zelte_aufbauen_Liebenwalde_2021.jpg"
-[[images]]
-title = "Zelten in Bredereiche 2021"
-src = "images/Zelten_in_Bredereiche_2021.jpg"
-[[images]]
-title = "Ruderinnen beim Baeume klettern 2021"
-src = "images/Ruderinnen_beim_Baeume_klettern_2021.jpg"
-[[images]]
-title = "Schleuse auf der Havel 2021"
-src = "images/Schleuse_auf_der_Havel_2021.jpg"
-[[images]]
-title = "Ruderboote Mecklenburger Seenplatte 2021"
-src = "images/Ruderboote_Mecklenburger_Seenplatte_2021.jpg"
-[[images]]
-title = "Schloss Rheinsberg vom Wasser aus 2021"
-src = "images/Schloss_Rheinsberg_vom_Wasser_aus_2021.jpg"
-[[images]]
-title = "Eis essen in Rheinsberg 2021"
-src = "images/Eis_essen_in_Rheinsberg_2021.jpg"
-[[images]]
-title = "Schloss Rheinsberg 2021"
-src = "images/Schloss_Rheinsberg_2021.jpg"
-[[images]]
-title = "Ruderverein Rheinsberg 2021"
-src = "images/Ruderverein_Rheinsberg_2021.jpg"
-[[images]]
-title = "Bootshalle Flecken Zechlin 2021"
-src = "images/Bootshalle_Flecken_Zechlin_2021.jpg"
-[[images]]
-title = "Umtragestelle Fleether Muehle 2021"
-src = "images/Umtragestelle_Fleether_Muehle_2021.jpg"
-[[images]]
-title = "Girlies auf der Mueritz Ruderboote 2021"
-src = "images/Girlies_auf_der_Mueritz_Ruderboote_2021.jpg"
-[[images]]
-title = "Ruderer im Beach Ressort Fleesensee 2021"
-src = "images/Ruderer_im_Beach_Ressort_Fleesensee_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- dahme
+- spree
+- müritz
+- kölpinsee
+- fleesensee
+- mecklenburger seenplatte
+- teltowkanal
+- oder-havel-kanal
+- spreewald
+- schwielochsee
+- neuendorfer see
+- köthener see
+- oder
+images:
+- src: images/20210623_132227.jpg
+  title: "20210623_132227"
+- src: images/Machnower_See_Zweier_Ruderboot_Spreewald_2021.jpg
+  title: Machnower See Zweier Ruderboot Spreewald 2021
+- src: images/Teltowkanal_in_Richtung_Spreewald_2021.jpg
+  title: Teltowkanal in Richtung Spreewald 2021
+- src: images/Neue_Muehle_Schleuse_2021.jpg
+  title: Neue Muehle Schleuse 2021
+- src: images/Ruderer_im_Kiez_2021.jpg
+  title: Ruderer im Kiez 2021
+- src: images/Marika_im_Spreewald_2021.jpg
+  title: Marika im Spreewald 2021
+- src: images/Inrigger_in_der_Spreewaldschleuse_2021.jpg
+  title: Inrigger in der Spreewaldschleuse 2021
+- src: images/Nutria_im_Spreewald_2021.jpg
+  title: Nutria im Spreewald 2021
+- src: images/Abendessen_Luebben_2021.jpg
+  title: Abendessen Luebben 2021
+- src: images/Ruderboote_Spreewald_2021.jpg
+  title: Ruderboote Spreewald 2021
+- src: images/Johanna_beim_Schleusen_Spreewald_2021.jpg
+  title: Johanna beim Schleusen Spreewald 2021
+- src: images/Nirina_Spreewaldschleuse_2021.jpg
+  title: Nirina Spreewaldschleuse 2021
+- src: images/Schleuse_Alt_Schadow_2021_Ruderboote.jpg
+  title: Schleuse Alt Schadow 2021 Ruderboote
+- src: images/David_Alte_Spree_Ruderboote_2021.jpg
+  title: David Alte Spree Ruderboote 2021
+- src: images/Badestelle_Schwielochsee_2021.jpg
+  title: Badestelle Schwielochsee 2021
+- src: images/Melina_in_Belzig_2021.jpg
+  title: Melina in Belzig 2021
+- src: images/Boote_beladen_Schwielochsee_2021.jpg
+  title: Boote beladen Schwielochsee 2021
+- src: images/Badepause_im_Oder_Spree_Kanal_2021.jpg
+  title: Badepause im Oder Spree Kanal 2021
+- src: images/Eisenhuettenstadt_etwas_Wasser_im_Ruderboot_2021.jpg
+  title: Eisenhuettenstadt etwas Wasser im Ruderboot 2021
+- src: images/Quartier_beim_Fischer_an_der_Oder_2021.jpg
+  title: Quartier beim Fischer an der Oder 2021
+- src: images/Ruderboote_nach_177l_Regen_am_Oderstrand_2021.jpg
+  title: Ruderboote nach 177l Regen am Oderstrand 2021
+- src: images/Marika_Schleuse_Hohensaaten_2021.jpg
+  title: Marika Schleuse Hohensaaten 2021
+- src: images/Ruderboote_Oderberger_See_2021.jpg
+  title: Ruderboote Oderberger See 2021
+- src: images/Schiffshebewerk_Niederfinow_2021.jpg
+  title: Schiffshebewerk Niederfinow 2021
+- src: images/Auf_dem_Finowkanal_Ruderboot_2021.jpg
+  title: Auf dem Finowkanal Ruderboot 2021
+- src: images/Finowkanal_RUderboote_2021.jpg
+  title: Finowkanal RUderboote 2021
+- src: images/ruppiges_Schleusen_auf_dem_Finowkanal_2021.jpg
+  title: ruppiges Schleusen auf dem Finowkanal 2021
+- src: images/Ruderer_am_Finowkanal_2021.jpg
+  title: Ruderer am Finowkanal 2021
+- src: images/Kanuklub_Finowfurt_2021.jpg
+  title: Kanuklub Finowfurt 2021
+- src: images/Finowkanal_Schleuse_Ruderboote_2021.jpg
+  title: Finowkanal Schleuse Ruderboote 2021
+- src: images/Ruderboot_auf_dem_Langen_Troedel_2021.jpg
+  title: Ruderboot auf dem Langen Troedel 2021
+- src: images/Camping_Abendessen_Liebenwalde_2021.jpg
+  title: Camping Abendessen Liebenwalde 2021
+- src: images/Zelte_aufbauen_Liebenwalde_2021.jpg
+  title: Zelte aufbauen Liebenwalde 2021
+- src: images/Zelten_in_Bredereiche_2021.jpg
+  title: Zelten in Bredereiche 2021
+- src: images/Ruderinnen_beim_Baeume_klettern_2021.jpg
+  title: Ruderinnen beim Baeume klettern 2021
+- src: images/Schleuse_auf_der_Havel_2021.jpg
+  title: Schleuse auf der Havel 2021
+- src: images/Ruderboote_Mecklenburger_Seenplatte_2021.jpg
+  title: Ruderboote Mecklenburger Seenplatte 2021
+- src: images/Schloss_Rheinsberg_vom_Wasser_aus_2021.jpg
+  title: Schloss Rheinsberg vom Wasser aus 2021
+- src: images/Eis_essen_in_Rheinsberg_2021.jpg
+  title: Eis essen in Rheinsberg 2021
+- src: images/Schloss_Rheinsberg_2021.jpg
+  title: Schloss Rheinsberg 2021
+- src: images/Ruderverein_Rheinsberg_2021.jpg
+  title: Ruderverein Rheinsberg 2021
+- src: images/Bootshalle_Flecken_Zechlin_2021.jpg
+  title: Bootshalle Flecken Zechlin 2021
+- src: images/Umtragestelle_Fleether_Muehle_2021.jpg
+  title: Umtragestelle Fleether Muehle 2021
+- src: images/Girlies_auf_der_Mueritz_Ruderboote_2021.jpg
+  title: Girlies auf der Mueritz Ruderboote 2021
+- src: images/Ruderer_im_Beach_Ressort_Fleesensee_2021.jpg
+  title: Ruderer im Beach Ressort Fleesensee 2021
+länder:
+- deutschland
+- finnland
+title: Spreewald Wattenmeer 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

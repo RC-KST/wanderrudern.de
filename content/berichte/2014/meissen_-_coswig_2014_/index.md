@@ -1,34 +1,29 @@
-+++
-title = "Meissen - Coswig 2014 "
-author = ""
-date = 2014-05-05T01:00:00+02:00
-begin = "2014-05-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Elbe mit ruderboot wittenberg 2014"
-src = "images/Elbe_mit_ruderboot_wittenberg_2014.jpg"
-[[images]]
-title = "Marathonfahrer ruderclub kleinmachnow 2014"
-src = "images/Marathonfahrer_ruderclub_kleinmachnow_2014.jpg"
-[[images]]
-title = "Torgau im blick der ruderer 2014"
-src = "images/Torgau_im_blick_der_ruderer_2014.jpg"
-[[images]]
-title = "Coswig Ende der Ruderstrecke 2014"
-src = "images/Coswig_Ende_der_Ruderstrecke_2014.jpg"
-[[images]]
-title = "Start in Meissen 2014"
-src = "images/Start_in_Meissen_2014.jpg"
-[[images]]
-title = "torgau am schlosstor 2014"
-src = "images/torgau_am_schlosstor_2014.jpg"
-[[images]]
-title = "Stadtbesichtigung Torgau 2014"
-src = "images/Stadtbesichtigung_Torgau_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-05-01"
+date: "2014-05-05T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Elbe_mit_ruderboot_wittenberg_2014.jpg
+  title: Elbe mit ruderboot wittenberg 2014
+- src: images/Marathonfahrer_ruderclub_kleinmachnow_2014.jpg
+  title: Marathonfahrer ruderclub kleinmachnow 2014
+- src: images/Torgau_im_blick_der_ruderer_2014.jpg
+  title: Torgau im blick der ruderer 2014
+- src: images/Coswig_Ende_der_Ruderstrecke_2014.jpg
+  title: Coswig Ende der Ruderstrecke 2014
+- src: images/Start_in_Meissen_2014.jpg
+  title: Start in Meissen 2014
+- src: images/torgau_am_schlosstor_2014.jpg
+  title: torgau am schlosstor 2014
+- src: images/Stadtbesichtigung_Torgau_2014.jpg
+  title: Stadtbesichtigung Torgau 2014
+länder: []
+title: 'Meissen - Coswig 2014 '
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,49 +1,40 @@
-+++
-title = "Finowkanal 09"
-author = ""
-date = 2009-01-01T01:00:00+02:00
-begin = "2009-01-01"
-"gewässer" = ["havel", "werbellinsee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rudibar Marienwerder Finowkanal 09"
-src = "images/Rudibar_Marienwerder_Finowkanal_09.jpg"
-[[images]]
-title = "Ruderer beim Billiard Marienwerder FK09"
-src = "images/Ruderer_beim_Billiard_Marienwerder_FK09.jpg"
-[[images]]
-title = "Ruderboote auf dem Finowkanal 09"
-src = "images/Ruderboote_auf_dem_Finowkanal_09.jpg"
-[[images]]
-title = "Ruderboote Schleuse Finowkanal 09"
-src = "images/Ruderboote_Schleuse_Finowkanal_09.jpg"
-[[images]]
-title = "Zweier auf dem Finowkanal 09"
-src = "images/Zweier_auf_dem_Finowkanal_09.jpg"
-[[images]]
-title = "Peppi im Baum FK09"
-src = "images/Peppi_im_Baum_FK09.jpg"
-[[images]]
-title = "Finowkanalschleuse Ruderboote FK09"
-src = "images/Finowkanalschleuse_Ruderboote_FK09.jpg"
-[[images]]
-title = "warten vor dem Start FK09"
-src = "images/warten_vor_dem_Start_FK09.jpg"
-[[images]]
-title = "Schleuse Liepe Finowkanal Ruderboote 09"
-src = "images/Schleuse_Liepe_Finowkanal_Ruderboote_09.jpg"
-[[images]]
-title = "Schiffshebewerk Niederfinow 09"
-src = "images/Schiffshebewerk_Niederfinow_09.jpg"
-[[images]]
-title = "Ruderboote im Trog des Schiffshebewerks 09"
-src = "images/Ruderboote_im_Trog_des_Schiffshebewerks_09.jpg"
-[[images]]
-title = "Oberwasser Hebewerk Niederfinow 09"
-src = "images/Oberwasser_Hebewerk_Niederfinow_09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-01-01"
+date: "2009-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- werbellinsee
+- oder
+images:
+- src: images/Rudibar_Marienwerder_Finowkanal_09.jpg
+  title: Rudibar Marienwerder Finowkanal 09
+- src: images/Ruderer_beim_Billiard_Marienwerder_FK09.jpg
+  title: Ruderer beim Billiard Marienwerder FK09
+- src: images/Ruderboote_auf_dem_Finowkanal_09.jpg
+  title: Ruderboote auf dem Finowkanal 09
+- src: images/Ruderboote_Schleuse_Finowkanal_09.jpg
+  title: Ruderboote Schleuse Finowkanal 09
+- src: images/Zweier_auf_dem_Finowkanal_09.jpg
+  title: Zweier auf dem Finowkanal 09
+- src: images/Peppi_im_Baum_FK09.jpg
+  title: Peppi im Baum FK09
+- src: images/Finowkanalschleuse_Ruderboote_FK09.jpg
+  title: Finowkanalschleuse Ruderboote FK09
+- src: images/warten_vor_dem_Start_FK09.jpg
+  title: warten vor dem Start FK09
+- src: images/Schleuse_Liepe_Finowkanal_Ruderboote_09.jpg
+  title: Schleuse Liepe Finowkanal Ruderboote 09
+- src: images/Schiffshebewerk_Niederfinow_09.jpg
+  title: Schiffshebewerk Niederfinow 09
+- src: images/Ruderboote_im_Trog_des_Schiffshebewerks_09.jpg
+  title: Ruderboote im Trog des Schiffshebewerks 09
+- src: images/Oberwasser_Hebewerk_Niederfinow_09.jpg
+  title: Oberwasser Hebewerk Niederfinow 09
+länder: []
+title: Finowkanal 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

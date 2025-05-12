@@ -1,13 +1,14 @@
-+++
-title = "Anrudern Richtershorn 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["teltowkanal", "wannsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- wannsee
+länder: []
+title: Anrudern Richtershorn 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

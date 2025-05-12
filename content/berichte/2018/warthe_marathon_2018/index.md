@@ -1,49 +1,39 @@
-+++
-title = "Warthe Marathon 2018"
-author = ""
-date = 2018-01-01T01:00:00+02:00
-begin = "2018-01-01"
-"gewässer" = ["warthe"]
-"länder" = ["polen"]
-"typ" = "marathon"
-[[images]]
-title = "Landkarte Warthe 2018"
-src = "images/Landkarte_Warthe_2018.jpg"
-[[images]]
-title = "Kolo Start der Ruderboote Warthemarathon 2018"
-src = "images/Kolo_Start_der_Ruderboote_Warthemarathon_2018.jpg"
-[[images]]
-title = "Burg Kolo Warthe 2018"
-src = "images/Burg_Kolo_Warthe_2018.jpg"
-[[images]]
-title = "Pyzdry Entspannung Warthe 2018"
-src = "images/Pyzdry_Entspannung_Warthe_2018.jpg"
-[[images]]
-title = "auf der Warthe 2018"
-src = "images/auf_der_Warthe_2018.jpg"
-[[images]]
-title = "Pyzdry Rudergepaeck Warthe 2018"
-src = "images/Pyzdry_Rudergepaeck_Warthe_2018.jpg"
-[[images]]
-title = "Marathonruderer Warthe 2018"
-src = "images/Marathonruderer_Warthe_2018.jpg"
-[[images]]
-title = "Rudereridylle an der Warthe 2018"
-src = "images/Rudereridylle_an_der_Warthe_2018.jpg"
-[[images]]
-title = "Nirina auf dem Warthemarathon 2018"
-src = "images/Nirina_auf_dem_Warthemarathon_2018.jpg"
-[[images]]
-title = "Warthelandschaft 2018"
-src = "images/Warthelandschaft_2018.jpg"
-[[images]]
-title = "Vierer auf der Warthe 2018"
-src = "images/Vierer_auf_der_Warthe_2018.jpg"
-[[images]]
-title = "Gorzow am Ziel Warthe 2018"
-src = "images/Gorzow_am_Ziel_Warthe_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-01-01"
+date: "2018-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Landkarte_Warthe_2018.jpg
+  title: Landkarte Warthe 2018
+- src: images/Kolo_Start_der_Ruderboote_Warthemarathon_2018.jpg
+  title: Kolo Start der Ruderboote Warthemarathon 2018
+- src: images/Burg_Kolo_Warthe_2018.jpg
+  title: Burg Kolo Warthe 2018
+- src: images/Pyzdry_Entspannung_Warthe_2018.jpg
+  title: Pyzdry Entspannung Warthe 2018
+- src: images/auf_der_Warthe_2018.jpg
+  title: auf der Warthe 2018
+- src: images/Pyzdry_Rudergepaeck_Warthe_2018.jpg
+  title: Pyzdry Rudergepaeck Warthe 2018
+- src: images/Marathonruderer_Warthe_2018.jpg
+  title: Marathonruderer Warthe 2018
+- src: images/Rudereridylle_an_der_Warthe_2018.jpg
+  title: Rudereridylle an der Warthe 2018
+- src: images/Nirina_auf_dem_Warthemarathon_2018.jpg
+  title: Nirina auf dem Warthemarathon 2018
+- src: images/Warthelandschaft_2018.jpg
+  title: Warthelandschaft 2018
+- src: images/Vierer_auf_der_Warthe_2018.jpg
+  title: Vierer auf der Warthe 2018
+- src: images/Gorzow_am_Ziel_Warthe_2018.jpg
+  title: Gorzow am Ziel Warthe 2018
+länder:
+- polen
+title: Warthe Marathon 2018
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

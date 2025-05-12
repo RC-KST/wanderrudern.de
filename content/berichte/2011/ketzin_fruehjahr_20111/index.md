@@ -1,34 +1,28 @@
-+++
-title = "Ketzin Fruehjahr 2011"
-author = ""
-date = 2011-03-03T01:00:00+02:00
-begin = "2011-03-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ablegen in Kleinmachnow Ketzin2011"
-src = "images/Ablegen_in_Kleinmachnow_Ketzin2011.jpg"
-[[images]]
-title = "Kochen in Ketzin2011"
-src = "images/Kochen_in_Ketzin2011.jpg"
-[[images]]
-title = "Ruderboote auf der Havel Ketzin 2011"
-src = "images/Ruderboote_auf_der_Havel_Ketzin_2011.jpg"
-[[images]]
-title = "Vierer vor der Brandenburger Innenstadt 2011"
-src = "images/Vierer_vor_der_Brandenburger_Innenstadt_2011.jpg"
-[[images]]
-title = "Ruderer auf dem Weg nach Ketzin 2011"
-src = "images/Ruderer_auf_dem_Weg_nach_Ketzin_2011.jpg"
-[[images]]
-title = "Ruderer am Steg in Ketzin 2011"
-src = "images/Ruderer_am_Steg_in_Ketzin_2011.jpg"
-[[images]]
-title = "Ruderboote vor dem Malabar Brandenburg 2011"
-src = "images/Ruderboote_vor_dem_Malabar_Brandenburg_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-03-01"
+date: "2011-03-03T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Ablegen_in_Kleinmachnow_Ketzin2011.jpg
+  title: Ablegen in Kleinmachnow Ketzin2011
+- src: images/Kochen_in_Ketzin2011.jpg
+  title: Kochen in Ketzin2011
+- src: images/Ruderboote_auf_der_Havel_Ketzin_2011.jpg
+  title: Ruderboote auf der Havel Ketzin 2011
+- src: images/Vierer_vor_der_Brandenburger_Innenstadt_2011.jpg
+  title: Vierer vor der Brandenburger Innenstadt 2011
+- src: images/Ruderer_auf_dem_Weg_nach_Ketzin_2011.jpg
+  title: Ruderer auf dem Weg nach Ketzin 2011
+- src: images/Ruderer_am_Steg_in_Ketzin_2011.jpg
+  title: Ruderer am Steg in Ketzin 2011
+- src: images/Ruderboote_vor_dem_Malabar_Brandenburg_2011.jpg
+  title: Ruderboote vor dem Malabar Brandenburg 2011
+länder: []
+title: Ketzin Fruehjahr 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

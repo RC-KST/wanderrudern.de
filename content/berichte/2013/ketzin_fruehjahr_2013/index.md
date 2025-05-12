@@ -1,25 +1,24 @@
-+++
-title = "Ketzin Fruehjahr 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["teltowkanal", "wublitz", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Havel nach Brandenburg Maerz 2013"
-src = "images/Havel_nach_Brandenburg_Maerz_2013.jpg"
-[[images]]
-title = "Ketzin am Steg im Schnee Maerz 2013"
-src = "images/Ketzin_am_Steg_im_Schnee_Maerz_2013.jpg"
-[[images]]
-title = "Ablegen Ketzin Ruderboot Maerz 2013"
-src = "images/Ablegen_Ketzin_Ruderboot_Maerz_2013.jpg"
-[[images]]
-title = "Eisstau Sacrow Paretzer Kanal Maerz 2013"
-src = "images/Eisstau_Sacrow_Paretzer_Kanal_Maerz_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- wublitz
+- bug
+images:
+- src: images/Havel_nach_Brandenburg_Maerz_2013.jpg
+  title: Havel nach Brandenburg Maerz 2013
+- src: images/Ketzin_am_Steg_im_Schnee_Maerz_2013.jpg
+  title: Ketzin am Steg im Schnee Maerz 2013
+- src: images/Ablegen_Ketzin_Ruderboot_Maerz_2013.jpg
+  title: Ablegen Ketzin Ruderboot Maerz 2013
+- src: images/Eisstau_Sacrow_Paretzer_Kanal_Maerz_2013.jpg
+  title: Eisstau Sacrow Paretzer Kanal Maerz 2013
+länder: []
+title: Ketzin Fruehjahr 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

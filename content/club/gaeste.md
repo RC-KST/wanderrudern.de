@@ -1,7 +1,7 @@
-+++
-title = "Gäste"
-weight = 10
-+++
+---
+title: Gäste
+weight: 10
+---
 
 **Übernachtungen für Wasserwanderer** sind bei uns möglich.
 Bitte beachten Sie dass unser Bootshaus sehr einfach ausgestattet ist. Für kleine Gruppen bieten wir ein preiswertes Quartier.

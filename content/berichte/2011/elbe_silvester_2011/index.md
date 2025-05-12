@@ -1,46 +1,36 @@
-+++
-title = "Elbe Silvester 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ablegen Pirna Weihnachten 2011"
-src = "images/Ablegen_Pirna_Weihnachten_2011.jpg"
-[[images]]
-title = "Meissen Ruderzweier Nirina Silvesterfahrt 2011"
-src = "images/Meissen_Ruderzweier_Nirina_Silvesterfahrt_2011.jpg"
-[[images]]
-title = "Wittenberg Ruderboot Silvesterfahrt 2011"
-src = "images/Wittenberg_Ruderboot_Silvesterfahrt_2011.jpg"
-[[images]]
-title = "Nirina und Matze Silvesterfahrt 2011 Elbe"
-src = "images/Nirina_und_Matze_Silvesterfahrt_2011_Elbe.jpg"
-[[images]]
-title = "Marlene Trogbruecke Magdeburg 2011"
-src = "images/Marlene_Trogbruecke_Magdeburg_2011.jpg"
-[[images]]
-title = "Silvesterquartier Arneburg 2012"
-src = "images/Silvesterquartier_Arneburg_2012.jpg"
-[[images]]
-title = "Elbaue bei Arneburg 2012"
-src = "images/Elbaue_bei_Arneburg_2012.jpg"
-[[images]]
-title = "Silvesterfeuerwerk in Arneburg 2011"
-src = "images/Silvesterfeuerwerk_in_Arneburg_2011.jpg"
-[[images]]
-title = "Feuerwerk Arneburg 2011"
-src = "images/Feuerwerk_Arneburg_2011.jpg"
-[[images]]
-title = "Ablegen Neujahr 2012 Arneburg"
-src = "images/Ablegen_Neujahr_2012_Arneburg.jpg"
-[[images]]
-title = "Ruderboote Wittenberge Silvesterfahrt 2011"
-src = "images/Ruderboote_Wittenberge_Silvesterfahrt_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/Ablegen_Pirna_Weihnachten_2011.jpg
+  title: Ablegen Pirna Weihnachten 2011
+- src: images/Meissen_Ruderzweier_Nirina_Silvesterfahrt_2011.jpg
+  title: Meissen Ruderzweier Nirina Silvesterfahrt 2011
+- src: images/Wittenberg_Ruderboot_Silvesterfahrt_2011.jpg
+  title: Wittenberg Ruderboot Silvesterfahrt 2011
+- src: images/Nirina_und_Matze_Silvesterfahrt_2011_Elbe.jpg
+  title: Nirina und Matze Silvesterfahrt 2011 Elbe
+- src: images/Marlene_Trogbruecke_Magdeburg_2011.jpg
+  title: Marlene Trogbruecke Magdeburg 2011
+- src: images/Silvesterquartier_Arneburg_2012.jpg
+  title: Silvesterquartier Arneburg 2012
+- src: images/Elbaue_bei_Arneburg_2012.jpg
+  title: Elbaue bei Arneburg 2012
+- src: images/Silvesterfeuerwerk_in_Arneburg_2011.jpg
+  title: Silvesterfeuerwerk in Arneburg 2011
+- src: images/Feuerwerk_Arneburg_2011.jpg
+  title: Feuerwerk Arneburg 2011
+- src: images/Ablegen_Neujahr_2012_Arneburg.jpg
+  title: Ablegen Neujahr 2012 Arneburg
+- src: images/Ruderboote_Wittenberge_Silvesterfahrt_2011.jpg
+  title: Ruderboote Wittenberge Silvesterfahrt 2011
+länder: []
+title: Elbe Silvester 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

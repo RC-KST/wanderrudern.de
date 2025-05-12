@@ -1,43 +1,33 @@
-+++
-title = "Messe Boot + Fun 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Abendessen im Panda Restaurant Messe 2019"
-src = "images/Abendessen_im_Panda_Restaurant_Messe_2019.jpg"
-[[images]]
-title = "Messeaufbau 2019"
-src = "images/Messeaufbau_2019.jpg"
-[[images]]
-title = "Family Trainer im Ruderbecken Messe 2019"
-src = "images/Family_Trainer_im_Ruderbecken_Messe_2019.jpg"
-[[images]]
-title = "Isabel im Fun Trainer Messe Boot + Fun 2019"
-src = "images/Isabel_im_Fun_Trainer_Messe_Boot___Fun_2019.jpg"
-[[images]]
-title = "Schulklassen beim Ergorudern Messe 2019"
-src = "images/Schulklassen_beim_Ergorudern_Messe_2019.jpg"
-[[images]]
-title = "Ergometerrudern am Wasserbecken Messe 2019"
-src = "images/Ergometerrudern_am_Wasserbecken_Messe_2019.jpg"
-[[images]]
-title = "Fun Trainer auf der Messe 2019"
-src = "images/Fun_Trainer_auf_der_Messe_2019.jpg"
-[[images]]
-title = "DLRG im Family Trainer Messe 2019"
-src = "images/DLRG_im_Family_Trainer_Messe_2019.jpg"
-[[images]]
-title = "Felix wird vom Family Trainer gezogen Messe 2019"
-src = "images/Felix_wird_vom_Family_Trainer_gezogen_Messe_2019.jpg"
-[[images]]
-title = "Fun Trainer Family Trainer Baumgarten Messe Boot und Fun 2019"
-src = "images/Fun_Trainer_Family_Trainer_Baumgarten_Messe_Boot_und_Fun_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Abendessen_im_Panda_Restaurant_Messe_2019.jpg
+  title: Abendessen im Panda Restaurant Messe 2019
+- src: images/Messeaufbau_2019.jpg
+  title: Messeaufbau 2019
+- src: images/Family_Trainer_im_Ruderbecken_Messe_2019.jpg
+  title: Family Trainer im Ruderbecken Messe 2019
+- src: images/Isabel_im_Fun_Trainer_Messe_Boot___Fun_2019.jpg
+  title: Isabel im Fun Trainer Messe Boot + Fun 2019
+- src: images/Schulklassen_beim_Ergorudern_Messe_2019.jpg
+  title: Schulklassen beim Ergorudern Messe 2019
+- src: images/Ergometerrudern_am_Wasserbecken_Messe_2019.jpg
+  title: Ergometerrudern am Wasserbecken Messe 2019
+- src: images/Fun_Trainer_auf_der_Messe_2019.jpg
+  title: Fun Trainer auf der Messe 2019
+- src: images/DLRG_im_Family_Trainer_Messe_2019.jpg
+  title: DLRG im Family Trainer Messe 2019
+- src: images/Felix_wird_vom_Family_Trainer_gezogen_Messe_2019.jpg
+  title: Felix wird vom Family Trainer gezogen Messe 2019
+- src: images/Fun_Trainer_Family_Trainer_Baumgarten_Messe_Boot_und_Fun_2019.jpg
+  title: Fun Trainer Family Trainer Baumgarten Messe Boot und Fun 2019
+länder: []
+title: Messe Boot + Fun 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

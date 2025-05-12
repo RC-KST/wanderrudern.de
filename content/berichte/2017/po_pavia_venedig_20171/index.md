@@ -1,175 +1,130 @@
-+++
-title = "Blog Pavia Venedig 2017"
-author = ""
-date = 2017-05-05T01:00:00+02:00
-begin = "2017-05-01"
-"gewässer" = ["oder", "bug", "po", "lagune von venedig", "etsch"]
-"länder" = ["frankreich", "italien", "österreich", "schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Historische Bruecke in Pavia Ticino 2017"
-src = "images/Historische_Bruecke_in_Pavia_Ticino_2017.jpg"
-[[images]]
-title = "Abelgen in Pavia Po 2017"
-src = "images/Abelgen_in_Pavia_Po_2017.jpg"
-[[images]]
-title = "auf dem Ticino 2017"
-src = "images/auf_dem_Ticino_2017.jpg"
-[[images]]
-title = "Piacenza Marktplatz Po 2017"
-src = "images/Piacenza_Marktplatz_Po_2017.jpg"
-[[images]]
-title = "piacenza Ruderer 2017"
-src = "images/piacenza_Ruderer_2017.jpg"
-[[images]]
-title = "Abendessen Piacenza Po 2017"
-src = "images/Abendessen_Piacenza_Po_2017.jpg"
-[[images]]
-title = "Piacenza Ruderclub Po 2017"
-src = "images/Piacenza_Ruderclub_Po_2017.jpg"
-[[images]]
-title = "Abendessen in San Nazzaro Po 2017"
-src = "images/Abendessen_in_San_Nazzaro_Po_2017.jpg"
-[[images]]
-title = "Abendessen in San Nazzaro  2 Po 2017"
-src = "images/Abendessen_in_San_Nazzaro__2_Po_2017.jpg"
-[[images]]
-title = "Ruderboot auf dem Po 2017"
-src = "images/Ruderboot_auf_dem_Po_2017.jpg"
-[[images]]
-title = "ehemaliges Benediktinerkloster am Po 2017"
-src = "images/ehemaliges_Benediktinerkloster_am_Po_2017.jpg"
-[[images]]
-title = "Ruderer Guastalla vor dem Quartier Po 2017"
-src = "images/Ruderer_Guastalla_vor_dem_Quartier_Po_2017.jpg"
-[[images]]
-title = "Guastalla Marktplatz Po 2017"
-src = "images/Guastalla_Marktplatz_Po_2017.jpg"
-[[images]]
-title = "Simone rudern auf dem Po 2017"
-src = "images/Simone_rudern_auf_dem_Po_2017.jpg"
-[[images]]
-title = "Yachthafen Ostiglia Po 2017"
-src = "images/Yachthafen_Ostiglia_Po_2017.jpg"
-[[images]]
-title = "Ruderboote auf dem Po 2017"
-src = "images/Ruderboote_auf_dem_Po_2017.jpg"
-[[images]]
-title = "Ruderboot mit Halloween Schmuck Po 2017"
-src = "images/Ruderboot_mit_Halloween_Schmuck_Po_2017.jpg"
-[[images]]
-title = "Ruderboot im Uferdickicht des Po 2017"
-src = "images/Ruderboot_im_Uferdickicht_des_Po_2017.jpg"
-[[images]]
-title = "Start im Morgennebel Po 2017"
-src = "images/Start_im_Morgennebel_Po_2017.jpg"
-[[images]]
-title = "Jo und Uli nach dem Rudern Po 2017"
-src = "images/Jo_und_Uli_nach_dem_Rudern_Po_2017.jpg"
-[[images]]
-title = "Ruderboote am Strand der Adria Po 2017"
-src = "images/Ruderboote_am_Strand_der_Adria_Po_2017.jpg"
-[[images]]
-title = "Ruderboote auf der Adria 2017"
-src = "images/Ruderboote_auf_der_Adria_2017.jpg"
-[[images]]
-title = "Dreier mit Steuermann Po 2017"
-src = "images/Dreier_mit_Steuermann_Po_2017.jpg"
-[[images]]
-title = "Schleuse am Po 2017"
-src = "images/Schleuse_am_Po_2017.jpg"
-[[images]]
-title = "vom Po ins Kanalsystem 2017"
-src = "images/vom_Po_ins_Kanalsystem_2017.jpg"
-[[images]]
-title = "Ruderboote in Chioggia vor dem Hotel Po 2017"
-src = "images/Ruderboote_in_Chioggia_vor_dem_Hotel_Po_2017.jpg"
-[[images]]
-title = "Ruderboot Parkplatz vor dem Hotel Chioggia 2017"
-src = "images/Ruderboot_Parkplatz_vor_dem_Hotel_Chioggia_2017.jpg"
-[[images]]
-title = "Ruderer in Chioggia 2017"
-src = "images/Ruderer_in_Chioggia_2017.jpg"
-[[images]]
-title = "au der Lagune von Venedig 2017"
-src = "images/au_der_Lagune_von_Venedig_2017.jpg"
-[[images]]
-title = "Ruderer auf der Lagune 2017"
-src = "images/Ruderer_auf_der_Lagune_2017.jpg"
-[[images]]
-title = "Lange Wellen an der Adria 2017"
-src = "images/Lange_Wellen_an_der_Adria_2017.jpg"
-[[images]]
-title = "Ruderer Mittagspause am Lido 2017"
-src = "images/Ruderer_Mittagspause_am_Lido_2017.jpg"
-[[images]]
-title = "Ausheben in Punta Sabbioni 2017"
-src = "images/Ausheben_in_Punta_Sabbioni_2017.jpg"
-[[images]]
-title = "Ulis Geburtstagsparty Venedig 2017"
-src = "images/Ulis_Geburtstagsparty_Venedig_2017.jpg"
-[[images]]
-title = "Murano Glaskunst 2017"
-src = "images/Murano_Glaskunst_2017.jpg"
-[[images]]
-title = "Murano Ruderboote 2017"
-src = "images/Murano_Ruderboote_2017.jpg"
-[[images]]
-title = "Shoppen in Murano 2017"
-src = "images/Shoppen_in_Murano_2017.jpg"
-[[images]]
-title = "Venezianisches Rudern Murano 2017"
-src = "images/Venezianisches_Rudern_Murano_2017.jpg"
-[[images]]
-title = "WaWa in Venedig 2017"
-src = "images/WaWa_in_Venedig_2017.jpg"
-[[images]]
-title = "Venedig Canale Grande 2017"
-src = "images/Venedig_Canale_Grande_2017.jpg"
-[[images]]
-title = "Canale Grande Venedig 2017"
-src = "images/Canale_Grande_Venedig_2017.jpg"
-[[images]]
-title = "Ruderer  vor der Rialto Bruecke 2017"
-src = "images/Ruderer__vor_der_Rialto_Bruecke_2017.jpg"
-[[images]]
-title = "Markusplatz Ruderboot 2017"
-src = "images/Markusplatz_Ruderboot_2017.jpg"
-[[images]]
-title = "Vierer vor Venedig 2017"
-src = "images/Vierer_vor_Venedig_2017.jpg"
-[[images]]
-title = "Ruderboot Armada in Punta Sabbioni 2017"
-src = "images/Ruderboot_Armada_in_Punta_Sabbioni_2017.jpg"
-[[images]]
-title = "Paul Geburstagsparty 2017"
-src = "images/Paul_Geburstagsparty_2017.jpg"
-[[images]]
-title = "Burano Po 2017"
-src = "images/Burano_Po_2017.jpg"
-[[images]]
-title = "Ruderboot in Burano 2017"
-src = "images/Ruderboot_in_Burano_2017.jpg"
-[[images]]
-title = "Bootsputz Punta Sabbioni 2017"
-src = "images/Bootsputz_Punta_Sabbioni_2017.jpg"
-[[images]]
-title = "Camping Miramare Punta Sabbioni 2017"
-src = "images/Camping_Miramare_Punta_Sabbioni_2017.jpg"
-[[images]]
-title = "Punta Sabbioni Vaporetto 2017"
-src = "images/Punta_Sabbioni_Vaporetto_2017.jpg"
-[[images]]
-title = "Rialto Gondel 2017"
-src = "images/Rialto_Gondel_2017.jpg"
-[[images]]
-title = "Markusplatz 2017"
-src = "images/Markusplatz_2017.jpg"
-[[images]]
-title = "Gondeln in Venedig 2017"
-src = "images/Gondeln_in_Venedig_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-05-01"
+date: "2017-05-05T01:00:00+02:00"
+gewässer:
+- oder
+- bug
+- po
+- lagune von venedig
+- etsch
+images:
+- src: images/Historische_Bruecke_in_Pavia_Ticino_2017.jpg
+  title: Historische Bruecke in Pavia Ticino 2017
+- src: images/Abelgen_in_Pavia_Po_2017.jpg
+  title: Abelgen in Pavia Po 2017
+- src: images/auf_dem_Ticino_2017.jpg
+  title: auf dem Ticino 2017
+- src: images/Piacenza_Marktplatz_Po_2017.jpg
+  title: Piacenza Marktplatz Po 2017
+- src: images/piacenza_Ruderer_2017.jpg
+  title: piacenza Ruderer 2017
+- src: images/Abendessen_Piacenza_Po_2017.jpg
+  title: Abendessen Piacenza Po 2017
+- src: images/Piacenza_Ruderclub_Po_2017.jpg
+  title: Piacenza Ruderclub Po 2017
+- src: images/Abendessen_in_San_Nazzaro_Po_2017.jpg
+  title: Abendessen in San Nazzaro Po 2017
+- src: images/Abendessen_in_San_Nazzaro__2_Po_2017.jpg
+  title: Abendessen in San Nazzaro  2 Po 2017
+- src: images/Ruderboot_auf_dem_Po_2017.jpg
+  title: Ruderboot auf dem Po 2017
+- src: images/ehemaliges_Benediktinerkloster_am_Po_2017.jpg
+  title: ehemaliges Benediktinerkloster am Po 2017
+- src: images/Ruderer_Guastalla_vor_dem_Quartier_Po_2017.jpg
+  title: Ruderer Guastalla vor dem Quartier Po 2017
+- src: images/Guastalla_Marktplatz_Po_2017.jpg
+  title: Guastalla Marktplatz Po 2017
+- src: images/Simone_rudern_auf_dem_Po_2017.jpg
+  title: Simone rudern auf dem Po 2017
+- src: images/Yachthafen_Ostiglia_Po_2017.jpg
+  title: Yachthafen Ostiglia Po 2017
+- src: images/Ruderboote_auf_dem_Po_2017.jpg
+  title: Ruderboote auf dem Po 2017
+- src: images/Ruderboot_mit_Halloween_Schmuck_Po_2017.jpg
+  title: Ruderboot mit Halloween Schmuck Po 2017
+- src: images/Ruderboot_im_Uferdickicht_des_Po_2017.jpg
+  title: Ruderboot im Uferdickicht des Po 2017
+- src: images/Start_im_Morgennebel_Po_2017.jpg
+  title: Start im Morgennebel Po 2017
+- src: images/Jo_und_Uli_nach_dem_Rudern_Po_2017.jpg
+  title: Jo und Uli nach dem Rudern Po 2017
+- src: images/Ruderboote_am_Strand_der_Adria_Po_2017.jpg
+  title: Ruderboote am Strand der Adria Po 2017
+- src: images/Ruderboote_auf_der_Adria_2017.jpg
+  title: Ruderboote auf der Adria 2017
+- src: images/Dreier_mit_Steuermann_Po_2017.jpg
+  title: Dreier mit Steuermann Po 2017
+- src: images/Schleuse_am_Po_2017.jpg
+  title: Schleuse am Po 2017
+- src: images/vom_Po_ins_Kanalsystem_2017.jpg
+  title: vom Po ins Kanalsystem 2017
+- src: images/Ruderboote_in_Chioggia_vor_dem_Hotel_Po_2017.jpg
+  title: Ruderboote in Chioggia vor dem Hotel Po 2017
+- src: images/Ruderboot_Parkplatz_vor_dem_Hotel_Chioggia_2017.jpg
+  title: Ruderboot Parkplatz vor dem Hotel Chioggia 2017
+- src: images/Ruderer_in_Chioggia_2017.jpg
+  title: Ruderer in Chioggia 2017
+- src: images/au_der_Lagune_von_Venedig_2017.jpg
+  title: au der Lagune von Venedig 2017
+- src: images/Ruderer_auf_der_Lagune_2017.jpg
+  title: Ruderer auf der Lagune 2017
+- src: images/Lange_Wellen_an_der_Adria_2017.jpg
+  title: Lange Wellen an der Adria 2017
+- src: images/Ruderer_Mittagspause_am_Lido_2017.jpg
+  title: Ruderer Mittagspause am Lido 2017
+- src: images/Ausheben_in_Punta_Sabbioni_2017.jpg
+  title: Ausheben in Punta Sabbioni 2017
+- src: images/Ulis_Geburtstagsparty_Venedig_2017.jpg
+  title: Ulis Geburtstagsparty Venedig 2017
+- src: images/Murano_Glaskunst_2017.jpg
+  title: Murano Glaskunst 2017
+- src: images/Murano_Ruderboote_2017.jpg
+  title: Murano Ruderboote 2017
+- src: images/Shoppen_in_Murano_2017.jpg
+  title: Shoppen in Murano 2017
+- src: images/Venezianisches_Rudern_Murano_2017.jpg
+  title: Venezianisches Rudern Murano 2017
+- src: images/WaWa_in_Venedig_2017.jpg
+  title: WaWa in Venedig 2017
+- src: images/Venedig_Canale_Grande_2017.jpg
+  title: Venedig Canale Grande 2017
+- src: images/Canale_Grande_Venedig_2017.jpg
+  title: Canale Grande Venedig 2017
+- src: images/Ruderer__vor_der_Rialto_Bruecke_2017.jpg
+  title: Ruderer  vor der Rialto Bruecke 2017
+- src: images/Markusplatz_Ruderboot_2017.jpg
+  title: Markusplatz Ruderboot 2017
+- src: images/Vierer_vor_Venedig_2017.jpg
+  title: Vierer vor Venedig 2017
+- src: images/Ruderboot_Armada_in_Punta_Sabbioni_2017.jpg
+  title: Ruderboot Armada in Punta Sabbioni 2017
+- src: images/Paul_Geburstagsparty_2017.jpg
+  title: Paul Geburstagsparty 2017
+- src: images/Burano_Po_2017.jpg
+  title: Burano Po 2017
+- src: images/Ruderboot_in_Burano_2017.jpg
+  title: Ruderboot in Burano 2017
+- src: images/Bootsputz_Punta_Sabbioni_2017.jpg
+  title: Bootsputz Punta Sabbioni 2017
+- src: images/Camping_Miramare_Punta_Sabbioni_2017.jpg
+  title: Camping Miramare Punta Sabbioni 2017
+- src: images/Punta_Sabbioni_Vaporetto_2017.jpg
+  title: Punta Sabbioni Vaporetto 2017
+- src: images/Rialto_Gondel_2017.jpg
+  title: Rialto Gondel 2017
+- src: images/Markusplatz_2017.jpg
+  title: Markusplatz 2017
+- src: images/Gondeln_in_Venedig_2017.jpg
+  title: Gondeln in Venedig 2017
+länder:
+- frankreich
+- italien
+- österreich
+- schweiz
+title: Blog Pavia Venedig 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

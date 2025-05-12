@@ -1,166 +1,117 @@
-+++
-title = "Wanderfahrt Stroemsholm  Kanal Maelar 2010"
-author = ""
-date = 2010-07-07T01:00:00+02:00
-begin = "2010-07-01"
-"gewässer" = ["oder"]
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer Faehranleger Rostock S10"
-src = "images/Ruderer_Faehranleger_Rostock_S10.jpg"
-[[images]]
-title = "Rudervierer Stroemsholms Kanal S10"
-src = "images/Rudervierer_Stroemsholms_Kanal_S10.jpg"
-[[images]]
-title = "Nirina Stroemsholms kanal S10"
-src = "images/Nirina_Stroemsholms_kanal_S10.jpg"
-[[images]]
-title = "Chaotenvierer in Schweden S10"
-src = "images/Chaotenvierer_in_Schweden_S10.jpg"
-[[images]]
-title = "Ruderboot vor Kanaleinfahrt S10"
-src = "images/Ruderboot_vor_Kanaleinfahrt_S10.jpg"
-[[images]]
-title = "Warten vor der schwedischen Schleuse S10"
-src = "images/Warten_vor_der_schwedischen_Schleuse_S10.jpg"
-[[images]]
-title = "Nirina Thomas im Kanal Schweden S10"
-src = "images/Nirina_Thomas_im_Kanal_Schweden_S10.jpg"
-[[images]]
-title = "Badepause Ruderer Schweden S10"
-src = "images/Badepause_Ruderer_Schweden_S10.jpg"
-[[images]]
-title = "Zweier Aengelholm Schweden S10"
-src = "images/Zweier_Aengelholm_Schweden_S10.jpg"
-[[images]]
-title = "Stroemsholmskanal Ruderer machen Pause S10"
-src = "images/Stroemsholmskanal_Ruderer_machen_Pause_S10.jpg"
-[[images]]
-title = "Smedjebacken Dampfer S10"
-src = "images/Smedjebacken_Dampfer_S10.jpg"
-[[images]]
-title = "Schleusentreppe Schweden S10"
-src = "images/Schleusentreppe_Schweden_S10.jpg"
-[[images]]
-title = "Ruderboot Hjaelmaren Wellen S10"
-src = "images/Ruderboot_Hjaelmaren_Wellen_S10.jpg"
-[[images]]
-title = "Pause auf dem Hjaelmaren S10"
-src = "images/Pause_auf_dem_Hjaelmaren_S10.jpg"
-[[images]]
-title = "E-Zweier auf dem Hjaelmaren S10"
-src = "images/E-Zweier_auf_dem_Hjaelmaren_S10.jpg"
-[[images]]
-title = "Ruderboot Hjaelmaren S10"
-src = "images/Ruderboot_Hjaelmaren_S10.jpg"
-[[images]]
-title = "Oerebro S10"
-src = "images/Oerebro_S10.jpg"
-[[images]]
-title = "Unendliche Weiten auf dem Hjaelmaren S10"
-src = "images/Unendliche_Weiten_auf_dem_Hjaelmaren_S10.jpg"
-[[images]]
-title = "Ruderer mit UFO S10"
-src = "images/Ruderer_mit_UFO_S10.jpg"
-[[images]]
-title = "Wanderfahrt Hjaelmaren S10"
-src = "images/Wanderfahrt_Hjaelmaren_S10.jpg"
-[[images]]
-title = "Chaotenvierer in Schweden S1002"
-src = "images/Chaotenvierer_in_Schweden_S1002.jpg"
-[[images]]
-title = "Maelar Ruderboot Ruderer S10"
-src = "images/Maelar_Ruderboot_Ruderer_S10.jpg"
-[[images]]
-title = "Hjaelmaren kanal Ruderboote S10"
-src = "images/Hjaelmaren_kanal_Ruderboote_S10.jpg"
-[[images]]
-title = "Ruderer warten mal wieder vor einer Schleuse S10"
-src = "images/Ruderer_warten_mal_wieder_vor_einer_Schleuse_S10.jpg"
-[[images]]
-title = "Ruderer suchen den Weg in Schweden S10"
-src = "images/Ruderer_suchen_den_Weg_in_Schweden_S10.jpg"
-[[images]]
-title = "Ruderboote bei Vesteras S10"
-src = "images/Ruderboote_bei_Vesteras_S10.jpg"
-[[images]]
-title = "Sackgasse in Vaesteras S10"
-src = "images/Sackgasse_in_Vaesteras_S10.jpg"
-[[images]]
-title = "Campingplatz Schweden Huette S10"
-src = "images/Campingplatz_Schweden_Huette_S10.jpg"
-[[images]]
-title = "Klappbruecke Maelar S10"
-src = "images/Klappbruecke_Maelar_S10.jpg"
-[[images]]
-title = "unter dem Steg S10"
-src = "images/unter_dem_Steg_S10.jpg"
-[[images]]
-title = "Kochdienst S10"
-src = "images/Kochdienst_S10.jpg"
-[[images]]
-title = "Ruderboot vor Gripsholm S10"
-src = "images/Ruderboot_vor_Gripsholm_S10.jpg"
-[[images]]
-title = "Sackgasse in Uppsala S10"
-src = "images/Sackgasse_in_Uppsala_S10.jpg"
-[[images]]
-title = "Ruderer beim Kirchgang in Uppsala S10"
-src = "images/Ruderer_beim_Kirchgang_in_Uppsala_S10.jpg"
-[[images]]
-title = "Ruderer beim Schloss Uppsala S10"
-src = "images/Ruderer_beim_Schloss_Uppsala_S10.jpg"
-[[images]]
-title = "Uppsala Schlosspark S10"
-src = "images/Uppsala_Schlosspark_S10.jpg"
-[[images]]
-title = "Uppsala Dom S10"
-src = "images/Uppsala_Dom_S10.jpg"
-[[images]]
-title = "Etwas Regenwasser im Ruderboot S10"
-src = "images/Etwas_Regenwasser_im_Ruderboot_S10.jpg"
-[[images]]
-title = "Bug Ruderboot im Nebel S10"
-src = "images/Bug_Ruderboot_im_Nebel_S10.jpg"
-[[images]]
-title = "Segeln mit Schiebewind S10"
-src = "images/Segeln_mit_Schiebewind_S10.jpg"
-[[images]]
-title = "Bootshaus Stockholmer Rudervereinigung S10"
-src = "images/Bootshaus_Stockholmer_Rudervereinigung_S10.jpg"
-[[images]]
-title = "Ruderer Mannschaft Stockholm S10"
-src = "images/Ruderer_Mannschaft_Stockholm_S10.jpg"
-[[images]]
-title = "Slussen Stockholm Ruderer S10"
-src = "images/Slussen_Stockholm_Ruderer_S10.jpg"
-[[images]]
-title = "Ruderboot in Stockholm S10"
-src = "images/Ruderboot_in_Stockholm_S10.jpg"
-[[images]]
-title = "Vorort von Stockholm S10"
-src = "images/Vorort_von_Stockholm_S10.jpg"
-[[images]]
-title = "Blick aufs Stockholmer Schloss S10"
-src = "images/Blick_aufs_Stockholmer_Schloss_S10.jpg"
-[[images]]
-title = "Gamla Stan Stockholm vom Ruderboot S10"
-src = "images/Gamla_Stan_Stockholm_vom_Ruderboot_S10.jpg"
-[[images]]
-title = "Stadhuset Stockholm vom Ruderboot aus S10"
-src = "images/Stadhuset_Stockholm_vom_Ruderboot_aus_S10.jpg"
-[[images]]
-title = "Dachkonstruktion Stadhuset Stockholm S10"
-src = "images/Dachkonstruktion_Stadhuset_Stockholm_S10.jpg"
-[[images]]
-title = "Goldner Saal im Stadhuset Stockholm S10"
-src = "images/Goldner_Saal_im_Stadhuset_Stockholm_S10.jpg"
-[[images]]
-title = "Heissluftballons ueber Stockholm S10"
-src = "images/Heissluftballons_ueber_Stockholm_S10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-07-01"
+date: "2010-07-07T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Ruderer_Faehranleger_Rostock_S10.jpg
+  title: Ruderer Faehranleger Rostock S10
+- src: images/Rudervierer_Stroemsholms_Kanal_S10.jpg
+  title: Rudervierer Stroemsholms Kanal S10
+- src: images/Nirina_Stroemsholms_kanal_S10.jpg
+  title: Nirina Stroemsholms kanal S10
+- src: images/Chaotenvierer_in_Schweden_S10.jpg
+  title: Chaotenvierer in Schweden S10
+- src: images/Ruderboot_vor_Kanaleinfahrt_S10.jpg
+  title: Ruderboot vor Kanaleinfahrt S10
+- src: images/Warten_vor_der_schwedischen_Schleuse_S10.jpg
+  title: Warten vor der schwedischen Schleuse S10
+- src: images/Nirina_Thomas_im_Kanal_Schweden_S10.jpg
+  title: Nirina Thomas im Kanal Schweden S10
+- src: images/Badepause_Ruderer_Schweden_S10.jpg
+  title: Badepause Ruderer Schweden S10
+- src: images/Zweier_Aengelholm_Schweden_S10.jpg
+  title: Zweier Aengelholm Schweden S10
+- src: images/Stroemsholmskanal_Ruderer_machen_Pause_S10.jpg
+  title: Stroemsholmskanal Ruderer machen Pause S10
+- src: images/Smedjebacken_Dampfer_S10.jpg
+  title: Smedjebacken Dampfer S10
+- src: images/Schleusentreppe_Schweden_S10.jpg
+  title: Schleusentreppe Schweden S10
+- src: images/Ruderboot_Hjaelmaren_Wellen_S10.jpg
+  title: Ruderboot Hjaelmaren Wellen S10
+- src: images/Pause_auf_dem_Hjaelmaren_S10.jpg
+  title: Pause auf dem Hjaelmaren S10
+- src: images/E-Zweier_auf_dem_Hjaelmaren_S10.jpg
+  title: E-Zweier auf dem Hjaelmaren S10
+- src: images/Ruderboot_Hjaelmaren_S10.jpg
+  title: Ruderboot Hjaelmaren S10
+- src: images/Oerebro_S10.jpg
+  title: Oerebro S10
+- src: images/Unendliche_Weiten_auf_dem_Hjaelmaren_S10.jpg
+  title: Unendliche Weiten auf dem Hjaelmaren S10
+- src: images/Ruderer_mit_UFO_S10.jpg
+  title: Ruderer mit UFO S10
+- src: images/Wanderfahrt_Hjaelmaren_S10.jpg
+  title: Wanderfahrt Hjaelmaren S10
+- src: images/Chaotenvierer_in_Schweden_S1002.jpg
+  title: Chaotenvierer in Schweden S1002
+- src: images/Maelar_Ruderboot_Ruderer_S10.jpg
+  title: Maelar Ruderboot Ruderer S10
+- src: images/Hjaelmaren_kanal_Ruderboote_S10.jpg
+  title: Hjaelmaren kanal Ruderboote S10
+- src: images/Ruderer_warten_mal_wieder_vor_einer_Schleuse_S10.jpg
+  title: Ruderer warten mal wieder vor einer Schleuse S10
+- src: images/Ruderer_suchen_den_Weg_in_Schweden_S10.jpg
+  title: Ruderer suchen den Weg in Schweden S10
+- src: images/Ruderboote_bei_Vesteras_S10.jpg
+  title: Ruderboote bei Vesteras S10
+- src: images/Sackgasse_in_Vaesteras_S10.jpg
+  title: Sackgasse in Vaesteras S10
+- src: images/Campingplatz_Schweden_Huette_S10.jpg
+  title: Campingplatz Schweden Huette S10
+- src: images/Klappbruecke_Maelar_S10.jpg
+  title: Klappbruecke Maelar S10
+- src: images/unter_dem_Steg_S10.jpg
+  title: unter dem Steg S10
+- src: images/Kochdienst_S10.jpg
+  title: Kochdienst S10
+- src: images/Ruderboot_vor_Gripsholm_S10.jpg
+  title: Ruderboot vor Gripsholm S10
+- src: images/Sackgasse_in_Uppsala_S10.jpg
+  title: Sackgasse in Uppsala S10
+- src: images/Ruderer_beim_Kirchgang_in_Uppsala_S10.jpg
+  title: Ruderer beim Kirchgang in Uppsala S10
+- src: images/Ruderer_beim_Schloss_Uppsala_S10.jpg
+  title: Ruderer beim Schloss Uppsala S10
+- src: images/Uppsala_Schlosspark_S10.jpg
+  title: Uppsala Schlosspark S10
+- src: images/Uppsala_Dom_S10.jpg
+  title: Uppsala Dom S10
+- src: images/Etwas_Regenwasser_im_Ruderboot_S10.jpg
+  title: Etwas Regenwasser im Ruderboot S10
+- src: images/Bug_Ruderboot_im_Nebel_S10.jpg
+  title: Bug Ruderboot im Nebel S10
+- src: images/Segeln_mit_Schiebewind_S10.jpg
+  title: Segeln mit Schiebewind S10
+- src: images/Bootshaus_Stockholmer_Rudervereinigung_S10.jpg
+  title: Bootshaus Stockholmer Rudervereinigung S10
+- src: images/Ruderer_Mannschaft_Stockholm_S10.jpg
+  title: Ruderer Mannschaft Stockholm S10
+- src: images/Slussen_Stockholm_Ruderer_S10.jpg
+  title: Slussen Stockholm Ruderer S10
+- src: images/Ruderboot_in_Stockholm_S10.jpg
+  title: Ruderboot in Stockholm S10
+- src: images/Vorort_von_Stockholm_S10.jpg
+  title: Vorort von Stockholm S10
+- src: images/Blick_aufs_Stockholmer_Schloss_S10.jpg
+  title: Blick aufs Stockholmer Schloss S10
+- src: images/Gamla_Stan_Stockholm_vom_Ruderboot_S10.jpg
+  title: Gamla Stan Stockholm vom Ruderboot S10
+- src: images/Stadhuset_Stockholm_vom_Ruderboot_aus_S10.jpg
+  title: Stadhuset Stockholm vom Ruderboot aus S10
+- src: images/Dachkonstruktion_Stadhuset_Stockholm_S10.jpg
+  title: Dachkonstruktion Stadhuset Stockholm S10
+- src: images/Goldner_Saal_im_Stadhuset_Stockholm_S10.jpg
+  title: Goldner Saal im Stadhuset Stockholm S10
+- src: images/Heissluftballons_ueber_Stockholm_S10.jpg
+  title: Heissluftballons ueber Stockholm S10
+länder:
+- schweden
+title: Wanderfahrt Stroemsholm  Kanal Maelar 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

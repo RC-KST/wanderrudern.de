@@ -1,22 +1,20 @@
-+++
-title = "Ketzin Herbst 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["trebelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Zweier auf den Weg nach Brandenburg Ketzin Herbst 2013"
-src = "images/Zweier_auf_den_Weg_nach_Brandenburg_Ketzin_Herbst_2013.jpg"
-[[images]]
-title = "Abendstimmung auf der Havel Ketzin Herbst 2013"
-src = "images/Abendstimmung_auf_der_Havel_Ketzin_Herbst_2013.jpg"
-[[images]]
-title = "Ruderboot im Mondschein bei Ketzin 2013"
-src = "images/Ruderboot_im_Mondschein_bei_Ketzin_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- trebelsee
+images:
+- src: images/Zweier_auf_den_Weg_nach_Brandenburg_Ketzin_Herbst_2013.jpg
+  title: Zweier auf den Weg nach Brandenburg Ketzin Herbst 2013
+- src: images/Abendstimmung_auf_der_Havel_Ketzin_Herbst_2013.jpg
+  title: Abendstimmung auf der Havel Ketzin Herbst 2013
+- src: images/Ruderboot_im_Mondschein_bei_Ketzin_2013.jpg
+  title: Ruderboot im Mondschein bei Ketzin 2013
+länder: []
+title: Ketzin Herbst 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

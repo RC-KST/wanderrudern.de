@@ -1,22 +1,19 @@
-+++
-title = "Ruedersdorf Vorstandssitzung 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Baumgarten E-Vierer in Ruedersdorf 2014"
-src = "images/Baumgarten_E-Vierer_in_Ruedersdorf_2014.jpg"
-[[images]]
-title = "Schleuse Kleinmachnow Schleusen im Dunkeln 2014"
-src = "images/Schleuse_Kleinmachnow_Schleusen_im_Dunkeln_2014.jpg"
-[[images]]
-title = "abend bei wiking dezember 2014"
-src = "images/abend_bei_wiking_dezember_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Baumgarten_E-Vierer_in_Ruedersdorf_2014.jpg
+  title: Baumgarten E-Vierer in Ruedersdorf 2014
+- src: images/Schleuse_Kleinmachnow_Schleusen_im_Dunkeln_2014.jpg
+  title: Schleuse Kleinmachnow Schleusen im Dunkeln 2014
+- src: images/abend_bei_wiking_dezember_2014.jpg
+  title: abend bei wiking dezember 2014
+länder: []
+title: Ruedersdorf Vorstandssitzung 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

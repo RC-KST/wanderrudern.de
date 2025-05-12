@@ -1,223 +1,165 @@
-+++
-title = "Warthe Marathon 2019"
-author = ""
-date = 2019-01-01T01:00:00+02:00
-begin = "2019-01-01"
-"gewässer" = ["wannsee", "oder", "warthe", "netze", "bromberger kanal", "weichsel", "narew", "jez mamry", "ivalojoki"]
-"länder" = ["deutschland", "finnland", "polen"]
-"typ" = "marathon"
-[[images]]
-title = "Kevin geht am Start erst mal baden P09"
-src = "images/Kevin_geht_am_Start_erst_mal_baden_P09.jpg"
-[[images]]
-title = "Mauersee Ruderer im Wasser P09"
-src = "images/Mauersee_Ruderer_im_Wasser_P09.jpg"
-[[images]]
-title = "Marienburg P09"
-src = "images/Marienburg_P09.jpg"
-[[images]]
-title = "Ruderboote auf den Masurischen Seen P09"
-src = "images/Ruderboote_auf_den_Masurischen_Seen_P09.jpg"
-[[images]]
-title = "Badepause Masuren P09"
-src = "images/Badepause_Masuren_P09.jpg"
-[[images]]
-title = "Ruderboote Masuren P09"
-src = "images/Ruderboote_Masuren_P09.jpg"
-[[images]]
-title = "Sophie in Nikolaiken P09"
-src = "images/Sophie_in_Nikolaiken_P09.jpg"
-[[images]]
-title = "Rydzewo Camping P09"
-src = "images/Rydzewo_Camping_P09.jpg"
-[[images]]
-title = "Nikolaiken P09"
-src = "images/Nikolaiken_P09.jpg"
-[[images]]
-title = "Rahsegler in Nikolaiken P09"
-src = "images/Rahsegler_in_Nikolaiken_P09.jpg"
-[[images]]
-title = "Nikolaiken 2 P09"
-src = "images/Nikolaiken_2_P09.jpg"
-[[images]]
-title = "Rahsegler Masuren P0902"
-src = "images/Rahsegler_Masuren_P0902.jpg"
-[[images]]
-title = "Kevin auf der Kuhwiese P09"
-src = "images/Kevin_auf_der_Kuhwiese_P09.jpg"
-[[images]]
-title = "Manuel P09"
-src = "images/Manuel_P09.jpg"
-[[images]]
-title = "Start am Campingplatz P09"
-src = "images/Start_am_Campingplatz_P09.jpg"
-[[images]]
-title = "Ruderzweier vor Schilffeld Masuren P09"
-src = "images/Ruderzweier_vor_Schilffeld_Masuren_P09.jpg"
-[[images]]
-title = "Schleuse Johannisburg P09"
-src = "images/Schleuse_Johannisburg_P09.jpg"
-[[images]]
-title = "Schleuseausfahrt Johannisburg P09"
-src = "images/Schleuseausfahrt_Johannisburg_P09.jpg"
-[[images]]
-title = "Beginn der Pisa Zweier P09"
-src = "images/Beginn_der_Pisa_Zweier_P09.jpg"
-[[images]]
-title = "Waesche trocknen an der Pisa P09"
-src = "images/Waesche_trocknen_an_der_Pisa_P09.jpg"
-[[images]]
-title = "Kirsten steigt ins Ruderboot P09"
-src = "images/Kirsten_steigt_ins_Ruderboot_P09.jpg"
-[[images]]
-title = "Zelten an der Pisa P09"
-src = "images/Zelten_an_der_Pisa_P09.jpg"
-[[images]]
-title = "Untere Pisa P09"
-src = "images/Untere_Pisa_P09.jpg"
-[[images]]
-title = "Uli rudert auf der Pisa P09"
-src = "images/Uli_rudert_auf_der_Pisa_P09.jpg"
-[[images]]
-title = "Schilf im Altarm bei Nowogrod P09"
-src = "images/Schilf_im_Altarm_bei_Nowogrod_P09.jpg"
-[[images]]
-title = "Hotel in Nowogrod P09"
-src = "images/Hotel_in_Nowogrod_P09.jpg"
-[[images]]
-title = "Ruderboot auf der Narew P09"
-src = "images/Ruderboot_auf_der_Narew_P09.jpg"
-[[images]]
-title = "Ruderzweier Narew P09"
-src = "images/Ruderzweier_Narew_P09.jpg"
-[[images]]
-title = "Ostroleka Boote verstauen P09"
-src = "images/Ostroleka_Boote_verstauen_P09.jpg"
-[[images]]
-title = "Pizzaessen in Ostrolenka P09"
-src = "images/Pizzaessen_in_Ostrolenka_P09.jpg"
-[[images]]
-title = "Ostrolenka Hotel Narew"
-src = "images/Ostrolenka_Hotel_Narew.jpg"
-[[images]]
-title = "Narew Ruderboot im Schlepp P09"
-src = "images/Narew_Ruderboot_im_Schlepp_P09.jpg"
-[[images]]
-title = "Sophie beim Fruehstueck P09"
-src = "images/Sophie_beim_Fruehstueck_P09.jpg"
-[[images]]
-title = "Manuel springt vom Ruderboot P09"
-src = "images/Manuel_springt_vom_Ruderboot_P09.jpg"
-[[images]]
-title = "Narew am Ufer Baden P09"
-src = "images/Narew_am_Ufer_Baden_P09.jpg"
-[[images]]
-title = "Kuechenteam P09"
-src = "images/Kuechenteam_P09.jpg"
-[[images]]
-title = "Debe umtragen an der Narew P09"
-src = "images/Debe_umtragen_an_der_Narew_P09.jpg"
-[[images]]
-title = "Staumauer Debe Narew  P09"
-src = "images/Staumauer_Debe_Narew__P09.jpg"
-[[images]]
-title = "An der Weichsel P09"
-src = "images/An_der_Weichsel_P09.jpg"
-[[images]]
-title = "Gegenwind auf der Weichsel P09"
-src = "images/Gegenwind_auf_der_Weichsel_P09.jpg"
-[[images]]
-title = "Halbwildes Zelten an der Weichsel P09"
-src = "images/Halbwildes_Zelten_an_der_Weichsel_P09.jpg"
-[[images]]
-title = "Weichselidylle P09"
-src = "images/Weichselidylle_P09.jpg"
-[[images]]
-title = "Ruderboot auf der Sandbank Weichsel P09"
-src = "images/Ruderboot_auf_der_Sandbank_Weichsel_P09.jpg"
-[[images]]
-title = "Kanal und Sandburgenbau an der Weichsel P09"
-src = "images/Kanal_und_Sandburgenbau_an_der_Weichsel_P09.jpg"
-[[images]]
-title = "Kochdienst P09"
-src = "images/Kochdienst_P09.jpg"
-[[images]]
-title = "In der Weichselschleuse P09"
-src = "images/In_der_Weichselschleuse_P09.jpg"
-[[images]]
-title = "Pizza essen in Plock P09"
-src = "images/Pizza_essen_in_Plock_P09.jpg"
-[[images]]
-title = "Ruderclub Thorn P09"
-src = "images/Ruderclub_Thorn_P09.jpg"
-[[images]]
-title = "Ruderboot auf der Regattastrecke von Bromberg P09"
-src = "images/Ruderboot_auf_der_Regattastrecke_von_Bromberg_P09.jpg"
-[[images]]
-title = "Bromberg Stadtdurchfahrt P09"
-src = "images/Bromberg_Stadtdurchfahrt_P09.jpg"
-[[images]]
-title = "Bromberg Schleuse P09"
-src = "images/Bromberg_Schleuse_P09.jpg"
-[[images]]
-title = "Bromberger Kanal Schleuse 1"
-src = "images/Bromberger_Kanal_Schleuse_1.jpg"
-[[images]]
-title = "Bromberger Kanal Wassersparbecken P09"
-src = "images/Bromberger_Kanal_Wassersparbecken_P09.jpg"
-[[images]]
-title = "Bromberger Kanal 1 Schleuse P09"
-src = "images/Bromberger_Kanal_1_Schleuse_P09.jpg"
-[[images]]
-title = "Schleuse in Bromberg P09"
-src = "images/Schleuse_in_Bromberg_P09.jpg"
-[[images]]
-title = "Alte Schleuse am Bromberger Kanal P09"
-src = "images/Alte_Schleuse_am_Bromberger_Kanal_P09.jpg"
-[[images]]
-title = "Entengruetze so weit das Auge reicht P09"
-src = "images/Entengruetze_so_weit_das_Auge_reicht_P09.jpg"
-[[images]]
-title = "Ruderboote gefangen in der Schleuse P09"
-src = "images/Ruderboote_gefangen_in_der_Schleuse_P09.jpg"
-[[images]]
-title = "Schleuse Nacklo P09"
-src = "images/Schleuse_Nacklo_P09.jpg"
-[[images]]
-title = "Netze Abendessen an einer Schleuse P09"
-src = "images/Netze_Abendessen_an_einer_Schleuse_P09.jpg"
-[[images]]
-title = "Nirina und Malte im Ruderboot Bromberger Kanal P09"
-src = "images/Nirina_und_Malte_im_Ruderboot_Bromberger_Kanal_P09.jpg"
-[[images]]
-title = "Quartier bei der Feuerwehr P09"
-src = "images/Quartier_bei_der_Feuerwehr_P09.jpg"
-[[images]]
-title = "Netze Zweier Ruderboot P09"
-src = "images/Netze_Zweier_Ruderboot_P09.jpg"
-[[images]]
-title = "Ruderboot im Netzesumpf P09"
-src = "images/Ruderboot_im_Netzesumpf_P09.jpg"
-[[images]]
-title = "Ruderer auf dem Reiterhof P09"
-src = "images/Ruderer_auf_dem_Reiterhof_P09.jpg"
-[[images]]
-title = "Ruderboote auf der Netze P09"
-src = "images/Ruderboote_auf_der_Netze_P09.jpg"
-[[images]]
-title = "Toller Parkplatz fuer eine Schubeinheit P09"
-src = "images/Toller_Parkplatz_fuer_eine_Schubeinheit_P09.jpg"
-[[images]]
-title = "Quartier in Kuestrin P09"
-src = "images/Quartier_in_Kuestrin_P09.jpg"
-[[images]]
-title = "Niederfinow Schiffshebewerk P09"
-src = "images/Niederfinow_Schiffshebewerk_P09.jpg"
-[[images]]
-title = "Niederfinow im Trog P09"
-src = "images/Niederfinow_im_Trog_P09.jpg"
-
-+++
+---
+author: ""
+begin: "2019-01-01"
+date: "2019-01-01T01:00:00+02:00"
+gewässer:
+- wannsee
+- oder
+- warthe
+- netze
+- bromberger kanal
+- weichsel
+- narew
+- jez mamry
+- ivalojoki
+images:
+- src: images/Kevin_geht_am_Start_erst_mal_baden_P09.jpg
+  title: Kevin geht am Start erst mal baden P09
+- src: images/Mauersee_Ruderer_im_Wasser_P09.jpg
+  title: Mauersee Ruderer im Wasser P09
+- src: images/Marienburg_P09.jpg
+  title: Marienburg P09
+- src: images/Ruderboote_auf_den_Masurischen_Seen_P09.jpg
+  title: Ruderboote auf den Masurischen Seen P09
+- src: images/Badepause_Masuren_P09.jpg
+  title: Badepause Masuren P09
+- src: images/Ruderboote_Masuren_P09.jpg
+  title: Ruderboote Masuren P09
+- src: images/Sophie_in_Nikolaiken_P09.jpg
+  title: Sophie in Nikolaiken P09
+- src: images/Rydzewo_Camping_P09.jpg
+  title: Rydzewo Camping P09
+- src: images/Nikolaiken_P09.jpg
+  title: Nikolaiken P09
+- src: images/Rahsegler_in_Nikolaiken_P09.jpg
+  title: Rahsegler in Nikolaiken P09
+- src: images/Nikolaiken_2_P09.jpg
+  title: Nikolaiken 2 P09
+- src: images/Rahsegler_Masuren_P0902.jpg
+  title: Rahsegler Masuren P0902
+- src: images/Kevin_auf_der_Kuhwiese_P09.jpg
+  title: Kevin auf der Kuhwiese P09
+- src: images/Manuel_P09.jpg
+  title: Manuel P09
+- src: images/Start_am_Campingplatz_P09.jpg
+  title: Start am Campingplatz P09
+- src: images/Ruderzweier_vor_Schilffeld_Masuren_P09.jpg
+  title: Ruderzweier vor Schilffeld Masuren P09
+- src: images/Schleuse_Johannisburg_P09.jpg
+  title: Schleuse Johannisburg P09
+- src: images/Schleuseausfahrt_Johannisburg_P09.jpg
+  title: Schleuseausfahrt Johannisburg P09
+- src: images/Beginn_der_Pisa_Zweier_P09.jpg
+  title: Beginn der Pisa Zweier P09
+- src: images/Waesche_trocknen_an_der_Pisa_P09.jpg
+  title: Waesche trocknen an der Pisa P09
+- src: images/Kirsten_steigt_ins_Ruderboot_P09.jpg
+  title: Kirsten steigt ins Ruderboot P09
+- src: images/Zelten_an_der_Pisa_P09.jpg
+  title: Zelten an der Pisa P09
+- src: images/Untere_Pisa_P09.jpg
+  title: Untere Pisa P09
+- src: images/Uli_rudert_auf_der_Pisa_P09.jpg
+  title: Uli rudert auf der Pisa P09
+- src: images/Schilf_im_Altarm_bei_Nowogrod_P09.jpg
+  title: Schilf im Altarm bei Nowogrod P09
+- src: images/Hotel_in_Nowogrod_P09.jpg
+  title: Hotel in Nowogrod P09
+- src: images/Ruderboot_auf_der_Narew_P09.jpg
+  title: Ruderboot auf der Narew P09
+- src: images/Ruderzweier_Narew_P09.jpg
+  title: Ruderzweier Narew P09
+- src: images/Ostroleka_Boote_verstauen_P09.jpg
+  title: Ostroleka Boote verstauen P09
+- src: images/Pizzaessen_in_Ostrolenka_P09.jpg
+  title: Pizzaessen in Ostrolenka P09
+- src: images/Ostrolenka_Hotel_Narew.jpg
+  title: Ostrolenka Hotel Narew
+- src: images/Narew_Ruderboot_im_Schlepp_P09.jpg
+  title: Narew Ruderboot im Schlepp P09
+- src: images/Sophie_beim_Fruehstueck_P09.jpg
+  title: Sophie beim Fruehstueck P09
+- src: images/Manuel_springt_vom_Ruderboot_P09.jpg
+  title: Manuel springt vom Ruderboot P09
+- src: images/Narew_am_Ufer_Baden_P09.jpg
+  title: Narew am Ufer Baden P09
+- src: images/Kuechenteam_P09.jpg
+  title: Kuechenteam P09
+- src: images/Debe_umtragen_an_der_Narew_P09.jpg
+  title: Debe umtragen an der Narew P09
+- src: images/Staumauer_Debe_Narew__P09.jpg
+  title: Staumauer Debe Narew  P09
+- src: images/An_der_Weichsel_P09.jpg
+  title: An der Weichsel P09
+- src: images/Gegenwind_auf_der_Weichsel_P09.jpg
+  title: Gegenwind auf der Weichsel P09
+- src: images/Halbwildes_Zelten_an_der_Weichsel_P09.jpg
+  title: Halbwildes Zelten an der Weichsel P09
+- src: images/Weichselidylle_P09.jpg
+  title: Weichselidylle P09
+- src: images/Ruderboot_auf_der_Sandbank_Weichsel_P09.jpg
+  title: Ruderboot auf der Sandbank Weichsel P09
+- src: images/Kanal_und_Sandburgenbau_an_der_Weichsel_P09.jpg
+  title: Kanal und Sandburgenbau an der Weichsel P09
+- src: images/Kochdienst_P09.jpg
+  title: Kochdienst P09
+- src: images/In_der_Weichselschleuse_P09.jpg
+  title: In der Weichselschleuse P09
+- src: images/Pizza_essen_in_Plock_P09.jpg
+  title: Pizza essen in Plock P09
+- src: images/Ruderclub_Thorn_P09.jpg
+  title: Ruderclub Thorn P09
+- src: images/Ruderboot_auf_der_Regattastrecke_von_Bromberg_P09.jpg
+  title: Ruderboot auf der Regattastrecke von Bromberg P09
+- src: images/Bromberg_Stadtdurchfahrt_P09.jpg
+  title: Bromberg Stadtdurchfahrt P09
+- src: images/Bromberg_Schleuse_P09.jpg
+  title: Bromberg Schleuse P09
+- src: images/Bromberger_Kanal_Schleuse_1.jpg
+  title: Bromberger Kanal Schleuse 1
+- src: images/Bromberger_Kanal_Wassersparbecken_P09.jpg
+  title: Bromberger Kanal Wassersparbecken P09
+- src: images/Bromberger_Kanal_1_Schleuse_P09.jpg
+  title: Bromberger Kanal 1 Schleuse P09
+- src: images/Schleuse_in_Bromberg_P09.jpg
+  title: Schleuse in Bromberg P09
+- src: images/Alte_Schleuse_am_Bromberger_Kanal_P09.jpg
+  title: Alte Schleuse am Bromberger Kanal P09
+- src: images/Entengruetze_so_weit_das_Auge_reicht_P09.jpg
+  title: Entengruetze so weit das Auge reicht P09
+- src: images/Ruderboote_gefangen_in_der_Schleuse_P09.jpg
+  title: Ruderboote gefangen in der Schleuse P09
+- src: images/Schleuse_Nacklo_P09.jpg
+  title: Schleuse Nacklo P09
+- src: images/Netze_Abendessen_an_einer_Schleuse_P09.jpg
+  title: Netze Abendessen an einer Schleuse P09
+- src: images/Nirina_und_Malte_im_Ruderboot_Bromberger_Kanal_P09.jpg
+  title: Nirina und Malte im Ruderboot Bromberger Kanal P09
+- src: images/Quartier_bei_der_Feuerwehr_P09.jpg
+  title: Quartier bei der Feuerwehr P09
+- src: images/Netze_Zweier_Ruderboot_P09.jpg
+  title: Netze Zweier Ruderboot P09
+- src: images/Ruderboot_im_Netzesumpf_P09.jpg
+  title: Ruderboot im Netzesumpf P09
+- src: images/Ruderer_auf_dem_Reiterhof_P09.jpg
+  title: Ruderer auf dem Reiterhof P09
+- src: images/Ruderboote_auf_der_Netze_P09.jpg
+  title: Ruderboote auf der Netze P09
+- src: images/Toller_Parkplatz_fuer_eine_Schubeinheit_P09.jpg
+  title: Toller Parkplatz fuer eine Schubeinheit P09
+- src: images/Quartier_in_Kuestrin_P09.jpg
+  title: Quartier in Kuestrin P09
+- src: images/Niederfinow_Schiffshebewerk_P09.jpg
+  title: Niederfinow Schiffshebewerk P09
+- src: images/Niederfinow_im_Trog_P09.jpg
+  title: Niederfinow im Trog P09
+länder:
+- deutschland
+- finnland
+- polen
+title: Warthe Marathon 2019
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

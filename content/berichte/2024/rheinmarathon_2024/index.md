@@ -1,22 +1,21 @@
-+++
-title = "Rheinmarathon 2024"
-author = ""
-date = 2024-10-10T01:00:00+02:00
-begin = "2024-10-01"
-"gewässer" = ["rhein", "aller"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Ruderboot Rheinmarathon 2024"
-src = "images/Ruderboot_Rheinmarathon_2024.jpg"
-[[images]]
-title = "Frauenboot Rheinmarathon 2024"
-src = "images/Frauenboot_Rheinmarathon_2024.jpg"
-[[images]]
-title = "Start Rheinmarathon 2024"
-src = "images/Start_Rheinmarathon_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-10-01"
+date: "2024-10-10T01:00:00+02:00"
+gewässer:
+- rhein
+- aller
+images:
+- src: images/Ruderboot_Rheinmarathon_2024.jpg
+  title: Ruderboot Rheinmarathon 2024
+- src: images/Frauenboot_Rheinmarathon_2024.jpg
+  title: Frauenboot Rheinmarathon 2024
+- src: images/Start_Rheinmarathon_2024.jpg
+  title: Start Rheinmarathon 2024
+länder: []
+title: Rheinmarathon 2024
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

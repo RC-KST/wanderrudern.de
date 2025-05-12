@@ -1,82 +1,64 @@
-+++
-title = "Fulda Weser 2006"
-author = ""
-date = 2006-05-05T01:00:00+02:00
-begin = "2006-05-01"
-"gewässer" = ["weser", "fulda", "oste", "oder"]
-"länder" = ["schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kassel Rudersteg Ruderboot"
-src = "images/w06_Kassel_1.jpg"
-[[images]]
-title = "Bootsgasse"
-src = "images/w06_H-Munden_1.jpg"
-[[images]]
-title = "Vierer auf der Fulda"
-src = "images/W06_H-Munden_7.jpg"
-[[images]]
-title = "Hoexter Ruderboot"
-src = "images/w06_Hoexter_8.jpg"
-[[images]]
-title = "w06_Minden 12"
-src = "images/w06_Minden_12.jpg"
-[[images]]
-title = "Wehr Ruderboot"
-src = "images/w06_Nienburg_5.jpg"
-[[images]]
-title = "w06_Verden 8"
-src = "images/w06_Verden_8.jpg"
-[[images]]
-title = "bremen_stadt Ruderboot"
-src = "images/w06_bremen_stadt2.jpg"
-[[images]]
-title = "Levon im Hafen Ruderboot"
-src = "images/w06_schlepper.jpg"
-[[images]]
-title = "W06_Brhafen 27"
-src = "images/W06_Brhafen_27.jpg"
-[[images]]
-title = "w06_Brhafen 15"
-src = "images/w06_Brhafen_15.jpg"
-[[images]]
-title = "Bootsgasse Fulda"
-src = "images/w06_H-Munden_3.jpg"
-[[images]]
-title = "Ausleger reparieren Ruderboot"
-src = "images/w06_H-Munden_10.jpg"
-[[images]]
-title = "Porta Westfalica"
-src = "images/w06_Minden_3.jpg"
-[[images]]
-title = "Levon spielt Klavier"
-src = "images/w06_Minden_13.jpg"
-[[images]]
-title = "w06_Nienburg 2"
-src = "images/w06_Nienburg_2.jpg"
-[[images]]
-title = "Bremen_stadt Rudern"
-src = "images/w06_bremen_stadt.jpg"
-[[images]]
-title = "Hochseefrachter Ruderboot"
-src = "images/w06_containerfrachter2.jpg"
-[[images]]
-title = "Bremerhaven Schaffotschleuse Ruderer"
-src = "images/w06_Brhafen_5.jpg"
-[[images]]
-title = "Bremerhaven Schwimmdock Ruderer"
-src = "images/w06_Brhafen_24.jpg"
-[[images]]
-title = "Jens Jörg Bremerhaven"
-src = "images/w06_Brhafen_7.jpg"
-[[images]]
-title = "Kreuzfahrtschiff in Bremerhaven"
-src = "images/w06_Brhafen_10.jpg"
-[[images]]
-title = "w06_Brhafen 17"
-src = "images/w06_Brhafen_17.jpg"
-
-+++
+---
+author: ""
+begin: "2006-05-01"
+date: "2006-05-05T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+- oste
+- oder
+images:
+- src: images/w06_Kassel_1.jpg
+  title: Kassel Rudersteg Ruderboot
+- src: images/w06_H-Munden_1.jpg
+  title: Bootsgasse
+- src: images/W06_H-Munden_7.jpg
+  title: Vierer auf der Fulda
+- src: images/w06_Hoexter_8.jpg
+  title: Hoexter Ruderboot
+- src: images/w06_Minden_12.jpg
+  title: w06_Minden 12
+- src: images/w06_Nienburg_5.jpg
+  title: Wehr Ruderboot
+- src: images/w06_Verden_8.jpg
+  title: w06_Verden 8
+- src: images/w06_bremen_stadt2.jpg
+  title: bremen_stadt Ruderboot
+- src: images/w06_schlepper.jpg
+  title: Levon im Hafen Ruderboot
+- src: images/W06_Brhafen_27.jpg
+  title: W06_Brhafen 27
+- src: images/w06_Brhafen_15.jpg
+  title: w06_Brhafen 15
+- src: images/w06_H-Munden_3.jpg
+  title: Bootsgasse Fulda
+- src: images/w06_H-Munden_10.jpg
+  title: Ausleger reparieren Ruderboot
+- src: images/w06_Minden_3.jpg
+  title: Porta Westfalica
+- src: images/w06_Minden_13.jpg
+  title: Levon spielt Klavier
+- src: images/w06_Nienburg_2.jpg
+  title: w06_Nienburg 2
+- src: images/w06_bremen_stadt.jpg
+  title: Bremen_stadt Rudern
+- src: images/w06_containerfrachter2.jpg
+  title: Hochseefrachter Ruderboot
+- src: images/w06_Brhafen_5.jpg
+  title: Bremerhaven Schaffotschleuse Ruderer
+- src: images/w06_Brhafen_24.jpg
+  title: Bremerhaven Schwimmdock Ruderer
+- src: images/w06_Brhafen_7.jpg
+  title: Jens Jörg Bremerhaven
+- src: images/w06_Brhafen_10.jpg
+  title: Kreuzfahrtschiff in Bremerhaven
+- src: images/w06_Brhafen_17.jpg
+  title: w06_Brhafen 17
+länder:
+- schweiz
+title: Fulda Weser 2006
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

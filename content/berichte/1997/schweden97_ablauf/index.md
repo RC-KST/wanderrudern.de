@@ -1,13 +1,16 @@
-+++
-title = "Schweden 1997 Dalsland und Götakanal"
-author = ""
-date = 1997-01-01T01:00:00+02:00
-begin = "1997-01-01"
-"gewässer" = ["ostsee", "oder"]
-"länder" = ["deutschland", "schweden"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "1997-01-01"
+date: "1997-01-01T01:00:00+02:00"
+gewässer:
+- ostsee
+- oder
+länder:
+- deutschland
+- schweden
+title: Schweden 1997 Dalsland und Götakanal
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,21 @@
-+++
-title = "Reparaturen 2017 Ergometer"
-author = ""
-date = 2017-11-11T01:00:00+02:00
-begin = "2017-11-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bootsanhaenger repariert"
-src = "images/Bootsanhaenger_repariert.jpg"
-[[images]]
-title = "Ruderergometer beim RC KST 2017"
-src = "images/Ruderergometer_beim_RC_KST_2017.jpg"
-[[images]]
-title = "Neue Spanten neues Waschbod beim D-Zweier 2017"
-src = "images/Neue_Spanten_neues_Waschbod_beim_D-Zweier_2017.jpg"
-[[images]]
-title = "Neuer Bugspiegel bei einem D-Vierer 2017"
-src = "images/Neuer_Bugspiegel_bei_einem_D-Vierer_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-11-01"
+date: "2017-11-11T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Bootsanhaenger_repariert.jpg
+  title: Bootsanhaenger repariert
+- src: images/Ruderergometer_beim_RC_KST_2017.jpg
+  title: Ruderergometer beim RC KST 2017
+- src: images/Neue_Spanten_neues_Waschbod_beim_D-Zweier_2017.jpg
+  title: Neue Spanten neues Waschbod beim D-Zweier 2017
+- src: images/Neuer_Bugspiegel_bei_einem_D-Vierer_2017.jpg
+  title: Neuer Bugspiegel bei einem D-Vierer 2017
+länder: []
+title: Reparaturen 2017 Ergometer
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

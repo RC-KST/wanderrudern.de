@@ -1,52 +1,43 @@
-+++
-title = "Havel-Elbe Werben 2021"
-author = ""
-date = 2021-11-11T01:00:00+02:00
-begin = "2021-11-01"
-"gewässer" = ["elbe", "havel", "plauer see", "trebelsee"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Warten auf den Bootsanhänger Werben 2021"
-src = "images/Warten_auf_den_Bootsanhanger_Werben_2021.jpg"
-[[images]]
-title = "Ketzin Pension Ruderer beim Abendessen 2021"
-src = "images/Ketzin_Pension_Ruderer_beim_Abendessen_2021.jpg"
-[[images]]
-title = "Advent Start in Ketzin bei Sonnenaufgang 2021"
-src = "images/Advent_Start_in_Ketzin_bei_Sonnenaufgang_2021.jpg"
-[[images]]
-title = "Havel am ersten Advent im Schneefall 2021"
-src = "images/Havel_am_ersten_Advent_im_Schneefall_2021.jpg"
-[[images]]
-title = "Parey Hotelboote Elbe 2021"
-src = "images/Parey_Hotelboote_Elbe_2021.jpg"
-[[images]]
-title = "Ruderboot vertäut am Quartier Parey 2021"
-src = "images/Ruderboot_vertaut_am_Quartier_Parey_2021.jpg"
-[[images]]
-title = "Parey im schwimmenden Quartier 2021"
-src = "images/Parey_im_schwimmenden_Quartier_2021.jpg"
-[[images]]
-title = "Ruderer in Parey 2021"
-src = "images/Ruderer_in_Parey_2021.jpg"
-[[images]]
-title = "Parey schwimmendes Quartier 2021"
-src = "images/Parey_schwimmendes_Quartier_2021.jpg"
-[[images]]
-title = "Parey defekte Schleuse bei Sonnenaufgang 2021"
-src = "images/Parey_defekte_Schleuse_bei_Sonnenaufgang_2021.jpg"
-[[images]]
-title = "Boote umtragen in Parey 2021"
-src = "images/Boote_umtragen_in_Parey_2021.jpg"
-[[images]]
-title = "Havel Elbe Marathon 2021"
-src = "images/Havel_Elbe_Marathon_2021.jpg"
-[[images]]
-title = "Ruderboote in Werben fertig zum Aufladen 2021"
-src = "images/Ruderboote_in_Werben_fertig_zum_Aufladen_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-11-01"
+date: "2021-11-11T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- trebelsee
+images:
+- src: images/Warten_auf_den_Bootsanhanger_Werben_2021.jpg
+  title: Warten auf den Bootsanhänger Werben 2021
+- src: images/Ketzin_Pension_Ruderer_beim_Abendessen_2021.jpg
+  title: Ketzin Pension Ruderer beim Abendessen 2021
+- src: images/Advent_Start_in_Ketzin_bei_Sonnenaufgang_2021.jpg
+  title: Advent Start in Ketzin bei Sonnenaufgang 2021
+- src: images/Havel_am_ersten_Advent_im_Schneefall_2021.jpg
+  title: Havel am ersten Advent im Schneefall 2021
+- src: images/Parey_Hotelboote_Elbe_2021.jpg
+  title: Parey Hotelboote Elbe 2021
+- src: images/Ruderboot_vertaut_am_Quartier_Parey_2021.jpg
+  title: Ruderboot vertäut am Quartier Parey 2021
+- src: images/Parey_im_schwimmenden_Quartier_2021.jpg
+  title: Parey im schwimmenden Quartier 2021
+- src: images/Ruderer_in_Parey_2021.jpg
+  title: Ruderer in Parey 2021
+- src: images/Parey_schwimmendes_Quartier_2021.jpg
+  title: Parey schwimmendes Quartier 2021
+- src: images/Parey_defekte_Schleuse_bei_Sonnenaufgang_2021.jpg
+  title: Parey defekte Schleuse bei Sonnenaufgang 2021
+- src: images/Boote_umtragen_in_Parey_2021.jpg
+  title: Boote umtragen in Parey 2021
+- src: images/Havel_Elbe_Marathon_2021.jpg
+  title: Havel Elbe Marathon 2021
+- src: images/Ruderboote_in_Werben_fertig_zum_Aufladen_2021.jpg
+  title: Ruderboote in Werben fertig zum Aufladen 2021
+länder: []
+title: Havel-Elbe Werben 2021
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

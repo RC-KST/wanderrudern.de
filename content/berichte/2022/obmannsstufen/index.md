@@ -1,13 +1,16 @@
-+++
-title = "Finnland Inari 2022"
-author = ""
-date = 2022-01-01T01:00:00+02:00
-begin = "2022-01-01"
-"gewässer" = ["donau", "inn", "teltowkanal"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2022-01-01"
+date: "2022-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- inn
+- teltowkanal
+länder:
+- finnland
+title: Finnland Inari 2022
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

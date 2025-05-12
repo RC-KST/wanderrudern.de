@@ -1,25 +1,21 @@
-+++
-title = "Day of the Bay 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kinderrudern am Donnerstag Messe Boot und Fun 2016"
-src = "images/Kinderrudern_am_Donnerstag_Messe_Boot_und_Fun_2016.jpg"
-[[images]]
-title = "Messeleitung Boot und Fun 2016 im Family Trainer"
-src = "images/Messeleitung_Boot_und_Fun_2016_im_Family_Trainer.jpg"
-[[images]]
-title = "Messestand Ruderclub Kleinmachnow Boot und Fun 2016"
-src = "images/Messestand_Ruderclub_Kleinmachnow_Boot_und_Fun_2016.jpg"
-[[images]]
-title = "Family Trainer im grossen Becken 2016"
-src = "images/Family_Trainer_im_grossen_Becken_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kinderrudern_am_Donnerstag_Messe_Boot_und_Fun_2016.jpg
+  title: Kinderrudern am Donnerstag Messe Boot und Fun 2016
+- src: images/Messeleitung_Boot_und_Fun_2016_im_Family_Trainer.jpg
+  title: Messeleitung Boot und Fun 2016 im Family Trainer
+- src: images/Messestand_Ruderclub_Kleinmachnow_Boot_und_Fun_2016.jpg
+  title: Messestand Ruderclub Kleinmachnow Boot und Fun 2016
+- src: images/Family_Trainer_im_grossen_Becken_2016.jpg
+  title: Family Trainer im grossen Becken 2016
+länder: []
+title: Day of the Bay 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

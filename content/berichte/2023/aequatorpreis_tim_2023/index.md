@@ -1,16 +1,15 @@
-+++
-title = "Aequatorpreis Tim 2023"
-author = ""
-date = 2023-09-09T01:00:00+02:00
-begin = "2023-09-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Tim jüngster männlicher Äquatorpreisgewinner aller Zeiten"
-src = "images/Tim_jungster_mannlicher_Aquatorpreisgewinner_aller_Zeiten.jpg"
-
-+++
+---
+author: ""
+begin: "2023-09-01"
+date: "2023-09-09T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Tim_jungster_mannlicher_Aquatorpreisgewinner_aller_Zeiten.jpg
+  title: Tim jüngster männlicher Äquatorpreisgewinner aller Zeiten
+länder: []
+title: Aequatorpreis Tim 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

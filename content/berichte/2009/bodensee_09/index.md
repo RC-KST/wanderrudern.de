@@ -1,67 +1,52 @@
-+++
-title = "Bodensee 09"
-author = ""
-date = 2009-05-05T01:00:00+02:00
-begin = "2009-05-01"
-"gewässer" = []
-"länder" = ["deutschland", "schweden", "schweiz"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "04-1tag-blick_auf_rorschach"
-src = "images/04-1tag-blick_auf_rorschach.jpg"
-[[images]]
-title = "Frauen Ruderboot Bodensee 09"
-src = "images/Frauen_Ruderboot_Bodensee_09.jpg"
-[[images]]
-title = "Baumgarten Zweier Ablegen Konstanz 09"
-src = "images/Baumgarten_Zweier_Ablegen_Konstanz_09.jpg"
-[[images]]
-title = "Steuerfrau mit Bergkulisse Bodensee 09"
-src = "images/Steuerfrau_mit_Bergkulisse_Bodensee_09.jpg"
-[[images]]
-title = "07-2tag-reichenau_westufer"
-src = "images/07-2tag-reichenau_westufer.jpg"
-[[images]]
-title = "11-2tag-reichenau_st.georg-3"
-src = "images/11-2tag-reichenau_st.georg-3.jpg"
-[[images]]
-title = "12-2tag-reichenau_bruckgraben"
-src = "images/12-2tag-reichenau_bruckgraben.jpg"
-[[images]]
-title = "Bergpanorama am Bodensee 09"
-src = "images/Bergpanorama_am_Bodensee_09.jpg"
-[[images]]
-title = "09-2tag-reichenau_st.georg"
-src = "images/09-2tag-reichenau_st.georg.jpg"
-[[images]]
-title = "Ruderer vor der Mainau 09"
-src = "images/Ruderer_vor_der_Mainau_09.jpg"
-[[images]]
-title = "Ruderer beim Picknick Bodensee 09"
-src = "images/Ruderer_beim_Picknick_Bodensee_09.jpg"
-[[images]]
-title = "14-3tag-rc_neptun_konstanz"
-src = "images/14-3tag-rc_neptun_konstanz.jpg"
-[[images]]
-title = "Pfahlbauten Unteruhldingen Bodensee 09"
-src = "images/Pfahlbauten_Unteruhldingen_Bodensee_09.jpg"
-[[images]]
-title = "23-3tag-birnau"
-src = "images/23-3tag-birnau.jpg"
-[[images]]
-title = "Ruderclub Bodan Ueberlingen 09"
-src = "images/Ruderclub_Bodan_Ueberlingen_09.jpg"
-[[images]]
-title = "Ruderer in der Weinstube Bodensee 09"
-src = "images/Ruderer_in_der_Weinstube_Bodensee_09.jpg"
-[[images]]
-title = "Bodensee Blick auf den Saentis 09"
-src = "images/Bodensee_Blick_auf_den_Saentis_09.jpg"
-[[images]]
-title = "Pfahlbauten Bodensee 09"
-src = "images/Pfahlbauten_Bodensee_09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-05-01"
+date: "2009-05-05T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/04-1tag-blick_auf_rorschach.jpg
+  title: 04-1tag-blick_auf_rorschach
+- src: images/Frauen_Ruderboot_Bodensee_09.jpg
+  title: Frauen Ruderboot Bodensee 09
+- src: images/Baumgarten_Zweier_Ablegen_Konstanz_09.jpg
+  title: Baumgarten Zweier Ablegen Konstanz 09
+- src: images/Steuerfrau_mit_Bergkulisse_Bodensee_09.jpg
+  title: Steuerfrau mit Bergkulisse Bodensee 09
+- src: images/07-2tag-reichenau_westufer.jpg
+  title: 07-2tag-reichenau_westufer
+- src: images/11-2tag-reichenau_st.georg-3.jpg
+  title: 11-2tag-reichenau_st.georg-3
+- src: images/12-2tag-reichenau_bruckgraben.jpg
+  title: 12-2tag-reichenau_bruckgraben
+- src: images/Bergpanorama_am_Bodensee_09.jpg
+  title: Bergpanorama am Bodensee 09
+- src: images/09-2tag-reichenau_st.georg.jpg
+  title: 09-2tag-reichenau_st.georg
+- src: images/Ruderer_vor_der_Mainau_09.jpg
+  title: Ruderer vor der Mainau 09
+- src: images/Ruderer_beim_Picknick_Bodensee_09.jpg
+  title: Ruderer beim Picknick Bodensee 09
+- src: images/14-3tag-rc_neptun_konstanz.jpg
+  title: 14-3tag-rc_neptun_konstanz
+- src: images/Pfahlbauten_Unteruhldingen_Bodensee_09.jpg
+  title: Pfahlbauten Unteruhldingen Bodensee 09
+- src: images/23-3tag-birnau.jpg
+  title: 23-3tag-birnau
+- src: images/Ruderclub_Bodan_Ueberlingen_09.jpg
+  title: Ruderclub Bodan Ueberlingen 09
+- src: images/Ruderer_in_der_Weinstube_Bodensee_09.jpg
+  title: Ruderer in der Weinstube Bodensee 09
+- src: images/Bodensee_Blick_auf_den_Saentis_09.jpg
+  title: Bodensee Blick auf den Saentis 09
+- src: images/Pfahlbauten_Bodensee_09.jpg
+  title: Pfahlbauten Bodensee 09
+länder:
+- deutschland
+- schweden
+- schweiz
+title: Bodensee 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

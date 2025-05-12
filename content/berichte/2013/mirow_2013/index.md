@@ -1,34 +1,30 @@
-+++
-title = "Mirow 2013"
-author = ""
-date = 2013-08-08T01:00:00+02:00
-begin = "2013-08-01"
-"gewässer" = ["müritz", "mecklenburger seenplatte", "labussee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "feuerwehreinsatz Mirow 2013"
-src = "images/feuerwehreinsatz_Mirow_2013.jpg"
-[[images]]
-title = "ABendessen Mirow 2013"
-src = "images/ABendessen_Mirow_2013.jpg"
-[[images]]
-title = "Schlafraum Mirow 2013"
-src = "images/Schlafraum_Mirow_2013.jpg"
-[[images]]
-title = "Bettina im Bolter Kanal Mirow 2013"
-src = "images/Bettina_im_Bolter_Kanal_Mirow_2013.jpg"
-[[images]]
-title = "Porsangenfjord an der Mueritz 2013"
-src = "images/Porsangenfjord_an_der_Mueritz_2013.jpg"
-[[images]]
-title = "Gewitter abwarten Mirow 2013"
-src = "images/Gewitter_abwarten_Mirow_2013.jpg"
-[[images]]
-title = "Schleuse Diemitz Ruderboote 2013"
-src = "images/Schleuse_Diemitz_Ruderboote_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-08-01"
+date: "2013-08-08T01:00:00+02:00"
+gewässer:
+- müritz
+- mecklenburger seenplatte
+- labussee
+images:
+- src: images/feuerwehreinsatz_Mirow_2013.jpg
+  title: feuerwehreinsatz Mirow 2013
+- src: images/ABendessen_Mirow_2013.jpg
+  title: ABendessen Mirow 2013
+- src: images/Schlafraum_Mirow_2013.jpg
+  title: Schlafraum Mirow 2013
+- src: images/Bettina_im_Bolter_Kanal_Mirow_2013.jpg
+  title: Bettina im Bolter Kanal Mirow 2013
+- src: images/Porsangenfjord_an_der_Mueritz_2013.jpg
+  title: Porsangenfjord an der Mueritz 2013
+- src: images/Gewitter_abwarten_Mirow_2013.jpg
+  title: Gewitter abwarten Mirow 2013
+- src: images/Schleuse_Diemitz_Ruderboote_2013.jpg
+  title: Schleuse Diemitz Ruderboote 2013
+länder: []
+title: Mirow 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

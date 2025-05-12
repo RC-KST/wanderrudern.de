@@ -1,265 +1,189 @@
-+++
-title = "Donau Ulm Bratislava 2021"
-author = ""
-date = 2021-10-10T01:00:00+02:00
-begin = "2021-10-01"
-"gewässer" = ["donau", "ilz", "große tulln", "donaukanal", "rhein", "oder"]
-"länder" = ["deutschland", "österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bootsabdeckungen für E-Boote Ulm Donau 2021"
-src = "images/Bootsabdeckungen_fur_E-Boote_Ulm_Donau_2021.jpg"
-[[images]]
-title = "Donau bei Ulm 2021"
-src = "images/Donau_bei_Ulm_2021.jpg"
-[[images]]
-title = "Schleuse obere Donau 2021"
-src = "images/Schleuse_obere_Donau_2021.jpg"
-[[images]]
-title = "oberhalb der Stromschnelle von Donauwörth 2021"
-src = "images/oberhalb_der_Stromschnelle_von_Donauworth_2021.jpg"
-[[images]]
-title = "Donauwörth Stromschnelle Donau 2021"
-src = "images/Donauworth_Stromschnelle_Donau_2021.jpg"
-[[images]]
-title = "Donauwörth zum Uferweg Donau 2021"
-src = "images/Donauworth_zum_Uferweg_Donau_2021.jpg"
-[[images]]
-title = "Umtragen Donauwörth Donau 2021"
-src = "images/Umtragen_Donauworth_Donau_2021.jpg"
-[[images]]
-title = "Donauwörth wiedereinsetzen der Ruderboote Donau 2021"
-src = "images/Donauworth_wiedereinsetzen_der_Ruderboote_Donau_2021.jpg"
-[[images]]
-title = "Auf dem Weg nach Weltenburg Donau 2021"
-src = "images/Auf_dem_Weg_nach_Weltenburg_Donau_2021.jpg"
-[[images]]
-title = "David Melina obere Donau 2021"
-src = "images/David_Melina_obere_Donau_2021.jpg"
-[[images]]
-title = "Aussetzstelle Marxheim Donau 2021"
-src = "images/Aussetzstelle_Marxheim_Donau_2021.jpg"
-[[images]]
-title = "Aussetzen der Boote in Marxheim Donau 2021"
-src = "images/Aussetzen_der_Boote_in_Marxheim_Donau_2021.jpg"
-[[images]]
-title = "Umtragen an der Schleusenbaustelle DOnau 2021"
-src = "images/Umtragen_an_der_Schleusenbaustelle_DOnau_2021.jpg"
-[[images]]
-title = "Einsetzen im Unterwasser der kaputten Schleuse Donau 2021"
-src = "images/Einsetzen_im_Unterwasser_der_kaputten_Schleuse_Donau_2021.jpg"
-[[images]]
-title = "Frauenpower im Ruderboot Donau 2021"
-src = "images/Frauenpower_im_Ruderboot_Donau_2021.jpg"
-[[images]]
-title = "Ruderboote in der Sportbootschleuse Donau 2021"
-src = "images/Ruderboote_in_der_Sportbootschleuse_Donau_2021.jpg"
-[[images]]
-title = "Schleusenwartin Donau 2021"
-src = "images/Schleusenwartin_Donau_2021.jpg"
-[[images]]
-title = "Ingolstadt Ruderboote Donau 2021"
-src = "images/Ingolstadt_Ruderboote_Donau_2021.jpg"
-[[images]]
-title = "Kloster Weltenburg Donau 2021"
-src = "images/Kloster_Weltenburg_Donau_2021.jpg"
-[[images]]
-title = "Bayrisches Abendessen in Weltenburg Donau 2021"
-src = "images/Bayrisches_Abendessen_in_Weltenburg_Donau_2021.jpg"
-[[images]]
-title = "Doris im Donaudurchbruch 2021"
-src = "images/Doris_im_Donaudurchbruch_2021.jpg"
-[[images]]
-title = "Donaudurchbruch mit Befreiungshalle Donau 2021"
-src = "images/Donaudurchbruch_mit_Befreiungshalle_Donau_2021.jpg"
-[[images]]
-title = "Blick in den Donaudurchbruch von oben Donau 2021"
-src = "images/Blick_in_den_Donaudurchbruch_von_oben_Donau_2021.jpg"
-[[images]]
-title = "Start der Ruderboote in Weltenburg Donau 2021"
-src = "images/Start_der_Ruderboote_in_Weltenburg_Donau_2021.jpg"
-[[images]]
-title = "Ruderboot in Weltenburg Donau 2021"
-src = "images/Ruderboot_in_Weltenburg_Donau_2021.jpg"
-[[images]]
-title = "Baumgarten E-Boote in Regensburg Donau 2021"
-src = "images/Baumgarten_E-Boote_in_Regensburg_Donau_2021.jpg"
-[[images]]
-title = "Marktplatz in Regensburg Donau 2021"
-src = "images/Marktplatz_in_Regensburg_Donau_2021.jpg"
-[[images]]
-title = "Blick von der Befreiungshalle Donau 2021"
-src = "images/Blick_von_der_Befreiungshalle_Donau_2021.jpg"
-[[images]]
-title = "Abendessen Regensburg im Ruderclub Donau 2021"
-src = "images/Abendessen_Regensburg_im_Ruderclub_Donau_2021.jpg"
-[[images]]
-title = "Ruderboot vor der Steinernen Brücke Regensburg Donau 2021"
-src = "images/Ruderboot_vor_der_Steinernen_Brucke_Regensburg_Donau_2021.jpg"
-[[images]]
-title = "Walhalla mit Ruderboot Donau 2021"
-src = "images/Walhalla_mit_Ruderboot_Donau_2021.jpg"
-[[images]]
-title = "Straubinger Ruderclub Donau 2021"
-src = "images/Straubinger_Ruderclub_Donau_2021.jpg"
-[[images]]
-title = "Ruderverein Straubing Donau 2021"
-src = "images/Ruderverein_Straubing_Donau_2021.jpg"
-[[images]]
-title = "Ruderboote auf dem Weg nach Deggendorf Donau 2021"
-src = "images/Ruderboote_auf_dem_Weg_nach_Deggendorf_Donau_2021.jpg"
-[[images]]
-title = "Ruderclub und Flugplatz Vilshofen Donau 2021"
-src = "images/Ruderclub_und_Flugplatz_Vilshofen_Donau_2021.jpg"
-[[images]]
-title = "Feier zum vierten Äquatorpreis Donau 2021"
-src = "images/Feier_zum_vierten_Aquatorpreis_Donau_2021.jpg"
-[[images]]
-title = "Ruderverein Vilshofen Donau 2021"
-src = "images/Ruderverein_Vilshofen_Donau_2021.jpg"
-[[images]]
-title = "Vilshofen Ruderboote am Steg Donau 2021"
-src = "images/Vilshofen_Ruderboote_am_Steg_Donau_2021.jpg"
-[[images]]
-title = "Einfahrt in die Ilz Donau 2021"
-src = "images/Einfahrt_in_die_Ilz_Donau_2021.jpg"
-[[images]]
-title = "Ruderboote auf der Ilz Donau 2021"
-src = "images/Ruderboote_auf_der_Ilz_Donau_2021.jpg"
-[[images]]
-title = "drei flüsse eck Passau DOnau 2021"
-src = "images/drei_flusse_eck_Passau_DOnau_2021.jpg"
-[[images]]
-title = "Donau Ilz Feste Oberhaus Passau Donau 2021"
-src = "images/Donau_Ilz_Feste_Oberhaus_Passau_Donau_2021.jpg"
-[[images]]
-title = "Donau hinter Passau 2021"
-src = "images/Donau_hinter_Passau_2021.jpg"
-[[images]]
-title = "Hafen von Kasten Donau 2021"
-src = "images/Hafen_von_Kasten_Donau_2021.jpg"
-[[images]]
-title = "Start im Nebel in Kasten Donau 2021"
-src = "images/Start_im_Nebel_in_Kasten_Donau_2021.jpg"
-[[images]]
-title = "Letzte Deutsche Donauschleuse 2021"
-src = "images/Letzte_Deutsche_Donauschleuse_2021.jpg"
-[[images]]
-title = "Martins Selfie vor der Donauschleuse 2021"
-src = "images/Martins_Selfie_vor_der_Donauschleuse_2021.jpg"
-[[images]]
-title = "Ruderboot auf der Donau 2021"
-src = "images/Ruderboot_auf_der_Donau_2021.jpg"
-[[images]]
-title = "Kloster in Grein Donau 2021"
-src = "images/Kloster_in_Grein_Donau_2021.jpg"
-[[images]]
-title = "Schlögener Schlinge Donau 2021"
-src = "images/Schlogener_Schlinge_Donau_2021.jpg"
-[[images]]
-title = "David ist glücklich Donau 2021"
-src = "images/David_ist_glucklich_Donau_2021.jpg"
-[[images]]
-title = "Sechs Ruderboote in der Schleuse Ottensheim Donau 2021"
-src = "images/Sechs_Ruderboote_in_der_Schleuse_Ottensheim_Donau_2021.jpg"
-[[images]]
-title = "Grein Einsetzstelle Donau 2021"
-src = "images/Grein_Einsetzstelle_Donau_2021.jpg"
-[[images]]
-title = "Boote schleppen in Melk Donau 2021"
-src = "images/Boote_schleppen_in_Melk_Donau_2021.jpg"
-[[images]]
-title = "Kloster Melk Donau 2021"
-src = "images/Kloster_Melk_Donau_2021.jpg"
-[[images]]
-title = "Ruderboote vor dem Kloster Melk Donau 2021"
-src = "images/Ruderboote_vor_dem_Kloster_Melk_Donau_2021.jpg"
-[[images]]
-title = "Ruderboot vor dem Kloster Melk Donau 2021"
-src = "images/Ruderboot_vor_dem_Kloster_Melk_Donau_2021.jpg"
-[[images]]
-title = "Melk Strassenszene Donau 2021"
-src = "images/Melk_Strassenszene_Donau_2021.jpg"
-[[images]]
-title = "Ruderboot auf dem Weg in die Wachau Donau 2021"
-src = "images/Ruderboot_auf_dem_Weg_in_die_Wachau_Donau_2021.jpg"
-[[images]]
-title = "Tullner Ruderverein Donau 2021"
-src = "images/Tullner_Ruderverein_Donau_2021.jpg"
-[[images]]
-title = "Melk Klostergarten Donau 2021"
-src = "images/Melk_Klostergarten_Donau_2021.jpg"
-[[images]]
-title = "Klippen in der Donau 2021"
-src = "images/Klippen_in_der_Donau_2021.jpg"
-[[images]]
-title = "Dürnstein Donau 2021"
-src = "images/Durnstein_Donau_2021.jpg"
-[[images]]
-title = "Ruderer in Wien Donau 2021"
-src = "images/Ruderer_in_Wien_Donau_2021.jpg"
-[[images]]
-title = "Wiener Prater Donau 2021"
-src = "images/Wiener_Prater_Donau_2021.jpg"
-[[images]]
-title = "Riesenrad Prater Wien 2021"
-src = "images/Riesenrad_Prater_Wien_2021.jpg"
-[[images]]
-title = "Wien Donauhort Steg Donau 2021"
-src = "images/Wien_Donauhort_Steg_Donau_2021.jpg"
-[[images]]
-title = "Ruderer in Wien Sissi Denkmal Donau 2021"
-src = "images/Ruderer_in_Wien_Sissi_Denkmal_Donau_2021.jpg"
-[[images]]
-title = "Wien Hofburg Donau 2021"
-src = "images/Wien_Hofburg_Donau_2021.jpg"
-[[images]]
-title = "Schloss Schönbrunn Donau 2021"
-src = "images/Schloss_Schonbrunn_Donau_2021.jpg"
-[[images]]
-title = "Kinderspielplatz Schönbrunn Donau 2021"
-src = "images/Kinderspielplatz_Schonbrunn_Donau_2021.jpg"
-[[images]]
-title = "Im Heckenlabyrinth Schönbrunn Donau 2021"
-src = "images/Im_Heckenlabyrinth_Schonbrunn_Donau_2021.jpg"
-[[images]]
-title = "auf dem Prater Donau 2021"
-src = "images/auf_dem_Prater_Donau_2021.jpg"
-[[images]]
-title = "Kosakendenkmal Wien Donau 2021"
-src = "images/Kosakendenkmal_Wien_Donau_2021.jpg"
-[[images]]
-title = "Wiener Heuriger Donau 2021"
-src = "images/Wiener_Heuriger_Donau_2021.jpg"
-[[images]]
-title = "Wiener Heuriger Ruderer Donau 2021"
-src = "images/Wiener_Heuriger_Ruderer_Donau_2021.jpg"
-[[images]]
-title = "Wien Donaukanal Donau 2021"
-src = "images/Wien_Donaukanal_Donau_2021.jpg"
-[[images]]
-title = "Aussicht Kahlenberg Donau 2021"
-src = "images/Aussicht_Kahlenberg_Donau_2021.jpg"
-[[images]]
-title = "Donaukanal Wien Donau 2021"
-src = "images/Donaukanal_Wien_Donau_2021.jpg"
-[[images]]
-title = "Anlegen in Bratislava Donau 2021"
-src = "images/Anlegen_in_Bratislava_Donau_2021.jpg"
-[[images]]
-title = "Blick von der Burg in Bratislava 2021"
-src = "images/Blick_von_der_Burg_in_Bratislava_2021.jpg"
-[[images]]
-title = "Rückreise mit dem Ruderbooten Donau 2021"
-src = "images/Ruckreise_mit_dem_Ruderbooten_Donau_2021.jpg"
-[[images]]
-title = "Anhänger mit Ruderboote in Pressburg Donau 2021"
-src = "images/Anhanger_mit_Ruderboote_in_Pressburg_Donau_2021.jpg"
-[[images]]
-title = "Grenzfestung zur Slowakei Donau 2021"
-src = "images/Grenzfestung_zur_Slowakei_Donau_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-10-01"
+date: "2021-10-10T01:00:00+02:00"
+gewässer:
+- donau
+- ilz
+- große tulln
+- donaukanal
+- rhein
+- oder
+images:
+- src: images/Bootsabdeckungen_fur_E-Boote_Ulm_Donau_2021.jpg
+  title: Bootsabdeckungen für E-Boote Ulm Donau 2021
+- src: images/Donau_bei_Ulm_2021.jpg
+  title: Donau bei Ulm 2021
+- src: images/Schleuse_obere_Donau_2021.jpg
+  title: Schleuse obere Donau 2021
+- src: images/oberhalb_der_Stromschnelle_von_Donauworth_2021.jpg
+  title: oberhalb der Stromschnelle von Donauwörth 2021
+- src: images/Donauworth_Stromschnelle_Donau_2021.jpg
+  title: Donauwörth Stromschnelle Donau 2021
+- src: images/Donauworth_zum_Uferweg_Donau_2021.jpg
+  title: Donauwörth zum Uferweg Donau 2021
+- src: images/Umtragen_Donauworth_Donau_2021.jpg
+  title: Umtragen Donauwörth Donau 2021
+- src: images/Donauworth_wiedereinsetzen_der_Ruderboote_Donau_2021.jpg
+  title: Donauwörth wiedereinsetzen der Ruderboote Donau 2021
+- src: images/Auf_dem_Weg_nach_Weltenburg_Donau_2021.jpg
+  title: Auf dem Weg nach Weltenburg Donau 2021
+- src: images/David_Melina_obere_Donau_2021.jpg
+  title: David Melina obere Donau 2021
+- src: images/Aussetzstelle_Marxheim_Donau_2021.jpg
+  title: Aussetzstelle Marxheim Donau 2021
+- src: images/Aussetzen_der_Boote_in_Marxheim_Donau_2021.jpg
+  title: Aussetzen der Boote in Marxheim Donau 2021
+- src: images/Umtragen_an_der_Schleusenbaustelle_DOnau_2021.jpg
+  title: Umtragen an der Schleusenbaustelle DOnau 2021
+- src: images/Einsetzen_im_Unterwasser_der_kaputten_Schleuse_Donau_2021.jpg
+  title: Einsetzen im Unterwasser der kaputten Schleuse Donau 2021
+- src: images/Frauenpower_im_Ruderboot_Donau_2021.jpg
+  title: Frauenpower im Ruderboot Donau 2021
+- src: images/Ruderboote_in_der_Sportbootschleuse_Donau_2021.jpg
+  title: Ruderboote in der Sportbootschleuse Donau 2021
+- src: images/Schleusenwartin_Donau_2021.jpg
+  title: Schleusenwartin Donau 2021
+- src: images/Ingolstadt_Ruderboote_Donau_2021.jpg
+  title: Ingolstadt Ruderboote Donau 2021
+- src: images/Kloster_Weltenburg_Donau_2021.jpg
+  title: Kloster Weltenburg Donau 2021
+- src: images/Bayrisches_Abendessen_in_Weltenburg_Donau_2021.jpg
+  title: Bayrisches Abendessen in Weltenburg Donau 2021
+- src: images/Doris_im_Donaudurchbruch_2021.jpg
+  title: Doris im Donaudurchbruch 2021
+- src: images/Donaudurchbruch_mit_Befreiungshalle_Donau_2021.jpg
+  title: Donaudurchbruch mit Befreiungshalle Donau 2021
+- src: images/Blick_in_den_Donaudurchbruch_von_oben_Donau_2021.jpg
+  title: Blick in den Donaudurchbruch von oben Donau 2021
+- src: images/Start_der_Ruderboote_in_Weltenburg_Donau_2021.jpg
+  title: Start der Ruderboote in Weltenburg Donau 2021
+- src: images/Ruderboot_in_Weltenburg_Donau_2021.jpg
+  title: Ruderboot in Weltenburg Donau 2021
+- src: images/Baumgarten_E-Boote_in_Regensburg_Donau_2021.jpg
+  title: Baumgarten E-Boote in Regensburg Donau 2021
+- src: images/Marktplatz_in_Regensburg_Donau_2021.jpg
+  title: Marktplatz in Regensburg Donau 2021
+- src: images/Blick_von_der_Befreiungshalle_Donau_2021.jpg
+  title: Blick von der Befreiungshalle Donau 2021
+- src: images/Abendessen_Regensburg_im_Ruderclub_Donau_2021.jpg
+  title: Abendessen Regensburg im Ruderclub Donau 2021
+- src: images/Ruderboot_vor_der_Steinernen_Brucke_Regensburg_Donau_2021.jpg
+  title: Ruderboot vor der Steinernen Brücke Regensburg Donau 2021
+- src: images/Walhalla_mit_Ruderboot_Donau_2021.jpg
+  title: Walhalla mit Ruderboot Donau 2021
+- src: images/Straubinger_Ruderclub_Donau_2021.jpg
+  title: Straubinger Ruderclub Donau 2021
+- src: images/Ruderverein_Straubing_Donau_2021.jpg
+  title: Ruderverein Straubing Donau 2021
+- src: images/Ruderboote_auf_dem_Weg_nach_Deggendorf_Donau_2021.jpg
+  title: Ruderboote auf dem Weg nach Deggendorf Donau 2021
+- src: images/Ruderclub_und_Flugplatz_Vilshofen_Donau_2021.jpg
+  title: Ruderclub und Flugplatz Vilshofen Donau 2021
+- src: images/Feier_zum_vierten_Aquatorpreis_Donau_2021.jpg
+  title: Feier zum vierten Äquatorpreis Donau 2021
+- src: images/Ruderverein_Vilshofen_Donau_2021.jpg
+  title: Ruderverein Vilshofen Donau 2021
+- src: images/Vilshofen_Ruderboote_am_Steg_Donau_2021.jpg
+  title: Vilshofen Ruderboote am Steg Donau 2021
+- src: images/Einfahrt_in_die_Ilz_Donau_2021.jpg
+  title: Einfahrt in die Ilz Donau 2021
+- src: images/Ruderboote_auf_der_Ilz_Donau_2021.jpg
+  title: Ruderboote auf der Ilz Donau 2021
+- src: images/drei_flusse_eck_Passau_DOnau_2021.jpg
+  title: drei flüsse eck Passau DOnau 2021
+- src: images/Donau_Ilz_Feste_Oberhaus_Passau_Donau_2021.jpg
+  title: Donau Ilz Feste Oberhaus Passau Donau 2021
+- src: images/Donau_hinter_Passau_2021.jpg
+  title: Donau hinter Passau 2021
+- src: images/Hafen_von_Kasten_Donau_2021.jpg
+  title: Hafen von Kasten Donau 2021
+- src: images/Start_im_Nebel_in_Kasten_Donau_2021.jpg
+  title: Start im Nebel in Kasten Donau 2021
+- src: images/Letzte_Deutsche_Donauschleuse_2021.jpg
+  title: Letzte Deutsche Donauschleuse 2021
+- src: images/Martins_Selfie_vor_der_Donauschleuse_2021.jpg
+  title: Martins Selfie vor der Donauschleuse 2021
+- src: images/Ruderboot_auf_der_Donau_2021.jpg
+  title: Ruderboot auf der Donau 2021
+- src: images/Kloster_in_Grein_Donau_2021.jpg
+  title: Kloster in Grein Donau 2021
+- src: images/Schlogener_Schlinge_Donau_2021.jpg
+  title: Schlögener Schlinge Donau 2021
+- src: images/David_ist_glucklich_Donau_2021.jpg
+  title: David ist glücklich Donau 2021
+- src: images/Sechs_Ruderboote_in_der_Schleuse_Ottensheim_Donau_2021.jpg
+  title: Sechs Ruderboote in der Schleuse Ottensheim Donau 2021
+- src: images/Grein_Einsetzstelle_Donau_2021.jpg
+  title: Grein Einsetzstelle Donau 2021
+- src: images/Boote_schleppen_in_Melk_Donau_2021.jpg
+  title: Boote schleppen in Melk Donau 2021
+- src: images/Kloster_Melk_Donau_2021.jpg
+  title: Kloster Melk Donau 2021
+- src: images/Ruderboote_vor_dem_Kloster_Melk_Donau_2021.jpg
+  title: Ruderboote vor dem Kloster Melk Donau 2021
+- src: images/Ruderboot_vor_dem_Kloster_Melk_Donau_2021.jpg
+  title: Ruderboot vor dem Kloster Melk Donau 2021
+- src: images/Melk_Strassenszene_Donau_2021.jpg
+  title: Melk Strassenszene Donau 2021
+- src: images/Ruderboot_auf_dem_Weg_in_die_Wachau_Donau_2021.jpg
+  title: Ruderboot auf dem Weg in die Wachau Donau 2021
+- src: images/Tullner_Ruderverein_Donau_2021.jpg
+  title: Tullner Ruderverein Donau 2021
+- src: images/Melk_Klostergarten_Donau_2021.jpg
+  title: Melk Klostergarten Donau 2021
+- src: images/Klippen_in_der_Donau_2021.jpg
+  title: Klippen in der Donau 2021
+- src: images/Durnstein_Donau_2021.jpg
+  title: Dürnstein Donau 2021
+- src: images/Ruderer_in_Wien_Donau_2021.jpg
+  title: Ruderer in Wien Donau 2021
+- src: images/Wiener_Prater_Donau_2021.jpg
+  title: Wiener Prater Donau 2021
+- src: images/Riesenrad_Prater_Wien_2021.jpg
+  title: Riesenrad Prater Wien 2021
+- src: images/Wien_Donauhort_Steg_Donau_2021.jpg
+  title: Wien Donauhort Steg Donau 2021
+- src: images/Ruderer_in_Wien_Sissi_Denkmal_Donau_2021.jpg
+  title: Ruderer in Wien Sissi Denkmal Donau 2021
+- src: images/Wien_Hofburg_Donau_2021.jpg
+  title: Wien Hofburg Donau 2021
+- src: images/Schloss_Schonbrunn_Donau_2021.jpg
+  title: Schloss Schönbrunn Donau 2021
+- src: images/Kinderspielplatz_Schonbrunn_Donau_2021.jpg
+  title: Kinderspielplatz Schönbrunn Donau 2021
+- src: images/Im_Heckenlabyrinth_Schonbrunn_Donau_2021.jpg
+  title: Im Heckenlabyrinth Schönbrunn Donau 2021
+- src: images/auf_dem_Prater_Donau_2021.jpg
+  title: auf dem Prater Donau 2021
+- src: images/Kosakendenkmal_Wien_Donau_2021.jpg
+  title: Kosakendenkmal Wien Donau 2021
+- src: images/Wiener_Heuriger_Donau_2021.jpg
+  title: Wiener Heuriger Donau 2021
+- src: images/Wiener_Heuriger_Ruderer_Donau_2021.jpg
+  title: Wiener Heuriger Ruderer Donau 2021
+- src: images/Wien_Donaukanal_Donau_2021.jpg
+  title: Wien Donaukanal Donau 2021
+- src: images/Aussicht_Kahlenberg_Donau_2021.jpg
+  title: Aussicht Kahlenberg Donau 2021
+- src: images/Donaukanal_Wien_Donau_2021.jpg
+  title: Donaukanal Wien Donau 2021
+- src: images/Anlegen_in_Bratislava_Donau_2021.jpg
+  title: Anlegen in Bratislava Donau 2021
+- src: images/Blick_von_der_Burg_in_Bratislava_2021.jpg
+  title: Blick von der Burg in Bratislava 2021
+- src: images/Ruckreise_mit_dem_Ruderbooten_Donau_2021.jpg
+  title: Rückreise mit dem Ruderbooten Donau 2021
+- src: images/Anhanger_mit_Ruderboote_in_Pressburg_Donau_2021.jpg
+  title: Anhänger mit Ruderboote in Pressburg Donau 2021
+- src: images/Grenzfestung_zur_Slowakei_Donau_2021.jpg
+  title: Grenzfestung zur Slowakei Donau 2021
+länder:
+- deutschland
+- österreich
+title: Donau Ulm Bratislava 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

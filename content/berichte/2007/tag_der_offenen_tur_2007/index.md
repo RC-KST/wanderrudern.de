@@ -1,49 +1,39 @@
-+++
-title = "Tag der Offenen Tuer 2007"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["teltowkanal", "oder"]
-"länder" = []
-"typ" = "veranstaltung"
-[[images]]
-title = "Boote vor dem Steg ToT07"
-src = "images/Boote_vor_dem_Steg_ToT07.jpg"
-[[images]]
-title = "Minister Rupprecht ToT07"
-src = "images/Minister_Rupprecht_ToT07.jpg"
-[[images]]
-title = "der Minister zu Besuche beim Ruderclub Kleinmachnow"
-src = "images/der_Minister_zu_Besuche_beim_Ruderclub_Kleinmachnow.jpg"
-[[images]]
-title = "Malte am Steg ToT07"
-src = "images/Malte_am_Steg_ToT07.jpg"
-[[images]]
-title = "Ruderboote beim Proberudern ToT07"
-src = "images/Ruderboote_beim_Proberudern_ToT07.jpg"
-[[images]]
-title = "Proberudern vor der Schleuse ToT07"
-src = "images/Proberudern_vor_der_Schleuse_ToT07.jpg"
-[[images]]
-title = "Steg RC Kleinmachnow ToT07"
-src = "images/Steg_RC_Kleinmachnow_ToT07.jpg"
-[[images]]
-title = "Betrieb am Steg ToT07"
-src = "images/Betrieb_am_Steg_ToT07.jpg"
-[[images]]
-title = "Ruderergometer ToT07"
-src = "images/Ruderergometer_ToT07.jpg"
-[[images]]
-title = "Windy im Einer ToT07"
-src = "images/Windy_im_Einer_ToT07.jpg"
-[[images]]
-title = "Infostand ToT2007"
-src = "images/Infostand_ToT2007.jpg"
-[[images]]
-title = "Rennzweier ToT07"
-src = "images/Rennzweier_ToT07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- teltowkanal
+- oder
+images:
+- src: images/Boote_vor_dem_Steg_ToT07.jpg
+  title: Boote vor dem Steg ToT07
+- src: images/Minister_Rupprecht_ToT07.jpg
+  title: Minister Rupprecht ToT07
+- src: images/der_Minister_zu_Besuche_beim_Ruderclub_Kleinmachnow.jpg
+  title: der Minister zu Besuche beim Ruderclub Kleinmachnow
+- src: images/Malte_am_Steg_ToT07.jpg
+  title: Malte am Steg ToT07
+- src: images/Ruderboote_beim_Proberudern_ToT07.jpg
+  title: Ruderboote beim Proberudern ToT07
+- src: images/Proberudern_vor_der_Schleuse_ToT07.jpg
+  title: Proberudern vor der Schleuse ToT07
+- src: images/Steg_RC_Kleinmachnow_ToT07.jpg
+  title: Steg RC Kleinmachnow ToT07
+- src: images/Betrieb_am_Steg_ToT07.jpg
+  title: Betrieb am Steg ToT07
+- src: images/Ruderergometer_ToT07.jpg
+  title: Ruderergometer ToT07
+- src: images/Windy_im_Einer_ToT07.jpg
+  title: Windy im Einer ToT07
+- src: images/Infostand_ToT2007.jpg
+  title: Infostand ToT2007
+- src: images/Rennzweier_ToT07.jpg
+  title: Rennzweier ToT07
+länder: []
+title: Tag der Offenen Tuer 2007
+typ: veranstaltung
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

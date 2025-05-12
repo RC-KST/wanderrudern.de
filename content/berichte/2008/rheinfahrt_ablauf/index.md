@@ -1,13 +1,16 @@
-+++
-title = "Rhein 0708"
-author = ""
-date = 2008-05-05T01:00:00+02:00
-begin = "2008-05-01"
-"gewässer" = ["rhein"]
-"länder" = ["deutschland", "frankreich", "schweiz"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2008-05-01"
+date: "2008-05-05T01:00:00+02:00"
+gewässer:
+- rhein
+länder:
+- deutschland
+- frankreich
+- schweiz
+title: Rhein 0708
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

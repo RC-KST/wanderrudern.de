@@ -1,34 +1,28 @@
-+++
-title = "Quer durch Schweden 08"
-author = ""
-date = 2008-02-02T01:00:00+02:00
-begin = "2008-02-01"
-"gewässer" = []
-"länder" = ["schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Katrin Nadine Stefan RHR08"
-src = "images/Katrin_Nadine_Stefan_RHR08.jpg"
-[[images]]
-title = "Reisegruppe auf Deck RHR08"
-src = "images/Reisegruppe_auf_Deck_RHR08.jpg"
-[[images]]
-title = "Manuel und Levon auf der Superfast RHR08"
-src = "images/Manuel_und_Levon_auf_der_Superfast_RHR08.jpg"
-[[images]]
-title = "Levon steht kopf RHR08"
-src = "images/Levon_steht_kopf_RHR08.jpg"
-[[images]]
-title = "Der Reiseleiter RHR08"
-src = "images/Der_Reiseleiter_RHR08.jpg"
-[[images]]
-title = "Orthodoxe Kirche bei Sonnenaufgang RHR08"
-src = "images/Orthodoxe_Kirche_bei_Sonnenaufgang_RHR08.jpg"
-[[images]]
-title = "marlies an Deck RHR08"
-src = "images/marlies_an_Deck_RHR08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-02-01"
+date: "2008-02-02T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Katrin_Nadine_Stefan_RHR08.jpg
+  title: Katrin Nadine Stefan RHR08
+- src: images/Reisegruppe_auf_Deck_RHR08.jpg
+  title: Reisegruppe auf Deck RHR08
+- src: images/Manuel_und_Levon_auf_der_Superfast_RHR08.jpg
+  title: Manuel und Levon auf der Superfast RHR08
+- src: images/Levon_steht_kopf_RHR08.jpg
+  title: Levon steht kopf RHR08
+- src: images/Der_Reiseleiter_RHR08.jpg
+  title: Der Reiseleiter RHR08
+- src: images/Orthodoxe_Kirche_bei_Sonnenaufgang_RHR08.jpg
+  title: Orthodoxe Kirche bei Sonnenaufgang RHR08
+- src: images/marlies_an_Deck_RHR08.jpg
+  title: marlies an Deck RHR08
+länder:
+- schweden
+title: Quer durch Schweden 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

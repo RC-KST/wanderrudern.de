@@ -1,31 +1,27 @@
-+++
-title = "Altfriesack 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["ruppiner see"]
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kinder Ruderboot Altfriesack 2021"
-src = "images/Kinder_Ruderboot_Altfriesack_2021.jpg"
-[[images]]
-title = "Boote umtragen Wustrau 2021"
-src = "images/Boote_umtragen_Wustrau_2021.jpg"
-[[images]]
-title = "Ruderboote Ruppiner See 2021"
-src = "images/Ruderboote_Ruppiner_See_2021.jpg"
-[[images]]
-title = "Ruderboote auf dem Rhin 2021"
-src = "images/Ruderboote_auf_dem_Rhin_2021.jpg"
-[[images]]
-title = "Schleuse Hakenberg Mittagspause Altfriesack 2021"
-src = "images/Schleuse_Hakenberg_Mittagspause_Altfriesack_2021.jpg"
-[[images]]
-title = "Ruderboot Altfriesack ablegen 2021"
-src = "images/Ruderboot_Altfriesack_ablegen_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- ruppiner see
+images:
+- src: images/Kinder_Ruderboot_Altfriesack_2021.jpg
+  title: Kinder Ruderboot Altfriesack 2021
+- src: images/Boote_umtragen_Wustrau_2021.jpg
+  title: Boote umtragen Wustrau 2021
+- src: images/Ruderboote_Ruppiner_See_2021.jpg
+  title: Ruderboote Ruppiner See 2021
+- src: images/Ruderboote_auf_dem_Rhin_2021.jpg
+  title: Ruderboote auf dem Rhin 2021
+- src: images/Schleuse_Hakenberg_Mittagspause_Altfriesack_2021.jpg
+  title: Schleuse Hakenberg Mittagspause Altfriesack 2021
+- src: images/Ruderboot_Altfriesack_ablegen_2021.jpg
+  title: Ruderboot Altfriesack ablegen 2021
+länder:
+- frankreich
+title: Altfriesack 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

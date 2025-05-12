@@ -1,22 +1,19 @@
-+++
-title = "Mirow 09"
-author = ""
-date = 2009-10-10T01:00:00+02:00
-begin = "2009-10-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Baumgarten E-Vierer M09"
-src = "images/Baumgarten_E-Vierer_M09.jpg"
-[[images]]
-title = "Baumgarten E-Vierer Mirow am Steg M09"
-src = "images/Baumgarten_E-Vierer_Mirow_am_Steg_M09.jpg"
-[[images]]
-title = "Neuer Baumgarten Vierer M09"
-src = "images/Neuer_Baumgarten_Vierer_M09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-10-01"
+date: "2009-10-10T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Baumgarten_E-Vierer_M09.jpg
+  title: Baumgarten E-Vierer M09
+- src: images/Baumgarten_E-Vierer_Mirow_am_Steg_M09.jpg
+  title: Baumgarten E-Vierer Mirow am Steg M09
+- src: images/Neuer_Baumgarten_Vierer_M09.jpg
+  title: Neuer Baumgarten Vierer M09
+länder: []
+title: Mirow 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

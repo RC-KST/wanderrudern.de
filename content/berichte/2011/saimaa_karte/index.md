@@ -1,16 +1,19 @@
-+++
-title = "Finnland Saimaa 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["inn", "saimaa", "pielinen"]
-"länder" = ["finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "saimaa1"
-src = "images/saimaa1.gif"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- inn
+- saimaa
+- pielinen
+images:
+- src: images/saimaa1.gif
+  title: saimaa1
+länder:
+- finnland
+title: Finnland Saimaa 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

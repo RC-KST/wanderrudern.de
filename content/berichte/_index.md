@@ -1,4 +1,4 @@
-+++
-title = "Berichte"
-weight = 30
-+++
+---
+title: Berichte
+weight: 30
+---

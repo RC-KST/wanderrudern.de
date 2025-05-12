@@ -1,16 +1,16 @@
-+++
-title = "Maas 2017 Blog"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["maas"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Maas Wanderfahrt 2017 Karte"
-src = "images/Maas_Wanderfahrt_2017_Karte.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- maas
+images:
+- src: images/Maas_Wanderfahrt_2017_Karte.jpg
+  title: Maas Wanderfahrt 2017 Karte
+länder: []
+title: Maas 2017 Blog
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

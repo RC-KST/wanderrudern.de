@@ -1,58 +1,48 @@
-+++
-title = "Tour du Lac Leman 2022"
-author = ""
-date = 2022-01-01T01:00:00+02:00
-begin = "2022-01-01"
-"gewässer" = ["rhein", "oder", "bug", "shannon"]
-"länder" = ["schweiz"]
-"typ" = "marathon"
-[[images]]
-title = "Baumgarten Marathon Genf 2022"
-src = "images/Baumgarten_Marathon_Genf_2022.jpg"
-[[images]]
-title = "Tour du Lac Lemand Aviron 2022 Start"
-src = "images/Tour_du_Lac_Lemand_Aviron_2022_Start.jpg"
-[[images]]
-title = "Marathon C4x+ Baumgarten Tour du Lac Leman 2022"
-src = "images/Marathon_C4x__Baumgarten_Tour_du_Lac_Leman_2022.jpg"
-[[images]]
-title = "Sieger Novizen Tour du Lac Leman 2022"
-src = "images/Sieger_Novizen_Tour_du_Lac_Leman_2022.jpg"
-[[images]]
-title = "Lac Leman Riggerplatz 2022"
-src = "images/Lac_Leman_Riggerplatz_2022.jpg"
-[[images]]
-title = "Genf Lac Leman Aviron Start Shannon RC KST 2022"
-src = "images/Genf_Lac_Leman_Aviron_Start_Shannon_RC_KST_2022.jpg"
-[[images]]
-title = "Lac Leman 2022 Panorama"
-src = "images/Lac_Leman_2022_Panorama.jpg"
-[[images]]
-title = "Tour du Lac Leman 2022 Ruderclub Kleinmachnow Stahnsdorf Teltow"
-src = "images/Tour_du_Lac_Leman_2022_Ruderclub_Kleinmachnow_Stahnsdorf_Teltow.jpg"
-[[images]]
-title = "Tour du Lac Leman Startschuss 2022"
-src = "images/Tour_du_Lac_Leman_Startschuss_2022.jpg"
-[[images]]
-title = "Siegerehrung Genfer See Marathon Novizen 2022"
-src = "images/Siegerehrung_Genfer_See_Marathon_Novizen_2022.jpg"
-[[images]]
-title = "Ruderboot auf dem Genfer See 2022"
-src = "images/Ruderboot_auf_dem_Genfer_See_2022.jpg"
-[[images]]
-title = "Lac Leman 2022 Novizenpokal"
-src = "images/Lac_Leman_2022_Novizenpokal.jpg"
-[[images]]
-title = "Tour du Lac Leman 2022 Sieger Novizenklasse im Bunker"
-src = "images/Tour_du_Lac_Leman_2022_Sieger_Novizenklasse_im_Bunker.jpg"
-[[images]]
-title = "Nirina Tim Genf Sektempfang 2022"
-src = "images/Nirina_Tim_Genf_Sektempfang_2022.jpg"
-[[images]]
-title = "Lac Leman 2022 Mittagessen"
-src = "images/Lac_Leman_2022_Mittagessen.jpg"
-
-+++
+---
+author: ""
+begin: "2022-01-01"
+date: "2022-01-01T01:00:00+02:00"
+gewässer:
+- rhein
+- oder
+- bug
+- shannon
+images:
+- src: images/Baumgarten_Marathon_Genf_2022.jpg
+  title: Baumgarten Marathon Genf 2022
+- src: images/Tour_du_Lac_Lemand_Aviron_2022_Start.jpg
+  title: Tour du Lac Lemand Aviron 2022 Start
+- src: images/Marathon_C4x__Baumgarten_Tour_du_Lac_Leman_2022.jpg
+  title: Marathon C4x+ Baumgarten Tour du Lac Leman 2022
+- src: images/Sieger_Novizen_Tour_du_Lac_Leman_2022.jpg
+  title: Sieger Novizen Tour du Lac Leman 2022
+- src: images/Lac_Leman_Riggerplatz_2022.jpg
+  title: Lac Leman Riggerplatz 2022
+- src: images/Genf_Lac_Leman_Aviron_Start_Shannon_RC_KST_2022.jpg
+  title: Genf Lac Leman Aviron Start Shannon RC KST 2022
+- src: images/Lac_Leman_2022_Panorama.jpg
+  title: Lac Leman 2022 Panorama
+- src: images/Tour_du_Lac_Leman_2022_Ruderclub_Kleinmachnow_Stahnsdorf_Teltow.jpg
+  title: Tour du Lac Leman 2022 Ruderclub Kleinmachnow Stahnsdorf Teltow
+- src: images/Tour_du_Lac_Leman_Startschuss_2022.jpg
+  title: Tour du Lac Leman Startschuss 2022
+- src: images/Siegerehrung_Genfer_See_Marathon_Novizen_2022.jpg
+  title: Siegerehrung Genfer See Marathon Novizen 2022
+- src: images/Ruderboot_auf_dem_Genfer_See_2022.jpg
+  title: Ruderboot auf dem Genfer See 2022
+- src: images/Lac_Leman_2022_Novizenpokal.jpg
+  title: Lac Leman 2022 Novizenpokal
+- src: images/Tour_du_Lac_Leman_2022_Sieger_Novizenklasse_im_Bunker.jpg
+  title: Tour du Lac Leman 2022 Sieger Novizenklasse im Bunker
+- src: images/Nirina_Tim_Genf_Sektempfang_2022.jpg
+  title: Nirina Tim Genf Sektempfang 2022
+- src: images/Lac_Leman_2022_Mittagessen.jpg
+  title: Lac Leman 2022 Mittagessen
+länder:
+- schweiz
+title: Tour du Lac Leman 2022
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

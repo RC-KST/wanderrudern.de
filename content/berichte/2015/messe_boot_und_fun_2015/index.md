@@ -1,28 +1,23 @@
-+++
-title = "Messe Boot und Fun 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Aufbauteam Messe Boot und Fun 2015"
-src = "images/Aufbauteam_Messe_Boot_und_Fun_2015.jpg"
-[[images]]
-title = "Proberudern Family Trainer 2015"
-src = "images/Proberudern_Family_Trainer_2015.jpg"
-[[images]]
-title = "Messestand RC KST 2015"
-src = "images/Messestand_RC_KST_2015.jpg"
-[[images]]
-title = "Angler im Family Trainer Messe 2015"
-src = "images/Angler_im_Family_Trainer_Messe_2015.jpg"
-[[images]]
-title = "Proberudern Family Trainer Messe 2015"
-src = "images/Proberudern_Family_Trainer_Messe_2015.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Aufbauteam_Messe_Boot_und_Fun_2015.jpg
+  title: Aufbauteam Messe Boot und Fun 2015
+- src: images/Proberudern_Family_Trainer_2015.jpg
+  title: Proberudern Family Trainer 2015
+- src: images/Messestand_RC_KST_2015.jpg
+  title: Messestand RC KST 2015
+- src: images/Angler_im_Family_Trainer_Messe_2015.jpg
+  title: Angler im Family Trainer Messe 2015
+- src: images/Proberudern_Family_Trainer_Messe_2015.jpg
+  title: Proberudern Family Trainer Messe 2015
+länder: []
+title: Messe Boot und Fun 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

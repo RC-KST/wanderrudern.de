@@ -1,73 +1,57 @@
-+++
-title = "Main 2018"
-author = ""
-date = 2018-05-05T01:00:00+02:00
-begin = "2018-05-01"
-"gewässer" = ["main", "aller", "oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Frankfurt Boote am Ziel 2018"
-src = "images/Frankfurt_Boote_am_Ziel_2018.jpg"
-[[images]]
-title = "Bamberg Rathaus 2018"
-src = "images/Bamberg_Rathaus_2018.jpg"
-[[images]]
-title = "Bamberg Innenstadt Ruderboot 2018"
-src = "images/Bamberg_Innenstadt_Ruderboot_2018.jpg"
-[[images]]
-title = "Bamberg Regnitz 2018"
-src = "images/Bamberg_Regnitz_2018.jpg"
-[[images]]
-title = "Main Sportbootschleuse 2018"
-src = "images/Main_Sportbootschleuse_2018.jpg"
-[[images]]
-title = "Alter Main bei Nordheim 2018"
-src = "images/Alter_Main_bei_Nordheim_2018.jpg"
-[[images]]
-title = "Kuerbisverkauf in Nordheim 2018"
-src = "images/Kuerbisverkauf_in_Nordheim_2018.jpg"
-[[images]]
-title = "Ruderboot auf dem Altmain 2018"
-src = "images/Ruderboot_auf_dem_Altmain_2018.jpg"
-[[images]]
-title = "Anfahrt auf Wuerzburg Main 20188"
-src = "images/Anfahrt_auf_Wuerzburg_Main_20188.jpg"
-[[images]]
-title = "Vierer auf dem Altmain 2018"
-src = "images/Vierer_auf_dem_Altmain_2018.jpg"
-[[images]]
-title = "Kitzingen vom Ruderboot 2018"
-src = "images/Kitzingen_vom_Ruderboot_2018.jpg"
-[[images]]
-title = "Abendessen Wuerzburg im Ruderclub 2018"
-src = "images/Abendessen_Wuerzburg_im_Ruderclub_2018.jpg"
-[[images]]
-title = "Schleuse Wuerzburg mit Vierer 2018"
-src = "images/Schleuse_Wuerzburg_mit_Vierer_2018.jpg"
-[[images]]
-title = "Ruderboot durch den Spessart 2018"
-src = "images/Ruderboot_durch_den_Spessart_2018.jpg"
-[[images]]
-title = "Burganlage im Spessart 2018"
-src = "images/Burganlage_im_Spessart_2018.jpg"
-[[images]]
-title = "Weinberge am Main 2018"
-src = "images/Weinberge_am_Main_2018.jpg"
-[[images]]
-title = "Frankfurt Roemer 2018"
-src = "images/Frankfurt_Roemer_2018.jpg"
-[[images]]
-title = "Wertheim blick auf die Burg 2018"
-src = "images/Wertheim_blick_auf_die_Burg_2018.jpg"
-[[images]]
-title = "Oktoberfest Aschaffenburg 2018"
-src = "images/Oktoberfest_Aschaffenburg_2018.jpg"
-[[images]]
-title = "Frankfurt Bankenviertel 2018"
-src = "images/Frankfurt_Bankenviertel_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-05-01"
+date: "2018-05-05T01:00:00+02:00"
+gewässer:
+- main
+- aller
+- oder
+images:
+- src: images/Frankfurt_Boote_am_Ziel_2018.jpg
+  title: Frankfurt Boote am Ziel 2018
+- src: images/Bamberg_Rathaus_2018.jpg
+  title: Bamberg Rathaus 2018
+- src: images/Bamberg_Innenstadt_Ruderboot_2018.jpg
+  title: Bamberg Innenstadt Ruderboot 2018
+- src: images/Bamberg_Regnitz_2018.jpg
+  title: Bamberg Regnitz 2018
+- src: images/Main_Sportbootschleuse_2018.jpg
+  title: Main Sportbootschleuse 2018
+- src: images/Alter_Main_bei_Nordheim_2018.jpg
+  title: Alter Main bei Nordheim 2018
+- src: images/Kuerbisverkauf_in_Nordheim_2018.jpg
+  title: Kuerbisverkauf in Nordheim 2018
+- src: images/Ruderboot_auf_dem_Altmain_2018.jpg
+  title: Ruderboot auf dem Altmain 2018
+- src: images/Anfahrt_auf_Wuerzburg_Main_20188.jpg
+  title: Anfahrt auf Wuerzburg Main 20188
+- src: images/Vierer_auf_dem_Altmain_2018.jpg
+  title: Vierer auf dem Altmain 2018
+- src: images/Kitzingen_vom_Ruderboot_2018.jpg
+  title: Kitzingen vom Ruderboot 2018
+- src: images/Abendessen_Wuerzburg_im_Ruderclub_2018.jpg
+  title: Abendessen Wuerzburg im Ruderclub 2018
+- src: images/Schleuse_Wuerzburg_mit_Vierer_2018.jpg
+  title: Schleuse Wuerzburg mit Vierer 2018
+- src: images/Ruderboot_durch_den_Spessart_2018.jpg
+  title: Ruderboot durch den Spessart 2018
+- src: images/Burganlage_im_Spessart_2018.jpg
+  title: Burganlage im Spessart 2018
+- src: images/Weinberge_am_Main_2018.jpg
+  title: Weinberge am Main 2018
+- src: images/Frankfurt_Roemer_2018.jpg
+  title: Frankfurt Roemer 2018
+- src: images/Wertheim_blick_auf_die_Burg_2018.jpg
+  title: Wertheim blick auf die Burg 2018
+- src: images/Oktoberfest_Aschaffenburg_2018.jpg
+  title: Oktoberfest Aschaffenburg 2018
+- src: images/Frankfurt_Bankenviertel_2018.jpg
+  title: Frankfurt Bankenviertel 2018
+länder:
+- deutschland
+title: Main 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

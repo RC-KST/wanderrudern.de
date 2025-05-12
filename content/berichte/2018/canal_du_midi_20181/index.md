@@ -1,268 +1,189 @@
-+++
-title = "Canal du Midi 2018"
-author = ""
-date = 2018-10-10T01:00:00+02:00
-begin = "2018-10-01"
-"gewässer" = ["aller", "spree", "oder", "canal du midi", "canal latéral à la garonne"]
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "45668747_2014085565352660_125573560855953408_n"
-src = "images/45668747_2014085565352660_125573560855953408_n.jpg"
-[[images]]
-title = "Ruderer iim Billighotel Midi 2018"
-src = "images/Ruderer_iim_Billighotel_Midi_2018.jpg"
-[[images]]
-title = "Ruderer am Start Midi 2018"
-src = "images/Ruderer_am_Start_Midi_2018.jpg"
-[[images]]
-title = "Johanna Jonathan Canal du Midi 2018 im Nebel"
-src = "images/Johanna_Jonathan_Canal_du_Midi_2018_im_Nebel.jpg"
-[[images]]
-title = "man reich mir ein Skull Midi 2018"
-src = "images/man_reich_mir_ein_Skull_Midi_2018.jpg"
-[[images]]
-title = "45507652_2014081905353026_4655882490328645632_n"
-src = "images/45507652_2014081905353026_4655882490328645632_n.jpg"
-[[images]]
-title = "versunkenes Hausboot Canal du Midi 2018"
-src = "images/versunkenes_Hausboot_Canal_du_Midi_2018.jpg"
-[[images]]
-title = "Ausloeser fuer die Schleuse Midi 2018"
-src = "images/Ausloeser_fuer_die_Schleuse_Midi_2018.jpg"
-[[images]]
-title = "Stilechtes Anwesen Canal du Midi 2018"
-src = "images/Stilechtes_Anwesen_Canal_du_Midi_2018.jpg"
-[[images]]
-title = "44930808_1997050480389502_5137393103539273728_n"
-src = "images/44930808_1997050480389502_5137393103539273728_n.jpg"
-[[images]]
-title = "ruppige Schleuse Canal du Midi 2018"
-src = "images/ruppige_Schleuse_Canal_du_Midi_2018.jpg"
-[[images]]
-title = "Moulin des Tarres Quartier Midi 2018"
-src = "images/Moulin_des_Tarres_Quartier_Midi_2018.jpg"
-[[images]]
-title = "Abendessen Moulin de Tarres Canal du Midi 2018"
-src = "images/Abendessen_Moulin_de_Tarres_Canal_du_Midi_2018.jpg"
-[[images]]
-title = "44911923_1997050840389466_4686256808283602944_n"
-src = "images/44911923_1997050840389466_4686256808283602944_n.jpg"
-[[images]]
-title = "Canal du Midi weit über der Landschaft 2018"
-src = "images/Canal_du_Midi_weit_uber_der_Landschaft_2018.jpg"
-[[images]]
-title = "festhalten waere besser gewesen Midi 2018"
-src = "images/festhalten_waere_besser_gewesen_Midi_2018.jpg"
-[[images]]
-title = "Canal du Midi idylle 2018"
-src = "images/Canal_du_Midi_idylle_2018.jpg"
-[[images]]
-title = "Kanalbruecke wieder mal Midi 2018"
-src = "images/Kanalbruecke_wieder_mal_Midi_2018.jpg"
-[[images]]
-title = "Ruderer Clochards vor dem Hotel Midi 2018"
-src = "images/Ruderer_Clochards_vor_dem_Hotel_Midi_2018.jpg"
-[[images]]
-title = "45117648_2005769219517628_8179977335076814848_n"
-src = "images/45117648_2005769219517628_8179977335076814848_n.jpg"
-[[images]]
-title = "unten Garonne oben Kanal Midi 2018"
-src = "images/unten_Garonne_oben_Kanal_Midi_2018.jpg"
-[[images]]
-title = "Kanalbrücke Midi 2018"
-src = "images/Kanalbrucke_Midi_2018.jpg"
-[[images]]
-title = "Ruderboote auf der Bruecke ueber die Garonne Midi 2018"
-src = "images/Ruderboote_auf_der_Bruecke_ueber_die_Garonne_Midi_2018.jpg"
-[[images]]
-title = "Vierer auf Kanalbruecke Midi 2018"
-src = "images/Vierer_auf_Kanalbruecke_Midi_2018.jpg"
-[[images]]
-title = "44963633_1997060680388482_2348757033945137152_n"
-src = "images/44963633_1997060680388482_2348757033945137152_n.jpg"
-[[images]]
-title = "Abendessen selbst kochen Midi 2018"
-src = "images/Abendessen_selbst_kochen_Midi_2018.jpg"
-[[images]]
-title = "sechs ruderboote in der Schleuse Midi 2018"
-src = "images/sechs_ruderboote_in_der_Schleuse_Midi_2018.jpg"
-[[images]]
-title = "Midi in der Schleuse 2018"
-src = "images/Midi_in_der_Schleuse_2018.jpg"
-[[images]]
-title = "Platanenkanal du Midi 2018"
-src = "images/Platanenkanal_du_Midi_2018.jpg"
-[[images]]
-title = "44921162_1997078943719989_906085288814575616_n"
-src = "images/44921162_1997078943719989_906085288814575616_n.jpg"
-[[images]]
-title = "Ruderboote in der Schleuse oben Midi 2018"
-src = "images/Ruderboote_in_der_Schleuse_oben_Midi_2018.jpg"
-[[images]]
-title = "edles Landhaus Midi 2018"
-src = "images/edles_Landhaus_Midi_2018.jpg"
-[[images]]
-title = "mal wieder eine bruecke ueber die Garonne Midi 2018"
-src = "images/mal_wieder_eine_bruecke_ueber_die_Garonne_Midi_2018.jpg"
-[[images]]
-title = "kanal ueber dem fluss Midi 2018"
-src = "images/kanal_ueber_dem_fluss_Midi_2018.jpg"
-[[images]]
-title = "44974631_1997060897055127_7484899327043698688_n"
-src = "images/44974631_1997060897055127_7484899327043698688_n.jpg"
-[[images]]
-title = "Abendessen Campinfplatz Montech Midi 2018"
-src = "images/Abendessen_Campinfplatz_Montech_Midi_2018.jpg"
-[[images]]
-title = "boot aus dem Wasser nehmen Midi 2018"
-src = "images/boot_aus_dem_Wasser_nehmen_Midi_2018.jpg"
-[[images]]
-title = "Becken von Toulouse Midi 2018"
-src = "images/Becken_von_Toulouse_Midi_2018.jpg"
-[[images]]
-title = "Ruderer auf der Schleuse in Toulouse Midi 2018"
-src = "images/Ruderer_auf_der_Schleuse_in_Toulouse_Midi_2018.jpg"
-[[images]]
-title = "44948612_1997072833720600_8860475973544443904_n"
-src = "images/44948612_1997072833720600_8860475973544443904_n.jpg"
-[[images]]
-title = "Schleuse in Toulouse Midi 2018"
-src = "images/Schleuse_in_Toulouse_Midi_2018.jpg"
-[[images]]
-title = "Toulouse downtown Midi 2018"
-src = "images/Toulouse_downtown_Midi_2018.jpg"
-[[images]]
-title = "Toulouse stadtdurchfahrt Midi 2018"
-src = "images/Toulouse_stadtdurchfahrt_Midi_2018.jpg"
-[[images]]
-title = "Rundschleuse Midi 2018"
-src = "images/Rundschleuse_Midi_2018.jpg"
-[[images]]
-title = "45011748_2002576003170283_4184502579687849984_n"
-src = "images/45011748_2002576003170283_4184502579687849984_n.jpg"
-[[images]]
-title = "Uli Geburtstagsfeier Midi 2018"
-src = "images/Uli_Geburtstagsfeier_Midi_2018.jpg"
-[[images]]
-title = "Schleusentreppe abwaerts Midi 2018"
-src = "images/Schleusentreppe_abwaerts_Midi_2018.jpg"
-[[images]]
-title = "Schleusenttreppe Midi 2018"
-src = "images/Schleusenttreppe_Midi_2018.jpg"
-[[images]]
-title = "naechtliches Anlegen bei la criminelle Midi 2018"
-src = "images/naechtliches_Anlegen_bei_la_criminelle_Midi_2018.jpg"
-[[images]]
-title = "Marktplatz Carcasonne Midi 2018"
-src = "images/Marktplatz_Carcasonne_Midi_2018.jpg"
-[[images]]
-title = "am Kaminofen Midi 2018"
-src = "images/am_Kaminofen_Midi_2018.jpg"
-[[images]]
-title = "Carcasonne bei Nacht Midi 2018"
-src = "images/Carcasonne_bei_Nacht_Midi_2018.jpg"
-[[images]]
-title = "Carcasonne bei Tag MIdi 2018"
-src = "images/Carcasonne_bei_Tag_MIdi_2018.jpg"
-[[images]]
-title = "Pyrenäenblick von der Stadtmauer Midi 2018"
-src = "images/Pyrenaenblick_von_der_Stadtmauer_Midi_2018.jpg"
-[[images]]
-title = "Carcasonne Festung Midi 2018"
-src = "images/Carcasonne_Festung_Midi_2018.jpg"
-[[images]]
-title = "Blick ueber Carcasonne Midi 2018"
-src = "images/Blick_ueber_Carcasonne_Midi_2018.jpg"
-[[images]]
-title = "Garten in Carcasonne Midi 2018"
-src = "images/Garten_in_Carcasonne_Midi_2018.jpg"
-[[images]]
-title = "Stadttor Carcasonne Midi 2018"
-src = "images/Stadttor_Carcasonne_Midi_2018.jpg"
-[[images]]
-title = "Carcasonne Kathedrale Midi 2018"
-src = "images/Carcasonne_Kathedrale_Midi_2018.jpg"
-[[images]]
-title = "schaeden am Kanal Midi 2018"
-src = "images/schaeden_am_Kanal_Midi_2018.jpg"
-[[images]]
-title = "Touriladen in Carcasonne Midi 2018"
-src = "images/Touriladen_in_Carcasonne_Midi_2018.jpg"
-[[images]]
-title = "Jouarre wieder einsetzen der Boote Midi 2018"
-src = "images/Jouarre_wieder_einsetzen_der_Boote_Midi_2018.jpg"
-[[images]]
-title = "schleusen mit wenig besatzung midi 2018"
-src = "images/schleusen_mit_wenig_besatzung_midi_2018.jpg"
-[[images]]
-title = "Boot umtragen an Schleuse Midi 2018"
-src = "images/Boot_umtragen_an_Schleuse_Midi_2018.jpg"
-[[images]]
-title = "Boote umtragen mal wieder Midi 2018"
-src = "images/Boote_umtragen_mal_wieder_Midi_2018.jpg"
-[[images]]
-title = "Schleusentreppe Fonseranes Midi 2018"
-src = "images/Schleusentreppe_Fonseranes_Midi_2018.jpg"
-[[images]]
-title = "Esssaal Burg von Capestang Midi 2018"
-src = "images/Esssaal_Burg_von_Capestang_Midi_2018.jpg"
-[[images]]
-title = "Schiiffstunnel Malpas Midi 2018"
-src = "images/Schiiffstunnel_Malpas_Midi_2018.jpg"
-[[images]]
-title = "Schleusentreppe von Beziers Midi 2018"
-src = "images/Schleusentreppe_von_Beziers_Midi_2018.jpg"
-[[images]]
-title = "wir schleuse mit einem Hausboot Midi 2018"
-src = "images/wir_schleuse_mit_einem_Hausboot_Midi_2018.jpg"
-[[images]]
-title = "wieder mal ueber einen Fluss Midi 2018"
-src = "images/wieder_mal_ueber_einen_Fluss_Midi_2018.jpg"
-[[images]]
-title = "Landdienst Elisabeth Midi 2018"
-src = "images/Landdienst_Elisabeth_Midi_2018.jpg"
-[[images]]
-title = "Nacht am Mittelmeer Midi 2018"
-src = "images/Nacht_am_Mittelmeer_Midi_2018.jpg"
-[[images]]
-title = "umtragen in Agde Midi 2018"
-src = "images/umtragen_in_Agde_Midi_2018.jpg"
-[[images]]
-title = "Sperrwerk Libron Midi 2018"
-src = "images/Sperrwerk_Libron_Midi_2018.jpg"
-[[images]]
-title = "Agde umtragen Midi 2018"
-src = "images/Agde_umtragen_Midi_2018.jpg"
-[[images]]
-title = "Boot auf der Treppe Agde Midi 2018"
-src = "images/Boot_auf_der_Treppe_Agde_Midi_2018.jpg"
-[[images]]
-title = "Ruderboote auf dem Mittelmeer Midi 2018"
-src = "images/Ruderboote_auf_dem_Mittelmeer_Midi_2018.jpg"
-[[images]]
-title = "Ausfahrt aufs Mittelmeer Agde Midi 2018"
-src = "images/Ausfahrt_aufs_Mittelmeer_Agde_Midi_2018.jpg"
-[[images]]
-title = "Ruderer Mittelmeer Midi 2018"
-src = "images/Ruderer_Mittelmeer_Midi_2018.jpg"
-[[images]]
-title = "VL auf der Herault kurz vor dem Mittelmeer Midi 2018"
-src = "images/VL_auf_der_Herault_kurz_vor_dem_Mittelmeer_Midi_2018.jpg"
-[[images]]
-title = "gelandet in Kap Agde Midi 2018"
-src = "images/gelandet_in_Kap_Agde_Midi_2018.jpg"
-[[images]]
-title = "Cape D´Agde Midi 2018"
-src = "images/Cape_D_Agde_Midi_2018.jpg"
-[[images]]
-title = "Eismeer am Mittelmeer Midi 2018"
-src = "images/Eismeer_am_Mittelmeer_Midi_2018.jpg"
-[[images]]
-title = "Baden im Mittelmeer Midi 2018"
-src = "images/Baden_im_Mittelmeer_Midi_2018.jpg"
-
-+++
+---
+author: ""
+begin: "2018-10-01"
+date: "2018-10-10T01:00:00+02:00"
+gewässer:
+- aller
+- spree
+- oder
+- canal du midi
+- canal latéral à la garonne
+images:
+- src: images/45668747_2014085565352660_125573560855953408_n.jpg
+  title: 45668747_2014085565352660_125573560855953408_n
+- src: images/Ruderer_iim_Billighotel_Midi_2018.jpg
+  title: Ruderer iim Billighotel Midi 2018
+- src: images/Ruderer_am_Start_Midi_2018.jpg
+  title: Ruderer am Start Midi 2018
+- src: images/Johanna_Jonathan_Canal_du_Midi_2018_im_Nebel.jpg
+  title: Johanna Jonathan Canal du Midi 2018 im Nebel
+- src: images/man_reich_mir_ein_Skull_Midi_2018.jpg
+  title: man reich mir ein Skull Midi 2018
+- src: images/45507652_2014081905353026_4655882490328645632_n.jpg
+  title: 45507652_2014081905353026_4655882490328645632_n
+- src: images/versunkenes_Hausboot_Canal_du_Midi_2018.jpg
+  title: versunkenes Hausboot Canal du Midi 2018
+- src: images/Ausloeser_fuer_die_Schleuse_Midi_2018.jpg
+  title: Ausloeser fuer die Schleuse Midi 2018
+- src: images/Stilechtes_Anwesen_Canal_du_Midi_2018.jpg
+  title: Stilechtes Anwesen Canal du Midi 2018
+- src: images/44930808_1997050480389502_5137393103539273728_n.jpg
+  title: 44930808_1997050480389502_5137393103539273728_n
+- src: images/ruppige_Schleuse_Canal_du_Midi_2018.jpg
+  title: ruppige Schleuse Canal du Midi 2018
+- src: images/Moulin_des_Tarres_Quartier_Midi_2018.jpg
+  title: Moulin des Tarres Quartier Midi 2018
+- src: images/Abendessen_Moulin_de_Tarres_Canal_du_Midi_2018.jpg
+  title: Abendessen Moulin de Tarres Canal du Midi 2018
+- src: images/44911923_1997050840389466_4686256808283602944_n.jpg
+  title: 44911923_1997050840389466_4686256808283602944_n
+- src: images/Canal_du_Midi_weit_uber_der_Landschaft_2018.jpg
+  title: Canal du Midi weit über der Landschaft 2018
+- src: images/festhalten_waere_besser_gewesen_Midi_2018.jpg
+  title: festhalten waere besser gewesen Midi 2018
+- src: images/Canal_du_Midi_idylle_2018.jpg
+  title: Canal du Midi idylle 2018
+- src: images/Kanalbruecke_wieder_mal_Midi_2018.jpg
+  title: Kanalbruecke wieder mal Midi 2018
+- src: images/Ruderer_Clochards_vor_dem_Hotel_Midi_2018.jpg
+  title: Ruderer Clochards vor dem Hotel Midi 2018
+- src: images/45117648_2005769219517628_8179977335076814848_n.jpg
+  title: 45117648_2005769219517628_8179977335076814848_n
+- src: images/unten_Garonne_oben_Kanal_Midi_2018.jpg
+  title: unten Garonne oben Kanal Midi 2018
+- src: images/Kanalbrucke_Midi_2018.jpg
+  title: Kanalbrücke Midi 2018
+- src: images/Ruderboote_auf_der_Bruecke_ueber_die_Garonne_Midi_2018.jpg
+  title: Ruderboote auf der Bruecke ueber die Garonne Midi 2018
+- src: images/Vierer_auf_Kanalbruecke_Midi_2018.jpg
+  title: Vierer auf Kanalbruecke Midi 2018
+- src: images/44963633_1997060680388482_2348757033945137152_n.jpg
+  title: 44963633_1997060680388482_2348757033945137152_n
+- src: images/Abendessen_selbst_kochen_Midi_2018.jpg
+  title: Abendessen selbst kochen Midi 2018
+- src: images/sechs_ruderboote_in_der_Schleuse_Midi_2018.jpg
+  title: sechs ruderboote in der Schleuse Midi 2018
+- src: images/Midi_in_der_Schleuse_2018.jpg
+  title: Midi in der Schleuse 2018
+- src: images/Platanenkanal_du_Midi_2018.jpg
+  title: Platanenkanal du Midi 2018
+- src: images/44921162_1997078943719989_906085288814575616_n.jpg
+  title: 44921162_1997078943719989_906085288814575616_n
+- src: images/Ruderboote_in_der_Schleuse_oben_Midi_2018.jpg
+  title: Ruderboote in der Schleuse oben Midi 2018
+- src: images/edles_Landhaus_Midi_2018.jpg
+  title: edles Landhaus Midi 2018
+- src: images/mal_wieder_eine_bruecke_ueber_die_Garonne_Midi_2018.jpg
+  title: mal wieder eine bruecke ueber die Garonne Midi 2018
+- src: images/kanal_ueber_dem_fluss_Midi_2018.jpg
+  title: kanal ueber dem fluss Midi 2018
+- src: images/44974631_1997060897055127_7484899327043698688_n.jpg
+  title: 44974631_1997060897055127_7484899327043698688_n
+- src: images/Abendessen_Campinfplatz_Montech_Midi_2018.jpg
+  title: Abendessen Campinfplatz Montech Midi 2018
+- src: images/boot_aus_dem_Wasser_nehmen_Midi_2018.jpg
+  title: boot aus dem Wasser nehmen Midi 2018
+- src: images/Becken_von_Toulouse_Midi_2018.jpg
+  title: Becken von Toulouse Midi 2018
+- src: images/Ruderer_auf_der_Schleuse_in_Toulouse_Midi_2018.jpg
+  title: Ruderer auf der Schleuse in Toulouse Midi 2018
+- src: images/44948612_1997072833720600_8860475973544443904_n.jpg
+  title: 44948612_1997072833720600_8860475973544443904_n
+- src: images/Schleuse_in_Toulouse_Midi_2018.jpg
+  title: Schleuse in Toulouse Midi 2018
+- src: images/Toulouse_downtown_Midi_2018.jpg
+  title: Toulouse downtown Midi 2018
+- src: images/Toulouse_stadtdurchfahrt_Midi_2018.jpg
+  title: Toulouse stadtdurchfahrt Midi 2018
+- src: images/Rundschleuse_Midi_2018.jpg
+  title: Rundschleuse Midi 2018
+- src: images/45011748_2002576003170283_4184502579687849984_n.jpg
+  title: 45011748_2002576003170283_4184502579687849984_n
+- src: images/Uli_Geburtstagsfeier_Midi_2018.jpg
+  title: Uli Geburtstagsfeier Midi 2018
+- src: images/Schleusentreppe_abwaerts_Midi_2018.jpg
+  title: Schleusentreppe abwaerts Midi 2018
+- src: images/Schleusenttreppe_Midi_2018.jpg
+  title: Schleusenttreppe Midi 2018
+- src: images/naechtliches_Anlegen_bei_la_criminelle_Midi_2018.jpg
+  title: naechtliches Anlegen bei la criminelle Midi 2018
+- src: images/Marktplatz_Carcasonne_Midi_2018.jpg
+  title: Marktplatz Carcasonne Midi 2018
+- src: images/am_Kaminofen_Midi_2018.jpg
+  title: am Kaminofen Midi 2018
+- src: images/Carcasonne_bei_Nacht_Midi_2018.jpg
+  title: Carcasonne bei Nacht Midi 2018
+- src: images/Carcasonne_bei_Tag_MIdi_2018.jpg
+  title: Carcasonne bei Tag MIdi 2018
+- src: images/Pyrenaenblick_von_der_Stadtmauer_Midi_2018.jpg
+  title: Pyrenäenblick von der Stadtmauer Midi 2018
+- src: images/Carcasonne_Festung_Midi_2018.jpg
+  title: Carcasonne Festung Midi 2018
+- src: images/Blick_ueber_Carcasonne_Midi_2018.jpg
+  title: Blick ueber Carcasonne Midi 2018
+- src: images/Garten_in_Carcasonne_Midi_2018.jpg
+  title: Garten in Carcasonne Midi 2018
+- src: images/Stadttor_Carcasonne_Midi_2018.jpg
+  title: Stadttor Carcasonne Midi 2018
+- src: images/Carcasonne_Kathedrale_Midi_2018.jpg
+  title: Carcasonne Kathedrale Midi 2018
+- src: images/schaeden_am_Kanal_Midi_2018.jpg
+  title: schaeden am Kanal Midi 2018
+- src: images/Touriladen_in_Carcasonne_Midi_2018.jpg
+  title: Touriladen in Carcasonne Midi 2018
+- src: images/Jouarre_wieder_einsetzen_der_Boote_Midi_2018.jpg
+  title: Jouarre wieder einsetzen der Boote Midi 2018
+- src: images/schleusen_mit_wenig_besatzung_midi_2018.jpg
+  title: schleusen mit wenig besatzung midi 2018
+- src: images/Boot_umtragen_an_Schleuse_Midi_2018.jpg
+  title: Boot umtragen an Schleuse Midi 2018
+- src: images/Boote_umtragen_mal_wieder_Midi_2018.jpg
+  title: Boote umtragen mal wieder Midi 2018
+- src: images/Schleusentreppe_Fonseranes_Midi_2018.jpg
+  title: Schleusentreppe Fonseranes Midi 2018
+- src: images/Esssaal_Burg_von_Capestang_Midi_2018.jpg
+  title: Esssaal Burg von Capestang Midi 2018
+- src: images/Schiiffstunnel_Malpas_Midi_2018.jpg
+  title: Schiiffstunnel Malpas Midi 2018
+- src: images/Schleusentreppe_von_Beziers_Midi_2018.jpg
+  title: Schleusentreppe von Beziers Midi 2018
+- src: images/wir_schleuse_mit_einem_Hausboot_Midi_2018.jpg
+  title: wir schleuse mit einem Hausboot Midi 2018
+- src: images/wieder_mal_ueber_einen_Fluss_Midi_2018.jpg
+  title: wieder mal ueber einen Fluss Midi 2018
+- src: images/Landdienst_Elisabeth_Midi_2018.jpg
+  title: Landdienst Elisabeth Midi 2018
+- src: images/Nacht_am_Mittelmeer_Midi_2018.jpg
+  title: Nacht am Mittelmeer Midi 2018
+- src: images/umtragen_in_Agde_Midi_2018.jpg
+  title: umtragen in Agde Midi 2018
+- src: images/Sperrwerk_Libron_Midi_2018.jpg
+  title: Sperrwerk Libron Midi 2018
+- src: images/Agde_umtragen_Midi_2018.jpg
+  title: Agde umtragen Midi 2018
+- src: images/Boot_auf_der_Treppe_Agde_Midi_2018.jpg
+  title: Boot auf der Treppe Agde Midi 2018
+- src: images/Ruderboote_auf_dem_Mittelmeer_Midi_2018.jpg
+  title: Ruderboote auf dem Mittelmeer Midi 2018
+- src: images/Ausfahrt_aufs_Mittelmeer_Agde_Midi_2018.jpg
+  title: Ausfahrt aufs Mittelmeer Agde Midi 2018
+- src: images/Ruderer_Mittelmeer_Midi_2018.jpg
+  title: Ruderer Mittelmeer Midi 2018
+- src: images/VL_auf_der_Herault_kurz_vor_dem_Mittelmeer_Midi_2018.jpg
+  title: VL auf der Herault kurz vor dem Mittelmeer Midi 2018
+- src: images/gelandet_in_Kap_Agde_Midi_2018.jpg
+  title: gelandet in Kap Agde Midi 2018
+- src: images/Cape_D_Agde_Midi_2018.jpg
+  title: Cape D´Agde Midi 2018
+- src: images/Eismeer_am_Mittelmeer_Midi_2018.jpg
+  title: Eismeer am Mittelmeer Midi 2018
+- src: images/Baden_im_Mittelmeer_Midi_2018.jpg
+  title: Baden im Mittelmeer Midi 2018
+länder:
+- frankreich
+title: Canal du Midi 2018
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

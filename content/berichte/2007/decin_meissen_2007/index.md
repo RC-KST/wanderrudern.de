@@ -1,49 +1,39 @@
-+++
-title = "Decin Meissen 2007"
-author = ""
-date = 2007-01-01T01:00:00+02:00
-begin = "2007-01-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Boote am Ufer Decin07"
-src = "images/Boote_am_Ufer_Decin07.jpg"
-[[images]]
-title = "Samstag in Decin 07"
-src = "images/Samstag_in_Decin_07.jpg"
-[[images]]
-title = "Barke und Vierer auf der Elbe"
-src = "images/Barke_und_Vierer_auf_der_Elbe.jpg"
-[[images]]
-title = "C Vierer in Bad Schandau"
-src = "images/C_Vierer_in_Bad_Schandau.jpg"
-[[images]]
-title = "Barke auf der Elbe Decin 07"
-src = "images/Barke_auf_der_Elbe_Decin_07.jpg"
-[[images]]
-title = "Stefan am Steuer der Barke Decin07"
-src = "images/Stefan_am_Steuer_der_Barke_Decin07.jpg"
-[[images]]
-title = "Sandro vor der Bastei"
-src = "images/Sandro_vor_der_Bastei.jpg"
-[[images]]
-title = "Barke im Elbsandsteingebirge Decin07"
-src = "images/Barke_im_Elbsandsteingebirge_Decin07.jpg"
-[[images]]
-title = "Rudervierer neben der Barke Decin 07"
-src = "images/Rudervierer_neben_der_Barke_Decin_07.jpg"
-[[images]]
-title = "Pirna Bruecke mit Vierer DC07"
-src = "images/Pirna_Bruecke_mit_Vierer_DC07.jpg"
-[[images]]
-title = "Pirna im Ruderclub DC07"
-src = "images/Pirna_im_Ruderclub_DC07.jpg"
-[[images]]
-title = "meissen Boote aufladen DC07"
-src = "images/meissen_Boote_aufladen_DC07.jpg"
-
-+++
+---
+author: ""
+begin: "2007-01-01"
+date: "2007-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Boote_am_Ufer_Decin07.jpg
+  title: Boote am Ufer Decin07
+- src: images/Samstag_in_Decin_07.jpg
+  title: Samstag in Decin 07
+- src: images/Barke_und_Vierer_auf_der_Elbe.jpg
+  title: Barke und Vierer auf der Elbe
+- src: images/C_Vierer_in_Bad_Schandau.jpg
+  title: C Vierer in Bad Schandau
+- src: images/Barke_auf_der_Elbe_Decin_07.jpg
+  title: Barke auf der Elbe Decin 07
+- src: images/Stefan_am_Steuer_der_Barke_Decin07.jpg
+  title: Stefan am Steuer der Barke Decin07
+- src: images/Sandro_vor_der_Bastei.jpg
+  title: Sandro vor der Bastei
+- src: images/Barke_im_Elbsandsteingebirge_Decin07.jpg
+  title: Barke im Elbsandsteingebirge Decin07
+- src: images/Rudervierer_neben_der_Barke_Decin_07.jpg
+  title: Rudervierer neben der Barke Decin 07
+- src: images/Pirna_Bruecke_mit_Vierer_DC07.jpg
+  title: Pirna Bruecke mit Vierer DC07
+- src: images/Pirna_im_Ruderclub_DC07.jpg
+  title: Pirna im Ruderclub DC07
+- src: images/meissen_Boote_aufladen_DC07.jpg
+  title: meissen Boote aufladen DC07
+länder: []
+title: Decin Meissen 2007
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,46 +1,36 @@
-+++
-title = "Warthe Marathon 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["warthe"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Marathonruderer an der Warthe 2017"
-src = "images/Marathonruderer_an_der_Warthe_2017.jpg"
-[[images]]
-title = "Marathon Girlies Warthe 2017"
-src = "images/Marathon_Girlies_Warthe_2017.jpg"
-[[images]]
-title = "Marathonstart Kolo 2017"
-src = "images/Marathonstart_Kolo_2017.jpg"
-[[images]]
-title = "Nirina auf der Warthe 2017"
-src = "images/Nirina_auf_der_Warthe_2017.jpg"
-[[images]]
-title = "Ruderer in Poznan 2017"
-src = "images/Ruderer_in_Poznan_2017.jpg"
-[[images]]
-title = "Warthe in Posen 2017"
-src = "images/Warthe_in_Posen_2017.jpg"
-[[images]]
-title = "Tim auf der Warthe 2017"
-src = "images/Tim_auf_der_Warthe_2017.jpg"
-[[images]]
-title = "Ruderboot in Poznan 2017"
-src = "images/Ruderboot_in_Poznan_2017.jpg"
-[[images]]
-title = "Eisverpflegung beim Warthemarathon 2017"
-src = "images/Eisverpflegung_beim_Warthemarathon_2017.jpg"
-[[images]]
-title = "Marathonziel Gorzow 2017"
-src = "images/Marathonziel_Gorzow_2017.jpg"
-[[images]]
-title = "Frauen Vierer Stary Zatom 2017"
-src = "images/Frauen_Vierer_Stary_Zatom_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- warthe
+images:
+- src: images/Marathonruderer_an_der_Warthe_2017.jpg
+  title: Marathonruderer an der Warthe 2017
+- src: images/Marathon_Girlies_Warthe_2017.jpg
+  title: Marathon Girlies Warthe 2017
+- src: images/Marathonstart_Kolo_2017.jpg
+  title: Marathonstart Kolo 2017
+- src: images/Nirina_auf_der_Warthe_2017.jpg
+  title: Nirina auf der Warthe 2017
+- src: images/Ruderer_in_Poznan_2017.jpg
+  title: Ruderer in Poznan 2017
+- src: images/Warthe_in_Posen_2017.jpg
+  title: Warthe in Posen 2017
+- src: images/Tim_auf_der_Warthe_2017.jpg
+  title: Tim auf der Warthe 2017
+- src: images/Ruderboot_in_Poznan_2017.jpg
+  title: Ruderboot in Poznan 2017
+- src: images/Eisverpflegung_beim_Warthemarathon_2017.jpg
+  title: Eisverpflegung beim Warthemarathon 2017
+- src: images/Marathonziel_Gorzow_2017.jpg
+  title: Marathonziel Gorzow 2017
+- src: images/Frauen_Vierer_Stary_Zatom_2017.jpg
+  title: Frauen Vierer Stary Zatom 2017
+länder: []
+title: Warthe Marathon 2017
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

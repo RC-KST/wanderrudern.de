@@ -1,19 +1,17 @@
-+++
-title = "Obmannskurs 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs RC KST im Ruderkasten 2014"
-src = "images/Obmannskurs_RC_KST_im_Ruderkasten_2014.jpg"
-[[images]]
-title = "Obmannskurs Ruderclub Kleinmachnow Seminar 2014"
-src = "images/Obmannskurs_Ruderclub_Kleinmachnow_Seminar_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_RC_KST_im_Ruderkasten_2014.jpg
+  title: Obmannskurs RC KST im Ruderkasten 2014
+- src: images/Obmannskurs_Ruderclub_Kleinmachnow_Seminar_2014.jpg
+  title: Obmannskurs Ruderclub Kleinmachnow Seminar 2014
+länder: []
+title: Obmannskurs 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,23 @@
-+++
-title = "Kulinarische Flussfahrt 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = ["frankreich", "polen", "belgien", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kulinarische Flussfahrt 2017"
-src = "images/Kulinarische_Flussfahrt_2017.jpg"
-[[images]]
-title = "Clubabend RC KST 2017"
-src = "images/Clubabend_RC_KST_2017.jpg"
-[[images]]
-title = "Clubabend Kulinarische Flussfahrt 2017"
-src = "images/Clubabend_Kulinarische_Flussfahrt_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Kulinarische_Flussfahrt_2017.jpg
+  title: Kulinarische Flussfahrt 2017
+- src: images/Clubabend_RC_KST_2017.jpg
+  title: Clubabend RC KST 2017
+- src: images/Clubabend_Kulinarische_Flussfahrt_2017.jpg
+  title: Clubabend Kulinarische Flussfahrt 2017
+länder:
+- frankreich
+- polen
+- belgien
+- serbien
+title: Kulinarische Flussfahrt 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

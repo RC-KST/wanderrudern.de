@@ -1,13 +1,13 @@
-+++
-title = "Preisverleihungen 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = []
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer: []
+länder:
+- deutschland
+title: Preisverleihungen 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

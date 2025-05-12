@@ -1,13 +1,14 @@
-+++
-title = "Anrudern Bootstaufe RC KST 2010"
-author = ""
-date = 2010-05-05T01:00:00+02:00
-begin = "2010-05-01"
-"gewässer" = ["oder", "warthe"]
-"länder" = []
-"typ" = "wanderfahrt"
-
-+++
+---
+author: ""
+begin: "2010-05-01"
+date: "2010-05-05T01:00:00+02:00"
+gewässer:
+- oder
+- warthe
+länder: []
+title: Anrudern Bootstaufe RC KST 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

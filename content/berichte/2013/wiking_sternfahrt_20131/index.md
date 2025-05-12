@@ -1,22 +1,21 @@
-+++
-title = "Wiking Sternfahrt 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["havel", "spree"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ghetto Ruderer bei Wiking 2013"
-src = "images/Ghetto_Ruderer_bei_Wiking_2013.jpg"
-[[images]]
-title = "Ruderer am Urbanhafen Wiking 2013"
-src = "images/Ruderer_am_Urbanhafen_Wiking_2013.jpg"
-[[images]]
-title = "Landwehrkanal Wiking 2013"
-src = "images/Landwehrkanal_Wiking_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+images:
+- src: images/Ghetto_Ruderer_bei_Wiking_2013.jpg
+  title: Ghetto Ruderer bei Wiking 2013
+- src: images/Ruderer_am_Urbanhafen_Wiking_2013.jpg
+  title: Ruderer am Urbanhafen Wiking 2013
+- src: images/Landwehrkanal_Wiking_2013.jpg
+  title: Landwehrkanal Wiking 2013
+länder: []
+title: Wiking Sternfahrt 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

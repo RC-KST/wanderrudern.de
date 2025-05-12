@@ -1,40 +1,37 @@
-+++
-title = "Spreewald Wanderfahrt 08"
-author = ""
-date = 2008-10-10T01:00:00+02:00
-begin = "2008-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "neuendorfer see", "köthener see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Randkanal Spreewald Rudervierer 08"
-src = "images/Randkanal_Spreewald_Rudervierer_08.jpg"
-[[images]]
-title = "Schleuse Wasserburg Ruderboote 08"
-src = "images/Schleuse_Wasserburg_Ruderboote_08.jpg"
-[[images]]
-title = "Unterspreewald Ruderer 08"
-src = "images/Unterspreewald_Ruderer_08.jpg"
-[[images]]
-title = "Koethener See 08"
-src = "images/Koethener_See_08.jpg"
-[[images]]
-title = "Spreewaldschleuse 08"
-src = "images/Spreewaldschleuse_08.jpg"
-[[images]]
-title = "Ruderinnen Alt Schadow 08"
-src = "images/Ruderinnen_Alt_Schadow_08.jpg"
-[[images]]
-title = "Schleuse Alt Schadow 08"
-src = "images/Schleuse_Alt_Schadow_08.jpg"
-[[images]]
-title = "Alt Schadow Ruderboote Sp08"
-src = "images/Alt_Schadow_Ruderboote_Sp08.jpg"
-[[images]]
-title = "Trebatsch  Boote aufladen Sp08"
-src = "images/Trebatsch__Boote_aufladen_Sp08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-10-01"
+date: "2008-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- neuendorfer see
+- köthener see
+images:
+- src: images/Randkanal_Spreewald_Rudervierer_08.jpg
+  title: Randkanal Spreewald Rudervierer 08
+- src: images/Schleuse_Wasserburg_Ruderboote_08.jpg
+  title: Schleuse Wasserburg Ruderboote 08
+- src: images/Unterspreewald_Ruderer_08.jpg
+  title: Unterspreewald Ruderer 08
+- src: images/Koethener_See_08.jpg
+  title: Koethener See 08
+- src: images/Spreewaldschleuse_08.jpg
+  title: Spreewaldschleuse 08
+- src: images/Ruderinnen_Alt_Schadow_08.jpg
+  title: Ruderinnen Alt Schadow 08
+- src: images/Schleuse_Alt_Schadow_08.jpg
+  title: Schleuse Alt Schadow 08
+- src: images/Alt_Schadow_Ruderboote_Sp08.jpg
+  title: Alt Schadow Ruderboote Sp08
+- src: images/Trebatsch__Boote_aufladen_Sp08.jpg
+  title: Trebatsch  Boote aufladen Sp08
+länder: []
+title: Spreewald Wanderfahrt 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

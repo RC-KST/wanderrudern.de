@@ -1,22 +1,20 @@
-+++
-title = "Donaudelta 2014"
-author = ""
-date = 2014-01-01T01:00:00+02:00
-begin = "2014-01-01"
-"gewässer" = ["donau"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "lieferwagen rumaenien 2014"
-src = "images/lieferwagen_rumaenien_2014.jpg"
-[[images]]
-title = "Ringstrasse Bukarest 2014"
-src = "images/Ringstrasse_Bukarest_2014.jpg"
-[[images]]
-title = "Fernverkehrstrasse Arad 2014"
-src = "images/Fernverkehrstrasse_Arad_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-01-01"
+date: "2014-01-01T01:00:00+02:00"
+gewässer:
+- donau
+images:
+- src: images/lieferwagen_rumaenien_2014.jpg
+  title: lieferwagen rumaenien 2014
+- src: images/Ringstrasse_Bukarest_2014.jpg
+  title: Ringstrasse Bukarest 2014
+- src: images/Fernverkehrstrasse_Arad_2014.jpg
+  title: Fernverkehrstrasse Arad 2014
+länder: []
+title: Donaudelta 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,24 @@
-+++
-title = "Neustrelitz 08"
-author = ""
-date = 2008-09-09T01:00:00+02:00
-begin = "2008-09-01"
-"gewässer" = ["havel", "havelquellgebiet", "useriner see", "jäthensee", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Abwasch in Neustrelitz 08"
-src = "images/Abwasch_in_Neustrelitz_08.jpg"
-[[images]]
-title = "Havel bei Babke N08"
-src = "images/Havel_bei_Babke_N08.jpg"
-[[images]]
-title = "Kanal nach Neustrelitz 08"
-src = "images/Kanal_nach_Neustrelitz_08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-09-01"
+date: "2008-09-09T01:00:00+02:00"
+gewässer:
+- havel
+- havelquellgebiet
+- useriner see
+- jäthensee
+- oder
+images:
+- src: images/Abwasch_in_Neustrelitz_08.jpg
+  title: Abwasch in Neustrelitz 08
+- src: images/Havel_bei_Babke_N08.jpg
+  title: Havel bei Babke N08
+- src: images/Kanal_nach_Neustrelitz_08.jpg
+  title: Kanal nach Neustrelitz 08
+länder: []
+title: Neustrelitz 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

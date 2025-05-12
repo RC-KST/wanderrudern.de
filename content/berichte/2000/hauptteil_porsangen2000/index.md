@@ -1,58 +1,49 @@
-+++
-title = "Inari 2000"
-author = ""
-date = 2000-01-01T01:00:00+02:00
-begin = "2000-01-01"
-"gewässer" = ["po", "porsangenfjord"]
-"länder" = ["deutschland", "norwegen", "schweden", "italien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote abladen am Porsangenfjord"
-src = "images/bootsh_nger.jpg"
-[[images]]
-title = "Ruder-Vierer am Ufer des Fjord"
-src = "images/boot_kies.jpg"
-[[images]]
-title = "Strasse am Porsangenfjord"
-src = "images/fjord1.jpg"
-[[images]]
-title = "Ruder-Vierer beim Ablegen am Porsangenfjord"
-src = "images/boot_fjord2.jpg"
-[[images]]
-title = "Weg zu Trollholmen am Porsangenfjord"
-src = "images/spaziergang.jpg"
-[[images]]
-title = "Drei Trolle am Porsangenfjord"
-src = "images/saeulen2.jpg"
-[[images]]
-title = "Jana sammelt Muscheln"
-src = "images/jana_seeigel.jpg"
-[[images]]
-title = "Jana und Martina auf Trollholmen"
-src = "images/maedchen2.jpg"
-[[images]]
-title = "Weg zum Ruderboot am Fjord"
-src = "images/weg_zum_Boot.jpg"
-[[images]]
-title = "Ruder-Vierer auf dem Weg nach Honnigsvag Nordkap"
-src = "images/vierer_honningsvag.jpg"
-[[images]]
-title = "Baumgarten Vierer im Hafen von Honnigsvag"
-src = "images/honningsvag_hafen.jpg"
-[[images]]
-title = "Kirkeporten am Nordkap"
-src = "images/kirkeporten.jpg"
-[[images]]
-title = "Weltkugel am Nordkap mit den Ruderern"
-src = "images/nordkap_weltkugel.jpg"
-[[images]]
-title = "Nordkapblick Ruderer"
-src = "images/nordkapp_klippe.jpg"
-[[images]]
-title = "Nordkap Ruderer"
-src = "images/parkplatz.jpg"
-
-+++
+---
+author: ""
+begin: "2000-01-01"
+date: "2000-01-01T01:00:00+02:00"
+gewässer:
+- po
+- porsangenfjord
+images:
+- src: images/bootsh_nger.jpg
+  title: Ruderboote abladen am Porsangenfjord
+- src: images/boot_kies.jpg
+  title: Ruder-Vierer am Ufer des Fjord
+- src: images/fjord1.jpg
+  title: Strasse am Porsangenfjord
+- src: images/boot_fjord2.jpg
+  title: Ruder-Vierer beim Ablegen am Porsangenfjord
+- src: images/spaziergang.jpg
+  title: Weg zu Trollholmen am Porsangenfjord
+- src: images/saeulen2.jpg
+  title: Drei Trolle am Porsangenfjord
+- src: images/jana_seeigel.jpg
+  title: Jana sammelt Muscheln
+- src: images/maedchen2.jpg
+  title: Jana und Martina auf Trollholmen
+- src: images/weg_zum_Boot.jpg
+  title: Weg zum Ruderboot am Fjord
+- src: images/vierer_honningsvag.jpg
+  title: Ruder-Vierer auf dem Weg nach Honnigsvag Nordkap
+- src: images/honningsvag_hafen.jpg
+  title: Baumgarten Vierer im Hafen von Honnigsvag
+- src: images/kirkeporten.jpg
+  title: Kirkeporten am Nordkap
+- src: images/nordkap_weltkugel.jpg
+  title: Weltkugel am Nordkap mit den Ruderern
+- src: images/nordkapp_klippe.jpg
+  title: Nordkapblick Ruderer
+- src: images/parkplatz.jpg
+  title: Nordkap Ruderer
+länder:
+- deutschland
+- norwegen
+- schweden
+- italien
+title: Inari 2000
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

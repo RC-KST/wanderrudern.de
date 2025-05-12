@@ -1,25 +1,22 @@
-+++
-title = "Messe Boot und Fun mit dem RC KST 2013"
-author = ""
-date = 2013-01-01T01:00:00+02:00
-begin = "2013-01-01"
-"gewässer" = ["po"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderer lassen das Wasserbecken kochen Boot und Fun 2013"
-src = "images/Ruderer_lassen_das_Wasserbecken_kochen_Boot_und_Fun_2013.jpg"
-[[images]]
-title = "Rudern auf der Boot und Fun 2013"
-src = "images/Rudern_auf_der_Boot_und_Fun_2013.jpg"
-[[images]]
-title = "Gala Nacht Boot und Fun 2013"
-src = "images/Gala_Nacht_Boot_und_Fun_2013.jpg"
-[[images]]
-title = "Messestand RC KST Boot und Fun 2013"
-src = "images/Messestand_RC_KST_Boot_und_Fun_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-01-01"
+date: "2013-01-01T01:00:00+02:00"
+gewässer:
+- po
+images:
+- src: images/Ruderer_lassen_das_Wasserbecken_kochen_Boot_und_Fun_2013.jpg
+  title: Ruderer lassen das Wasserbecken kochen Boot und Fun 2013
+- src: images/Rudern_auf_der_Boot_und_Fun_2013.jpg
+  title: Rudern auf der Boot und Fun 2013
+- src: images/Gala_Nacht_Boot_und_Fun_2013.jpg
+  title: Gala Nacht Boot und Fun 2013
+- src: images/Messestand_RC_KST_Boot_und_Fun_2013.jpg
+  title: Messestand RC KST Boot und Fun 2013
+länder: []
+title: Messe Boot und Fun mit dem RC KST 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

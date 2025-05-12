@@ -1,25 +1,27 @@
-+++
-title = "Saimaa Seenplatte 2001"
-author = ""
-date = 2001-04-04T01:00:00+02:00
-begin = "2001-04-01"
-"gewässer" = ["saimaa", "kermajärvi", "orivesi"]
-"länder" = ["deutschland", "finnland", "schweden"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "martina_kilian hütte Saimaa"
-src = "images/martina_kilian_huette_Saimaa01.jpg"
-[[images]]
-title = "Puumala Brücke Ruderboot "
-src = "images/Kaimauer.jpg"
-[[images]]
-title = "Blick von der Brücke auf die Ruderboote Saimaa Puumala"
-src = "images/luftaufnahme.jpg"
-[[images]]
-title = "auf der Brück von Puumala"
-src = "images/Turm.jpg"
-
-+++
+---
+author: ""
+begin: "2001-04-01"
+date: "2001-04-04T01:00:00+02:00"
+gewässer:
+- saimaa
+- kermajärvi
+- orivesi
+images:
+- src: images/martina_kilian_huette_Saimaa01.jpg
+  title: martina_kilian hütte Saimaa
+- src: images/Kaimauer.jpg
+  title: 'Puumala Brücke Ruderboot '
+- src: images/luftaufnahme.jpg
+  title: Blick von der Brücke auf die Ruderboote Saimaa Puumala
+- src: images/Turm.jpg
+  title: auf der Brück von Puumala
+länder:
+- deutschland
+- finnland
+- schweden
+title: Saimaa Seenplatte 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

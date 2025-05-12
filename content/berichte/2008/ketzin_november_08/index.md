@@ -1,16 +1,17 @@
-+++
-title = "Ketzin November 08"
-author = ""
-date = 2008-03-03T01:00:00+02:00
-begin = "2008-03-01"
-"gewässer" = ["oder"]
-"länder" = ["deutschland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Auf dem Weg nach Ketzin Nov08"
-src = "images/Auf_dem_Weg_nach_Ketzin_Nov08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-03-01"
+date: "2008-03-03T01:00:00+02:00"
+gewässer:
+- oder
+images:
+- src: images/Auf_dem_Weg_nach_Ketzin_Nov08.jpg
+  title: Auf dem Weg nach Ketzin Nov08
+länder:
+- deutschland
+title: Ketzin November 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,25 +1,24 @@
-+++
-title = "Wiking Sternfahrt 2011"
-author = ""
-date = 2011-10-10T01:00:00+02:00
-begin = "2011-10-01"
-"gewässer" = ["havel", "spree", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Wiking Sternfahrt 2011"
-src = "images/Wiking_Sternfahrt_2011.jpg"
-[[images]]
-title = "Zweier RC KST am Steg Wiking 2011"
-src = "images/Zweier_RC_KST_am_Steg_Wiking_2011.jpg"
-[[images]]
-title = "Charlottenburger Tor Wiking 2011"
-src = "images/Charlottenburger_Tor_Wiking_2011.jpg"
-[[images]]
-title = "WIking Sternfahrt 2011 Boote am Steg"
-src = "images/WIking_Sternfahrt_2011_Boote_am_Steg.jpg"
-
-+++
+---
+author: ""
+begin: "2011-10-01"
+date: "2011-10-10T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+- teltowkanal
+images:
+- src: images/Wiking_Sternfahrt_2011.jpg
+  title: Wiking Sternfahrt 2011
+- src: images/Zweier_RC_KST_am_Steg_Wiking_2011.jpg
+  title: Zweier RC KST am Steg Wiking 2011
+- src: images/Charlottenburger_Tor_Wiking_2011.jpg
+  title: Charlottenburger Tor Wiking 2011
+- src: images/WIking_Sternfahrt_2011_Boote_am_Steg.jpg
+  title: WIking Sternfahrt 2011 Boote am Steg
+länder: []
+title: Wiking Sternfahrt 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

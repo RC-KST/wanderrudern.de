@@ -1,43 +1,35 @@
-+++
-title = "Finowkanal 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["havel", "oder-havel-kanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Aufladen am Oder-Havel-Kanal 2017"
-src = "images/Aufladen_am_Oder-Havel-Kanal_2017.jpg"
-[[images]]
-title = "Zerpenschleuse am Langen Troedel 2017"
-src = "images/Zerpenschleuse_am_Langen_Troedel_2017.jpg"
-[[images]]
-title = "Messingwerkhafen 2017"
-src = "images/Messingwerkhafen_2017.jpg"
-[[images]]
-title = "Finowfurt 2017"
-src = "images/Finowfurt_2017.jpg"
-[[images]]
-title = "Verfallende Industrie Finowkanal 2017"
-src = "images/Verfallende_Industrie_Finowkanal_2017.jpg"
-[[images]]
-title = "verfallende Borsighalle Finowkanal 2017"
-src = "images/verfallende_Borsighalle_Finowkanal_2017.jpg"
-[[images]]
-title = "Zweier auf dem Finowkanal 2017"
-src = "images/Zweier_auf_dem_Finowkanal_2017.jpg"
-[[images]]
-title = "Schleuse am Finowkanal Ruderer 2017"
-src = "images/Schleuse_am_Finowkanal_Ruderer_2017.jpg"
-[[images]]
-title = "Niederfinow mit Ruderern 2017"
-src = "images/Niederfinow_mit_Ruderern_2017.jpg"
-[[images]]
-title = "Schiffshebewerk Niederfinow Ruderer 2017"
-src = "images/Schiffshebewerk_Niederfinow_Ruderer_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- oder-havel-kanal
+images:
+- src: images/Aufladen_am_Oder-Havel-Kanal_2017.jpg
+  title: Aufladen am Oder-Havel-Kanal 2017
+- src: images/Zerpenschleuse_am_Langen_Troedel_2017.jpg
+  title: Zerpenschleuse am Langen Troedel 2017
+- src: images/Messingwerkhafen_2017.jpg
+  title: Messingwerkhafen 2017
+- src: images/Finowfurt_2017.jpg
+  title: Finowfurt 2017
+- src: images/Verfallende_Industrie_Finowkanal_2017.jpg
+  title: Verfallende Industrie Finowkanal 2017
+- src: images/verfallende_Borsighalle_Finowkanal_2017.jpg
+  title: verfallende Borsighalle Finowkanal 2017
+- src: images/Zweier_auf_dem_Finowkanal_2017.jpg
+  title: Zweier auf dem Finowkanal 2017
+- src: images/Schleuse_am_Finowkanal_Ruderer_2017.jpg
+  title: Schleuse am Finowkanal Ruderer 2017
+- src: images/Niederfinow_mit_Ruderern_2017.jpg
+  title: Niederfinow mit Ruderern 2017
+- src: images/Schiffshebewerk_Niederfinow_Ruderer_2017.jpg
+  title: Schiffshebewerk Niederfinow Ruderer 2017
+länder: []
+title: Finowkanal 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

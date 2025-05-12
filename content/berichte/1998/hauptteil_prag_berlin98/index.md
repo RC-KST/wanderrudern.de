@@ -1,40 +1,41 @@
-+++
-title = "Prag berlin 1998"
-author = ""
-date = 1998-01-01T01:00:00+02:00
-begin = "1998-01-01"
-"gewässer" = ["donau", "aller", "elbe", "moldau", "wannsee"]
-"länder" = ["deutschland", "österreich", "schweiz", "ungarn", "slowakei"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "prag ruderboote"
-src = "images/prag_boote.jpg"
-[[images]]
-title = "prag karlsbrücke ruderboot"
-src = "images/prag_bruecke.jpg"
-[[images]]
-title = "prag vagabund ruderzweier"
-src = "images/prag98_vagabund.jpg"
-[[images]]
-title = "melnik schleuse rudern"
-src = "images/melnik_schleuse.jpg"
-[[images]]
-title = "moldau elbe mündung in Melnik"
-src = "images/prag98_moldau_elbe.jpg"
-[[images]]
-title = "Eleb Ruderzweier"
-src = "images/prag98_libelle.jpg"
-[[images]]
-title = "Osterfrühstück im Ruderverein Aken"
-src = "images/osterfruehstueck.jpg"
-[[images]]
-title = "Ruderzweier mit schlafenden Steuermann"
-src = "images/vagabund_schlaefer.jpg"
-[[images]]
-title = "franky beim Einzelrudern"
-src = "images/franky.jpg"
-
-+++
+---
+author: ""
+begin: "1998-01-01"
+date: "1998-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- aller
+- elbe
+- moldau
+- wannsee
+images:
+- src: images/prag_boote.jpg
+  title: prag ruderboote
+- src: images/prag_bruecke.jpg
+  title: prag karlsbrücke ruderboot
+- src: images/prag98_vagabund.jpg
+  title: prag vagabund ruderzweier
+- src: images/melnik_schleuse.jpg
+  title: melnik schleuse rudern
+- src: images/prag98_moldau_elbe.jpg
+  title: moldau elbe mündung in Melnik
+- src: images/prag98_libelle.jpg
+  title: Eleb Ruderzweier
+- src: images/osterfruehstueck.jpg
+  title: Osterfrühstück im Ruderverein Aken
+- src: images/vagabund_schlaefer.jpg
+  title: Ruderzweier mit schlafenden Steuermann
+- src: images/franky.jpg
+  title: franky beim Einzelrudern
+länder:
+- deutschland
+- österreich
+- schweiz
+- ungarn
+- slowakei
+title: Prag berlin 1998
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,19 @@
-+++
-title = "Obmannskurs 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Obmannskurs 2017 Spanngurte"
-src = "images/Obmannskurs_2017_Spanngurte.jpg"
-[[images]]
-title = "Obmannskurs 2017"
-src = "images/Obmannskurs_2017.jpg"
-[[images]]
-title = "Obmannskurs 2017 Kraftraum"
-src = "images/Obmannskurs_2017_Kraftraum.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Obmannskurs_2017_Spanngurte.jpg
+  title: Obmannskurs 2017 Spanngurte
+- src: images/Obmannskurs_2017.jpg
+  title: Obmannskurs 2017
+- src: images/Obmannskurs_2017_Kraftraum.jpg
+  title: Obmannskurs 2017 Kraftraum
+länder: []
+title: Obmannskurs 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

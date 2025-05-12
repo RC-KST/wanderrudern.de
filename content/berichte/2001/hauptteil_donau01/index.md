@@ -1,40 +1,37 @@
-+++
-title = "donau 2001"
-author = ""
-date = 2001-04-04T01:00:00+02:00
-begin = "2001-04-01"
-"gewässer" = ["donau", "ilz", "mossoni-donau", "oder"]
-"länder" = ["österreich", "ungarn"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Donau Rudern"
-src = "images/burg_do01.jpg"
-[[images]]
-title = "Passau Ilz Rudern"
-src = "images/ilz.jpg"
-[[images]]
-title = "Passau Oberhaus Ruderer"
-src = "images/passau_burg.jpg"
-[[images]]
-title = "Kloster Melk"
-src = "images/melk.jpg"
-[[images]]
-title = "Wien Schönbrunn"
-src = "images/wien.jpg"
-[[images]]
-title = "Hundertwasser Haus"
-src = "images/wien_hundertwasser.jpg"
-[[images]]
-title = "Bratislava Donau"
-src = "images/bratislava.jpg"
-[[images]]
-title = "Mossonmagyarrova Ruderer"
-src = "images/moson2.jpg"
-[[images]]
-title = "Esztergom"
-src = "images/esztergom.jpg"
-
-+++
+---
+author: ""
+begin: "2001-04-01"
+date: "2001-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- ilz
+- mossoni-donau
+- oder
+images:
+- src: images/burg_do01.jpg
+  title: Donau Rudern
+- src: images/ilz.jpg
+  title: Passau Ilz Rudern
+- src: images/passau_burg.jpg
+  title: Passau Oberhaus Ruderer
+- src: images/melk.jpg
+  title: Kloster Melk
+- src: images/wien.jpg
+  title: Wien Schönbrunn
+- src: images/wien_hundertwasser.jpg
+  title: Hundertwasser Haus
+- src: images/bratislava.jpg
+  title: Bratislava Donau
+- src: images/moson2.jpg
+  title: Mossonmagyarrova Ruderer
+- src: images/esztergom.jpg
+  title: Esztergom
+länder:
+- österreich
+- ungarn
+title: donau 2001
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

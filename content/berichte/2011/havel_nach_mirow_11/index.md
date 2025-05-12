@@ -1,79 +1,60 @@
-+++
-title = "Havel nach Mirow 11"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["havel", "müritz", "mecklenburger seenplatte"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Masters Vierer Fliess bei Mirow 11"
-src = "images/Masters_Vierer_Fliess_bei_Mirow_11.jpg"
-[[images]]
-title = "Frauenversteherboot M11"
-src = "images/Frauenversteherboot_M11.jpg"
-[[images]]
-title = "Ruderboote Hennigsdorf M11"
-src = "images/Ruderboote_Hennigsdorf_M11.jpg"
-[[images]]
-title = "Zweier auf der Havel M11"
-src = "images/Zweier_auf_der_Havel_M11.jpg"
-[[images]]
-title = "Vierermannschaft bei Pinnow M11"
-src = "images/Vierermannschaft_bei_Pinnow_M11.jpg"
-[[images]]
-title = "Ruderboot Havel M11"
-src = "images/Ruderboot_Havel_M11.jpg"
-[[images]]
-title = "Schleuse Lehnitz M11"
-src = "images/Schleuse_Lehnitz_M11.jpg"
-[[images]]
-title = "Cookie auf dem Bug M11"
-src = "images/Cookie_auf_dem_Bug_M11.jpg"
-[[images]]
-title = "Jana Antonia Lisa in der Schleuse M11"
-src = "images/Jana_Antonia_Lisa_in_der_Schleuse_M11.jpg"
-[[images]]
-title = "Oldie Boot M11"
-src = "images/Oldie_Boot_M11.jpg"
-[[images]]
-title = "Badepause Havel 11"
-src = "images/Badepause_Havel_11.jpg"
-[[images]]
-title = "Ruderinnen beim Kickern M11"
-src = "images/Ruderinnen_beim_Kickern_M11.jpg"
-[[images]]
-title = "Jenny Sebastian Ruderboot M11"
-src = "images/Jenny_Sebastian_Ruderboot_M11.jpg"
-[[images]]
-title = "Ruderboote Moderfitzsee Himmelpfort M11"
-src = "images/Ruderboote_Moderfitzsee_Himmelpfort_M11.jpg"
-[[images]]
-title = "Badeplatform Himmelpfort M11"
-src = "images/Badeplatform_Himmelpfort_M11.jpg"
-[[images]]
-title = "Sprung von der Badeplatform M11"
-src = "images/Sprung_von_der_Badeplatform_M11.jpg"
-[[images]]
-title = "Chaos in der Schleuse M11"
-src = "images/Chaos_in_der_Schleuse_M11.jpg"
-[[images]]
-title = "Ruderboote auf der Havel M11"
-src = "images/Ruderboote_auf_der_Havel_M11.jpg"
-[[images]]
-title = "Badepause M11"
-src = "images/Badepause_M11.jpg"
-[[images]]
-title = "Gegenverkehr auf dem Fliess Mirow 11"
-src = "images/Gegenverkehr_auf_dem_Fliess_Mirow_11.jpg"
-[[images]]
-title = "Wartende Boote in Strassen M11"
-src = "images/Wartende_Boote_in_Strassen_M11.jpg"
-[[images]]
-title = "Havelpanorama Ruderboot M11"
-src = "images/Havelpanorama_Ruderboot_M11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- müritz
+- mecklenburger seenplatte
+images:
+- src: images/Masters_Vierer_Fliess_bei_Mirow_11.jpg
+  title: Masters Vierer Fliess bei Mirow 11
+- src: images/Frauenversteherboot_M11.jpg
+  title: Frauenversteherboot M11
+- src: images/Ruderboote_Hennigsdorf_M11.jpg
+  title: Ruderboote Hennigsdorf M11
+- src: images/Zweier_auf_der_Havel_M11.jpg
+  title: Zweier auf der Havel M11
+- src: images/Vierermannschaft_bei_Pinnow_M11.jpg
+  title: Vierermannschaft bei Pinnow M11
+- src: images/Ruderboot_Havel_M11.jpg
+  title: Ruderboot Havel M11
+- src: images/Schleuse_Lehnitz_M11.jpg
+  title: Schleuse Lehnitz M11
+- src: images/Cookie_auf_dem_Bug_M11.jpg
+  title: Cookie auf dem Bug M11
+- src: images/Jana_Antonia_Lisa_in_der_Schleuse_M11.jpg
+  title: Jana Antonia Lisa in der Schleuse M11
+- src: images/Oldie_Boot_M11.jpg
+  title: Oldie Boot M11
+- src: images/Badepause_Havel_11.jpg
+  title: Badepause Havel 11
+- src: images/Ruderinnen_beim_Kickern_M11.jpg
+  title: Ruderinnen beim Kickern M11
+- src: images/Jenny_Sebastian_Ruderboot_M11.jpg
+  title: Jenny Sebastian Ruderboot M11
+- src: images/Ruderboote_Moderfitzsee_Himmelpfort_M11.jpg
+  title: Ruderboote Moderfitzsee Himmelpfort M11
+- src: images/Badeplatform_Himmelpfort_M11.jpg
+  title: Badeplatform Himmelpfort M11
+- src: images/Sprung_von_der_Badeplatform_M11.jpg
+  title: Sprung von der Badeplatform M11
+- src: images/Chaos_in_der_Schleuse_M11.jpg
+  title: Chaos in der Schleuse M11
+- src: images/Ruderboote_auf_der_Havel_M11.jpg
+  title: Ruderboote auf der Havel M11
+- src: images/Badepause_M11.jpg
+  title: Badepause M11
+- src: images/Gegenverkehr_auf_dem_Fliess_Mirow_11.jpg
+  title: Gegenverkehr auf dem Fliess Mirow 11
+- src: images/Wartende_Boote_in_Strassen_M11.jpg
+  title: Wartende Boote in Strassen M11
+- src: images/Havelpanorama_Ruderboot_M11.jpg
+  title: Havelpanorama Ruderboot M11
+länder: []
+title: Havel nach Mirow 11
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

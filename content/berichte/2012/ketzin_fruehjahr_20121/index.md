@@ -1,31 +1,26 @@
-+++
-title = "Ketzin Fruehjahr 2012"
-author = ""
-date = 2012-03-03T01:00:00+02:00
-begin = "2012-03-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderinnen verkabelt Malabar 2012"
-src = "images/Ruderinnen_verkabelt_Malabar_2012.jpg"
-[[images]]
-title = "Ketzin am Steg Maer 2012"
-src = "images/Ketzin_am_Steg_Maer_2012.jpg"
-[[images]]
-title = "Annika im Einer Havel Brandenburg Ketzin 2012"
-src = "images/Annika_im_Einer_Havel_Brandenburg_Ketzin_2012.jpg"
-[[images]]
-title = "AH Boote Brandenburg Maerz 2012"
-src = "images/AH_Boote_Brandenburg_Maerz_2012.jpg"
-[[images]]
-title = "Ruderer Brandenburg Malabar 2012"
-src = "images/Ruderer_Brandenburg_Malabar_2012.jpg"
-[[images]]
-title = "Ruderboote Brandenburg Havel Maerz12"
-src = "images/Ruderboote_Brandenburg_Havel_Maerz12.jpg"
-
-+++
+---
+author: ""
+begin: "2012-03-01"
+date: "2012-03-03T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Ruderinnen_verkabelt_Malabar_2012.jpg
+  title: Ruderinnen verkabelt Malabar 2012
+- src: images/Ketzin_am_Steg_Maer_2012.jpg
+  title: Ketzin am Steg Maer 2012
+- src: images/Annika_im_Einer_Havel_Brandenburg_Ketzin_2012.jpg
+  title: Annika im Einer Havel Brandenburg Ketzin 2012
+- src: images/AH_Boote_Brandenburg_Maerz_2012.jpg
+  title: AH Boote Brandenburg Maerz 2012
+- src: images/Ruderer_Brandenburg_Malabar_2012.jpg
+  title: Ruderer Brandenburg Malabar 2012
+- src: images/Ruderboote_Brandenburg_Havel_Maerz12.jpg
+  title: Ruderboote Brandenburg Havel Maerz12
+länder: []
+title: Ketzin Fruehjahr 2012
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

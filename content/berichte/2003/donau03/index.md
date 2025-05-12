@@ -1,37 +1,34 @@
-+++
-title = "Donau 2003 Ingolstadt Wien"
-author = ""
-date = 2003-01-01T01:00:00+02:00
-begin = "2003-01-01"
-"gewässer" = ["donau", "ilz", "große tulln", "oder"]
-"länder" = ["österreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "INgolstadt Frühstück Ruderer"
-src = "images/ingolstadt.jpg"
-[[images]]
-title = "Rudern auf der Ilz Festung Unterhaus"
-src = "images/ilzmdg.jpg"
-[[images]]
-title = "Donau Ruderboot Anne"
-src = "images/anne_schloegen.jpg"
-[[images]]
-title = "kurt"
-src = "images/kurt.jpg"
-[[images]]
-title = "Baumgarten Zweier Donau"
-src = "images/norinna_berge.jpg"
-[[images]]
-title = "Reifenwechsel"
-src = "images/reifenwechsel.jpg"
-[[images]]
-title = "wien"
-src = "images/schoenbrunn.jpg"
-[[images]]
-title = "burgtheather"
-src = "images/burgtheather.jpg"
-
-+++
+---
+author: ""
+begin: "2003-01-01"
+date: "2003-01-01T01:00:00+02:00"
+gewässer:
+- donau
+- ilz
+- große tulln
+- oder
+images:
+- src: images/ingolstadt.jpg
+  title: INgolstadt Frühstück Ruderer
+- src: images/ilzmdg.jpg
+  title: Rudern auf der Ilz Festung Unterhaus
+- src: images/anne_schloegen.jpg
+  title: Donau Ruderboot Anne
+- src: images/kurt.jpg
+  title: kurt
+- src: images/norinna_berge.jpg
+  title: Baumgarten Zweier Donau
+- src: images/reifenwechsel.jpg
+  title: Reifenwechsel
+- src: images/schoenbrunn.jpg
+  title: wien
+- src: images/burgtheather.jpg
+  title: burgtheather
+länder:
+- österreich
+title: Donau 2003 Ingolstadt Wien
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

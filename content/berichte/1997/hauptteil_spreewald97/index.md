@@ -1,25 +1,28 @@
-+++
-title = "Spreewald 1997"
-author = ""
-date = 1997-01-01T01:00:00+02:00
-begin = "1997-01-01"
-"gewässer" = ["dahme", "spree", "spreewald", "wannsee", "schwielochsee", "neuendorfer see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "prieros schleuse ruderboot"
-src = "images/prieros_schleuse.jpg"
-[[images]]
-title = "Wald im Spreewald ruderer"
-src = "images/Wald.jpg"
-[[images]]
-title = "schleuse im spreewald ruderer"
-src = "images/schleuse_SP97.jpg"
-[[images]]
-title = "beeskow schleuse ruderboot tauschende Ruderer"
-src = "images/beeskow_schleuse.jpg"
-
-+++
+---
+author: ""
+begin: "1997-01-01"
+date: "1997-01-01T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- spreewald
+- wannsee
+- schwielochsee
+- neuendorfer see
+- oder
+images:
+- src: images/prieros_schleuse.jpg
+  title: prieros schleuse ruderboot
+- src: images/Wald.jpg
+  title: Wald im Spreewald ruderer
+- src: images/schleuse_SP97.jpg
+  title: schleuse im spreewald ruderer
+- src: images/beeskow_schleuse.jpg
+  title: beeskow schleuse ruderboot tauschende Ruderer
+länder: []
+title: Spreewald 1997
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

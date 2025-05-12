@@ -1,283 +1,197 @@
-+++
-title = "Norwegen Sognefjord 2024"
-author = ""
-date = 2024-08-08T01:00:00+02:00
-begin = "2024-08-01"
-"gewässer" = ["oder", "sognefjord"]
-"länder" = ["dänemark", "norwegen"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sognefjord Landkarte"
-src = "images/Sognefjord_Landkarte.jpg"
-[[images]]
-title = "Tim auf der Fjordline Fähre 2024"
-src = "images/Tim_auf_der_Fjordline_Fahre_2024.jpg"
-[[images]]
-title = "Fähre am Sognefjord 2024"
-src = "images/Fahre_am_Sognefjord_2024.jpg"
-[[images]]
-title = "Aufriggern am Esefjorden Balestrand 2024"
-src = "images/Aufriggern_am_Esefjorden_Balestrand_2024.jpg"
-[[images]]
-title = "Inrigger vor dem Tjugatoten 2024"
-src = "images/Inrigger_vor_dem_Tjugatoten_2024.jpg"
-[[images]]
-title = "Wolly in Balestrand 2024"
-src = "images/Wolly_in_Balestrand_2024.jpg"
-[[images]]
-title = "Blick auf Balestrand vom Ruderboot aus 2024"
-src = "images/Blick_auf_Balestrand_vom_Ruderboot_aus_2024.jpg"
-[[images]]
-title = "Inrigger auf dem Fjord 2024"
-src = "images/Inrigger_auf_dem_Fjord_2024.jpg"
-[[images]]
-title = "Ruderboote auf dem Sognefjord 2024"
-src = "images/Ruderboote_auf_dem_Sognefjord_2024.jpg"
-[[images]]
-title = "Arnafjjord Inrigger 2024"
-src = "images/Arnafjjord_Inrigger_2024.jpg"
-[[images]]
-title = "Historisches Hotel Balestrand 2024"
-src = "images/Historisches_Hotel_Balestrand_2024.jpg"
-[[images]]
-title = "Inrigger bei Regenwetter 2024"
-src = "images/Inrigger_bei_Regenwetter_2024.jpg"
-[[images]]
-title = "Fjordkulisse mit Inrigger 2024"
-src = "images/Fjordkulisse_mit_Inrigger_2024.jpg"
-[[images]]
-title = "Gletscher am Fjarlandsfjord 2024"
-src = "images/Gletscher_am_Fjarlandsfjord_2024.jpg"
-[[images]]
-title = "Baumgarten Inrigger auf dem Fjaerlandsfjord 2024"
-src = "images/Baumgarten_Inrigger_auf_dem_Fjaerlandsfjord_2024.jpg"
-[[images]]
-title = "Baumgarten Inrigger am Fjord 2024"
-src = "images/Baumgarten_Inrigger_am_Fjord_2024.jpg"
-[[images]]
-title = "Arnafjord es wird ruppig und regnerisch 2024"
-src = "images/Arnafjord_es_wird_ruppig_und_regnerisch_2024.jpg"
-[[images]]
-title = "Im Findenfjord 2024"
-src = "images/Im_Findenfjord_2024.jpg"
-[[images]]
-title = "Findenfjord 2024"
-src = "images/Findenfjord_2024.jpg"
-[[images]]
-title = "Regenbogen am Esefjord 2024"
-src = "images/Regenbogen_am_Esefjord_2024.jpg"
-[[images]]
-title = "Fjaerlandsfjord bei Sonne 2024"
-src = "images/Fjaerlandsfjord_bei_Sonne_2024.jpg"
-[[images]]
-title = "Fjaerland Gletscher 2024"
-src = "images/Fjaerland_Gletscher_2024.jpg"
-[[images]]
-title = "Doppelregenbogen Ruderboote 2024"
-src = "images/Doppelregenbogen_Ruderboote_2024.jpg"
-[[images]]
-title = "Inrigger am Esefjorden 2024"
-src = "images/Inrigger_am_Esefjorden_2024.jpg"
-[[images]]
-title = "Fake Stabkirche Balestrand 2024"
-src = "images/Fake_Stabkirche_Balestrand_2024.jpg"
-[[images]]
-title = "Inrigger in den Wolken 2024"
-src = "images/Inrigger_in_den_Wolken_2024.jpg"
-[[images]]
-title = "Abendessen in der Hütte Sognefjord 2024"
-src = "images/Abendessen_in_der_Hutte_Sognefjord_2024.jpg"
-[[images]]
-title = "Fjaerlandsfjorden 2024"
-src = "images/Fjaerlandsfjorden_2024.jpg"
-[[images]]
-title = "Baden im Esefjorden 2024"
-src = "images/Baden_im_Esefjorden_2024.jpg"
-[[images]]
-title = "Hütten Kaupanger 2024"
-src = "images/Hutten_Kaupanger_2024.jpg"
-[[images]]
-title = "Badestrand bei Sognedal 2024"
-src = "images/Badestrand_bei_Sognedal_2024.jpg"
-[[images]]
-title = "Undredal downtown 2024"
-src = "images/Undredal_downtown_2024.jpg"
-[[images]]
-title = "Ruderboot Aurlandsfjord 2024"
-src = "images/Ruderboot_Aurlandsfjord_2024.jpg"
-[[images]]
-title = "Ruderwerkstatt 2024 fjord"
-src = "images/Ruderwerkstatt_2024_fjord.jpg"
-[[images]]
-title = "Anlegen Undredal 2024"
-src = "images/Anlegen_Undredal_2024.jpg"
-[[images]]
-title = "Undredal Ruderboot 2024"
-src = "images/Undredal_Ruderboot_2024.jpg"
-[[images]]
-title = "Aurlandsfjord Inrigger 2024"
-src = "images/Aurlandsfjord_Inrigger_2024.jpg"
-[[images]]
-title = "Gudvangen Ruderboote im Regen 2024"
-src = "images/Gudvangen_Ruderboote_im_Regen_2024.jpg"
-[[images]]
-title = "Gudvangen Ruderboote vor dem Wikingerdorf 2024"
-src = "images/Gudvangen_Ruderboote_vor_dem_Wikingerdorf_2024.jpg"
-[[images]]
-title = "Naeröyfjord 2024"
-src = "images/Naeroyfjord_2024.jpg"
-[[images]]
-title = "Fjord mit Wasserfall 2024"
-src = "images/Fjord_mit_Wasserfall_2024.jpg"
-[[images]]
-title = "Steilwand im Fjord 2024"
-src = "images/Steilwand_im_Fjord_2024.jpg"
-[[images]]
-title = "Fjord mal mit etwas Sonne 2024"
-src = "images/Fjord_mal_mit_etwas_Sonne_2024.jpg"
-[[images]]
-title = "Wellen Fjordfähre 2024"
-src = "images/Wellen_Fjordfahre_2024.jpg"
-[[images]]
-title = "Wikingerboot im Dorf 2024"
-src = "images/Wikingerboot_im_Dorf_2024.jpg"
-[[images]]
-title = "drei Wikinger Gudvangen 2024"
-src = "images/drei_Wikinger_Gudvangen_2024.jpg"
-[[images]]
-title = "Timo beim Axtwerfen 2024"
-src = "images/Timo_beim_Axtwerfen_2024.jpg"
-[[images]]
-title = "Wikingerhaus Gudvangen 2024"
-src = "images/Wikingerhaus_Gudvangen_2024.jpg"
-[[images]]
-title = "Regenbogen Undredal 2024"
-src = "images/Regenbogen_Undredal_2024.jpg"
-[[images]]
-title = "Apfelbäume in Undredal 2024"
-src = "images/Apfelbaume_in_Undredal_2024.jpg"
-[[images]]
-title = "Kreuzfahrer vor dem Fenster undredal 2024"
-src = "images/Kreuzfahrer_vor_dem_Fenster_undredal_2024.jpg"
-[[images]]
-title = "Küste am Fjord 2024"
-src = "images/Kuste_am_Fjord_2024.jpg"
-[[images]]
-title = "Ruderer am Fjord 2024"
-src = "images/Ruderer_am_Fjord_2024.jpg"
-[[images]]
-title = "Maria auf dem Fjord 2024"
-src = "images/Maria_auf_dem_Fjord_2024.jpg"
-[[images]]
-title = "Aurland Aussichtsplatform 2024"
-src = "images/Aurland_Aussichtsplatform_2024.jpg"
-[[images]]
-title = "Regenbogen über Flam 2024"
-src = "images/Regenbogen_uber_Flam_2024.jpg"
-[[images]]
-title = "Flam Ruderboot und Kreuzfahrer 2024"
-src = "images/Flam_Ruderboot_und_Kreuzfahrer_2024.jpg"
-[[images]]
-title = "Undredal Bergtour 2024"
-src = "images/Undredal_Bergtour_2024.jpg"
-[[images]]
-title = "Bergwandern Undredal 2024"
-src = "images/Bergwandern_Undredal_2024.jpg"
-[[images]]
-title = "Steuerleute an Land tragen 2024"
-src = "images/Steuerleute_an_Land_tragen_2024.jpg"
-[[images]]
-title = "Bergstrasse Norwegen 2024"
-src = "images/Bergstrasse_Norwegen_2024.jpg"
-[[images]]
-title = "Alstadt Laerdal 2024"
-src = "images/Alstadt_Laerdal_2024.jpg"
-[[images]]
-title = "Abendessen Laerdal 2024"
-src = "images/Abendessen_Laerdal_2024.jpg"
-[[images]]
-title = "Nirina auf dem Wanderweg 2024"
-src = "images/Nirina_auf_dem_Wanderweg_2024.jpg"
-[[images]]
-title = "Bachlauf unterhalb der Baumgrenze 2024"
-src = "images/Bachlauf_unterhalb_der_Baumgrenze_2024.jpg"
-[[images]]
-title = "Almboden oberhalb von Laerdal 2024"
-src = "images/Almboden_oberhalb_von_Laerdal_2024.jpg"
-[[images]]
-title = "Schafe auf der Alm 2024"
-src = "images/Schafe_auf_der_Alm_2024.jpg"
-[[images]]
-title = "oberhalb des Laerdal 2024"
-src = "images/oberhalb_des_Laerdal_2024.jpg"
-[[images]]
-title = "Berge über Laerdal 2024"
-src = "images/Berge_uber_Laerdal_2024.jpg"
-[[images]]
-title = "Ruderer auf 1170m am Thorstein 2024"
-src = "images/Ruderer_auf_1170m_am_Thorstein_2024.jpg"
-[[images]]
-title = "Nirina am Thorstein 2024"
-src = "images/Nirina_am_Thorstein_2024.jpg"
-[[images]]
-title = "Ruderboote im Laerdalsfjord 2024"
-src = "images/Ruderboote_im_Laerdalsfjord_2024.jpg"
-[[images]]
-title = "Fjord bei Sauwetter 2024"
-src = "images/Fjord_bei_Sauwetter_2024.jpg"
-[[images]]
-title = "Harte Wikinger auf dem Fjord 2024"
-src = "images/Harte_Wikinger_auf_dem_Fjord_2024.jpg"
-[[images]]
-title = "Inrigger auf dem Fjord 1 2024"
-src = "images/Inrigger_auf_dem_Fjord_1_2024.jpg"
-[[images]]
-title = "Ergiebige Regenfälle Ruderboot Fjord 2024"
-src = "images/Ergiebige_Regenfalle_Ruderboot_Fjord_2024.jpg"
-[[images]]
-title = "Weg zum Gletscher 2024"
-src = "images/Weg_zum_Gletscher_2024.jpg"
-[[images]]
-title = "auf dem Nigardsbreen 2024"
-src = "images/auf_dem_Nigardsbreen_2024.jpg"
-[[images]]
-title = "Am gletschertor 2024"
-src = "images/Am_gletschertor_2024.jpg"
-[[images]]
-title = "Inrigger auf dem Sognefjord 2024"
-src = "images/Inrigger_auf_dem_Sognefjord_2024.jpg"
-[[images]]
-title = "Paul im Regencape Fjord 2024"
-src = "images/Paul_im_Regencape_Fjord_2024.jpg"
-[[images]]
-title = "Timo zapft Gletscherwasser 2024"
-src = "images/Timo_zapft_Gletscherwasser_2024.jpg"
-[[images]]
-title = "Kuh im Gegenverkehr 2024"
-src = "images/Kuh_im_Gegenverkehr_2024.jpg"
-[[images]]
-title = "Schafe im Gegenverkehr 2024"
-src = "images/Schafe_im_Gegenverkehr_2024.jpg"
-[[images]]
-title = "Cocktailabend auf der Fjordline 2024"
-src = "images/Cocktailabend_auf_der_Fjordline_2024.jpg"
-[[images]]
-title = "Gutscheine gewonnen Fjordline 2024"
-src = "images/Gutscheine_gewonnen_Fjordline_2024.jpg"
-[[images]]
-title = "Kinder Cocktails Fjordline 2024"
-src = "images/Kinder_Cocktails_Fjordline_2024.jpg"
-[[images]]
-title = "Bestellung Cocktails 2024"
-src = "images/Bestellung_Cocktails_2024.jpg"
-[[images]]
-title = "Wasserfall auf dem Rückweg 2024"
-src = "images/Wasserfall_auf_dem_Ruckweg_2024.jpg"
-[[images]]
-title = "Anhänger auf dem PKW Deck Fjordline 2024"
-src = "images/Anhanger_auf_dem_PKW_Deck_Fjordline_2024.jpg"
-
-+++
+---
+author: ""
+begin: "2024-08-01"
+date: "2024-08-08T01:00:00+02:00"
+gewässer:
+- oder
+- sognefjord
+images:
+- src: images/Sognefjord_Landkarte.jpg
+  title: Sognefjord Landkarte
+- src: images/Tim_auf_der_Fjordline_Fahre_2024.jpg
+  title: Tim auf der Fjordline Fähre 2024
+- src: images/Fahre_am_Sognefjord_2024.jpg
+  title: Fähre am Sognefjord 2024
+- src: images/Aufriggern_am_Esefjorden_Balestrand_2024.jpg
+  title: Aufriggern am Esefjorden Balestrand 2024
+- src: images/Inrigger_vor_dem_Tjugatoten_2024.jpg
+  title: Inrigger vor dem Tjugatoten 2024
+- src: images/Wolly_in_Balestrand_2024.jpg
+  title: Wolly in Balestrand 2024
+- src: images/Blick_auf_Balestrand_vom_Ruderboot_aus_2024.jpg
+  title: Blick auf Balestrand vom Ruderboot aus 2024
+- src: images/Inrigger_auf_dem_Fjord_2024.jpg
+  title: Inrigger auf dem Fjord 2024
+- src: images/Ruderboote_auf_dem_Sognefjord_2024.jpg
+  title: Ruderboote auf dem Sognefjord 2024
+- src: images/Arnafjjord_Inrigger_2024.jpg
+  title: Arnafjjord Inrigger 2024
+- src: images/Historisches_Hotel_Balestrand_2024.jpg
+  title: Historisches Hotel Balestrand 2024
+- src: images/Inrigger_bei_Regenwetter_2024.jpg
+  title: Inrigger bei Regenwetter 2024
+- src: images/Fjordkulisse_mit_Inrigger_2024.jpg
+  title: Fjordkulisse mit Inrigger 2024
+- src: images/Gletscher_am_Fjarlandsfjord_2024.jpg
+  title: Gletscher am Fjarlandsfjord 2024
+- src: images/Baumgarten_Inrigger_auf_dem_Fjaerlandsfjord_2024.jpg
+  title: Baumgarten Inrigger auf dem Fjaerlandsfjord 2024
+- src: images/Baumgarten_Inrigger_am_Fjord_2024.jpg
+  title: Baumgarten Inrigger am Fjord 2024
+- src: images/Arnafjord_es_wird_ruppig_und_regnerisch_2024.jpg
+  title: Arnafjord es wird ruppig und regnerisch 2024
+- src: images/Im_Findenfjord_2024.jpg
+  title: Im Findenfjord 2024
+- src: images/Findenfjord_2024.jpg
+  title: Findenfjord 2024
+- src: images/Regenbogen_am_Esefjord_2024.jpg
+  title: Regenbogen am Esefjord 2024
+- src: images/Fjaerlandsfjord_bei_Sonne_2024.jpg
+  title: Fjaerlandsfjord bei Sonne 2024
+- src: images/Fjaerland_Gletscher_2024.jpg
+  title: Fjaerland Gletscher 2024
+- src: images/Doppelregenbogen_Ruderboote_2024.jpg
+  title: Doppelregenbogen Ruderboote 2024
+- src: images/Inrigger_am_Esefjorden_2024.jpg
+  title: Inrigger am Esefjorden 2024
+- src: images/Fake_Stabkirche_Balestrand_2024.jpg
+  title: Fake Stabkirche Balestrand 2024
+- src: images/Inrigger_in_den_Wolken_2024.jpg
+  title: Inrigger in den Wolken 2024
+- src: images/Abendessen_in_der_Hutte_Sognefjord_2024.jpg
+  title: Abendessen in der Hütte Sognefjord 2024
+- src: images/Fjaerlandsfjorden_2024.jpg
+  title: Fjaerlandsfjorden 2024
+- src: images/Baden_im_Esefjorden_2024.jpg
+  title: Baden im Esefjorden 2024
+- src: images/Hutten_Kaupanger_2024.jpg
+  title: Hütten Kaupanger 2024
+- src: images/Badestrand_bei_Sognedal_2024.jpg
+  title: Badestrand bei Sognedal 2024
+- src: images/Undredal_downtown_2024.jpg
+  title: Undredal downtown 2024
+- src: images/Ruderboot_Aurlandsfjord_2024.jpg
+  title: Ruderboot Aurlandsfjord 2024
+- src: images/Ruderwerkstatt_2024_fjord.jpg
+  title: Ruderwerkstatt 2024 fjord
+- src: images/Anlegen_Undredal_2024.jpg
+  title: Anlegen Undredal 2024
+- src: images/Undredal_Ruderboot_2024.jpg
+  title: Undredal Ruderboot 2024
+- src: images/Aurlandsfjord_Inrigger_2024.jpg
+  title: Aurlandsfjord Inrigger 2024
+- src: images/Gudvangen_Ruderboote_im_Regen_2024.jpg
+  title: Gudvangen Ruderboote im Regen 2024
+- src: images/Gudvangen_Ruderboote_vor_dem_Wikingerdorf_2024.jpg
+  title: Gudvangen Ruderboote vor dem Wikingerdorf 2024
+- src: images/Naeroyfjord_2024.jpg
+  title: Naeröyfjord 2024
+- src: images/Fjord_mit_Wasserfall_2024.jpg
+  title: Fjord mit Wasserfall 2024
+- src: images/Steilwand_im_Fjord_2024.jpg
+  title: Steilwand im Fjord 2024
+- src: images/Fjord_mal_mit_etwas_Sonne_2024.jpg
+  title: Fjord mal mit etwas Sonne 2024
+- src: images/Wellen_Fjordfahre_2024.jpg
+  title: Wellen Fjordfähre 2024
+- src: images/Wikingerboot_im_Dorf_2024.jpg
+  title: Wikingerboot im Dorf 2024
+- src: images/drei_Wikinger_Gudvangen_2024.jpg
+  title: drei Wikinger Gudvangen 2024
+- src: images/Timo_beim_Axtwerfen_2024.jpg
+  title: Timo beim Axtwerfen 2024
+- src: images/Wikingerhaus_Gudvangen_2024.jpg
+  title: Wikingerhaus Gudvangen 2024
+- src: images/Regenbogen_Undredal_2024.jpg
+  title: Regenbogen Undredal 2024
+- src: images/Apfelbaume_in_Undredal_2024.jpg
+  title: Apfelbäume in Undredal 2024
+- src: images/Kreuzfahrer_vor_dem_Fenster_undredal_2024.jpg
+  title: Kreuzfahrer vor dem Fenster undredal 2024
+- src: images/Kuste_am_Fjord_2024.jpg
+  title: Küste am Fjord 2024
+- src: images/Ruderer_am_Fjord_2024.jpg
+  title: Ruderer am Fjord 2024
+- src: images/Maria_auf_dem_Fjord_2024.jpg
+  title: Maria auf dem Fjord 2024
+- src: images/Aurland_Aussichtsplatform_2024.jpg
+  title: Aurland Aussichtsplatform 2024
+- src: images/Regenbogen_uber_Flam_2024.jpg
+  title: Regenbogen über Flam 2024
+- src: images/Flam_Ruderboot_und_Kreuzfahrer_2024.jpg
+  title: Flam Ruderboot und Kreuzfahrer 2024
+- src: images/Undredal_Bergtour_2024.jpg
+  title: Undredal Bergtour 2024
+- src: images/Bergwandern_Undredal_2024.jpg
+  title: Bergwandern Undredal 2024
+- src: images/Steuerleute_an_Land_tragen_2024.jpg
+  title: Steuerleute an Land tragen 2024
+- src: images/Bergstrasse_Norwegen_2024.jpg
+  title: Bergstrasse Norwegen 2024
+- src: images/Alstadt_Laerdal_2024.jpg
+  title: Alstadt Laerdal 2024
+- src: images/Abendessen_Laerdal_2024.jpg
+  title: Abendessen Laerdal 2024
+- src: images/Nirina_auf_dem_Wanderweg_2024.jpg
+  title: Nirina auf dem Wanderweg 2024
+- src: images/Bachlauf_unterhalb_der_Baumgrenze_2024.jpg
+  title: Bachlauf unterhalb der Baumgrenze 2024
+- src: images/Almboden_oberhalb_von_Laerdal_2024.jpg
+  title: Almboden oberhalb von Laerdal 2024
+- src: images/Schafe_auf_der_Alm_2024.jpg
+  title: Schafe auf der Alm 2024
+- src: images/oberhalb_des_Laerdal_2024.jpg
+  title: oberhalb des Laerdal 2024
+- src: images/Berge_uber_Laerdal_2024.jpg
+  title: Berge über Laerdal 2024
+- src: images/Ruderer_auf_1170m_am_Thorstein_2024.jpg
+  title: Ruderer auf 1170m am Thorstein 2024
+- src: images/Nirina_am_Thorstein_2024.jpg
+  title: Nirina am Thorstein 2024
+- src: images/Ruderboote_im_Laerdalsfjord_2024.jpg
+  title: Ruderboote im Laerdalsfjord 2024
+- src: images/Fjord_bei_Sauwetter_2024.jpg
+  title: Fjord bei Sauwetter 2024
+- src: images/Harte_Wikinger_auf_dem_Fjord_2024.jpg
+  title: Harte Wikinger auf dem Fjord 2024
+- src: images/Inrigger_auf_dem_Fjord_1_2024.jpg
+  title: Inrigger auf dem Fjord 1 2024
+- src: images/Ergiebige_Regenfalle_Ruderboot_Fjord_2024.jpg
+  title: Ergiebige Regenfälle Ruderboot Fjord 2024
+- src: images/Weg_zum_Gletscher_2024.jpg
+  title: Weg zum Gletscher 2024
+- src: images/auf_dem_Nigardsbreen_2024.jpg
+  title: auf dem Nigardsbreen 2024
+- src: images/Am_gletschertor_2024.jpg
+  title: Am gletschertor 2024
+- src: images/Inrigger_auf_dem_Sognefjord_2024.jpg
+  title: Inrigger auf dem Sognefjord 2024
+- src: images/Paul_im_Regencape_Fjord_2024.jpg
+  title: Paul im Regencape Fjord 2024
+- src: images/Timo_zapft_Gletscherwasser_2024.jpg
+  title: Timo zapft Gletscherwasser 2024
+- src: images/Kuh_im_Gegenverkehr_2024.jpg
+  title: Kuh im Gegenverkehr 2024
+- src: images/Schafe_im_Gegenverkehr_2024.jpg
+  title: Schafe im Gegenverkehr 2024
+- src: images/Cocktailabend_auf_der_Fjordline_2024.jpg
+  title: Cocktailabend auf der Fjordline 2024
+- src: images/Gutscheine_gewonnen_Fjordline_2024.jpg
+  title: Gutscheine gewonnen Fjordline 2024
+- src: images/Kinder_Cocktails_Fjordline_2024.jpg
+  title: Kinder Cocktails Fjordline 2024
+- src: images/Bestellung_Cocktails_2024.jpg
+  title: Bestellung Cocktails 2024
+- src: images/Wasserfall_auf_dem_Ruckweg_2024.jpg
+  title: Wasserfall auf dem Rückweg 2024
+- src: images/Anhanger_auf_dem_PKW_Deck_Fjordline_2024.jpg
+  title: Anhänger auf dem PKW Deck Fjordline 2024
+länder:
+- dänemark
+- norwegen
+title: Norwegen Sognefjord 2024
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

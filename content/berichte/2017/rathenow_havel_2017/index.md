@@ -1,19 +1,18 @@
-+++
-title = "Rathenow Havel 2017"
-author = ""
-date = 2017-01-01T01:00:00+02:00
-begin = "2017-01-01"
-"gewässer" = ["havel"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Sonntagsausflug Rathenow 2017"
-src = "images/Sonntagsausflug_Rathenow_2017.jpg"
-[[images]]
-title = "Havelschleuse bei Rathenow 2017"
-src = "images/Havelschleuse_bei_Rathenow_2017.jpg"
-
-+++
+---
+author: ""
+begin: "2017-01-01"
+date: "2017-01-01T01:00:00+02:00"
+gewässer:
+- havel
+images:
+- src: images/Sonntagsausflug_Rathenow_2017.jpg
+  title: Sonntagsausflug Rathenow 2017
+- src: images/Havelschleuse_bei_Rathenow_2017.jpg
+  title: Havelschleuse bei Rathenow 2017
+länder: []
+title: Rathenow Havel 2017
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,40 +1,37 @@
-+++
-title = "Spreewald 2016"
-author = ""
-date = 2016-10-10T01:00:00+02:00
-begin = "2016-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see", "bug"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Jacob auf dem Teltowkanal Freitag Abend Spreewald 2016"
-src = "images/Jacob_auf_dem_Teltowkanal_Freitag_Abend_Spreewald_2016.jpg"
-[[images]]
-title = "Ruderboote in Treptow Spreewald 2016"
-src = "images/Ruderboote_in_Treptow_Spreewald_2016.jpg"
-[[images]]
-title = "Ruderer Treptow am Steg Spreewald 2016"
-src = "images/Ruderer_Treptow_am_Steg_Spreewald_2016.jpg"
-[[images]]
-title = "Schleuse Neue Muehle voll mit Booten Spreewald 2016"
-src = "images/Schleuse_Neue_Muehle_voll_mit_Booten_Spreewald_2016.jpg"
-[[images]]
-title = "14517404_1167705313324027_1073598847450194243_n"
-src = "images/14517404_1167705313324027_1073598847450194243_n.jpg"
-[[images]]
-title = "14517454_1170642959696929_5101342630457126112_n"
-src = "images/14517454_1170642959696929_5101342630457126112_n.jpg"
-[[images]]
-title = "Material bergen Spreewald 2016"
-src = "images/Material_bergen_Spreewald_2016.jpg"
-[[images]]
-title = "Simone in Spreewaldschleuse 2016"
-src = "images/Simone_in_Spreewaldschleuse_2016.jpg"
-[[images]]
-title = "Hauptspree Spreewald 2016"
-src = "images/Hauptspree_Spreewald_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-10-01"
+date: "2016-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- köthener see
+- bug
+images:
+- src: images/Jacob_auf_dem_Teltowkanal_Freitag_Abend_Spreewald_2016.jpg
+  title: Jacob auf dem Teltowkanal Freitag Abend Spreewald 2016
+- src: images/Ruderboote_in_Treptow_Spreewald_2016.jpg
+  title: Ruderboote in Treptow Spreewald 2016
+- src: images/Ruderer_Treptow_am_Steg_Spreewald_2016.jpg
+  title: Ruderer Treptow am Steg Spreewald 2016
+- src: images/Schleuse_Neue_Muehle_voll_mit_Booten_Spreewald_2016.jpg
+  title: Schleuse Neue Muehle voll mit Booten Spreewald 2016
+- src: images/14517404_1167705313324027_1073598847450194243_n.jpg
+  title: 14517404_1167705313324027_1073598847450194243_n
+- src: images/14517454_1170642959696929_5101342630457126112_n.jpg
+  title: 14517454_1170642959696929_5101342630457126112_n
+- src: images/Material_bergen_Spreewald_2016.jpg
+  title: Material bergen Spreewald 2016
+- src: images/Simone_in_Spreewaldschleuse_2016.jpg
+  title: Simone in Spreewaldschleuse 2016
+- src: images/Hauptspree_Spreewald_2016.jpg
+  title: Hauptspree Spreewald 2016
+länder: []
+title: Spreewald 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

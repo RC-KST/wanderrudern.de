@@ -1,34 +1,29 @@
-+++
-title = "Decin Meissen 2011"
-author = ""
-date = 2011-01-01T01:00:00+02:00
-begin = "2011-01-01"
-"gewässer" = ["elbe", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Barke am Steg Decin Elbe 11"
-src = "images/Barke_am_Steg_Decin_Elbe_11.jpg"
-[[images]]
-title = "Barke Pirna Eleb 11"
-src = "images/Barke_Pirna_Eleb_11.jpg"
-[[images]]
-title = "RC KST Barke Pirna Elbe 11"
-src = "images/RC_KST_Barke_Pirna_Elbe_11.jpg"
-[[images]]
-title = "Kleinmachnower Barke Schloss Pillnitz Elbe 11"
-src = "images/Kleinmachnower_Barke_Schloss_Pillnitz_Elbe_11.jpg"
-[[images]]
-title = "Downtown Dresden Barkenfahrt Kleinmachnow Elbe 11"
-src = "images/Downtown_Dresden_Barkenfahrt_Kleinmachnow_Elbe_11.jpg"
-[[images]]
-title = "Barkendemontage in Meissen Elbe11"
-src = "images/Barkendemontage_in_Meissen_Elbe11.jpg"
-[[images]]
-title = "Der Schrauber an der Barke Elbe 11"
-src = "images/Der_Schrauber_an_der_Barke_Elbe_11.jpg"
-
-+++
+---
+author: ""
+begin: "2011-01-01"
+date: "2011-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- oder
+images:
+- src: images/Barke_am_Steg_Decin_Elbe_11.jpg
+  title: Barke am Steg Decin Elbe 11
+- src: images/Barke_Pirna_Eleb_11.jpg
+  title: Barke Pirna Eleb 11
+- src: images/RC_KST_Barke_Pirna_Elbe_11.jpg
+  title: RC KST Barke Pirna Elbe 11
+- src: images/Kleinmachnower_Barke_Schloss_Pillnitz_Elbe_11.jpg
+  title: Kleinmachnower Barke Schloss Pillnitz Elbe 11
+- src: images/Downtown_Dresden_Barkenfahrt_Kleinmachnow_Elbe_11.jpg
+  title: Downtown Dresden Barkenfahrt Kleinmachnow Elbe 11
+- src: images/Barkendemontage_in_Meissen_Elbe11.jpg
+  title: Barkendemontage in Meissen Elbe11
+- src: images/Der_Schrauber_an_der_Barke_Elbe_11.jpg
+  title: Der Schrauber an der Barke Elbe 11
+länder: []
+title: Decin Meissen 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

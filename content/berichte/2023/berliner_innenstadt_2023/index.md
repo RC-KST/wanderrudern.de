@@ -1,34 +1,31 @@
-+++
-title = "Berliner Innenstadt 2023"
-author = ""
-date = 2023-05-05T01:00:00+02:00
-begin = "2023-05-01"
-"gewässer" = ["inn", "havel", "spree", "teltowkanal"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Küchenteam 2023 Stadtdurchfahrt"
-src = "images/Kuchenteam_2023_Stadtdurchfahrt.jpg"
-[[images]]
-title = "Ruderboot vor der Siegessäule 2023"
-src = "images/Ruderboot_vor_der_Siegessaule_2023.jpg"
-[[images]]
-title = "Mühlendammschleuse 2023"
-src = "images/Muhlendammschleuse_2023.jpg"
-[[images]]
-title = "Ruderboote am Spreeufer Berliner Innenstadt 2023"
-src = "images/Ruderboote_am_Spreeufer_Berliner_Innenstadt_2023.jpg"
-[[images]]
-title = "Berliner Stadtschloss 2023 vom Ruderboot"
-src = "images/Berliner_Stadtschloss_2023_vom_Ruderboot.jpg"
-[[images]]
-title = "Reichstagsgebäude 2023 vom Ruderboot aus"
-src = "images/Reichstagsgebaude_2023_vom_Ruderboot_aus.jpg"
-[[images]]
-title = "Ruderboote bei Wiking Stadtdurchfahrt 2023"
-src = "images/Ruderboote_bei_Wiking_Stadtdurchfahrt_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-05-01"
+date: "2023-05-05T01:00:00+02:00"
+gewässer:
+- inn
+- havel
+- spree
+- teltowkanal
+images:
+- src: images/Kuchenteam_2023_Stadtdurchfahrt.jpg
+  title: Küchenteam 2023 Stadtdurchfahrt
+- src: images/Ruderboot_vor_der_Siegessaule_2023.jpg
+  title: Ruderboot vor der Siegessäule 2023
+- src: images/Muhlendammschleuse_2023.jpg
+  title: Mühlendammschleuse 2023
+- src: images/Ruderboote_am_Spreeufer_Berliner_Innenstadt_2023.jpg
+  title: Ruderboote am Spreeufer Berliner Innenstadt 2023
+- src: images/Berliner_Stadtschloss_2023_vom_Ruderboot.jpg
+  title: Berliner Stadtschloss 2023 vom Ruderboot
+- src: images/Reichstagsgebaude_2023_vom_Ruderboot_aus.jpg
+  title: Reichstagsgebäude 2023 vom Ruderboot aus
+- src: images/Ruderboote_bei_Wiking_Stadtdurchfahrt_2023.jpg
+  title: Ruderboote bei Wiking Stadtdurchfahrt 2023
+länder: []
+title: Berliner Innenstadt 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

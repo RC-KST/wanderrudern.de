@@ -1,61 +1,49 @@
-+++
-title = "Wesermarathon08"
-author = ""
-date = 2008-05-05T01:00:00+02:00
-begin = "2008-05-01"
-"gewässer" = ["weser", "fulda", "werra", "aller"]
-"länder" = []
-"typ" = "marathon"
-[[images]]
-title = "Aufriggern in Creuzburg WM08"
-src = "images/Aufriggern_in_Creuzburg_WM08.jpg"
-[[images]]
-title = "Creuzburg Alte Bruecke WM08"
-src = "images/Creuzburg_Alte_Bruecke_WM08.jpg"
-[[images]]
-title = "Obere Werra 2 WM08"
-src = "images/Obere_Werra_2_WM08.jpg"
-[[images]]
-title = "werra wehr WM08"
-src = "images/werra_wehr_WM08.jpg"
-[[images]]
-title = "umtragen an der Werra WM08"
-src = "images/umtragen_an_der_Werra_WM08.jpg"
-[[images]]
-title = "Ablegen unterhalb Wehr WM08"
-src = "images/Ablegen_unterhalb_Wehr_WM08.jpg"
-[[images]]
-title = "Ruderboot auf der Werra WM08"
-src = "images/Ruderboot_auf_der_Werra_WM08.jpg"
-[[images]]
-title = "Schleuse Eschwege WM0802"
-src = "images/Schleuse_Eschwege_WM0802.jpg"
-[[images]]
-title = "Pokalverleihung in Witzenhausen WM0802"
-src = "images/Pokalverleihung_in_Witzenhausen_WM0802.jpg"
-[[images]]
-title = "Ruderer in Witzenhausen WM08"
-src = "images/Ruderer_in_Witzenhausen_WM08.jpg"
-[[images]]
-title = "werralandrallye WM08"
-src = "images/werralandrallye_WM08.jpg"
-[[images]]
-title = "Ruderboote vor der Jugendherberge WM08"
-src = "images/Ruderboote_vor_der_Jugendherberge_WM08.jpg"
-[[images]]
-title = "Quartier im Heu  2 WM08"
-src = "images/Quartier_im_Heu__2_WM08.jpg"
-[[images]]
-title = "Start Wesermarathon 08"
-src = "images/Start_Wesermarathon_08.jpg"
-[[images]]
-title = "Wesermarathon 08 im Nebel"
-src = "images/Wesermarathon_08_im_Nebel.jpg"
-[[images]]
-title = "Starke Ruderer beim Wesermarathon 08"
-src = "images/Starke_Ruderer_beim_Wesermarathon_08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-05-01"
+date: "2008-05-05T01:00:00+02:00"
+gewässer:
+- weser
+- fulda
+- werra
+- aller
+images:
+- src: images/Aufriggern_in_Creuzburg_WM08.jpg
+  title: Aufriggern in Creuzburg WM08
+- src: images/Creuzburg_Alte_Bruecke_WM08.jpg
+  title: Creuzburg Alte Bruecke WM08
+- src: images/Obere_Werra_2_WM08.jpg
+  title: Obere Werra 2 WM08
+- src: images/werra_wehr_WM08.jpg
+  title: werra wehr WM08
+- src: images/umtragen_an_der_Werra_WM08.jpg
+  title: umtragen an der Werra WM08
+- src: images/Ablegen_unterhalb_Wehr_WM08.jpg
+  title: Ablegen unterhalb Wehr WM08
+- src: images/Ruderboot_auf_der_Werra_WM08.jpg
+  title: Ruderboot auf der Werra WM08
+- src: images/Schleuse_Eschwege_WM0802.jpg
+  title: Schleuse Eschwege WM0802
+- src: images/Pokalverleihung_in_Witzenhausen_WM0802.jpg
+  title: Pokalverleihung in Witzenhausen WM0802
+- src: images/Ruderer_in_Witzenhausen_WM08.jpg
+  title: Ruderer in Witzenhausen WM08
+- src: images/werralandrallye_WM08.jpg
+  title: werralandrallye WM08
+- src: images/Ruderboote_vor_der_Jugendherberge_WM08.jpg
+  title: Ruderboote vor der Jugendherberge WM08
+- src: images/Quartier_im_Heu__2_WM08.jpg
+  title: Quartier im Heu  2 WM08
+- src: images/Start_Wesermarathon_08.jpg
+  title: Start Wesermarathon 08
+- src: images/Wesermarathon_08_im_Nebel.jpg
+  title: Wesermarathon 08 im Nebel
+- src: images/Starke_Ruderer_beim_Wesermarathon_08.jpg
+  title: Starke Ruderer beim Wesermarathon 08
+länder: []
+title: Wesermarathon08
+typ: marathon
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

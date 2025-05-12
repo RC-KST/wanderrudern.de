@@ -1,37 +1,30 @@
-+++
-title = "Storkow 2019"
-author = ""
-date = 2019-09-09T01:00:00+02:00
-begin = "2019-09-01"
-"gewässer" = ["scharmützelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "vor der Storkower RV 2019"
-src = "images/vor_der_Storkower_RV_2019.jpg"
-[[images]]
-title = "Girlies an der Uferpromenade Bad Saarow 2019"
-src = "images/Girlies_an_der_Uferpromenade_Bad_Saarow_2019.jpg"
-[[images]]
-title = "Vierer vor dem Strandbad Bad Saarow 2019"
-src = "images/Vierer_vor_dem_Strandbad_Bad_Saarow_2019.jpg"
-[[images]]
-title = "Harte Kerle beim Baden Storkower See 2019"
-src = "images/Harte_Kerle_beim_Baden_Storkower_See_2019.jpg"
-[[images]]
-title = "Storkower See am Morgen 2019"
-src = "images/Storkower_See_am_Morgen_2019.jpg"
-[[images]]
-title = "Kindermannschaft Storkower See 2019"
-src = "images/Kindermannschaft_Storkower_See_2019.jpg"
-[[images]]
-title = "Cajus auf dem Scharmützelsee 2019"
-src = "images/Cajus_auf_dem_Scharmutzelsee_2019.jpg"
-[[images]]
-title = "Bad Saarow an der Uferpromenade 2019"
-src = "images/Bad_Saarow_an_der_Uferpromenade_2019.jpg"
-
-+++
+---
+author: ""
+begin: "2019-09-01"
+date: "2019-09-09T01:00:00+02:00"
+gewässer:
+- scharmützelsee
+images:
+- src: images/vor_der_Storkower_RV_2019.jpg
+  title: vor der Storkower RV 2019
+- src: images/Girlies_an_der_Uferpromenade_Bad_Saarow_2019.jpg
+  title: Girlies an der Uferpromenade Bad Saarow 2019
+- src: images/Vierer_vor_dem_Strandbad_Bad_Saarow_2019.jpg
+  title: Vierer vor dem Strandbad Bad Saarow 2019
+- src: images/Harte_Kerle_beim_Baden_Storkower_See_2019.jpg
+  title: Harte Kerle beim Baden Storkower See 2019
+- src: images/Storkower_See_am_Morgen_2019.jpg
+  title: Storkower See am Morgen 2019
+- src: images/Kindermannschaft_Storkower_See_2019.jpg
+  title: Kindermannschaft Storkower See 2019
+- src: images/Cajus_auf_dem_Scharmutzelsee_2019.jpg
+  title: Cajus auf dem Scharmützelsee 2019
+- src: images/Bad_Saarow_an_der_Uferpromenade_2019.jpg
+  title: Bad Saarow an der Uferpromenade 2019
+länder: []
+title: Storkow 2019
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

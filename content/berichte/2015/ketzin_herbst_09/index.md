@@ -1,25 +1,21 @@
-+++
-title = "Ketzin Herbst 09"
-author = ""
-date = 2015-03-03T01:00:00+02:00
-begin = "2015-03-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Maedchenzweier KH09"
-src = "images/Maedchenzweier_KH09.jpg"
-[[images]]
-title = "Ketzin im Dunkeln KH09"
-src = "images/Ketzin_im_Dunkeln_KH09.jpg"
-[[images]]
-title = "Ketzin am Steg KH09"
-src = "images/Ketzin_am_Steg_KH09.jpg"
-[[images]]
-title = "AH Zweier KH09"
-src = "images/AH_Zweier_KH09.jpg"
-
-+++
+---
+author: ""
+begin: "2015-03-01"
+date: "2015-03-03T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Maedchenzweier_KH09.jpg
+  title: Maedchenzweier KH09
+- src: images/Ketzin_im_Dunkeln_KH09.jpg
+  title: Ketzin im Dunkeln KH09
+- src: images/Ketzin_am_Steg_KH09.jpg
+  title: Ketzin am Steg KH09
+- src: images/AH_Zweier_KH09.jpg
+  title: AH Zweier KH09
+länder: []
+title: Ketzin Herbst 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

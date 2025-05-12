@@ -1,22 +1,21 @@
-+++
-title = "Ketzin März 09"
-author = ""
-date = 2009-03-03T01:00:00+02:00
-begin = "2009-03-01"
-"gewässer" = ["havel", "trebelsee"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ketzin Schlafraum K09"
-src = "images/Ketzin_Schlafraum_K09.jpg"
-[[images]]
-title = "Maedchen Ruderboot auf dem Weg nach Ketzin 09"
-src = "images/Maedchen_Ruderboot_auf_dem_Weg_nach_Ketzin_09.jpg"
-[[images]]
-title = "Kinder Ruderboot Sacrow Paretzer Kanal K09"
-src = "images/Kinder_Ruderboot_Sacrow_Paretzer_Kanal_K09.jpg"
-
-+++
+---
+author: ""
+begin: "2009-03-01"
+date: "2009-03-03T01:00:00+02:00"
+gewässer:
+- havel
+- trebelsee
+images:
+- src: images/Ketzin_Schlafraum_K09.jpg
+  title: Ketzin Schlafraum K09
+- src: images/Maedchen_Ruderboot_auf_dem_Weg_nach_Ketzin_09.jpg
+  title: Maedchen Ruderboot auf dem Weg nach Ketzin 09
+- src: images/Kinder_Ruderboot_Sacrow_Paretzer_Kanal_K09.jpg
+  title: Kinder Ruderboot Sacrow Paretzer Kanal K09
+länder: []
+title: Ketzin März 09
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

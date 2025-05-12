@@ -1,28 +1,26 @@
-+++
-title = "Stahnsdorf - Havelberg Pfingsten 2010"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = ["elbe", "havel", "plauer see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Vierer in Brandenburg Havel10"
-src = "images/Vierer_in_Brandenburg_Havel10.jpg"
-[[images]]
-title = "Maenner-Vierer auf dem Plauer See Havel10"
-src = "images/Maenner-Vierer_auf_dem_Plauer_See_Havel10.jpg"
-[[images]]
-title = "Frauen-Vierer auf der Havel10"
-src = "images/Frauen-Vierer_auf_der_Havel10.jpg"
-[[images]]
-title = "kurz vor Plaue Havel10"
-src = "images/kurz_vor_Plaue_Havel10.jpg"
-[[images]]
-title = "Steuermann auf der Havel 10"
-src = "images/Steuermann_auf_der_Havel_10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+images:
+- src: images/Vierer_in_Brandenburg_Havel10.jpg
+  title: Vierer in Brandenburg Havel10
+- src: images/Maenner-Vierer_auf_dem_Plauer_See_Havel10.jpg
+  title: Maenner-Vierer auf dem Plauer See Havel10
+- src: images/Frauen-Vierer_auf_der_Havel10.jpg
+  title: Frauen-Vierer auf der Havel10
+- src: images/kurz_vor_Plaue_Havel10.jpg
+  title: kurz vor Plaue Havel10
+- src: images/Steuermann_auf_der_Havel_10.jpg
+  title: Steuermann auf der Havel 10
+länder: []
+title: Stahnsdorf - Havelberg Pfingsten 2010
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,40 +1,35 @@
-+++
-title = "Stahnsdorf - Wittenberge 2014"
-author = ""
-date = 2014-05-05T01:00:00+02:00
-begin = "2014-05-01"
-"gewässer" = ["elbe", "havel", "plauer see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Kindervierer Havel nach Brandenburg 2014"
-src = "images/Kindervierer_Havel_nach_Brandenburg_2014.jpg"
-[[images]]
-title = "Erwachsenen-Vierer auf dem Trebelsee 2014"
-src = "images/Erwachsenen-Vierer_auf_dem_Trebelsee_2014.jpg"
-[[images]]
-title = "Anlegen beim Restaurant Malabar in Brandenburg 2014"
-src = "images/Anlegen_beim_Restaurant_Malabar_in_Brandenburg_2014.jpg"
-[[images]]
-title = "Sporbootschleuse Brandenburg 2014 Ruderboote"
-src = "images/Sporbootschleuse_Brandenburg_2014_Ruderboote.jpg"
-[[images]]
-title = "Badende Ruderer am Steg Plaue 2014"
-src = "images/Badende_Ruderer_am_Steg_Plaue_2014.jpg"
-[[images]]
-title = "Boot leer schoepfen Plaue 2014"
-src = "images/Boot_leer_schoepfen_Plaue_2014.jpg"
-[[images]]
-title = "Schleuse Rathenow 2014"
-src = "images/Schleuse_Rathenow_2014.jpg"
-[[images]]
-title = "Havelberger Dom vom Ruderboot aus 2014"
-src = "images/Havelberger_Dom_vom_Ruderboot_aus_20141.jpg"
-[[images]]
-title = "mal wieder eine steuerreparatur havelberg 2014"
-src = "images/mal_wieder_eine_steuerreparatur_havelberg_2014.jpg"
-
-+++
+---
+author: ""
+begin: "2014-05-01"
+date: "2014-05-05T01:00:00+02:00"
+gewässer:
+- elbe
+- havel
+- plauer see
+- oder
+images:
+- src: images/Kindervierer_Havel_nach_Brandenburg_2014.jpg
+  title: Kindervierer Havel nach Brandenburg 2014
+- src: images/Erwachsenen-Vierer_auf_dem_Trebelsee_2014.jpg
+  title: Erwachsenen-Vierer auf dem Trebelsee 2014
+- src: images/Anlegen_beim_Restaurant_Malabar_in_Brandenburg_2014.jpg
+  title: Anlegen beim Restaurant Malabar in Brandenburg 2014
+- src: images/Sporbootschleuse_Brandenburg_2014_Ruderboote.jpg
+  title: Sporbootschleuse Brandenburg 2014 Ruderboote
+- src: images/Badende_Ruderer_am_Steg_Plaue_2014.jpg
+  title: Badende Ruderer am Steg Plaue 2014
+- src: images/Boot_leer_schoepfen_Plaue_2014.jpg
+  title: Boot leer schoepfen Plaue 2014
+- src: images/Schleuse_Rathenow_2014.jpg
+  title: Schleuse Rathenow 2014
+- src: images/Havelberger_Dom_vom_Ruderboot_aus_20141.jpg
+  title: Havelberger Dom vom Ruderboot aus 2014
+- src: images/mal_wieder_eine_steuerreparatur_havelberg_2014.jpg
+  title: mal wieder eine steuerreparatur havelberg 2014
+länder: []
+title: Stahnsdorf - Wittenberge 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

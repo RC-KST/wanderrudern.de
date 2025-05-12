@@ -1,22 +1,19 @@
-+++
-title = "Baumbluete Werder 2013"
-author = ""
-date = 2013-05-05T01:00:00+02:00
-begin = "2013-05-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Rummel in Werder 2013"
-src = "images/Rummel_in_Werder_2013.jpg"
-[[images]]
-title = "Jonathan auf dem Wentorfgraben 2013"
-src = "images/Jonathan_auf_dem_Wentorfgraben_2013.jpg"
-[[images]]
-title = "Ruderer in Werder baumbluetenfest 2013"
-src = "images/Ruderer_in_Werder_baumbluetenfest_2013.jpg"
-
-+++
+---
+author: ""
+begin: "2013-05-01"
+date: "2013-05-05T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Rummel_in_Werder_2013.jpg
+  title: Rummel in Werder 2013
+- src: images/Jonathan_auf_dem_Wentorfgraben_2013.jpg
+  title: Jonathan auf dem Wentorfgraben 2013
+- src: images/Ruderer_in_Werder_baumbluetenfest_2013.jpg
+  title: Ruderer in Werder baumbluetenfest 2013
+länder: []
+title: Baumbluete Werder 2013
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,22 +1,22 @@
-+++
-title = "Abrudern Berlin Schmöckwitz 08"
-author = ""
-date = 2008-01-01T01:00:00+02:00
-begin = "2008-01-01"
-"gewässer" = ["spree", "teltowkanal", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "abrudern 08 machnower Schleuse"
-src = "images/abrudern_08_machnower_Schleuse.jpg"
-[[images]]
-title = "Schmoeckwitz vor dem Bierwagen S08"
-src = "images/Schmoeckwitz_vor_dem_Bierwagen_S08.jpg"
-[[images]]
-title = "Schmoeckwitz Abrudern am Steg 08"
-src = "images/Schmoeckwitz_Abrudern_am_Steg_08.jpg"
-
-+++
+---
+author: ""
+begin: "2008-01-01"
+date: "2008-01-01T01:00:00+02:00"
+gewässer:
+- spree
+- teltowkanal
+- oder
+images:
+- src: images/abrudern_08_machnower_Schleuse.jpg
+  title: abrudern 08 machnower Schleuse
+- src: images/Schmoeckwitz_vor_dem_Bierwagen_S08.jpg
+  title: Schmoeckwitz vor dem Bierwagen S08
+- src: images/Schmoeckwitz_Abrudern_am_Steg_08.jpg
+  title: Schmoeckwitz Abrudern am Steg 08
+länder: []
+title: Abrudern Berlin Schmöckwitz 08
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

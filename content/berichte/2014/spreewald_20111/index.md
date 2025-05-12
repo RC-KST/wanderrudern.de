@@ -1,67 +1,55 @@
-+++
-title = "Spreewald 2014"
-author = ""
-date = 2014-10-10T01:00:00+02:00
-begin = "2014-10-01"
-"gewässer" = ["dahme", "spree", "teltowkanal", "spreewald", "köthener see", "oder"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Ruderboote vor Spreewaldschleuse 11"
-src = "images/Ruderboote_vor_Spreewaldschleuse_11.jpg"
-[[images]]
-title = "Kinder an der Spreewaldschleuse 11"
-src = "images/Kinder_an_der_Spreewaldschleuse_11.jpg"
-[[images]]
-title = "Ruderboot in Spreewaldschleuse 11"
-src = "images/Ruderboot_in_Spreewaldschleuse_11.jpg"
-[[images]]
-title = "Ruderboote auf Warteposition Teltowkanal Spreewald 11"
-src = "images/Ruderboote_auf_Warteposition_Teltowkanal_Spreewald_11.jpg"
-[[images]]
-title = "Mueggelsee im Nebel Spreewald 11"
-src = "images/Mueggelsee_im_Nebel_Spreewald_11.jpg"
-[[images]]
-title = "Marlies Joerg Marlene Spreewald 11"
-src = "images/Marlies_Joerg_Marlene_Spreewald_11.jpg"
-[[images]]
-title = "Schleuse Prieros Ruderboote Spreewald 11"
-src = "images/Schleuse_Prieros_Ruderboote_Spreewald_11.jpg"
-[[images]]
-title = "Blondie im Spreewald 11"
-src = "images/Blondie_im_Spreewald_11.jpg"
-[[images]]
-title = "Buergerfliess Zweier Spreewald 11"
-src = "images/Buergerfliess_Zweier_Spreewald_11.jpg"
-[[images]]
-title = "Flotte des RC KST Spreewald 11-1"
-src = "images/Flotte_des_RC_KST_Spreewald_11-1.jpg"
-[[images]]
-title = "Kindervierer in Schmöckwitz Spreewald 11"
-src = "images/Kindervierer_in_Schmockwitz_Spreewald_11.jpg"
-[[images]]
-title = "Schleuse Neue Muehle Spreewald 11"
-src = "images/Schleuse_Neue_Muehle_Spreewald_11.jpg"
-[[images]]
-title = "Dolgensee Warten auf die Boote Spreewald 11"
-src = "images/Dolgensee_Warten_auf_die_Boote_Spreewald_11.jpg"
-[[images]]
-title = "Ruderboote auf dem Dolgensee Spreewald 11"
-src = "images/Ruderboote_auf_dem_Dolgensee_Spreewald_11.jpg"
-[[images]]
-title = "Ruderboote auf dem Puhlstrom Spreewald 11"
-src = "images/Ruderboote_auf_dem_Puhlstrom_Spreewald_11.jpg"
-[[images]]
-title = "Wildwasser in der Schleuse Spreewald 11"
-src = "images/Wildwasser_in_der_Schleuse_Spreewald_11.jpg"
-[[images]]
-title = "Nirina im Spreewald 11"
-src = "images/Nirina_im_Spreewald_11.jpg"
-[[images]]
-title = "Spreewaldschleuse 11"
-src = "images/Spreewaldschleuse_11.jpg"
-
-+++
+---
+author: ""
+begin: "2014-10-01"
+date: "2014-10-10T01:00:00+02:00"
+gewässer:
+- dahme
+- spree
+- teltowkanal
+- spreewald
+- köthener see
+- oder
+images:
+- src: images/Ruderboote_vor_Spreewaldschleuse_11.jpg
+  title: Ruderboote vor Spreewaldschleuse 11
+- src: images/Kinder_an_der_Spreewaldschleuse_11.jpg
+  title: Kinder an der Spreewaldschleuse 11
+- src: images/Ruderboot_in_Spreewaldschleuse_11.jpg
+  title: Ruderboot in Spreewaldschleuse 11
+- src: images/Ruderboote_auf_Warteposition_Teltowkanal_Spreewald_11.jpg
+  title: Ruderboote auf Warteposition Teltowkanal Spreewald 11
+- src: images/Mueggelsee_im_Nebel_Spreewald_11.jpg
+  title: Mueggelsee im Nebel Spreewald 11
+- src: images/Marlies_Joerg_Marlene_Spreewald_11.jpg
+  title: Marlies Joerg Marlene Spreewald 11
+- src: images/Schleuse_Prieros_Ruderboote_Spreewald_11.jpg
+  title: Schleuse Prieros Ruderboote Spreewald 11
+- src: images/Blondie_im_Spreewald_11.jpg
+  title: Blondie im Spreewald 11
+- src: images/Buergerfliess_Zweier_Spreewald_11.jpg
+  title: Buergerfliess Zweier Spreewald 11
+- src: images/Flotte_des_RC_KST_Spreewald_11-1.jpg
+  title: Flotte des RC KST Spreewald 11-1
+- src: images/Kindervierer_in_Schmockwitz_Spreewald_11.jpg
+  title: Kindervierer in Schmöckwitz Spreewald 11
+- src: images/Schleuse_Neue_Muehle_Spreewald_11.jpg
+  title: Schleuse Neue Muehle Spreewald 11
+- src: images/Dolgensee_Warten_auf_die_Boote_Spreewald_11.jpg
+  title: Dolgensee Warten auf die Boote Spreewald 11
+- src: images/Ruderboote_auf_dem_Dolgensee_Spreewald_11.jpg
+  title: Ruderboote auf dem Dolgensee Spreewald 11
+- src: images/Ruderboote_auf_dem_Puhlstrom_Spreewald_11.jpg
+  title: Ruderboote auf dem Puhlstrom Spreewald 11
+- src: images/Wildwasser_in_der_Schleuse_Spreewald_11.jpg
+  title: Wildwasser in der Schleuse Spreewald 11
+- src: images/Nirina_im_Spreewald_11.jpg
+  title: Nirina im Spreewald 11
+- src: images/Spreewaldschleuse_11.jpg
+  title: Spreewaldschleuse 11
+länder: []
+title: Spreewald 2014
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

@@ -1,28 +1,23 @@
-+++
-title = "Festumzug Teltow 2015"
-author = ""
-date = 2015-01-01T01:00:00+02:00
-begin = "2015-01-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Festumzug Teltow 2015 Bauchtanzgruppe"
-src = "images/Festumzug_Teltow_2015_Bauchtanzgruppe.jpg"
-[[images]]
-title = "Festumzug Teltow 2015 Bootsanhaenger"
-src = "images/Festumzug_Teltow_2015_Bootsanhaenger.jpg"
-[[images]]
-title = "Festumzug Teltow 2015 Trekker"
-src = "images/Festumzug_Teltow_2015_Trekker.jpg"
-[[images]]
-title = "Messeflagge Festumzug Teltow 2015"
-src = "images/Messeflagge_Festumzug_Teltow_2015.jpg"
-[[images]]
-title = "Festumzug Teltow 2015 Gondoliere Ruderclub"
-src = "images/Festumzug_Teltow_2015_Gondoliere_Ruderclub.jpg"
-
-+++
+---
+author: ""
+begin: "2015-01-01"
+date: "2015-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Festumzug_Teltow_2015_Bauchtanzgruppe.jpg
+  title: Festumzug Teltow 2015 Bauchtanzgruppe
+- src: images/Festumzug_Teltow_2015_Bootsanhaenger.jpg
+  title: Festumzug Teltow 2015 Bootsanhaenger
+- src: images/Festumzug_Teltow_2015_Trekker.jpg
+  title: Festumzug Teltow 2015 Trekker
+- src: images/Messeflagge_Festumzug_Teltow_2015.jpg
+  title: Messeflagge Festumzug Teltow 2015
+- src: images/Festumzug_Teltow_2015_Gondoliere_Ruderclub.jpg
+  title: Festumzug Teltow 2015 Gondoliere Ruderclub
+länder: []
+title: Festumzug Teltow 2015
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

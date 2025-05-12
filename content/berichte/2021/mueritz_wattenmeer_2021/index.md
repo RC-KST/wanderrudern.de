@@ -1,118 +1,93 @@
-+++
-title = "Spreewald Wattenmeer 2021"
-author = ""
-date = 2021-01-01T01:00:00+02:00
-begin = "2021-01-01"
-"gewässer" = ["aller", "elbe", "spree", "oste", "müritz", "plauer see", "mecklenburger seenplatte", "spreewald"]
-"länder" = ["deutschland", "finnland"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Girlies vor der Hubbruecke Plaue 2021"
-src = "images/Girlies_vor_der_Hubbruecke_Plaue_2021.jpg"
-[[images]]
-title = "Biwakplatz an der Elde 2021"
-src = "images/Biwakplatz_an_der_Elde_2021.jpg"
-[[images]]
-title = "Grabow vom Wasser aus 2021"
-src = "images/Grabow_vom_Wasser_aus_2021.jpg"
-[[images]]
-title = "Bootshaus Wikinger Hamburg 2021"
-src = "images/Bootshaus_Wikinger_Hamburg_2021.jpg"
-[[images]]
-title = "Raddampfer im Hamburger Hafen 2021"
-src = "images/Raddampfer_im_Hamburger_Hafen_2021.jpg"
-[[images]]
-title = "Hamburger Schleuse mit Rundfahrer 2021"
-src = "images/Hamburger_Schleuse_mit_Rundfahrer_2021.jpg"
-[[images]]
-title = "Hamburger und Germania Ruderclub 2021"
-src = "images/Hamburger_und_Germania_Ruderclub_2021.jpg"
-[[images]]
-title = "400m langer Gegenverkehr Hamburg 2021"
-src = "images/400m_langer_Gegenverkehr_Hamburg_2021.jpg"
-[[images]]
-title = "Girlies auf der Buhne vor Glueckstadt 2021"
-src = "images/Girlies_auf_der_Buhne_vor_Glueckstadt_2021.jpg"
-[[images]]
-title = "Schlickufer Ruderboote an der Stoer 2021"
-src = "images/Schlickufer_Ruderboote_an_der_Stoer_2021.jpg"
-[[images]]
-title = "voll beladene Boote auf der Elde 2021"
-src = "images/voll_beladene_Boote_auf_der_Elde_2021.jpg"
-[[images]]
-title = "Ruderboote aussetzen an der Elde 2021"
-src = "images/Ruderboote_aussetzen_an_der_Elde_2021.jpg"
-[[images]]
-title = "Elde kurz vor dem Ende 2021"
-src = "images/Elde_kurz_vor_dem_Ende_2021.jpg"
-[[images]]
-title = "Melina Cajus Akrobatische Uebungen 2021"
-src = "images/Melina_Cajus_Akrobatische_Uebungen_2021.jpg"
-[[images]]
-title = "Blondinen mit dem Topf 2021"
-src = "images/Blondinen_mit_dem_Topf_2021.jpg"
-[[images]]
-title = "Schleuse Geesthacht 2021"
-src = "images/Schleuse_Geesthacht_2021.jpg"
-[[images]]
-title = "Ruderboot vor Lauenburg 2021"
-src = "images/Ruderboot_vor_Lauenburg_2021.jpg"
-[[images]]
-title = "Melina Festung Doemitz 2021"
-src = "images/Melina_Festung_Doemitz_2021.jpg"
-[[images]]
-title = "Ruder Touristen in Hamburg 2021"
-src = "images/Ruder_Touristen_in_Hamburg_2021.jpg"
-[[images]]
-title = "Ruderboot vor der Elbphilharmonie 2021"
-src = "images/Ruderboot_vor_der_Elbphilharmonie_2021.jpg"
-[[images]]
-title = "Ruderboot in der Speicherstadt Hamburg 2021"
-src = "images/Ruderboot_in_der_Speicherstadt_Hamburg_2021.jpg"
-[[images]]
-title = "Speicherstadt Hamburg 2021"
-src = "images/Speicherstadt_Hamburg_2021.jpg"
-[[images]]
-title = "Nicolaifleet Hamburg 2021"
-src = "images/Nicolaifleet_Hamburg_2021.jpg"
-[[images]]
-title = "Downtown Hamburg 2021"
-src = "images/Downtown_Hamburg_2021.jpg"
-[[images]]
-title = "Hamburger Rathaus 2021"
-src = "images/Hamburger_Rathaus_2021.jpg"
-[[images]]
-title = "Binnenalster Hamburg 2021"
-src = "images/Binnenalster_Hamburg_2021.jpg"
-[[images]]
-title = "Wohlstandteich in Hamburg 2021"
-src = "images/Wohlstandteich_in_Hamburg_2021.jpg"
-[[images]]
-title = "Hamburger Hafenrundfahrt mit dem Ruderboot 2021"
-src = "images/Hamburger_Hafenrundfahrt_mit_dem_Ruderboot_2021.jpg"
-[[images]]
-title = "Ruderboote vor der Hamburger Baustelle 2021"
-src = "images/Ruderboote_vor_der_Hamburger_Baustelle_2021.jpg"
-[[images]]
-title = "Unterlebe ruppiges Wasser 2021"
-src = "images/Unterlebe_ruppiges_Wasser_2021.jpg"
-[[images]]
-title = "E-Boot vor dem Containerfrachter 2021"
-src = "images/E-Boot_vor_dem_Containerfrachter_2021.jpg"
-[[images]]
-title = "Ebbe an der ELbe 2021"
-src = "images/Ebbe_an_der_ELbe_2021.jpg"
-[[images]]
-title = "Johanna im Boot die Frisur sitzt 2021"
-src = "images/Johanna_im_Boot_die_Frisur_sitzt_2021.jpg"
-[[images]]
-title = "Rudererabendessen in Glückstadt 2021"
-src = "images/Rudererabendessen_in_Gluckstadt_2021.jpg"
-[[images]]
-title = "Stoer Hochwassersperrwerk 2021"
-src = "images/Stoer_Hochwassersperrwerk_2021.jpg"
-
-+++
+---
+author: ""
+begin: "2021-01-01"
+date: "2021-01-01T01:00:00+02:00"
+gewässer:
+- aller
+- elbe
+- spree
+- oste
+- müritz
+- plauer see
+- mecklenburger seenplatte
+- spreewald
+images:
+- src: images/Girlies_vor_der_Hubbruecke_Plaue_2021.jpg
+  title: Girlies vor der Hubbruecke Plaue 2021
+- src: images/Biwakplatz_an_der_Elde_2021.jpg
+  title: Biwakplatz an der Elde 2021
+- src: images/Grabow_vom_Wasser_aus_2021.jpg
+  title: Grabow vom Wasser aus 2021
+- src: images/Bootshaus_Wikinger_Hamburg_2021.jpg
+  title: Bootshaus Wikinger Hamburg 2021
+- src: images/Raddampfer_im_Hamburger_Hafen_2021.jpg
+  title: Raddampfer im Hamburger Hafen 2021
+- src: images/Hamburger_Schleuse_mit_Rundfahrer_2021.jpg
+  title: Hamburger Schleuse mit Rundfahrer 2021
+- src: images/Hamburger_und_Germania_Ruderclub_2021.jpg
+  title: Hamburger und Germania Ruderclub 2021
+- src: images/400m_langer_Gegenverkehr_Hamburg_2021.jpg
+  title: 400m langer Gegenverkehr Hamburg 2021
+- src: images/Girlies_auf_der_Buhne_vor_Glueckstadt_2021.jpg
+  title: Girlies auf der Buhne vor Glueckstadt 2021
+- src: images/Schlickufer_Ruderboote_an_der_Stoer_2021.jpg
+  title: Schlickufer Ruderboote an der Stoer 2021
+- src: images/voll_beladene_Boote_auf_der_Elde_2021.jpg
+  title: voll beladene Boote auf der Elde 2021
+- src: images/Ruderboote_aussetzen_an_der_Elde_2021.jpg
+  title: Ruderboote aussetzen an der Elde 2021
+- src: images/Elde_kurz_vor_dem_Ende_2021.jpg
+  title: Elde kurz vor dem Ende 2021
+- src: images/Melina_Cajus_Akrobatische_Uebungen_2021.jpg
+  title: Melina Cajus Akrobatische Uebungen 2021
+- src: images/Blondinen_mit_dem_Topf_2021.jpg
+  title: Blondinen mit dem Topf 2021
+- src: images/Schleuse_Geesthacht_2021.jpg
+  title: Schleuse Geesthacht 2021
+- src: images/Ruderboot_vor_Lauenburg_2021.jpg
+  title: Ruderboot vor Lauenburg 2021
+- src: images/Melina_Festung_Doemitz_2021.jpg
+  title: Melina Festung Doemitz 2021
+- src: images/Ruder_Touristen_in_Hamburg_2021.jpg
+  title: Ruder Touristen in Hamburg 2021
+- src: images/Ruderboot_vor_der_Elbphilharmonie_2021.jpg
+  title: Ruderboot vor der Elbphilharmonie 2021
+- src: images/Ruderboot_in_der_Speicherstadt_Hamburg_2021.jpg
+  title: Ruderboot in der Speicherstadt Hamburg 2021
+- src: images/Speicherstadt_Hamburg_2021.jpg
+  title: Speicherstadt Hamburg 2021
+- src: images/Nicolaifleet_Hamburg_2021.jpg
+  title: Nicolaifleet Hamburg 2021
+- src: images/Downtown_Hamburg_2021.jpg
+  title: Downtown Hamburg 2021
+- src: images/Hamburger_Rathaus_2021.jpg
+  title: Hamburger Rathaus 2021
+- src: images/Binnenalster_Hamburg_2021.jpg
+  title: Binnenalster Hamburg 2021
+- src: images/Wohlstandteich_in_Hamburg_2021.jpg
+  title: Wohlstandteich in Hamburg 2021
+- src: images/Hamburger_Hafenrundfahrt_mit_dem_Ruderboot_2021.jpg
+  title: Hamburger Hafenrundfahrt mit dem Ruderboot 2021
+- src: images/Ruderboote_vor_der_Hamburger_Baustelle_2021.jpg
+  title: Ruderboote vor der Hamburger Baustelle 2021
+- src: images/Unterlebe_ruppiges_Wasser_2021.jpg
+  title: Unterlebe ruppiges Wasser 2021
+- src: images/E-Boot_vor_dem_Containerfrachter_2021.jpg
+  title: E-Boot vor dem Containerfrachter 2021
+- src: images/Ebbe_an_der_ELbe_2021.jpg
+  title: Ebbe an der ELbe 2021
+- src: images/Johanna_im_Boot_die_Frisur_sitzt_2021.jpg
+  title: Johanna im Boot die Frisur sitzt 2021
+- src: images/Rudererabendessen_in_Gluckstadt_2021.jpg
+  title: Rudererabendessen in Glückstadt 2021
+- src: images/Stoer_Hochwassersperrwerk_2021.jpg
+  title: Stoer Hochwassersperrwerk 2021
+länder:
+- deutschland
+- finnland
+title: Spreewald Wattenmeer 2021
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

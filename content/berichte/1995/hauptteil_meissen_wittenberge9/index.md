@@ -1,25 +1,22 @@
-+++
-title = "Meissen_Wittenberg95"
-author = ""
-date = 1995-01-01T01:00:00+02:00
-begin = "1995-01-01"
-"gewässer" = ["elbe"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Bobby in Meissen Start des Ruderns"
-src = "images/bobby_mei_en.jpg"
-[[images]]
-title = "torgau Ruderzweier Tom und Bobby"
-src = "images/torgau.jpg"
-[[images]]
-title = "tom_bobby Kinderspielplatz"
-src = "images/tom_bobby.jpg"
-[[images]]
-title = "elbe bobby Miitellandkanalbrücke"
-src = "images/elbee_bobby.jpg"
-
-+++
+---
+author: ""
+begin: "1995-01-01"
+date: "1995-01-01T01:00:00+02:00"
+gewässer:
+- elbe
+images:
+- src: images/bobby_mei_en.jpg
+  title: Bobby in Meissen Start des Ruderns
+- src: images/torgau.jpg
+  title: torgau Ruderzweier Tom und Bobby
+- src: images/tom_bobby.jpg
+  title: tom_bobby Kinderspielplatz
+- src: images/elbee_bobby.jpg
+  title: elbe bobby Miitellandkanalbrücke
+länder: []
+title: Meissen_Wittenberg95
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

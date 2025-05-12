@@ -1,34 +1,30 @@
-+++
-title = "Tegelort 2016"
-author = ""
-date = 2016-01-01T01:00:00+02:00
-begin = "2016-01-01"
-"gewässer" = ["havel", "spree", "tegler see"]
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Grillmeister Tegelort 2016"
-src = "images/Grillmeister_Tegelort_2016.jpg"
-[[images]]
-title = "Heerstrassenbruecke Tegelort 2016"
-src = "images/Heerstrassenbruecke_Tegelort_2016.jpg"
-[[images]]
-title = "Frauen Zweier Tegelort 2016"
-src = "images/Frauen_Zweier_Tegelort_2016.jpg"
-[[images]]
-title = "Westahfen vom Ruderboot 2016"
-src = "images/Westahfen_vom_Ruderboot_2016.jpg"
-[[images]]
-title = "Grillen beim RC Tegelort 2016"
-src = "images/Grillen_beim_RC_Tegelort_2016.jpg"
-[[images]]
-title = "WSA Blockade Berliner Innenstadt 2016"
-src = "images/WSA_Blockade_Berliner_Innenstadt_2016.jpg"
-[[images]]
-title = "Tegler See Ruderboot 2016"
-src = "images/Tegler_See_Ruderboot_2016.jpg"
-
-+++
+---
+author: ""
+begin: "2016-01-01"
+date: "2016-01-01T01:00:00+02:00"
+gewässer:
+- havel
+- spree
+- tegler see
+images:
+- src: images/Grillmeister_Tegelort_2016.jpg
+  title: Grillmeister Tegelort 2016
+- src: images/Heerstrassenbruecke_Tegelort_2016.jpg
+  title: Heerstrassenbruecke Tegelort 2016
+- src: images/Frauen_Zweier_Tegelort_2016.jpg
+  title: Frauen Zweier Tegelort 2016
+- src: images/Westahfen_vom_Ruderboot_2016.jpg
+  title: Westahfen vom Ruderboot 2016
+- src: images/Grillen_beim_RC_Tegelort_2016.jpg
+  title: Grillen beim RC Tegelort 2016
+- src: images/WSA_Blockade_Berliner_Innenstadt_2016.jpg
+  title: WSA Blockade Berliner Innenstadt 2016
+- src: images/Tegler_See_Ruderboot_2016.jpg
+  title: Tegler See Ruderboot 2016
+länder: []
+title: Tegelort 2016
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

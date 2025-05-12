@@ -1,7 +1,7 @@
-+++
-title = "Ruderrevier"
-weight = 40
-+++
+---
+title: Ruderrevier
+weight: 40
+---
 Der Ruderclub liegt am Teltowkanal, direkt unterhalb der Machnower Schleuse.
 
 Die übliche Trainingstrecke ist zunächst einmal der Teltowkanal.

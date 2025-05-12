@@ -1,16 +1,16 @@
-+++
-title = "Frankreich Camargue 10"
-author = ""
-date = 2010-01-01T01:00:00+02:00
-begin = "2010-01-01"
-"gewässer" = []
-"länder" = ["frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "wie erlege ich eine Ente C10"
-src = "images/wie_erlege_ich_eine_Ente_C10.jpg"
-
-+++
+---
+author: ""
+begin: "2010-01-01"
+date: "2010-01-01T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/wie_erlege_ich_eine_Ente_C10.jpg
+  title: wie erlege ich eine Ente C10
+länder:
+- frankreich
+title: Frankreich Camargue 10
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

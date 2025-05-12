@@ -1,145 +1,105 @@
-+++
-title = "Donau Serbien 2023"
-author = ""
-date = 2023-04-04T01:00:00+02:00
-begin = "2023-04-01"
-"gewässer" = ["donau", "save"]
-"länder" = ["österreich", "serbien"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Apatin Donau 2023"
-src = "images/Apatin_Donau_2023.jpg"
-[[images]]
-title = "Bootsanhänger ruderjugend beim chillen Donau 2023"
-src = "images/Bootsanhanger_ruderjugend_beim_chillen_Donau_2023.jpg"
-[[images]]
-title = "Frauenvierer Donau 2023"
-src = "images/Frauenvierer_Donau_2023.jpg"
-[[images]]
-title = "Ruderboote Backo Novo Selo Donau 2023"
-src = "images/Ruderboote_Backo_Novo_Selo_Donau_2023.jpg"
-[[images]]
-title = "Baumgarten E-Boote Backo Novo Selo Donau 2023"
-src = "images/Baumgarten_E-Boote_Backo_Novo_Selo_Donau_2023.jpg"
-[[images]]
-title = "Ruderboot im Schneesturm Donau 2023"
-src = "images/Ruderboot_im_Schneesturm_Donau_2023.jpg"
-[[images]]
-title = "Ruderboote Novi Sad Donau 2023"
-src = "images/Ruderboote_Novi_Sad_Donau_2023.jpg"
-[[images]]
-title = "Abendessen Jugendtisch Donau 2023"
-src = "images/Abendessen_Jugendtisch_Donau_2023.jpg"
-[[images]]
-title = "Novi Sad Innenstadt DOnau 2023"
-src = "images/Novi_Sad_Innenstadt_DOnau_2023.jpg"
-[[images]]
-title = "Patrik auf der Donau 2023"
-src = "images/Patrik_auf_der_Donau_2023.jpg"
-[[images]]
-title = "Burg von Novi Sad DOnau 2023"
-src = "images/Burg_von_Novi_Sad_DOnau_2023.jpg"
-[[images]]
-title = "Ruderboote am Strand Donau 2023"
-src = "images/Ruderboote_am_Strand_Donau_2023.jpg"
-[[images]]
-title = "Ruderboot am Ufer DOnau 2023"
-src = "images/Ruderboot_am_Ufer_DOnau_2023.jpg"
-[[images]]
-title = "Ruderboot am Ufer gelager Donau 2023"
-src = "images/Ruderboot_am_Ufer_gelager_Donau_2023.jpg"
-[[images]]
-title = "Ruderer auf dem Wikingerschiff Donau 2023"
-src = "images/Ruderer_auf_dem_Wikingerschiff_Donau_2023.jpg"
-[[images]]
-title = "Arka Barka Quartier in Belgrad Donau 2023"
-src = "images/Arka_Barka_Quartier_in_Belgrad_Donau_2023.jpg"
-[[images]]
-title = "Waterfront Belgrad Donau 2023"
-src = "images/Waterfront_Belgrad_Donau_2023.jpg"
-[[images]]
-title = "Belgrad Innenstadt Donau 2023"
-src = "images/Belgrad_Innenstadt_Donau_2023.jpg"
-[[images]]
-title = "Belgrad Downtown Donau 2023"
-src = "images/Belgrad_Downtown_Donau_2023.jpg"
-[[images]]
-title = "Äquatorpreis 4-fach Stefan 2023"
-src = "images/Aquatorpreis_4-fach_Stefan_2023.jpg"
-[[images]]
-title = "Villa Grad Smederovo Äquatorpreis 2023"
-src = "images/Villa_Grad_Smederovo_Aquatorpreis_2023.jpg"
-[[images]]
-title = "Rudervierer auf der Donau 2023"
-src = "images/Rudervierer_auf_der_Donau_2023.jpg"
-[[images]]
-title = "Festung Golubac am beginn des Canyons DOnau 2023"
-src = "images/Festung_Golubac_am_beginn_des_Canyons_DOnau_2023.jpg"
-[[images]]
-title = "Ruderboote im eisernen Tor Donau 2023"
-src = "images/Ruderboote_im_eisernen_Tor_Donau_2023.jpg"
-[[images]]
-title = "WaWa mit Sonnenbrille DOnau 2023"
-src = "images/WaWa_mit_Sonnenbrille_DOnau_2023.jpg"
-[[images]]
-title = "Ruderboot im Canyon DOnau 2023"
-src = "images/Ruderboot_im_Canyon_DOnau_2023.jpg"
-[[images]]
-title = "Ruderer Camping Asin Serbien 2023"
-src = "images/Ruderer_Camping_Asin_Serbien_2023.jpg"
-[[images]]
-title = "Kreuzfahrer im Eisernen Tor Donau 2023"
-src = "images/Kreuzfahrer_im_Eisernen_Tor_Donau_2023.jpg"
-[[images]]
-title = "Eisenes Tor Ruderboot Donau 2023"
-src = "images/Eisenes_Tor_Ruderboot_Donau_2023.jpg"
-[[images]]
-title = "Donji Milanovac Donau 2023"
-src = "images/Donji_Milanovac_Donau_2023.jpg"
-[[images]]
-title = "Manfred im Sturm Donau 2023"
-src = "images/Manfred_im_Sturm_Donau_2023.jpg"
-[[images]]
-title = "Ruderboot Kloster Eisernes Tor Donau 2023"
-src = "images/Ruderboot_Kloster_Eisernes_Tor_Donau_2023.jpg"
-[[images]]
-title = "Eisernes Tor Steinkopf Donau 2023"
-src = "images/Eisernes_Tor_Steinkopf_Donau_2023.jpg"
-[[images]]
-title = "Donau Canyon von oben 2023"
-src = "images/Donau_Canyon_von_oben_2023.jpg"
-[[images]]
-title = "Boote ablegen DOnji Milanovac 2023"
-src = "images/Boote_ablegen_DOnji_Milanovac_2023.jpg"
-[[images]]
-title = "Eisernes Tor Donau 2023"
-src = "images/Eisernes_Tor_Donau_2023.jpg"
-[[images]]
-title = "Ruderboot auf dem Weg zu Djerdap 2 Donau 2023"
-src = "images/Ruderboot_auf_dem_Weg_zu_Djerdap_2_Donau_2023.jpg"
-[[images]]
-title = "Karpatenblick von der DOnau 2023"
-src = "images/Karpatenblick_von_der_DOnau_2023.jpg"
-[[images]]
-title = "Ruderboot vor Waldküste Donau 2023"
-src = "images/Ruderboot_vor_Waldkuste_Donau_2023.jpg"
-[[images]]
-title = "Carlos mit Paddelhaken Donau 2023"
-src = "images/Carlos_mit_Paddelhaken_Donau_2023.jpg"
-[[images]]
-title = "Alte Herren Donau 2023"
-src = "images/Alte_Herren_Donau_2023.jpg"
-[[images]]
-title = "Ruderboote mit Frachter Donau 2023"
-src = "images/Ruderboote_mit_Frachter_Donau_2023.jpg"
-[[images]]
-title = "Djerdap 2 Donau 2023"
-src = "images/Djerdap_2_Donau_2023.jpg"
-[[images]]
-title = "Camping st mokranjac Donau 2023"
-src = "images/Camping_st_mokranjac_Donau_2023.jpg"
-
-+++
+---
+author: ""
+begin: "2023-04-01"
+date: "2023-04-04T01:00:00+02:00"
+gewässer:
+- donau
+- save
+images:
+- src: images/Apatin_Donau_2023.jpg
+  title: Apatin Donau 2023
+- src: images/Bootsanhanger_ruderjugend_beim_chillen_Donau_2023.jpg
+  title: Bootsanhänger ruderjugend beim chillen Donau 2023
+- src: images/Frauenvierer_Donau_2023.jpg
+  title: Frauenvierer Donau 2023
+- src: images/Ruderboote_Backo_Novo_Selo_Donau_2023.jpg
+  title: Ruderboote Backo Novo Selo Donau 2023
+- src: images/Baumgarten_E-Boote_Backo_Novo_Selo_Donau_2023.jpg
+  title: Baumgarten E-Boote Backo Novo Selo Donau 2023
+- src: images/Ruderboot_im_Schneesturm_Donau_2023.jpg
+  title: Ruderboot im Schneesturm Donau 2023
+- src: images/Ruderboote_Novi_Sad_Donau_2023.jpg
+  title: Ruderboote Novi Sad Donau 2023
+- src: images/Abendessen_Jugendtisch_Donau_2023.jpg
+  title: Abendessen Jugendtisch Donau 2023
+- src: images/Novi_Sad_Innenstadt_DOnau_2023.jpg
+  title: Novi Sad Innenstadt DOnau 2023
+- src: images/Patrik_auf_der_Donau_2023.jpg
+  title: Patrik auf der Donau 2023
+- src: images/Burg_von_Novi_Sad_DOnau_2023.jpg
+  title: Burg von Novi Sad DOnau 2023
+- src: images/Ruderboote_am_Strand_Donau_2023.jpg
+  title: Ruderboote am Strand Donau 2023
+- src: images/Ruderboot_am_Ufer_DOnau_2023.jpg
+  title: Ruderboot am Ufer DOnau 2023
+- src: images/Ruderboot_am_Ufer_gelager_Donau_2023.jpg
+  title: Ruderboot am Ufer gelager Donau 2023
+- src: images/Ruderer_auf_dem_Wikingerschiff_Donau_2023.jpg
+  title: Ruderer auf dem Wikingerschiff Donau 2023
+- src: images/Arka_Barka_Quartier_in_Belgrad_Donau_2023.jpg
+  title: Arka Barka Quartier in Belgrad Donau 2023
+- src: images/Waterfront_Belgrad_Donau_2023.jpg
+  title: Waterfront Belgrad Donau 2023
+- src: images/Belgrad_Innenstadt_Donau_2023.jpg
+  title: Belgrad Innenstadt Donau 2023
+- src: images/Belgrad_Downtown_Donau_2023.jpg
+  title: Belgrad Downtown Donau 2023
+- src: images/Aquatorpreis_4-fach_Stefan_2023.jpg
+  title: Äquatorpreis 4-fach Stefan 2023
+- src: images/Villa_Grad_Smederovo_Aquatorpreis_2023.jpg
+  title: Villa Grad Smederovo Äquatorpreis 2023
+- src: images/Rudervierer_auf_der_Donau_2023.jpg
+  title: Rudervierer auf der Donau 2023
+- src: images/Festung_Golubac_am_beginn_des_Canyons_DOnau_2023.jpg
+  title: Festung Golubac am beginn des Canyons DOnau 2023
+- src: images/Ruderboote_im_eisernen_Tor_Donau_2023.jpg
+  title: Ruderboote im eisernen Tor Donau 2023
+- src: images/WaWa_mit_Sonnenbrille_DOnau_2023.jpg
+  title: WaWa mit Sonnenbrille DOnau 2023
+- src: images/Ruderboot_im_Canyon_DOnau_2023.jpg
+  title: Ruderboot im Canyon DOnau 2023
+- src: images/Ruderer_Camping_Asin_Serbien_2023.jpg
+  title: Ruderer Camping Asin Serbien 2023
+- src: images/Kreuzfahrer_im_Eisernen_Tor_Donau_2023.jpg
+  title: Kreuzfahrer im Eisernen Tor Donau 2023
+- src: images/Eisenes_Tor_Ruderboot_Donau_2023.jpg
+  title: Eisenes Tor Ruderboot Donau 2023
+- src: images/Donji_Milanovac_Donau_2023.jpg
+  title: Donji Milanovac Donau 2023
+- src: images/Manfred_im_Sturm_Donau_2023.jpg
+  title: Manfred im Sturm Donau 2023
+- src: images/Ruderboot_Kloster_Eisernes_Tor_Donau_2023.jpg
+  title: Ruderboot Kloster Eisernes Tor Donau 2023
+- src: images/Eisernes_Tor_Steinkopf_Donau_2023.jpg
+  title: Eisernes Tor Steinkopf Donau 2023
+- src: images/Donau_Canyon_von_oben_2023.jpg
+  title: Donau Canyon von oben 2023
+- src: images/Boote_ablegen_DOnji_Milanovac_2023.jpg
+  title: Boote ablegen DOnji Milanovac 2023
+- src: images/Eisernes_Tor_Donau_2023.jpg
+  title: Eisernes Tor Donau 2023
+- src: images/Ruderboot_auf_dem_Weg_zu_Djerdap_2_Donau_2023.jpg
+  title: Ruderboot auf dem Weg zu Djerdap 2 Donau 2023
+- src: images/Karpatenblick_von_der_DOnau_2023.jpg
+  title: Karpatenblick von der DOnau 2023
+- src: images/Ruderboot_vor_Waldkuste_Donau_2023.jpg
+  title: Ruderboot vor Waldküste Donau 2023
+- src: images/Carlos_mit_Paddelhaken_Donau_2023.jpg
+  title: Carlos mit Paddelhaken Donau 2023
+- src: images/Alte_Herren_Donau_2023.jpg
+  title: Alte Herren Donau 2023
+- src: images/Ruderboote_mit_Frachter_Donau_2023.jpg
+  title: Ruderboote mit Frachter Donau 2023
+- src: images/Djerdap_2_Donau_2023.jpg
+  title: Djerdap 2 Donau 2023
+- src: images/Camping_st_mokranjac_Donau_2023.jpg
+  title: Camping st mokranjac Donau 2023
+länder:
+- österreich
+- serbien
+title: Donau Serbien 2023
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

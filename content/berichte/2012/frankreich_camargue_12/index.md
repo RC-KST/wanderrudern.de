@@ -1,76 +1,62 @@
-+++
-title = "Frankreich Camargue 12"
-author = ""
-date = 2012-02-02T01:00:00+02:00
-begin = "2012-02-01"
-"gewässer" = ["aller", "teltowkanal", "oder", "vidourle", "orivesi"]
-"länder" = ["deutschland", "frankreich"]
-"typ" = "wanderfahrt"
-[[images]]
-title = "Fahrtenleiter und Fuchs Camargue 2012"
-src = "images/Fahrtenleiter_und_Fuchs_Camargue_2012.jpg"
-[[images]]
-title = "Ruderboot vor Aigues Mortes Camargue 2012"
-src = "images/Ruderboot_vor_Aigues_Mortes_Camargue_2012.jpg"
-[[images]]
-title = "Ruderer auf der Festungsmauer Camargue 2012"
-src = "images/Ruderer_auf_der_Festungsmauer_Camargue_2012.jpg"
-[[images]]
-title = "Aigues Mortes mit Salzbergen Camargue 2012"
-src = "images/Aigues_Mortes_mit_Salzbergen_Camargue_2012.jpg"
-[[images]]
-title = "Robin auf dem Wachturm Camargue 2012"
-src = "images/Robin_auf_dem_Wachturm_Camargue_2012.jpg"
-[[images]]
-title = "Ruderzweier in der Camargue 2012"
-src = "images/Ruderzweier_in_der_Camargue_2012.jpg"
-[[images]]
-title = "Hafenausfahrt Le Grau du Roi 2012"
-src = "images/Hafenausfahrt_Le_Grau_du_Roi_2012.jpg"
-[[images]]
-title = "Enge Durchfahrt in Grande Motte Camargue 2012"
-src = "images/Enge_Durchfahrt_in_Grande_Motte_Camargue_2012.jpg"
-[[images]]
-title = "Flamingos  Camargue 2012"
-src = "images/Flamingos__Camargue_2012.jpg"
-[[images]]
-title = "Ruderclub Carnon Camargue 2012"
-src = "images/Ruderclub_Carnon_Camargue_2012.jpg"
-[[images]]
-title = "Ausfahrt aufs Mittelmeer Palavas le Flot Camargue 2012"
-src = "images/Ausfahrt_aufs_Mittelmeer_Palavas_le_Flot_Camargue_2012.jpg"
-[[images]]
-title = "Ruderboot vor Carnon Camargue 2012"
-src = "images/Ruderboot_vor_Carnon_Camargue_2012.jpg"
-[[images]]
-title = "Ruderboot vor Le Grau du Roi 2012"
-src = "images/Ruderboot_vor_Le_Grau_du_Roi_2012.jpg"
-[[images]]
-title = "Camarguepferde 2012"
-src = "images/Camarguepferde_2012.jpg"
-[[images]]
-title = "Weinprobe in der Camargue 2012"
-src = "images/Weinprobe_in_der_Camargue_2012.jpg"
-[[images]]
-title = "Viel Wellen auf dem Mittelmeer Camargue 2012"
-src = "images/Viel_Wellen_auf_dem_Mittelmeer_Camargue_2012.jpg"
-[[images]]
-title = "Kneipe in Aigues Mortes Camargue 2012"
-src = "images/Kneipe_in_Aigues_Mortes_Camargue_2012.jpg"
-[[images]]
-title = "Camargue weit landeinwaerts 2012"
-src = "images/Camargue_weit_landeinwaerts_2012.jpg"
-[[images]]
-title = "Strandspaziergang camargue 2012"
-src = "images/Strandspaziergang_camargue_2012.jpg"
-[[images]]
-title = "Amphitheater Arles Camargue 2012"
-src = "images/Amphitheater_Arles_Camargue_2012.jpg"
-[[images]]
-title = "Abendessen in Le Grau du Roi 2012"
-src = "images/Abendessen_in_Le_Grau_du_Roi_2012.jpg"
-
-+++
+---
+author: ""
+begin: "2012-02-01"
+date: "2012-02-02T01:00:00+02:00"
+gewässer:
+- aller
+- teltowkanal
+- oder
+- vidourle
+- orivesi
+images:
+- src: images/Fahrtenleiter_und_Fuchs_Camargue_2012.jpg
+  title: Fahrtenleiter und Fuchs Camargue 2012
+- src: images/Ruderboot_vor_Aigues_Mortes_Camargue_2012.jpg
+  title: Ruderboot vor Aigues Mortes Camargue 2012
+- src: images/Ruderer_auf_der_Festungsmauer_Camargue_2012.jpg
+  title: Ruderer auf der Festungsmauer Camargue 2012
+- src: images/Aigues_Mortes_mit_Salzbergen_Camargue_2012.jpg
+  title: Aigues Mortes mit Salzbergen Camargue 2012
+- src: images/Robin_auf_dem_Wachturm_Camargue_2012.jpg
+  title: Robin auf dem Wachturm Camargue 2012
+- src: images/Ruderzweier_in_der_Camargue_2012.jpg
+  title: Ruderzweier in der Camargue 2012
+- src: images/Hafenausfahrt_Le_Grau_du_Roi_2012.jpg
+  title: Hafenausfahrt Le Grau du Roi 2012
+- src: images/Enge_Durchfahrt_in_Grande_Motte_Camargue_2012.jpg
+  title: Enge Durchfahrt in Grande Motte Camargue 2012
+- src: images/Flamingos__Camargue_2012.jpg
+  title: Flamingos  Camargue 2012
+- src: images/Ruderclub_Carnon_Camargue_2012.jpg
+  title: Ruderclub Carnon Camargue 2012
+- src: images/Ausfahrt_aufs_Mittelmeer_Palavas_le_Flot_Camargue_2012.jpg
+  title: Ausfahrt aufs Mittelmeer Palavas le Flot Camargue 2012
+- src: images/Ruderboot_vor_Carnon_Camargue_2012.jpg
+  title: Ruderboot vor Carnon Camargue 2012
+- src: images/Ruderboot_vor_Le_Grau_du_Roi_2012.jpg
+  title: Ruderboot vor Le Grau du Roi 2012
+- src: images/Camarguepferde_2012.jpg
+  title: Camarguepferde 2012
+- src: images/Weinprobe_in_der_Camargue_2012.jpg
+  title: Weinprobe in der Camargue 2012
+- src: images/Viel_Wellen_auf_dem_Mittelmeer_Camargue_2012.jpg
+  title: Viel Wellen auf dem Mittelmeer Camargue 2012
+- src: images/Kneipe_in_Aigues_Mortes_Camargue_2012.jpg
+  title: Kneipe in Aigues Mortes Camargue 2012
+- src: images/Camargue_weit_landeinwaerts_2012.jpg
+  title: Camargue weit landeinwaerts 2012
+- src: images/Strandspaziergang_camargue_2012.jpg
+  title: Strandspaziergang camargue 2012
+- src: images/Amphitheater_Arles_Camargue_2012.jpg
+  title: Amphitheater Arles Camargue 2012
+- src: images/Abendessen_in_Le_Grau_du_Roi_2012.jpg
+  title: Abendessen in Le Grau du Roi 2012
+länder:
+- deutschland
+- frankreich
+title: Frankreich Camargue 12
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*

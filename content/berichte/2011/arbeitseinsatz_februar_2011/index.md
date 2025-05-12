@@ -1,25 +1,21 @@
-+++
-title = "Arbeitseinsatz Februar 2011"
-author = ""
-date = 2011-02-02T01:00:00+02:00
-begin = "2011-02-01"
-"gewässer" = []
-"länder" = []
-"typ" = "wanderfahrt"
-[[images]]
-title = "Einerlager versetzen Februar 2011"
-src = "images/Einerlager_versetzen_Februar_2011.jpg"
-[[images]]
-title = "Kirschbaum faellen Februar 2011"
-src = "images/Kirschbaum_faellen_Februar_2011.jpg"
-[[images]]
-title = "Laubbeseitigung Februar 2011"
-src = "images/Laubbeseitigung_Februar_2011.jpg"
-[[images]]
-title = "Rollbahnen wechseln Februar 2011"
-src = "images/Rollbahnen_wechseln_Februar_2011.jpg"
-
-+++
+---
+author: ""
+begin: "2011-02-01"
+date: "2011-02-02T01:00:00+02:00"
+gewässer: []
+images:
+- src: images/Einerlager_versetzen_Februar_2011.jpg
+  title: Einerlager versetzen Februar 2011
+- src: images/Kirschbaum_faellen_Februar_2011.jpg
+  title: Kirschbaum faellen Februar 2011
+- src: images/Laubbeseitigung_Februar_2011.jpg
+  title: Laubbeseitigung Februar 2011
+- src: images/Rollbahnen_wechseln_Februar_2011.jpg
+  title: Rollbahnen wechseln Februar 2011
+länder: []
+title: Arbeitseinsatz Februar 2011
+typ: wanderfahrt
+---
 
 
 *Dieser Bericht wurde automatisch migriert*
