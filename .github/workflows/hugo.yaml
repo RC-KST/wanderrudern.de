@@ -52,8 +52,8 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Cache build state
-        uses: actions/cache@v4
+      - name: Restore build state cache
+        uses: actions/cache/restore@v4
         with:
           path: |
             node_modules
@@ -72,10 +72,6 @@ jobs:
       - name: Create Hashfile
         run: "./util/create_file_hashes.py"
 
-      #- name: Setup Pages
-      #  id: pages
-      #  uses: actions/configure-pages@v4
-
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
@@ -86,28 +82,29 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ vars.PAGE_BASE_URL }}/"
+            --baseURL "${{ env.PAGE_BASE_URL }}/"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           name: site-output-artifact
           path: ./public
-
+          
+      - name: Save build state cache
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            node_modules
+            resources
+            public
+          key: buildstate
+          
       - name: Cache Hashfile
         if: always()
         uses: actions/cache/save@v4
         with:
           key: update_hashes
           path: util_hashing/hashes.chk
-
-      #- name: Save cache
-      #- uses: actions/cache/save@v4
-      #  with:
-      #    path: |
-      #      node_modules
-      #      resources
-      #      public
-      #    key: buildstate
 
   # Deployment job
 #  deploy:
