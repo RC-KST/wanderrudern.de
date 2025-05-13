@@ -33,8 +33,6 @@ title: Elbe Havel Dreieck 91
 typ: wanderfahrt
 ---
 
-
-
 # Vorbereitung zur Osterfahrt
 
 Nachdem wir im letzten Jahr acht  zwei- bis dreitägige private Ruderlager gemacht hatten, wollten wir in diesem Jahr eine längere private Ruderfahrt unternehmen.
@@ -119,6 +117,6 @@ Kurz  vor dem Ziel versuchte dann noch ein Steuermann eines unserer Boote zu ve
 
 ### Die letzten zwei Tage 37 und 30 km
 
-In Plaue waren wir am Ausgangspunkt unserer Runde angekommen. Nun ging es nur noch über die schon bekannten Strecken (ohne nennenswerte Strömung!).  Einen Tag später erreichten wir, bei leichtem Nieselregen Ketzin. Von Ketzin ging es über den Sacrow- Paretzer- Kanal zurück nach Wannsee.
+In Plaue waren wir am Ausgangspunkt unserer Runde angekommen. Nun ging es nur noch über die schon bekannten Strecken (ohne nennenswerte Strömung!).  Einen Tag später erreichten wir, bei leichtem Nieselregen Ketzin. Von Ketzin ging es über den Sacrow-Paretzer-Kanal zurück nach Wannsee.
 
 Statt der veranschlagten zehn Tage brauchten wir nur acht. Pausentage wurden  nicht gemacht, wir sind bei jedem Wetter gefahren. Es war die längste Strecke die wir jemals auf einer Wanderfahrt gerudert sind. Da aber alle beteiligten Ruderer voll mitgemacht haben, war es eben nicht nur eine elende  Kilometerschinderei. Ich habe schon Fahrten erlebt auf denen sich einige wesentlich mehr anstrengen mußten um die Boote vorwärts zu bewegen.
