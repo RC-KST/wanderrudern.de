@@ -56,9 +56,9 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: |
-            node_modules
-            resources
-            public
+            ~/node_modules
+            ~/resources
+            ~/public
           key: buildstate
 
       #- name: Cache hash file
@@ -88,15 +88,15 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: site-output-artifact
-          path: ./public
+          path: ~/public
           
       - name: Save build state cache
         uses: actions/cache/save@v4
         with:
           path: |
-            node_modules
-            resources
-            public
+            ~/node_modules
+            ~/resources
+            ~/public
           key: buildstate
           
       - name: Cache Hashfile
@@ -104,7 +104,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           key: update_hashes
-          path: util_hashing/hashes.chk
+          path: ~/util_hashing/hashes.chk
 
   # Deployment job
 #  deploy:
@@ -150,7 +150,7 @@ jobs:
         if: "${{ ! contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache/restore@v4
         with:
-          path: util_hashing/hashes.chk
+          path: ~/util_hashing/hashes.chk
           key: update_hashes
 
       #- name: Download hashes artifact
