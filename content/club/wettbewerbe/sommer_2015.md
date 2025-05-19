@@ -1,6 +1,6 @@
-+++
+---
 title: Brandenburger Sommerwettbewerb 2015
-+++
+---
 
 15.3 - 31.10.2015
 
