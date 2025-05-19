@@ -36,8 +36,6 @@ jobs:
     steps:
       - name: workspace
         run: echo ${GITHUB_WORKSPACE}
-      - name: pwd
-        run: pwd
 
       - name: Install python3
         run: |
@@ -60,9 +58,9 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: |
-            ${GITHUB_WORKSPACE}/node_modules
-            ${GITHUB_WORKSPACE}/resources
-            ${GITHUB_WORKSPACE}/public
+            node_modules
+            resources
+            public
           key: buildstate
 
       #- name: Cache hash file
@@ -92,23 +90,26 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: site-output-artifact
-          path: ${GITHUB_WORKSPACE}/public
-          
+          path: public
+
       - name: Save build state cache
+        id: build-state-cache-save
+          #if: always()
         uses: actions/cache/save@v4
         with:
           path: |
-            ${GITHUB_WORKSPACE}/node_modules
-            ${GITHUB_WORKSPACE}/resources
-            ${GITHUB_WORKSPACE}/public
+            node_modules
+            resources
+            public
           key: buildstate
-          
+
       - name: Cache Hashfile
-        if: always()
+        #if: always()
         uses: actions/cache/save@v4
         with:
           key: update_hashes
-          path: ${GITHUB_WORKSPACE}/util_hashing/hashes.chk
+          path: util_hashing/hashes.chk
+          
 
   # Deployment job
 #  deploy:
@@ -154,7 +155,7 @@ jobs:
         if: "${{ ! contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache/restore@v4
         with:
-          path: ${GITHUB_WORKSPACE}/util_hashing/hashes.chk
+          path: util_hashing/hashes.chk
           key: update_hashes
 
       #- name: Download hashes artifact
@@ -167,7 +168,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: site-output-artifact
-          path: ${GITHUB_WORKSPACE}/public
+          path: public
 
       - name: Extract artifact
         run: "cd ./public && tar -xf ./artifact.tar && rm artifact.tar"
