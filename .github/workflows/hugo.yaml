@@ -36,6 +36,8 @@ jobs:
     steps:
       - name: workspace
         run: echo ${GITHUB_WORKSPACE}
+      - name: pwd
+        run: pwd
       - name: Install python3
         run: |
           sudo apt-get update -qy
