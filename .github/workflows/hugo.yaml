@@ -120,14 +120,12 @@ jobs:
       #      public
       #    key: buildstate
 
-      - name: Cache Hashfile
+      - name: Save cache hashfile
         #if: "${{ !contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache/save@v4
         with:
           path: util_hashing/hashes.chk
           key: hashes-${{ hashfiles('**') }}
-          restore-keys: |
-            hashes-
           
 
   # Deployment job
@@ -170,7 +168,7 @@ jobs:
       - name: Create working directory
         run: "mkdir -p ./util_hashing"
 
-      - name: Cache hash file
+      - name: Restore cache hashfile
         if: "${{ ! contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache/restore@v4
         with:
