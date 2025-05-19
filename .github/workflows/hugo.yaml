@@ -35,6 +35,8 @@ jobs:
       HUGO_VERSION: 0.146.3
     steps:
       #- uses: actions/checkout@v4
+      - name: current working directory
+        run: "pwd"
       - name: Install python3
         run: |
           sudo apt-get update -qy
