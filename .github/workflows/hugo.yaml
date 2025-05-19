@@ -53,15 +53,32 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-
-      - name: Restore build state cache
-        uses: actions/cache/restore@v4
+      - name: Cache node modules
+        uses: actions/cache@v4
         with:
           path: |
             node_modules
+          key: node_modules-${{ hashfiles('**/package-lock.json') }}
+          restore-keys: |
+            node_modules-
+      - name: Cache resources and buildstate
+        uses: actions/cache@v4
+        with:
+          path: |
             resources
             public
-          key: buildstate
+          key: resources-${{ hashfiles('**') }}
+          restore-keys: |
+            resources-
+
+      #- name: Restore build state cache
+      #  uses: actions/cache/restore@v4
+      #  with:
+      #    path: |
+      #      node_modules
+      #      resources
+      #      public
+      #    key: buildstate
 
       #- name: Cache hash file
       #  if: "${{ !contains(github.event.head_commit.message, '[full]') }}"
@@ -92,23 +109,25 @@ jobs:
           name: site-output-artifact
           path: public
 
-      - name: Save build state cache
-        id: build-state-cache-save
-          #if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: |
-            node_modules
-            resources
-            public
-          key: buildstate
+      #- name: Save build state cache
+      #  id: build-state-cache-save
+      #  #if: always()
+      #  uses: actions/cache/save@v4
+      #  with:
+      #    path: |
+      #      node_modules
+      #      resources
+      #      public
+      #    key: buildstate
 
       - name: Cache Hashfile
-        #if: always()
+        #if: "${{ !contains(github.event.head_commit.message, '[full]') }}"
         uses: actions/cache/save@v4
         with:
-          key: update_hashes
           path: util_hashing/hashes.chk
+          key: hashes-${{ hashfiles('**') }}
+          restore-keys: |
+            hashes-
           
 
   # Deployment job
@@ -156,7 +175,9 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: util_hashing/hashes.chk
-          key: update_hashes
+          key: hashes-${{ hashfiles('**') }}
+          restore-keys: |
+            hashes-
 
       #- name: Download hashes artifact
       #  uses: actions/download-artifact@v4
