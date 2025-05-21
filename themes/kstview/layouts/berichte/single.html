@@ -30,7 +30,7 @@
         <!-- Tag navigation may be added later -->
     </div>
     <hr/>
-    <h1>{{ .Title }}</h1>
+    {{ partial "page-title.html" .Title }}
     <div class="flex-grow">{{ .Content }}</div>
 </div>
 {{- if .Params.images }}

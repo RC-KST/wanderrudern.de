@@ -1,5 +1,5 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+{{ partial "page-title.html" .Title }}
     <div class="h-full">
         {{ .Content }}
         {{ $paginator := (.Paginate (.CurrentSection.Pages.ByLinkTitle).Reverse .Site.Params.list.articles_per_site) -}}

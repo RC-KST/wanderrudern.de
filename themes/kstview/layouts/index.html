@@ -2,7 +2,7 @@
 
 <div class="flex flex-col justify-start">
 
-    <h1>{{ site.Title }}</h1>
+    {{ partial "page-title.html" site.Title }}
 
     {{- $de_params := .Params -}}
     {{- if (ne site.Language.Lang "de") }}
