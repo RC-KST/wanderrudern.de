@@ -47,7 +47,7 @@ Während des Abbauens brach auch das Gewitter, das sich bereits angekündigt hat
 
 Nachdem wir das Boot und uns sortiert hatten und die Preise verliehen waren, warteten wir auf Felix, legten die Shannon in den Hänger und brachten dann unser Gepäck
 zum Akademischen Ruderclub Rhenus Bonn, bei dem wir dieses Jahr wieder übernachten durften.
-Um noch etwas herzhaftes im Magen zu haben, wurde, wie die letzten Jahre auch, Pizza bestellt und nach eintreffen auf einer Bank am Wasser mit Blick auf die vorbeifahrenden Ausflugsschiffe genossen.
+Um noch etwas herzhaftes im Magen zu haben, wurde, wie die letzten Jahre auch, Pizza bestellt (_Datchie Steinofen Pizza_) und nach eintreffen auf einer Bank am Wasser mit Blick auf die vorbeifahrenden Ausflugsschiffe genossen.
 
 Der Sonntag verlief ruhig. Nach dem Frühstück verabschiedeten wir uns von Marvin und Mila, die per Bahn nach Oldenburg zurück fuhren.
 Wir warteten in Ruhe auf die Lahn-Wanderfahrer, deren Ziel auch Bonn sein sollte. Kurz nachdem der Landdienst sein Ziel erreichte, war auch das erste Boot auf dem Rhein zu sehen.
@@ -57,3 +57,9 @@ Nachdem alle Boote abgeriggert, aufgeladen und das Zubehör verstaut war, fuhren
 Ein besonderer Dank gilt Stefan, der uns erlaubte, einen Platz auf dem Hänger für unser Boot zu nutzen, sodass wir mit wenig Mehraufwand an der EUREGA teilnehmen konnten.
 
 ![Mannschaft im Ziel](images/mannschaft_im_ziel.jpg)
+
+Pegelstände:
+
+| Sankt Goar | Bonn      |
+|------------|-----------|
+| `2,00 m`   | `1,75 m ` | 
