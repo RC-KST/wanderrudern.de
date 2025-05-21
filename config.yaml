@@ -1,0 +1,187 @@
+_merge: shallow
+title: Ruderclub Kleinmachnow Stahnsdorf Teltow e.V.
+baseURL: https://wanderrudern.de
+theme: kstview
+languageCode: de
+defaultContentLanguage: de
+
+staticDir:
+  - static
+params:
+  archive_base: /archive
+  backdrop_image: bundle/backdrops/club-gelaende.jpg
+  icon_image: bundle/kst_wikingerschiff_simplistic_light.svg
+  font_url: bundle/noto-sans/NotoSans-Medium.ttf
+  list:
+    articles_per_site: 50
+    card_width: 50pt
+  home:
+    english_basepage: /introduction
+    news_count: 10
+    trip_announcement_count: 10
+  author:
+    name: Stefan Biastock
+    email: info@wanderrudern.de
+  footer:
+    socials:
+      - image: bundle/facebook-icon-light.svg
+        href: https://www.facebook.com/wanderrudern
+    links:
+      imprint: /club/impressum
+      data_protection: /club/datenschutz
+  meta:
+    publisher: Ruderclub Kleinmachnow Stahnsdorf Teltow
+    copyright: Stefan Biastock
+    page_topic: Sport
+    page_type: Vereinsseite
+    revisit_after: 4 weeks
+    default_tags:
+      - Wanderrudern
+      - Rudern
+      - wanderrudern
+      - rudern
+      - rowing
+      - Ruderboot
+      - Ruderer
+      - Freizeit
+      - Sport
+      - Fun
+      - Berlin
+      - Kleinmachnow
+      - Stahnsdorf
+      - Teltow
+      - Wassersport
+      - Jugendliche
+      - Jugend
+      - Fahrten
+      - Reisen
+      - reisen
+      - Wanderfahrten
+      - Abenteuer
+      - adventure
+      - Ruderclub
+      - Ruderverein
+      - row
+      - rower
+      - Babelsberg
+      - Potsdam
+      - Zehlendorf
+  cookiebanner:
+    more_here: https://commission.europa.eu/cookies-policy
+    data_protection: /club/datenschutz
+  vorstand:
+    - position:
+        - 1. Vorstand
+        - Sport/Wanderruderwart
+      name: Stefan Biastock
+      email: info@wanderrudern.de
+      nummer: 0172-405 92 53
+    - position:
+        - 2. Vorstand
+        - Verwaltung
+      name: Martin Beilfuß
+      email: martin@wanderrudern.de
+      nummer: 033203-24948
+    - position: Kassenwart
+      name: Dr. Ulrich Schmidt
+      email: kassenwart@wanderrudern.de
+    - position: Schriftführer
+      name: ""
+      email: post@wanderrudern.de
+    - position: Ruderwart Erwachsene
+      name:
+        - Thomas Schmidt-Lehmann
+        - Florian Coesfeld
+        - Peter Strauß
+      email: rudern@wanderrudern.de
+    - position: Ruderwart Jugend
+      name:
+        - Carlos Fisch
+        - Timo Schlichting
+      email: jugendwart@wanderrudern.de
+    - position: Ruderwart Marathon
+      name: Nirina Beilfuß
+      email: marathon@wanderrudern.de
+    - position: Bootswarte
+      name:
+        - Wolfgang Petri
+        - Tim Czemper
+      email: bootswart@wanderrudern.de
+      nummer:
+        - 0173-2355261
+        - 0176-79259096
+    - position: Hauswart
+      name: Sandro Genrich
+      email: hauswart@wanderrudern.de
+    - position: PR-Öffentlichkeit
+      name: Simone Pelzer
+      email: pressewart@wanderrudern.de
+      nummer: 0173-4609836
+    - position: PR-Sponsoring
+      name: Kai Wadewitz
+      email: sponsoring@wanderrudern.de
+    - position: Veranstaltungen
+      name: ""
+      email: ""
+menus:
+  main:
+    - name: Club
+      pageRef: /club
+      weight: 60
+    - name: Neuigkeiten
+      pageRef: /neuigkeiten
+      weight: 50
+    - name: Berichte
+      pageRef: /berichte
+      weight: 40
+    - name: Ausschreibungen
+      pageRef: /ausschreibungen
+      weight: 30
+    - name: Anfänger
+      pageRef: /club/anfaenger
+      weight: 10
+      parent: Club
+    - name: Marathon
+      pageRef: /club/marathon
+      weight: 20
+      parent: Club
+    - name: Clubkleidung
+      pageRef: /club/clubkleidung
+      weight: 30
+      parent: Club
+    - name: Schulungen
+      pageRef: /club/schulungen
+      weight: 40
+      parent: Club
+    - name: Gäste
+      pageRef: /club/gaeste
+      weight: 50
+      parent: Club
+    - name: Vorstand
+      pageRef: /club/vorstand
+      weight: 60
+      parent: Club
+    - name: Wochentermine
+      pageRef: /club/wochentermine
+      weight: 70
+      parent: Club
+    - name: Datenschutz
+      pageRef: /club/datenschutz
+      weight: 80
+      parent: Club
+    - name: Impressum
+      pageRef: /club/impressum
+      weight: 90
+      parent: Club
+
+taxonomies:
+  gewässer: gewässer
+  land: länder
+  typ: typen
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: false

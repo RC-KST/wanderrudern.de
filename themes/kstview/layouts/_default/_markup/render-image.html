@@ -1,17 +1,13 @@
-<div class="mx-3">
-{{- if .IsBlock -}}
-  <figure class="my-3">
-    <img src="{{ .Destination | safeURL }}"
-      {{- with .PlainText }} alt="{{ . }}"{{ end -}}
-      width="100%"
-    >
-    {{- with .Title }}<figcaption>{{ . }}</figcaption>{{ end -}}
-  </figure>
-{{- else -}}
-  <img src="{{ .Destination | safeURL }}" class="my-3"
-        {{- with .PlainText }} alt="{{ . }}"{{ end -}}
+<div class="mx-3 flex flex-col items-center">
+  <figure>
+    <img src="{{ .Destination | safeURL }}" class="my-3 h-96"
+    {{- with .PlainText }} alt="{{ . }}"{{ end -}}
     {{- with .Title }} title="{{ . }}"{{ end -}}
-    width="100%"
-  >
-{{- end -}}
+    >
+    {{- with .Title }}
+    <div class="flex flex-col items-center mb-3">
+      <figcaption>{{ . }}</figcaption>
+    </div>
+    {{- end }}
+  </figure>
 </div>
