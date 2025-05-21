@@ -49,10 +49,10 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [ ] Clubkleidung?
     - [x] Vorstand
     - [x] Wettbewerbe
-- [ ] ~Drop-Downs in Bar~
-- [ ] ~Mobile Layout~
-    - [ ] ~Hamburger-Menu~
-    - [ ] ~Bild Main site~
+- [x] Drop-Downs in Bar
+- [x] Mobile Layout
+    - [x] Hamburger-Menu
+    - [x] Bild Main site
 - [x] Add tags inside header for better SEO
 - [ ] Sponsoren
 
