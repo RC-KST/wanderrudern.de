@@ -15,6 +15,8 @@ images:
   title: Boot fertig vorbereitet
 - src: images/neuwied_vorbeifahrt.jpg
   title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
+- src: ./images/neuwied_vorbeifahrt_2.jpg
+  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
 ---
 
 Parallel zur EUREGA lief vom KST noch eine Wanderfahrt auf der Lahn, bei der wir uns für den ersten Rudertag (Donnerstag) einklinkten.
@@ -35,7 +37,9 @@ Somit hatten wir die meiste Zeit genügend Boote vor uns, um uns zu motivieren.
 Das Wetter war, bis auf ein paar Tropfen, mit angenehmen Temperaturen und bewölktem Himmel sehr gnädig zu uns.
 Ca. 20 Kilometer vor dem Ziel holte uns der QuadTiger ein, was unsere Mannschaft noch einmal immens motivierte.
 Wir lieferten uns ein erbittertes Rennen, das bis zur Ziellinie anhielt und bei dem am Ende auch die Mannschaft "Row with the Flow" mit einstieg.
+
 ![Zieleinfahrt](images/zieleinfahrt.jpg)
+
 Das Boot ging als viertes in der Gesamtwertung und als drittes in unserer Klasse (Männer) mit einer Zeit von 5:39:09 in Bonn über die Ziellinie.
 Nachdem das Boot aus dem Wasser gebracht war, ging es für uns vor allem um das abbauen des Bootes, während Felix vom Landdienst der Lahn-Wanderfahrenden eingesammelt und zurück nach Sankt Goar gebracht wurde, um den Bootshänger und unser Gepäck nach Bonn zu holen.
 Ein Dankeschön gilt ihm dafür, dass er die über drei Stunden Autofahrt auf sich nahm und damit die weitere Organisation deutlich erleichterte.
@@ -51,3 +55,5 @@ Wir warteten in Ruhe auf die Lahn-Wanderfahrer, deren Ziel auch Bonn sein sollte
 Nachdem alle Boote abgeriggert, aufgeladen und das Zubehör verstaut war, fuhren wir mit den Teilnehmern der Wanderfahrt zurück nach Berlin.
 
 Ein besonderer Dank gilt Stefan, der uns erlaubte, einen Platz auf dem Hänger für unser Boot zu nutzen, sodass wir mit wenig Mehraufwand an der EUREGA teilnehmen konnten.
+
+![Mannschaft im Ziel](images/mannschaft_im_ziel.jpg)
