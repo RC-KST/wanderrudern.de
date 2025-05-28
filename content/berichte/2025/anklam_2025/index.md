@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Innriggerfahrt Anklam
+title: Inriggerfahrt Anklam
 #author: "Paul"
 begin: 2025-05-16
 end: 2025-05-18
@@ -25,14 +25,14 @@ images:
   title: Lesender Mönch in Stolpe (Peene)
 - src: "./images/fahrender_moench.jpeg"
   title: Mönch on Tour in Stolpe (Peene)
-- src: "./images/rueckweg_stolpe_innrigger.jpg"
+- src: "./images/rueckweg_stolpe_inrigger.jpg"
   title: Inrigger in action
 ---
 
 Wir reisten am Freitag an.
 Nachdem wir im benachbarten "Boot & Bike" unsere Unterkunft bezogen hatten, ging es für uns einkaufen und anschließend für ein Abendbrot in die "Gaststätte Dabers" in der Anklamer Altstadt.
 
-Am Samstag wurde uns das Boot im Ruderklub Anklam e.V., ein geklinkerter Innrigger-Vierer, übergeben.
+Am Samstag wurde uns das Boot im Ruderklub Anklam e.V., ein geklinkerter Inrigger-Vierer, übergeben.
 
 Die Strecke führte uns die Peene hinunter, dann am Nordufer nach Osten entlang, wo uns ein Regengebiet eingeholte, dies hielt aber zum Glück nicht besonders lange an, sodass wir mit leichtem Sonnenschein auf den Usedomer See einbogen und bis hin zum Hafen Usedom hineinfuhren.
 
