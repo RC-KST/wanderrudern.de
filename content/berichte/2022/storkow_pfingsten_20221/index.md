@@ -7,6 +7,8 @@ gewässer:
 - teltowkanal
 - wolziger see
 - scharmützelsee
+- storkower see
+- springsee
 images:
 - src: images/Melina_Shayenne_im_Ruderboot_Teltowkanal_Storkow_2022.jpg
   title: Melina Shayenne im Ruderboot Teltowkanal Storkow 2022
@@ -35,11 +37,6 @@ länder:
 title: Storkow Pfingsten 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
