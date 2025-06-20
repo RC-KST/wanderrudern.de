@@ -11,8 +11,8 @@ images:
   title: Bundestagsgebäude
 - src: images/Barke_vor_der_Oberbaumbrücke_Berliner_Innenstadt_2024.jpg
   title: Oberbaumbrücke mit Barke    
-- src: images/Barke_an_der_Museumsinsel_2024.jpg
-  title: Museumsinsel Berlin
+- src: images/Bode_Museum_Ruderboote_2024.jpg
+  title: Bodemuserum mit Ruderbooten
 ---
 # Berliner Innenstadt Durchfahrt
 
@@ -28,7 +28,7 @@ Die Durchfahrt ist nur am Samstag Vormittag möglich. Daher müssen wir die Boot
 Am Samstag geht es dann über die Spree durch die Innenstadt, vorbei am Dom und Schloss und über den Landwehrkanal zurück zur RG Wiking. (35 km)
 Sonntag besuchen wir den Festakt des Deutschen Ruderverbands und dann geht es über den Teltowkanal zurück nach Stahnsdorf (20 km)
 
-Wir haben 22 Betten bei der RG Wiking und eine eigene Küche für Frühstück/Abendessen.
+Wir haben 20 Betten bei der RG Wiking und eine eigene Küche für Frühstück/Abendessen.
 Alternativ hat Wiking eine Gaststätte in der man Abendessen bekommen kann.
 Wer nicht übernachten möchte, kann natürlich mit der U-Bahn nach Hause fahren.
 
