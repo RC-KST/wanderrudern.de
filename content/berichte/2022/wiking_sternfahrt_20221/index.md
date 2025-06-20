@@ -5,6 +5,7 @@ date: "2022-01-01T01:00:00+02:00"
 gewässer:
 - spree
 - teltowkanal
+- havel
 images:
 - src: images/Partytisch_des_RC_KST_Wiking_2022.jpg
   title: Partytisch des RC KST Wiking 2022
@@ -16,16 +17,11 @@ images:
   title: Party bei Wiking 2022
 - src: images/Schleuse_Kleinmachnow_Wiking_2022.jpg
   title: Schleuse Kleinmachnow Wiking 2022
-länder: []
+länder: 
+- deutschland
 title: Wiking Sternfahrt 2022
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wiking- Sternfahrt 2018
