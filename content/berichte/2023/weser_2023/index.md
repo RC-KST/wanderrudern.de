@@ -48,16 +48,10 @@ images:
 - src: images/Bremen_Rathaus_Weser_2023.jpg
   title: Bremen Rathaus Weser 2023
 länder:
-- italien
+- deutschland
 title: Weser 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Weserwanderfahrt
