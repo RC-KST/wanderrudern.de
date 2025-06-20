@@ -4,6 +4,8 @@ begin: "2023-01-01"
 date: "2023-01-01T01:00:00+02:00"
 gewässer:
 - oste
+- wattenmeer
+- nordsee
 images:
 - src: images/Sieger_des_Oste_Marathon_2023.jpg
   title: Sieger des Oste Marathon 2023
@@ -19,17 +21,11 @@ images:
   title: Oste Marathon 2023 C-Zweier mit Steuermann
 - src: images/Rudermannschaft_RC_KST_Sandbank_Oste_Marathon_2023.jpg
   title: Rudermannschaft RC KST Sandbank Oste Marathon 2023
-länder: []
+länder:
+- deutschland
 title: Oste Marathon Hemmoor 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Oste Marathon 2023
 
