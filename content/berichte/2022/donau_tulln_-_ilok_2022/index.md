@@ -6,7 +6,6 @@ gewässer:
 - donau
 - mossoni-donau
 - szentendre
-- oder
 images:
 - src: images/Johanna_Bootshalle_Tulln_Donau_2022.jpg
   title: Johanna Bootshalle Tulln Donau 2022
@@ -137,19 +136,13 @@ images:
 - src: images/Bootstransport_in_Tschechien_Donau_2022.jpg
   title: Bootstransport in Tschechien Donau 2022
 länder:
-- tschechien
+- kroatien
 - österreich
 - ungarn
 - slowakei
 title: Donau Tulln - Ilok 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaufahrt Strecke II
