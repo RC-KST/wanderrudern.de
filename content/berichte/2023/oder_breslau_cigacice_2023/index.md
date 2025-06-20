@@ -4,7 +4,6 @@ begin: "2023-05-01"
 date: "2023-05-05T01:00:00+02:00"
 gewässer:
 - oder
-- po
 images:
 - src: images/Ruderboote_beim_Ablegen_in_Breslau_2023.jpg
   title: Ruderboote beim Ablegen in Breslau 2023
@@ -25,12 +24,6 @@ länder:
 title: Oder Breslau Cigacice 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Oder in Polen
