@@ -15,5 +15,5 @@ images:
 
 Saimaa 3-Wochen- Wanderfahrt
 
-{{< seperator >}}
+{{< separator >}}
 {{< gallery >}}
