@@ -2,7 +2,8 @@
 author: ""
 begin: "2022-04-01"
 date: "2022-04-04T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Proberudern_2022.jpg
   title: Proberudern 2022
@@ -26,15 +27,11 @@ images:
   title: Leierkastenmann Rübezahl beim Tag der offenen Tür 2022
 - src: images/Ruderergometer_im_Einsatz_Tag_der_offenen_Tur_Rudern_2022.jpg
   title: Ruderergometer im Einsatz Tag der offenen Tür Rudern 2022
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tür 2022
-typ: veranstaltung
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
