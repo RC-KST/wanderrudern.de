@@ -1,9 +1,9 @@
 ---
 draft: false
-author: ""
+author: "Stefan"
 begin: "2025-01-01"
 date: "2025-01-01T01:00:00+02:00"
-title: Obmannskurs 2025
+title: Saimaa Sommerwanderfahrt 2025
 images:
 - src: images/Saimaa.tif
   title: Saimaa Landkarte
