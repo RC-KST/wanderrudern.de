@@ -2,7 +2,8 @@
 author: ""
 begin: "2023-08-01"
 date: "2023-08-08T01:00:00+02:00"
-gewässer: []
+gewässer:
+- asnen
 images:
 - src: images/Fahrhafen_Rostock_Schweden_2023.jpg
   title: Fährhafen Rostock Schweden 2023
@@ -77,12 +78,6 @@ länder:
 title: Schweden Asnen 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Åsnen in Småland
