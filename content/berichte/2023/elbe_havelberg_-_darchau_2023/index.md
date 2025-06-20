@@ -18,15 +18,11 @@ images:
   title: Jugend Ruderboot Darchau Elbe 2023
 - src: images/Aufladen_in_Darchau_2023.jpg
   title: Aufladen in Darchau 2023
-länder: []
+länder: 
+- deutschland
 title: Havel-Elbe Marathon 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
