@@ -12,7 +12,8 @@ images:
   title: Brandenburgia am Steg 2024
 - src: images/Sechserbruecke_Tegel_Brandenburgia_2024.jpg
   title: Sechserbruecke Tegel Brandenburgia 2024
-länder: [deutschland]
+länder:
+- deutschland
 title: Brandenburgia 2024
 typ: wanderfahrt
 ---
