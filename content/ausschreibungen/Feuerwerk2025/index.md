@@ -5,7 +5,7 @@ begin: "2025-01-01"
 date: "2025-01-01T01:00:00+02:00"
 title: Feuerwerk 2025
 images:
-- src: images/"Glienicker_Bruecke_Feuerwerk_2025.jpg"
+- src: images/Glienicker_Bruecke_Feuerwerk_2025.jpg
   title: Glienicker Brücke
   
 
@@ -18,7 +18,7 @@ Die Weiße Flotte Potsdam veranstaltet seine Mondscheinfahrt mit Feuerwerk und b
 
 Start am Bootshaus 17 Uhr
 
-![Glienicker Brücke](./images/"Glienicker_Bruecke_Feuerwerk_2025.jpg")
+![Glienicker Brücke](./images/Glienicker_Bruecke_Feuerwerk_2025.jpg)
 
 Natürlich fahren wir nicht mit einem der Dampfer, sondern mit unseren Ruderbooten. Und klinken uns einfach als rudernde Zaungäste in das Spektakel ein.
 Von unserem Liegeplatz am Krughorn, vis-à-vis der Sacrower Kirche, genießen wir das Konzert und beobachten die festlich beleuchteten Schiffe.
