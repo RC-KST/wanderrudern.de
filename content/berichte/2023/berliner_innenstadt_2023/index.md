@@ -3,7 +3,6 @@ author: ""
 begin: "2023-05-01"
 date: "2023-05-05T01:00:00+02:00"
 gewässer:
-- inn
 - havel
 - spree
 - teltowkanal
@@ -22,22 +21,15 @@ images:
   title: Reichstagsgebäude 2023 vom Ruderboot aus
 - src: images/Ruderboote_bei_Wiking_Stadtdurchfahrt_2023.jpg
   title: Ruderboote bei Wiking Stadtdurchfahrt 2023
-länder: []
+länder:
+- deutschland
 title: Berliner Innenstadt 2023
 typ: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
+# Berliner Innenstadt- Durchfahrt 2023
 
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
-# Berliner Innenstadt- Durchfahrt
-
-
-2023
 
 Die Berliner Innenstadt ist normalerweise für Ruderboote gesperrt. Einmal im Jahr schafft der LRV Berlin es, eine Sondergenehmigung zu bekommen.
 
