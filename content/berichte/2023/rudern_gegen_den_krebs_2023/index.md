@@ -2,7 +2,8 @@
 author: ""
 begin: "2023-07-01"
 date: "2023-07-07T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- tegler see
 images:
 - src: images/Rudern_gegen_den_Krebs_C-Vierer_2023.jpg
   title: Rudern gegen den Krebs C-Vierer 2023
@@ -12,17 +13,11 @@ images:
   title: Rudern gegen den Krebs 2023 Regattaplatz
 - src: images/Rudern_gegen_den_Krebs_2023.jpg
   title: Rudern gegen den Krebs 2023
-länder: []
+länder:
+- deutschland
 title: Rudern gegen den Krebs 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Rudern gegen Krebs®
 
