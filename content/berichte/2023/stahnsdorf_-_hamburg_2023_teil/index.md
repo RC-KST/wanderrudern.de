@@ -4,8 +4,8 @@ begin: "2023-01-01"
 date: "2023-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- havel
-- wannsee
+- hamburger hafen
+- alster
 images:
 - src: images/Berlin-Hamburg-2024_Ankunft_Werder.jpg
   title: Berlin-Hamburg-2024_Ankunft_Werder
@@ -45,16 +45,11 @@ images:
   title: Berlin-Hamburg-2024_Kinderboot_macht_Badepause
 - src: images/Berlin-Hamburg-2024_viel_los_auf_der_Alster.jpg
   title: Berlin-Hamburg-2024_viel_los_auf_der_Alster
-länder: []
+länder: 
+- deutschland
 title: Stahnsdorf - Hamburg 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorf - Hamburg -
