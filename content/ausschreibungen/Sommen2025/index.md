@@ -21,6 +21,8 @@ images:
 
 ### auch für Wanderfahrt- Neulinge!
 
+![Landkarte Sommen](./images/asbykartan.png)
+
 Gemütliche Wanderfahrt mit Standquartier am See Sommen in Östergötland.
 Wir haben zwei direkt nebeneinanderliegende, rustikale Ferienhäuser mit insgesamt 12 Betten. Wir haben hier Standquartier und machen Tagesfahrten.
 Die Etappen sind auch für fortgeschrittene Anfänger geeignet.
