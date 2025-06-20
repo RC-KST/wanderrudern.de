@@ -1,22 +1,24 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-01-01"
+begin: "2025-08-29"
 date: "2025-01-01T01:00:00+02:00"
 title: Schweden Sommen
 images:
-- src: images/Blick von der Terasse Sommen.jpg
-  title: Sommen Blick von der Terrasse der Hütte
+- src: images/"Häuser am Sommen.jpg"
+  title: Blick von der Hütte
+- src: images/"Blick von der Terasse Sommen.jpg"
+  title: Terasse
 - src: images/asbykartan.png
   title: Karte des Sommen
-- src: images/Häuser am Sommen.jpg
-  title: Häuser am Rande des Sommen
 ---
 ## 29. August - 07.September 2025
 
 ### Letzte Woche der Sommerferien
 
 ### auch für Wanderfahrt- Neulinge!
+
+![Landkarte Sommen](./images/asbykartan.png)
 
 Gemütliche Wanderfahrt mit Standquartier am See Sommen in Östergötland.
 Wir haben zwei direkt nebeneinanderliegende, rustikale Ferienhäuser mit insgesamt 12 Betten. Wir haben hier Standquartier und machen Tagesfahrten.
