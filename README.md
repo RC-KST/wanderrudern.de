@@ -9,11 +9,15 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 - [Frontmatter Guide (yaml)](https://quickref.me/yaml)
 
+# Taxonomies
+- Typen: "marathon", "wanderfahrt", "veranstaltung", "schulung"
+
 # Voraussetzung zur Nutzung offline
 
 - Git Versioning Tool
 - Hugo Cli für die Erstellung und das Testen von lokalen Änderungen
 - npm für
+
 
 ## TODOs
 - [ ] Impressum
