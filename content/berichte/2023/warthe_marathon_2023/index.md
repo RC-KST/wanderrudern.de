@@ -27,16 +27,11 @@ images:
   title: Gorzow Warthe 2023
 - src: images/Stary_Zatom_anlegen_an_der_Fahre_2023.jpg
   title: Stary Zatom anlegen an der Fähre 2023
-länder: []
+länder: 
+- polen
 title: Warthe Marathon 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Warthe Marathon 2023
