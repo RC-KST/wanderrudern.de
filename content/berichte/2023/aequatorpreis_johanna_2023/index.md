@@ -6,7 +6,8 @@ gewässer: []
 images:
 - src: images/johanna_mit_warthefaehre_2014.jpg
   title: johanna mit warthefaehre 2014
-länder: []
+länder:
+- deutschland
 title: Aequatorpreis Johanna 2023
 typ: event
 ---
