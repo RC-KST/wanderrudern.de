@@ -4,6 +4,8 @@ begin: "2022-11-01"
 date: "2022-11-11T01:00:00+02:00"
 gewässer:
 - elbe
+- havel
+- elbe-havel-kanal
 images:
 - src: images/Jagdschloss_Glienicke_vom_Ruderboot_aus_gesehen_November_2022.jpg
   title: Jagdschloss Glienicke vom Ruderboot aus gesehen November 2022
@@ -29,15 +31,11 @@ images:
   title: Boote aufladen in Hinzdorf Elbe November 2022
 - src: images/Ziel_Elbe_November_2022_Hinzdorf_Gluhwein.jpg
   title: Ziel Elbe November 2022 Hinzdorf Glühwein
-länder: []
+länder: 
+- deutschland
 title: Zur Elbe 191km 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
