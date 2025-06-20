@@ -23,16 +23,11 @@ images:
   title: Baumgarten C5x+ Sacrow Paretzer Kanal Maerz 2022
 - src: images/LRV_Brandenburg_Versammlung.jpg
   title: LRV Brandenburg Versammlung
-länder: []
+länder: 
+- deutschland
 title: Ketzin Maerz 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin - Brandenburg/Havel
