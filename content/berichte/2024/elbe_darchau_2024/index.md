@@ -31,7 +31,8 @@ images:
   title: Start im Nebel Schnackenburg 2024
 - src: images/Winterrudern_auf_der_unteren_Elbe_2024.jpg
   title: Winterrudern auf der unteren Elbe 2024
-länder: [deutschland]
+länder:
+- deutschland
 title: Elbe Darchau 2024
 typ: wanderfahrt
 ---
