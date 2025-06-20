@@ -71,6 +71,10 @@ def main():
         out_str += f"rm -r -f \"{file_remote}\";\n"
     out_str += "\nbye;\n"
 
+    print("\n\nbatch file:\n=========")
+    print(out_str)
+    print("=========")
+
     util.write_to_file(SFTP_BATCH_FILE, out_str)
 
 
