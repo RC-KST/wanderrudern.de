@@ -33,7 +33,8 @@ images:
   title: erschöpfte Ruderin Warthemarathon 2022
 - src: images/Ruderboot_Start_in_Zatom_Stary_Warthe_2022.jpg
   title: Ruderboot Start in Zatom Stary Warthe 2022
-länder: []
+länder:
+- polen
 title: Warthe Marathon 2022
 typ: marathon
 ---
