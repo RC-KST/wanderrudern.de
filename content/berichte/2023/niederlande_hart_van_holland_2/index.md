@@ -3,7 +3,7 @@ author: ""
 begin: "2023-01-01"
 date: "2023-01-01T01:00:00+02:00"
 gewässer:
-- donau
+- niederländische gewässer
 images:
 - src: images/Schleuse_in_Utrecht_mit_vielen_Ruderbooten_Hart_van_Holland_2023.jpg
   title: Schleuse in Utrecht mit vielen Ruderbooten Hart van Holland 2023
@@ -27,16 +27,9 @@ images:
   title: Holländische Gruppenstärkung Hart van Holland 2023
 länder:
 - niederlande
-- irland
-- serbien
 title: Niederlande Hart van Holland 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
