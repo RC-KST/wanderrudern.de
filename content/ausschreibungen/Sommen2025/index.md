@@ -9,7 +9,8 @@ images:
   title: Blick von der Hütte
 - src: images/"Blick von der Terasse Sommen.jpg"
   title: Terasse
-- src: images/
+- src: images/asbykartan.png
+  title: Karte des Sommen
 
 ---
 # Schweden Sommen
