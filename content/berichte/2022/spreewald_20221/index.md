@@ -29,15 +29,11 @@ images:
   title: Ruderer im Spreewaldhotel 2022
 - src: images/Schleuse_Lubben_mit_Ruderbooten_Spreewald_2022.jpg
   title: Schleuse Lübben mit Ruderbooten Spreewald 2022
-länder: []
+länder: 
+- deutschland
 title: Spreewald 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
