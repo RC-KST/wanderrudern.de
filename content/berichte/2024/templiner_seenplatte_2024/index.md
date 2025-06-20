@@ -4,6 +4,8 @@ begin: "2024-01-01"
 date: "2024-01-01T01:00:00+02:00"
 gewässer:
 - havel
+- templiner gewässer
+- wannsee
 images:
 - src: images/Stadtbesichtigung_Templin_2024.jpg
   title: Stadtbesichtigung Templin 2024
@@ -49,16 +51,11 @@ images:
   title: Templiner Seenplatte Ruderboot mit den Masters 2024
 - src: images/Templiner_Seenplatte_am_Rohr_2024.jpg
   title: Templiner Seenplatte am Rohr 2024
-länder: []
+länder:
+- deutschland
 title: Templiner Seenplatte 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Templiner Seenplatte
