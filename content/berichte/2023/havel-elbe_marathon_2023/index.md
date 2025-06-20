@@ -15,16 +15,11 @@ images:
   title: Ruderboot Havel-Elbe Marathon 2023
 - src: images/Fruhstuck_nach_zwei_Stunden_rudern_Havel-Elbe_Marathon_2023.jpg
   title: Frühstück nach zwei Stunden rudern Havel-Elbe Marathon 2023
-länder: []
-title: Elbe Havelberg - Darchau 2023
+länder:
+- deutschland
+title: Stahnsdorf - Darchau 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Havel - Elbe - Marathon
