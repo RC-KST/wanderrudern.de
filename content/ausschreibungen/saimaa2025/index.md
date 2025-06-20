@@ -39,7 +39,7 @@ Wenn man Glück hat sichtet man die seltene Saimaa- Robbe.
 Strecke: Puumala, Savonlinna, Varkaus, Kuopio und zurück über Riistavesi, Valamo, Savonranta, Punkaharju, Puumala.
 
 Touristische Highlights: Festung Olavlinna auf einer Klippe im See, Aussichtsturm von Kuopio, das orthodoxe Kloster Valamo, die alten russischen Nachschub-Kanäle, die Bunker der finnischen Verteidigungslinie und natürlich die endlose Weite der Seen.
-Hier geht es zu alten Fahrtberichten: 2023 (/berichte/2023/finnland_saimaa_2023.md)
+Hier geht es zu alten Fahrtberichten: [2023] (/berichte/2023/finnland_saimaa_2023.md)
 
 {{< separator >}}
 {{< gallery >}}
