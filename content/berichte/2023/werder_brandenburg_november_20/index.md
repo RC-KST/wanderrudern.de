@@ -21,16 +21,11 @@ images:
   title: Ruderboot vor Glienicker Bruecke November 2023
 - src: images/Ruderboote_Havelspitze_Brandenburg_2023.jpg
   title: Ruderboote Havelspitze Brandenburg 2023
-länder: []
+länder:
+- deutschland
 title: Werder Brandenburg November 2023
-typ: marathon
+typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wochenendfahrt auf der Havel bis Brandenburg
