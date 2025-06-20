@@ -42,16 +42,11 @@ images:
   title: Dormagen auf dem Rudersteg Silvester 2022
 - src: images/Silvesteressen_in_Dormagen_2022.jpg
   title: Silvesteressen in Dormagen 2022
-länder: []
+länder: 
+- deutschland
 title: Rhein Silvester 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rhein- Wanderfahrt
