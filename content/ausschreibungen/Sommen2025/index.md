@@ -7,7 +7,9 @@ title: Sommen 2025
 images:
 - src: images/"Häuser am Sommen.jpg"
   title: Blick von der Hütte
-
+- src: images/"Blick von der Terasse Sommen.jpg"
+  title: Terasse
+- src: images/
 
 ---
 # Schweden Sommen
