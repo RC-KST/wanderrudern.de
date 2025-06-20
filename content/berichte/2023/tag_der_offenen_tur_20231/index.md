@@ -2,7 +2,8 @@
 author: ""
 begin: "2023-01-01"
 date: "2023-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Ruderer_beim_Tag_der_offenen_Tur_2023.jpg
   title: Ruderer beim Tag der offenen Tür 2023
@@ -20,16 +21,11 @@ images:
   title: Tag der offenen Tür Proberudern 2023
 - src: images/Salatbuffet_am_Tag_der_offenen_Tur_2023.jpg
   title: Salatbüffet am Tag der offenen Tür 2023
-länder: []
+länder:
+- deutschland
 title: Tag der offenen Tür 2023
-typ: veranstaltung
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2023
