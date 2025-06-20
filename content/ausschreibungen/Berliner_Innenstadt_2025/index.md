@@ -18,7 +18,7 @@ images:
 
 ## 12. - 14. September 2025
 
-![Museumsinsel Berlin](/images/Barke_an_der_Museumsinsel_2024.jpg)
+![Museumsinsel Berlin](./images/Barke_an_der_Museumsinsel_2024.jpg)
 
 Der LRV Berlin wieder die Genehmigung für die Durchfahrt der sonst gesperrten Innenstadt erhalten. Leider ist das nicht der übliche Termin im Mai, sondern im Herbst im Rahmen des Deutschen Wanderrudertreffens in Berlin- Treptow.
 Allerdings darf man durch die Innenstadt rudern, auch ohne am WRT teilzunehmen.
