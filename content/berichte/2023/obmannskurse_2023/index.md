@@ -8,16 +8,11 @@ images:
   title: Obmannskurs Erwachsene 2023_
 - src: images/Obmannskurs_Jugendliche_2023_.jpg
   title: Obmannskurs Jugendliche 2023_
-länder: []
+länder:
+- deutschland
 title: Obmannskurse 2023
-typ: wanderfahrt
+typ: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurse 2023
