@@ -3,7 +3,6 @@ author: ""
 begin: "2022-10-01"
 date: "2022-10-10T01:00:00+02:00"
 gewässer:
-- oder
 - rhone
 - mittelmeer
 - etang de berre
@@ -141,17 +140,10 @@ images:
 - src: images/Ruckreise_aus_Sudfrankreich_2022.jpg
   title: Rückreise aus Südfrankreich 2022
 länder:
-- deutschland
 - frankreich
 title: Etang de Berre Mittelmeer 2022
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Südfranzösische Küste bei Marseille
