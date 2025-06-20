@@ -3,10 +3,7 @@ author: ""
 begin: "2022-01-01"
 date: "2022-01-01T01:00:00+02:00"
 gewässer:
-- rhein
-- oder
-- bug
-- shannon
+- lac leman
 images:
 - src: images/Baumgarten_Marathon_Genf_2022.jpg
   title: Baumgarten Marathon Genf 2022
@@ -40,14 +37,10 @@ images:
   title: Lac Leman 2022 Mittagessen
 länder:
 - schweiz
+- frankreich
 title: Tour du Lac Leman 2022
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
