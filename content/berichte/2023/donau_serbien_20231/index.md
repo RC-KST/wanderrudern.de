@@ -95,16 +95,10 @@ images:
 - src: images/Camping_st_mokranjac_Donau_2023.jpg
   title: Camping st mokranjac Donau 2023
 länder:
-- österreich
 - serbien
 title: Donau Serbien 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
@@ -239,9 +233,7 @@ Zum Schluss spendierte er sogar noch Palatschinken für die ganze Mannschaft.
 
 Der Morgen begann mit dem Besuch eines serbischen TV-Teams. Wir wurden beim Ablegen gefilmt, die Interviews sollten später folgen.
 
-An unserem Ziel dem
-
-Campingplatz St. Mokranjac wartete das TV-Team bereits auf uns. Mehrere Leute wurden zum Interview gebeten. Unsere Jugend lernte daraus hoffentlich, dass der Englischunterricht nicht nur dafür da ist, damit der Lehrer glücklich ist.
+An unserem Ziel dem Campingplatz St. Mokranjac wartete das TV-Team bereits auf uns. Mehrere Leute wurden zum Interview gebeten. Unsere Jugend lernte daraus hoffentlich, dass der Englischunterricht nicht nur dafür da ist, damit der Lehrer glücklich ist.
 
 Nach der PR-Arbeit ging es noch zwei Kilometer weiter bis zum Strand von Kusjak. Dieser liegt etwas einen Kilomter vor der Schleuse Djerdap II.
 
