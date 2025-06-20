@@ -3,10 +3,7 @@ author: ""
 begin: "2023-01-01"
 date: "2023-01-01T01:00:00+02:00"
 gewässer:
-- aller
 - spree
-- shannon
-- pielisjoki
 images:
 - src: images/Quer_durch_Berlin_RC_KST_Jugendboot_Mastesboot_2023.jpg
   title: Quer durch Berlin RC KST Jugendboot Mastesboot 2023
@@ -22,17 +19,11 @@ images:
   title: Mastersboot Quer durch Berlin 2023
 - src: images/Siegermannschaft_Quer_durch_Berlin_Senior_Manner_2023.jpg
   title: Siegermannschaft Quer durch Berlin Senior Männer 2023
-länder: []
+länder: 
+- deutschland
 title: Quer durch Berlin 2023
-typ: wanderfahrt
+typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Quer durch Berlin 2023
 
