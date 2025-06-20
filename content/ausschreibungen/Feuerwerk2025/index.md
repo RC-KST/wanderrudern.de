@@ -22,6 +22,8 @@ Die Weiße Flotte Potsdam veranstaltet seine Mondscheinfahrt mit Feuerwerk und b
 
 Start am Bootshaus 17 Uhr
 
+![Gleinicker Brücke](./images/asbykartan.png)
+
 Natürlich fahren wir nicht mit einem der Dampfer, sondern mit unseren Ruderbooten. Und klinken uns einfach als rudernde Zaungäste in das Spektakel ein.
 Von unserem Liegeplatz am Krughorn, vis-à-vis der Sacrower Kirche, genießen wir das Konzert und beobachten die festlich beleuchteten Schiffe.
 
