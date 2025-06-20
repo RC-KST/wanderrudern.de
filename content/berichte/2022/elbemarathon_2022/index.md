@@ -21,16 +21,11 @@ images:
   title: Torgau der Nebel hebt sich 2022
 - src: images/Ruderboot_Elbe_Marathon_2022.jpg
   title: Ruderboot Elbe Marathon 2022
-länder: []
+länder:
+- deutschland
 title: Elbemarathon 2022
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Elbe- Marathon Februar 2022
