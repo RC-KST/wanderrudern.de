@@ -47,7 +47,8 @@ images:
   title: Märkische Wassersport 2024 Innenstadtdurchfahrt
 - src: images/Wartestelle_Spandauer_Schleuse_Ruderboote_2024.jpg
   title: Wartestelle Spandauer Schleuse Ruderboote 2024
-länder: [deutschland]
+länder:
+- deutschland
 title: Berliner Innenstadt 2024
 typ: wanderfahrt
 ---
