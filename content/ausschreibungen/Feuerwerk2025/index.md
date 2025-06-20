@@ -7,7 +7,6 @@ title: Feuerwerk 2025
 images:
 - src: images/Glienicker Bruecke Feuerwerk 2025.jpg
   title: Feuerwerk an der Glienicker Brücke
-
 ---
 # Feuerwerk + Blasmusik Glienicker Brücke + Sacrower Kirche
 
