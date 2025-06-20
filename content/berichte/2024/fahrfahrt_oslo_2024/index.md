@@ -42,7 +42,8 @@ images:
   title: Viggeland die Frisur sitzt 2024
 - src: images/Viggeland_Park_2024.jpg
   title: Viggeland Park 2024
-länder: [norwegen]
+länder:
+- norwegen
 title: Fährfahrt Oslo 2024
 typ: wanderfahrt
 ---
