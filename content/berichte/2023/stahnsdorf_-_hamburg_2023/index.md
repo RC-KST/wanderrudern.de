@@ -29,7 +29,8 @@ images:
   title: Stadtparkteich Ruderer im Wasser Herbst 2023
 - src: images/Ruderinnen_Alsterkanale_Herbst_2023.jpg
   title: Ruderinnen Alsterkanäle Herbst 2023
-länder: []
+länder:
+- deutschland
 title: Stahnsdorf - Hamburg 2023
 typ: wanderfahrt
 ---
