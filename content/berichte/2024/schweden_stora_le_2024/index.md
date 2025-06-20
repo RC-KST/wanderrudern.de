@@ -2,7 +2,9 @@
 author: ""
 begin: "2024-08-01"
 date: "2024-08-08T01:00:00+02:00"
-gewässer: []
+gewässer:
+- stora le
+- foxen
 images:
 - src: images/Karte_Stora_Lee_2024.png
   title: Karte Stora Lee 2024
@@ -72,13 +74,6 @@ länder:
 title: Schweden Stora Le 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Schweden Stora Lee
 
