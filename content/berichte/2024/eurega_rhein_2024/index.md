@@ -27,7 +27,7 @@ images:
   title: EUREGA 2024 Pieliskoki Ruderer
 länder:
 - deutschland
-- title: EUREGA Rhein 2024
+title: EUREGA Rhein 2024
 typ: marathon
 ---
 
