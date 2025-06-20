@@ -2,7 +2,8 @@
 author: ""
 begin: "2022-01-01"
 date: "2022-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- elbe
 images:
 - src: images/Steuermann_Elbe_Elbsandsteingebirge_2022.jpg
   title: Steuermann Elbe Elbsandsteingebirge 2022
@@ -20,15 +21,10 @@ images:
   title: Ruderer Elbsandsteingebirge Elbe 2022
 länder:
 - deutschland
+- tschechien
 title: Litomerice - Pirna 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Adventswanderfahrt 2022
