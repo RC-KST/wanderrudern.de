@@ -2,6 +2,13 @@
 
 Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 
+# Hilfe für das Bearbeiten von Berichten
+
+- Berichte liegen unter /content/berichte
+- Bitte im Jahr einsortieren
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+- [Frontmatter Guide (yaml)](https://quickref.me/yaml)
+
 # Voraussetzung zur Nutzung offline
 
 - Git Versioning Tool
@@ -49,10 +56,10 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
     - [ ] Clubkleidung?
     - [x] Vorstand
     - [x] Wettbewerbe
-- [ ] ~Drop-Downs in Bar~
-- [ ] ~Mobile Layout~
-    - [ ] ~Hamburger-Menu~
-    - [ ] ~Bild Main site~
+- [x] Drop-Downs in Bar
+- [x] Mobile Layout
+    - [x] Hamburger-Menu
+    - [x] Bild Main site
 - [x] Add tags inside header for better SEO
 - [ ] Sponsoren
 
@@ -68,3 +75,5 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 - [ ] ~lnr.js (suche inklusive nachladen vom Suchindex)~
 - [ ] ~Alpine-js fuer simples js~
 - [ ] ~Leaflet fuer Anfahrt?~ (for now)
+
+
