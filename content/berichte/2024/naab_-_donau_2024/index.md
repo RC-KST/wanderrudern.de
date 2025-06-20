@@ -44,17 +44,11 @@ images:
   title: Ruderboot auf der Naab 2024
 - src: images/Winsauerpreis_fur_den_RC_KST_2024.jpg
   title: Winsauerpreis für den RC KST 2024
-länder: []
+länder:
+- deutschland
 title: Naab - Donau 2024
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Naab - Donau
 
