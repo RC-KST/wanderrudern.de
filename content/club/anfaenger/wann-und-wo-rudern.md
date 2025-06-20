@@ -17,7 +17,7 @@ Anfänger können jederzeit zu einem der [Sporttermine](../wochentermine) kommen
 Im Mai startet ein  [Anfänger- Ruderkurs für Erwachsene](/ausschreibungen/2025/anfaengerkurs). Der Kurs für die Jugendlichen startet im März.
 
 ### Was kostet das Rudern beim RC KST?
-[Preistabelle](/club/mitgliedschaft)
+[Preistabelle](/club/anfaenger/mitgliedschaft)
 
 Was für Kleidung ist nötig?
 Dem Wetter angemessene Sportkleidung. Die Hosen und Pullover sollten jedoch nicht zu weit sein, da man sonst leicht in der Rollbahn hängen bleibt.
