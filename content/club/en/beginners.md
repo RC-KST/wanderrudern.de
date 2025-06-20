@@ -28,4 +28,4 @@ What kind of clothing is necessary?
 Wear sports clothes that are appropriate for the weather. However, pants and pullovers should not be too loose, because the oars can caught on the clothing while rowing.
 Find club clothing here.
 
-If you have other questions, here is the contact information:  [The board] (
+If you have other questions, here is the contact information:  [The board] (club/vorstand.md)
