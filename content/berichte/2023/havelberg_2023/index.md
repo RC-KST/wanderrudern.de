@@ -3,7 +3,6 @@ author: ""
 begin: "2023-01-01"
 date: "2023-01-01T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 - plauer see
 images:
@@ -23,16 +22,11 @@ images:
   title: Ruderclub Rathenow Ruderboote 2023
 - src: images/Havelberg_Dom_2023.jpg
   title: Havelberg Dom 2023
-länder: []
+länder:
+- deutschland
 title: Havelberg 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Pfingstwanderfahrt
