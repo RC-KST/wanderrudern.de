@@ -4,7 +4,8 @@ begin: "2024-06-01"
 date: "2024-06-06T01:00:00+02:00"
 gewässer:
 - oste
-- oder
+- nordsee
+- wattenmeer
 images:
 - src: images/Gesamtsieger_Oste_2024_RC_KST.jpg
   title: Gesamtsieger Oste 2024 RC KST
@@ -22,17 +23,11 @@ images:
   title: Hemmoor vor dem Steg 2024
 - src: images/Container_Frachter_Oste_2024.jpg
   title: Container Frachter Oste 2024
-länder: []
+länder:
+- deutschland
 title: Oste Marathon Hemmoor 2024
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Oste Marathon
 
