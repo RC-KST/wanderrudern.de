@@ -9,7 +9,6 @@ gewässer:
 - spreewald
 - neuendorfer see
 - köthener see
-- oder
 images:
 - src: images/Pizza_in_Wendenschloss_2024.jpg
   title: Pizza in Wendenschloss 2024
@@ -41,13 +40,6 @@ länder: []
 title: Spreewald 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Spreewald- Wanderfahrt
 
@@ -82,9 +74,7 @@ Da darüber hinaus ein Boot mit Gastruderern anderer Vereine das ausdrückliche 
 
 Trotz Gegenströmung haben wir die ca. 42 km gut überstanden.
 
-Die Bungalows waren, wie auch im letzten Jahr gut gepflegt und sogar
-
-vorgeheizt.
+Die Bungalows waren, wie auch im letzten Jahr gut gepflegt und sogar vorgeheizt.
 
 Am Samstag war die Strecke frei wählbar. Dies bedeutete, dass man sich im Oberspreewald auch mal in einer etwas engeren Gasse wiederfindet. Teilweise auch mit Gegenverkehr von chaotischen Paddlern.
 

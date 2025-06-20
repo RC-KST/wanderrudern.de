@@ -4,7 +4,6 @@ begin: "2024-10-01"
 date: "2024-10-10T01:00:00+02:00"
 gewässer:
 - rhein
-- aller
 images:
 - src: images/Ruderboot_Rheinmarathon_2024.jpg
   title: Ruderboot Rheinmarathon 2024
@@ -12,16 +11,11 @@ images:
   title: Frauenboot Rheinmarathon 2024
 - src: images/Start_Rheinmarathon_2024.jpg
   title: Start Rheinmarathon 2024
-länder: []
+länder:
+- deutschland
 title: Rheinmarathon 2024
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rhein Marathon

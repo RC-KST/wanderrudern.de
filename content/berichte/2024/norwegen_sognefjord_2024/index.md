@@ -3,8 +3,12 @@ author: ""
 begin: "2024-08-01"
 date: "2024-08-08T01:00:00+02:00"
 gewässer:
-- oder
+- naeröyfjord
 - sognefjord
+- aurlandsfjord
+- fjaerlandsfjord
+- lustrafjord
+- laerdalsfjord
 images:
 - src: images/Sognefjord_Landkarte.jpg
   title: Sognefjord Landkarte
@@ -187,18 +191,10 @@ images:
 - src: images/Anhanger_auf_dem_PKW_Deck_Fjordline_2024.jpg
   title: Anhänger auf dem PKW Deck Fjordline 2024
 länder:
-- dänemark
 - norwegen
 title: Norwegen Sognefjord 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Sognefjord Norwegen
 
@@ -275,9 +271,7 @@ Der letzte Rudertag wurde wegen weiter übler Wetterlage zum Touristentag umgewa
 
 Die Rückreise startete am nächsten extrem früh, da wir unsere Fähre nicht verpassen wollten. Vom Fjord ging es nach extremer Steigung über eine einsame Hochebene. Der einzige Gegenverkehr waren Schafe und Kühe.
 
-D
-
-as Wetter zunehmend besser und als wir schließlich Bergen erreicht hatten, schien sogar die Sonne.
+Das Wetter zunehmend besser und als wir schließlich Bergen erreicht hatten, schien sogar die Sonne.
 
 Bei der Ausfahrt mit der Fjordline Fähre genossen wir ein ganz seltenes Erlebnis Bergen bei strahlendem Sonnenschein.
 

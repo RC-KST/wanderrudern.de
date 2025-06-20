@@ -23,7 +23,8 @@ images:
   title: Ruderer unter der Bastei Advent 2024
 - src: images/Ruderboote_am_Ziel_in_Pirna_2024.jpg
   title: Ruderboote am Ziel in Pirna 2024
-länder: [tschechien]
+länder:
+- tschechien
 title: Elbe Lovosice - Pirna 2024
 typ: wanderfahrt
 ---

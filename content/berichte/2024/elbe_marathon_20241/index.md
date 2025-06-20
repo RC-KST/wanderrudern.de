@@ -19,8 +19,9 @@ images:
   title: Burg Schreckenstein mit Ruderboot 2024
 - src: images/Ruderer_in_Torgau_Elbemarathon_2024.jpg
   title: Ruderer in Torgau Elbemarathon 2024
-länder: [deutschland]
-title: Elbe Marathon 2024
+länder:
+- deutschland
+- title: Elbe Marathon 2024
 typ: marathon
 ---
 

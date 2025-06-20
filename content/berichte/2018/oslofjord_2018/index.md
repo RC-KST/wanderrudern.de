@@ -1,7 +1,7 @@
 ---
 author: ""
-begin: "2024-08-01"
-date: "2024-08-08T01:00:00+02:00"
+begin: "2018-08-01"
+date: "2018-08-08T01:00:00+02:00"
 gewässer: []
 images:
 - src: images/Porsgrunn_auf_dem_Weg_zum_Meer_2018.jpg
@@ -136,7 +136,7 @@ images:
   title: Cocktails auf der Faehre 2018
 länder:
 - schweden
-title: Fährfahrt Oslo 2024
+title: Oslofjord 2018
 typ: wanderfahrt
 ---
 

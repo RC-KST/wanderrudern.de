@@ -25,17 +25,11 @@ images:
   title: Biwakplatz Gülper Havel Havelberg 2024
 - src: images/Havelberg_erreicht_2024.jpg
   title: Havelberg erreicht 2024
-länder: []
+länder:
+- deutschland
 title: Havelberg 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Jugendwanderfahrt
 
