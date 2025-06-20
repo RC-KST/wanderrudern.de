@@ -9,7 +9,7 @@ Wer früher einmal gerudert hat und es mal wieder probieren will, aber auch wer 
 ### Wo kann man  rudern?
 Der Club liegt in Stahnsdorf, Bäkepromenade direkt unterhalb der Machnower Schleuse. [zur Umgebungskarte](#TODO)
 
-Einen Blick auf unser Ruderrevier können Sie [hier](ruderrevier) werfen.
+Einen Blick auf unser Ruderrevier können Sie [hier](/club/anfaenger/ruderrevier) werfen.
 
 ### Wann können Anfänger kommen?
 Anfänger können jederzeit zu einem der [Sporttermine](../wochentermine) kommen.
@@ -22,6 +22,6 @@ Im Mai startet ein  [Anfänger- Ruderkurs für Erwachsene](/ausschreibungen/2025
 Was für Kleidung ist nötig?
 Dem Wetter angemessene Sportkleidung. Die Hosen und Pullover sollten jedoch nicht zu weit sein, da man sonst leicht in der Rollbahn hängen bleibt.
 
-Clubkleidung findet man [hier](../clubkleidung).
+Clubkleidung findet man [hier](/club/clubkleidung).
 
 Wer weitere Fragen hat, hier sind die [Ansprechpartner](/club/vorstand)

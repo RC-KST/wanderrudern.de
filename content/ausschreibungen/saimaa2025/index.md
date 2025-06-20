@@ -5,7 +5,7 @@ begin: "2025-01-01"
 date: "2025-01-01T01:00:00+02:00"
 title: Saimaa Sommerwanderfahrt 2025
 images:
-- src: images/02 Saimaa.tif
+- src: images/02 Saimaa.png
   title: Saimaa Landkarte
 - src: images/1 Puumala.jpg
   title: Puumala Campingplatz
@@ -40,7 +40,3 @@ Strecke: Puumala, Savonlinna, Varkaus, Kuopio und zurück über Riistavesi, Vala
 
 Touristische Highlights: Festung Olavlinna auf einer Klippe im See, Aussichtsturm von Kuopio, das orthodoxe Kloster Valamo, die alten russischen Nachschub-Kanäle, die Bunker der finnischen Verteidigungslinie und natürlich die endlose Weite der Seen.
 Hier geht es zu alten Fahrtberichten: [2023](../../berichte/2023/finnland_saimaa_2023.md)
-
-{{< separator >}}
-
-{{< gallery >}}
