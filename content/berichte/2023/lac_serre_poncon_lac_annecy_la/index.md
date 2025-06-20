@@ -6,6 +6,10 @@ gewässer:
 - rhone
 - kleine rhone
 - po
+- lac serre poncon
+- lac annecy
+- gorges du verdon
+- lac leman
 images:
 - src: images/Ruderboote_am_Genfer_See_Oktober_2023.jpg
   title: Ruderboote am Genfer See Oktober 2023
@@ -93,16 +97,10 @@ images:
   title: Ruderer Herbstfahrt 2023
 länder:
 - frankreich
-title: Lac Serre Poncon Lac Annecy Lac Serre Poncon Genfer See 2023
+- schweiz
+title: Lac Serre Poncon Lac Annecy gorges du verdon Genfer See 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Genfer See, Alpenseen in Frankreich, kleine Rhone
 
