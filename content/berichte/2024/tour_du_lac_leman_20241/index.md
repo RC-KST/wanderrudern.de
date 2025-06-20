@@ -32,6 +32,7 @@ images:
   title: Lac Leman 3 Gang
 länder:
 - schweiz
+- frankreich
 title: Tour du Lac Leman 2024
 typ: marathon
 ---
