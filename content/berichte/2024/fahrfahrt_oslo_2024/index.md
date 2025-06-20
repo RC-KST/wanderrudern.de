@@ -42,17 +42,10 @@ images:
   title: Viggeland die Frisur sitzt 2024
 - src: images/Viggeland_Park_2024.jpg
   title: Viggeland Park 2024
-länder: []
+länder: [norwegen]
 title: Fährfahrt Oslo 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Fährreise nach Oslo
 
