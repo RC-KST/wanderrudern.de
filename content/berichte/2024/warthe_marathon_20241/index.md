@@ -25,16 +25,11 @@ images:
   title: Schwebebalken für Ruderer Warthe 2024
 - src: images/Adller_an_der_Warthe_2024.jpg
   title: Adller an der Warthe 2024
-länder: []
+länder:
+- polen
 title: Warthe Marathon 2024
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Warthe Marathon 2024
