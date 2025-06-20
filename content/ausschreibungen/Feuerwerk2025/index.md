@@ -5,8 +5,13 @@ begin: "2025-01-01"
 date: "2025-01-01T01:00:00+02:00"
 title: Feuerwerk 2025
 images:
-- src: images/"Glienicker Bruecke Feuerwerk 2025.jpg"
-  title: Feuerwerk an der Glienicker Brücke
+- src: images/"Blick von der Terasse Sommen.jpg"
+  title: Sommen Hütte
+- src: images/"Blick von der Terasse Sommen.jpg"
+  title: Sommen Hütte
+- src: images/"Blick von der Terasse Sommen.jpg"
+  title: Sommen Hütte
+  
 
 ---
 # Feuerwerk + Blasmusik Glienicker Brücke + Sacrower Kirche
