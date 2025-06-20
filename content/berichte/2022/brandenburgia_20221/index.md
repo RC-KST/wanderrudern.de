@@ -5,6 +5,7 @@ date: "2022-03-03T01:00:00+02:00"
 gewässer:
 - havel
 - spree
+- - hohenzollernkanal
 images:
 - src: images/Veltener_Stichkanal_2022.jpg
   title: Veltener Stichkanal 2022
@@ -14,17 +15,11 @@ images:
   title: Masters E-Vierer vor Eiswerder 2022
 - src: images/Ruderboot_Wasserstadt_Oberhavel_2022.jpg
   title: Ruderboot Wasserstadt Oberhavel 2022
-länder: []
+länder:
+- deutschland
 title: Brandenburgia 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Brandenburgia Wochenende
 
