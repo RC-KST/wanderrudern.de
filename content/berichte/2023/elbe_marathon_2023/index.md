@@ -3,9 +3,8 @@ author: ""
 begin: "2023-02-01"
 date: "2023-02-02T01:00:00+02:00"
 gewässer:
-- weser
+- havel
 - elbe
-- moldau
 images:
 - src: images/Ruderboot_auf_der_Binnenalster_2023.jpg
   title: Ruderboot auf der Binnenalster 2023
@@ -73,7 +72,9 @@ images:
   title: Ruderboot vor dem Spiegel Elbe 2023
 - src: images/Ruderboote_vom_Schnee_befreien_Elbe_2023.jpg
   title: Ruderboote vom Schnee befreien Elbe 2023
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Elbe Marathon 2023
 typ: marathon
 ---
@@ -129,8 +130,6 @@ Hier war gut geheizt, so dass wir uns nicht nur selbst aufwärmen konnten, sonde
 Am nächsten Morgen hatte uns dann endgültig der Winter eingeholt. Der Start verzögerte sich etwas, da wir die 5cm Neuschnee erst mal aus den Booten bekommen mussten.
 
 Danach ging es durchs Winterwunderland. Die halbe Strecke in weiterem Schneefall, aber immerhin fast windstill. Gegen Ende stieg die Temperatur dann leicht über den Gefrierpunkt, aber warm wurde es nicht wirklich.
-
-Es g
 
 Nach 121 km legten wir beim Ruderclub Aken an. Kleines gemütliches Bootshaus, der Holzofen sorgte für ordentlich Wärme.
 
