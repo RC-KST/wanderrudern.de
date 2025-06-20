@@ -21,7 +21,7 @@ images:
   title: Ruderer in Torgau Elbemarathon 2024
 länder:
 - deutschland
-- title: Elbe Marathon 2024
+title: Elbe Marathon 2024
 typ: marathon
 ---
 
