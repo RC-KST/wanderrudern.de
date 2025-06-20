@@ -4,7 +4,6 @@ begin: "2023-12-01"
 date: "2023-12-12T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Schmilka_an_der_Elbe_2023.jpg
   title: Schmilka an der Elbe 2023
@@ -26,15 +25,12 @@ images:
   title: Steuermann im Elbsandsteingebirge 2023
 - src: images/Bastei_an_der_Elbe_2023.jpg
   title: Bastei an der Elbe 2023
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Litomerice - Pirna 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
