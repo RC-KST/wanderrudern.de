@@ -8,16 +8,11 @@ images:
   title: Obmannskurs 2024 Jugend_
 - src: images/Obmannskurs_2024_Erwachsene.jpg
   title: Obmannskurs 2024 Erwachsene
-länder: []
+länder:
+- deutschland
 title: Obmannskurs 2024
-typ: wanderfahrt
+typ: fortbildung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurse Jugend + Erwachsene
