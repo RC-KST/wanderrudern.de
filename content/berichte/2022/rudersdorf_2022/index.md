@@ -4,6 +4,9 @@ begin: "2022-12-01"
 date: "2022-12-12T01:00:00+02:00"
 gewässer:
 - teltowkanal
+- spree
+- rüdersdorfer gewässer
+- kalksee
 images:
 - src: images/Ruckweg_Rudersdorf_2022.jpg
   title: Rückweg Rüdersdorf 2022
@@ -17,16 +20,11 @@ images:
   title: Nächtliches Bootshaus Wendenschloss Dezember 2022
 - src: images/Der_Weihnachtsmann_kommt_per_Strassenbahn_Rudersdorf_2022.jpg
   title: Der Weihnachtsmann kommt per Strassenbahn Rüdersdorf 2022
-länder: []
+länder: 
+- deutschland
 title: Rüdersdorf 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rüdersdorf Dezember 2022
