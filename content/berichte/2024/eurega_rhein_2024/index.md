@@ -25,8 +25,9 @@ images:
   title: Kindermannschaft im Ziel EUREGA 2024
 - src: images/EUREGA_2024_Pieliskoki_Ruderer.jpg
   title: EUREGA 2024 Pieliskoki Ruderer
-länder: [deutschland]
-title: EUREGA Rhein 2024
+länder:
+- deutschland
+- title: EUREGA Rhein 2024
 typ: marathon
 ---
 
