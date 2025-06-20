@@ -6,6 +6,8 @@ gewässer:
 - elbe
 - hamburger hafen
 - alster
+- havel
+- plauer see
 images:
 - src: images/Berlin-Hamburg-2024_Ankunft_Werder.jpg
   title: Berlin-Hamburg-2024_Ankunft_Werder
