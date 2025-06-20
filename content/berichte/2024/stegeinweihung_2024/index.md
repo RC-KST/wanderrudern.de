@@ -2,7 +2,8 @@
 author: ""
 begin: "2024-03-01"
 date: "2024-03-03T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Martin_schneidet_den_Steg_Kuchen_an_2024.jpg
   title: Martin schneidet den Steg Kuchen an 2024
@@ -22,17 +23,11 @@ images:
   title: Taufe der Barke Dnister 2024
 - src: images/Barke_Dnister_Ruderclub_Kleinmachnow_2024.jpg
   title: Barke Dnister Ruderclub Kleinmachnow 2024
-länder: []
+länder: 
+ - deutschland
 title: Stegeinweihung 2024
-typ: marathon
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Einweihung des neuen Stegs 2024
 
