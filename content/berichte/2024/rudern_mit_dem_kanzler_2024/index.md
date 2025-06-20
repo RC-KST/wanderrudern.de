@@ -3,8 +3,7 @@ author: ""
 begin: "2024-09-01"
 date: "2024-09-09T01:00:00+02:00"
 gewässer:
-- aller
-- shannon
+- teltowkanal
 images:
 - src: images/1_Scholz_im_Ruderboot_Alte_Autobahn_Kleinmachnow.jpg
   title: 1 Scholz im Ruderboot Alte Autobahn Kleinmachnow
@@ -14,16 +13,11 @@ images:
   title: 4 Scholz im Ruderboot
 - src: images/2_Scholz_vor_der_Machnower_Schleuse_2024.jpg
   title: 2 Scholz vor der Machnower Schleuse 2024
-länder: []
+länder: 
+ - deutschland
 title: Rudern mit dem Kanzler 2024
-typ: marathon
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Der Kanzler beim Rudertraining
