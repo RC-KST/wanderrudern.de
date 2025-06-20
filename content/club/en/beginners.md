@@ -22,7 +22,7 @@ Beginners can come to any of the scheduled rowing times.
 
 What is touring rowing?  
 
-How much does it cost to row with the RC KST?     Membership fees
+How much does it cost to row with the RC KST?     Membership fees  (club/anfaenger/mitgliedschaft)
 
 What kind of clothing is necessary?
 Wear sports clothes that are appropriate for the weather. However, pants and pullovers should not be too loose, because the oars can caught on the clothing while rowing.
