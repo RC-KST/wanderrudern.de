@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{- $page_name := path.BaseName $.Page.RelPermalink }}
-    {{ partial "page-title.html" $page_name }}
+    {{ partial "intern/page-title.html" $page_name }}
     {{ .Content }}
 
     <div>

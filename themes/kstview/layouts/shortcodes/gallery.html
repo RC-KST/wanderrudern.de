@@ -1,1 +1,18 @@
+{{/*
+    Show a gallery,
+    all images have to be specified in the frontmatter like this:
+
+    ```yaml
+    images:
+    - title: "image title here"
+      src: "relative path to image here (images/image_name_here.jpg)"
+    ```
+
+    Usage:
+
+    ```
+    {{< gallery >}}
+    ```
+*/}}
+
 {{ partial "gallery.html" . }}

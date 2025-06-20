@@ -1,3 +1,12 @@
+{{/*
+    Show latest news as reports.
+
+    Usage:
+
+    ```
+    {{< previous-news-and-reports >}}
+    ```
+*/}}
 {{- if ne $.Site.Params.news_count 0 }}
 <h3 class="w-full text-center">{{ i18n "home_news_und_berichte" }}</h3>
 <ul>

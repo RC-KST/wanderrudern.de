@@ -1,3 +1,18 @@
+{{/*
+    Use inside a slider
+
+    The slider id has to be unique per page (Only if there have to be more than one slider on one page).
+
+    ```
+    {{< slider id="unique-slider-id-here" >}}
+        {{< slider-entry
+            text="shown text here"
+            img="relative-link-to-image-here (images/slider-example.jpg)"
+            href="link-to-corresponding-page-here" >}}
+    {{< /slider >}}
+    ```
+*/}}
+
 {{- $href := .Get "href"}}
 {{- $text := .Get "text" }}
 {{- $img := .Get "img" }}
