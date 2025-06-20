@@ -6,16 +6,11 @@ gewässer: []
 images:
 - src: images/Tim_jungster_mannlicher_Aquatorpreisgewinner_aller_Zeiten.jpg
   title: Tim jüngster männlicher Äquatorpreisgewinner aller Zeiten
-länder: []
+länder:
+- deutschland
 title: Aequatorpreis Tim 2023
-typ: wanderfahrt
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Äquatorpreis für Tim
