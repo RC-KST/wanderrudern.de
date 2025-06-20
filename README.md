@@ -2,6 +2,13 @@
 
 Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 
+# Hilfe für das Bearbeiten von Berichten
+
+- Berichte liegen unter /content/berichte
+- Bitte im Jahr einsortieren
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+- [Frontmatter Guide (yaml)](https://quickref.me/yaml)
+
 # Voraussetzung zur Nutzung offline
 
 - Git Versioning Tool
