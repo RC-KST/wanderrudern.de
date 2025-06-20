@@ -40,16 +40,11 @@ images:
   title: Ruderer baden in der Trebel 2022
 - src: images/Abendidyll_Nehringen_Pferde_an_der_Tranke_2022.jpg
   title: Abendidyll Nehringen Pferde an der Tränke 2022
-länder: []
+länder: 
+- deutschland
 title: Trebel Peene 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Trebel - Peene Wanderfahrt
