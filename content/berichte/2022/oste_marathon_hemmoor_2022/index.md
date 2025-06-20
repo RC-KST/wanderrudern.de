@@ -4,9 +4,8 @@ begin: "2022-07-01"
 date: "2022-07-07T01:00:00+02:00"
 gewässer:
 - oste
-- spreewald
-- wannsee
-- shannon
+- nordsee
+- wattenmeer
 images:
 - src: images/Anhangertransport_Oste_Marathon_2022.jpg
   title: Anhängertransport Oste Marathon 2022
@@ -43,16 +42,10 @@ images:
 - src: images/Seerobben_auf_dem_Oste_Riff_2022.jpg
   title: Seerobben auf dem Oste Riff 2022
 länder:
-- frankreich
+- deutschland
 title: Oste Marathon Hemmoor 2022
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # RCKST-Jugendvierer Gesamtsieger beim "Ostemarathon" - 80 Kilometer in 5h 08"
