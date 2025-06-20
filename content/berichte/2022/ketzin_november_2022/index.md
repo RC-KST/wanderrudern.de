@@ -2,7 +2,8 @@
 author: ""
 begin: "2022-11-01"
 date: "2022-11-11T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- havel
 images:
 - src: images/Sacrow_Paretzer_Kanal_Ruderer_bei_Schneefall_Ketzin_Herbst_2022.jpg
   title: Sacrow Paretzer Kanal Ruderer bei Schneefall Ketzin Herbst 2022
@@ -20,15 +21,11 @@ images:
   title: Mittagspause der Ruderer im Malabar Herbst 2022
 - src: images/Sonnenuntergang_am_Trebbelsee_Ketzin_Herbst_2022.jpg
   title: Sonnenuntergang am Trebbelsee Ketzin Herbst 2022
-länder: []
+länder: 
+- deutschland
 title: Ketzin November 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
