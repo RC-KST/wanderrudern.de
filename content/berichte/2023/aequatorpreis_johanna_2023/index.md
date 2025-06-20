@@ -8,14 +8,8 @@ images:
   title: johanna mit warthefaehre 2014
 länder: []
 title: Aequatorpreis Johanna 2023
-typ: wanderfahrt
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Äquatorpreis für Johanna
