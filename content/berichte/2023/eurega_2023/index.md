@@ -4,8 +4,6 @@ begin: "2023-05-01"
 date: "2023-05-05T01:00:00+02:00"
 gewässer:
 - rhein
-- oder
-- shannon
 images:
 - src: images/Baumgarten_C4x__Marathon_EUREGA_2023.jpg
   title: Baumgarten C4x+ Marathon EUREGA 2023
@@ -33,17 +31,11 @@ images:
   title: Verpflegung eines Marathon Ruderers EUREGA 2023
 - src: images/Logo_Eurega.png
   title: Logo Eurega
-länder: []
+länder:
+- deutschland
 title: EUREGA 2023
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Bericht zur EUREGA XXXI
 
