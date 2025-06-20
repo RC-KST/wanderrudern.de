@@ -3,7 +3,6 @@ author: ""
 begin: "2023-07-01"
 date: "2023-07-07T01:00:00+02:00"
 gewässer:
-- inn
 - saimaa
 images:
 - src: images/Steuer_bauen_in_Stockholm_2023.jpg
