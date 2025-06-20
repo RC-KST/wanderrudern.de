@@ -4,8 +4,6 @@ begin: "2024-02-01"
 date: "2024-02-02T01:00:00+02:00"
 gewässer:
 - rhein
-- aller
-- shannon
 images:
 - src: images/Baumgarten_C4x__im_Lorelei_Hafen_EUREGA_2024.jpg
   title: Baumgarten C4x+ im Lorelei Hafen EUREGA 2024
@@ -27,17 +25,10 @@ images:
   title: Kindermannschaft im Ziel EUREGA 2024
 - src: images/EUREGA_2024_Pieliskoki_Ruderer.jpg
   title: EUREGA 2024 Pieliskoki Ruderer
-länder: []
+länder: [deutschland]
 title: EUREGA Rhein 2024
 typ: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # RC KST bei der 32. Europäischen Rheinregatta (EUREGA) 2024
 

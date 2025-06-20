@@ -4,6 +4,7 @@ begin: "2024-05-01"
 date: "2024-05-05T01:00:00+02:00"
 gewässer:
 - tegler see
+- havel
 images:
 - src: images/Brandenburgia_Spandau_Niederneuendorfer_See_2024.jpg
   title: Brandenburgia Spandau Niederneuendorfer See 2024
@@ -11,17 +12,10 @@ images:
   title: Brandenburgia am Steg 2024
 - src: images/Sechserbruecke_Tegel_Brandenburgia_2024.jpg
   title: Sechserbruecke Tegel Brandenburgia 2024
-länder: []
+länder: [deutschland]
 title: Brandenburgia 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Anfängerfahrt Brandenburgia
 

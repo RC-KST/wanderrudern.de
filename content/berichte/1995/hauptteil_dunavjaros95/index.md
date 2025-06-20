@@ -6,9 +6,8 @@ gewässer:
 - donau
 - donaukanal
 - mossoni-donau
-- szentendre
-- aller
-- oder
+- szentendre-donau
+
 images:
 - src: images/carola_wien.jpg
   title: carola wien Donaukanal
@@ -41,6 +40,7 @@ images:
 länder:
 - österreich
 - ungarn
+- slowakei
 title: Donau Wien Dunavjaros 1995
 typ: wanderfahrt
 ---

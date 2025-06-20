@@ -3,7 +3,6 @@ author: ""
 begin: "2024-02-01"
 date: "2024-02-02T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/Barke_des_RC_KST_.jpg
   title: Barke des RC KST_
@@ -13,7 +12,7 @@ images:
   title: Barke auf dem Teltowkanal 2024
 länder: []
 title: Barke 2024
-typ: wanderfahrt
+typ: event
 ---
 
 

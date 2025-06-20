@@ -3,7 +3,7 @@ author: ""
 begin: "2024-05-01"
 date: "2024-05-05T01:00:00+02:00"
 gewässer:
-- inn
+- spree
 - havel
 - teltowkanal
 - tegler see
@@ -47,20 +47,12 @@ images:
   title: Märkische Wassersport 2024 Innenstadtdurchfahrt
 - src: images/Wartestelle_Spandauer_Schleuse_Ruderboote_2024.jpg
   title: Wartestelle Spandauer Schleuse Ruderboote 2024
-länder: []
+länder: [deutschland]
 title: Berliner Innenstadt 2024
 typ: wanderfahrt
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Berliner Innenstadt
-
 
 Mai 2024
 
@@ -102,11 +94,7 @@ Merke einmal Lang, zweimal Kurz ist eine Wende über Backbord!
 
 Bei bestem Wetter ging es danach die Havel bis zum Wannsee und dann über die Kleinen Seen und den Teltowkanal zum Ruderclub.
 
-Eine schöne Wanderfahrt, dieses Mal auch ohne toxische
-
-Gast
-
-ruderer und keine Fahnenflüchtligen, die sich nach dem Samstag absetzen.
+Eine schöne Wanderfahrt, dieses Mal auch ohne toxische Gastruderer und keine Fahnenflüchtligen, die sich nach dem Samstag absetzen.
 
 Trotz ausgegebener Wasserkarten schaffte es ein Boot mit einer Runde über den Tegler See sich zu verirren. Mit einiger Verspätung schaffte es auch diese Mannschaft nach Hause. Möglicherweise wollte da auch nur jemand seine Wanderruderkilometer für den DRV voll bekommen.
 

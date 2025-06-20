@@ -4,7 +4,6 @@ begin: "2024-01-01"
 date: "2024-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Ruderboote_Lovosice_Elbe_Advent_2024.jpg
   title: Ruderboote Lovosice Elbe Advent 2024
@@ -24,17 +23,10 @@ images:
   title: Ruderer unter der Bastei Advent 2024
 - src: images/Ruderboote_am_Ziel_in_Pirna_2024.jpg
   title: Ruderboote am Ziel in Pirna 2024
-länder: []
+länder: [tschechien]
 title: Elbe Lovosice - Pirna 2024
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Elbe am 3. Advent 2024
 
