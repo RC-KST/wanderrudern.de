@@ -3,7 +3,10 @@ author: ""
 begin: "2022-09-01"
 date: "2022-09-09T01:00:00+02:00"
 gewässer:
-- oder
+- nordatlantik
+- eyjafjord
+- jökolsarlon
+- eislagune
 images:
 - src: images/Fossatun_mit_Elfenhausern_Island_2022.jpg
   title: Fossatun mit Elfenhäusern Island 2022
@@ -124,17 +127,10 @@ images:
 - src: images/Inrigger_vor_dem_Eisberg_Island_2022.jpg
   title: Inrigger vor dem Eisberg Island 2022
 länder:
-- deutschland
-- frankreich
+- island
 title: Island 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Island- Wanderfahrt
