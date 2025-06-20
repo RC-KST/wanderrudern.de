@@ -44,16 +44,11 @@ images:
   title: Ruderboote in der Spreewaldschleuse 2023
 - src: images/Schleuse_im_Spreewald_2023.jpg
   title: Schleuse im Spreewald 2023
-länder: []
+länder: 
+- deutschland
 title: Spreewald 2023
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewaldfahrt
