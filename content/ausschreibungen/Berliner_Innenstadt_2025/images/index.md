@@ -7,8 +7,8 @@ title: Berliner Innenstadt 2025
 images:
 - src: images/Barke_an_der_Museumsinsel_2024.jpg
   title: Museumsinsel Berlin
-- src: images/Barke_an_der_Museumsinsel_2024.jpg
-  title: Museumsinsel Berlin
+- src: images/280726264_5182157855212066_439394628739387295_n.jpg
+  title: Bundestagsgebäude
 - src: images/Barke_an_der_Museumsinsel_2024.jpg
   title: Museumsinsel Berlin    
 - src: images/Barke_an_der_Museumsinsel_2024.jpg
