@@ -3,7 +3,10 @@ author: ""
 begin: "2022-08-01"
 date: "2022-08-08T01:00:00+02:00"
 gewässer:
-- oder
+- nordatlantik
+- myvatn
+- mjoifjord
+- eyjafjord
 images:
 - src: images/Inrigger_auf_dem_Weg_nach_Island_2022.jpg
   title: Inrigger auf dem Weg nach Island 2022
@@ -222,15 +225,10 @@ images:
 - src: images/Abendessen_im_Hotel_Siglufjordur_Island_2022.jpg
   title: Abendessen im Hotel Siglufjördur Island 2022
 länder:
-- dänemark
+- island
 title: Island 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
