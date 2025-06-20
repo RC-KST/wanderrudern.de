@@ -21,6 +21,7 @@ Die einzigartige Adventure- Tour!
 - gekocht wird auf dem Lagerfeuer
 - alles Gepäck wird in den Booten transportiert
 - echtes Survival und nicht Pseudo- Spielchen
+  
 Die ersten knapp 4 Wochen der Schulferien.
 Der Anhängertransport geht über die Fährverbindung Rostock - Trelleborg, durch Schweden nach Stockholm und von dort mit der Fähre der Silja -Line nach Helsinki.
 Start ist am Mittwoch (Zeugnistag), wir sind am Sonntag (17.08.) zurück. Anreisetag mit dem Flugzeug ist der 26. Juli (Samstag) und Rückreisetag der 15.8 (Freitag). Arbeitnehmer brauchen 15 Urlaubstage.
@@ -38,7 +39,7 @@ Wenn man Glück hat sichtet man die seltene Saimaa- Robbe.
 Strecke: Puumala, Savonlinna, Varkaus, Kuopio und zurück über Riistavesi, Valamo, Savonranta, Punkaharju, Puumala.
 
 Touristische Highlights: Festung Olavlinna auf einer Klippe im See, Aussichtsturm von Kuopio, das orthodoxe Kloster Valamo, die alten russischen Nachschub-Kanäle, die Bunker der finnischen Verteidigungslinie und natürlich die endlose Weite der Seen.
-Hier geht es zu alten Fahrtberichten: (/berichte/2023/finnland_saimaa_2023)
+Hier geht es zu alten Fahrtberichten: 2023 (/berichte/2023/finnland_saimaa_2023.md)
 
 {{< separator >}}
 {{< gallery >}}
