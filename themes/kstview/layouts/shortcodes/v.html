@@ -1,3 +1,12 @@
+{{/*
+    Insert vertical space.
+
+    Usage:
+
+    ```
+    {{< v "height-as-number" >}}
+    ```
+*/}}
 {{- $h := "1"}}
 {{- with .Get 0 }}{{$h = .}}{{end}}
 <div style="height: {{ $h }}rem;"></div>

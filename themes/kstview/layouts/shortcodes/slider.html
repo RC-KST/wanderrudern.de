@@ -1,8 +1,17 @@
-<!--
-    Arguments:
-    - id: slide id, allows for multiple slides per page
-    - entries: slideshow entries
--->
+{{/*
+    Show a slider
+
+    The slider id has to be unique per page (Only if there have to be more than one slider on one page).
+
+    ```
+    {{< slider id="unique-slider-id-here" >}}
+        {{< slider-entry
+            text="shown text here"
+            img="relative-link-to-image-here (images/slider-example.jpg)"
+            href="link-to-corresponding-page-here" >}}
+    {{< /slider >}}
+    ```
+*/}}
 <div>
     {{- $slideshow_id := .Get "id" }}
     {{- $sid := $slideshow_id | safeJS }}

@@ -19,6 +19,8 @@ def main():
     # Stich together output string from `sha256sum` calls
     hashes_map: dict[str, str] = util.calc_hashes(hash_filenames)
 
+    print(f"hashes: ==={hashes_map}===")
+
     out_str = util.map_to_txt(hashes_map)
 
     util.write_to_file(HASHES_FILE, out_str)

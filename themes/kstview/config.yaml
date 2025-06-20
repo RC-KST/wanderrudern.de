@@ -1,0 +1,51 @@
+languageCode: de
+defaultContentLanguage: de
+relativeUrls: true
+timeout: "120"
+services:
+  googleAnalytics:
+    id: ""
+privacy:
+  GoogleAnalytics:
+    disable: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      link:
+        enableDefault: true
+security:
+  enableInlineShortcodes: true
+
+module:
+  mounts:
+    - disableWatch: false
+      lang: ""
+      source: content
+      target: content
+    - disableWatch: false
+      lang: ""
+      source: data
+      target: data
+    - disableWatch: false
+      lang: ""
+      source: layouts
+      target: layouts
+    - disableWatch: false
+      lang: ""
+      source: i18n
+      target: i18n
+    - disableWatch: false
+      lang: ""
+      source: archetypes
+      target: archetypes
+    - disableWatch: false
+      lang: ""
+      source: assets
+      target: assets
+    - disableWatch: false
+      lang: ""
+      source: static
+      target: static
+

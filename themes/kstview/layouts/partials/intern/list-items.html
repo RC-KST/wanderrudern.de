@@ -1,0 +1,31 @@
+<div class="h-full">
+    {{ partial "intern/page-title.html" .Title }}
+
+    {{ .Content }}
+
+    <div>
+    {{- $paginator := (.Paginate (.Pages.ByParam "date").Reverse .Site.Params.list.articles_per_site) }}
+    {{- range $paginator.Pages }}
+        <a href="{{ .Permalink }}" class="p-0">
+            <div class="flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4 py-2 px-4">
+                <div class="flex flex-row">
+                    <div class="flex-grow font-bold flex flex-row flex-nowrap">{{ .Title }}</div>
+                    <div>{{ .Params.date.Format "02.01.2006" }}</div>
+                </div>
+                {{- if .Params.begin }}
+                <div class="flex flex-row flex-nowrap pt-2">
+                        {{ (time .Params.begin).Format "02.01.2006" }}
+                        {{- with .Params.end }} - {{ (time .).Format "02.01.2006" }}{{- end }}
+                </div>
+                {{- end }}
+            </div>
+        </a>
+    {{- end }}
+    </div>
+</div>
+
+<hr>
+
+<div class="flex justify-center">
+{{- partial "pagination.html" . }}
+</div>

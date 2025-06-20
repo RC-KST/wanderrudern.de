@@ -1,6 +1,6 @@
 {{ define "main" }}
     <div class="h-full">
-        <h1>{{ .Title }}</h1>
+        {{ partial "intern/page-title.html" .Title }}
 
         {{ .Content }}
 

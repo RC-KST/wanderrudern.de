@@ -1,3 +1,13 @@
+{{/*
+    Show CSV-file as a table
+
+    Usage:
+
+    ```
+    {{< csv-to-table "file" >}}
+    ```
+*/}}
+
 <div class="flex flex-col flex-nowrap items-center py-5">
 {{- $head := true}}
 {{- if and (.Get 1) (eq (.Get 1) "nohead") }}{{- $head := false}}{{- end }}

@@ -12,6 +12,6 @@
 {{ end }}
 
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
+    {{ partial "intern/page-title.html" .Title }}
     {{ .Content }}
 {{ end }}

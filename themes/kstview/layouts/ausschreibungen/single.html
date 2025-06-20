@@ -33,14 +33,12 @@
     {{ partial "intern/page-title.html" .Title }}
     <div class="flex-grow">{{ .Content }}</div>
 </div>
-
 {{- if .Params.images }}
 <hr/>
 {{- partial "gallery.html" . }}
 {{- end }}
 
 <hr/>
-
 <div class="flex w-full justify-between">
     <span>
         {{- with .PrevInSection }}

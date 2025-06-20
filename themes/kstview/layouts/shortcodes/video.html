@@ -1,2 +1,10 @@
+{{/*
+    Embed a video
+
+    Usage:
+
+    {{< video "url" >}}
+*/}}
+
 {{- $src := .Get 0 }}
 {{- partial "video" (dict "src" $src) }}

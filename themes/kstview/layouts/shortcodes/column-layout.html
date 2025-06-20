@@ -1,4 +1,17 @@
-<!--
-    Arguments: none, children: col shortcode with content in it
--->
+{{/*
+    2-Column-layout
+
+    Usage:
+
+    ```
+    {{< column-layout >}}
+    {{% col %}}
+        <Text here>
+    {{% /col %}}
+    {{% col %}}
+        <Text here>
+    {{% /col %}}
+    {{< /column-layout >}}
+    ```
+*/}}
 <div class="flex flex-col md:flex-row mb-10">{{ .Inner }}</div>
