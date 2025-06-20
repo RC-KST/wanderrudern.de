@@ -5,16 +5,20 @@ begin: "2025-09-12"
 date: "2025-01-01T01:00:00+02:00"
 title: Berliner Innenstadt 2025
 images:
-- src: images/
-  title: Glienicker Brücke
-  
-
+- src: images/Barke_an_der_Museumsinsel_2024.jpg
+  title: Museumsinsel Berlin
+- src: images/Barke_an_der_Museumsinsel_2024.jpg
+  title: Museumsinsel Berlin
+- src: images/Barke_an_der_Museumsinsel_2024.jpg
+  title: Museumsinsel Berlin    
+- src: images/Barke_an_der_Museumsinsel_2024.jpg
+  title: Museumsinsel Berlin
 ---
 # Berliner Innenstadt Durchfahrt
 
 ## 12. - 14. September 2025
 
-![Glienicker Brücke](./images/Glienicker_Bruecke_Feuerwerk_2025.jpg)
+![Museumsinsel Berlin](./images/Barke_an_der_Museumsinsel_2024.jpg)
 
 Der LRV Berlin wieder die Genehmigung für die Durchfahrt der sonst gesperrten Innenstadt erhalten. Leider ist das nicht der übliche Termin im Mai, sondern im Herbst im Rahmen des Deutschen Wanderrudertreffens in Berlin- Treptow.
 Allerdings darf man durch die Innenstadt rudern, auch ohne am WRT teilzunehmen.
