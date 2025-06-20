@@ -32,13 +32,8 @@ images:
   title: Medaillen des Ruderclub Kleinmachnow
 länder: []
 title: Preisverleihung 2022
-typ: veranstaltung
+typ: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
