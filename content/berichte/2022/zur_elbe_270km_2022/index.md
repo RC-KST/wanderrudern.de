@@ -3,9 +3,9 @@ author: ""
 begin: "2022-06-01"
 date: "2022-06-06T01:00:00+02:00"
 gewässer:
-- rhein
+- havel
 - elbe
-- oder
+- elbe-havel-kanal
 images:
 - src: images/Schleuse_Parey_Marathon_2022.jpg
   title: Schleuse Parey Marathon 2022
@@ -41,16 +41,11 @@ images:
   title: Badepause Elbe Havel Kanal Marathon 2022
 - src: images/Ruderer_im_Boot_Pause_Marathon_2022.jpg
   title: Ruderer im Boot Pause Marathon 2022
-länder: []
+länder: 
+- deutschland
 title: Zur Elbe 270km 2022
 typ: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorf - Schnackenburg/Elbe
