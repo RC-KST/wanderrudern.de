@@ -9,3 +9,5 @@ title: Brandenburger Sommerwettbewerb 2015
 7 Goldmedaillen, 5 Silbermedaillen, 5 Bronzemedaillen (von jeweils 14 möglichen)
 
 Knapp 25% der Brandenburger Wanderruderkilometer werden vom RC KST gerudert!
+
+{{< csv-to-table "data/sommer_2015.csv" >}}
