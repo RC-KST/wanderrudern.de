@@ -137,6 +137,8 @@ menus:
     - name: Ausschreibungen
       pageRef: /ausschreibungen
       weight: 30
+
+    # Club Untermenü
     - name: Anfänger
       pageRef: /club/anfaenger
       weight: 10
