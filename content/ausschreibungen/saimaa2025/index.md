@@ -1,8 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-07-23"
-date: "2025-01-01T01:00:00+02:00"
+date: "2025-07-23"
 title: Saimaa Sommerwanderfahrt 2025
 images:
 - src: images/02 Saimaa.png

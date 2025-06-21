@@ -1,8 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-07-19"
-date: "2025-01-01T01:00:00+02:00"
+date: "2025-07-19"
 title: Feuerwerk 2025
 images:
 - src: images/Glienicker Bruecke Feuerwerk 2025.jpg
