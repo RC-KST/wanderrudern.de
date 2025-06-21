@@ -1,19 +1,32 @@
 {{/*
     Show CSV-file as a table
 
+    "nohead" is optional
+    ""
+
     Usage:
 
     ```
-    {{< csv-to-table "file" >}}
+    {{< csv-to-table "file" "nohead" >}}
     ```
 */}}
 
+{{- range (page.Resources.Match "*.csv" )}}
+<div> {{debug.Dump . }}</div>
+{{- end }}
+
 <div class="flex flex-col flex-nowrap items-center py-5">
+{{- $delimiter := ";"}}
 {{- $head := true}}
 {{- if and (.Get 1) (eq (.Get 1) "nohead") }}{{- $head := false}}{{- end }}
 {{- with $file := .Get 0 }}
-    {{- with ($.Page.Resources.Get $file) }}
-        {{- with . | transform.Unmarshal (dict "delimiter" ";") }}
+    {{- $resource := false }}
+    {{- with page.Resources.Get $file }}{{ $resource = . }}{{ end }}
+    {{- if not $resource }}
+        {{- with (page.Parent.Resources.Get $file) }}{{ $resource = . }}{{ end }}
+    {{ end }}
+    {{- with $resource }}
+        {{- with . | transform.Unmarshal (dict "delimiter" $delimiter) }}
         <table class="min-w-80 border border-gray-200">
             {{- if $head }}
             <thead class="text-white">

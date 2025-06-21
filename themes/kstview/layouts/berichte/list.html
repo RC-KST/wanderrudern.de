@@ -1,23 +1,14 @@
 {{ define "main" }}
-    {{ partial "intern/list-items.html" . }}
+    {{- partial "taxonomy/list-taxonomy.html" "typen" }}
 
-    <div class="flex flex-col">
-        <!--<h3 class="text-center">{{ i18n "bericht_gruppierung" }}</h3>-->
-        <h4 class="text-center">{{ strings.Title (i18n "bericht_jahr") }}</h4>
-        <div class="flex flex-row flex-wrap justify-center">
-            {{- range .Page.Pages.GroupByPublishDate "2006" }}
-            <a class="mx-1 my-0.5 rounded-full bg-primary-light text-white" href="{{ ($.GetPage ((printf "/jahr/%s" .Key))).Permalink }}">{{ strings.Title .Key }}</a>
-            {{- end }}
-        </div>
-        {{- range $tax, $tax_v := $.Site.Taxonomies }}
-            {{- if not (eq (len $tax_v) 0) }}
-            <h4 class="text-center">{{ strings.Title $tax }}</h3>
-            <div class="flex flex-row flex-wrap justify-center">
-                {{- range $term, $term_v := $tax_v }}
-                <a class="mx-1 my-0.5 rounded-full bg-primary-light text-white" href="{{ $term_v.Page.Permalink }}">{{ $term_v.Page.Title }}</a>
-                {{- end }}
-            </div>
-            {{- end }}
-        {{- end }}
-    </div>
+    {{- partial "intern/list-items.html" . }}
+
+    {{- $pages := newScratch }}
+    {{- range .Page.Pages.GroupByPublishDate "2006" }}
+        {{- $pages.Set .Key ($.GetPage ((printf "/jahr/%s" .Key))).Permalink }}
+    {{- end }}
+    {{- partial "taxonomy/list-category" (dict "name" (i18n "bericht_jahr") "pages" $pages.Values) }}
+
+    {{- partial "taxonomy/list-taxonomy.html" "gewässer" }}
+    {{- partial "taxonomy/list-taxonomy.html" "länder" }}
 {{ end }}

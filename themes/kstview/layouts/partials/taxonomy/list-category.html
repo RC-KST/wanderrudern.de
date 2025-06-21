@@ -1,0 +1,14 @@
+{{ $category_name := .name -}}
+{{ $category_pages := .pages }}
+{{/*
+{{- debug.Dump $category_name }}
+{{- debug.Dump $category_pages }}
+*/}}
+<h4 class="text-center">{{ strings.Title $category_name }}</h3>
+<div class="flex flex-row flex-wrap justify-center">
+    {{- range $title, $permalink := $category_pages }}
+    <a class="mx-1 my-0.5 rounded-full bg-primary-light text-white"
+        href="{{ $permalink }}">{{ strings.Title $title }}</a>
+    {{/*href="{{ $term_v.Page.Permalink }}">{{ $term_v.Page.Title }}</a>*/}}
+    {{- end }}
+</div>

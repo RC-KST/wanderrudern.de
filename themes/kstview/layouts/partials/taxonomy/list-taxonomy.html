@@ -1,0 +1,7 @@
+{{ $tax_name := . -}}
+{{ $tax_pages := index site.Taxonomies $tax_name -}}
+{{ $pages := newScratch -}}
+{{ range $term_k, $term_v := $tax_pages -}}
+    {{ $pages.Set $term_v.Page.Title $term_v.Page.Permalink -}}
+{{ end -}}
+{{ partial "taxonomy/list-category.html" (dict "name" $tax_name "pages" $pages.Values )  -}}

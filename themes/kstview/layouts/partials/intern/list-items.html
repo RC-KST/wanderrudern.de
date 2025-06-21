@@ -10,7 +10,7 @@
             <div class="flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4 py-2 px-4">
                 <div class="flex flex-row">
                     <div class="flex-grow font-bold flex flex-row flex-nowrap">{{ .Title }}</div>
-                    <div>{{ .Params.date.Format "02.01.2006" }}</div>
+                    <div>{{ i18n "trip_record_from" }} {{ .Params.date.Format "02.01.2006" }}</div>
                 </div>
                 {{- if .Params.begin }}
                 <div class="flex flex-row flex-nowrap pt-2">

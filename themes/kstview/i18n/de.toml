@@ -11,7 +11,7 @@ home_news_und_berichte = "Neuigkeiten und Berichte"
 
 until = "bis"
 trip_report_written_by = "geschrieben von"
-trip_record_last_modified = "letzte Änderung"
+trip_record_from = "vom"
 
 bericht_jahr = "Jahr"
 bericht_laender = "Länder"
