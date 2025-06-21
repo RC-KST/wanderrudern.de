@@ -7,7 +7,7 @@ gewässer:
 - mecklenburger seenplatte
 länder: []
 title: Mirow 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

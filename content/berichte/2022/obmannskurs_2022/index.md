@@ -10,7 +10,7 @@ images:
   title: Obammnskurs 2022 das neue Ergometer
 länder: []
 title: Obmannskurs 2022
-typ: schulung
+typen: schulung
 ---
 
 

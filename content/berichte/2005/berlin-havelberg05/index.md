@@ -14,7 +14,7 @@ images:
   title: Gepäck verladen Rudern
 länder: []
 title: Berlin havelberg 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

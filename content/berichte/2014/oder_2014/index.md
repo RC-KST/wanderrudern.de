@@ -18,7 +18,7 @@ images:
 länder:
 - tschechien
 title: Oder 2014
-typ: marathon
+typen: marathon
 ---
 
 

@@ -13,7 +13,7 @@ images:
   title: drachenboot regatta kleinmachnow 0802
 länder: []
 title: Drachenbootcup 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

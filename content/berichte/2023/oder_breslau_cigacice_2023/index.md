@@ -22,7 +22,7 @@ images:
 länder:
 - polen
 title: Oder Breslau Cigacice 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -20,7 +20,7 @@ images:
   title: schuppen_bau
 länder: []
 title: Clubgelaende2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

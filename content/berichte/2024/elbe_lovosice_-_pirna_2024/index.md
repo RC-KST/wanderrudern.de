@@ -26,7 +26,7 @@ images:
 länder:
 - tschechien
 title: Elbe Lovosice - Pirna 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Elbe am 3. Advent 2024

@@ -19,7 +19,7 @@ images:
   title: Ende des Müggelsees Anrudern 2019
 länder: []
 title: Berliner Anrudern 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

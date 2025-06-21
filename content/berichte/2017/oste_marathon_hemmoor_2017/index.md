@@ -30,7 +30,7 @@ images:
   title: Pause in Neuhaus 2017
 länder: []
 title: Oste Marathon Hemmoor 2017
-typ: marathon
+typen: marathon
 ---
 
 

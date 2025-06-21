@@ -43,7 +43,7 @@ images:
 länder: 
 - deutschland
 title: Trebel Peene 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -113,7 +113,7 @@ länder:
 - deutschland
 - österreich
 title: Elbe - Lübeck 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

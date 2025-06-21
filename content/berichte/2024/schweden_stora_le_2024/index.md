@@ -72,7 +72,7 @@ länder:
 - norwegen
 - schweden
 title: Schweden Stora Le 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Schweden Stora Lee

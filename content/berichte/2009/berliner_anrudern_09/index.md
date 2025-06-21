@@ -10,7 +10,7 @@ images:
   title: Party bei Friedrichshagen 09
 länder: []
 title: Berliner Anrudern 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

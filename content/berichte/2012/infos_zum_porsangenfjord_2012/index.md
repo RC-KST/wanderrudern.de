@@ -15,7 +15,7 @@ images:
   title: Letzte Bucht aber ohne Strassenanschluss 2012
 länder: []
 title: Nordkap 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

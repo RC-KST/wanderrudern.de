@@ -17,7 +17,7 @@ images:
   title: Abendessen kochen Dresdenia 2012
 länder: []
 title: Kinderruderfahrt Spandau 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

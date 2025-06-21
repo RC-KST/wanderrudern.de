@@ -40,7 +40,7 @@ images:
   title: Starigrad Paklenica vom Ruderboot Kroatien 2015
 länder: []
 title: Kroatien 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

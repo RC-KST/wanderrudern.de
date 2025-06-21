@@ -12,7 +12,7 @@ gewässer:
 - oder
 länder: []
 title: Spree Pfingsten 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

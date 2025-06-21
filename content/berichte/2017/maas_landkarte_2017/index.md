@@ -9,7 +9,7 @@ images:
   title: Maas Wanderfahrt 2017 Karte
 länder: []
 title: Maas 2017 Blog
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

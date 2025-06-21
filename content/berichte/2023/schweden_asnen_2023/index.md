@@ -76,7 +76,7 @@ images:
 länder:
 - schweden
 title: Schweden Asnen 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

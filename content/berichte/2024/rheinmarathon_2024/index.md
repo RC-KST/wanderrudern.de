@@ -14,7 +14,7 @@ images:
 länder:
 - deutschland
 title: Rheinmarathon 2024
-typ: marathon
+typen: marathon
 ---
 
 

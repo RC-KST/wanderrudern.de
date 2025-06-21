@@ -17,7 +17,7 @@ images:
   title: Kanal nach Neustrelitz 08
 länder: []
 title: Neustrelitz 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

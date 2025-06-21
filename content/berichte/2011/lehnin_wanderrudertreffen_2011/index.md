@@ -26,7 +26,7 @@ images:
   title: Emster Kanal Lehnin 2011
 länder: []
 title: Lehnin Wanderrudertreffen 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

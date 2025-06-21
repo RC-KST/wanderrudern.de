@@ -14,7 +14,7 @@ images:
   title: Havelkanal Marathon Schleuse Schoenwalde 2017
 länder: []
 title: Havelkanal-Marathon 2017
-typ: marathon
+typen: marathon
 ---
 
 

@@ -28,7 +28,7 @@ images:
   title: Kopenhagen am Schloss 2019
 länder: []
 title: Kopenhagen 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

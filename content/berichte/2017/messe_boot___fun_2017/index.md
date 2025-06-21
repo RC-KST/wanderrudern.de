@@ -15,7 +15,7 @@ images:
   title: Schulrudern Boot und Fun 2017
 länder: []
 title: Messe Boot + Fun 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

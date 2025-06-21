@@ -60,7 +60,7 @@ länder:
 - finnland
 - schweden
 title: Finnland Saimaa 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

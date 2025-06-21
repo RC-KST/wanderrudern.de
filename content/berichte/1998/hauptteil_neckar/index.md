@@ -22,7 +22,7 @@ images:
 länder:
 - deutschland
 title: neckar
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

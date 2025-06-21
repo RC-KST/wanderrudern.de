@@ -193,7 +193,7 @@ images:
 länder:
 - norwegen
 title: Norwegen Sognefjord 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Sognefjord Norwegen

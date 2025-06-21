@@ -22,7 +22,7 @@ images:
   title: Preisverleihung Marlies und Nirina 2016
 länder: []
 title: Drachenboot-Rudercup 2016
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

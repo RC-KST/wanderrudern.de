@@ -46,7 +46,7 @@ images:
 länder: 
 - deutschland
 title: Berliner Innenstadt 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Berliner Innenstadt

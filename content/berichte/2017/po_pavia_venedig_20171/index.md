@@ -123,7 +123,7 @@ länder:
 - österreich
 - schweiz
 title: Blog Pavia Venedig 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

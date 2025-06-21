@@ -18,7 +18,7 @@ images:
   title: Mannschaft wartet auf ihr Ruderboot zum Wechseln
 länder: []
 title: Holland 1996
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -13,7 +13,7 @@ images:
 länder:
 - finnland
 title: Neuruppin 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

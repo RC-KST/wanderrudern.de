@@ -14,7 +14,7 @@ images:
   title: Nirina mit Aequatorpreis 2018
 länder: []
 title: Main 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

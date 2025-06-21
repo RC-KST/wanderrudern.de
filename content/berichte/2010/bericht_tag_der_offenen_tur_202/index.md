@@ -17,7 +17,7 @@ images:
   title: Ruderclub Kleinmachnow Clubgelaende 2010
 länder: []
 title: Bericht Tag der offenen Tür 2010
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

@@ -22,7 +22,7 @@ images:
 länder: 
 - deutschland
 title: Quer durch Berlin 2023
-typ: marathon
+typen: marathon
 ---
 
 # Quer durch Berlin 2023

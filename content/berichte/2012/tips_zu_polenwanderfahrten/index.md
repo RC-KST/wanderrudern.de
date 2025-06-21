@@ -12,7 +12,7 @@ länder:
 - deutschland
 - polen
 title: Masuren Berlin 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

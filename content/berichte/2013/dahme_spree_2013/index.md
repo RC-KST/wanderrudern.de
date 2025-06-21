@@ -35,7 +35,7 @@ images:
   title: Hannes beim staken Dahme Spree 2013
 länder: []
 title: Dahme Spree 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

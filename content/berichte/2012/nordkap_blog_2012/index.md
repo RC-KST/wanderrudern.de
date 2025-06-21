@@ -46,7 +46,7 @@ images:
   title: Nordpolarkreis Ruderer 2012
 länder: []
 title: Nordkap 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -25,7 +25,7 @@ images:
   title: Niirina mit Siegried Kaidel und Ina Holtz 2017
 länder: []
 title: Rhein Rastatt Mannheim 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

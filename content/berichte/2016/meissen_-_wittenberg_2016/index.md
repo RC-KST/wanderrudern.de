@@ -15,7 +15,7 @@ images:
   title: Muehlberg im Hafen Pause Elbe 2016
 länder: []
 title: Meissen - Wittenberg 2016
-typ: marathon
+typen: marathon
 ---
 
 

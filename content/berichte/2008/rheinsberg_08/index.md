@@ -22,7 +22,7 @@ images:
 länder:
 - italien
 title: Rheinsberg 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

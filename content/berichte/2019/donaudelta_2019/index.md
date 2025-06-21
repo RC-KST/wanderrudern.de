@@ -121,7 +121,7 @@ länder:
 - ukraine
 - slowakei
 title: Donaudelta 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -93,7 +93,7 @@ images:
 länder:
 - deutschland
 title: Mecklenburg Umfahrt 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

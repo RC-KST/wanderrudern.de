@@ -27,7 +27,7 @@ images:
   title: Ruderer vor der Bastei 2015
 länder: []
 title: Litomerice - Pirna 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

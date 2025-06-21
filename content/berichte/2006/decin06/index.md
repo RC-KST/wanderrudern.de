@@ -36,7 +36,7 @@ images:
   title: Kinder auf der Barke 2006
 länder: []
 title: Decin06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

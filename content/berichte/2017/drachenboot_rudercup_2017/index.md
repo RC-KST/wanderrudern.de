@@ -24,7 +24,7 @@ images:
   title: Sumo Ringen mal anders Drachenbootrudercup 2017
 länder: []
 title: Tag der offenen Tuer 2017
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

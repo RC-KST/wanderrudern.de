@@ -20,7 +20,7 @@ images:
   title: Jo und LingLing am Weserstein 2013
 länder: []
 title: Wesermarathon 2013
-typ: marathon
+typen: marathon
 ---
 
 

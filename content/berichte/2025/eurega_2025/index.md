@@ -9,7 +9,7 @@ gewässer:
 - rhein
 länder:
 - deutschland
-typ: marathon
+typen: marathon
 images:
 - src: images/boot_fertig.jpg
   title: Boot fertig vorbereitet

@@ -34,7 +34,7 @@ länder:
 - schweiz
 - frankreich
 title: Tour du Lac Leman 2024
-typ: marathon
+typen: marathon
 ---
 
 Inoffizielle Weltmeisterschaft der Marathon-Ruderer

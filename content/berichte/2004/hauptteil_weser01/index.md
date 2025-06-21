@@ -27,7 +27,7 @@ images:
   title: Fahrtende in Vegesack
 länder: []
 title: Weser 2004 Februar
-typ: marathon
+typen: marathon
 ---
 
 

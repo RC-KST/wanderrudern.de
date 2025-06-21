@@ -49,7 +49,7 @@ images:
   title: scharmuetzelsee unterwasser
 länder: []
 title: storkow 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

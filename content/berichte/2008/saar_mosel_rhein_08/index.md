@@ -89,7 +89,7 @@ länder:
 - ungarn
 - serbien
 title: Saar Mosel Rhein 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

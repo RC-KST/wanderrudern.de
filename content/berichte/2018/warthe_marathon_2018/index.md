@@ -32,7 +32,7 @@ images:
 länder:
 - polen
 title: Warthe Marathon 2018
-typ: marathon
+typen: marathon
 ---
 
 

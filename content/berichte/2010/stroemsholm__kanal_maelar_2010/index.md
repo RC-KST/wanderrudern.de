@@ -110,7 +110,7 @@ images:
 länder:
 - schweden
 title: Wanderfahrt Stroemsholm  Kanal Maelar 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

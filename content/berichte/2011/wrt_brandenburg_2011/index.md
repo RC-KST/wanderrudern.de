@@ -7,7 +7,7 @@ gewässer:
 - oder
 länder: []
 title: Wesermarathon 2011
-typ: marathon
+typen: marathon
 ---
 
 

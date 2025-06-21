@@ -20,7 +20,7 @@ images:
   title: Marathonstart Weser Ruderer
 länder: []
 title: Wesermarathon 2003
-typ: marathon
+typen: marathon
 ---
 
 

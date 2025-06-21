@@ -14,7 +14,7 @@ images:
   title: Vierer bei Kagar 2012
 länder: []
 title: Flecken Zechlin 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

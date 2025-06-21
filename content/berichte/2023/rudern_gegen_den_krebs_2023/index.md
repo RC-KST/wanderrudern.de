@@ -16,7 +16,7 @@ images:
 länder:
 - deutschland
 title: Rudern gegen den Krebs 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Rudern gegen Krebs®

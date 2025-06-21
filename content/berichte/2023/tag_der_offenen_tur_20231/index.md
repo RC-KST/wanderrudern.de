@@ -24,7 +24,7 @@ images:
 länder:
 - deutschland
 title: Tag der offenen Tür 2023
-typ: event
+typen: event
 ---
 
 

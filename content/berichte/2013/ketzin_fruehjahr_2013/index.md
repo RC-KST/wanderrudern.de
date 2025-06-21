@@ -17,7 +17,7 @@ images:
   title: Eisstau Sacrow Paretzer Kanal Maerz 2013
 länder: []
 title: Ketzin Fruehjahr 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

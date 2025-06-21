@@ -6,7 +6,7 @@ gewässer:
 - elbe
 länder: []
 title: Decin06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

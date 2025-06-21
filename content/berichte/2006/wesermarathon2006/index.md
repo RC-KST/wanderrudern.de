@@ -22,7 +22,7 @@ images:
   title: Malte Sophie Ruderboot
 länder: []
 title: Wesermarathon 2006
-typ: marathon
+typen: marathon
 ---
 
 

@@ -35,7 +35,7 @@ images:
   title: Nirina am Ziel Osterholz Scharnbeck Winter2011
 länder: []
 title: Weser 2011 Winterwanderfahrt
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

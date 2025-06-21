@@ -39,7 +39,7 @@ images:
   title: Hamburg Stadtbesichtigung Ruderer
 länder: []
 title: elbe_Hamburg93
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

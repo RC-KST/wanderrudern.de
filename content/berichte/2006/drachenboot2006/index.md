@@ -66,7 +66,7 @@ images:
   title: Zuschauer Drachenbootrennen
 länder: []
 title: drachenboot2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

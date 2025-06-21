@@ -16,7 +16,7 @@ images:
 länder:
 - deutschland
 title: Bleilochtalsperre
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

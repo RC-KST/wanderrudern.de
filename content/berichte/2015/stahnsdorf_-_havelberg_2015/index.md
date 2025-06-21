@@ -29,7 +29,7 @@ images:
 länder:
 - italien
 title: Stahnsdorf - Havelberg 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

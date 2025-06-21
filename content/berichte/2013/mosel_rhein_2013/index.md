@@ -44,7 +44,7 @@ images:
   title: Niederrhein in voller Schoenheit 2013
 länder: []
 title: Saar Mosel Rhein 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

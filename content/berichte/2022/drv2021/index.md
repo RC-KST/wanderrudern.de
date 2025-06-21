@@ -5,7 +5,7 @@ date: "2022-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Preisverleihung 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

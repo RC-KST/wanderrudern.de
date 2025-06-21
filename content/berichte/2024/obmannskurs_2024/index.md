@@ -11,7 +11,7 @@ images:
 länder:
 - deutschland
 title: Obmannskurs 2024
-typ: fortbildung
+typen: fortbildung
 ---
 
 

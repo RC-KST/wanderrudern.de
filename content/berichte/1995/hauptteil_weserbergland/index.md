@@ -17,7 +17,7 @@ images:
   title: feuerwerk minden ruderer
 länder: []
 title: Weserberglandrallye 1995
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

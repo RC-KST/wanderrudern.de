@@ -97,7 +97,7 @@ images:
   title: Bratislava von der Burg Donau 2015
 länder: []
 title: Donau Ulm - Bratislava 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

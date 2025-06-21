@@ -14,7 +14,7 @@ images:
   title: Neuer Bootsanhaenger Uebergabe durch BM Albers 2018
 länder: []
 title: Kinderfest Familienfest 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

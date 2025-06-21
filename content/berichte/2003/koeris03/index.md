@@ -8,7 +8,7 @@ gewässer:
 - teltowkanal
 länder: []
 title: Klein Koeris 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

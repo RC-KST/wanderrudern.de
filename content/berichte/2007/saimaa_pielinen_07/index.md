@@ -142,7 +142,7 @@ länder:
 - schweden
 - schweiz
 title: Saimaa Pielinen 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

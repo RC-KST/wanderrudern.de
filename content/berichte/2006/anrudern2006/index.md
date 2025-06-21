@@ -22,7 +22,7 @@ images:
   title: Anrudern06_schleuse
 länder: []
 title: Anrudern2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

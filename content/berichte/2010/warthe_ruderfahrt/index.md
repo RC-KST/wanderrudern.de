@@ -30,7 +30,7 @@ images:
 länder:
 - polen
 title: Warthe Ruderfahrt
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

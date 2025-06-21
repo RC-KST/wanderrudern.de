@@ -50,7 +50,7 @@ images:
 länder: 
 - deutschland
 title: Stahnsdorf - Hamburg 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

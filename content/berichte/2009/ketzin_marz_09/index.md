@@ -14,7 +14,7 @@ images:
   title: Kinder Ruderboot Sacrow Paretzer Kanal K09
 länder: []
 title: Ketzin März 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

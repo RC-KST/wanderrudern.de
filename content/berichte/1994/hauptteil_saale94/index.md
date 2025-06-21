@@ -26,7 +26,7 @@ images:
   title: bernburg aufladen der Ruderboote
 länder: []
 title: Saale Naumburg nach Bernburg
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

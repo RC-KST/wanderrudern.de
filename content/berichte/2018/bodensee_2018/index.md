@@ -34,7 +34,7 @@ images:
 länder:
 - schweiz
 title: Bodensee 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

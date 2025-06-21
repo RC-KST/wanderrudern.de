@@ -32,7 +32,7 @@ images:
   title: Brueckenruine Oder 2021
 länder: []
 title: Odermarathon 2021
-typ: marathon
+typen: marathon
 ---
 
 

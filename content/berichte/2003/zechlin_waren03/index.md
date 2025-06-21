@@ -15,7 +15,7 @@ images:
   title: Kochen in Waren beim Ruderverein
 länder: []
 title: Zechlin Waren 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

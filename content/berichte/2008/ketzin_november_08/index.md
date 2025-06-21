@@ -10,7 +10,7 @@ images:
 länder:
 - deutschland
 title: Ketzin November 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

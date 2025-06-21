@@ -20,7 +20,7 @@ länder:
 - finnland
 - schweden
 title: Saimaa Seenplatte 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

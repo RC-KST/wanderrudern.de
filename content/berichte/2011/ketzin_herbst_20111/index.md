@@ -7,7 +7,7 @@ gewässer:
 - trebelsee
 länder: []
 title: Ketzin Herbst 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

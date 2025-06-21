@@ -93,7 +93,7 @@ images:
   title: Baden Osteholz schwarmbeck Weser 2018
 länder: []
 title: Weser 2018 Blog
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

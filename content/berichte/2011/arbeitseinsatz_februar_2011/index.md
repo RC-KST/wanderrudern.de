@@ -14,7 +14,7 @@ images:
   title: Rollbahnen wechseln Februar 2011
 länder: []
 title: Arbeitseinsatz Februar 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

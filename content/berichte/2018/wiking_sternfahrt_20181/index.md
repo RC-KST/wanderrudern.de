@@ -22,7 +22,7 @@ images:
   title: Wiking Sternfahrt 2018
 länder: []
 title: Wiking Sternfahrt 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

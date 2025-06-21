@@ -7,7 +7,7 @@ gewässer:
 länder:
 - italien
 title: Elbe_Mrz06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

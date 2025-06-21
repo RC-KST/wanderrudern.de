@@ -17,7 +17,7 @@ images:
   title: Proberudern ToT08
 länder: []
 title: Bericht Tag der offenen Tür 2008
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

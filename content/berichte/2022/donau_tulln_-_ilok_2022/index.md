@@ -141,7 +141,7 @@ länder:
 - ungarn
 - slowakei
 title: Donau Tulln - Ilok 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

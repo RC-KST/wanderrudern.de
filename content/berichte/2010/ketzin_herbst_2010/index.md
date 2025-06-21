@@ -14,7 +14,7 @@ images:
   title: Vierer in Brandenburg K10
 länder: []
 title: Ketzin Herbst 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

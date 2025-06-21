@@ -75,7 +75,7 @@ images:
   title: Danzig Hafen 2017
 länder: []
 title: Oberlaendischer Kanal 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -111,7 +111,7 @@ länder:
 - deutschland
 - frankreich
 title: Mosel Rhein 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

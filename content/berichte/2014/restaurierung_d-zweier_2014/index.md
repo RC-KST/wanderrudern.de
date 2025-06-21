@@ -16,7 +16,7 @@ images:
   title: neue Spanten für den D-zweier
 länder: []
 title: Restaurierung D-Zweier 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

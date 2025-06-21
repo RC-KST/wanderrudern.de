@@ -32,7 +32,7 @@ images:
 länder: 
 - deutschland
 title: Spreewald 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

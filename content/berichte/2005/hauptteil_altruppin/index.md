@@ -12,7 +12,7 @@ images:
   title: Ruderboot Altruppin
 länder: []
 title: Altruppin
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -21,7 +21,7 @@ images:
   title: T-Shirts für die Kilometerfresser 2013
 länder: []
 title: Tag der offenen Tür 2014
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

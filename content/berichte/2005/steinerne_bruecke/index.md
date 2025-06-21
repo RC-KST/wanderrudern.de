@@ -8,7 +8,7 @@ gewässer:
 - erne
 länder: []
 title: Donau Ostern 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

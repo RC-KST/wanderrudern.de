@@ -20,7 +20,7 @@ images:
   title: Ministerpraesidenten auf dem Floss 2013
 länder: []
 title: Lausitzer Seenplatte 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

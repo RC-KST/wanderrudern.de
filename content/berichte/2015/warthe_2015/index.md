@@ -40,7 +40,7 @@ images:
 länder:
 - polen
 title: Warthe 2015
-typ: marathon
+typen: marathon
 ---
 
 

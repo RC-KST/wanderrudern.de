@@ -13,7 +13,7 @@ images:
   title: Fernverkehrstrasse Arad 2014
 länder: []
 title: Donaudelta 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

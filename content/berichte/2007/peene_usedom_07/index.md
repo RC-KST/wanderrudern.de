@@ -67,7 +67,7 @@ images:
   title: Bootsanhanger am Ostseestrand PE07
 länder: []
 title: Peene Usedom 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

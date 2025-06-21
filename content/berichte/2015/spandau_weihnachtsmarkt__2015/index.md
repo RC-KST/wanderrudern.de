@@ -10,7 +10,7 @@ images:
   title: Ruderinnen Spandauer Weihnachtsmarkt 2015
 länder: []
 title: Spandau Weihnachtsmarkt  2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

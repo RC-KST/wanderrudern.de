@@ -19,7 +19,7 @@ images:
   title: ruderfahrt springsee ruderboot
 länder: []
 title: Springsee 1995
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -32,7 +32,7 @@ länder:
 - ungarn
 - serbien
 title: Donau 2002 Budapest - Eisernes Tor
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

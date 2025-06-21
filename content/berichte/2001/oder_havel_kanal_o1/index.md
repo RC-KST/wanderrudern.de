@@ -8,7 +8,7 @@ gewässer:
 - oder
 länder: []
 title: Oder 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

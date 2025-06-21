@@ -76,7 +76,7 @@ länder:
 - tschechien
 - deutschland
 title: Elbe Marathon 2023
-typ: marathon
+typen: marathon
 ---
 
 

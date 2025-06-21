@@ -54,7 +54,7 @@ länder:
 - deutschland
 - frankreich
 title: Camargue 2014
-typ: marathon
+typen: marathon
 ---
 
 

@@ -192,7 +192,7 @@ images:
 länder:
 - deutschland
 title: Unstrut Saale Elbe 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

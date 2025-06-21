@@ -6,7 +6,7 @@ gewässer:
 - sognefjord
 länder: []
 title: Sognefjord 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

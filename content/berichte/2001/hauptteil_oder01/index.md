@@ -33,7 +33,7 @@ images:
 länder:
 - deutschland
 title: Oder 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

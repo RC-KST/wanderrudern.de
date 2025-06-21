@@ -17,7 +17,7 @@ images:
 länder:
 - deutschland
 title: Anrudern 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

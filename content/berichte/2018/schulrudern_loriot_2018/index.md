@@ -12,7 +12,7 @@ images:
   title: schulrudern 3 Loriot 2018
 länder: []
 title: Schulrudern Loriot 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

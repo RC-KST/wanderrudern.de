@@ -18,7 +18,7 @@ images:
   title: Erwachsnenausbildung im Ruderboot 09
 länder: []
 title: Bericht Tag der offenen Tür 2009
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

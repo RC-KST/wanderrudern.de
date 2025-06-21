@@ -14,7 +14,7 @@ images:
   title: Obmannsausbildung RC KST 09
 länder: []
 title: Obmannskurs 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

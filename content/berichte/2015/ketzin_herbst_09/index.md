@@ -14,7 +14,7 @@ images:
   title: AH Zweier KH09
 länder: []
 title: Ketzin Herbst 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

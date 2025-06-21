@@ -44,7 +44,7 @@ images:
   title: Rudervierer im Wald Havelquelle 2016
 länder: []
 title: Havelquelle 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

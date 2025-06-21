@@ -28,7 +28,7 @@ images:
 länder:
 - niederlande
 title: Niederlande Hart van Holland 2023
-typ: marathon
+typen: marathon
 ---
 
 

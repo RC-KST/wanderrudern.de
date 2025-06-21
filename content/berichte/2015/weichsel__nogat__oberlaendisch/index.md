@@ -77,7 +77,7 @@ länder:
 - deutschland
 - polen
 title: Polenblog 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -77,7 +77,7 @@ images:
   title: Nirina im Geroellfeld Loipold 11
 länder: []
 title: Loipoldhof 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

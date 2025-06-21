@@ -24,7 +24,7 @@ images:
   title: Bamby We11
 länder: []
 title: Werder Kinderfahrt 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

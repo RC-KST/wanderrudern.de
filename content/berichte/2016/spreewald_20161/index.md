@@ -30,7 +30,7 @@ images:
   title: Hauptspree Spreewald 2016
 länder: []
 title: Spreewald 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

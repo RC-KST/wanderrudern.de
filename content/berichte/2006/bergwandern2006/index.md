@@ -51,7 +51,7 @@ images:
   title: Obersee Loipoldhof
 länder: []
 title: Bergwandern2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

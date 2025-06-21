@@ -36,7 +36,7 @@ images:
 länder:
 - polen
 title: Warthe Marathon 2022
-typ: marathon
+typen: marathon
 ---
 
 

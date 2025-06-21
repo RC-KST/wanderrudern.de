@@ -20,7 +20,7 @@ images:
   title: 'Mittellandkanalbrücke '
 länder: []
 title: Prag Hamburg 2002
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

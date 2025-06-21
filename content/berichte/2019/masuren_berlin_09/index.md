@@ -158,7 +158,7 @@ länder:
 - finnland
 - polen
 title: Warthe Marathon 2019
-typ: marathon
+typen: marathon
 ---
 
 

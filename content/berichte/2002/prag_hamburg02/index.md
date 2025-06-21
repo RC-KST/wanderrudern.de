@@ -31,7 +31,7 @@ images:
   title: Hambuger Hafen Ruderboot Ruderer
 länder: []
 title: Prag Hamburg 2002
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

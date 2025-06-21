@@ -47,7 +47,7 @@ images:
 länder:
 - finnland
 title: Ruegen 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

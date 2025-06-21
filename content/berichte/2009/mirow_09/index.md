@@ -12,7 +12,7 @@ images:
   title: Neuer Baumgarten Vierer M09
 länder: []
 title: Mirow 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

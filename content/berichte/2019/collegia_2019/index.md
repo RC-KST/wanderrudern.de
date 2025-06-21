@@ -16,7 +16,7 @@ images:
   title: Abendessen bei Collegia 2019
 länder: []
 title: Collegia 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -16,7 +16,7 @@ images:
 länder:
 - deutschland
 title: DRV Winsauerpreis 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

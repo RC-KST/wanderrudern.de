@@ -22,7 +22,7 @@ images:
   title: Rudervierer Havel 2012
 länder: []
 title: Havelberg 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

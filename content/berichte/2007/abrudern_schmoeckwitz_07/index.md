@@ -6,7 +6,7 @@ gewässer:
 - teltowkanal
 länder: []
 title: Abrudern Schmoeckwitz 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

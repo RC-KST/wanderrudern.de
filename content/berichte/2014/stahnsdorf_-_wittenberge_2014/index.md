@@ -28,7 +28,7 @@ images:
   title: mal wieder eine steuerreparatur havelberg 2014
 länder: []
 title: Stahnsdorf - Wittenberge 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

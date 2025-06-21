@@ -8,7 +8,7 @@ images:
   title: Vierer bei starigrad 2015
 länder: []
 title: 'Neuer E-Vierer von Kleinmachnow '
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

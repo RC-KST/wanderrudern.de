@@ -14,7 +14,7 @@ images:
   title: Schuelerruderer auf dem Griebnitzsee 2014
 länder: []
 title: Schülerrudern Kant Gymnasium 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

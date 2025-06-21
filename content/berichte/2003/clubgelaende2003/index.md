@@ -14,7 +14,7 @@ images:
   title: fundament
 länder: []
 title: Clubgelaende2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

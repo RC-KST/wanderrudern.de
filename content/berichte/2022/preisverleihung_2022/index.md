@@ -32,7 +32,7 @@ images:
   title: Medaillen des Ruderclub Kleinmachnow
 länder: []
 title: Preisverleihung 2022
-typ: event
+typen: event
 ---
 
 

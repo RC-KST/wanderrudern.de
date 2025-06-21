@@ -11,7 +11,7 @@ gewässer:
 - saimaa
 länder: []
 title: Storkow 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

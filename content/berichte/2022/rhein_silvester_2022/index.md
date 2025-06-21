@@ -45,7 +45,7 @@ images:
 länder: 
 - deutschland
 title: Rhein Silvester 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

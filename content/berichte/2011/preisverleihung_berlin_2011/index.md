@@ -6,7 +6,7 @@ gewässer:
 - teltowkanal
 länder: []
 title: Preisverleihung Berlin 2011
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

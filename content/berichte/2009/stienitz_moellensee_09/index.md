@@ -5,7 +5,7 @@ date: "2009-05-05T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Stienitz Moellensee 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

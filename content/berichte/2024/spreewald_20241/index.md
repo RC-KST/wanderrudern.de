@@ -38,7 +38,7 @@ images:
   title: Spreewaldschleuse 2024
 länder: []
 title: Spreewald 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Spreewald- Wanderfahrt

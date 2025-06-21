@@ -22,7 +22,7 @@ images:
   title: Aussichtsturm Schnackenburg November 2011
 länder: []
 title: Stahnsdorf - Schnackenburg Nov 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

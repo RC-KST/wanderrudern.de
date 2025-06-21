@@ -25,7 +25,7 @@ images:
   title: so sehen Sieger aus Hemmoor 2013
 länder: []
 title: Oste Marathon Hemmoor 2013
-typ: marathon
+typen: marathon
 ---
 
 

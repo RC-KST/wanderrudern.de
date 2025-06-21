@@ -12,7 +12,7 @@ images:
   title: Barke auf dem Teltowkanal 2024
 länder: []
 title: Barke 2024
-typ: event
+typen: event
 ---
 
 

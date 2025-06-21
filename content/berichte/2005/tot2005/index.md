@@ -15,7 +15,7 @@ images:
   title: tot2005_4
 länder: []
 title: Tag der offenen Tür 2005
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

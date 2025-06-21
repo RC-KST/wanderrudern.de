@@ -16,7 +16,7 @@ images:
   title: Ruderer im Regen Brandenburg 07
 länder: []
 title: Ketzin Maerz 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

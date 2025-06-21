@@ -27,7 +27,7 @@ images:
 länder:
 - deutschland
 title: 25-Jahre Maueroeffnung 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

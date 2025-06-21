@@ -25,7 +25,7 @@ images:
   title: Ruderer am Steg in Spandau Ka11
 länder: []
 title: Bundeskanzleramt 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

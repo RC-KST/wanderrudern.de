@@ -51,7 +51,7 @@ images:
   title: Ruderboot Aussenalster 2019
 länder: []
 title: WRT Brandenburg
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

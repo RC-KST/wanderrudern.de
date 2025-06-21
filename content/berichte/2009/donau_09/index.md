@@ -93,7 +93,7 @@ images:
 länder:
 - österreich
 title: Donau 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

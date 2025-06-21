@@ -104,7 +104,7 @@ länder:
 - dänemark
 - norwegen
 title: Oslofjord 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -22,7 +22,7 @@ images:
   title: Stadtbesichtigung Torgau 2014
 länder: []
 title: 'Meissen - Coswig 2014 '
-typ: marathon
+typen: marathon
 ---
 
 

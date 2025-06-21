@@ -10,7 +10,7 @@ images:
   title: Ruderausbildung Kant Gymnasium 2016
 länder: []
 title: Schuelerrudern Kant 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

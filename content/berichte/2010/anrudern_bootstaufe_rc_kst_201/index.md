@@ -19,7 +19,7 @@ images:
 länder:
 - deutschland
 title: Anrudern Bootstaufe RC KST 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

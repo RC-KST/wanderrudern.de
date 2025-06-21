@@ -57,7 +57,7 @@ images:
 länder:
 - finnland
 title: Finnland Inari 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -19,7 +19,7 @@ images:
   title: Balkan Bauernhof 2017
 länder: []
 title: Donau Bezdan Negotin 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

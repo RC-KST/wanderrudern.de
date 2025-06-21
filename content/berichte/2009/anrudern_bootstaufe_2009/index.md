@@ -17,7 +17,7 @@ images:
 länder:
 - deutschland
 title: Anrudern Bootstaufe 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

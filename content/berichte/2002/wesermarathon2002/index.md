@@ -16,7 +16,7 @@ images:
   title: Wesermarathon Ruderboot
 länder: []
 title: Wesermarathon 2002
-typ: marathon
+typen: marathon
 ---
 
 

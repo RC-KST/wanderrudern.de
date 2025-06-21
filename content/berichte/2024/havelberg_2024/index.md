@@ -28,7 +28,7 @@ images:
 länder:
 - deutschland
 title: Havelberg 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Jugendwanderfahrt

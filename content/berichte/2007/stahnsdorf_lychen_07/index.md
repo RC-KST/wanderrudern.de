@@ -60,7 +60,7 @@ images:
   title: Patrick Fliess Lychen 07
 länder: []
 title: Stahnsdorf Lychen 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

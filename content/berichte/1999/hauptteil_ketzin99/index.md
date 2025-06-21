@@ -5,7 +5,7 @@ date: "1999-11-11T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Ketzin99
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

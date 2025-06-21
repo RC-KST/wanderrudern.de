@@ -18,7 +18,7 @@ images:
   title: Siegerehrung Steisstrommler Drachenbootcup Kleinmachnow 2010
 länder: []
 title: Drachenbootcup 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

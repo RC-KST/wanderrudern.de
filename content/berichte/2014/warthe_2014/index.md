@@ -36,7 +36,7 @@ länder:
 - polen
 - italien
 title: Warthe 2014
-typ: marathon
+typen: marathon
 ---
 
 

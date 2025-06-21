@@ -8,7 +8,7 @@ images:
   title: Nirina beim LRV Brandenburg 2011
 länder: []
 title: Anrudern 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

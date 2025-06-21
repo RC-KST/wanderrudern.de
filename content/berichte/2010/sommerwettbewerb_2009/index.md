@@ -8,7 +8,7 @@ images:
   title: preisverleihung LRV Berlin RC KST02
 länder: []
 title: Anrudern Bootstaufe RC KST 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

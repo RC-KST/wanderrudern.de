@@ -22,7 +22,7 @@ images:
   title: Ruderboote in Glindow 09
 länder: []
 title: Glindow Kinderfahrt
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -19,7 +19,7 @@ images:
   title: Anrudern 2017
 länder: []
 title: Berliner Anrudern 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

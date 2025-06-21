@@ -7,7 +7,7 @@ gewässer:
 länder:
 - italien
 title: Berliner Anrudern 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

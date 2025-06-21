@@ -105,7 +105,7 @@ images:
   title: Ruderer Bahnhof Cearmurlia de Jos 2014
 länder: []
 title: Donaudelta 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

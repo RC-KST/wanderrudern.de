@@ -18,7 +18,7 @@ images:
   title: Olaf Scholz im Marathon Ruderboot auf dem Teltowkanal 2021
 länder: []
 title: Olaf Scholz als Gastruderer 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

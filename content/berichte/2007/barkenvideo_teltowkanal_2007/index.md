@@ -5,7 +5,7 @@ date: "2007-05-05T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Preisverleihung LRV Berlin 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

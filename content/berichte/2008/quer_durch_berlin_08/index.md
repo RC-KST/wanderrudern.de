@@ -17,7 +17,7 @@ images:
   title: quer_durch_berlin_regatta_025
 länder: []
 title: Quer durch Berlin 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

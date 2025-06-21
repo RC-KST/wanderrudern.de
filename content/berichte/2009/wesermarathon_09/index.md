@@ -50,7 +50,7 @@ images:
   title: Ruderzweier Wesermarathon Masters 09
 länder: []
 title: Wesermarathon 09
-typ: marathon
+typen: marathon
 ---
 
 

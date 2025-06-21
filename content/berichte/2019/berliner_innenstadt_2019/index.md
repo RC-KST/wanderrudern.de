@@ -44,7 +44,7 @@ images:
   title: Ruderboote vor dem Berliner Hauptbahnhof 2019
 länder: []
 title: Berliner Innenstadt 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

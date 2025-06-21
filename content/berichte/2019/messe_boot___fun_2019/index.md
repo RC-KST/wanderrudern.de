@@ -26,7 +26,7 @@ images:
   title: Fun Trainer Family Trainer Baumgarten Messe Boot und Fun 2019
 länder: []
 title: Messe Boot + Fun 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

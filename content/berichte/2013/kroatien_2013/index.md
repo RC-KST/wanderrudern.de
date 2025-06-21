@@ -72,7 +72,7 @@ länder:
 - deutschland
 - österreich
 title: Kroatienblog 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

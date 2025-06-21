@@ -109,7 +109,7 @@ images:
 länder:
 - italien
 title: Italien Po Delta 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

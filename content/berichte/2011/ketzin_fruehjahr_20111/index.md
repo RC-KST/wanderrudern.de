@@ -21,7 +21,7 @@ images:
   title: Ruderboote vor dem Malabar Brandenburg 2011
 länder: []
 title: Ketzin Fruehjahr 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

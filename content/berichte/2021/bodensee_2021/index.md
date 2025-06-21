@@ -45,7 +45,7 @@ länder:
 - italien
 - schweiz
 title: Bodensee 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

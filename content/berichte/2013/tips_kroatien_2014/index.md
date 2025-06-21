@@ -8,7 +8,7 @@ länder:
 - deutschland
 - österreich
 title: Kroatien 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -7,7 +7,7 @@ gewässer:
 - saimaa
 länder: []
 title: Saimaa 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

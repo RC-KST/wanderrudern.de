@@ -12,7 +12,7 @@ images:
   title: Ruderer auf der Barke
 länder: []
 title: Decin02
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

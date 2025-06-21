@@ -10,7 +10,7 @@ images:
   title: Felix Ehrenamtsaward Ruderclub Kleinmachnow 2014
 länder: []
 title: Ehrenamtsaward 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

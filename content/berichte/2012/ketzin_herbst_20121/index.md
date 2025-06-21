@@ -16,7 +16,7 @@ images:
   title: Vierer in Ketzin Herbst 2012
 länder: []
 title: Ketzin Herbst 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

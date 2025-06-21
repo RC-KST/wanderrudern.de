@@ -12,7 +12,7 @@ images:
   title: ehrenamts-award-2011 Thomas
 länder: []
 title: Ehrenamtsaward2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

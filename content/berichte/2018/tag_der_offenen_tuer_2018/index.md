@@ -16,7 +16,7 @@ images:
   title: Boote beim probe rudern Kleinmachnow 2018
 länder: []
 title: Tag der offenen Tuer 2018
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

@@ -97,7 +97,7 @@ images:
 länder:
 - serbien
 title: Donau Serbien 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

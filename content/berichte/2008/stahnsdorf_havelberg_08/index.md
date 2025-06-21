@@ -17,7 +17,7 @@ images:
   title: Ruderer in Havelberg 08
 länder: []
 title: Stahnsdorf Havelberg 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

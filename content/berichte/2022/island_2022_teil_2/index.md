@@ -129,7 +129,7 @@ images:
 länder:
 - island
 title: Island 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

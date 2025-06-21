@@ -24,7 +24,7 @@ images:
 länder: 
 - deutschland
 title: Ketzin November 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

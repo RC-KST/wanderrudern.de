@@ -44,7 +44,7 @@ images:
   title: abendessen loipoldhof
 länder: []
 title: Bergwandern2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

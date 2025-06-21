@@ -129,7 +129,7 @@ images:
 länder:
 - polen
 title: 'Oder Ratibor - Dzwinow 2024 '
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

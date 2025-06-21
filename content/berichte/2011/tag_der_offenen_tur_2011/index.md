@@ -20,7 +20,7 @@ images:
   title: TdoT.Zangengeburt
 länder: []
 title: Tag der offenen Tür 2011
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

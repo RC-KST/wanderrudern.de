@@ -13,7 +13,7 @@ images:
   title: Ruderbarke am Steg Schleusenfest Kleinmachnow 2011
 länder: []
 title: Schleusenfest Kleinmachnow 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

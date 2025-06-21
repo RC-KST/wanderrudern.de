@@ -18,7 +18,7 @@ images:
 länder:
 - finnland
 title: Kirchboottaufe Werder 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -109,7 +109,7 @@ länder:
 - italien
 - schweiz
 title: Podelta Venedig Blog 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

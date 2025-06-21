@@ -22,7 +22,7 @@ images:
   title: Siegerehrung LJU Drachenboot-Rudercup 2013
 länder: []
 title: Drachenboot-Rudercup 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

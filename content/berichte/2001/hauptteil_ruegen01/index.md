@@ -9,7 +9,7 @@ gewässer:
 - saimaa
 länder: []
 title: Rügen 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

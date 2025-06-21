@@ -47,7 +47,7 @@ images:
   title: Äquatorpreisträger Martin und Patrik
 länder: []
 title: Saar Mosel Rhein 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

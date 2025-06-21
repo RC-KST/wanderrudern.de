@@ -99,7 +99,7 @@ länder:
 - frankreich
 - schweiz
 title: Lac Serre Poncon Lac Annecy gorges du verdon Genfer See 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Genfer See, Alpenseen in Frankreich, kleine Rhone

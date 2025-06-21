@@ -24,7 +24,7 @@ images:
   title: Wiking Essraum 06
 länder: []
 title: Schmoeckwitz06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

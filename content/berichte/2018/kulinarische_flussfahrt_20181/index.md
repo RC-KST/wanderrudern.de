@@ -8,7 +8,7 @@ länder:
 - polen
 - bulgarien
 title: Kulinarische Flussfahrt 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

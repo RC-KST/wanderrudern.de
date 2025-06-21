@@ -7,7 +7,7 @@ gewässer:
 - saimaa
 länder: []
 title: Ketzin November 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -95,7 +95,7 @@ images:
 länder:
 - tschechien
 title: Moldau Elbe 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

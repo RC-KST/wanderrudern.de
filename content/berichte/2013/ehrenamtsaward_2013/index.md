@@ -12,7 +12,7 @@ images:
 länder:
 - bulgarien
 title: Ehrenamtsaward 2013
-typ: marathon
+typen: marathon
 ---
 
 

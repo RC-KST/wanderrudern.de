@@ -11,7 +11,7 @@ images:
   title: Schleuse Havelberg Ex11
 länder: []
 title: Stahnsdorf - Schnackenburg Nov 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

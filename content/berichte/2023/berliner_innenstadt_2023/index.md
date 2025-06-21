@@ -24,7 +24,7 @@ images:
 länder:
 - deutschland
 title: Berliner Innenstadt 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

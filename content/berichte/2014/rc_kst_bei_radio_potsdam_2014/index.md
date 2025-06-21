@@ -9,7 +9,7 @@ images:
   title: Ruderer bei Radio Potsdam Juni 2014
 länder: []
 title: RC KST bei Radio Potsdam 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

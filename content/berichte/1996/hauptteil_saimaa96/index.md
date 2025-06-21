@@ -48,7 +48,7 @@ länder:
 - finnland
 - schweden
 title: Saimaa 1996
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

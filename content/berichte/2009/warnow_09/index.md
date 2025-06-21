@@ -37,7 +37,7 @@ images:
   title: Ruderboot auf der Ostsee Warnemuende 09
 länder: []
 title: Warnow 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

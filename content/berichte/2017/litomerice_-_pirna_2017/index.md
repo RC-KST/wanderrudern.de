@@ -15,7 +15,7 @@ images:
 länder:
 - tschechien
 title: LItomerice - Pirna 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

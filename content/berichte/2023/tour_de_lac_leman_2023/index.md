@@ -50,7 +50,7 @@ images:
 länder:
 - schweiz
 title: Tour de Lac Leman 2023
-typ: marathon
+typen: marathon
 ---
 
 

@@ -5,7 +5,7 @@ date: "2016-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Preisverleihungen 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

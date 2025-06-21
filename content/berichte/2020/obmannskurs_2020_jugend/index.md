@@ -14,7 +14,7 @@ images:
   title: Obmannskurs 2020 Jugend
 länder: []
 title: Obmannskurs 2020 Jugend
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

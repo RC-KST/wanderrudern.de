@@ -23,7 +23,7 @@ images:
   title: Schiffstunnel am Stienitzsee 2021
 länder: []
 title: Wendenschloss Rüdersdorf 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

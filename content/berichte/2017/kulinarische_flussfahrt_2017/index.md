@@ -16,7 +16,7 @@ länder:
 - belgien
 - serbien
 title: Kulinarische Flussfahrt 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

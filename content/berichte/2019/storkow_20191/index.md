@@ -23,7 +23,7 @@ images:
   title: Bad Saarow an der Uferpromenade 2019
 länder: []
 title: Storkow 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

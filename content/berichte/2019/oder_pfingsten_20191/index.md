@@ -30,7 +30,7 @@ images:
 länder:
 - polen
 title: Oder Pfingsten 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

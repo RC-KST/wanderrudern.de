@@ -18,7 +18,7 @@ images:
   title: LKW Simulator 09
 länder: []
 title: Fährfahrt Göteborg 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

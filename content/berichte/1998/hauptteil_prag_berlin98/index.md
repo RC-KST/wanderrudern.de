@@ -34,7 +34,7 @@ länder:
 - ungarn
 - slowakei
 title: Prag berlin 1998
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

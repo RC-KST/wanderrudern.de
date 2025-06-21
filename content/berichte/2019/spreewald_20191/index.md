@@ -12,7 +12,7 @@ images:
   title: Ruderboot im Spreewald 2019
 länder: []
 title: Spreewald 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

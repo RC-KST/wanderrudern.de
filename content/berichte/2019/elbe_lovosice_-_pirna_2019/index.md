@@ -29,7 +29,7 @@ images:
   title: Weihnachtsmarkt Pirna 2019
 länder: []
 title: Elbe Lovosice - Pirna 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

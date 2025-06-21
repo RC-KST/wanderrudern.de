@@ -18,7 +18,7 @@ images:
   title: Pirna in der Kneipe Ruderer
 länder: []
 title: Decin99
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

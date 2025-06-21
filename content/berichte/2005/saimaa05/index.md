@@ -174,7 +174,7 @@ länder:
 - finnland
 - schweden
 title: Saimaa 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -77,7 +77,7 @@ images:
   title: Panorama Loipoldhof 4-09
 länder: []
 title: Loipoldhof 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

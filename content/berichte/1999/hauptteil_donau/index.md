@@ -35,7 +35,7 @@ länder:
 - österreich
 - slowakei
 title: donau 1999
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

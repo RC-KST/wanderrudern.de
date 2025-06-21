@@ -22,7 +22,7 @@ images:
   title: Rudern als Schulprojekt 09
 länder: []
 title: Schuelrrudern 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

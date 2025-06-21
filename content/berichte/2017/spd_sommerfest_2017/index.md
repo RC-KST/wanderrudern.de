@@ -12,7 +12,7 @@ images:
   title: Boot auf dem Rathausmarkt Kleinmachnow 2017
 länder: []
 title: SPD Sommerfest 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

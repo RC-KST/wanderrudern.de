@@ -21,7 +21,7 @@ images:
 länder:
 - finnland
 title: Saimaa 1998
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

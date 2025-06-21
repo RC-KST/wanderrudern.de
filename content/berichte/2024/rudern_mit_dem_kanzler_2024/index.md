@@ -16,7 +16,7 @@ images:
 länder: 
  - deutschland
 title: Rudern mit dem Kanzler 2024
-typ: event
+typen: event
 ---
 
 

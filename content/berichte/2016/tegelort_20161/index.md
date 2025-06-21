@@ -23,7 +23,7 @@ images:
   title: Tegler See Ruderboot 2016
 länder: []
 title: Tegelort 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

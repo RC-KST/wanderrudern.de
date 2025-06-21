@@ -44,7 +44,7 @@ images:
 länder:
 - deutschland
 title: Oste Marathon Hemmoor 2022
-typ: marathon
+typen: marathon
 ---
 
 

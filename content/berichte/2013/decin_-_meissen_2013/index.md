@@ -21,7 +21,7 @@ images:
   title: Leonie Schloss Pillnitz Elbe 2013
 länder: []
 title: Decin - Meissen 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

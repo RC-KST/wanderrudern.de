@@ -21,7 +21,7 @@ images:
   title: Verkrautung Moegelin P2020
 länder: []
 title: Havelberg 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

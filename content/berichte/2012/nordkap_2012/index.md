@@ -85,7 +85,7 @@ länder:
 - finnland
 - norwegen
 title: Finnland Inari 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

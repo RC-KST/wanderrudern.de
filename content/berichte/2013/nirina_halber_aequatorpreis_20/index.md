@@ -8,7 +8,7 @@ images:
   title: Halber Aequatorpreis fuer Nirina Anrudern 2013
 länder: []
 title: Anrudern 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -54,7 +54,7 @@ images:
   title: so nah soll man eigentlich nicht ran krka Kroatien 2014
 länder: []
 title: Kroatien 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

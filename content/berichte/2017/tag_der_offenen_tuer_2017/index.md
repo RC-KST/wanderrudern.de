@@ -20,7 +20,7 @@ images:
   title: Proberudern Tag der offenen Tuer 2017
 länder: []
 title: Tag der offenen Tuer 2017
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

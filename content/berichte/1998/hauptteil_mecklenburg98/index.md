@@ -14,7 +14,7 @@ images:
   title: Mädchen im Boot
 länder: []
 title: Mecklenburg 1998
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

@@ -29,7 +29,7 @@ images:
   title: Frauen Vierer Stary Zatom 2017
 länder: []
 title: Warthe Marathon 2017
-typ: marathon
+typen: marathon
 ---
 
 

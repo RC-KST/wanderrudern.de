@@ -58,7 +58,7 @@ länder:
 - italien
 - österreich
 title: Vogalonga 2008
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

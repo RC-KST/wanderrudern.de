@@ -10,7 +10,7 @@ images:
   title: Schleuse Plötzensee RUderboot
 länder: []
 title: Saffonia 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

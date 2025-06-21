@@ -68,7 +68,7 @@ images:
 länder:
 - frankreich
 title: Camargue 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

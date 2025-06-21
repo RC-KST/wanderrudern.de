@@ -40,7 +40,7 @@ images:
 länder:
 - polen
 title: Warthe 2016
-typ: marathon
+typen: marathon
 ---
 
 

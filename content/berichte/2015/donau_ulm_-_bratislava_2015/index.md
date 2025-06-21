@@ -7,7 +7,7 @@ gewässer:
 - oste
 länder: []
 title: Donaublog 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

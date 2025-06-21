@@ -16,7 +16,7 @@ images:
 länder:
 - schweden
 title: hiddensee 1997
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

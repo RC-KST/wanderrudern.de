@@ -8,7 +8,7 @@ images:
   title: Obmannskurs 2025-1
 länder: []
 title: Obmannskurs 2025
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

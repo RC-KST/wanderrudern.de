@@ -24,7 +24,7 @@ images:
   title: Ruderer bei der Baumbluete 2017
 länder: []
 title: Ketzin-Lehnin 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

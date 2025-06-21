@@ -5,7 +5,7 @@ date: "2007-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Tag der Offenen Tuer 2007
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

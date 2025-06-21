@@ -7,7 +7,7 @@ gewässer:
 - fulda
 länder: []
 title: Fulda Weser 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

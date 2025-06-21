@@ -28,7 +28,7 @@ länder:
 - schweiz
 - irland
 title: WRT Saarbrücken 2021
-typ: marathon
+typen: marathon
 ---
 
 

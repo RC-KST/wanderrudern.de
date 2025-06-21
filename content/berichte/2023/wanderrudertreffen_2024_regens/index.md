@@ -13,7 +13,7 @@ images:
   title: Steinerne Brücke Regensburg
 länder: []
 title: Aequatorpreis Tim 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

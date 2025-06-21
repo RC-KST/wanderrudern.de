@@ -20,7 +20,7 @@ images:
   title: weserstein Ruderer
 länder: []
 title: Wesermarathon 2005
-typ: marathon
+typen: marathon
 ---
 
 

@@ -30,7 +30,7 @@ images:
   title: Trebatsch  Boote aufladen Sp08
 länder: []
 title: Spreewald Wanderfahrt 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

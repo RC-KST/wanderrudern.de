@@ -8,7 +8,7 @@ gewässer:
 - pielinen
 länder: []
 title: Saimaa Pielinen 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

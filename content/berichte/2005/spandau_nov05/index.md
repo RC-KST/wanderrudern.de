@@ -5,7 +5,7 @@ date: "2005-11-11T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Spandau November 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

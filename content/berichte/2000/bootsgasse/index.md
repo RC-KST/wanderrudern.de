@@ -7,7 +7,7 @@ gewässer:
 - oder
 länder: []
 title: Wesermarathon 2000
-typ: marathon
+typen: marathon
 ---
 
 

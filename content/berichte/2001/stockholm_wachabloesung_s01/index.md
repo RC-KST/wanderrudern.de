@@ -6,7 +6,7 @@ gewässer:
 - saimaa
 länder: []
 title: Saimaa Seenplatte 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

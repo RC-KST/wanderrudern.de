@@ -23,7 +23,7 @@ images:
   title: Badepause Potsdam Werder 2015
 länder: []
 title: Werder Kinderruderlager 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

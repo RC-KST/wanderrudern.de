@@ -5,7 +5,7 @@ date: "2006-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: storkow 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

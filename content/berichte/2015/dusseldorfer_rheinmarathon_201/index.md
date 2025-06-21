@@ -9,7 +9,7 @@ images:
   title: Duesseldorfer Marathonrudern 2015
 länder: []
 title: Düsseldorfer Rheinmarathon 2015
-typ: marathon
+typen: marathon
 ---
 
 

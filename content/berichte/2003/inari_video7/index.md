@@ -5,7 +5,7 @@ date: "2003-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: inari 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

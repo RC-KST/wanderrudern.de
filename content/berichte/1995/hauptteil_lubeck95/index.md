@@ -25,7 +25,7 @@ images:
   title: finncarrier neben ruderboot
 länder: []
 title: Lubeck95
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

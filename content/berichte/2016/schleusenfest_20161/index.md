@@ -12,7 +12,7 @@ images:
   title: Schleusenfest Kleinmachnow 2016 Blaskapelle
 länder: []
 title: Schleusenfest 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

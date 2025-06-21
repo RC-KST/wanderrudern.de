@@ -56,7 +56,7 @@ images:
   title: Endlose Weiten des Inari
 länder: []
 title: Inari 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

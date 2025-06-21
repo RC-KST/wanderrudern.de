@@ -25,7 +25,7 @@ images:
   title: Containerfrachter am Osteriff 2014
 länder: []
 title: Oste Marathon Hemmoor 2014
-typ: marathon
+typen: marathon
 ---
 
 

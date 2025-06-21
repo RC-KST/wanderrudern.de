@@ -9,7 +9,7 @@ länder:
 - deutschland
 - polen
 title: Oder 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

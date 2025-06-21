@@ -7,7 +7,7 @@ gewässer:
 - spreewald
 länder: []
 title: Spreewald Himmelfahrt 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

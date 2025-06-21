@@ -15,7 +15,7 @@ images:
   title: Schmoeckwitz Abrudern am Steg 08
 länder: []
 title: Abrudern Berlin Schmöckwitz 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

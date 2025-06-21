@@ -8,7 +8,7 @@ images:
   title: Ruderfilm Ruderer Rudern
 länder: []
 title: Decin00
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

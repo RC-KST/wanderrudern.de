@@ -22,7 +22,7 @@ images:
   title: Ruderinnen Stienitzsee 2017
 länder: []
 title: Mueggelsee-Stienitzsee 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

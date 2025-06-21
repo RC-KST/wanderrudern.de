@@ -17,7 +17,7 @@ images:
   title: C-Vierer Moldau
 länder: []
 title: Anrudern 2008
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

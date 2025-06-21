@@ -17,7 +17,7 @@ images:
   title: Wesermarathon 07 kurz nach dem Start
 länder: []
 title: Wesermarathon 07
-typ: marathon
+typen: marathon
 ---
 
 

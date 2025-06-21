@@ -18,7 +18,7 @@ images:
   title: Altruppin Zurück im Regen II
 länder: []
 title: Altruppin Wanderfahrt 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

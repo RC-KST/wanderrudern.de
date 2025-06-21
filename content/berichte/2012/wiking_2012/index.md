@@ -18,7 +18,7 @@ images:
   title: Wiking Fahrer des RC KST 2012
 länder: []
 title: Wiking 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

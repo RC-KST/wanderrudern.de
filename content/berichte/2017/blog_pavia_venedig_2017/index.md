@@ -103,7 +103,7 @@ images:
   title: Markusplatz Blog Venedig 2017
 länder: []
 title: Po Pavia Venedig 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -14,7 +14,7 @@ images:
   title: Waschbord schleifen Juni 2018
 länder: []
 title: Bootsarbeiten 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -22,7 +22,7 @@ images:
   title: Zweier auf dem Trebelsee Herbst 2018
 länder: []
 title: Ketzin Herbst 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

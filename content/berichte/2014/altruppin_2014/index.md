@@ -26,7 +26,7 @@ images:
   title: Kneipenbesuch am Zermuetzelsee Altruppin-Wanderfahrt 2014
 länder: []
 title: Altruppin 2014
-typ: marathon
+typen: marathon
 ---
 
 

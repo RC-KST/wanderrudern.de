@@ -49,7 +49,7 @@ images:
   title: Kletterstelle oberhalb vom Riesachsee L10
 länder: []
 title: Loipoldhof 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

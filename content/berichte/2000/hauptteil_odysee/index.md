@@ -15,7 +15,7 @@ images:
 länder:
 - finnland
 title: porsangen 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

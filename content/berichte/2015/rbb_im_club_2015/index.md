@@ -8,7 +8,7 @@ images:
   title: rbb aktuell
 länder: []
 title: RBB im Club 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

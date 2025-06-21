@@ -41,7 +41,7 @@ images:
 länder:
 - schweden
 title: Anrudern 2007 beim RC Kleinmachnow
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

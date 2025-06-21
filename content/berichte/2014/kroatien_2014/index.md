@@ -61,7 +61,7 @@ images:
 länder:
 - österreich
 title: Kroatienblog 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

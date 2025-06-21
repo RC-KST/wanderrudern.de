@@ -15,7 +15,7 @@ images:
   title: Schleusenstau Havelkanal Marathon 2018
 länder: []
 title: Havelkanal Marathon 2018
-typ: marathon
+typen: marathon
 ---
 
 

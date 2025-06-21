@@ -13,7 +13,7 @@ images:
   title: Ruderboot auf der Elbe
 länder: []
 title: Meissen_Magdeburg
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

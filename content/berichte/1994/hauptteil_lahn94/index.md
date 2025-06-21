@@ -30,7 +30,7 @@ images:
   title: bonn am Steg ruderer
 länder: []
 title: Lahn 1994
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

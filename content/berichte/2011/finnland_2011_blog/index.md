@@ -101,7 +101,7 @@ images:
 länder:
 - finnland
 title: Finnland Saimaa 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

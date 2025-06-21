@@ -19,7 +19,7 @@ images:
   title: schiedeck
 länder: []
 title: Bergwandern2004_1
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

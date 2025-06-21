@@ -17,7 +17,7 @@ images:
   title: Torgau vom Ruderboot gesehen Elbemarathon 2019
 länder: []
 title: Elbe Marathon 2019
-typ: marathon
+typen: marathon
 ---
 
 

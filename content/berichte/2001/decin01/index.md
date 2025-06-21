@@ -5,7 +5,7 @@ date: "2001-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: decin01
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

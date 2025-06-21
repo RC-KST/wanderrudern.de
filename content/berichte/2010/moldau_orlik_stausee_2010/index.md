@@ -7,7 +7,7 @@ gewässer:
 - moldau
 länder: []
 title: Moldau Elbe 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

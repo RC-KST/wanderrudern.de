@@ -154,7 +154,7 @@ länder:
 - ungarn
 - serbien
 title: Donau Budapest Eisernes Tor 2012
-typ: marathon
+typen: marathon
 ---
 
 

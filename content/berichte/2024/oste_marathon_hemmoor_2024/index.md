@@ -26,7 +26,7 @@ images:
 länder:
 - deutschland
 title: Oste Marathon Hemmoor 2024
-typ: marathon
+typen: marathon
 ---
 
 # Oste Marathon

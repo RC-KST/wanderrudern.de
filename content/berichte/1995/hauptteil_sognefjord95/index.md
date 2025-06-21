@@ -34,7 +34,7 @@ länder:
 - norwegen
 - schweden
 title: sognefjord 1995
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

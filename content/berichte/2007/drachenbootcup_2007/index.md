@@ -52,7 +52,7 @@ images:
   title: Dritter Platz bei den Profis DB07
 länder: []
 title: Drachenbootcup 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

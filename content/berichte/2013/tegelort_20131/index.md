@@ -25,7 +25,7 @@ images:
   title: jonathan baded tegelort 2013
 länder: []
 title: Tegelort 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

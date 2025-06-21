@@ -14,7 +14,7 @@ images:
   title: Martin geht ueber die 40.077 km 2020
 länder: []
 title: Aequatorpreis Martin 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

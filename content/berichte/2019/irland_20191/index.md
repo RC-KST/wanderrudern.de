@@ -87,7 +87,7 @@ länder:
 - belgien
 - irland
 title: Irland 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

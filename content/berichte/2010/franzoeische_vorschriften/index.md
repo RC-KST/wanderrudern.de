@@ -10,7 +10,7 @@ länder:
 - deutschland
 - frankreich
 title: Frankreich Camargue 10
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

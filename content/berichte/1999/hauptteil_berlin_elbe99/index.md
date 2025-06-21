@@ -16,7 +16,7 @@ images:
 länder:
 - italien
 title: Berlin_Elbe99
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

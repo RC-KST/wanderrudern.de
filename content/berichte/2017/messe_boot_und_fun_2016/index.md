@@ -14,7 +14,7 @@ images:
   title: Family Trainer im grossen Becken 2016
 länder: []
 title: Day of the Bay 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -6,7 +6,7 @@ gewässer: []
 länder:
 - deutschland
 title: Preisverleihungen 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

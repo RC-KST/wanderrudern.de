@@ -21,7 +21,7 @@ images:
   title: beeskow schleuse ruderboot tauschende Ruderer
 länder: []
 title: Spreewald 1997
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

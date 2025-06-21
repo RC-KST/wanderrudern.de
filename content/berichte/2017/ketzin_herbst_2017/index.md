@@ -6,7 +6,7 @@ gewässer:
 - trebelsee
 länder: []
 title: Ketzin Herbst 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -15,7 +15,7 @@ images:
   title: spreewald im regen ruderboot
 länder: []
 title: Spreewald 1999
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

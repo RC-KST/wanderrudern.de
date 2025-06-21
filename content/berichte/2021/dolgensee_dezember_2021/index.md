@@ -30,7 +30,7 @@ images:
 länder:
 - tschechien
 title: Dolgensee Dezember 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

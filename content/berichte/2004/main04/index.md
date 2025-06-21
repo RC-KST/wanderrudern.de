@@ -15,7 +15,7 @@ images:
   title: miltenberg strasse
 länder: []
 title: main 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

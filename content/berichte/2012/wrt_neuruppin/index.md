@@ -12,7 +12,7 @@ images:
   title: Ruppiner See _2012
 länder: []
 title: Landeswanderrudertreffen Neuruppin
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -101,7 +101,7 @@ images:
 länder:
 - bulgarien
 title: Donau 2013 Rumänien Bulgarien
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -24,7 +24,7 @@ images:
   title: Fuenfer mit Steuermann wird eingesetzt 2015
 länder: []
 title: Tag der offenen Tür 2015
-typ: marathon
+typen: marathon
 ---
 
 

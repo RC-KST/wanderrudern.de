@@ -10,7 +10,7 @@ images:
   title: Sterne des Sports 2018 RC KST
 länder: []
 title: Sterne des Sports 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -185,7 +185,7 @@ länder:
 - niederlande
 - belgien
 title: Aequatorpreis Nirina 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

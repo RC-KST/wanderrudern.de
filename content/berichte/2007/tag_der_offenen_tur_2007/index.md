@@ -32,7 +32,7 @@ images:
   title: Rennzweier ToT07
 länder: []
 title: Tag der Offenen Tuer 2007
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

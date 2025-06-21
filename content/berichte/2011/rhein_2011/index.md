@@ -121,7 +121,7 @@ images:
 länder:
 - schweiz
 title: Rhein 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -50,7 +50,7 @@ images:
 länder:
 - schweden
 title: StockholmTallinn Helsinki Kreuzfahrt 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

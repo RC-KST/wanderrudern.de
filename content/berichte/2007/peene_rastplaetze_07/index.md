@@ -6,7 +6,7 @@ gewässer:
 - peene
 länder: []
 title: Peene Usedom 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

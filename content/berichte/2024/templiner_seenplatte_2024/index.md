@@ -54,7 +54,7 @@ images:
 länder:
 - deutschland
 title: Templiner Seenplatte 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

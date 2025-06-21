@@ -11,7 +11,7 @@ länder:
 - deutschland
 - österreich
 title: Donau Ostern 2005
-typ: marathon
+typen: marathon
 ---
 
 

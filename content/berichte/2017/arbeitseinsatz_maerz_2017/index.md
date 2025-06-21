@@ -14,7 +14,7 @@ images:
   title: Rollsitze reparieren Maer 2017
 länder: []
 title: Arbeitseinsatz Maerz 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

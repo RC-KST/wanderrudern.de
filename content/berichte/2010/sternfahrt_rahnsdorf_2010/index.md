@@ -16,7 +16,7 @@ images:
   title: Seddinsee Ruderboote Stahnsdorf Ra10
 länder: []
 title: Sternfahrt Rahnsdorf 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

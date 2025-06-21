@@ -19,7 +19,7 @@ images:
   title: segeln
 länder: []
 title: Berlin_Lubeck2000_2
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

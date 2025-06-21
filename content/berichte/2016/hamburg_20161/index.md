@@ -7,7 +7,7 @@ gewässer:
 länder:
 - italien
 title: Hamburg 2016
-typ: marathon
+typen: marathon
 ---
 
 

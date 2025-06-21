@@ -11,7 +11,7 @@ länder:
 - tschechien
 - polen
 title: Moldau Elbe 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

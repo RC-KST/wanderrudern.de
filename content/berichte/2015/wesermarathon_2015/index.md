@@ -28,7 +28,7 @@ images:
   title: Flossgraben Werra 2015
 länder: []
 title: Wesermarathon 2015
-typ: marathon
+typen: marathon
 ---
 
 

@@ -30,7 +30,7 @@ länder:
 - frankreich
 - luxemburg
 title: Mosel 1996
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

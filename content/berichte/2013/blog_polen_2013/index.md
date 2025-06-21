@@ -152,7 +152,7 @@ images:
 länder:
 - polen
 title: Polen Bug Narew Weichsel Ostsee 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

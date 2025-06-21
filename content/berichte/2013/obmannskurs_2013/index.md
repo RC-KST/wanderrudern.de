@@ -8,7 +8,7 @@ images:
   title: Teilnehmer Obmannskurs 2013
 länder: []
 title: Obmannskurs 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

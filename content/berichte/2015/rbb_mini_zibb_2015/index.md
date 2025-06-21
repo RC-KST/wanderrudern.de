@@ -10,7 +10,7 @@ images:
   title: RBB Zibb Mini zu Gast beim RC KST 2015
 länder: []
 title: RBB Mini ZiBB 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

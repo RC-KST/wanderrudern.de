@@ -12,7 +12,7 @@ images:
   title: Clubabend_Feb1
 länder: []
 title: Clubabend_Feb06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

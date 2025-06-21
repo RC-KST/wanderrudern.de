@@ -16,7 +16,7 @@ images:
   title: Ruderboot auf der Talsperre
 länder: []
 title: bleiloch03
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

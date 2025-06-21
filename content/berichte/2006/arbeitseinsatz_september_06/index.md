@@ -14,7 +14,7 @@ images:
   title: Arebeitseinsatz Pavilion2
 länder: []
 title: Arbeitseinsatz September 06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

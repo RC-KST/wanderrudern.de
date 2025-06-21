@@ -6,7 +6,7 @@ gewässer:
 - ivalojoki
 länder: []
 title: inari 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -28,7 +28,7 @@ images:
   title: Mueggelspree Dahme Spree 2018
 länder: []
 title: Dahme-Spree-Umfahrt 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

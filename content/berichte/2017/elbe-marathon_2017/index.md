@@ -19,7 +19,7 @@ images:
   title: Aufladen Coswig Elbemarathon 2017
 länder: []
 title: Elbe-Marathon 2017
-typ: marathon
+typen: marathon
 ---
 
 

@@ -7,7 +7,7 @@ gewässer:
 - unstrut
 länder: []
 title: Unstrut_Saale06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

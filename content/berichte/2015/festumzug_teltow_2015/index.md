@@ -16,7 +16,7 @@ images:
   title: Festumzug Teltow 2015 Gondoliere Ruderclub
 länder: []
 title: Festumzug Teltow 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

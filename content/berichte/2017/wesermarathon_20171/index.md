@@ -24,7 +24,7 @@ images:
   title: Wesermarathon 2017 im Nebel
 länder: []
 title: Wesermarathon 2017
-typ: marathon
+typen: marathon
 ---
 
 

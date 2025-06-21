@@ -32,7 +32,7 @@ images:
   title: meissen Boote aufladen DC07
 länder: []
 title: Decin Meissen 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

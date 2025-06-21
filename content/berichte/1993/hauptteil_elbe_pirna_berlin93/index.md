@@ -44,7 +44,7 @@ images:
   title: feier ketzin
 länder: []
 title: elbe_pirna_berlin93
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

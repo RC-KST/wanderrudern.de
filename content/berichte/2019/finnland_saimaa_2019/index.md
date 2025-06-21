@@ -177,7 +177,7 @@ länder:
 - finnland
 - schweden
 title: Finnland Saimaa 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

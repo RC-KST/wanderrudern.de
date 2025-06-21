@@ -14,7 +14,7 @@ images:
   title: Familienfest Stahnsdorf 2018
 länder: []
 title: Sommerfest 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

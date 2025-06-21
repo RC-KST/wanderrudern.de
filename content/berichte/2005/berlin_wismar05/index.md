@@ -38,7 +38,7 @@ images:
   title: Ein Kunstwerk an der Schleuse 25
 länder: []
 title: Berlin_Wismar05
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

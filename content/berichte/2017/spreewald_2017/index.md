@@ -26,7 +26,7 @@ images:
   title: Ruderboot im Spreewald 2017
 länder: []
 title: Spreewald 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

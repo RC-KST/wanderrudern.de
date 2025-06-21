@@ -9,7 +9,7 @@ gewässer:
 - peene
 länder:
 - deutschland
-typ: wanderfahrt
+typen: wanderfahrt
 images:
 - src: "./images/aussicht_peene_anklam.jpg"
   title: "Sicht auf die Peene, den Campingplatz und den Steg des Ruderklub Anklam e.V."

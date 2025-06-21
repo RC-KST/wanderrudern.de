@@ -30,7 +30,7 @@ images:
   title: Proberudern im Regen Tag der offenen Tür 2019
 länder: []
 title: Tag der offenen Tuer 2019
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

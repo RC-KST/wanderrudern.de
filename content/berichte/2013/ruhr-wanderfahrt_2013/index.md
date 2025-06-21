@@ -18,7 +18,7 @@ images:
   title: Umtragestelle an der Ruhr 2013
 länder: []
 title: DRV Winsauerpreis 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

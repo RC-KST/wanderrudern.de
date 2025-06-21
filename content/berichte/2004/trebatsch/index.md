@@ -8,7 +8,7 @@ gewässer:
 - schwielochsee
 länder: []
 title: Spreewald Himmelfahrt 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

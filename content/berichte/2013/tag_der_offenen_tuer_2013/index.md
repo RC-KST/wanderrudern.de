@@ -16,7 +16,7 @@ images:
   title: Kuchenverkauf Tag der offenen Tuer 2013
 länder: []
 title: Tag der offenen Tuer 2013
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

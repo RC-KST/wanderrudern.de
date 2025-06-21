@@ -14,7 +14,7 @@ images:
   title: Jonathans Buddelkasten Februar 2013
 länder: []
 title: Arbeitseinsatz Fruehjahr 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

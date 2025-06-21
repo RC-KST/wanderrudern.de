@@ -153,7 +153,7 @@ länder:
 - dänemark
 - schweden
 title: Quer durch Schweden 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

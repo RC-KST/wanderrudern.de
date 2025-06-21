@@ -61,7 +61,7 @@ länder:
 - deutschland
 - italien
 title: Dahme Spree Umfahrt 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

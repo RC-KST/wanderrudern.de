@@ -31,7 +31,7 @@ images:
   title: Ruderzweier vor Blumenmeer in Holland
 länder: []
 title: Wesermarathon 2000
-typ: marathon
+typen: marathon
 ---
 
 

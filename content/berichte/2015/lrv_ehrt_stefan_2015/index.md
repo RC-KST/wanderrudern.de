@@ -9,7 +9,7 @@ images:
   title: Silberne Ehrennadel des LRV Stefan
 länder: []
 title: LRV ehrt Stefan 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

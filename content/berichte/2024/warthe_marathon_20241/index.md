@@ -28,7 +28,7 @@ images:
 länder:
 - polen
 title: Warthe Marathon 2024
-typ: marathon
+typen: marathon
 ---
 
 

@@ -17,7 +17,7 @@ images:
 länder:
 - tschechien
 title: Decin - Meissen 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

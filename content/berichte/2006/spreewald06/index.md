@@ -37,7 +37,7 @@ images:
   title: Ruderclub Beeskow August 06
 länder: []
 title: spreewald 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

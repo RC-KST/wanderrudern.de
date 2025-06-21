@@ -26,7 +26,7 @@ images:
   title: Ruderboote auf dem Teltowkanal Drachenbootcup 09
 länder: []
 title: Drachenbootcup 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -12,7 +12,7 @@ images:
   title: Ruderboote RC KST im Graupelschauer bei Hevella 2014
 länder: []
 title: Spandauer Weihnachtsmarkt 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

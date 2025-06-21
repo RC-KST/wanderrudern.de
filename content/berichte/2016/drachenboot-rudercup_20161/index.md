@@ -36,7 +36,7 @@ images:
   title: Tag der offenen Tuer Proberudern 2016
 länder: []
 title: Drachenboot-Rudercup 2016
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

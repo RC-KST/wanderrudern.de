@@ -15,7 +15,7 @@ images:
   title: endlich bei Wiking06
 länder: []
 title: Wiking06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -28,7 +28,7 @@ images:
 länder:
 - frankreich
 title: Camargue 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

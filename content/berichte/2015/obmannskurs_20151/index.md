@@ -11,7 +11,7 @@ images:
   title: Obmannskurs 2015
 länder: []
 title: Obmannskurs 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

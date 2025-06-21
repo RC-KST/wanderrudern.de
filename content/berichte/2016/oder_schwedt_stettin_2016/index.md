@@ -28,7 +28,7 @@ images:
 länder:
 - polen
 title: oder schwedt stettin 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

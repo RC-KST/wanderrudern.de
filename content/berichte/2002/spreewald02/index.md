@@ -23,7 +23,7 @@ images:
   title: Baden im See vom Boot aus
 länder: []
 title: Spreewald 2002
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

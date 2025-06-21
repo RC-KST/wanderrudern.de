@@ -137,7 +137,7 @@ images:
   title: am Ziel in Honnef 2015
 länder: []
 title: Main-Dona-Kanal_Main Blog 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

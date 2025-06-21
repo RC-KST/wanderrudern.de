@@ -7,7 +7,7 @@ gewässer:
 - oder
 länder: []
 title: mosel 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -28,7 +28,7 @@ images:
   title: Luftbild Plaue Silvester06
 länder: []
 title: Elb-Havel-Dreieck 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

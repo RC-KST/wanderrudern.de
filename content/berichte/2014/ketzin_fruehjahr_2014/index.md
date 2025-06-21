@@ -7,7 +7,7 @@ gewässer:
 - trebelsee
 länder: []
 title: Ketzin Fruehjahr 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

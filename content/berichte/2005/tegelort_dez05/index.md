@@ -12,7 +12,7 @@ images:
   title: Schneeengel Ruderer
 länder: []
 title: Tegelort Dezember 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

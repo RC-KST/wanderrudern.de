@@ -20,7 +20,7 @@ images:
 länder:
 - frankreich
 title: Altfriesack 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

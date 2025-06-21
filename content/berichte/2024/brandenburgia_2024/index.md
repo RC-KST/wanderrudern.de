@@ -15,7 +15,7 @@ images:
 länder:
 - deutschland
 title: Brandenburgia 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Anfängerfahrt Brandenburgia

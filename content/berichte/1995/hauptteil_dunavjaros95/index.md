@@ -42,7 +42,7 @@ länder:
 - ungarn
 - slowakei
 title: Donau Wien Dunavjaros 1995
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

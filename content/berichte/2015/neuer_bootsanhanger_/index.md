@@ -8,7 +8,7 @@ images:
   title: Ruderbootsanhaenger 2-lagig
 länder: []
 title: 'Neuer Bootsanhänger '
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

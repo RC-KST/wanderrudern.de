@@ -30,7 +30,7 @@ images:
 länder: 
 - polen
 title: Warthe Marathon 2023
-typ: marathon
+typen: marathon
 ---
 
 

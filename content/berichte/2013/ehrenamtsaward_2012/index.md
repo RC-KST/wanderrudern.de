@@ -12,7 +12,7 @@ länder:
 - deutschland
 - finnland
 title: Anrudern 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

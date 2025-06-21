@@ -146,7 +146,7 @@ länder:
 - frankreich
 - belgien
 title: Maas 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

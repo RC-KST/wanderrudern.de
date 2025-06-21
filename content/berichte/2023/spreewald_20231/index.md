@@ -47,7 +47,7 @@ images:
 länder: 
 - deutschland
 title: Spreewald 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

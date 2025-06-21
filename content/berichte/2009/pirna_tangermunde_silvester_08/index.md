@@ -34,7 +34,7 @@ images:
   title: Aufladen in Tangermünde 0708
 länder: []
 title: Pirna Tangermünde Silvester 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

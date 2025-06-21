@@ -13,7 +13,7 @@ images:
   title: ruderkasten fw3
 länder: []
 title: Obmannskurs
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

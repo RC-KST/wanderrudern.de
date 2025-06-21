@@ -21,7 +21,7 @@ länder:
 - deutschland
 - dänemark
 title: Havel-Elbe-Hamburg 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -20,7 +20,7 @@ images:
   title: Jonathan waescht ab Dresdenia 2014
 länder: []
 title: Dresdenia Kinderruderlager 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

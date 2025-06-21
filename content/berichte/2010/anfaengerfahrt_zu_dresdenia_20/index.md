@@ -15,7 +15,7 @@ images:
   title: Jugendwanderfahrt Dresdenia 2010
 länder: []
 title: Anfaengerfahrt zu Dresdenia 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -15,7 +15,7 @@ images:
   title: Tag der offenen Tuer Kleinmachnow 2014 Ruderboote
 länder: []
 title: Tag der offenen Tür 2014
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

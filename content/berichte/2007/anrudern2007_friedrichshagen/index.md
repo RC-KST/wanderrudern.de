@@ -18,7 +18,7 @@ images:
   title: Patrick Schleuse Kleinmachnow BA07
 länder: []
 title: Anrudern2007 Friedrichshagen
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

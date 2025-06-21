@@ -42,7 +42,7 @@ images:
   title: Starke Ruderer beim Wesermarathon 08
 länder: []
 title: Wesermarathon08
-typ: marathon
+typen: marathon
 ---
 
 

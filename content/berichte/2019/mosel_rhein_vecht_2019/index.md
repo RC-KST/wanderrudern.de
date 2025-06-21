@@ -248,7 +248,7 @@ länder:
 - niederlande
 - luxemburg
 title: Mosel Rhein Vecht 2019
-typ: marathon
+typen: marathon
 ---
 
 

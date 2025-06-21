@@ -6,7 +6,7 @@ gewässer:
 - teltowkanal
 länder: []
 title: Drachenbootcup 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -22,7 +22,7 @@ images:
   title: Wesermarathon Gold Ruderclub Kleinmachnow WM2010
 länder: []
 title: Wesermarathon 2010
-typ: marathon
+typen: marathon
 ---
 
 

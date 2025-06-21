@@ -50,7 +50,7 @@ images:
 länder:
 - deutschland
 title: Main 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

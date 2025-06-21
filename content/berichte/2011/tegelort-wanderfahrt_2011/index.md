@@ -18,7 +18,7 @@ images:
   title: Badestrand Havel Ruderer Tegelort 2011
 länder: []
 title: Tegelort-Wanderfahrt 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

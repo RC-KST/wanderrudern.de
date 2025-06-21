@@ -20,7 +20,7 @@ images:
   title: RC KST Barke auf der Elbe DC09
 länder: []
 title: Decin Meissen 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

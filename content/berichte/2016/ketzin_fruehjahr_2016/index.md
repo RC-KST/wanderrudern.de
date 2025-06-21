@@ -14,7 +14,7 @@ images:
   title: Sonntag rueckweg nach Stahnsdorf Ketzin 2016
 länder: []
 title: Ketzin Fruehjahr 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

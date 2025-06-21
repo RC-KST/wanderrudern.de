@@ -6,7 +6,7 @@ gewässer: []
 länder:
 - frankreich
 title: Frankreich Camargue 10
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

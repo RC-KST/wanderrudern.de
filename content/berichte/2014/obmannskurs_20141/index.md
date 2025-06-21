@@ -10,7 +10,7 @@ images:
   title: Obmannskurs Ruderclub Kleinmachnow Seminar 2014
 länder: []
 title: Obmannskurs 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

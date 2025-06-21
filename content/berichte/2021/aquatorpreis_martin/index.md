@@ -13,7 +13,7 @@ länder:
 - deutschland
 - irland
 title: WRT Saarbrücken 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

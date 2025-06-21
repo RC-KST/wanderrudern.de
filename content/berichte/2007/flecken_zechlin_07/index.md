@@ -10,7 +10,7 @@ images:
   title: Rudervierer auf dem Zechliner See 07
 länder: []
 title: Flecken Zechlin 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -10,7 +10,7 @@ images:
   title: Nirina und LingLing Ehrung der Sportjugend 2013
 länder: []
 title: Sportjugend PM ehrt Ruderinnen 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

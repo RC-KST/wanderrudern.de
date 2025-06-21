@@ -15,7 +15,7 @@ images:
   title: elbe bobby Miitellandkanalbrücke
 länder: []
 title: Meissen_Wittenberg95
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

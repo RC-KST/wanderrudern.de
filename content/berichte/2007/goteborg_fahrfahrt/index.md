@@ -37,7 +37,7 @@ images:
 länder:
 - schweden
 title: Göteborg Fährfahrt
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

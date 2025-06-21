@@ -33,7 +33,7 @@ images:
 länder:
 - england
 title: Fährfahrt Oslo 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

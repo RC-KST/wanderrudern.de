@@ -12,7 +12,7 @@ images:
   title: Anfaengerausbildung Kant wir arbeiten noch dran 2018
 länder: []
 title: Schulrudern Kant 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

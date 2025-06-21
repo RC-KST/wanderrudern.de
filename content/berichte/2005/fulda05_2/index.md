@@ -7,7 +7,7 @@ gewässer:
 - fulda
 länder: []
 title: Wesermarathon 2005
-typ: marathon
+typen: marathon
 ---
 
 

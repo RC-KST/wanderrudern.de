@@ -34,7 +34,7 @@ images:
 länder:
 - deutschland
 title: EUREGA 2023
-typ: marathon
+typen: marathon
 ---
 
 # Bericht zur EUREGA XXXI

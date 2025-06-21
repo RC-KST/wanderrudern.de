@@ -12,7 +12,7 @@ images:
   title: Sieger AllYouCanRow 2018
 länder: []
 title: Marathon 2018
-typ: marathon
+typen: marathon
 ---
 
 

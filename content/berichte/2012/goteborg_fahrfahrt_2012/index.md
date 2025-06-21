@@ -35,7 +35,7 @@ images:
   title: Blick aus dem Bullauge Stena 2012
 länder: []
 title: Göteborg Fährfahrt 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

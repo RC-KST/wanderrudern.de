@@ -12,7 +12,7 @@ images:
   title: johanna preisverleihung ksb
 länder: []
 title: KSB ehrt Johanna 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

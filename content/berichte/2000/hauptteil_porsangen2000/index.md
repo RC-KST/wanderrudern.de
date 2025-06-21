@@ -42,7 +42,7 @@ länder:
 - schweden
 - italien
 title: Inari 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

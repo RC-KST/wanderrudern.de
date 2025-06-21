@@ -10,7 +10,7 @@ länder:
 - deutschland
 - serbien
 title: Donau Budapest Eisernes Tor 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

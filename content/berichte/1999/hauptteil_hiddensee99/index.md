@@ -16,7 +16,7 @@ länder:
 - dänemark
 - polen
 title: Hiddensee 1999
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

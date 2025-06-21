@@ -28,7 +28,7 @@ images:
 länder:
 - deutschland
 title: EUREGA Rhein 2024
-typ: marathon
+typen: marathon
 ---
 
 # RC KST bei der 32. Europäischen Rheinregatta (EUREGA) 2024

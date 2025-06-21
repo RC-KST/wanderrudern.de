@@ -54,7 +54,7 @@ images:
 länder:
 - deutschland
 title: Weser 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

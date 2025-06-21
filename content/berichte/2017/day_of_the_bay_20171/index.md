@@ -14,7 +14,7 @@ images:
   title: Proberudern Day of the Bay 2017
 länder: []
 title: Day of the Bay 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

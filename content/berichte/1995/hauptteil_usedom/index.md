@@ -15,7 +15,7 @@ images:
 länder:
 - dänemark
 title: usedom
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

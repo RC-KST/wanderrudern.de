@@ -11,7 +11,7 @@ images:
 länder:
 - deutschland
 title: Obmannskurse 2023
-typ: schulung
+typen: schulung
 ---
 
 

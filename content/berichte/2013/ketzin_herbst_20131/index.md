@@ -13,7 +13,7 @@ images:
   title: Ruderboot im Mondschein bei Ketzin 2013
 länder: []
 title: Ketzin Herbst 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

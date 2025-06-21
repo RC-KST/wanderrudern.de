@@ -9,7 +9,7 @@ gewässer:
 länder:
 - polen
 title: Oberlaendischer Kanal 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

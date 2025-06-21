@@ -26,7 +26,7 @@ images:
   title: Bootstaufe Baumgaren E-Zweier Kleinmachnow 2011
 länder: []
 title: Anrudern Kleinmachnow 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

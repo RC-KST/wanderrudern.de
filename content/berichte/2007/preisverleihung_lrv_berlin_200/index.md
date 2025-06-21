@@ -18,7 +18,7 @@ images:
   title: Medaillen Sommerwettbewerb Rudern RC Kleinmachnow
 länder: []
 title: Preisverleihung LRV Berlin 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

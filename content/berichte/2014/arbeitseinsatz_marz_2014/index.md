@@ -14,7 +14,7 @@ images:
   title: Sitzplatz streichen 2014
 länder: []
 title: Arbeitseinsatz März 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

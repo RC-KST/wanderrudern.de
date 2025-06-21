@@ -9,7 +9,7 @@ länder:
 - deutschland
 - schweden
 title: Schweden 1997 Dalsland und Götakanal
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

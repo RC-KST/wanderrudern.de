@@ -18,7 +18,7 @@ images:
   title: kalter schlamm am Ufer der Theiss Ruderboot
 länder: []
 title: Theiss 1997
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

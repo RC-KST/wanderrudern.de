@@ -36,7 +36,7 @@ images:
   title: Osteriff 2016
 länder: []
 title: Oste Marathon Hemmoor 2016
-typ: marathon
+typen: marathon
 ---
 
 

@@ -182,7 +182,7 @@ länder:
 - deutschland
 - österreich
 title: Donau Ulm Bratislava 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -15,7 +15,7 @@ images:
   title: Messestand RC KST Boot und Fun 2013
 länder: []
 title: Messe Boot und Fun mit dem RC KST 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

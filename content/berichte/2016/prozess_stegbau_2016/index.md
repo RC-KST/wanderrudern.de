@@ -10,7 +10,7 @@ images:
   title: Stegbau RC KST 2016
 länder: []
 title: Prozess Stegbau 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

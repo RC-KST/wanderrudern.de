@@ -13,7 +13,7 @@ images:
   title: Ketzin Graeben Ketzin Herbst 2015
 länder: []
 title: Ketzin 2015 Herbst
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

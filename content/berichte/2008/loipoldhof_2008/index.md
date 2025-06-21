@@ -76,7 +76,7 @@ images:
   title: VorderTuer L08
 länder: []
 title: Loipoldhof 2008
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

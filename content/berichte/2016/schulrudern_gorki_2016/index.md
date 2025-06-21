@@ -14,7 +14,7 @@ images:
   title: Gorki Schuelerrudern 2016 Boote am Griebnitzsee
 länder: []
 title: Schulrudern Gorki 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

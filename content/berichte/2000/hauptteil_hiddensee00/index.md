@@ -17,7 +17,7 @@ länder:
 - dänemark
 - finnland
 title: hiddensee 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

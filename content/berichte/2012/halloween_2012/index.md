@@ -16,7 +16,7 @@ images:
   title: Halloween auf dem Friedhof 2012
 länder: []
 title: Halloween 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

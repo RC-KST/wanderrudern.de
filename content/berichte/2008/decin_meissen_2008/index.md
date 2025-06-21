@@ -25,7 +25,7 @@ images:
   title: Weihnachtsmann am Steuer Decin 0802
 länder: []
 title: Decin Meissen 2008
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

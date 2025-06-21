@@ -9,7 +9,7 @@ images:
   title: Ruderboot Elbe Winter Paula
 länder: []
 title: Elbe_mrz05
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

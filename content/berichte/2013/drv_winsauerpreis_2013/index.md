@@ -8,7 +8,7 @@ images:
   title: Winsauerpreis Nirina LingLing Stefan 2013
 länder: []
 title: DRV Winsauerpreis 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -76,7 +76,7 @@ länder:
 - deutschland
 - italien
 title: Main Donau Kanal Main
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

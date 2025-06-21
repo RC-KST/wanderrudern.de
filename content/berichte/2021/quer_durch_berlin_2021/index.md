@@ -14,7 +14,7 @@ images:
   title: Bootsanhänger Quer durch Berlin 2021 Baumgarten Marathon C-Vierer
 länder: []
 title: Quer durch Berlin 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

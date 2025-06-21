@@ -7,7 +7,7 @@ gewässer:
 - werra
 länder: []
 title: Wesermarathon 2010
-typ: marathon
+typen: marathon
 ---
 
 

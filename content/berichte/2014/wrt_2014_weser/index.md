@@ -15,7 +15,7 @@ images:
   title: Polle pause am Steg WRT 2014
 länder: []
 title: WRT 2014 Weser
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

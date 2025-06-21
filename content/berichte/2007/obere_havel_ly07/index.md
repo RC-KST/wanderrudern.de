@@ -6,7 +6,7 @@ gewässer:
 - havel
 länder: []
 title: Stahnsdorf Lychen 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

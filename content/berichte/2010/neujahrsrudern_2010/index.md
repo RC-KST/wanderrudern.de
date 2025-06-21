@@ -18,7 +18,7 @@ images:
   title: Ruderboot im Eis des Stölpchensee 2010
 länder: []
 title: Neujahrsrudern 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

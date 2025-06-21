@@ -20,7 +20,7 @@ images:
   title: Felix im Sturm Bundeskanzleramt 2017
 länder: []
 title: Bundeskanzleramt 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

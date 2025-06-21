@@ -23,7 +23,7 @@ images:
   title: Zielturm Beetzsee
 länder: []
 title: Jugend Wanderrudertreffen Brandenburg 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

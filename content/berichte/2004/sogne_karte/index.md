@@ -9,7 +9,7 @@ images:
   title: Wanderrudern Sognefjord Norwegen Wanderfahrten
 länder: []
 title: Sognefjord 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

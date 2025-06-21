@@ -12,7 +12,7 @@ images:
   title: abend bei wiking dezember 2014
 länder: []
 title: Ruedersdorf Vorstandssitzung 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

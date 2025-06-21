@@ -12,7 +12,7 @@ images:
   title: Fehleranalyse Rudern Obmannskurs RC KST 2011
 länder: []
 title: Obmannskurs 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

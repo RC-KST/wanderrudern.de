@@ -39,7 +39,7 @@ länder:
 - deutschland
 - frankreich
 title: Camargue 2015 Silvester
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -11,7 +11,7 @@ images:
 länder:
 - finnland
 title: zingst 1998
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

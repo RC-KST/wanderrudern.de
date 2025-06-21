@@ -16,7 +16,7 @@ images:
   title: Rueckweg im Schneesturm Advent 2012
 länder: []
 title: 2.Advent Schneesturm 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

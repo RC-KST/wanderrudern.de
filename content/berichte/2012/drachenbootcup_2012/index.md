@@ -24,7 +24,7 @@ images:
   title: Feen Drachenbootcup 2012
 länder: []
 title: Drachenbootcup 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

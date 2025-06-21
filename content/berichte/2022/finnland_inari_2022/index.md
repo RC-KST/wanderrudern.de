@@ -186,7 +186,7 @@ images:
 länder:
 - finnland
 title: Finnland Inari 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

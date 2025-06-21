@@ -111,7 +111,7 @@ länder:
 - polen
 - ukraine
 title: Polen Bug Narew Weichsel Ostsee 2013
-typ: marathon
+typen: marathon
 ---
 
 

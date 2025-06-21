@@ -38,7 +38,7 @@ images:
   title: Mittagspause in Neuhaus 2018
 länder: []
 title: Oste Marathon 2018
-typ: marathon
+typen: marathon
 ---
 
 

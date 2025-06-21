@@ -39,7 +39,7 @@ länder:
 - schweiz
 - frankreich
 title: Tour du Lac Leman 2022
-typ: marathon
+typen: marathon
 ---
 
 

@@ -18,7 +18,7 @@ images:
   title: tot06_feuer
 länder: []
 title: Tag der offenen Tür 2006
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

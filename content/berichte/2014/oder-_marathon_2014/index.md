@@ -9,7 +9,7 @@ images:
   title: Vierer vor dem Kloster Leubus Oder 2012
 länder: []
 title: 'Meissen - Coswig 2014 '
-typ: marathon
+typen: marathon
 ---
 
 

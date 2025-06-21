@@ -5,7 +5,7 @@ date: "2004-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Decin04
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

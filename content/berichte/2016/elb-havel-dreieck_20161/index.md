@@ -42,7 +42,7 @@ images:
 länder:
 - finnland
 title: Elb-Havel-Dreieck 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -17,7 +17,7 @@ images:
   title: Mieses Wetter Extremfahrt Rhein 2018
 länder: []
 title: Rheinmarathon 2018
-typ: marathon
+typen: marathon
 ---
 
 

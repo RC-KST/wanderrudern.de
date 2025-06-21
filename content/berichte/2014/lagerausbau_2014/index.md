@@ -14,7 +14,7 @@ images:
   title: die ersten Dachstreben sind montiert 2014
 länder: []
 title: Lagerausbau 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

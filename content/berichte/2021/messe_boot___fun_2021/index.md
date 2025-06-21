@@ -17,7 +17,7 @@ images:
   title: Kinder am Ergo Boot und Fun 2021
 länder: []
 title: Messe Boot + Fun 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

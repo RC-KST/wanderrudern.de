@@ -6,7 +6,7 @@ gewässer:
 - teltowkanal
 länder: []
 title: Drachenbootcup 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

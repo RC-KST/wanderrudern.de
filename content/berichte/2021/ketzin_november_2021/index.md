@@ -11,7 +11,7 @@ images:
   title: Steg in Brandenburg Havel 2021 November
 länder: []
 title: Ketzin November 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

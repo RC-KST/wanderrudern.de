@@ -8,7 +8,7 @@ images:
   title: Tour du Lac Leman Aviron 2015
 länder: []
 title: "Tour du Léman à l\x92Aviron 2015"
-typ: marathon
+typen: marathon
 ---
 
 

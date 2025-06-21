@@ -12,7 +12,7 @@ images:
   title: Plazierungen maennerboote 2014 Drachenbootrudercup
 länder: []
 title: Drachenboot-Rudercup 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

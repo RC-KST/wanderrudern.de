@@ -16,7 +16,7 @@ images:
   title: Badepause Brandenburgia 2012
 länder: []
 title: Brandenburgia 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

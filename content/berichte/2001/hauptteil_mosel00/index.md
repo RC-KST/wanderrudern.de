@@ -32,7 +32,7 @@ länder:
 - luxemburg
 - italien
 title: Camargue 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

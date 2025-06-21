@@ -18,7 +18,7 @@ images:
   title: Sternfahrt Hevella 2012
 länder: []
 title: Havelkanalumfahrt 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

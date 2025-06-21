@@ -34,7 +34,7 @@ images:
 länder:
 - frankreich
 title: canal du midi 1997
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -7,7 +7,7 @@ gewässer:
 - werra
 länder: []
 title: Wesermarathon 1997
-typ: marathon
+typen: marathon
 ---
 
 

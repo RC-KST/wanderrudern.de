@@ -5,7 +5,7 @@ date: "2019-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Tag der offenen Tuer 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

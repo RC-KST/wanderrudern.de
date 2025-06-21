@@ -7,7 +7,7 @@ gewässer:
 - main
 länder: []
 title: Main Donau Kanal Main
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -17,7 +17,7 @@ images:
   title: WIking Sternfahrt 2011 Boote am Steg
 länder: []
 title: Wiking Sternfahrt 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

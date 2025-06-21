@@ -103,7 +103,7 @@ länder:
 - italien
 - österreich
 title: Loipoldhof 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

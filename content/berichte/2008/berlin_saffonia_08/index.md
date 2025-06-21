@@ -18,7 +18,7 @@ images:
   title: die Masters bei Saffonua J08
 länder: []
 title: Berlin Saffonia 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

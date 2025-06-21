@@ -32,7 +32,7 @@ images:
   title: Leonie Maren in der Kueche Rahnsdorf 2013
 länder: []
 title: Rahnsdorf Ruedersdorf Pfingsten 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

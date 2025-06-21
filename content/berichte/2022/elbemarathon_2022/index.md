@@ -24,7 +24,7 @@ images:
 länder:
 - deutschland
 title: Elbemarathon 2022
-typ: marathon
+typen: marathon
 ---
 
 

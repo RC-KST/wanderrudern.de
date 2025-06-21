@@ -99,7 +99,7 @@ länder:
 - ungarn
 - slowakei
 title: Donaudelta 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

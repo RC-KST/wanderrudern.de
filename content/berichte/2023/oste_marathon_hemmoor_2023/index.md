@@ -24,7 +24,7 @@ images:
 länder:
 - deutschland
 title: Oste Marathon Hemmoor 2023
-typ: marathon
+typen: marathon
 ---
 
 # Oste Marathon 2023

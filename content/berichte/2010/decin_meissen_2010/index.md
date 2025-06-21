@@ -25,7 +25,7 @@ images:
 länder:
 - deutschland
 title: Decin Meissen 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

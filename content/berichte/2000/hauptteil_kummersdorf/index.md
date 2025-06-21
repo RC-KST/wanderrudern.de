@@ -10,7 +10,7 @@ images:
   title: Kummersdorf an der Schleuse Ruderer
 länder: []
 title: Anrudern Richtershorn 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

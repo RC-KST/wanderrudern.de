@@ -12,7 +12,7 @@ images:
   title: laura liegt im Ruderboot
 länder: []
 title: berlin_wittenberg99
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

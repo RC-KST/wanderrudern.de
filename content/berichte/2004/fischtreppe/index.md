@@ -7,7 +7,7 @@ gewässer:
 - po
 länder: []
 title: main 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

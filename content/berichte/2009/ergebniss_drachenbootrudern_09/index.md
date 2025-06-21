@@ -10,7 +10,7 @@ images:
   title: Drachenboot Siegerehrung EON 09
 länder: []
 title: Drachenbootcup 2009
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

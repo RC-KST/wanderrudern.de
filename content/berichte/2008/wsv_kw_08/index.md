@@ -22,7 +22,7 @@ images:
   title: Irchboot_in_den_engen_Kanaelen
 länder: []
 title: WSV KW 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

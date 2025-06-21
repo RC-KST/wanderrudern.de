@@ -9,7 +9,7 @@ länder:
 - deutschland
 - serbien
 title: Donau Bezdan Negotin 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

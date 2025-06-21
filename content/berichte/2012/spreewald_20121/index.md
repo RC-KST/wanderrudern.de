@@ -28,7 +28,7 @@ images:
   title: Jonathan mit Bagger Spreewald 2012
 länder: []
 title: Spreewald 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -20,7 +20,7 @@ images:
   title: Hangbefestigung neu J2010
 länder: []
 title: Erweiterunggelaende Juni 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

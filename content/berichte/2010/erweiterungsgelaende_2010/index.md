@@ -17,7 +17,7 @@ images:
   title: Ruine auf dem Clubgelaende 2010
 länder: []
 title: Erweiterungsgelaende 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

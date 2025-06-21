@@ -125,7 +125,7 @@ länder:
 - ungarn
 - serbien
 title: Donaublog 2016
-typ: marathon
+typen: marathon
 ---
 
 

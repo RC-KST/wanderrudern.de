@@ -8,7 +8,7 @@ images:
   title: Anlegen in Meissen Ruderboot Barke
 länder: []
 title: Decin00
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

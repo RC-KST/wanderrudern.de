@@ -14,7 +14,7 @@ images:
   title: Kant Gymnasium Schuelerruderer 2015
 länder: []
 title: Schuelerrudern Kant 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

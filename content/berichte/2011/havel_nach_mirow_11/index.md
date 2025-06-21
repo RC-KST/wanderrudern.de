@@ -53,7 +53,7 @@ images:
   title: Havelpanorama Ruderboot M11
 länder: []
 title: Havel nach Mirow 11
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

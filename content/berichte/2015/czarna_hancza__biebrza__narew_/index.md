@@ -149,7 +149,7 @@ länder:
 - finnland
 - polen
 title: Main-Donau-Kanal Main 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

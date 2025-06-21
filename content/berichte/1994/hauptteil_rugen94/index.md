@@ -42,7 +42,7 @@ länder:
 - dänemark
 - schweden
 title: Rüugen 1994
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

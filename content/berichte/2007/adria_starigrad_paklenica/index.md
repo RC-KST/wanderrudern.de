@@ -6,7 +6,7 @@ gewässer:
 - kroatische adria
 länder: []
 title: Kroatien Ruderfahrt 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

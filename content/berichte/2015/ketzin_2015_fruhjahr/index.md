@@ -16,7 +16,7 @@ images:
   title: Indisches Brot Malabar Maerz 2015
 länder: []
 title: Ketzin 2015 Frühjahr
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

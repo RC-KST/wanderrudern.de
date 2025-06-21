@@ -32,7 +32,7 @@ images:
   title: Sieger maenner 2014 Drachenboot
 länder: []
 title: Drachenboot-Rudercup 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -37,7 +37,7 @@ images:
 länder:
 - deutschland
 title: Ruegen 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

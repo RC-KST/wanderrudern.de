@@ -24,7 +24,7 @@ images:
 länder:
 - deutschland
 title: Werder Brandenburg November 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

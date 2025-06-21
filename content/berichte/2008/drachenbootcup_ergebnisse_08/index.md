@@ -5,7 +5,7 @@ date: "2008-06-06T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Drachenruderbootcup 2008
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

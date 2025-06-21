@@ -6,7 +6,7 @@ gewässer:
 - teltowkanal
 länder: []
 title: Schmoeckwitz 2004
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

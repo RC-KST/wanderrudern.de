@@ -29,7 +29,7 @@ images:
   title: Ruderboote in Niederfinow 2015
 länder: []
 title: Finowkanal 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

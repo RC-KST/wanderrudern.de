@@ -91,7 +91,7 @@ images:
   title: durch die alpen mit dem bootstrailer venedig 2014
 länder: []
 title: Po Venedig 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -7,7 +7,7 @@ gewässer:
 - oste
 länder: []
 title: Donau Ostern 2004 Wien-Budapest
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

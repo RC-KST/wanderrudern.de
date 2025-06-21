@@ -153,7 +153,7 @@ images:
 länder:
 - finnland
 title: Finnland Saimaa 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

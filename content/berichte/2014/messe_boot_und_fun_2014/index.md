@@ -14,7 +14,7 @@ images:
   title: Messe Boot und Fun Family Trainer 2014
 länder: []
 title: Messe Boot und Fun 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

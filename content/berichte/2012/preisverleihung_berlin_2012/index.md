@@ -17,7 +17,7 @@ images:
   title: Maenner C Silber
 länder: []
 title: Preisverleihung Berlin 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

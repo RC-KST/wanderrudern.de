@@ -30,7 +30,7 @@ länder:
 - österreich
 - ungarn
 title: donau 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

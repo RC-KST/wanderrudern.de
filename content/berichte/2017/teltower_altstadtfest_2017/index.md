@@ -12,7 +12,7 @@ images:
   title: LingLing beim Interview Altstadtfest Teltow 2017
 länder: []
 title: Teltower Altstadtfest 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

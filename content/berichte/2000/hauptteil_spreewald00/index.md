@@ -20,7 +20,7 @@ images:
 länder:
 - finnland
 title: Spreewald 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

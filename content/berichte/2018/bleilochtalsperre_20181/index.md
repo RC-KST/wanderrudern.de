@@ -18,7 +18,7 @@ images:
   title: Wildwasser auf der Saale 2018
 länder: []
 title: Bleilochtalsperre 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

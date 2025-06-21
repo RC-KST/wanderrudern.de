@@ -194,7 +194,7 @@ images:
 länder:
 - finnland
 title: Masuren Berlin 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

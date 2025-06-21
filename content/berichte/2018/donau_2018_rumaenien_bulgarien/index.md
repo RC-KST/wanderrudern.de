@@ -8,7 +8,7 @@ gewässer:
 länder:
 - bulgarien
 title: Donau 2018 Rumaenien Bulgarien
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

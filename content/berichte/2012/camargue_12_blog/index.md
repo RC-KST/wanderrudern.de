@@ -35,7 +35,7 @@ images:
 länder:
 - frankreich
 title: Frankreich Camargue 12
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

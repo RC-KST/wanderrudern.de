@@ -47,7 +47,7 @@ länder:
 - frankreich
 - deutschland
 title: Moder Rhein 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Moder + Rhein

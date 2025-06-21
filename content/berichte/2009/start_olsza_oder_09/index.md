@@ -8,7 +8,7 @@ gewässer:
 länder:
 - polen
 title: Oderwanderfahrt Polen 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

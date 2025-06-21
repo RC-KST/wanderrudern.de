@@ -21,7 +21,7 @@ images:
   title: Seilfahre Elbe 2015
 länder: []
 title: Meissen - Coswig 2015
-typ: marathon
+typen: marathon
 ---
 
 

@@ -31,7 +31,7 @@ images:
   title: Rudern auf der Müritz
 länder: []
 title: Elbe_Elde_Umfahrt94
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

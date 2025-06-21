@@ -81,7 +81,7 @@ images:
 länder:
 - polen
 title: Masuren Berlin 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

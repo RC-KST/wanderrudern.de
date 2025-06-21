@@ -13,7 +13,7 @@ images:
   title: Havelkanal 2016
 länder: []
 title: Havelkanal-Marathon 2016
-typ: marathon
+typen: marathon
 ---
 
 

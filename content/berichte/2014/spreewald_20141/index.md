@@ -34,7 +34,7 @@ images:
   title: Aufladen am pumpwerk 2014
 länder: []
 title: Spreewald 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

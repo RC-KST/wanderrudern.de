@@ -12,7 +12,7 @@ images:
   title: Kant ruderkurs jiajia vor der schleuse kleinmachnow 2014
 länder: []
 title: Schulrudern Kant-Gymnasium
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

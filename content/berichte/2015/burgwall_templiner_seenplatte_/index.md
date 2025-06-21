@@ -29,7 +29,7 @@ images:
   title: Wentowsee Ruderboote 2015
 länder: []
 title: Burgwall Templiner Seenplatte 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

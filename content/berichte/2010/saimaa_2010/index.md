@@ -16,7 +16,7 @@ länder:
 - finnland
 - schweden
 title: Anrudern Bootstaufe RC KST 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

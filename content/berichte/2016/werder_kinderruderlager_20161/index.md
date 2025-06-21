@@ -16,7 +16,7 @@ images:
   title: Malte Sophie XXL Restaurant Redo Ketzin 2016
 länder: []
 title: Werder Kinderruderlager 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

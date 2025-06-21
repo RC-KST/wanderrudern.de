@@ -15,7 +15,7 @@ images:
   title: Vier Grazien Silvester Ruderclub Kleinmachnow 2010
 länder: []
 title: Silvester 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

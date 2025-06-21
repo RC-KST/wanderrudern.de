@@ -44,7 +44,7 @@ images:
 länder: 
 - deutschland
 title: Zur Elbe 270km 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

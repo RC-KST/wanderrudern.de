@@ -15,7 +15,7 @@ images:
   title: gumpeneck2
 länder: []
 title: Bergwandern2004_1
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

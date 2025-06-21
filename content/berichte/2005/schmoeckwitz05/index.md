@@ -7,7 +7,7 @@ gewässer:
 - saimaa
 länder: []
 title: Schmoeckwitz 2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

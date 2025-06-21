@@ -27,7 +27,7 @@ images:
   title: Laura in Burg im Spreewald 2013
 länder: []
 title: Spreewald Herbst 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

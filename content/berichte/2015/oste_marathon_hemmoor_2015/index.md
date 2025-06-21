@@ -34,7 +34,7 @@ images:
 länder:
 - deutschland
 title: Oste Marathon Hemmoor 2015
-typ: marathon
+typen: marathon
 ---
 
 

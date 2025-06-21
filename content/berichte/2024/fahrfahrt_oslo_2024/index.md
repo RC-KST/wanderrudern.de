@@ -45,7 +45,7 @@ images:
 länder:
 - norwegen
 title: Fährfahrt Oslo 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Fährreise nach Oslo

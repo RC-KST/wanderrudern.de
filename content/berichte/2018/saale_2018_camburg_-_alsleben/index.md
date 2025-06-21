@@ -32,7 +32,7 @@ images:
   title: Burg Wettin Saale 2018
 länder: []
 title: Saale 2018 Camburg - Alsleben
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

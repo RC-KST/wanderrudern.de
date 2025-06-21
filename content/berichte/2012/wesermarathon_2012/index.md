@@ -34,7 +34,7 @@ images:
   title: Chillen im Boot nach dem Marathon 2012
 länder: []
 title: Wesermarathon 2012
-typ: marathon
+typen: marathon
 ---
 
 

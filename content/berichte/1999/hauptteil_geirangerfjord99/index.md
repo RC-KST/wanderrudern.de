@@ -31,7 +31,7 @@ länder:
 - norwegen
 - schweden
 title: Geirangerfjord 1999
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

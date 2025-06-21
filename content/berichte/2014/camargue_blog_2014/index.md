@@ -46,7 +46,7 @@ images:
   title: Abendessen im Cardinal 2014 blog
 länder: []
 title: Camargue Blog 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

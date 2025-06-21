@@ -20,7 +20,7 @@ images:
   title: Baumgarten Marathon+ C-Vierer RS-Class
 länder: []
 title: Bootstaufe 2021
-typ: marathon
+typen: marathon
 ---
 
 

@@ -19,7 +19,7 @@ images:
   title: Wannsee in Flammen 2016-1
 länder: []
 title: Wannsee in Flammen 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

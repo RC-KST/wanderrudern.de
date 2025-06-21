@@ -49,7 +49,7 @@ images:
 länder:
 - österreich
 title: donau 1994
-typ: marathon
+typen: marathon
 ---
 
 

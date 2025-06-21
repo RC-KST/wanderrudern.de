@@ -14,7 +14,7 @@ images:
   title: Landwehrkanal Wiking 2013
 länder: []
 title: Wiking Sternfahrt 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

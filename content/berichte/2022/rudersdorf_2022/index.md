@@ -23,7 +23,7 @@ images:
 länder: 
 - deutschland
 title: Rüdersdorf 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

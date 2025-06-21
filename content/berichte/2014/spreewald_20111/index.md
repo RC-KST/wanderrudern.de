@@ -48,7 +48,7 @@ images:
   title: Spreewaldschleuse 11
 länder: []
 title: Spreewald 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

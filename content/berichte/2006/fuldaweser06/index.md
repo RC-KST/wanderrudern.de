@@ -57,7 +57,7 @@ images:
 länder:
 - schweiz
 title: Fulda Weser 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

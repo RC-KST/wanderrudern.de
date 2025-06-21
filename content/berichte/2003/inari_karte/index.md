@@ -8,7 +8,7 @@ images:
   title: Wanderrudern Inari Finnland Wanderfahrten
 länder: []
 title: inari 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

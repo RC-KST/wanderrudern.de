@@ -13,7 +13,7 @@ images:
   title: Vierer Rudern Ruderboot Mirow
 länder: []
 title: Mirow 1999
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

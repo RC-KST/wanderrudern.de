@@ -19,7 +19,7 @@ images:
   title: Steuermann auf der Havel 10
 länder: []
 title: Stahnsdorf - Havelberg Pfingsten 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

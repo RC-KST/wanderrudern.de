@@ -83,7 +83,7 @@ länder:
 - deutschland
 - tschechien
 title: Moldau Elbe 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -18,7 +18,7 @@ images:
 länder:
 - deutschland
 title: Brandenburgia 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Brandenburgia Wochenende

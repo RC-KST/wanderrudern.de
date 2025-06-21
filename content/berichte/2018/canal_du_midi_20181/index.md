@@ -182,7 +182,7 @@ images:
 länder:
 - frankreich
 title: Canal du Midi 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

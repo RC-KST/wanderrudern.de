@@ -10,7 +10,7 @@ images:
   title: Stahnsdorfer Familienfest 2021
 länder: []
 title: Stahnsdorfer Familienfest 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

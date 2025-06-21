@@ -25,7 +25,7 @@ images:
   title: Plaue beim Ruderclub November 2019
 länder: []
 title: Werder-Plaue 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

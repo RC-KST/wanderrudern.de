@@ -73,7 +73,7 @@ images:
 länder:
 - tschechien
 title: Wanderruderfahrt Prag-Hamburg Oktober 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

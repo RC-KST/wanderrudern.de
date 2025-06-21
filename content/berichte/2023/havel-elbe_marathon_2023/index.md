@@ -18,7 +18,7 @@ images:
 länder:
 - deutschland
 title: Stahnsdorf - Darchau 2023
-typ: marathon
+typen: marathon
 ---
 
 

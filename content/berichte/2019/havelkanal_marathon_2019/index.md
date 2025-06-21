@@ -15,7 +15,7 @@ images:
   title: Havelkanal Marathon 2019 nach 40 km
 länder: []
 title: Havelkanal Marathon 2019
-typ: marathon
+typen: marathon
 ---
 
 

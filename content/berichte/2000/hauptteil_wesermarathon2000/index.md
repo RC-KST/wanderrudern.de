@@ -14,7 +14,7 @@ images:
   title: Wesermarathon rudern Ruderboot
 länder: []
 title: Holland 2000
-typ: marathon
+typen: marathon
 ---
 
 

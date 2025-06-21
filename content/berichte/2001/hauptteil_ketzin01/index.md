@@ -21,7 +21,7 @@ images:
   title: Ketziner
 länder: []
 title: Ketzin 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

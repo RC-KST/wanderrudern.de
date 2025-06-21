@@ -36,7 +36,7 @@ images:
   title: Ruderboote in Werben fertig zum Aufladen 2021
 länder: []
 title: Havel-Elbe Werben 2021
-typ: marathon
+typen: marathon
 ---
 
 

@@ -29,7 +29,7 @@ images:
   title: Boltenmühle2
 länder: []
 title: Neuruppin 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

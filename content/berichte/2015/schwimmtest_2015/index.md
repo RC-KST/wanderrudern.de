@@ -24,7 +24,7 @@ images:
   title: Schwimmtest S5x+ ausgegliche Besatzung
 länder: []
 title: Schwimmtest 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

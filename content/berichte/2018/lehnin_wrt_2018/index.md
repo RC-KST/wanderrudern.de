@@ -28,7 +28,7 @@ images:
   title: Felix Schleppzug Werder WRT 2018
 länder: []
 title: Lehnin WRT 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

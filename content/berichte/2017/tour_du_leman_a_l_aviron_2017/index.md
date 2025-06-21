@@ -14,7 +14,7 @@ images:
   title: Blick ueber Genf 2017
 länder: []
 title: Tour du Léman á l´Aviron 2017
-typ: marathon
+typen: marathon
 ---
 
 

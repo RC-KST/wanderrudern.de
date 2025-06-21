@@ -132,7 +132,7 @@ länder:
 - schweden
 - belgien
 title: Finnland Saimaa 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

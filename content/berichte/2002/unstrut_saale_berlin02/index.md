@@ -21,7 +21,7 @@ images:
   title: Ruderboot Saale Anke Wolfgang
 länder: []
 title: Unstrut_Saale_Berlin02
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

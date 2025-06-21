@@ -15,7 +15,7 @@ images:
   title: manschetten austauschen 2015
 länder: []
 title: Arbeitseinsatz März 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

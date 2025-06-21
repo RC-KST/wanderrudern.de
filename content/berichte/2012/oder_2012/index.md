@@ -30,7 +30,7 @@ images:
 länder:
 - polen
 title: Oder 2012
-typ: marathon
+typen: marathon
 ---
 
 

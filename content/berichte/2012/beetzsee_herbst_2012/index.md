@@ -17,7 +17,7 @@ images:
   title: Wanderruderer bei Havel Brandenburg Herbst 2012
 länder: []
 title: Beetzsee Herbst 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

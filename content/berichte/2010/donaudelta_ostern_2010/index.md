@@ -150,7 +150,7 @@ images:
 länder:
 - ukraine
 title: Donaudelta Ostern 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

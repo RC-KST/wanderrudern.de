@@ -12,7 +12,7 @@ images:
   title: Mirow06 mueritz rudern
 länder: []
 title: Mirow 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

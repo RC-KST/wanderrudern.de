@@ -16,7 +16,7 @@ images:
   title: Inrigger 3x+ vor der Reparatur1
 länder: []
 title: Neue Boote 2021
-typ: marathon
+typen: marathon
 ---
 
 

@@ -184,7 +184,7 @@ länder:
 - ungarn
 - slowakei
 title: Donau Wien Mohacs 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

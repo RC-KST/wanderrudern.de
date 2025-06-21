@@ -85,7 +85,7 @@ länder:
 - deutschland
 - italien
 title: Neckar Rhein 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

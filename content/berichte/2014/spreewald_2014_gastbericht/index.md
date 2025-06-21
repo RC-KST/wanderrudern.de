@@ -12,7 +12,7 @@ länder:
 - deutschland
 - schweiz
 title: Spreewald 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

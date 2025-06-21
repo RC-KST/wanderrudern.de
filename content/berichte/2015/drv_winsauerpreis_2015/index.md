@@ -12,7 +12,7 @@ images:
   title: Preisverleihung Winsauerpreis 2015 RC KSt
 länder: []
 title: DRV Winsauerpreis 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -5,7 +5,7 @@ date: "2008-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Preisverleihung Berliner Wettbewerb 08
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

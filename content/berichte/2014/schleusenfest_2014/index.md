@@ -14,7 +14,7 @@ images:
   title: Ruderboote beim Schleusenfest Kleinmachnow 2014
 länder: []
 title: Schleusenfest 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

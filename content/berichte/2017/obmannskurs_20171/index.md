@@ -12,7 +12,7 @@ images:
   title: Obmannskurs 2017 Kraftraum
 länder: []
 title: Obmannskurs 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

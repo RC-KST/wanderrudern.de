@@ -41,7 +41,7 @@ images:
 länder:
 - polen
 title: Tollense Peene 11
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

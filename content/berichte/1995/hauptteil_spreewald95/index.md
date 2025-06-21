@@ -31,7 +31,7 @@ images:
   title: carola im ruderboot
 länder: []
 title: Spreewald 1995
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -93,7 +93,7 @@ images:
   title: Kölner DOm vom Rhein aus 2021
 länder: []
 title: WRT Saarbrücken 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

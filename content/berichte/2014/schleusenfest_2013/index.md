@@ -12,7 +12,7 @@ images:
   title: Kirchboot auf dem Pohlesee Schleusenfest 2013
 länder: []
 title: Schleusenfest 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

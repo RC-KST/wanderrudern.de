@@ -7,7 +7,7 @@ gewässer:
 - mecklenburger seenplatte
 länder: []
 title: Mirow 1997
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

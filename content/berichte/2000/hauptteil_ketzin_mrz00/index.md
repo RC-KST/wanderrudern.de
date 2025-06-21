@@ -12,7 +12,7 @@ images:
   title: Werder Steg Ruderboot
 länder: []
 title: Ketzin März 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

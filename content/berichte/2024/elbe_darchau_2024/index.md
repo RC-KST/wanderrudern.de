@@ -34,7 +34,7 @@ images:
 länder:
 - deutschland
 title: Elbe Darchau 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Von zu Hause bis nach Darchau

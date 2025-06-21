@@ -7,7 +7,7 @@ gewässer:
 - wannsee
 länder: []
 title: Anrudern Richtershorn 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

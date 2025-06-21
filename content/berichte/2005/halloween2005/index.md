@@ -5,7 +5,7 @@ date: "2005-01-01T01:00:00+02:00"
 gewässer: []
 länder: []
 title: Halloween2005
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

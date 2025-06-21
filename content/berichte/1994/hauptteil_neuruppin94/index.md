@@ -13,7 +13,7 @@ images:
   title: bobby wildwasser neuruppin
 länder: []
 title: Neuruppin 1994
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

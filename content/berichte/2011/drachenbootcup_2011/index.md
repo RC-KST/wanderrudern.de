@@ -24,7 +24,7 @@ images:
   title: Grillstand Drachenbootcup 2011
 länder: []
 title: Drachenbootcup 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

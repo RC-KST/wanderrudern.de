@@ -27,7 +27,7 @@ images:
   title: Rettungsboot mit Rettungsschwimmer Drachenbootrudercup 2015
 länder: []
 title: Drachenboot-Rudercup 2015
-typ: marathon
+typen: marathon
 ---
 
 

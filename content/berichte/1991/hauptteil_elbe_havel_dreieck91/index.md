@@ -30,7 +30,7 @@ images:
 länder:
 - deutschland
 title: Elbe Havel Dreieck 91
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Vorbereitung zur Osterfahrt

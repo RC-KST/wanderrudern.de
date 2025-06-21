@@ -50,7 +50,7 @@ images:
 länder:
 - deutschland
 title: Berliner Innenstadt 2024
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 # Berliner Innenstadt

@@ -188,7 +188,7 @@ images:
 länder:
 - finnland
 title: Finnland Saimaa 2023
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

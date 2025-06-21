@@ -23,7 +23,7 @@ images:
 länder:
 - tschechien
 title: Litomerice - Rathen 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

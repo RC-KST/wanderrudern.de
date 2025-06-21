@@ -10,7 +10,7 @@ images:
   title: Preistraeger Winsauerpreis 2010
 länder: []
 title: Anrudern Bootstaufe RC KST 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

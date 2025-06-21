@@ -12,7 +12,7 @@ images:
   title: Insel Kaelberwerder Rc Kleinmachnow 07
 länder: []
 title: Brandenburger Wanderrudertreffen 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -6,7 +6,7 @@ gewässer:
 - donau
 länder: []
 title: Donau Wien Ilok 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -40,7 +40,7 @@ images:
   title: hamburg hafen Christoph im Ruderboot
 länder: []
 title: unstrut_saale_hh96
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

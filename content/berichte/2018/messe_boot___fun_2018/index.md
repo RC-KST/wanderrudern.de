@@ -20,7 +20,7 @@ images:
   title: Family Trainer Messe 2018
 länder: []
 title: Messe Boot + Fun 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -16,7 +16,7 @@ images:
   title: Trainer entspannen nach dem Schuelerrudern 2013
 länder: []
 title: Schulerrudern Kant Gymnasium 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

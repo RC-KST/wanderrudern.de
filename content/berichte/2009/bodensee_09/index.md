@@ -45,7 +45,7 @@ länder:
 - schweden
 - schweiz
 title: Bodensee 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -63,7 +63,7 @@ images:
   title: Panorama Keinprechthuette Loipold 2012
 länder: []
 title: Loipoldhof 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

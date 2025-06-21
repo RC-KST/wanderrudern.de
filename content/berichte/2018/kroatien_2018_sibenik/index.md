@@ -105,7 +105,7 @@ images:
 länder:
 - österreich
 title: Kroatien 2018 Sibenik
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

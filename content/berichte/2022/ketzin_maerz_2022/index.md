@@ -26,7 +26,7 @@ images:
 länder: 
 - deutschland
 title: Ketzin Maerz 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

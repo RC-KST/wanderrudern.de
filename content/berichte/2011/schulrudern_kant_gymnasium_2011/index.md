@@ -8,7 +8,7 @@ images:
   title: Schulrudern Kant 2017-2 Pohlesee
 länder: []
 title: Schulrudern Kant Gymnasium 2017-2
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

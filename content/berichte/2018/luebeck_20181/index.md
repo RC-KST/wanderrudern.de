@@ -41,7 +41,7 @@ images:
   title: Zweier auf der oberen Trave 2018
 länder: []
 title: Luebeck 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

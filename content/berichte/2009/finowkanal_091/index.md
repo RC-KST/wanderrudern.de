@@ -33,7 +33,7 @@ images:
   title: Oberwasser Hebewerk Niederfinow 09
 länder: []
 title: Finowkanal 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

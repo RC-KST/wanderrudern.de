@@ -38,7 +38,7 @@ images:
   title: mueggelspree DS2013
 länder: []
 title: Dahme Spree Blog 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

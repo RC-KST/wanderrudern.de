@@ -58,7 +58,7 @@ images:
   title: sturm auf dem seddinsee 2015
 länder: []
 title: Dahme Spree Umfahrt  2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

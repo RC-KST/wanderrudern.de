@@ -14,7 +14,7 @@ images:
   title: Schuelerruderer Kant Gymnasium am Stoelpchensee 2019
 länder: []
 title: Schulrudern Kant 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

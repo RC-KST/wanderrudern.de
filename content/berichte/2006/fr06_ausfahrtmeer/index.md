@@ -6,7 +6,7 @@ gewässer:
 - mittelmeer
 länder: []
 title: Camargue 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

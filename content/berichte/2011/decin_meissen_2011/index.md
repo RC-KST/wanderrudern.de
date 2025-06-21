@@ -22,7 +22,7 @@ images:
   title: Der Schrauber an der Barke Elbe 11
 länder: []
 title: Decin Meissen 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

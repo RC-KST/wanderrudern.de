@@ -11,7 +11,7 @@ images:
   title: Nirina in Utrecht Aequatorpreis 2017
 länder: []
 title: Aequatorpreis Nirina 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -22,7 +22,7 @@ images:
 länder:
 - tschechien
 title: Decin04
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

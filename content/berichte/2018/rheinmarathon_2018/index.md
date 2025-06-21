@@ -17,7 +17,7 @@ images:
   title: Rheinmarathon Ziel in Duesseldorf 2018
 länder: []
 title: Rheinmarathon 2018
-typ: marathon
+typen: marathon
 ---
 
 

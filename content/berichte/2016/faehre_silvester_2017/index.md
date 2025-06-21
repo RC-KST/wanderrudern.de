@@ -14,7 +14,7 @@ länder:
 - schweden
 - schottland
 title: Schottland 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

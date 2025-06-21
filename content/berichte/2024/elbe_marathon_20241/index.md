@@ -22,7 +22,7 @@ images:
 länder:
 - deutschland
 title: Elbe Marathon 2024
-typ: marathon
+typen: marathon
 ---
 
 # Elbe Marathon 2024

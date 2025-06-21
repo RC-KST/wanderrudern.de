@@ -12,7 +12,7 @@ images:
   title: Inari restauriert 2016
 länder: []
 title: Inari restauriert 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

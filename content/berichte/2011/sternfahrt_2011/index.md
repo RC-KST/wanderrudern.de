@@ -16,7 +16,7 @@ images:
   title: Waffel Stand Sternfahrt Kleinmachnow 2011
 länder: []
 title: Sternfahrt 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

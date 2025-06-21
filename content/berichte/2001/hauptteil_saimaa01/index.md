@@ -30,7 +30,7 @@ länder:
 - finnland
 - österreich
 title: Saimaa Seenplatte 2001
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

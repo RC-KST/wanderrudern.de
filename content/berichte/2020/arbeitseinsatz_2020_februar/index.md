@@ -14,7 +14,7 @@ images:
   title: Rollsitze reparieren Februar 2020
 länder: []
 title: Arbeitseinsatz 2020 Februar
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

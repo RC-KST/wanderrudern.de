@@ -27,7 +27,7 @@ images:
 länder:
 - schweden
 title: Helsinki Stockholm Fährfahrt 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

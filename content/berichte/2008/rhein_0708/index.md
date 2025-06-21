@@ -119,7 +119,7 @@ länder:
 - italien
 - schweiz
 title: Rhein 0708
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

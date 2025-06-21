@@ -15,7 +15,7 @@ images:
   title: Ruderer im Boot Oder Havel Kanal  06
 länder: []
 title: Oranienburg06
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

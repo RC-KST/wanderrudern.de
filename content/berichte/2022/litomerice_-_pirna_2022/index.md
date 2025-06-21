@@ -23,7 +23,7 @@ länder:
 - deutschland
 - tschechien
 title: Litomerice - Pirna 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

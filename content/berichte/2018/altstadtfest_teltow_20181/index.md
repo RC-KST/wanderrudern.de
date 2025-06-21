@@ -8,7 +8,7 @@ images:
   title: Altstadtfest Teltow 2018
 länder: []
 title: Altstadtfest Teltow 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -20,7 +20,7 @@ images:
   title: Haus Ketzin 2019
 länder: []
 title: Werder Maerz 2019
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

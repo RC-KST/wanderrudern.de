@@ -14,7 +14,7 @@ images:
   title: Sacrower Kirche bei der Schloessernacht Sept 2018
 länder: []
 title: Schloessernacht Sept 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

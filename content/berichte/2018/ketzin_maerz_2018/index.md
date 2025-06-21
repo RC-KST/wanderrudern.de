@@ -12,7 +12,7 @@ images:
   title: Eiszapfen 2018
 länder: []
 title: Ketzin Maerz 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

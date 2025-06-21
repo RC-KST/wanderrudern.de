@@ -63,7 +63,7 @@ images:
 länder:
 - italien
 title: Po Venedig 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

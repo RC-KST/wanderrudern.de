@@ -12,7 +12,7 @@ images:
   title: Obmannskurs Jugend 2018
 länder: []
 title: Obmannskurse 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

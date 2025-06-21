@@ -12,7 +12,7 @@ images:
   title: Orivesi legt ab Abrudern Berlin 2010
 länder: []
 title: Berliner Abrudern 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

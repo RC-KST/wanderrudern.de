@@ -28,7 +28,7 @@ images:
   title: Grunewaldturm Januar 2012
 länder: []
 title: Bundeskanzleramt 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

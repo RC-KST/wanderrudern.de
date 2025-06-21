@@ -28,7 +28,7 @@ images:
   title: Schiffshebewerk Niederfinow Ruderer 2017
 länder: []
 title: Finowkanal 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

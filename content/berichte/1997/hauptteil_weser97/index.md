@@ -17,7 +17,7 @@ images:
   title: vor bremerhaven an einer Fähre
 länder: []
 title: Weser 1997
-typ: marathon
+typen: marathon
 ---
 
 

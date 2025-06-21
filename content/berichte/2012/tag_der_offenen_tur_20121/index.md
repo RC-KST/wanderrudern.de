@@ -16,7 +16,7 @@ images:
   title: RC KST Torte 2012
 länder: []
 title: Tag der offenen Tür 2012
-typ: veranstaltung
+typen: veranstaltung
 ---
 
 

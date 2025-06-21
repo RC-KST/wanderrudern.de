@@ -32,7 +32,7 @@ images:
   title: Frauenzweier in Hameln WM11
 länder: []
 title: Wesermarathon 2011
-typ: marathon
+typen: marathon
 ---
 
 

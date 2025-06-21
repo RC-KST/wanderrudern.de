@@ -7,7 +7,7 @@ gewässer:
 - elbe
 länder: []
 title: Decin_meissen97
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

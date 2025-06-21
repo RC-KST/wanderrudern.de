@@ -12,7 +12,7 @@ images:
   title: Spandauer Weihnachtsmarkt 2013
 länder: []
 title: Spandauer Weihnachtsmarkt 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

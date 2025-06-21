@@ -14,7 +14,7 @@ images:
   title: Neuer Bugspiegel bei einem D-Vierer 2017
 länder: []
 title: Reparaturen 2017 Ergometer
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

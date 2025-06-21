@@ -113,7 +113,7 @@ länder:
 - deutschland
 - finnland
 title: Spreewald Wattenmeer 2021
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

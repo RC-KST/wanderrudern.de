@@ -12,7 +12,7 @@ images:
   title: Flaggenmast Stahnsdorf Ruderclub
 länder: []
 title: Weihnachten05
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -137,7 +137,7 @@ images:
 länder:
 - schweden
 title: Oslofjord 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

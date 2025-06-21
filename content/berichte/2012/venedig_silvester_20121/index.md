@@ -103,7 +103,7 @@ länder:
 - deutschland
 - italien
 title: Venedig Silvester 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -80,7 +80,7 @@ images:
 länder:
 - polen
 title: Dahme Spree Blog 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

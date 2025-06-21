@@ -169,7 +169,7 @@ images:
   title: Burger Abendessen im Ruderclub Schagen Blog 2017
 länder: []
 title: Maas 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

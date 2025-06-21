@@ -19,7 +19,7 @@ images:
   title: Ruderboote Brandenburg Havel Maerz12
 länder: []
 title: Ketzin Fruehjahr 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

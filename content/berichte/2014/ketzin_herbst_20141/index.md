@@ -14,7 +14,7 @@ images:
   title: Exotische Fruechte in Ketzin 2014
 länder: []
 title: Ketzin Herbst 2014
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

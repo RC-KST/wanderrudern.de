@@ -42,7 +42,7 @@ images:
   title: drachenbootcup grill 08
 länder: []
 title: Drachenruderbootcup 2008
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

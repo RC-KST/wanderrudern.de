@@ -13,7 +13,7 @@ images:
   title: Greta rudert
 länder: []
 title: Berlin Flecken Zechlin 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

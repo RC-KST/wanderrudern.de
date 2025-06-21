@@ -12,7 +12,7 @@ images:
   title: Frachter auf dem Teltowkanal Schulrudern 2017
 länder: []
 title: Schulrudern Evangelisches Gymnasium 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

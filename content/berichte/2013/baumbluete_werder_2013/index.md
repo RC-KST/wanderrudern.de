@@ -12,7 +12,7 @@ images:
   title: Ruderer in Werder baumbluetenfest 2013
 länder: []
 title: Baumbluete Werder 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

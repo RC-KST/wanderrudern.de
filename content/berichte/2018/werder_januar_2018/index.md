@@ -13,7 +13,7 @@ images:
   title: Diaet beim REDO Werderfahrt 2018
 länder: []
 title: Werder Januar 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

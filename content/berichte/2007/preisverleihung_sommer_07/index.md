@@ -17,7 +17,7 @@ images:
   title: Preisverleihung Berliner Sommerwettbewerb 07
 länder: []
 title: Preisverleihung Sommer 07
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

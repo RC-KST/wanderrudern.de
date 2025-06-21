@@ -6,7 +6,7 @@ gewässer:
 - wublitz
 länder: []
 title: Ketzin Herbst 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

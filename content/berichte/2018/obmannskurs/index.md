@@ -8,7 +8,7 @@ images:
   title: Dscf0082
 länder: []
 title: Obmannskurse 2018
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

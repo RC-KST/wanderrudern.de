@@ -18,7 +18,7 @@ images:
   title: Pyronale Feuerwerk 2016-2
 länder: []
 title: Pyronale mit Ruderboot 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

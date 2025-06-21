@@ -22,7 +22,7 @@ images:
   title: Ruderboote Schleuse Kleve WRT10
 länder: []
 title: DRV Winsauerpreis
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

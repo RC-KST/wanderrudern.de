@@ -16,7 +16,7 @@ images:
   title: Nebelwerfer von der Feuerwehr stahnsdorf 2014
 länder: []
 title: Festumzug 750 Jahre Stahnsdorf
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

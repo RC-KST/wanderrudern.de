@@ -23,7 +23,7 @@ images:
   title: Schleuse Diemitz Ruderboote 2013
 länder: []
 title: Mirow 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -19,7 +19,7 @@ images:
   title: Altruppin 2020 Ruderclub
 länder: []
 title: Altruppin 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -6,7 +6,7 @@ gewässer:
 - wolziger see
 länder: []
 title: storkow 2006
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

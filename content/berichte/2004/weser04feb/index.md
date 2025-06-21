@@ -7,7 +7,7 @@ gewässer:
 - aller
 länder: []
 title: Weser 2004 Februar
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

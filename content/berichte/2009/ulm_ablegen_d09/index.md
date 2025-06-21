@@ -6,7 +6,7 @@ gewässer:
 - donau
 länder: []
 title: Donau 09
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

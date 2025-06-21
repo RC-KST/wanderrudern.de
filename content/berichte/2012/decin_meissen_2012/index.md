@@ -19,7 +19,7 @@ images:
   title: Downtown Dresden Decin 2012
 länder: []
 title: Decin Meissen 2012
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -30,7 +30,7 @@ images:
   title: Ruderboote beim Drachenbootcup 2010
 länder: []
 title: Drachenbootcup 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

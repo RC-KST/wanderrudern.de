@@ -8,7 +8,7 @@ gewässer:
 - trebelsee
 länder: []
 title: lehnin 2000
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

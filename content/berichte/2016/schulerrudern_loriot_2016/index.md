@@ -8,7 +8,7 @@ images:
   title: Schuelerrudern Loriot Schule 2016
 länder: []
 title: Schulerrudern Loriot 2016
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

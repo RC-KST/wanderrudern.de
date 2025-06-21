@@ -20,7 +20,7 @@ images:
   title: Havelkanal Marathon 2015
 länder: []
 title: Havelkanal-Marathon 2015
-typ: marathon
+typen: marathon
 ---
 
 

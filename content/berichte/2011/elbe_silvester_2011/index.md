@@ -29,7 +29,7 @@ images:
   title: Ruderboote Wittenberge Silvesterfahrt 2011
 länder: []
 title: Elbe Silvester 2011
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

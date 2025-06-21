@@ -11,7 +11,7 @@ images:
   title: BUGA Ruderclub Kleinmachnow stellt aus 2015
 länder: []
 title: BUGA 2015 Brandenburg
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -16,7 +16,7 @@ images:
   title: Proberudern Family Trainer Messe 2015
 länder: []
 title: Messe Boot und Fun 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

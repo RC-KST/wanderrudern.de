@@ -95,7 +95,7 @@ images:
 länder:
 - polen
 title: Dahme Spree Umfahrt 2020
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

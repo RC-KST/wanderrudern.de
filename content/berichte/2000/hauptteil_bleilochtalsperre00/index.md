@@ -14,7 +14,7 @@ images:
   title: Feengrotten Ruderer
 länder: []
 title: Bleilochtalsperre00
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

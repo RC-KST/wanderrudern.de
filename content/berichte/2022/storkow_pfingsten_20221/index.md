@@ -35,7 +35,7 @@ images:
 länder:
 - deutschland
 title: Storkow Pfingsten 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -25,7 +25,7 @@ images:
   title: Torgau in Sicht Elbemarathon 2020
 länder: []
 title: Elbe Marathon 2020
-typ: marathon
+typen: marathon
 ---
 
 

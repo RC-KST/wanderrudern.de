@@ -55,7 +55,7 @@ länder:
 - deutschland
 - österreich
 title: Kroatien Ruderfahrt 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

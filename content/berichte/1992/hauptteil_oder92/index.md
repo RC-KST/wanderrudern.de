@@ -28,7 +28,7 @@ images:
 länder:
 - deutschland
 title: Oder Ostern 1992
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

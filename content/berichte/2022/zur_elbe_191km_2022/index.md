@@ -34,7 +34,7 @@ images:
 länder: 
 - deutschland
 title: Zur Elbe 191km 2022
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

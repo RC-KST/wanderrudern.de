@@ -29,7 +29,7 @@ images:
   title: Schleuse Wendisch Rietz St10
 länder: []
 title: Storkow 2010
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -136,7 +136,7 @@ images:
 länder:
 - polen
 title: Weichsel, Nogat, Oberlaendischer Kanal 2015
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -39,7 +39,7 @@ images:
   title: letzteHuette
 länder: []
 title: inari 2003
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

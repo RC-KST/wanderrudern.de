@@ -27,7 +27,7 @@ images:
 länder:
 - österreich
 title: Donau 2003 Ingolstadt Wien
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

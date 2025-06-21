@@ -12,7 +12,7 @@ images:
   title: wassernymphe kroatien 2014
 länder: []
 title: Kroatien 2013
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -11,7 +11,7 @@ images:
   title: Havelschleuse bei Rathenow 2017
 länder: []
 title: Rathenow Havel 2017
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 

@@ -21,7 +21,7 @@ images:
 länder: 
 - deutschland
 title: Havel-Elbe Marathon 2023
-typ: marathon
+typen: marathon
 ---
 
 

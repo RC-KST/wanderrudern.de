@@ -6,7 +6,7 @@ gewässer:
 - donau
 länder: []
 title: Donau Wien Mohacs 2007
-typ: wanderfahrt
+typen: wanderfahrt
 ---
 
 
