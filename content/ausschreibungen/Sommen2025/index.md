@@ -4,9 +4,9 @@ author: "Stefan"
 date: "2025-08-29"
 title: Schweden Sommen
 images:
-- src: images/"Häuser am Sommen.jpg"
+- src: "images/Häuser am Sommen.jpg"
   title: Blick von der Hütte
-- src: images/"Blick von der Terasse Sommen.jpg"
+- src: "images/Blick von der Terasse Sommen.jpg"
   title: Terasse
 - src: images/asbykartan.png
   title: Karte des Sommen
