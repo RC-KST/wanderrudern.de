@@ -4,6 +4,7 @@ begin: "1999-01-01"
 date: "1999-01-01T01:00:00+02:00"
 gewässer:
 - müritz
+- mecklenburger seenplatte
 images:
 - src: images/baum_mi99.jpg
   title: am strand der müritz ruderer
@@ -11,17 +12,11 @@ images:
   title: christopher steuert über die Müritz
 - src: images/vierer_mi99.jpg
   title: Vierer Rudern Ruderboot Mirow
-länder: []
+länder: 
+- deutschland
 title: Mirow 1999
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Mirow ...im Spätsommer
 
