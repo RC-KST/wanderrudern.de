@@ -80,7 +80,7 @@ images:
   title: Rudervierer auf dem Weg nach Stettin O09
 länder:
 - polen
-title: Masuren Berlin 09
+title: Oderwanderfahrt Polen
 typen: wanderfahrt
 ---
 
