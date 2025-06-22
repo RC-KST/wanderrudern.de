@@ -31,5 +31,6 @@ images:
 
 Wie immer im Frühjahr zum Wachwerden. Zwei Tage Elbe
 Meißen - Torgau 77 km, 6 Grad, nur wenig Gegenwind, trocken, wir kommen schnell vorwärts.
+
 Torgau - Wittenberg - Coswig 81 km, sonniges Wetter, bis Elster einiger Gegenwind, aber es geht sehr schnell
 auch dank guter Mannschaft.
