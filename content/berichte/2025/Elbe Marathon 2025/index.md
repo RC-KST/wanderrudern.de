@@ -21,7 +21,7 @@ images:
   title: "Zweier vor Wittenberg"
 - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
-  - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
 
   title: Inrigger in action
