@@ -3,7 +3,6 @@ author: ""
 begin: "2020-01-01"
 date: "2020-01-01T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 - plauer see
 images:
@@ -19,15 +18,11 @@ images:
   title: Mittagspause in Milow 2020
 - src: images/Verkrautung_Moegelin_P2020.jpg
   title: Verkrautung Moegelin P2020
-länder: []
+länder: 
+- deutschland
 title: Havelberg 2020
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
