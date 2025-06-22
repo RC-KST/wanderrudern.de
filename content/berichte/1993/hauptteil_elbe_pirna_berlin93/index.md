@@ -3,14 +3,11 @@ author: ""
 begin: "1993-01-01"
 date: "1993-01-01T01:00:00+02:00"
 gewässer:
-- donau
-- weser
 - elbe
-- saale
 - havel
 - plauer see
 - wannsee
-- oder
+- elbe-havel-kanal
 images:
 - src: images/fruehstueck.jpg
   title: Frühstück in Pirna am Ruderclub
@@ -42,16 +39,11 @@ images:
   title: schilfdurchfahrt Ruderboot
 - src: images/feier.jpg
   title: feier ketzin
-länder: []
+länder: 
+- deutschland
 title: elbe_pirna_berlin93
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # *'Highlights'*"
