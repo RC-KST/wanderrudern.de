@@ -5,7 +5,10 @@ date: "1995-09-09T01:00:00+02:00"
 gewässer:
 - elbe
 - plauer see
-- oder
+- havel
+- elbe-lübeck-kanal
+- trave
+- ostsee
 images:
 - src: images/werben_boot.jpg
   title: werben ruderboot am ufer
@@ -23,17 +26,11 @@ images:
   title: Bobby rudert durch Lübeck
 - src: images/finncarrier.jpg
   title: finncarrier neben ruderboot
-länder: []
+länder: 
+- deutschland
 title: Lubeck95
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Berlin-Lübeck 1995
 
