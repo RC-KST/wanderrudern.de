@@ -6,6 +6,8 @@ gewässer:
 - dahme
 - spree
 - teltowkanal
+- rüdersdorfer gewässer
+- kalksee
 images:
 - src: images/Ruderer_auf_der_Dahme_Herbst_2021.jpg
   title: Ruderer auf der Dahme Herbst 2021
@@ -21,16 +23,11 @@ images:
   title: Boote aufladen in Rüdersdorf 2021
 - src: images/Schiffstunnel_am_Stienitzsee_2021.jpg
   title: Schiffstunnel am Stienitzsee 2021
-länder: []
+länder:
+- deutschland
 title: Wendenschloss Rüdersdorf 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wochenende Wendenschloß - Rüdersdorf
