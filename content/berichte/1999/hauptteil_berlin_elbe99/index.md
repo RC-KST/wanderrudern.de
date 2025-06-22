@@ -14,16 +14,10 @@ images:
 - src: images/tangermuende99.jpg
   title: Ruderer im Hafen Tangermünde
 länder:
-- italien
+- deutschland
 title: Berlin_Elbe99
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Berlin - Ketzin - Genthin -Tangermünde - Havelberg
