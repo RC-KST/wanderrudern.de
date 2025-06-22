@@ -4,9 +4,8 @@ begin: "2019-01-01"
 date: "2019-01-01T01:00:00+02:00"
 gewässer:
 - donau
-- aller
-- oder
-- mittelmeer
+- donaudelta
+- schwarzes meer
 images:
 - src: images/Anreise_zur_Donaum_mit_Ruderbooten_2019.jpg
   title: Anreise zur Donaum mit Ruderbooten 2019
@@ -117,19 +116,11 @@ images:
 - src: images/Sonnenuntergang_am_Lacul_Razim_Donaudelta_2019.jpg
   title: Sonnenuntergang am Lacul Razim Donaudelta 2019
 länder:
-- ungarn
+- rumänien
 - ukraine
-- slowakei
 title: Donaudelta 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Donaudelta
 
