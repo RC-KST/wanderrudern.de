@@ -3,8 +3,9 @@ author: ""
 begin: "2019-01-01"
 date: "2019-01-01T01:00:00+02:00"
 gewässer:
-- inn
+- teltowkanal
 - spree
+- havel
 images:
 - src: images/Bundeskanzleramt_mit_Ruderbooten_2019.jpg
   title: Bundeskanzleramt mit Ruderbooten 2019
@@ -42,17 +43,11 @@ images:
   title: Reichstag mit Ruderbooten 2019
 - src: images/Ruderboote_vor_dem_Berliner_Hauptbahnhof_2019.jpg
   title: Ruderboote vor dem Berliner Hauptbahnhof 2019
-länder: []
+länder: 
+- deutschland
 title: Berliner Innenstadt 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Rudern durch die Berliner Innenstadt
 
