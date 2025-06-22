@@ -23,16 +23,11 @@ images:
   title: Max Cornelius Elbemarathon 2020
 - src: images/Torgau_in_Sicht_Elbemarathon_2020.jpg
   title: Torgau in Sicht Elbemarathon 2020
-länder: []
+länder: 
+- deutschland
 title: Elbe Marathon 2020
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Elbe Marathon
