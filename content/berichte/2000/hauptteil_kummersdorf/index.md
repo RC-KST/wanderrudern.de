@@ -8,16 +8,11 @@ gewässer:
 images:
 - src: images/kummersdorf.jpg
   title: Kummersdorf an der Schleuse Ruderer
-länder: []
+länder: 
+- deutschland
 title: Anrudern Richtershorn 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ruderfahrt nach Prieros
