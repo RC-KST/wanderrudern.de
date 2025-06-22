@@ -27,16 +27,12 @@ images:
   title: Pegel Decin 2019
 - src: images/Weihnachtsmarkt_Pirna_2019.jpg
   title: Weihnachtsmarkt Pirna 2019
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Elbe Lovosice - Pirna 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Elbe Lovosice - Pirna 2019
