@@ -3,7 +3,6 @@ author: ""
 begin: "2019-08-01"
 date: "2019-08-08T01:00:00+02:00"
 gewässer:
-- oder
 - lough erne
 - erne
 - shannon
@@ -83,19 +82,10 @@ images:
 - src: images/Carrick_am_Steg_Irland_2019.jpg
   title: Carrick am Steg Irland 2019
 länder:
-- frankreich
-- belgien
 - irland
 title: Irland 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Irland August/ September 2019
 
