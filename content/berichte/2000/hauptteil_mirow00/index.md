@@ -5,17 +5,11 @@ date: "2000-09-09T01:00:00+02:00"
 gewässer:
 - müritz
 - mecklenburger seenplatte
-länder: []
+länder: 
+- deutschland
 title: Mirow 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Mecklenburger Seenplatte Mirow im September 2000
 
