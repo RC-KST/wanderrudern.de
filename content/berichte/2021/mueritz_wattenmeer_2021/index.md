@@ -3,10 +3,8 @@ author: ""
 begin: "2021-01-01"
 date: "2021-01-01T01:00:00+02:00"
 gewässer:
-- aller
 - elbe
 - spree
-- oste
 - müritz
 - plauer see
 - mecklenburger seenplatte
@@ -84,17 +82,9 @@ images:
   title: Stoer Hochwassersperrwerk 2021
 länder:
 - deutschland
-- finnland
 title: Spreewald Wattenmeer 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Müritz bis zur Küste
 
