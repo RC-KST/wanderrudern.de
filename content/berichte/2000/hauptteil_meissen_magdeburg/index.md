@@ -11,15 +11,11 @@ images:
   title: wittenberg rudererinnen
 - src: images/boot2_elb00.jpg
   title: Ruderboot auf der Elbe
-länder: []
+länder: 
+- deutschland
 title: Meissen_Magdeburg
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
