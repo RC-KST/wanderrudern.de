@@ -6,23 +6,16 @@ gewässer:
 - havel
 - mecklenburger seenplatte
 - wannsee
-- oder
 images:
 - src: images/zechlin.jpg
   title: lecken zechlin Ruder-Steg
 - src: images/MB98_martina.jpg
   title: Mädchen im Boot
-länder: []
+länder: 
+- deutschland
 title: Mecklenburg 1998
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Himmelfahrt und Pfingsten 1998 - Mecklenburger Seenplatte
 
