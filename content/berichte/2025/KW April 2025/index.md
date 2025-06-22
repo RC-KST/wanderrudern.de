@@ -18,10 +18,10 @@ images:
   title: "Ruderverein KW unser Boot"
 - src: "./images/Vorstand_auf_dem_Weg_nach_KW_2025.jpg"
   title: "Vorstand im Boot"
-- src: "./images/Abend_am_ullsteinhaus_2025.jpg"
-  title: "Ullsteinhaus am Abend"
-- src: "./images/Abend_am_ullsteinhaus_2025.jpg"
-  title: "Ullsteinhaus am Abend"
+- src: "./images/Vorstandssitzung_KW.jpg"
+  title: "Vorstandssitzung LRV Brandenburg"
+- src: "./images/Vorstandssitzung_KW1.jpg"
+  title: "Vorstand bei der Tagung"
 title: KW Wanderfahrt zur Vorstandssitzung
 ---
 
