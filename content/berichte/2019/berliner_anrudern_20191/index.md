@@ -17,17 +17,11 @@ images:
   title: Achter vor den Müggelbergen Anrudern 2019
 - src: images/Ende_des_Muggelsees_Anrudern_2019.jpg
   title: Ende des Müggelsees Anrudern 2019
-länder: []
+länder: 
+- deutschland
 title: Berliner Anrudern 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Anrudern in Friedrichshagen 2019
 
