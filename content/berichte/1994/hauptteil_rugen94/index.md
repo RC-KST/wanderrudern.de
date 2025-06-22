@@ -6,9 +6,6 @@ gewässer:
 - ostsee
 - rügen
 - hiddensee
-- spreewald
-- oder
-- bug
 images:
 - src: images/annette.jpg
   title: annette mit rettungsweste stralsund ruderclub steg
@@ -39,18 +36,10 @@ images:
 - src: images/bungalows.jpg
   title: bungalows rügen abendessen ruderinnen
 länder:
-- dänemark
-- schweden
+- deutschland
 title: Rüugen 1994
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Rund um Rügen 1994
 
