@@ -14,16 +14,10 @@ images:
 - src: images/liegen_Hi97.jpg
   title: Ruderer beim Pause machen
 länder:
-- schweden
+- deutschland
 title: hiddensee 1997
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rund um Hiddensee
