@@ -13,8 +13,8 @@ typen: wanderfahrt
 images:
 - src: "./images/Potsdamer_Anrudern_2025.jpg"
   title: "Anrudern in Potsdam 2025"
-- src: "./images/KW_nur_wir_kommen_mit_dem_ruderboot.jpg"
-  title: "Ruderverein KW unser Boot"
+- src: "./images/Potsdamer_Anrudern_boote_2025.jpg"
+  title: "Anrudern Neustädter Havelbucht 2025"
 - src: "./images/Vorstand_auf_dem_Weg_nach_KW_2025.jpg"
   title: "Vorstand im Boot"
 - src: "./images/Vorstandssitzung_KW.jpg"
