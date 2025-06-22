@@ -5,10 +5,6 @@ date: "1994-03-03T01:00:00+02:00"
 gewässer:
 - donau
 - ilz
-- inn
-- havel
-- wannsee
-- oder
 images:
 - src: images/bus.jpg
   title: kleinbus voll ruderern
@@ -48,14 +44,10 @@ images:
   title: pause der Ruderer
 länder:
 - österreich
+- deutschland
 title: donau 1994
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
