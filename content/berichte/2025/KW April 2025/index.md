@@ -20,7 +20,7 @@ images:
   title: "Ullsteinhaus am Abend"
 - src: "./images/Abend_am_ullsteinhaus_2025.jpg"
   title: "Ullsteinhaus am Abend"
-  - src: "./images/Abend_am_ullsteinhaus_2025.jpg"
+- src: "./images/Abend_am_ullsteinhaus_2025.jpg"
   title: "Ullsteinhaus am Abend"
 title: KW Wanderfahrt zur Vorstandssitzung
 ---
