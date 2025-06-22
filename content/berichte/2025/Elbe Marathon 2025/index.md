@@ -21,10 +21,10 @@ images:
   title: "Zweier vor Wittenberg"
 - src: "./images/497682745_1276575487809994_7145209038742767969_n.jpg"
   title: "Ruderer auf der Elbe"
-- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
-  title: "Start in Meißen"
+- src: "./images/497790681_1276575501143326_5413080045596869366_n.jpg"
+  title: "Albrechtsburg Meißen"
 
-  title: Inrigger in action
+  title: Elbe Marathon 2025
 ---
 
 # Elbe Marathon Meißen - Coswig
