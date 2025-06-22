@@ -3,7 +3,6 @@ author: ""
 begin: "1995-01-01"
 date: "1995-01-01T01:00:00+02:00"
 gewässer:
-- rhein
 - dahme
 - wolziger see
 - scharmützelsee
@@ -17,17 +16,11 @@ images:
   title: springsee schleuse ruderer
 - src: images/rueckfahrt.jpg
   title: ruderfahrt springsee ruderboot
-länder: []
+länder: 
+- deutschland
 title: Springsee 1995
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Springsee....endlich (1995)
 
