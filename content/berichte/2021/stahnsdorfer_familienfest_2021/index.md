@@ -2,22 +2,17 @@
 author: ""
 begin: "2021-09-01"
 date: "2021-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
 images:
 - src: images/Stahnsdorfer_Familienfest_2021_Ergometer.jpg
   title: Stahnsdorfer Familienfest 2021 Ergometer
 - src: images/Stahnsdorfer_Familienfest_2021.jpg
   title: Stahnsdorfer Familienfest 2021
-länder: []
+länder: 
+- deutschland
 title: Stahnsdorfer Familienfest 2021
-typen: wanderfahrt
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorfer Familienfest
