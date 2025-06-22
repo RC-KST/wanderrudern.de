@@ -2,7 +2,8 @@
 author: ""
 begin: "2019-01-01"
 date: "2019-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Schuelerrudern_Kant_Gymnasium_am_Stoelpchensee_2019.jpg
   title: Schuelerrudern Kant Gymnasium am Stoelpchensee 2019
@@ -12,16 +13,11 @@ images:
   title: Kant Gymnasium Teltow Schuelerrudern 2019
 - src: images/Schuelerruderer_Kant_Gymnasium_am_Stoelpchensee_2019.jpg
   title: Schuelerruderer Kant Gymnasium am Stoelpchensee 2019
-länder: []
+länder:
+- deutschland
 title: Schulrudern Kant 2019
-typen: wanderfahrt
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schülerrudern Kant- Gymnasium 2019
