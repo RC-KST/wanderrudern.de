@@ -24,15 +24,11 @@ images:
   title: Felix wird vom Family Trainer gezogen Messe 2019
 - src: images/Fun_Trainer_Family_Trainer_Baumgarten_Messe_Boot_und_Fun_2019.jpg
   title: Fun Trainer Family Trainer Baumgarten Messe Boot und Fun 2019
-länder: []
+länder: 
+- deutschland
 title: Messe Boot + Fun 2019
-typen: wanderfahrt
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
