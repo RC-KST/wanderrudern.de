@@ -6,7 +6,7 @@ gewässer:
 - rhein
 - mosel
 - ijsselmeer
-- oder
+- vecht
 images:
 - src: images/Ruderclub_Treviris_Amsterdam_2019.jpg
   title: Ruderclub Treviris Amsterdam 2019
@@ -250,12 +250,6 @@ länder:
 title: Mosel Rhein Vecht 2019
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Mosel - Rhein - Vecht
