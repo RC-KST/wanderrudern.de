@@ -5,7 +5,7 @@ date: "2011-01-01T01:00:00+02:00"
 gewässer:
 - narew
 länder: []
-title: Masuren Berlin 09
+title: Narew Kilometer 111
 typen: wanderfahrt
 ---
 

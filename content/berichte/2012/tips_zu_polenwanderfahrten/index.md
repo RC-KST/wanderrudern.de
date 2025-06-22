@@ -11,7 +11,7 @@ gewässer:
 länder:
 - deutschland
 - polen
-title: Masuren Berlin 09
+title: Tipps zu Polenwanderfahrten
 typen: wanderfahrt
 ---
 

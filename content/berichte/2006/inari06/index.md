@@ -193,7 +193,7 @@ images:
   title: 'Nachtclub Siljaline '
 länder:
 - finnland
-title: Masuren Berlin 09
+title: Inariwanderfahrt 09
 typen: wanderfahrt
 ---
 
