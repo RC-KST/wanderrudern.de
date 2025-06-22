@@ -4,8 +4,6 @@ begin: "1995-01-01"
 date: "1995-01-01T01:00:00+02:00"
 gewässer:
 - weser
-- aller
-- oder
 images:
 - src: images/sieger.jpg
   title: sieger weserbergland
@@ -15,17 +13,11 @@ images:
   title: schwimmer weser in flammen
 - src: images/feuerwerk.jpg
   title: feuerwerk minden ruderer
-länder: []
+länder: 
+- deutschland
 title: Weserberglandrallye 1995
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Weserberglandrallye 1995
 
