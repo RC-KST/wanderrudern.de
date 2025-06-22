@@ -6,9 +6,8 @@ gewässer:
 - elbe
 - saale
 - unstrut
-- wannsee
-- oder
-- bug
+- hamburger hafen
+- ilmenau
 images:
 - src: images/im_zug.jpg
   title: Zuganreise der Ruderer
@@ -38,17 +37,11 @@ images:
   title: Elbe-Seitenkanal-Brücke Ilmenau
 - src: images/hamburg_hafen.jpg
   title: hamburg hafen Christoph im Ruderboot
-länder: []
+länder: 
+- deutschland
 title: unstrut_saale_hh96
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Unstrut-Saale-Elbe-Ilmenau nach Hamburg
 
