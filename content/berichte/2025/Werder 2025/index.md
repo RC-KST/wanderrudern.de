@@ -19,6 +19,8 @@ images:
   title: "Ruppiges Wasser auf dem Zernsee"
 - src: "./images/Zweier_vor_werder_2025.jpg"
   title: "Ruderboot vor Werder"
+- src: "./images/Shoppen_bei_feinkoste_albrecht2025.jpg"
+  title: "Ruderboot vor Werder"
 title: Werder + Potsdamer Anrudern
 ---
 
@@ -26,7 +28,7 @@ title: Werder + Potsdamer Anrudern
 
 Für Anfänger und alle Leute die für die Osterfahrt trainieren sollten, gab es eine Wanderfahrt nach Werder.
 
-Freitagabend ging es zum Ruderclub Werder.
+Freitagabend ging es zum Ruderclub Werder. Lebensmittel einkaufen konnten wir bei Aldi in Potsdam am Steg.
 
 Samstag weiter die Havel abwärts, vorbei an Ketzin. Hinter dem Trebelsee ruderten wir in die Gräben und konnten relativ nah an die Gaststätte Havelstübchen heran rudern.
 
