@@ -11,8 +11,8 @@ länder:
 - deutschland
 typen: wanderfahrt
 images:
-- src: "./images/Abend_am_ullsteinhaus_2025.jpg"
-  title: "Ullsteinhaus am Abend"
+- src: "./images/Potsdamer_Anrudern_2025.jpg"
+  title: "Anrudern in Potsdam 2025"
 - src: "./images/KW_nur_wir_kommen_mit_dem_ruderboot.jpg"
   title: "Ruderverein KW unser Boot"
 - src: "./images/Vorstand_auf_dem_Weg_nach_KW_2025.jpg"
