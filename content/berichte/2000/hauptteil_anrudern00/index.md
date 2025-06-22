@@ -5,17 +5,12 @@ date: "2000-01-01T01:00:00+02:00"
 gewässer:
 - teltowkanal
 - wannsee
-länder: []
+- müggelsee
+länder: 
+- deutschland
 title: Anrudern Richtershorn 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # 10. Gesamtberliner Anrudern in Richtershorn
 
