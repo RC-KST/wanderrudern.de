@@ -13,18 +13,10 @@ images:
 - src: images/speedboat.jpg
   title: zurück mit dem Motorboot
 länder:
-- dänemark
-- polen
+- deutschland
 title: Hiddensee 1999
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Hiddenseeruderlager August 99
 
