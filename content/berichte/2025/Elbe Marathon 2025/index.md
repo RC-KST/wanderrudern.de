@@ -11,8 +11,16 @@ länder:
 - deutschland
 typen: wanderfahrt
 images:
-- src: "./images/aussicht_peene_anklam.jpg"
-  title: "Sicht auf die Peene, den Campingplatz und den Steg des Ruderklub Anklam e.V."
+- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+  title: "Start in Meißen"
+- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+  title: "Start in Meißen"
+- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+  title: "Start in Meißen"
+- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+  title: "Start in Meißen"
+- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+  title: "Start in Meißen"
 
   title: Inrigger in action
 ---
