@@ -4,6 +4,10 @@ begin: "2020-05-01"
 date: "2020-05-05T01:00:00+02:00"
 gewässer:
 - elbe
+- trave
+- ostsee
+- wakenitz
+- elbe-lübeck-kanal
 images:
 - src: images/Bad_Schandau_Start_der_Ruderboote_Elbe_2020.jpg
   title: Bad Schandau Start der Ruderboote Elbe 2020
@@ -111,17 +115,9 @@ images:
   title: Ratzeburger See 2020
 länder:
 - deutschland
-- österreich
 title: Elbe - Lübeck 2020
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Elbe - Lübeck 2020
 
