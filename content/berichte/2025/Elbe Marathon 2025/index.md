@@ -13,8 +13,8 @@ typen: wanderfahrt
 images:
 - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
-- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
-  title: "Start in Meißen"
+- src: "./images/496769633_1276575424476667_8011304570133457408_n.jpg"
+  title: "Meißen"
 - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
 - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
