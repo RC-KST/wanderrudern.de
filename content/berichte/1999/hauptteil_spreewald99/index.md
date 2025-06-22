@@ -13,17 +13,11 @@ images:
   title: spreewald schleuse ruderboot
 - src: images/spreewald3.jpg
   title: spreewald im regen ruderboot
-länder: []
+länder: 
+- deutschland
 title: Spreewald 1999
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Spreewaldwanderfahrt Himmelfahrt/Pfingsten
 
