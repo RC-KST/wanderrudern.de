@@ -17,9 +17,11 @@ images:
   title: "Meißen"
 - src: "./images/496975599_1276575901143286_5860165015958287480_n.jpg"
   title: "Ruderboote Torgau"
+- src: "./images/497509722_1276578497809693_4293098990602679313_n.jpg"
+  title: "Zweier vor Wittenberg"
 - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
-- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
+  - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
 
   title: Inrigger in action
