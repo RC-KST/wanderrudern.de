@@ -14,8 +14,8 @@ typen: wanderfahrt
 images:
 - src: "./images/Abend_am_ullsteinhaus_2025.jpg"
   title: "Ullsteinhaus am Abend"
-- src: "./images/Abend_am_ullsteinhaus_2025.jpg"
-  title: "Ullsteinhaus am Abend"
+- src: "./images/KW_nur_wir_kommen_mit_dem_ruderboot.jpg"
+  title: "Ruderverein KW unser Boot"
 - src: "./images/Abend_am_ullsteinhaus_2025.jpg"
   title: "Ullsteinhaus am Abend"
 - src: "./images/Abend_am_ullsteinhaus_2025.jpg"
