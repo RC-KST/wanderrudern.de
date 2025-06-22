@@ -2,18 +2,13 @@
 author: ""
 begin: "1999-11-01"
 date: "1999-11-11T01:00:00+02:00"
-gewässer: []
-länder: []
+gewässer:
+- havel
+länder: 
+- deutschland
 title: Ketzin99
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Bei Nacht und Nebel nach Ketzin
 
