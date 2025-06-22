@@ -5,8 +5,6 @@ date: "1999-01-01T01:00:00+02:00"
 gewässer:
 - donau
 - mossoni-donau
-- oste
-- po
 images:
 - src: images/straubing.jpg
   title: straubing ruderboot am Steg
@@ -30,20 +28,11 @@ images:
   title: fischerbastei ruderer in Budapest
 länder:
 - deutschland
-- finnland
-- italien
 - österreich
 - slowakei
 title: donau 1999
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ostern 1999
 
