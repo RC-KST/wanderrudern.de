@@ -9,16 +9,11 @@ images:
   title: Quartier Ketzin November 2021
 - src: images/Steg_in_Brandenburg_Havel_2021_November.jpg
   title: Steg in Brandenburg Havel 2021 November
-länder: []
+länder:
+- deutschland
 title: Ketzin November 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin- Wanderfahrt November 2021
