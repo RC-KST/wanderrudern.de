@@ -4,6 +4,7 @@ begin: "1997-01-01"
 date: "1997-01-01T01:00:00+02:00"
 gewässer:
 - canal du midi
+- canal lateral a la garonne
 images:
 - src: images/tasman.jpg
   title: tasman hausboot mit mannschaft
@@ -36,13 +37,6 @@ länder:
 title: canal du midi 1997
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Canal du Midi 1997
 
