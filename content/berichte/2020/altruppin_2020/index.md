@@ -17,15 +17,11 @@ images:
   title: Ruppiner See Ruderer 2020
 - src: images/Altruppin_2020_Ruderclub.jpg
   title: Altruppin 2020 Ruderclub
-länder: []
+länder: 
+- deutschland
 title: Altruppin 2020
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
