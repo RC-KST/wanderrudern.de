@@ -3,8 +3,7 @@ author: ""
 begin: "1993-10-01"
 date: "1993-10-10T01:00:00+02:00"
 gewässer:
-- mosel
-- aller
+- hamburger hafen
 - elbe
 - havel
 - plauer see
@@ -37,16 +36,11 @@ images:
   title: andre
 - src: images/hh_strasse.jpg
   title: Hamburg Stadtbesichtigung Ruderer
-länder: []
+länder: 
+- deutschland
 title: elbe_Hamburg93
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Der   Anfang
