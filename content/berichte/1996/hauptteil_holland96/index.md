@@ -2,7 +2,7 @@
 author: ""
 begin: "1996-01-01"
 date: "1996-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: holländische gewässer
 images:
 - src: images/windmuehle.jpg
   title: Windmühle an einer Gracht
@@ -16,16 +16,11 @@ images:
   title: Baumgarten C-Zweier bei der 11-Stedden-Regatta
 - src: images/am_ufer96.jpg
   title: Mannschaft wartet auf ihr Ruderboot zum Wechseln
-länder: []
+länder:
+- niederlande
 title: Holland 1996
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 24-Stunden-Staffelregatta    11 - Steden - Tour
