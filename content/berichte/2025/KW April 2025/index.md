@@ -2,9 +2,9 @@
 draft: false
 title: Wanderfahrt KW 2025
 #author: "Paul"
-begin: 2025-02-28
-end: 2025-02-28
-date: 2025-02-28
+begin: 2025-03-15
+end: 2025-03-15
+date: 2025-03-15
 gewässer:
 - teltowkanal
 - Dahme
