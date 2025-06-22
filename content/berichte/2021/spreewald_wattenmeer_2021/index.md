@@ -111,17 +111,9 @@ images:
   title: Ruderer im Beach Ressort Fleesensee 2021
 länder:
 - deutschland
-- finnland
 title: Spreewald Wattenmeer 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Stahnsdorf bis zur Küste
 
