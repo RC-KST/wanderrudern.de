@@ -7,8 +7,6 @@ gewässer:
 - ilz
 - große tulln
 - donaukanal
-- rhein
-- oder
 images:
 - src: images/Bootsabdeckungen_fur_E-Boote_Ulm_Donau_2021.jpg
   title: Bootsabdeckungen für E-Boote Ulm Donau 2021
@@ -181,15 +179,10 @@ images:
 länder:
 - deutschland
 - österreich
+- slowakei
 title: Donau Ulm Bratislava 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donau Ulm - Bratislava
