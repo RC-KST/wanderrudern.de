@@ -3,7 +3,7 @@ author: ""
 begin: "2000-01-01"
 date: "2000-01-01T01:00:00+02:00"
 gewässer:
-- aller
+- bleilochtalsperre
 - saale
 images:
 - src: images/talsperre2.jpg
@@ -12,16 +12,11 @@ images:
   title: Vierer auf der Bleilochtalsperre
 - src: images/martina_saalfeld.jpg
   title: Feengrotten Ruderer
-länder: []
+länder: 
+- deutschland
 title: Bleilochtalsperre00
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kann man in Thüringen Rudern?
