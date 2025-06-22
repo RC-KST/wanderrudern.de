@@ -3,16 +3,7 @@ author: ""
 begin: "2021-08-01"
 date: "2021-08-08T01:00:00+02:00"
 gewässer:
-- rhein
-- neckar
 - saar
-- saale
-- unstrut
-- nordsee
-- oder
-- canal du midi
-- shannon
-- porsangenfjord
 images:
 - src: images/Patrik_Aquatorpreis_WRT2021.jpg
   title: Patrik Äquatorpreis WRT2021
@@ -28,13 +19,8 @@ länder:
 - schweiz
 - irland
 title: WRT Saarbrücken 2021
-typen: marathon
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
