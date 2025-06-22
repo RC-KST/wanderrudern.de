@@ -4,6 +4,7 @@ begin: "2019-09-01"
 date: "2019-09-09T01:00:00+02:00"
 gewässer:
 - scharmützelsee
+- storkower see
 images:
 - src: images/vor_der_Storkower_RV_2019.jpg
   title: vor der Storkower RV 2019
@@ -21,15 +22,11 @@ images:
   title: Cajus auf dem Scharmützelsee 2019
 - src: images/Bad_Saarow_an_der_Uferpromenade_2019.jpg
   title: Bad Saarow an der Uferpromenade 2019
-länder: []
+länder: 
+- deutschland
 title: Storkow 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
