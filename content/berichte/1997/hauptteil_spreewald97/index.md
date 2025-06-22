@@ -9,7 +9,6 @@ gewässer:
 - wannsee
 - schwielochsee
 - neuendorfer see
-- oder
 images:
 - src: images/prieros_schleuse.jpg
   title: prieros schleuse ruderboot
@@ -19,17 +18,11 @@ images:
   title: schleuse im spreewald ruderer
 - src: images/beeskow_schleuse.jpg
   title: beeskow schleuse ruderboot tauschende Ruderer
-länder: []
+länder: 
+- deutschland
 title: Spreewald 1997
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Spree- Dahme- Umfahrt 1997
 

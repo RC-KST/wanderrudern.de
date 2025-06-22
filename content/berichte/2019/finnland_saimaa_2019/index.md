@@ -3,11 +3,11 @@ author: ""
 begin: "2019-01-01"
 date: "2019-01-01T01:00:00+02:00"
 gewässer:
-- inn
-- oder
 - saimaa
 - haukivesi
 - kallavesi
+- orivesi
+- enonvesi
 images:
 - src: images/Rostock_Faehrhafen_2019.jpg
   title: Rostock Faehrhafen 2019
@@ -175,17 +175,9 @@ images:
   title: Abendessen Sillinjaervi 2019
 länder:
 - finnland
-- schweden
 title: Finnland Saimaa 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Finnland Saimaa 2019  Teil 1
 

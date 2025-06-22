@@ -3,8 +3,8 @@ author: ""
 begin: "2000-01-01"
 date: "2000-01-01T01:00:00+02:00"
 gewässer:
-- oder
-- po
+- inari
+- porsangenfjord
 images:
 - src: images/strasse.jpg
   title: Endlose Strasse in Lapland
@@ -14,16 +14,10 @@ images:
   title: Martina auf dem Puijo
 länder:
 - finnland
+- norwegen
 title: porsangen 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # 5000 km mit dem Auto durch Skandinavien
 

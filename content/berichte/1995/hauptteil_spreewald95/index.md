@@ -29,17 +29,11 @@ images:
   title: schleusensteg warten auf die Schleusung
 - src: images/carola.jpg
   title: carola im ruderboot
-länder: []
+länder: 
+- deutschland
 title: Spreewald 1995
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Spreewald-Survival-Tour 1995
 

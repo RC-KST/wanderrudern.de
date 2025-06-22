@@ -4,6 +4,7 @@ begin: "2000-01-01"
 date: "2000-01-01T01:00:00+02:00"
 gewässer:
 - hiddensee
+- ostsee
 images:
 - src: images/kerteminde.jpg
   title: Ruderboot im Strelasund Rudern
@@ -14,18 +15,10 @@ images:
 - src: images/wolfgang_jana.jpg
   title: Jana Wolfgang im Ruderboot
 länder:
-- dänemark
-- finnland
+- deutschland
 title: hiddensee 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Hiddensee 2000
 

@@ -29,16 +29,10 @@ images:
 länder:
 - frankreich
 - luxemburg
+- deutschland
 title: Mosel 1996
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Mosel Thionville - Benrath (Rhein) 1996
 

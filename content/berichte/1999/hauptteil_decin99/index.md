@@ -4,7 +4,6 @@ begin: "1999-01-01"
 date: "1999-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- po
 images:
 - src: images/barke_ufer.jpg
   title: Einsetzen der Barke in Decin
@@ -16,17 +15,12 @@ images:
   title: Barkenfahrt im Elbsandsteingebirge
 - src: images/pirna.jpg
   title: Pirna in der Kneipe Ruderer
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Decin99
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Barkenfahrt am 3.Advent-Wochenende auf der Elbe
 

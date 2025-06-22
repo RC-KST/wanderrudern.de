@@ -12,17 +12,11 @@ images:
   title: Familienmannschaft fuer die letzten 30 km zum Aequatorpreis 2020
 - src: images/Martin_geht_ueber_die_40.077_km_2020.jpg
   title: Martin geht ueber die 40.077 km 2020
-länder: []
+länder: 
+- deutschland
 title: Aequatorpreis Martin 2020
-typen: wanderfahrt
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Äquatorpreis für Martin
 

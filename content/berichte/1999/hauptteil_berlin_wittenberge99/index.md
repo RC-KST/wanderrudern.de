@@ -5,22 +5,15 @@ date: "1999-06-06T01:00:00+02:00"
 gewässer:
 - havel
 - plauer see
-- oder
-- saimaa
+- elbe
 images:
 - src: images/laura.jpg
   title: laura liegt im Ruderboot
-länder: []
+länder: 
+- deutschland
 title: berlin_wittenberg99
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Extremwanderfahrt nach Wittenberge 25.-27. Juni 99
 

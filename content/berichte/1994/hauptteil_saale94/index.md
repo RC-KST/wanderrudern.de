@@ -3,10 +3,7 @@ author: ""
 begin: "1994-01-01"
 date: "1994-01-01T01:00:00+02:00"
 gewässer:
-- mosel
 - saale
-- unstrut
-- havel
 images:
 - src: images/aepfel_klauen.jpg
   title: Äpfel lauen an der Schleuse
@@ -24,16 +21,11 @@ images:
   title: damen dusche ruderer
 - src: images/bernburg.jpg
   title: bernburg aufladen der Ruderboote
-länder: []
+länder: 
+- deutschland
 title: Saale Naumburg nach Bernburg
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Saalewanderfahrt 1994

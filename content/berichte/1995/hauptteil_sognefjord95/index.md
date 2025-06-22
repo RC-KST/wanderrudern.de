@@ -3,8 +3,9 @@ author: ""
 begin: "1995-07-01"
 date: "1995-07-07T01:00:00+02:00"
 gewässer:
-- oder
 - sognefjord
+- naeröyfjord
+- gudvangenfjord
 images:
 - src: images/lagerfeuer95.jpg
   title: lagerfeuer Sognefjord Ruderer
@@ -32,16 +33,9 @@ images:
   title: Ruderer vor Gletscher
 länder:
 - norwegen
-- schweden
 title: sognefjord 1995
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Sognefjord Balestrand - Skjolden 1995

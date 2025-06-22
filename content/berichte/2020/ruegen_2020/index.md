@@ -6,7 +6,6 @@ gewässer:
 - ostsee
 - rügen
 - hiddensee
-- bug
 images:
 - src: images/Suhrendorf_Ablegen_der_Inrigger_Ruegen_2020.jpg
   title: Suhrendorf Ablegen der Inrigger Ruegen 2020
@@ -45,17 +44,10 @@ images:
 - src: images/Wellen_bei_Hiddensee_2020.jpg
   title: Wellen bei Hiddensee 2020
 länder:
-- finnland
+- deutschland
 title: Ruegen 2020
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Rügen + Hiddensee
 

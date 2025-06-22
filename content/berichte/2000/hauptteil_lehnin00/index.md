@@ -6,22 +6,17 @@ gewässer:
 - havel
 - wannsee
 - trebelsee
-länder: []
+länder: 
+- deutschland
 title: lehnin 2000
 typen: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Ketzin - Lehnin
 
 
-Die Teilnehmer: Martina Ahnepohl, Jana Forsten, Lucija Rogina, Kai Siempelkamp, Timo Siempelkamp, Christopher Riedel, Martin Klee und Stefan Biastock.
+Die Teilnehmer: Martina, Jana, Lucija, Kai, Timo, Christopher, Martin und Stefan.
 
 Am Freitag ging es mit zwei Booten schon wieder  nach Ketzin. Diesmal sollte es jedoch nicht zur Elbe, sondern in den Emster Kanal gehen. Die 28 km bis Ketzin wurden sehr geruhsam angegangen, schließlich war es lange hell, so daß keine Eile nötig war.
 

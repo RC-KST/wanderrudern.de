@@ -3,9 +3,10 @@ author: ""
 begin: "1992-07-01"
 date: "1992-07-07T01:00:00+02:00"
 gewässer:
-- oste
 - wannsee
 - oder
+- oder-havel-kanal
+- havel
 images:
 - src: images/thilo_flaggen.jpg
   title: 'Deutschlandflaggen Ruderboot '
@@ -30,13 +31,6 @@ länder:
 title: Oder Ostern 1992
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Die Osterruderfahrt 3.4.92- 9.4.92
 

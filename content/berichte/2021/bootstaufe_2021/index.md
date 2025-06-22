@@ -18,16 +18,11 @@ images:
   title: Bootstaufe Inrigger Nisser
 - src: images/Baumgarten_Marathon__C-Vierer_RS-Class.jpg
   title: Baumgarten Marathon+ C-Vierer RS-Class
-länder: []
+länder:
+- deutschland
 title: Bootstaufe 2021
-typen: marathon
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bootstaufe August 2021

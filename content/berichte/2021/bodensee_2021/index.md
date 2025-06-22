@@ -4,6 +4,7 @@ begin: "2021-05-01"
 date: "2021-05-05T01:00:00+02:00"
 gewässer:
 - rhein
+- bodensee
 images:
 - src: images/Ruderboot_Bodensee_Silvester_2021.jpg
   title: Ruderboot Bodensee Silvester 2021
@@ -42,7 +43,7 @@ images:
 - src: images/Alpen_uber_dem_Bodensee_Silvester_2021.jpg
   title: Alpen über dem Bodensee Silvester 2021
 länder:
-- italien
+- deutschland
 - schweiz
 title: Bodensee 2021
 typen: wanderfahrt

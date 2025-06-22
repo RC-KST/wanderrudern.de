@@ -2,7 +2,8 @@
 author: ""
 begin: "2021-10-01"
 date: "2021-10-10T01:00:00+02:00"
-gewässer: []
+gewässer:
+- spree
 images:
 - src: images/Quer_durch_Berlin_2021_RC_KST_Mannschaft.jpg
   title: Quer durch Berlin 2021 RC KST Mannschaft
@@ -12,16 +13,11 @@ images:
   title: Mannschaft Quer durch Berlin 2021
 - src: images/Bootsanhanger_Quer_durch_Berlin_2021_Baumgarten_Marathon_C-Vierer.jpg
   title: Bootsanhänger Quer durch Berlin 2021 Baumgarten Marathon C-Vierer
-länder: []
+länder: 
+- deutschland
 title: Quer durch Berlin 2021
-typen: wanderfahrt
+typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Quer durch Berlin

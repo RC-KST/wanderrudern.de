@@ -2,7 +2,8 @@
 author: ""
 begin: "1997-03-01"
 date: "1997-03-03T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- theiss
 images:
 - src: images/bahnfahren.jpg
   title: bahnfahren in Ungarn ruderer
@@ -16,17 +17,12 @@ images:
   title: kai im Ruderboot auf der Theiss
 - src: images/schlamm.jpg
   title: kalter schlamm am Ufer der Theiss Ruderboot
-länder: []
+länder: 
+- ungarn
+- ukraine
 title: Theiss 1997
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Theiss Vásárosnamemy - Szolnok 1997
 

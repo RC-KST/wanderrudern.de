@@ -6,8 +6,7 @@ gewässer:
 - weser
 - werra
 - aller
-- wannsee
-- oder
+
 images:
 - src: images/martina_WM97.jpg
   title: martina_WM97
@@ -15,26 +14,17 @@ images:
   title: bremen stadtmusikanten und ruderer
 - src: images/bremerhaven.jpg
   title: vor bremerhaven an einer Fähre
-länder: []
+länder: 
+- deutschland
 title: Weser 1997
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Weserfahrt 1997
 
 
-In der Vorwoche hatten
-
-wir
-
-nach dem Wesermarathon ein Boot in Hameln zurückgelassen. Vor Himmelfahrt reisten wir wieder an, um damit unsere Weserfahrt  fortzusetzen.
+In der Vorwoche hatten wir nach dem Wesermarathon ein Boot in Hameln zurückgelassen. Vor Himmelfahrt reisten wir wieder an, um damit unsere Weserfahrt  fortzusetzen.
 
 'Bei Nieselregen brachen wir auf, passierten die Schleuse Hameln und fuhren bei sich ständig verbesserndem Wetter und guter Strömung zum Ruderclub Rinteln. Unterwegs fielen uns Flöße und  Schlauchboote mit leicht alkoholisierten Männergruppen auf, die uns mit großem Gejohle begrüßten, es war eben "Vatertag”.
 
@@ -48,25 +38,13 @@ Die letzte Ruderetappe sollte uns bis Verden an der Aller führen.  Nach einer 
 
 Am Sonntag starteten wir sehr  früh, da wir 71 km bis Bremerhaven rudern wollten und die Ebbe nicht verpassen durften.  Die ersten 25 Kilometer führten durch den Bremer Hafen.  Dementsprechend waren der Schiffsverkehr und die Wellenbildung,  es gelang uns nicht auch nur 100 m ohne Wellen zu rudern.  Das Problem hierbei waren nicht die Kümo's oder Hochseefrachter, sondern - wie am Vortag - rücksichtslose Motorbootfahrer, die die Weser immer wieder auf-  und abrasten und sich teilweise einen Spaß daraus machten, möglichst nah an uns vorbeizufahren.  Leider kommt unser neues Boot erst Ende Juni.  Mit einem D-Vierer hätten wir dem Treiben um uns herum wesentlich  gelassener zugesehen. Das Wetter war so heiß und druckend, daß
 
-wir
-
-häufig anhalten mußten, um zu trinken und auszuruhen.  Am Westufer baute sich eine schwarze Wolkenfront auf Kurz vor Brake kam der Anruf unseres Landdienstes gerade recht, der nachfragte, ob wir unsere Fahrt nicht lieber vorzeitig abbrechen wollten.  Eine halbe Stunde später luden
-
-wir
-
-das Boot auf, um den Rest der Strecke im Auto zurücklegen.  In Bremerhaven holte uns das Gewitter dann ein.
+wir häufig anhalten mußten, um zu trinken und auszuruhen.  Am Westufer baute sich eine schwarze Wolkenfront auf Kurz vor Brake kam der Anruf unseres Landdienstes gerade recht, der nachfragte, ob wir unsere Fahrt nicht lieber vorzeitig abbrechen wollten.  Eine halbe Stunde später luden wir das Boot auf, um den Rest der Strecke im Auto zurücklegen.  In Bremerhaven holte uns das Gewitter dann ein.
 
 Damit wäre die Fahrt erfolgreich abgeschlossen worden, leider kommt es anders, ab man denkt.
 
-Kurz vor dem Bootshaus leuchtete bei unserem Post- Bus eine Warnleuchte auf Nach intensivem Studium der Bedienungsanleitung stellten wir fest, daß dies auf einen gerissenen Zahnriemen hindeutete.  Die Anleitung  warnte: "Auf keinen Fall weiterfahren!" Der zur Hilfe gerufene ADAC konnte uns auch nur so weit helfen, daß
+Kurz vor dem Bootshaus leuchtete bei unserem Post- Bus eine Warnleuchte auf Nach intensivem Studium der Bedienungsanleitung stellten wir fest, daß dies auf einen gerissenen Zahnriemen hindeutete.  Die Anleitung  warnte: "Auf keinen Fall weiterfahren!" Der zur Hilfe gerufene ADAC konnte uns auch nur so weit helfen, daß wir
 
-wir
-
-unseren Bus bei
-
-einer
-
-Werkstatt in der Nähe des Ruderclubs abstellen konnten, da am  Pfingstmontag niemand zu bewegen war, die Reparatur durchzuführen.  Auch der Versuch, mit einem Mietauto wenigstens unsere Jugendlichen nach Hause zu bekommen, scheiterte daran, daß man in ganz Bremerhaven nicht  einmal die Notdienste der Autoverleihfirmen besetzt waren.  Am Nachmittag setzten wir dann schließlich die Jüngeren in die Bahn, damit sie am anderen Tag zur Schule gehen konnten.  Die Erwachsenen hatten  telefonisch bei ihren Arbeitgebern um einen zusätzlichen Urlaubstag gebeten.  Einzig erfreulich an der Wartezeit in Bremerhaven war, daß wir Zeit hatten, die Sehenswürdigkeiten zu besichtigen.
+unseren Bus bei einer Werkstatt in der Nähe des Ruderclubs abstellen konnten, da am  Pfingstmontag niemand zu bewegen war, die Reparatur durchzuführen.  Auch der Versuch, mit einem Mietauto wenigstens unsere Jugendlichen nach Hause zu bekommen, scheiterte daran, daß man in ganz Bremerhaven nicht  einmal die Notdienste der Autoverleihfirmen besetzt waren.  Am Nachmittag setzten wir dann schließlich die Jüngeren in die Bahn, damit sie am anderen Tag zur Schule gehen konnten.  Die Erwachsenen hatten  telefonisch bei ihren Arbeitgebern um einen zusätzlichen Urlaubstag gebeten.  Einzig erfreulich an der Wartezeit in Bremerhaven war, daß wir Zeit hatten, die Sehenswürdigkeiten zu besichtigen.
 
 Am Dienstagmorgen  teilte uns die Werkstatt mit, daß wir frühestens um 15 Uhr unseren Wagen bekommen könnten.  Nachmittags bekamen wir endlich den Bus zurück, um unsere Rückfahrt anzutreten.  Da wir in Lübeck aber noch einen  Zweier abholten mußten, wurde es für uns richtig spät, erst gegen 2 Uhr nachts waren wir am Wannsee und konnten unseren Bootshänger abstellen.  Trotz des Ärgers mit dem Bus war es ein schöner Abschluß unserer  Etappen- Wanderfahrt über die Werra und Weser von Eschwege bis Bremerhaven.
 

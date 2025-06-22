@@ -93,17 +93,10 @@ images:
 - src: images/Motorboot_Chaos_vor_der_Machnower_Schleuse_Spreewald_2020.jpg
   title: Motorboot Chaos vor der Machnower Schleuse Spreewald 2020
 länder:
-- polen
+- deutschland
 title: Dahme Spree Umfahrt 2020
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Dahme- Spree- Umfahrt
 

@@ -3,7 +3,7 @@ author: ""
 begin: "1999-07-01"
 date: "1999-07-07T01:00:00+02:00"
 gewässer:
-- oder
+- geirangerfjord
 images:
 - src: images/trailer.jpg
   title: 'Ruderboot-Trailer am Geirangerfjord Volda '
@@ -29,17 +29,9 @@ images:
   title: krystina mit Bergen am Fjord
 länder:
 - norwegen
-- schweden
 title: Geirangerfjord 1999
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Geirangerfjord Juli/August 99
 

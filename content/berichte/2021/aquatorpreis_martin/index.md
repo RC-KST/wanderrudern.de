@@ -3,9 +3,6 @@ author: ""
 begin: "2021-01-01"
 date: "2021-01-01T01:00:00+02:00"
 gewässer:
-- saar
-- ijsselmeer
-- oder
 images:
 - src: images/Martin_mit_Aquatorpreis_WRT2021.jpg
   title: Martin mit Äquatorpreis WRT2021
@@ -13,14 +10,8 @@ länder:
 - deutschland
 - irland
 title: WRT Saarbrücken 2021
-typen: wanderfahrt
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Äquatorpreis für Martin Beilfuß

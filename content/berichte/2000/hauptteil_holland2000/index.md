@@ -5,11 +5,7 @@ date: "2000-04-04T01:00:00+02:00"
 gewässer:
 - ijssel
 - ijsselmeer
-- weser
-- elbe
-- oste
-- nordsee
-- bug
+- holländische gewässer
 images:
 - src: images/hausboot_lemmer.jpg
   title: Hausboot in Lemmer Ruderergepäck
@@ -29,17 +25,11 @@ images:
   title: Geert am Steuer des Hausboots
 - src: images/tulpen.jpg
   title: Ruderzweier vor Blumenmeer in Holland
-länder: []
+länder: 
+- niederlande
 title: Wesermarathon 2000
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ostern auf friesischen Kanälen und dem Ijsselmeer
 

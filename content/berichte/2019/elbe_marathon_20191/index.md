@@ -15,17 +15,11 @@ images:
   title: Torgau Ruderboot Elbe Marathon 2019
 - src: images/Torgau_vom_Ruderboot_gesehen_Elbemarathon_2019.jpg
   title: Torgau vom Ruderboot gesehen Elbemarathon 2019
-länder: []
+länder: 
+- deutschland
 title: Elbe Marathon 2019
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Elbe Marathon
 

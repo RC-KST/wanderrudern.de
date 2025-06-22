@@ -10,17 +10,11 @@ images:
   title: Ketzin Seesportclub Ruderer
 - src: images/werder.jpg
   title: Werder Steg Ruderboot
-länder: []
+länder: 
+- deutschland
 title: Ketzin März 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ende März nach Ketzin... diesmal sogar (fast) ohne Regen
 

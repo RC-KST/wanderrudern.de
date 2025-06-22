@@ -3,8 +3,6 @@ author: ""
 begin: "2021-01-01"
 date: "2021-01-01T01:00:00+02:00"
 gewässer:
-- rhein
-- mosel
 - saar
 images:
 - src: images/Baumgarten_Boote_auf_dem_Anhanger_WRT2021.jpg
@@ -45,7 +43,8 @@ images:
   title: Martin mit Äquatorpreis WRT2021
 - src: images/Aquatorpreistrager_Martin_und_Patrik.jpg
   title: Äquatorpreisträger Martin und Patrik
-länder: []
+länder: 
+- deutschland
 title: Saar Mosel Rhein 2021
 typen: wanderfahrt
 ---

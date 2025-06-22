@@ -5,7 +5,9 @@ date: "2019-06-06T01:00:00+02:00"
 gewässer:
 - elbe
 - havel
-- oder
+- bille
+- alster
+- hamburger Hafen
 images:
 - src: images/Speicherstadt_Hamburg_2019.jpg
   title: Speicherstadt Hamburg 2019
@@ -49,16 +51,11 @@ images:
   title: Binnenalster Ruderboot 2019
 - src: images/Ruderboot_Aussenalster_2019.jpg
   title: Ruderboot Aussenalster 2019
-länder: []
+länder: 
+- deutschland
 title: WRT Brandenburg
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Milow - Hamburg

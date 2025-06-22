@@ -4,6 +4,8 @@ begin: "2021-01-01"
 date: "2021-01-01T01:00:00+02:00"
 gewässer:
 - ruppiner see
+- ruppiner kanal
+- havel
 images:
 - src: images/Kinder_Ruderboot_Altfriesack_2021.jpg
   title: Kinder Ruderboot Altfriesack 2021
@@ -18,16 +20,10 @@ images:
 - src: images/Ruderboot_Altfriesack_ablegen_2021.jpg
   title: Ruderboot Altfriesack ablegen 2021
 länder:
-- frankreich
+- deutschland
 title: Altfriesack 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Altfriesack Wanderfahrt

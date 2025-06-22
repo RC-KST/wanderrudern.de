@@ -18,13 +18,6 @@ title: usedom
 typen: wanderfahrt
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Rund um Usedom 1995
 
 

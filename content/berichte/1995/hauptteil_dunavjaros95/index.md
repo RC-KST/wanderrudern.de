@@ -45,13 +45,6 @@ title: Donau Wien Dunavjaros 1995
 typen: wanderfahrt
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Donaufahrt von Wien nach Dunajvaros
 
 

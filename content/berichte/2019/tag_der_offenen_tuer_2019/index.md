@@ -2,7 +2,8 @@
 author: ""
 begin: "2019-01-01"
 date: "2019-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Bootstaufe_Enonvesi_Tag_der_offenen_Tur_2019.jpg
   title: Bootstaufe Enonvesi Tag der offenen Tür 2019
@@ -28,16 +29,11 @@ images:
   title: Kuchenverkauf Tag der offnen Tür 2019
 - src: images/Proberudern_im_Regen_Tag_der_offenen_Tur_2019.jpg
   title: Proberudern im Regen Tag der offenen Tür 2019
-länder: []
+länder:
+- deutschland
 title: Tag der offenen Tuer 2019
-typen: veranstaltung
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2019

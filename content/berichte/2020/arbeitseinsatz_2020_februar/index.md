@@ -12,16 +12,11 @@ images:
   title: Skulls aufarbeiten Februar 2020
 - src: images/Rollsitze_reparieren_Februar_2020.jpg
   title: Rollsitze reparieren Februar 2020
-länder: []
+länder: 
+- deutschland
 title: Arbeitseinsatz 2020 Februar
-typen: wanderfahrt
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Arbeitseinsatz Februar 2020

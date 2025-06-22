@@ -34,17 +34,11 @@ images:
   title: Havel Elbe Marathon 2021
 - src: images/Ruderboote_in_Werben_fertig_zum_Aufladen_2021.jpg
   title: Ruderboote in Werben fertig zum Aufladen 2021
-länder: []
+länder:
+- deutschland
 title: Havel-Elbe Werben 2021
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Stahnsdorf - Werben
 

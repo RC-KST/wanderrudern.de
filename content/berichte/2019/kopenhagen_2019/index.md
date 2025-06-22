@@ -2,7 +2,8 @@
 author: ""
 begin: "2019-09-01"
 date: "2019-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- ostsee
 images:
 - src: images/Carlsberg_Kopenhagen_2019.jpg
   title: Carlsberg Kopenhagen 2019
@@ -26,16 +27,11 @@ images:
   title: Kopenhagen downtown 2019
 - src: images/Kopenhagen_am_Schloss_2019.jpg
   title: Kopenhagen am Schloss 2019
-länder: []
+länder: 
+- dänemark
 title: Kopenhagen 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kopenhagen Wochenendfahrt

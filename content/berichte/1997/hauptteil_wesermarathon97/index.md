@@ -5,17 +5,11 @@ date: "1997-04-04T01:00:00+02:00"
 gewässer:
 - weser
 - werra
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 1997
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Werra - Wesermarathon 1997
 
@@ -24,13 +18,7 @@ Am 30. April machte sich die erste Gruppe zumeist jugendlicher Ruderer mit zwei 
 
 Der 1. Mai 1997 fing für die meisten  von uns in den doch recht frühen Morgenstunden nach einem kräftigen Frühstück an.  Danach fuhren wir wieder nach Eilte, luden unsere Boote ab und starteten per Boot nach Verden.  Außer einem Jugend- Vierer war auch
 
-ein
-
-Masters- Dreier mit unserer Sponsor Frau Tietz als Steuerfrau, am Start.  Da sie zum ersten Mal ein Ruderboot steuerte, waren wir leider doch recht häufig etwas von der Strömungsideallinie entfernt.  Wegen einer  längeren Erholungspause auf einem Dorffest
-
-am
-
-Ufer gelang es uns nur mit Mühe, die maximale Zielzeit einzuhalten.  Unsere Jugendmannschaft wartete am Steg und fragte sich, wo wir wohl blieben?
+ein Masters- Dreier mit unserer Sponsor Frau Tietz als Steuerfrau, am Start.  Da sie zum ersten Mal ein Ruderboot steuerte, waren wir leider doch recht häufig etwas von der Strömungsideallinie entfernt.  Wegen einer  längeren Erholungspause auf einem Dorffest am Ufer gelang es uns nur mit Mühe, die maximale Zielzeit einzuhalten.  Unsere Jugendmannschaft wartete am Steg und fragte sich, wo wir wohl blieben?
 
 Für diese  Etappe des Marathons hätte es neben den normalen Medaillen eigentlich keine Sonderauszeichnung gegeben.  Als jedoch der Veranstalter das Alter unserer Steuerfrau erfuhr, überreichte der Vorsitzende des Verdener Ruderclubs Frau  Tietz ein Trophäenbrett als Ehrung für die mit 83 Jahren älteste Teilnehmerin des Marathons.  Abends wurde natürlich gebührend gefeiert, wobei einige noch mit dem Auto nach Bremen fuhren, um die dortigen  "Sehenswürdigkeiten" zu genießen.
 

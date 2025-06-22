@@ -3,8 +3,8 @@ author: ""
 begin: "1998-01-01"
 date: "1998-01-01T01:00:00+02:00"
 gewässer:
-- donau
-- aller
+- havel
+- elbe-havel-kanal
 - elbe
 - moldau
 - wannsee
@@ -29,20 +29,10 @@ images:
   title: franky beim Einzelrudern
 länder:
 - deutschland
-- österreich
-- schweiz
-- ungarn
-- slowakei
+- tschechien
 title: Prag berlin 1998
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Prag - Berlin 1998
 

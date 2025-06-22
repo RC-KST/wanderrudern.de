@@ -4,9 +4,6 @@ begin: "2019-05-01"
 date: "2019-05-05T01:00:00+02:00"
 gewässer:
 - warthe
-- netze
-- weichsel
-- po
 images:
 - src: images/Warthe_Startpunkt_Kolo_2019.jpg
   title: Warthe Startpunkt Kolo 2019
@@ -39,13 +36,6 @@ länder:
 title: Warthe Marathon 2019
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Polen Warthe Marathon
 

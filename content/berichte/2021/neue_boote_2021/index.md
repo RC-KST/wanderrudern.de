@@ -2,7 +2,7 @@
 author: ""
 begin: "2021-01-01"
 date: "2021-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
 images:
 - src: images/Marathon__Ruderboot_Shannon_2021.jpg
   title: Marathon+ Ruderboot Shannon 2021
@@ -16,15 +16,8 @@ images:
   title: Inrigger 3x+ vor der Reparatur1
 länder: []
 title: Neue Boote 2021
-typen: marathon
+typen: event
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Neuer C-Vierer für den Ruderclub
 

@@ -18,15 +18,10 @@ images:
 - src: images/kilian.jpg
   title: Kilian in einer Spreewaldschleuse Ruderboot
 länder:
-- finnland
+- deutschland
 title: Spreewald 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

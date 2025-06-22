@@ -12,16 +12,11 @@ images:
   title: Ruderzweier auf der Fulda
 - src: images/weser.jpg
   title: Wesermarathon rudern Ruderboot
-länder: []
-title: Holland 2000
+länder:
+- deutschland
+title: Wesermarathon 2000
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2000

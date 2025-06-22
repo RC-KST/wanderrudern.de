@@ -3,7 +3,6 @@ author: ""
 begin: "2019-06-01"
 date: "2019-06-06T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 - plauer see
 images:
@@ -19,15 +18,9 @@ images:
   title: Preisverleihung Winsauerpreis 2018 RC KST
 länder:
 - deutschland
-- dänemark
 title: Havel-Elbe-Hamburg 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

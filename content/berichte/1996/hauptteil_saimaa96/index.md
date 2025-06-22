@@ -3,7 +3,6 @@ author: ""
 begin: "1996-07-01"
 date: "1996-07-07T01:00:00+02:00"
 gewässer:
-- oder
 - saimaa
 - kermajärvi
 images:
@@ -44,19 +43,10 @@ images:
 - src: images/vierer_saimaa96.jpg
   title: vierer Ruderboot saimaa
 länder:
-- deutschland
 - finnland
-- schweden
 title: Saimaa 1996
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Saimaa -Seenplatte 1996
 

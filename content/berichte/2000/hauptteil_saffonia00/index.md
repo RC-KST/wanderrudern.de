@@ -8,16 +8,11 @@ gewässer:
 images:
 - src: images/saffonia.jpg
   title: Schleuse Plötzensee RUderboot
-länder: []
+länder: 
+- deutschland
 title: Saffonia 2000
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ruderlager Tegelort
@@ -65,6 +60,5 @@ Wir kamen ca.16.00Uhr an und machten die Boote sauber.
 
 Wochenendbericht von:
 
-Nicolai Tietz
+Nicolai
 
-Vom Ruderclub " Welle Poseidon." e.V

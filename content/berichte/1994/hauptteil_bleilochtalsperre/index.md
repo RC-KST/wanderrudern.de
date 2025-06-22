@@ -4,6 +4,7 @@ begin: "1994-01-01"
 date: "1994-01-01T01:00:00+02:00"
 gewässer:
 - saale
+- bleilochtalsperre
 images:
 - src: images/amSteg.jpg
   title: Bleilochtalsperre am Steg
@@ -18,13 +19,6 @@ länder:
 title: Bleilochtalsperre
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Bleilochtalsperre 1994
 

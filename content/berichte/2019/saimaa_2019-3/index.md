@@ -3,10 +3,6 @@ author: ""
 begin: "2019-01-01"
 date: "2019-01-01T01:00:00+02:00"
 gewässer:
-- inn
-- oder
-- weichsel
-- narew
 - saimaa
 images:
 - src: images/es_ist_kalt_und_windig_2019.jpg
@@ -83,18 +79,9 @@ images:
   title: Pizza in Trelleburg 2019
 länder:
 - finnland
-- schweden
-- polen
 title: Finnland Saimaa 2019
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Finnland Saimaa 2019
 

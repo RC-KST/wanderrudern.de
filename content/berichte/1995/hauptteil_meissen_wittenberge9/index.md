@@ -13,16 +13,11 @@ images:
   title: tom_bobby Kinderspielplatz
 - src: images/elbee_bobby.jpg
   title: elbe bobby Miitellandkanalbrücke
-länder: []
+länder: 
+- deutschland
 title: Meissen_Wittenberg95
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Extremwanderfahrt von Meißen nach Wittenberge 95

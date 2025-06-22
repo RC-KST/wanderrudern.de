@@ -4,6 +4,7 @@ begin: "2020-01-01"
 date: "2020-01-01T01:00:00+02:00"
 gewässer:
 - havel
+- elde
 - müritz
 - plauer see
 - kölpinsee
@@ -92,16 +93,9 @@ images:
   title: wieder in Stahnsdorf nach 800 km Mecklenburg 2020
 länder:
 - deutschland
-title: Mecklenburg Umfahrt 2020
+title: Mecklenburg Umfahrt 2020 Teil 2
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Mecklenburg Umfahrt Teil 2
 
