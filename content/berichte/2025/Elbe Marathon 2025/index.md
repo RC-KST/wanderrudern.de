@@ -19,8 +19,8 @@ images:
   title: "Ruderboote Torgau"
 - src: "./images/497509722_1276578497809693_4293098990602679313_n.jpg"
   title: "Zweier vor Wittenberg"
-- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
-  title: "Start in Meißen"
+- src: "./images/497682745_1276575487809994_7145209038742767969_n.jpg"
+  title: "Ruderer auf der Elbe"
 - src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
   title: "Start in Meißen"
 
