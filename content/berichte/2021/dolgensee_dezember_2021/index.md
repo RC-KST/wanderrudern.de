@@ -3,7 +3,6 @@ author: ""
 begin: "2021-12-01"
 date: "2021-12-12T01:00:00+02:00"
 gewässer:
-- elbe
 - dahme
 - teltowkanal
 images:
@@ -28,16 +27,10 @@ images:
 - src: images/Dolgensee_nicht_geht_mehr_Advent_2021.jpg
   title: Dolgensee nicht geht mehr Advent 2021
 länder:
-- tschechien
+- deutschland
 title: Dolgensee Dezember 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 3. Advent auf der Dahme
