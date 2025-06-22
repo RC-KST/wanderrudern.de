@@ -3,18 +3,13 @@ author: ""
 begin: "1997-01-01"
 date: "1997-01-01T01:00:00+02:00"
 gewässer:
-- aller
 - elbe
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Decin_meissen97
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Decin - Zehren 1997
