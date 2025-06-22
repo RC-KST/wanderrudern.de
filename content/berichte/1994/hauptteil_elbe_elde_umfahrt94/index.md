@@ -7,7 +7,8 @@ gewässer:
 - havel
 - plauer see
 - mecklenburger seenplatte
-- oder
+- müritz
+- schweriner see
 images:
 - src: images/elbe_elde_Brandenburg.jpg
   title: Ruderer bei warmen Wetter
@@ -29,17 +30,11 @@ images:
   title: Mädechen im Ruderboot
 - src: images/mueritz.jpg
   title: Rudern auf der Müritz
-länder: []
+länder: 
+- deutschland
 title: Elbe_Elde_Umfahrt94
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Aus dem Tagebuch dreier Weltreisender......
 
