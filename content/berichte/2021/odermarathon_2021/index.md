@@ -3,7 +3,6 @@ author: ""
 begin: "2021-01-01"
 date: "2021-01-01T01:00:00+02:00"
 gewässer:
-- aller
 - oder
 images:
 - src: images/Ruderboote_in_Scinawa_2021.jpg
@@ -30,17 +29,11 @@ images:
   title: Ruderboot aussetzen in Kuestrin Oder 2021
 - src: images/Brueckenruine_Oder_2021.jpg
   title: Brueckenruine Oder 2021
-länder: []
+länder:
+- polen
 title: Odermarathon 2021
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Odermarathon 2021
 
