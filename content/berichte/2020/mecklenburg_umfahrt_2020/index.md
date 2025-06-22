@@ -7,7 +7,10 @@ gewässer:
 - havel
 - plauer see
 - trebelsee
-- narew
+- müritz
+- elde
+- schweriner see
+- mecklenburger seenplatte
 images:
 - src: images/Ruderboote_beladen_in_Stahnsdorf_Mecklenbur_2020.jpg
   title: Ruderboote beladen in Stahnsdorf Mecklenbur 2020
@@ -103,16 +106,9 @@ images:
   title: Zelten im Bermuda Dreieck Mecklenburg 2020
 länder:
 - deutschland
-- polen
 title: Mecklenburg Umfahrt 2020
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Mecklenburg Umfahrt
