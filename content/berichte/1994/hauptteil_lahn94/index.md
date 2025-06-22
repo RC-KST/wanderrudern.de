@@ -5,8 +5,6 @@ date: "1994-06-06T01:00:00+02:00"
 gewässer:
 - rhein
 - lahn
-- oder
-- bug
 images:
 - src: images/limburg.jpg
   title: limburg ruderclub Ruderer
@@ -28,17 +26,11 @@ images:
   title: petersberg bonn rhein rudern
 - src: images/bonn.jpg
   title: bonn am Steg ruderer
-länder: []
+länder: 
+- deutschland
 title: Lahn 1994
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Lahn ab Weilburg 1993
 
