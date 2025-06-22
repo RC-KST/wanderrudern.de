@@ -14,15 +14,8 @@ images:
   title: Obmannskurs 2020 Jugend
 länder: []
 title: Obmannskurs 2020 Jugend
-typen: wanderfahrt
+typen: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Obmannskurs 2020 Jugend
 
