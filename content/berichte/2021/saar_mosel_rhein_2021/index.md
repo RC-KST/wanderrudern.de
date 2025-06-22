@@ -91,16 +91,11 @@ images:
   title: Köln Architektur Rhein 2021
 - src: images/Kolner_DOm_vom_Rhein_aus_2021.jpg
   title: Kölner DOm vom Rhein aus 2021
-länder: []
+länder: 
+- deutschland
 title: WRT Saarbrücken 2021
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Nachfahrt Wanderrudertreffen
