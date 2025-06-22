@@ -4,23 +4,16 @@ begin: "1994-11-01"
 date: "1994-11-11T01:00:00+02:00"
 gewässer:
 - ruppiner see
-- oder
-- bug
 images:
 - src: images/imWasser.jpg
   title: im Wasser unter der Brücke
 - src: images/bobby_NP95.jpg
   title: bobby wildwasser neuruppin
-länder: []
+länder: 
+- deutschland
 title: Neuruppin 1994
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Eisbrecherfahrt nach Neuruppin 1995
