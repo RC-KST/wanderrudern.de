@@ -2,7 +2,9 @@
 author: ""
 begin: "2016-03-01"
 date: "2016-03-03T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- havel
+- trebbelsee
 images:
 - src: images/Jugendboot_in_Ketzin_Maerz_2016.jpg
   title: Jugendboot in Ketzin Maerz 2016
@@ -12,16 +14,11 @@ images:
   title: Urzeitrinder in Brandenburg Ketzin Maerz 2016
 - src: images/Sonntag_rueckweg_nach_Stahnsdorf_Ketzin_2016.jpg
   title: Sonntag rueckweg nach Stahnsdorf Ketzin 2016
-länder: []
+länder: 
+- deutschland
 title: Ketzin Fruehjahr 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin März 2016
