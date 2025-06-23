@@ -2,7 +2,8 @@
 author: ""
 begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Schuelerruderer_am_Stoelpchensee_2014.jpg
   title: Schuelerruderer am Stoelpchensee 2014
@@ -12,16 +13,11 @@ images:
   title: Schulerrudern in Stahnsdorf 2014
 - src: images/Schuelerruderer_auf_dem_Griebnitzsee_2014.jpg
   title: Schuelerruderer auf dem Griebnitzsee 2014
-länder: []
+länder: 
+- deutschland
 title: Schülerrudern Kant Gymnasium 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ruderkurs des Kant Gymnasiums in Teltow
