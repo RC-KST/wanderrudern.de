@@ -26,15 +26,11 @@ images:
   title: Leissnitz Ruderboote Dahme Spree 2018
 - src: images/Mueggelspree_Dahme_Spree_2018.jpg
   title: Mueggelspree Dahme Spree 2018
-länder: []
+länder: 
+- deutschland
 title: Dahme-Spree-Umfahrt 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
