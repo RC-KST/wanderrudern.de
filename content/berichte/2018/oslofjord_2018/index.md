@@ -2,7 +2,9 @@
 author: ""
 begin: "2018-08-01"
 date: "2018-08-08T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- oslofjord
+- skagerrak
 images:
 - src: images/Porsgrunn_auf_dem_Weg_zum_Meer_2018.jpg
   title: Porsgrunn auf dem Weg zum Meer 2018
@@ -135,16 +137,10 @@ images:
 - src: images/Cocktails_auf_der_Faehre_2018.jpg
   title: Cocktails auf der Faehre 2018
 länder:
-- schweden
+- norwegen
 title: Oslofjord 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Skagerrak und Oslofjord
