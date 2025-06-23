@@ -5,11 +5,11 @@ begin: "2025-10-18"
 title: Adventsfahrt Elb-Sandstein
 images:
 - src: "images/100_0627.jpg"
-  title: 
+  title: Barke auf der Elbe
 - src: "images/decin_advent_2024_ruderboote.jpg"
-  title: 
+  title: Decin Schloß
 - src: "images/Steuermann_Elbe Elbsandsteingebirge.jpg"
-  title: Baumgarten Inrigger Dreier
+  title: Steuermann im Schnee
 - src: "images/bastei2024.jpg"
   title: Bastei
 ---
