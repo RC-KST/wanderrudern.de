@@ -117,15 +117,10 @@ images:
   title: in den Karpaten Donaufahrt 2018
 länder:
 - bulgarien
+- rumänien
 title: Donau 2018 Rumaenien Bulgarien
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaublog 2018 Rumänien Bulgarien
