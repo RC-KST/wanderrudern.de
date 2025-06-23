@@ -4,6 +4,7 @@ begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
 gewässer:
 - donau
+- mossoni-donau
 länder:
 - österreich
 - slowakei
