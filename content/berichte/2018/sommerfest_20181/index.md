@@ -14,15 +14,8 @@ images:
   title: Neuer Bootsanhaenger Uebergabe durch BM Albers 2018
 länder: []
 title: Kinderfest Familienfest 2018
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Sommerfest beim Ruderclub
 
