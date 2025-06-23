@@ -10,16 +10,11 @@ images:
   title: Obmannskurs Erwachsene 2018
 - src: images/Obmannskurs_Jugend_2018.jpg
   title: Obmannskurs Jugend 2018
-länder: []
+länder: 
+- deutschland
 title: Obmannskurse 2018
-typen: wanderfahrt
+typen: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurse Januar 2018
