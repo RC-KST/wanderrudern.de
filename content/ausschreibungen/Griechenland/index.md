@@ -4,12 +4,12 @@ author: "Stefan"
 begin: "2025-10-18"
 title: Griechenland Peloponnes
 images:
-- src: "images/Häuser am Sommen.jpg"
-  title: Blick von der Hütte
-- src: "images/Blick von der Terasse Sommen.jpg"
-  title: Terasse
-- src: images/asbykartan.png
-  title: Karte des Sommen
+- src: "images/Einsame_Bucht_Griechenland_2024.jpg"
+  title: Bucht in Griechenland
+- src: "images/griechenland_steilküste.jpg"
+  title: Griechenland Steilküste
+- src: "images/baumgarten_inrigger_am_Eyjafjördur_2022.jpg"
+  title: Baumgarten Inrigger Dreier
 ---
 # Griechenland Peloponnes
 
