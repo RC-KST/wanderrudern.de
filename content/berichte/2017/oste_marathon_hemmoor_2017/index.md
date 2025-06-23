@@ -5,6 +5,7 @@ date: "2017-06-06T01:00:00+02:00"
 gewässer:
 - elbe
 - oste
+- wattenmeer
 images:
 - src: images/Leistungsruderer_beim_Oste_Marathon_2017.jpg
   title: Leistungsruderer beim Oste Marathon 2017
@@ -28,15 +29,11 @@ images:
   title: Oste Marathon 2017 Race is over
 - src: images/Pause_in_Neuhaus_2017.jpg
   title: Pause in Neuhaus 2017
-länder: []
+länder: 
+- deutschland
 title: Oste Marathon Hemmoor 2017
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
