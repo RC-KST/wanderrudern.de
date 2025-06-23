@@ -12,7 +12,7 @@ images:
 
 ## 28.-30. November 2025
 
-![Winterrudern](./images/rimg0003.jpg)
+![Winterrudern](./images/RIMG0003.jpg)
 
 Anfängerfreundliche Wanderfahrt nach Spandau. Wir starten am Freitagnachmittag nach Spandau. Hier haben wir für 2 Nächte Quartier bei einem Ruderclub. (ca. 30 km)
 
