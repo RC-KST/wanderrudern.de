@@ -20,16 +20,11 @@ images:
   title: Brandenburg Herbst 2018
 - src: images/Zweier_auf_dem_Trebelsee_Herbst_2018.jpg
   title: Zweier auf dem Trebelsee Herbst 2018
-länder: []
+länder: 
+- deutschland
 title: Ketzin Herbst 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin Wochenendfahrt
