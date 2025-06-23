@@ -2,7 +2,8 @@
 author: ""
 begin: "2016-05-01"
 date: "2016-05-05T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- havel
 images:
 - src: images/auf_dem_Weg_zur_Pyronale_2016.jpg
   title: auf dem Weg zur Pyronale 2016
@@ -16,16 +17,11 @@ images:
   title: Pyronale Feuerwerk 2016
 - src: images/Pyronale_Feuerwerk_2016-2.jpg
   title: Pyronale Feuerwerk 2016-2
-länder: []
+länder:
+- deutschland
 title: Pyronale mit Ruderboot 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Pyronale 2016
