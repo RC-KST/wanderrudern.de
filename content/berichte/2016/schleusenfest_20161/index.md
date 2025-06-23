@@ -10,16 +10,11 @@ images:
   title: Schleusenfest Kleinmachnow 2016 Ruderboot
 - src: images/Schleusenfest_Kleinmachnow_2016_Blaskapelle.jpg
   title: Schleusenfest Kleinmachnow 2016 Blaskapelle
-länder: []
+länder:
+- deutschland
 title: Schleusenfest 2016
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schleusenfest Kleinmachnow 2016
