@@ -13,15 +13,11 @@ images:
   title: Meissen gleich nach dem Start Elbemarathon 2016
 - src: images/Muehlberg_im_Hafen_Pause_Elbe_2016.jpg
   title: Muehlberg im Hafen Pause Elbe 2016
-länder: []
+länder: 
+- deutschland
 title: Meissen - Wittenberg 2016
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
