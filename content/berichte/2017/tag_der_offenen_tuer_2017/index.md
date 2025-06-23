@@ -2,7 +2,8 @@
 author: ""
 begin: "2017-04-01"
 date: "2017-04-04T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Preisverleihung_LingLing_2017_Ruderclub_KST.jpg
   title: Preisverleihung LingLing 2017 Ruderclub KST
@@ -18,16 +19,11 @@ images:
   title: provisorisches Dach 2017
 - src: images/Proberudern_Tag_der_offenen_Tuer_2017.jpg
   title: Proberudern Tag der offenen Tuer 2017
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tuer 2017
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2017
