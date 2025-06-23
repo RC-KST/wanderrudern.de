@@ -6,7 +6,7 @@ title: Adventsfahrt Elb-Sandstein
 images:
 - src: "images/100_0627.jpg"
   title: Barke auf der Elbe
-- src: "images/decin_advent_2024_ruderboote.jpg"
+- src: "images/Decin_Advent_2024_Ruderboote.jpg"
   title: Decin Schloß
 - src: "images/Steuermann_Elbe Elbsandsteingebirge.jpg"
   title: Steuermann im Schnee
