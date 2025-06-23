@@ -5,6 +5,9 @@ draft: false
 title: Äquatorpreisträges des RC KST
 ---
 
+# Äquatorpreisträger des Ruderclub KST
+
+
 Der Äquatorpreis des Deutschen Ruderverbands ist die höchste Auszeichnung für einen Wanderruderer.
 
 Es gibt ihn für eine Lebensruderleistung von 40.077 km, die Länge des Äquators.
