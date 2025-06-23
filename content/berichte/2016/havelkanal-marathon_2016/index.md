@@ -4,6 +4,7 @@ begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
 gewässer:
 - havel
+- havelkanal
 images:
 - src: images/Havelkanal_Marathon_Schleuse_Kleinmachnow_2016.jpg
   title: Havelkanal Marathon Schleuse Kleinmachnow 2016
@@ -11,17 +12,11 @@ images:
   title: Havelkanal Marathon 100km
 - src: images/Havelkanal_2016.jpg
   title: Havelkanal 2016
-länder: []
+länder: 
+- deutschland
 title: Havelkanal-Marathon 2016
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Bericht Havelmarathon
 
