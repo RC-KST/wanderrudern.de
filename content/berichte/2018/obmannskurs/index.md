@@ -8,14 +8,8 @@ images:
   title: Dscf0082
 länder: []
 title: Obmannskurse 2018
-typen: wanderfahrt
+typen: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obleute
