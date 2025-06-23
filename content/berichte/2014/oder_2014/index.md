@@ -16,16 +16,10 @@ images:
 - src: images/Nowa_Sol_Start_am_Sonntag_morgen_mal_ohne_regen_oder2014.jpg
   title: Nowa Sol Start am Sonntag morgen mal ohne regen oder2014
 länder:
-- tschechien
+- polen
 title: Oder 2014
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Odermarathon Mai 2014
