@@ -2,7 +2,8 @@
 author: ""
 begin: "2018-06-01"
 date: "2018-06-06T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- holländische Gewässer
 images:
 - src: images/Pokal_Noord_Hollandtocht_2018.jpg
   title: Pokal Noord Hollandtocht 2018
@@ -10,16 +11,11 @@ images:
   title: Sieger Noord Hollandtocht 2018
 - src: images/Sieger_AllYouCanRow_2018.jpg
   title: Sieger AllYouCanRow 2018
-länder: []
+länder: 
+- niederlande
 title: Marathon 2018
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Siege bei Marathonrennen im Sommer 2018
