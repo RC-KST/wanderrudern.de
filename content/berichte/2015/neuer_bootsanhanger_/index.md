@@ -6,16 +6,11 @@ gewässer: []
 images:
 - src: images/Ruderbootsanhaenger_2-lagig.png
   title: Ruderbootsanhaenger 2-lagig
-länder: []
+länder: 
+- deutschland
 title: 'Neuer Bootsanhänger '
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Die Gemeinde Stahnsdorf spendiert dem Ruderclub einen neuen Bootsanhänger.
