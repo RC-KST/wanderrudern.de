@@ -2,7 +2,8 @@
 author: ""
 begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Ergebnis_Drachenboot-Rudercup_2016.jpg
   title: Ergebnis Drachenboot-Rudercup 2016
@@ -34,16 +35,11 @@ images:
   title: Tag der offenen Tuer Kuchenverkauf 2016
 - src: images/Tag_der_offenen_Tuer_Proberudern_2016.jpg
   title: Tag der offenen Tuer Proberudern 2016
-länder: []
+länder:
+- deutschland
 title: Drachenboot-Rudercup 2016
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür
