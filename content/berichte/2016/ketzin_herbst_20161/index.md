@@ -4,16 +4,13 @@ begin: "2016-11-01"
 date: "2016-11-11T01:00:00+02:00"
 gewässer:
 - wublitz
-länder: []
+- havel
+- trebbelsee
+länder:
+- deutschland
 title: Ketzin Herbst 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Herbstfahrt Ketzin
