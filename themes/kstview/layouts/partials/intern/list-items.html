@@ -1,21 +1,40 @@
-<div class="h-full">
-    {{ partial "intern/page-title.html" .Title }}
+{{- $date_format := site.Params.list.date_format }}
 
-    {{ .Content }}
+{{- $args := . }}
+
+{{- $sort_param := "date" }}
+{{- if isset $args "sort_param" }}{{ $sort_param = $args.sort_param }}{{ end }}
+
+{{- $reverse := true }}
+{{- if (isset $args "reverse") }}{{ $reverse = $args.reverse }}{{ end }}
+
+{{- $sort_by_date := eq $sort_param "date" }}
+<div class="h-full">
+    {{- partial "intern/page-title.html" page.Title }}
+
+    {{ page.Content }}
 
     <div>
-    {{- $paginator := (.Paginate (.Pages.ByParam "date").Reverse .Site.Params.list.articles_per_site) }}
+    {{- $subpages_sorted := (page.Pages.ByParam $sort_param) }}
+    {{- if $reverse }}{{ $subpages_sorted = $subpages_sorted.Reverse }}{{ end }}
+    {{- $paginator := (page.Paginate $subpages_sorted site.Params.list.articles_per_site) }}
     {{- range $paginator.Pages }}
         <a href="{{ .Permalink }}" class="p-0">
             <div class="flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4 py-2 px-4">
                 <div class="flex flex-row">
                     <div class="flex-grow font-bold flex flex-row flex-nowrap">{{ .Title }}</div>
-                    <div>{{ .Params.date.Format "02.01.2006" }}</div>
+                    <div>
+                        {{- if $sort_by_date }}
+                            {{- .Params.date.Format $date_format }}
+                        {{- else }}
+                            {{- (time (index .Params $sort_param)).Format $date_format }}
+                        {{- end }}
+                    </div>
                 </div>
-                {{- if .Params.begin }}
+                {{- if and .Params.begin $sort_by_date }}
                 <div class="flex flex-row flex-nowrap pt-2">
-                        {{ (time .Params.begin).Format "02.01.2006" }}
-                        {{- with .Params.end }} - {{ (time .).Format "02.01.2006" }}{{- end }}
+                        {{ (time .Params.begin).Format $date_format }}
+                        {{- with .Params.end }} - {{ (time .).Format $date_format }}{{- end }}
                 </div>
                 {{- end }}
             </div>
@@ -27,5 +46,5 @@
 <hr>
 
 <div class="flex justify-center">
-{{- partial "pagination.html" . }}
+{{- partial "pagination.html" page }}
 </div>

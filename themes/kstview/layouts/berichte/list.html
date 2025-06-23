@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{- partial "taxonomy/list-taxonomy.html" "typen" }}
 
-    {{- partial "intern/list-items.html" . }}
+    {{- partial "intern/list-items.html" }}
 
     {{- $pages := newScratch }}
     {{- range .Page.Pages.GroupByPublishDate "2006" }}
