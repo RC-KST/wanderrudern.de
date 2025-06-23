@@ -4,16 +4,14 @@ begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
 gewässer:
 - donau
-länder: []
+länder:
+- österreich
+- slowakei
+- ungarn
+- kroatien
 title: Donau Wien Ilok 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaufahrt 2016 Wien - Ilok 2016

@@ -23,4 +23,4 @@ Im Sommer wird oft gezeltet, sonst übernachtet man in Bootshäusern, Jugendherb
 
 Wir fahren oft über das Wochenende ins Berliner Umland. In den Schulferien gibt es größere Fahrten, die uns schon nach
 
- [Finnland](/länder/finnland), [Norwegen](/länder/norwegen), [Ungarn](/länder/ungarn), [Österreich](/länder/österreich), [Frankreich](/länder/frankreich), [Schweden](/länder/schweden), [Tschechien](/länder/tschechien), [Niederlande](/länder/niederlande), [Kroatien](/länder/kroatien), [Serbien](/länder/serbien) und in die [Slowakei](/länder/slowakei) geführt haben.
+ [Finnland](/länder/finnland), [Norwegen](/länder/norwegen), [Ungarn](/länder/ungarn), [Österreich](/länder/österreich), [Polen](/länder/polen), [Frankreich](/länder/frankreich), [Schweiz](/länder/schweiz), [Schweden](/länder/schweden), [Tschechien](/länder/tschechien), [Irland](/länder/irland), [Niederlande](/länder/niederlande), [Rumänien](/länder/rumänien), [Island](/länder/island), [Bulgarien](/länder/bulgarien),[Kroatien](/länder/kroatien), [Serbien](/länder/serbien), [Italien](/länder/italien), und in die [Slowakei](/länder/slowakei) geführt haben.

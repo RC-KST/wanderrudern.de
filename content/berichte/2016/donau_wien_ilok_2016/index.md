@@ -4,7 +4,7 @@ begin: "2016-04-01"
 date: "2016-04-04T01:00:00+02:00"
 gewässer:
 - donau
-- oder
+- mossoni-donau
 images:
 - src: images/Anhaenger_Bolzen_festziehen_Donau_16.jpg
   title: Anhaenger Bolzen festziehen Donau 16
@@ -119,21 +119,13 @@ images:
 - src: images/Ruderer_auf_Burg_Ilok_Donau_2016.jpg
   title: Ruderer auf Burg Ilok Donau 2016
 länder:
-- deutschland
-- schweden
-- tschechien
+- österreich
+- slowakei
 - ungarn
-- serbien
-title: Donaublog 2016
-typen: marathon
+- kroatien
+title: Donau Wien - Ilok
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Donaufahrt 2016 Wien - Ilok 2016
 

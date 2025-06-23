@@ -47,7 +47,7 @@ images:
 länder:
 - deutschland
 title: Naab - Donau 2024
-typen: marathon
+typen: wanderfahrt
 ---
 
 # Naab - Donau
