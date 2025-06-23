@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-date: "2025-09-12"
+begin: "2025-09-12"
 title: Berliner Innenstadt 2025
 images:
 - src: images/Barke_an_der_Museumsinsel_2024.jpg
@@ -33,8 +33,3 @@ Alternativ hat Wiking eine Gaststätte in der man Abendessen bekommen kann.
 Wer nicht übernachten möchte, kann natürlich mit der U-Bahn nach Hause fahren.
 
 Achtung die Teilnahme an dieser Fahrt berechtigt nicht zur Teilnahme an den Veranstaltungen des WRT am Freitag/Samstag- Abend.
-
-
-
-{{< separator >}} {{< gallery >}}
-

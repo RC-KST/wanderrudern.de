@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-date: "2025-08-29"
+begin: "2025-08-29"
 title: Schweden Sommen
 images:
 - src: "images/Häuser am Sommen.jpg"
