@@ -1,0 +1,21 @@
+{{/*
+    Introduce a map view with a (optionally named) marker
+
+    Usage:
+
+    ```
+    {{< map height="20rem" lat=[nr] long=[nr] text="" [zoom=13] >}}
+    ```
+*/}}
+
+
+{{- $height := "20rem" }}
+{{- with .Get "height" }}{{ $height = . }}{{- end }}
+{{- $lat := 0 }}
+{{- with .Get "lat" }}{{ $lat = . }}{{- end }}
+{{- $long := 0 }}
+{{- with .Get "long" }}{{ $long = . }}{{- end }}
+{{- $text := "" }}
+{{- with .Get "text" }}{{ $text = . }}{{- end }}
+
+{{- partial "map.html" (dict "height" $height "lat" $lat "long" $long "text" $text) }}
