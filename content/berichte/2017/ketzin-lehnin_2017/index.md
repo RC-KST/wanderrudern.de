@@ -4,7 +4,7 @@ begin: "2017-05-01"
 date: "2017-05-05T01:00:00+02:00"
 gewässer:
 - havel
-- oder
+- emster kanal
 images:
 - src: images/Malte_auf_dem_Emster_Kanal_2017.jpg
   title: Malte auf dem Emster Kanal 2017
@@ -22,16 +22,11 @@ images:
   title: Ruderer im Malabar April 2017
 - src: images/Ruderer_bei_der_Baumbluete_2017.jpg
   title: Ruderer bei der Baumbluete 2017
-länder: []
+länder: 
+- deutschland
 title: Ketzin-Lehnin 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin - Lehnin- Werder
