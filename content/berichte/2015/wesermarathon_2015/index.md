@@ -26,16 +26,11 @@ images:
   title: Wesermarathon 2015 kurz nach dem Start
 - src: images/Flossgraben_Werra_2015.jpg
   title: Flossgraben Werra 2015
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2015
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Werralandrallye und Wesermarathon 2015
