@@ -5,6 +5,8 @@ date: "2014-02-02T01:00:00+02:00"
 gewässer:
 - havel
 - teltowkanal
+- landwehrkanal
+- spree
 images:
 - src: images/Ruderboote_Kleinmachnow_25_Jahre_Maueroeffnung.jpg
   title: Ruderboote Kleinmachnow 25 Jahre Maueroeffnung
@@ -29,12 +31,6 @@ länder:
 title: 25-Jahre Maueroeffnung 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 25-Jahre Maueröffnung
