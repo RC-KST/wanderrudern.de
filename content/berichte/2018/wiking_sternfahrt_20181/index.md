@@ -4,7 +4,9 @@ begin: "2018-01-01"
 date: "2018-01-01T01:00:00+02:00"
 gewässer:
 - havel
-- oder
+- spree
+- landwehrkanal
+- teltowkanal
 images:
 - src: images/Ruderboot_vor_der_Oberbaumbruecke_Wiking_2018.jpg
   title: Ruderboot vor der Oberbaumbruecke Wiking 2018
@@ -20,16 +22,11 @@ images:
   title: Ruderer in der Oberschleuse Wiking 2018
 - src: images/Wiking_Sternfahrt_2018.jpg
   title: Wiking Sternfahrt 2018
-länder: []
+länder: 
+- deutschland
 title: Wiking Sternfahrt 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wiking- Sternfahrt 2018
