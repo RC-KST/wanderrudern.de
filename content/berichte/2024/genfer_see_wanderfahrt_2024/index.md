@@ -33,7 +33,7 @@ länder:
 - frankreich
 - schweiz
 title: Wanderfahrt Genfer See
-typen: marathon
+typen: wanderfahrt
 ---
 
 Direkt im Anschluss an das Wanderrudertreffen in Regensburg fuhr der Bootsanhänger weiter nach Süden. Nach einer Übernachtung in Bregenz erreichten wir Excenevex am Genfer See. Dieser Ort liegt kurz vor der Schweizer Grenze am französischen Ufer.
