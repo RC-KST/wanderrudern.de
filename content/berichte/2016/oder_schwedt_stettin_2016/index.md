@@ -27,15 +27,10 @@ images:
   title: Hohensaaten friedrichsthaler wasserstrasse mit VL Stettin 2016
 länder:
 - polen
+- deutschland
 title: oder schwedt stettin 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schwedt - Stettin - Schwedt
