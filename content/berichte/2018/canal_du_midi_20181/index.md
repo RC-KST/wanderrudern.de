@@ -3,9 +3,6 @@ author: ""
 begin: "2018-10-01"
 date: "2018-10-10T01:00:00+02:00"
 gewässer:
-- aller
-- spree
-- oder
 - canal du midi
 - canal latéral à la garonne
 images:
@@ -184,12 +181,6 @@ länder:
 title: Canal du Midi 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Canal des Deux Mers
