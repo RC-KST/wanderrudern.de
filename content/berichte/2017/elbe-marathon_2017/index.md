@@ -17,16 +17,11 @@ images:
   title: ruppiges Wasser Elbemarathon 2017
 - src: images/Aufladen_Coswig_Elbemarathon_2017.jpg
   title: Aufladen Coswig Elbemarathon 2017
-länder: []
+länder: 
+- deutschland
 title: Elbe-Marathon 2017
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Elbe- Marathon März 2017
