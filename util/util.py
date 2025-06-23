@@ -15,7 +15,7 @@ def calc_hashes(fnames: list[str]) -> dict[str, str]:
 
     
 def filename_to_hash_map(hash_file_data: str) -> dict[str, str]:
-    print(f"hashing files from state:\n{hash_file_data}")
+    #print(f"hashing files from state:\n{hash_file_data}")
     if len(hash_file_data) != 0:
         map: dict[str, str] = {}
         for line in hash_file_data.splitlines():

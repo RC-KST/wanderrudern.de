@@ -46,7 +46,6 @@ def main():
         print(f"\t{c}")
 
     print("\nAdded:")
-
     for c in added:
         print(f"\t{c}")
 
