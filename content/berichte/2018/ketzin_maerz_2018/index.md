@@ -5,21 +5,17 @@ date: "2018-03-03T01:00:00+02:00"
 gewässer:
 - trebelsee
 - wublitz
+- havel
 images:
 - src: images/Eiszapfen_auf_dem_Sacrow_Paretzer_Kanal_2018.jpg
   title: Eiszapfen auf dem Sacrow Paretzer Kanal 2018
 - src: images/Eiszapfen_2018.jpg
   title: Eiszapfen 2018
-länder: []
+länder: 
+- deutschland
 title: Ketzin Maerz 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin Frühjahr 2018
