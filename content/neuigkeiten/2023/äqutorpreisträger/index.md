@@ -37,4 +37,4 @@ Darüber hinaus haben [Patrik](../../../berichte/2021/aquatorpreis_patrik/) und 
 Stefan erreichte sogar den, sehr seltenen vierfachen Äquatorpreis.
 
 
-{{<seperator>}}{{<gallery>}}
+{{< separator >}} {{< gallery >}}

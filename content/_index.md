@@ -32,7 +32,11 @@ title: Home
 {{< /column-layout >}}
 
 {{< column-layout >}}
-    {{< col >}}{{< previous-news-and-reports >}}{{< /col >}}
-    {{< col >}}{{< newest-upcoming >}}{{< /col >}}
+    {{< col >}}
+        {{< previous-news-and-reports >}}
+    {{< /col >}}
+    {{< col >}}
+        {{< newest-upcoming >}}
+    {{< /col >}}
 {{< /column-layout >}}
 

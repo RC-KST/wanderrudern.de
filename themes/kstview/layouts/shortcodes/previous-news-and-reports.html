@@ -7,19 +7,21 @@
     {{< previous-news-and-reports >}}
     ```
 */}}
+{{ $sort_param := "date" }}
 {{- if ne $.Site.Params.news_count 0 }}
 <h3 class="w-full text-center">{{ i18n "home_news_und_berichte" }}</h3>
 <ul>
-    {{- range first $.Site.Params.home.news_count (sort (append
+    {{- $pages := (append
         (page.GetPage "/neuigkeiten").RegularPages
-        (page.GetPage "/berichte").RegularPages
-    )
-    "Date" "desc")
-    }}
+        (page.GetPage "/berichte").RegularPages).ByParam $sort_param }}
+    {{- $pages = $pages.Reverse }}
+    {{- range first $.Site.Params.home.news_count $pages }}
     <li class="list-none ml-0 w-full flex py-1 px-3">
         <a class="w-full grow flex text-start flex-row" href="{{ .Permalink }}">
             <div class="flex-grow">{{- .Title }}</div>
-            <div>{{ with .Date }}{{ .Format "02.01.2006" }}{{ end }}</div>
+            {{- $date := (index .Params $sort_param) }}
+            {{- if not (eq $sort_param "date") }}{{ $date = (time $date) }}{{ end }}
+            <div>{{ with $date }}{{ .Format "02.01.2006" }}{{ end }}</div>
         </a>
     </li>
     {{- end }}

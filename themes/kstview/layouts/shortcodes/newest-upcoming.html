@@ -7,15 +7,19 @@
     {{< newest-upcoming >}}
     ```
 */}}
+{{- $sort_param := "begin" }}
+
 {{- if ne $.Site.Params.trip_announcement_count 0 }}
 <h3 class="w-full text-center">{{ i18n "home_ausschreibungen" }}</h3>
 <ul>
-    {{- range first $.Site.Params.home.trip_announcement_count (
-        sort (page.GetPage "/ausschreibungen").RegularPages "Date" "desc") }}
+    {{- $pages := (page.GetPage "/ausschreibungen").RegularPages.ByParam $sort_param }}
+    {{- range first site.Params.home.trip_announcement_count $pages }}
     <li class="list-none ml-0 w-full flex py-1 px-3">
         <a class="w-full grow flex text-start flex-row" href="{{ .Permalink }}">
             <div class="flex-grow">{{- .Title }}</div>
-            {{ with .Date }}<div>{{ .Format "02.01.2006" }}</div>{{ end }}
+            {{- $date := (index .Params $sort_param) }}
+            {{- if not (eq $sort_param "date") }}{{ $date = (time $date) }}{{ end }}
+            {{ with $date }}<div>{{ (time .).Format "02.01.2006" }}</div>{{ end }}
         </a>
     </li>
     {{- end }}
