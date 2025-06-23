@@ -7,7 +7,7 @@ Die untere Altersgrenze liegt bei 8 Jahren, nach oben ist keine Grenze gesetzt. 
 Wer früher einmal gerudert hat und es mal wieder probieren will, aber auch wer noch nie gerudert hat kann bei uns rudern (lernen).
 
 ### Wo kann man  rudern?
-Der Club liegt in Stahnsdorf, Bäkepromenade direkt unterhalb der Machnower Schleuse. [zur Umgebungskarte](#TODO)
+Der Club liegt in Stahnsdorf, Bäkepromenade direkt unterhalb der Machnower Schleuse. [zur Umgebungskarte](./lage.md)
 
 Einen Blick auf unser Ruderrevier können Sie [hier](/club/anfaenger/ruderrevier.md) werfen.
 

@@ -36,4 +36,3 @@ title: Home
     {{< col >}}{{< newest-upcoming >}}{{< /col >}}
 {{< /column-layout >}}
 
-{{< map height="25rem" lat=52.39454368309411 long=13.204571733190004 text="Ruderclub Kleinmachnow Stahnsdorf Teltow" >}}

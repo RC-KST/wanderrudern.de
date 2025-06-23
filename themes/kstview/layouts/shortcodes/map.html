@@ -8,7 +8,6 @@
     ```
 */}}
 
-
 {{- $height := "20rem" }}
 {{- with .Get "height" }}{{ $height = . }}{{- end }}
 {{- $lat := 0 }}
@@ -17,5 +16,12 @@
 {{- with .Get "long" }}{{ $long = . }}{{- end }}
 {{- $text := "" }}
 {{- with .Get "text" }}{{ $text = . }}{{- end }}
+{{- $zoom := 13 }}
+{{- with .Get "zoom" }}{{ $zoom = . }}{{- end }}
 
-{{- partial "map.html" (dict "height" $height "lat" $lat "long" $long "text" $text) }}
+{{- partial "map.html" (dict
+    "height" $height
+    "lat" $lat
+    "long" $long
+    "text" $text
+    "zoom" $zoom) }}
