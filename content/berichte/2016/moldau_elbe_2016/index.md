@@ -7,7 +7,6 @@ gewässer:
 - moldau
 - plauer see
 - elbe-havel-kanal
-- oder
 images:
 - src: images/Selfie_auf_der_Treppe_Moldau_2016.jpg
   title: Selfie auf der Treppe Moldau 2016
@@ -85,12 +84,6 @@ länder:
 title: Moldau Elbe 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Von Budweis an der oberen Moldau nach Stahnsdorf
