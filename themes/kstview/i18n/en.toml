@@ -18,8 +18,6 @@ bericht_laender = "Countries"
 bericht_gewaesser = "Waters"
 bericht_gruppierung = "Grouping"
 
-imprint = "Imprint"
-data_protection = "Data protection"
 events = "Events"
 trip_reports = "Trip Reports"
 beginner = "Beginner"

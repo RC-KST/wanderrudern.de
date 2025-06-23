@@ -1,7 +1,7 @@
 <div class="flex flex-row flex-wrap px-1 grow">
     {{- range .Ancestors.Reverse }}
-    <a class="text-gray-700 bg-transparent pl-0 pr-2" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <a class="text-gray-700 bg-transparent pl-0 pr-2" href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
     <span class="text-gray-300 pr-2"> / </span>
     {{- end }}
-    <a class="text-gray-700 bg-transparent pl-0 pr-2" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <a class="text-gray-700 bg-transparent pl-0 pr-2" href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
 </div>

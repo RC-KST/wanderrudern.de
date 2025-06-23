@@ -11,10 +11,6 @@
     ```
 */}}
 
-{{- range (page.Resources.Match "*.csv" )}}
-<div> {{debug.Dump . }}</div>
-{{- end }}
-
 <div class="flex flex-col flex-nowrap items-center py-5">
 {{- $delimiter := ";"}}
 {{- $head := true}}

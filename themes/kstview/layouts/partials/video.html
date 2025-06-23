@@ -11,6 +11,8 @@
 <video
     {{ if $with_controls }}controls{{ end }}
     {{ if $muted }}muted{{ end }}
+    controlsList="nodownload"
+    oncontextmenu="return false;"
     preload="{{ $preload }}">
     <source src="{{ $resource.Permalink }}" type="{{ $resource.MediaType }}"/>
     This video is not supported by your browser

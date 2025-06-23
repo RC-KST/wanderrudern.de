@@ -6,10 +6,9 @@
             <div>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</div>
         </div>
         <div class="w-full">
-            {{- range $key, $link := .Site.Params.footer.links }}
-                <div><a class="px-0 bg-transparent" href="{{ $.Page.Ref (dict "path" $link "lang" "de") }}">{{ i18n $key }}</a></div>
+            {{- range $v := .Site.Params.footer.links }}
+                <div><a class="px-0 bg-transparent" href="{{ $.Page.Ref (dict "path" $v.href "lang" "de") }}">{{ i18n $v.key }}</a></div>
             {{- end }}
-            <div><a class="px-0 bg-transparent" href="{{ site.Params.archive_link }}">{{ i18n "footer_archive" }}</a></div>
         </div>
     </div>
     <div class="w-full flex">

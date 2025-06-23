@@ -1,0 +1,41 @@
+{{- $date_format := site.Params.list.date_format }}
+
+{{- $args := . }}
+
+{{- $sort_param := "date" }}
+{{- if and $args (isset $args "sort_param") }}{{ $sort_param = $args.sort_param }}{{ end }}
+
+{{- $reverse := true }}
+{{- if and $args (isset $args "reverse") }}{{ $reverse = $args.reverse }}{{ end }}
+
+{{- $paginate := true }}
+{{- if and $args (isset $args "paginate" )}}{{ $paginate = $args.paginate}}{{ end }}
+
+{{- $sort_by_date := eq $sort_param "date" }}
+<div class="h-full">
+    {{- partial "intern/page-title.html" page.Title }}
+
+    {{ .Content }}
+
+    <div class="flex flex-row flex-wrap items-center justify-start">
+    {{- $pages := (page.Pages.ByParam $sort_param) }}
+    {{- if $reverse }}{{ $pages = $pages.Reverse }}{{ end }}
+    {{- if $paginate }}
+        {{- $paginator := (page.Paginate $pages site.Params.list.articles_per_site) }}
+        {{- $pages = $paginator.Pages }}
+    {{- end }}
+    {{- range $pages }}
+        <a href="{{ .Permalink }}" class="m-2 py-2 px-6 h-20 flex flex-col flex-grow items-center justify-center">
+            <div class="border-0 rounded-2xl font-bold text-center">{{ .Title }}</div>
+        </a>
+    {{- end -}}
+    <!--Pseudo-Element for not growing the last line -->
+    <div style="content: ''; flex-grow: 1000000000;"></div>
+    </div>
+</div>
+<hr>
+{{- if $paginate }}
+<div class="flex justify-center">
+    {{ partial "pagination.html" }}
+</div>
+{{- end }}

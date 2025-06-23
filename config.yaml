@@ -8,7 +8,6 @@ defaultContentLanguage: de
 staticDir:
   - static
 params:
-  archive_link: https://wanderrudern-archiv.de
   backdrop_image: bundle/backdrops/club-gelaende.jpg
   icon_image: bundle/kst_wikingerschiff_simplistic_light.svg
   font_url: bundle/noto-sans/NotoSans-Medium.ttf
@@ -27,8 +26,12 @@ params:
       - image: bundle/facebook-icon-light.svg
         href: https://www.facebook.com/wanderrudern
     links:
-      imprint: /club/impressum
-      data_protection: /club/datenschutz
+      - key: imprint
+        href: /club/impressum
+      - key: data_protection
+        href: /club/datenschutz
+      - key: archive
+        href: https://wanderrudern-archiv.de
   meta:
     publisher: Ruderclub Kleinmachnow Stahnsdorf Teltow
     copyright: Stefan Biastock
@@ -181,9 +184,17 @@ taxonomies:
   land: länder
   typ: typen
 
+
 markup:
   goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      link:
+        enableDefault: true
     parser:
       attribute:
         block: true
       wrapStandAloneImageWithinParagraph: false
+security:
+  enableInlineShortcodes: true

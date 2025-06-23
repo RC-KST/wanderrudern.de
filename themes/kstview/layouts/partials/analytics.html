@@ -1,5 +1,5 @@
 {{ if not .Site.Config.Privacy.GoogleAnalytics.Disable }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Config.Services.GoogleAnalytics.ID }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Config.Services.GoogleAnalytics.ID | safeHTML }}"></script>
 <script>
     function cleanDoNotTrack(dnt) {
         if (dnt === undefined || dnt == null) return dnt;
