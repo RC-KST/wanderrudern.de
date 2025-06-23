@@ -142,7 +142,7 @@ images:
 länder:
 - frankreich
 title: Etang de Berre Mittelmeer 2022
-typen: marathon
+typen: wanderfahrt
 ---
 
 
