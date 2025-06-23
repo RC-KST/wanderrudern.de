@@ -4,6 +4,8 @@ begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - oberländischer kanal
+- weichsel
+- ostsee
 images:
 - src: images/aufladen_polen_oberlandischer_Kanal_2017-1.jpg
   title: aufladen polen oberländischer Kanal 2017-1
@@ -73,15 +75,11 @@ images:
   title: Ostsee nach Danzig 2017
 - src: images/Danzig_Hafen_2017.jpg
   title: Danzig Hafen 2017
-länder: []
+länder: 
+- polen
 title: Oberlaendischer Kanal 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
