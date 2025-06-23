@@ -12,13 +12,8 @@ images:
   title: Boot auf dem Rathausmarkt Kleinmachnow 2017
 länder: []
 title: SPD Sommerfest 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
