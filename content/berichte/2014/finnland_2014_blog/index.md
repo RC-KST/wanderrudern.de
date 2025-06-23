@@ -3,7 +3,6 @@ author: ""
 begin: "2014-06-01"
 date: "2014-06-06T01:00:00+02:00"
 gewässer:
-- inn
 - saimaa
 images:
 - src: images/Boote_aufladen_Saimaa_2014.jpg
@@ -155,12 +154,6 @@ länder:
 title: Finnland Saimaa 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Saimaa Blog 2014
