@@ -11,7 +11,7 @@ images:
 länder: 
 - deutschland
 title: BUGA 2015 Brandenburg
-typen: vernstaltung
+typen: veranstaltung
 ---
 
 

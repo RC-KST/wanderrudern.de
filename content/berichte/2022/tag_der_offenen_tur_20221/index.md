@@ -30,7 +30,7 @@ images:
 länder: 
 - deutschland
 title: Tag der offenen Tür 2022
-typen: event
+typen: veranstaltung
 ---
 
 
