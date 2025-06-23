@@ -3,23 +3,16 @@ author: ""
 begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
 gewässer:
-- bug
-- sognefjord
 images:
 - src: images/Jorg_mit_der_restaurierten_Inari_2016.jpg
   title: Jörg mit der restaurierten Inari 2016
 - src: images/Inari_restauriert_2016.jpg
   title: Inari restauriert 2016
-länder: []
+länder: 
+- deutschland
 title: Inari restauriert 2016
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # E-Vierer Inari restauriert
