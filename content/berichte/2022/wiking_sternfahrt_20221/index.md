@@ -20,7 +20,7 @@ images:
 länder: 
 - deutschland
 title: Wiking Sternfahrt 2022
-typen: marathon
+typen: wanderfahrt
 ---
 
 
