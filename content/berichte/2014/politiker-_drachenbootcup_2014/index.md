@@ -3,7 +3,7 @@ author: ""
 begin: "2014-04-01"
 date: "2014-04-04T01:00:00+02:00"
 gewässer:
-- po
+- teltowkanal
 images:
 - src: images/Jonathan_als_oberkellner_2014.jpg
   title: Jonathan als oberkellner 2014
@@ -19,16 +19,11 @@ images:
   title: Halber aequatorpreis fuer marlies 2014
 - src: images/T-Shirts_fur_die_Kilometerfresser_2013.jpg
   title: T-Shirts für die Kilometerfresser 2013
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tür 2014
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Politiker- Drachenbootcup April 2014
