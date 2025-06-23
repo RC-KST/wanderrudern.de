@@ -6,16 +6,11 @@ gewässer: []
 images:
 - src: images/rbb_aktuell.jpg
   title: rbb aktuell
-länder: []
+länder: 
+- deutschland
 title: RBB im Club 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # RBB Fernsehen im Ruderclub Kleinmachnow
