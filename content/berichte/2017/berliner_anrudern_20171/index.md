@@ -4,6 +4,8 @@ begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - teltowkanal
+- spree
+- dahme
 images:
 - src: images/Teltowkanal_im_dunklen_Anrudern_2017.jpg
   title: Teltowkanal im dunklen Anrudern 2017
@@ -17,16 +19,11 @@ images:
   title: Mueggelsee Anrudern 2017
 - src: images/Anrudern_2017.jpg
   title: Anrudern 2017
-länder: []
+länder: 
+- deutschland
 title: Berliner Anrudern 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Berliner Anrudern 2017
