@@ -3,6 +3,7 @@ author: ""
 begin: "2018-07-01"
 date: "2018-07-07T01:00:00+02:00"
 gewässer:
+- trave
 - ostsee
 images:
 - src: images/Schiff_direkt_vor_dem_Rudersteg_Lubeck_2018.jpg
@@ -39,16 +40,11 @@ images:
   title: Badenixe am Strand Luebeck 2018
 - src: images/Zweier_auf_der_oberen_Trave_2018.jpg
   title: Zweier auf der oberen Trave 2018
-länder: []
+länder: 
+- deutschland
 title: Luebeck 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ein Wochenende in Lübeck
