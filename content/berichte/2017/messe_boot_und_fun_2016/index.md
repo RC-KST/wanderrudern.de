@@ -2,7 +2,9 @@
 author: ""
 begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- wannsee
+- havel
 images:
 - src: images/Kinderrudern_am_Donnerstag_Messe_Boot_und_Fun_2016.jpg
   title: Kinderrudern am Donnerstag Messe Boot und Fun 2016
@@ -14,15 +16,8 @@ images:
   title: Family Trainer im grossen Becken 2016
 länder: []
 title: Day of the Bay 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Messse Boot und Fun 2016
 
