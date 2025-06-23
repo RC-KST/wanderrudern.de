@@ -18,16 +18,11 @@ images:
   title: Family Trainer Fun Trainer im grossen Becken Messe 2018
 - src: images/Family_Trainer_Messe_2018.jpg
   title: Family Trainer Messe 2018
-länder: []
+länder: 
+- deutschland
 title: Messe Boot + Fun 2018
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Messe Boot & Fun 2018
