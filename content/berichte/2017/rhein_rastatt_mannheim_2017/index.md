@@ -23,17 +23,11 @@ images:
   title: Mannheim Bootssteg 2017
 - src: images/Niirina_mit_Siegried_Kaidel_und_Ina_Holtz_2017.jpg
   title: Niirina mit Siegried Kaidel und Ina Holtz 2017
-länder: []
+länder: 
+- deutschland
 title: Rhein Rastatt Mannheim 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Wanderrudertreffen in Mannheim 2017
 
