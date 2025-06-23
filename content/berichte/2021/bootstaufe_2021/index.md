@@ -21,7 +21,7 @@ images:
 länder:
 - deutschland
 title: Bootstaufe 2021
-typen: event
+typen: veranstaltung
 ---
 
 
