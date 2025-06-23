@@ -3,9 +3,6 @@ author: ""
 begin: "2016-05-01"
 date: "2016-05-05T01:00:00+02:00"
 gewässer:
-- inn
-- maas
-- oder
 - saimaa
 - suvavesi
 - juojärvi
@@ -125,21 +122,10 @@ images:
 - src: images/feuerteufel_finnland_2016.jpg
   title: feuerteufel finnland 2016
 länder:
-- deutschland
-- frankreich
-- dänemark
 - finnland
-- schweden
-- belgien
 title: Finnland Saimaa 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Finnlandwanderfahrt Sommer 2016
