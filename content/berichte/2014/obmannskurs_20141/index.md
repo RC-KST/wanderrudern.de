@@ -8,16 +8,11 @@ images:
   title: Obmannskurs RC KST im Ruderkasten 2014
 - src: images/Obmannskurs_Ruderclub_Kleinmachnow_Seminar_2014.jpg
   title: Obmannskurs Ruderclub Kleinmachnow Seminar 2014
-länder: []
+länder:
+- deutschland
 title: Obmannskurs 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurs 2014 in Fürstenwalde
