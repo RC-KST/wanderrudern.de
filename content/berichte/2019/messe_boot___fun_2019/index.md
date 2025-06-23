@@ -27,7 +27,7 @@ images:
 länder: 
 - deutschland
 title: Messe Boot + Fun 2019
-typen: event
+typen: veranstaltung
 ---
 
 
