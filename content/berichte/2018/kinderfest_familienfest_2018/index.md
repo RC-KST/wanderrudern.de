@@ -12,16 +12,11 @@ images:
   title: Werbeteam Stahnsdorf Familienfest 2018
 - src: images/Familienfest_Stahnsdorf_2018.jpg
   title: Familienfest Stahnsdorf 2018
-länder: []
+länder: 
+- deutschland
 title: Sommerfest 2018
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kinderfest in Kleinmachnow
