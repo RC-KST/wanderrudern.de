@@ -5,8 +5,8 @@ date: "2016-01-01T01:00:00+02:00"
 gewässer:
 - elbe
 - havel
-- oder
-images:
+- elbe-havel-kanal
+- images:
 - src: images/Rotkaeppchen_Elb_Havel_dreieck_2016.jpg
   title: Rotkaeppchen Elb Havel dreieck 2016
 - src: images/Baden_Wusterwitz_2016.jpg
@@ -40,7 +40,7 @@ images:
 - src: images/Sacrow_Paretzer_Kanal_rueckweg_von_der_Elbe_2016.jpg
   title: Sacrow Paretzer Kanal rueckweg von der Elbe 2016
 länder:
-- finnland
+- deutschland
 title: Elb-Havel-Dreieck 2016
 typen: wanderfahrt
 ---
