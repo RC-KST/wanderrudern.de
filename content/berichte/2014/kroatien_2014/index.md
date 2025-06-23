@@ -5,6 +5,7 @@ date: "2014-01-01T01:00:00+02:00"
 gewässer:
 - novigrader meer
 - zrmanja
+- adria
 images:
 - src: images/start_zur_kroatien_wanderfahrt_2014.jpg
   title: start zur kroatien wanderfahrt 2014
@@ -59,16 +60,10 @@ images:
 - src: images/johanna_ueber_dem_boot_kroatien_2014.jpg
   title: johanna ueber dem boot kroatien 2014
 länder:
-- österreich
+- kroatien
 title: Kroatienblog 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kroatien Wanderfahrt Silvester 2014

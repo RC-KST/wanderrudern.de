@@ -2,7 +2,10 @@
 author: ""
 begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- zrmanja
+- adria
+- mittelmeer
 images:
 - src: images/abfahrt_stahnsdorf_silvesterfahrt_2014.jpg
   title: abfahrt stahnsdorf silvesterfahrt 2014
@@ -38,16 +41,11 @@ images:
   title: Ruderboot mit Girlies vor Felsen Kroatien 2015
 - src: images/Starigrad_Paklenica_vom_Ruderboot_Kroatien_2015.jpg
   title: Starigrad Paklenica vom Ruderboot Kroatien 2015
-länder: []
+länder: 
+- kroatien
 title: Kroatien 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kroatienblog Maslenica Silvester 2014

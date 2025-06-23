@@ -4,6 +4,7 @@ begin: "2014-04-01"
 date: "2014-04-04T01:00:00+02:00"
 gewässer:
 - donau
+- donaudelta
 images:
 - src: images/Transport_Ruderboote_Ostern_2014.jpg
   title: Transport Ruderboote Ostern 2014
@@ -103,16 +104,11 @@ images:
   title: martin im schwarzen meer 2014
 - src: images/Ruderer_Bahnhof_Cearmurlia_de_Jos_2014.jpg
   title: Ruderer Bahnhof Cearmurlia de Jos 2014
-länder: []
+länder: 
+- rumänien
 title: Donaudelta 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaudelta 2014   Blog

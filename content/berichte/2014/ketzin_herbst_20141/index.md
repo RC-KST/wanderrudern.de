@@ -4,7 +4,7 @@ begin: "2014-11-01"
 date: "2014-11-11T01:00:00+02:00"
 gewässer:
 - trebelsee
-- oder
+- havel
 images:
 - src: images/Ruderjugend_Ketzin_2014.jpg
   title: Ruderjugend Ketzin 2014
@@ -12,16 +12,11 @@ images:
   title: Ruderer im Malabar Herbst 2014
 - src: images/Exotische_Fruechte_in_Ketzin_2014.jpg
   title: Exotische Fruechte in Ketzin 2014
-länder: []
+länder: 
+- deutschland
 title: Ketzin Herbst 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin Herbst-Wochenendfahrt 2014

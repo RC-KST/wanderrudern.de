@@ -4,6 +4,7 @@ begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
 gewässer:
 - donau
+- donaudelta
 images:
 - src: images/lieferwagen_rumaenien_2014.jpg
   title: lieferwagen rumaenien 2014
@@ -11,16 +12,11 @@ images:
   title: Ringstrasse Bukarest 2014
 - src: images/Fernverkehrstrasse_Arad_2014.jpg
   title: Fernverkehrstrasse Arad 2014
-länder: []
+länder: 
+- rumänien
 title: Donaudelta 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Infos Rumänien Donaudelta 2014

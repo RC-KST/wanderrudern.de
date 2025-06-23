@@ -4,7 +4,6 @@ begin: "2014-05-01"
 date: "2014-05-05T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Elbe_mit_ruderboot_wittenberg_2014.jpg
   title: Elbe mit ruderboot wittenberg 2014
@@ -20,16 +19,11 @@ images:
   title: torgau am schlosstor 2014
 - src: images/Stadtbesichtigung_Torgau_2014.jpg
   title: Stadtbesichtigung Torgau 2014
-länder: []
+länder: 
+- deutschland
 title: 'Meissen - Coswig 2014 '
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Elbe - Marathon Meißen - Coswig

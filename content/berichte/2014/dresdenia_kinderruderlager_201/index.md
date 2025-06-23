@@ -5,6 +5,7 @@ date: "2014-07-07T01:00:00+02:00"
 gewässer:
 - tegler see
 - wannsee
+- havel
 images:
 - src: images/Kochtruppe_beim_Abendessen_kochen_Dresdenia_2014.jpg
   title: Kochtruppe beim Abendessen kochen Dresdenia 2014
@@ -18,16 +19,11 @@ images:
   title: Kindervierer Dresdenia 2014
 - src: images/Jonathan_waescht_ab_Dresdenia_2014.jpg
   title: Jonathan waescht ab Dresdenia 2014
-länder: []
+länder: 
+- deutschland
 title: Dresdenia Kinderruderlager 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kinder- und Jugendruderlager bei Dresdenia

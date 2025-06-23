@@ -2,7 +2,8 @@
 author: ""
 begin: "2014-09-01"
 date: "2014-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Drachenboot_Rennen_Kleinmachnow_2014.jpg
   title: Drachenboot Rennen Kleinmachnow 2014
@@ -30,15 +31,11 @@ images:
   title: Linke Drachenbootcup 2014
 - src: images/Sieger_maenner_2014_Drachenboot.jpg
   title: Sieger maenner 2014 Drachenboot
-länder: []
+länder: 
+- deutschland
 title: Drachenboot-Rudercup 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

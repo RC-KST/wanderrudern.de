@@ -12,16 +12,11 @@ images:
   title: 5 leute im family trainer messe sport und fun 2014
 - src: images/Messe_Boot_und_Fun_Family_Trainer_2014.jpg
   title: Messe Boot und Fun Family Trainer 2014
-länder: []
+länder: 
+- deutschland
 title: Messe Boot und Fun 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Messe Boot und Fun 2014

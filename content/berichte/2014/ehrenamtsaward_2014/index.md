@@ -8,16 +8,11 @@ images:
   title: Ruderclub Kleinmachnow Felix Nachwuchssportler des Jahres 2014
 - src: images/Felix_Ehrenamtsaward_Ruderclub_Kleinmachnow_2014.jpg
   title: Felix Ehrenamtsaward Ruderclub Kleinmachnow 2014
-länder: []
+länder: 
+- deutschland
 title: Ehrenamtsaward 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ehrenamtsaward 2014

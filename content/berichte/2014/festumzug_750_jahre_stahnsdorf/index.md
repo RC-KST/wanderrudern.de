@@ -14,16 +14,11 @@ images:
   title: Aufstellen Festumzug Stahnsdorf 2014
 - src: images/Nebelwerfer_von_der_Feuerwehr_stahnsdorf_2014.jpg
   title: Nebelwerfer von der Feuerwehr stahnsdorf 2014
-länder: []
+länder: 
+- deutschland
 title: Festumzug 750 Jahre Stahnsdorf
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Festumzug 750-Jahre Stahnsdorf
