@@ -4,7 +4,10 @@ begin: "2017-06-01"
 date: "2017-06-06T01:00:00+02:00"
 gewässer:
 - teltowkanal
-- oder
+- müggelsee
+- spree
+- stienitzsee
+- kalksee
 images:
 - src: images/Eisteller_REDO_2017.jpg
   title: Eisteller REDO 2017
@@ -20,17 +23,11 @@ images:
   title: Ruderboote auf dem Stienitzsee 2017
 - src: images/Ruderinnen_Stienitzsee_2017.jpg
   title: Ruderinnen Stienitzsee 2017
-länder: []
+länder:
+- deutschland
 title: Mueggelsee-Stienitzsee 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Müggelsee-Stien im Stienitzsee
 
