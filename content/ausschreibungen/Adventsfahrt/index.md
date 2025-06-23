@@ -17,7 +17,7 @@ images:
 
 ## 05. - 07. Dezember 2025
 
-![Griechenland](./images/bastei2024.jpg)
+![Bastei](./images/bastei2024.jpg)
 
 Anreise am Freitagnachmittag mit 2 Kleinbussen nach Lovosice.
 Am Samstag fahren wir durch das Elbsandsteingebirge nach Decin, wo wir im Aqua Hotel übernachten. Hier gibt es eine geheizten Außenpool (inklusive), alternativ Innenpool und Sauna (Aufpreis)
