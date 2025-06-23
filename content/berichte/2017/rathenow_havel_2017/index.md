@@ -9,7 +9,8 @@ images:
   title: Sonntagsausflug Rathenow 2017
 - src: images/Havelschleuse_bei_Rathenow_2017.jpg
   title: Havelschleuse bei Rathenow 2017
-länder: []
+länder: 
+- deutschland
 title: Rathenow Havel 2017
 typen: wanderfahrt
 ---
