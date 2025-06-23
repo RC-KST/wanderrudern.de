@@ -16,7 +16,7 @@ images:
 länder:
 - deutschland
 title: Schulrudern Kant 2019
-typen: event
+typen: veranstaltung
 ---
 
 
