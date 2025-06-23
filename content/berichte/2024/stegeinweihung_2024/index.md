@@ -26,7 +26,7 @@ images:
 länder: 
  - deutschland
 title: Stegeinweihung 2024
-typen: event
+typen: veranstaltung
 ---
 
 # Einweihung des neuen Stegs 2024
