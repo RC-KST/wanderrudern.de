@@ -27,6 +27,7 @@ news = "News"
 contact = "Kontakt"
 
 footer_all_rights_reserved = "Alle Rechte vorbehalten"
+footer_archive = "Archiv"
 
 cookiebanner_msg = "Auf dieser Website nutzen wir nur essentielle Cookies. Diese erlauben den Nutzern eine bessere Nutzungserfahrung."
 cookiebanner_more_here = "Mehr erfahren"

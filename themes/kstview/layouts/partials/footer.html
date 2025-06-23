@@ -7,10 +7,9 @@
         </div>
         <div class="w-full">
             {{- range $key, $link := .Site.Params.footer.links }}
-                <div>
-                    <a class="px-0 bg-transparent" href="{{ $.Page.Ref (dict "path" $link "lang" "de") }}">{{ i18n $key }}</a>
-                </div>
-            {{ end }}
+                <div><a class="px-0 bg-transparent" href="{{ $.Page.Ref (dict "path" $link "lang" "de") }}">{{ i18n $key }}</a></div>
+            {{- end }}
+            <div><a class="px-0 bg-transparent" href="{{ site.Params.archive_link }}">{{ i18n "footer_archive" }}</a></div>
         </div>
     </div>
     <div class="w-full flex">

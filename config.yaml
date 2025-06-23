@@ -8,7 +8,7 @@ defaultContentLanguage: de
 staticDir:
   - static
 params:
-  archive_base: /archive
+  archive_link: https://wanderrudern-archiv.de
   backdrop_image: bundle/backdrops/club-gelaende.jpg
   icon_image: bundle/kst_wikingerschiff_simplistic_light.svg
   font_url: bundle/noto-sans/NotoSans-Medium.ttf
