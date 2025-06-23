@@ -6,16 +6,11 @@ gewässer: []
 images:
 - src: images/Altstadtfest_Teltow_2018.jpg
   title: Altstadtfest Teltow 2018
-länder: []
+länder: 
+- deutschland
 title: Altstadtfest Teltow 2018
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # RC KST beim Teltower Altstadtfest 2018
