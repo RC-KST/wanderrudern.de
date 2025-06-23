@@ -12,17 +12,11 @@ images:
   title: Club aufraeumen Maerz 2017
 - src: images/Rollsitze_reparieren_Maer_2017.jpg
   title: Rollsitze reparieren Maer 2017
-länder: []
+länder:
+- deutschland
 title: Arbeitseinsatz Maerz 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Arbeitseinsatz März 2017
 
