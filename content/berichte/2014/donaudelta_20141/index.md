@@ -4,7 +4,7 @@ begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
 gewässer:
 - donau
--donaudelta
+- donaudelta
 images:
 - src: images/Anreise_Rumaenien_2014.jpg
   title: Anreise Rumaenien 2014
