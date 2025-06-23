@@ -3,7 +3,8 @@ author: ""
 begin: "2018-08-01"
 date: "2018-08-08T01:00:00+02:00"
 gewässer:
-- oder
+- telemarkkanal
+- skagerrak
 images:
 - src: images/Vorratskiste_Norwegen_2018.jpg
   title: Vorratskiste Norwegen 2018
@@ -100,19 +101,11 @@ images:
 - src: images/Schleusentreppe_vor_Skien_2018.jpg
   title: Schleusentreppe vor Skien 2018
 länder:
-- deutschland
-- dänemark
+
 - norwegen
 title: Oslofjord 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Telemarkkanal
 
