@@ -13,7 +13,7 @@ Normalerweise erhalten diesen Preis Ruderer im fortgeschrittenen Alter.
 
 Der Ruderclub Kleinmachnow-Stahnsdorf-Teltow hat die drei jüngsten Äquatorpreisträger aller Zeiten.
 
-Nirina hat ihn mit 20 Jahren erhalten, Johanna und [Tim](../berichte/2023/aequatorpreis_tim_2023/) mit 21 Jahren.
+Nirina hat ihn mit 20 Jahren erhalten, Johanna und [Tim](../../../berichte/2023/aequatorpreis_tim_2023/) mit 21 Jahren.
 
 Darüber hinaus haben Patrik und Martin diese Ehrung ein paar Jahren mehr erhalten.
 
