@@ -2,7 +2,8 @@
 author: ""
 begin: "2018-04-01"
 date: "2018-04-04T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Ruderclub_Kleinmachnow_Stahnsdorf_Teltow_2018_Tag_der_offenen_Tuer.jpg
   title: Ruderclub Kleinmachnow Stahnsdorf Teltow 2018 Tag der offenen Tuer
@@ -14,16 +15,11 @@ images:
   title: Tag der offenen Tuer 2018 Kleinmachnow Schleuse
 - src: images/Boote_beim_probe_rudern_Kleinmachnow_2018.jpg
   title: Boote beim probe rudern Kleinmachnow 2018
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tuer 2018
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2018
