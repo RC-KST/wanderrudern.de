@@ -3,13 +3,15 @@ author: ""
 begin: "2017-09-01"
 date: "2017-09-09T01:00:00+02:00"
 gewässer:
-- aller
+- maas
+- holländische gewässer
 images:
 - src: images/Aequatorpreis_fuer_Nirina_2017.jpg
   title: Aequatorpreis fuer Nirina 2017
 - src: images/Nirina_in_Utrecht_Aequatorpreis_2017.jpg
   title: Nirina in Utrecht Aequatorpreis 2017
-länder: []
+länder: 
+- niederlande
 title: Aequatorpreis Nirina 2017
 typen: wanderfahrt
 ---
