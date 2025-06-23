@@ -5,6 +5,7 @@ date: "2015-08-08T01:00:00+02:00"
 gewässer:
 - havel
 - werbellinsee
+- finowkanal
 images:
 - src: images/Werbellinkanal_2015.jpg
   title: Werbellinkanal 2015
@@ -27,16 +28,11 @@ images:
   title: Krautsperre fuer Motorboote Finowkanal 2015
 - src: images/Ruderboote_in_Niederfinow_2015.jpg
   title: Ruderboote in Niederfinow 2015
-länder: []
+länder: 
+- deutschland
 title: Finowkanal 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Finowkanalfahrt August 2015
