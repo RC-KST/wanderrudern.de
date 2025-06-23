@@ -2,7 +2,8 @@
 author: ""
 begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- lac leman
 images:
 - src: images/Lac_Leman_vor_dem_Start_2017_HP.jpg
   title: Lac Leman vor dem Start 2017 HP
@@ -12,17 +13,12 @@ images:
   title: Mannschaft Genfer See 2017
 - src: images/Blick_ueber_Genf_2017.jpg
   title: Blick ueber Genf 2017
-länder: []
+länder: 
+- schweiz
+- frankreich
 title: Tour du Léman á l´Aviron 2017
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Tour du Lac Leman à l´Aviron 2017
 
