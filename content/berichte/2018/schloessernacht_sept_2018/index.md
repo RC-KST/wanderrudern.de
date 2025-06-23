@@ -2,7 +2,8 @@
 author: ""
 begin: "2018-09-01"
 date: "2018-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- havel
 images:
 - src: images/Glienicker_Bruecke_im_Feuerwerk_2018.jpg
   title: Glienicker Bruecke im Feuerwerk 2018
@@ -12,16 +13,11 @@ images:
   title: Ruderboot Schloessernacht Sept 2018
 - src: images/Sacrower_Kirche_bei_der_Schloessernacht_Sept_2018.jpg
   title: Sacrower Kirche bei der Schloessernacht Sept 2018
-länder: []
+länder: 
+- deutschland
 title: Schloessernacht Sept 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schlössernacht 2018
