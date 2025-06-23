@@ -7,15 +7,14 @@ images:
   title: "Nirina Äquatorpreis"
 - src: "./images/ÄquatorüberschritteninUtrecht_Holland.jpg"
   title: "Jüngste Äquatorpreisträgerin aller Zeiten"
-- src: "./images/496975599_1276575901143286_5860165015958287480_n.jpg"
-  title: "Ruderboote Torgau"
-- src: "./images/497509722_1276578497809693_4293098990602679313_n.jpg"
-  title: "Zweier vor Wittenberg"
-- src: "./images/497682745_1276575487809994_7145209038742767969_n.jpg"
-  title: "Ruderer auf der Elbe"
-- src: "./images/497790681_1276575501143326_5413080045596869366_n.jpg"
-  title: "Albrechtsburg Meißen"
-
+- src: "./images/Johanna_und_Tim_zweit_und_drittjüngste_Äquatorpreisträger_aller_Zeiten_2024.jpg"
+  title: "Johanna + Tim jüngster männlicher Äquatorpreisträger, zweitjüngste weibliche Äquatorpreisträgerin "
+- src: "./images/Martin_Aequatorpreis_2020.jpg"
+  title: "Äquatorpreis für Martin"
+- src: "./images/Äquatorpreis_Martin_und_Patrik.jpg"
+  title: "Patrik + Martin Äquatorpreise"
+- src: "./images/Äquatorpreis_4-fach_Stefan.jpg"
+  title: "Stefan vierfacher Äquatorpreis"
 
 title: Äquatorpreisträges des RC KST
 ---
