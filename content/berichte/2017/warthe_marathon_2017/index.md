@@ -27,17 +27,11 @@ images:
   title: Marathonziel Gorzow 2017
 - src: images/Frauen_Vierer_Stary_Zatom_2017.jpg
   title: Frauen Vierer Stary Zatom 2017
-länder: []
+länder: 
+- polen
 title: Warthe Marathon 2017
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Warthe Marathon 2017
 
