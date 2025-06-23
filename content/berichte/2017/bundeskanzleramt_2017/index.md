@@ -18,16 +18,11 @@ images:
   title: Ruderboot am Bundeskanzleramt 2017
 - src: images/Felix_im_Sturm_Bundeskanzleramt_2017.jpg
   title: Felix im Sturm Bundeskanzleramt 2017
-länder: []
+länder:
+- deutschland
 title: Bundeskanzleramt 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wanderfahrt zum Bundeskanzleramt
