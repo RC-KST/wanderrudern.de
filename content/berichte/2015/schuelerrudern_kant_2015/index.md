@@ -2,7 +2,8 @@
 author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Boote_beim_Schuelerrudern_2015.jpg
   title: Boote beim Schuelerrudern 2015
@@ -12,16 +13,11 @@ images:
   title: Chaos am Steg 2015
 - src: images/Kant_Gymnasium_Schuelerruderer_2015.jpg
   title: Kant Gymnasium Schuelerruderer 2015
-länder: []
+länder: 
+- deutschland
 title: Schuelerrudern Kant 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schülerrudern Kant- Gymnasium
