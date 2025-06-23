@@ -4,6 +4,7 @@ begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - saale
+- bleilochtalsperre
 images:
 - src: images/Bleilochtalsperre_Ruderboote_2017.jpg
   title: Bleilochtalsperre Ruderboote 2017
@@ -28,12 +29,6 @@ länder:
 title: Bleilochtalsperre 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bleilochtalsperre 2017
