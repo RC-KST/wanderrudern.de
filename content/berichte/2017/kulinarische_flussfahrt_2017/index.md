@@ -11,20 +11,10 @@ images:
 - src: images/Clubabend_Kulinarische_Flussfahrt_2017.jpg
   title: Clubabend Kulinarische Flussfahrt 2017
 länder:
-- frankreich
-- polen
-- belgien
-- serbien
+- deutschland
 title: Kulinarische Flussfahrt 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Kulinarische Flussfahrt 2017
 
