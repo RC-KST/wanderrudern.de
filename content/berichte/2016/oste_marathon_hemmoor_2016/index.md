@@ -5,6 +5,8 @@ date: "2016-06-06T01:00:00+02:00"
 gewässer:
 - elbe
 - oste
+- ostsee
+- wattenmeer
 images:
 - src: images/Ruderboote_auf_dem_Osteriff_2016.jpg
   title: Ruderboote auf dem Osteriff 2016
@@ -34,16 +36,11 @@ images:
   title: Preisverleihung Hemmoor Oste 2016
 - src: images/Osteriff_2016.jpg
   title: Osteriff 2016
-länder: []
+länder: 
+- deutschland
 title: Oste Marathon Hemmoor 2016
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Oste Marathon Hemmoor 2016
