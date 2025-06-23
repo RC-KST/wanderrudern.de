@@ -4,16 +4,12 @@ begin: "2017-11-01"
 date: "2017-11-11T01:00:00+02:00"
 gewässer:
 - trebelsee
-länder: []
+- havel
+länder: 
+- deutschland
 title: Ketzin Herbst 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin Herbstfahrt
