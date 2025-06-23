@@ -10,7 +10,7 @@ länder:
 - deutschland
 - irland
 title: WRT Saarbrücken 2021
-typen: event
+typen: veranstaltung
 ---
 
 
