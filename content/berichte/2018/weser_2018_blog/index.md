@@ -91,16 +91,11 @@ images:
   title: von der Weser in die Lesum Weser 2018
 - src: images/Baden_Osteholz_schwarmbeck_Weser_2018.jpg
   title: Baden Osteholz schwarmbeck Weser 2018
-länder: []
+länder: 
+- deutschland
 title: Weser 2018 Blog
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Weserwanderfahrt der Kindergruppe
