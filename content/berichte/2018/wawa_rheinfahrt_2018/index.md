@@ -15,16 +15,11 @@ images:
   title: D-Vierer in Remagen Extremfahrt 2018
 - src: images/Mieses_Wetter_Extremfahrt_Rhein_2018.jpg
   title: Mieses Wetter Extremfahrt Rhein 2018
-länder: []
+länder: 
+- deutschland
 title: Rheinmarathon 2018
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rheinwanderfahrt mit WaWa
