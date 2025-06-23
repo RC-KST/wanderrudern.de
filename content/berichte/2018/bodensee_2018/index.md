@@ -4,6 +4,7 @@ begin: "2018-03-01"
 date: "2018-03-03T01:00:00+02:00"
 gewässer:
 - rhein
+- bodensee
 images:
 - src: images/Stein_am_Rhein_2018.jpg
   title: Stein am Rhein 2018
@@ -33,15 +34,10 @@ images:
   title: Ruderboot Stein am Rhein 2018
 länder:
 - schweiz
+- deutschland
 title: Bodensee 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bodensee März 2018
