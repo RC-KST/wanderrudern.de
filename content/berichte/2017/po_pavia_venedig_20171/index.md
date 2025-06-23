@@ -3,8 +3,6 @@ author: ""
 begin: "2017-05-01"
 date: "2017-05-05T01:00:00+02:00"
 gewässer:
-- oder
-- bug
 - po
 - lagune von venedig
 - etsch
@@ -118,19 +116,10 @@ images:
 - src: images/Gondeln_in_Venedig_2017.jpg
   title: Gondeln in Venedig 2017
 länder:
-- frankreich
 - italien
-- österreich
-- schweiz
 title: Blog Pavia Venedig 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Pavia nach Venedig 2017
