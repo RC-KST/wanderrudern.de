@@ -3,7 +3,6 @@ author: ""
 begin: "2017-12-01"
 date: "2017-12-12T01:00:00+02:00"
 gewässer:
-- inn
 images:
 - src: images/Rostock_Hafenausfahrt_2017.jpg
   title: Rostock Hafenausfahrt 2017
@@ -49,15 +48,11 @@ images:
   title: Goldener Saal Stadthuset 2017
 länder:
 - schweden
+- finnland
+- estland
 title: StockholmTallinn Helsinki Kreuzfahrt 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fährfahrt Stockholm, Tallinn, Helsinki
