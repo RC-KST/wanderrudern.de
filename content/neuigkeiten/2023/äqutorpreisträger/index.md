@@ -3,7 +3,7 @@ author: Stefan
 date: "2023-09-01"
 draft: false
 images:
-- src: "./images/Äquatorpreis_für_Nirina.jpg"
+- src: "./images/Äquatorpreis_für_Nirina 2018.jpg"
   title: "Nirina Äquatorpreis"
 - src: "./images/ÄquatorüberschritteninUtrecht_Holland.jpg"
   title: "Jüngste Äquatorpreisträgerin aller Zeiten"
@@ -11,9 +11,9 @@ images:
   title: "Johanna + Tim jüngster männlicher Äquatorpreisträger, zweitjüngste weibliche Äquatorpreisträgerin "
 - src: "./images/Martin_Aequatorpreis_2020.jpg"
   title: "Äquatorpreis für Martin"
-- src: "./images/Äquatorpreis_Martin_und_Patrik.jpg"
+- src: "./images/Äquatorpreisträger_Martin_und_Patrik.jpg"
   title: "Patrik + Martin Äquatorpreise"
-- src: "./images/Äquatorpreis_4-fach_Stefan.jpg"
+- src: "./images/Äquatorpreis_4-fach_Stefan_2023.jpg"
   title: "Stefan vierfacher Äquatorpreis"
 
 title: Äquatorpreisträges des RC KST
