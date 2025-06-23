@@ -2,19 +2,18 @@
 author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- lac leman
 images:
 - src: images/Tour_du_Lac_Leman_Aviron_2015.jpg
   title: Tour du Lac Leman Aviron 2015
-länder: []
+länder: 
+- schweiz
+- frankreich
 title: "Tour du Léman à l\x92Aviron 2015"
 typen: marathon
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
