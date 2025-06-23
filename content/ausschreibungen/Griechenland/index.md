@@ -10,6 +10,8 @@ images:
   title: Griechenland Steilküste
 - src: "images/baumgarten_inrigger_am_Eyjafjördur_2022.jpg"
   title: Baumgarten Inrigger Dreier
+- src: "images/griechenland2025.jpg"
+  title: Baumgarten Inrigger Dreier
 ---
 # Griechenland Peloponnes
 
@@ -18,7 +20,7 @@ images:
 ### Rudern und Antike Ruinen
 
 
-![Landkarte Sommen](./images/asbykartan.png)
+![Griechenland](./images/griechenland2025)
 
 Gerudert wird an 9-10 Tagen in den tiefen Buchten des Peloponnes. Wir haben Hotels in Ufernähe, meist 2-3 Übernachtungen bevor das Quartier gewechselt wird.
 Gerudert wird in Inrigger- Doppel- Dreiern. Man muss daher nur Skullen können. Alle Teilnehmer sollten trainierte Wanderruderer sein, die auch so beweglich sein müssen, dass man an einem Strand aussteigen kann. Es gibt keine Stege. Es muss mit Wellengang gerechnet werden. Wer leicht seekrank wird, nimmt bitte entsprechende Tabletten mit.
