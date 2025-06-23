@@ -4,7 +4,7 @@ begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - maas
-- oder
+- holländische Gewässer
 images:
 - src: images/Verdun_Ruderclub_Start_Maas_2017.jpg
   title: Verdun Ruderclub Start Maas 2017
@@ -187,12 +187,6 @@ länder:
 title: Aequatorpreis Nirina 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Maas- Wanderfahrt Sommer 2017
