@@ -3,8 +3,7 @@ author: ""
 begin: "2017-11-01"
 date: "2017-11-11T01:00:00+02:00"
 gewässer:
-- aller
-- oder
+- havel
 images:
 - src: images/Ruecktransport_der_Boote_mit_Fahrrad_Day_of_the_Bay_2017.jpg
   title: Ruecktransport der Boote mit Fahrrad Day of the Bay 2017
@@ -12,16 +11,11 @@ images:
   title: Werbestand Day of the Bay 2017
 - src: images/Proberudern_Day_of_the_Bay_2017.jpg
   title: Proberudern Day of the Bay 2017
-länder: []
+länder: 
+- deutschland
 title: Day of the Bay 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Day of the Bay 2017
