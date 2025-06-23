@@ -4,10 +4,12 @@ begin: "2016-07-01"
 date: "2016-07-07T01:00:00+02:00"
 gewässer:
 - elbe
+- alster
+- hamburger hafen
 länder:
-- italien
+- deutschland
 title: Hamburg 2016
-typen: marathon
+typen: wanderfahrt
 ---
 
 
