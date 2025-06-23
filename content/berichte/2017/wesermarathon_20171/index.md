@@ -22,17 +22,11 @@ images:
   title: DJH Hann Muenden Wesermarathonstart 2017
 - src: images/Wesermarathon_2017_im_Nebel.jpg
   title: Wesermarathon 2017 im Nebel
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2017
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Wesermarathon 2017
 
