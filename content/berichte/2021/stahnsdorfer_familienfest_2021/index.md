@@ -11,7 +11,7 @@ images:
 länder: 
 - deutschland
 title: Stahnsdorfer Familienfest 2021
-typen: event
+typen: veranstaltung
 ---
 
 
