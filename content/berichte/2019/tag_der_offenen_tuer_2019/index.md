@@ -32,7 +32,7 @@ images:
 länder:
 - deutschland
 title: Tag der offenen Tuer 2019
-typen: event
+typen: veranstaltung
 ---
 
 
