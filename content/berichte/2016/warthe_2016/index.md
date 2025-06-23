@@ -43,13 +43,6 @@ title: Warthe 2016
 typen: marathon
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Warthe Marathon 2016
 
 
