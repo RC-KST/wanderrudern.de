@@ -3,20 +3,14 @@ author: ""
 begin: "2017-07-01"
 date: "2017-07-07T01:00:00+02:00"
 gewässer:
+- weichsel
 - ostsee
-- oder
 - oberländischer kanal
 länder:
 - polen
 title: Oberlaendischer Kanal 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Oberländischer Kanal - Danzig
