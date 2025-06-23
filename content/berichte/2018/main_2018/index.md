@@ -4,8 +4,6 @@ begin: "2018-05-01"
 date: "2018-05-05T01:00:00+02:00"
 gewässer:
 - main
-- aller
-- oder
 images:
 - src: images/Frankfurt_Boote_am_Ziel_2018.jpg
   title: Frankfurt Boote am Ziel 2018
@@ -54,16 +52,10 @@ typen: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Mainwanderfahrt Bamberg - Frankfurt
 
 
-und Wanderrudertreffen 2018
+## und Wanderrudertreffen 2018
 
 [Preisverleihung](/berichte/2018/wrt_schweinfurt_aquatorpreis_n)
 
