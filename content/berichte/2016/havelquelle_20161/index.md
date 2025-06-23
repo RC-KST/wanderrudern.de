@@ -4,11 +4,9 @@ begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
 gewässer:
 - havel
-- müritz
 - havelquellgebiet
 - useriner see
 - käbelicksee
-- oder
 images:
 - src: images/Wellblechrohre_als_Kanal_gibt_es_nicht_nur_in_Finnland_Havelquelle_2016.jpg
   title: Wellblechrohre als Kanal gibt es nicht nur in Finnland Havelquelle 2016
@@ -42,16 +40,11 @@ images:
   title: Weg nach Blankenfoerde Havelquelle 2016
 - src: images/Rudervierer_im_Wald_Havelquelle_2016.jpg
   title: Rudervierer im Wald Havelquelle 2016
-länder: []
+länder: 
+- deutschland
 title: Havelquelle 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Pfingstfahrt zur Havelquelle
