@@ -5,7 +5,8 @@ date: "2015-07-07T01:00:00+02:00"
 gewässer:
 - elbe
 - oste
-- oder
+- nordsee
+- wattenmeer
 images:
 - src: images/Ruderboote_auf_der_Oste_2015.jpg
   title: Ruderboote auf der Oste 2015
@@ -36,13 +37,6 @@ länder:
 title: Oste Marathon Hemmoor 2015
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ostemarathon in Hemmoor
 
