@@ -25,7 +25,7 @@ images:
 länder:
 - deutschland
 title: Havelberg 2023
-typen: marathon
+typen: wanderfahrt
 ---
 
 
