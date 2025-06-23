@@ -2,7 +2,8 @@
 author: ""
 begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Siegerehrung_SPD_Drachenboot_Rudercup_2017-1.jpg
   title: Siegerehrung SPD Drachenboot Rudercup 2017-1
@@ -22,16 +23,11 @@ images:
   title: SPD Boot Start Drachenboot Rudercup 2017-1
 - src: images/Sumo_Ringen_mal_anders_Drachenbootrudercup_2017.jpg
   title: Sumo Ringen mal anders Drachenbootrudercup 2017
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tuer 2017
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 13. Drachenboot- Rudercup 2017
