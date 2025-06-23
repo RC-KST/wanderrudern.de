@@ -4,7 +4,7 @@ begin: "2018-08-01"
 date: "2018-08-08T01:00:00+02:00"
 gewässer:
 - havel
-- oder
+- emster kanal
 images:
 - src: images/Mittagspause_WRT_2018_Lehnin.jpg
   title: Mittagspause WRT 2018 Lehnin
@@ -26,16 +26,11 @@ images:
   title: Girlies beim WRT 2018 Lehnin
 - src: images/Felix_Schleppzug_Werder_WRT_2018.jpg
   title: Felix Schleppzug Werder WRT 2018
-länder: []
+länder: 
+- deutschland
 title: Lehnin WRT 2018
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Brandenburger Landeswanderrudertreffen
