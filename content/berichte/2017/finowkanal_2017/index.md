@@ -5,6 +5,7 @@ date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - havel
 - oder-havel-kanal
+- finowkanal
 images:
 - src: images/Aufladen_am_Oder-Havel-Kanal_2017.jpg
   title: Aufladen am Oder-Havel-Kanal 2017
@@ -26,16 +27,11 @@ images:
   title: Niederfinow mit Ruderern 2017
 - src: images/Schiffshebewerk_Niederfinow_Ruderer_2017.jpg
   title: Schiffshebewerk Niederfinow Ruderer 2017
-länder: []
+länder: 
+- deutschland
 title: Finowkanal 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Langer Trödel und Finowkanal
