@@ -56,15 +56,11 @@ images:
   title: Ruderinnen auf der Loecknitz 015
 - src: images/sturm_auf_dem_seddinsee_2015.jpg
   title: sturm auf dem seddinsee 2015
-länder: []
+länder: 
+- deutschland
 title: Dahme Spree Umfahrt  2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
