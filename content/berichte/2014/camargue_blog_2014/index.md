@@ -2,7 +2,10 @@
 author: ""
 begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- mittelmeer
+- canal du midi
+- vidourle
 images:
 - src: images/Karlsruhe_allemania_Camargue_14.jpg
   title: Karlsruhe allemania Camargue 14
@@ -44,16 +47,11 @@ images:
   title: windiges Mittelmeer camargue 2014
 - src: images/Abendessen_im_Cardinal_2014_blog.jpg
   title: Abendessen im Cardinal 2014 blog
-länder: []
+länder:
+- frankreich
 title: Camargue Blog 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Camargue- Blog 2014
