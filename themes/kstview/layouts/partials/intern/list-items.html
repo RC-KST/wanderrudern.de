@@ -3,10 +3,10 @@
 {{- $args := . }}
 
 {{- $sort_param := "date" }}
-{{- if isset $args "sort_param" }}{{ $sort_param = $args.sort_param }}{{ end }}
+{{- if and $args (isset $args "sort_param") }}{{ $sort_param = $args.sort_param }}{{ end }}
 
 {{- $reverse := true }}
-{{- if (isset $args "reverse") }}{{ $reverse = $args.reverse }}{{ end }}
+{{- if and $args (isset $args "reverse") }}{{ $reverse = $args.reverse }}{{ end }}
 
 {{- $sort_by_date := eq $sort_param "date" }}
 <div class="h-full">
