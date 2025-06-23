@@ -26,16 +26,10 @@ images:
   title: schaeren vor helsinki 2015
 länder:
 - schweden
+- finnland
 title: Helsinki Stockholm Fährfahrt 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Kreuzfahrt Stockholm - Helsinki Februar 2015
 
