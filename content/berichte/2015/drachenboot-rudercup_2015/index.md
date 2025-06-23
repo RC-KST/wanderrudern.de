@@ -3,7 +3,7 @@ author: ""
 begin: "2015-07-01"
 date: "2015-07-07T01:00:00+02:00"
 gewässer:
-- aller
+- teltowkanal
 images:
 - src: images/TCC_beim_Drachenbootrudercup_2015.jpg
   title: TCC beim Drachenbootrudercup 2015
@@ -25,16 +25,11 @@ images:
   title: Pokale Drachenbootrudercup 2015
 - src: images/Rettungsboot_mit_Rettungsschwimmer_Drachenbootrudercup_2015.jpg
   title: Rettungsboot mit Rettungsschwimmer Drachenbootrudercup 2015
-länder: []
+länder: 
+- deutschland
 title: Drachenboot-Rudercup 2015
-typen: marathon
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 11. Drachenboot- Rudercup 2015
