@@ -8,17 +8,11 @@ images:
   title: Kant Schulrudern 2016 Teltowkanal
 - src: images/Ruderausbildung_Kant_Gymnasium_2016.jpg
   title: Ruderausbildung Kant Gymnasium 2016
-länder: []
+länder: 
+- deutschland
 title: Schuelerrudern Kant 2016
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Schülerrudern Kant- Gymnasium
 
