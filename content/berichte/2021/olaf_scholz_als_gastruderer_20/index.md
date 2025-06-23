@@ -20,7 +20,7 @@ images:
 länder: 
 - deutschland
 title: Olaf Scholz als Gastruderer 2021
-typen: event
+typen: veranstaltung
 ---
 
 # Olaf Scholz zu Gast beim RC KST
