@@ -2,7 +2,8 @@
 author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Buergermeister_Grubert_beim_RC_KST_2015.jpg
   title: Buergermeister Grubert beim RC KST 2015
@@ -22,17 +23,11 @@ images:
   title: Baumgarten C-5x+ auf dem Teltowkanal 2015
 - src: images/Fuenfer_mit_Steuermann_wird_eingesetzt_2015.jpg
   title: Fuenfer mit Steuermann wird eingesetzt 2015
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tür 2015
-typen: marathon
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Tag der offenen Tür 2015
 
