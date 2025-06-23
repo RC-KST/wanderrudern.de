@@ -6,10 +6,6 @@ gewässer:
 - donau
 - rhein
 - main
-- saale
-- nordsee
-- oder
-- czarna hancza
 images:
 - src: images/Kelheim_Boote_abladen_MDK_2015.jpg
   title: Kelheim Boote abladen MDK 2015
@@ -135,16 +131,11 @@ images:
   title: deutsches Eck im Koblenz vom Ruderboot aus 2015
 - src: images/am_Ziel_in_Honnef_2015.jpg
   title: am Ziel in Honnef 2015
-länder: []
+länder:
+- deutschland
 title: Main-Dona-Kanal_Main Blog 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Main- Donau- Kanal, Main, Rhein 2015
