@@ -5,6 +5,8 @@ date: "2018-01-01T01:00:00+02:00"
 gewässer:
 - elbe
 - oste
+- nordsee
+- wattenmeer
 images:
 - src: images/Neuer_Bootsanhaenger_2018.jpg
   title: Neuer Bootsanhaenger 2018
@@ -36,17 +38,11 @@ images:
   title: Feiern in Hemmoor 2018
 - src: images/Mittagspause_in_Neuhaus_2018.jpg
   title: Mittagspause in Neuhaus 2018
-länder: []
+länder: 
+- deutschland
 title: Oste Marathon 2018
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Oste Marathon 2018
 
