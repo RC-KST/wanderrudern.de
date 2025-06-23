@@ -5,8 +5,6 @@ date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - donau
 - save
-- aller
-- oder
 images:
 - src: images/Serbische_Grenzkontrolle_Donau_2017.jpg
   title: Serbische Grenzkontrolle Donau 2017
@@ -95,17 +93,10 @@ images:
 - src: images/Kupfermine_Serbien_2017.jpg
   title: Kupfermine Serbien 2017
 länder:
-- ungarn
 - serbien
 title: Donau Bezdan Negotin 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Serbische Donau
