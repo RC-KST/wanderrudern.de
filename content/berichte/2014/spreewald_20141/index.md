@@ -8,7 +8,6 @@ gewässer:
 - teltowkanal
 - spreewald
 - köthener see
-- oder
 images:
 - src: images/morgens_in_dolgenbrodt_2014.jpg
   title: morgens in dolgenbrodt 2014
@@ -32,16 +31,11 @@ images:
   title: jonathan als schleusenwart spreewald 2014
 - src: images/Aufladen_am_pumpwerk_2014.jpg
   title: Aufladen am pumpwerk 2014
-länder: []
+länder: 
+- deutschland
 title: Spreewald 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewald- Wanderfahrt
