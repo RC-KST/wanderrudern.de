@@ -2,7 +2,8 @@
 author: ""
 begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Kant_ruderkurs_am_tor_des_rc_kst_2014.jpg
   title: Kant ruderkurs am tor des rc kst 2014
@@ -10,16 +11,11 @@ images:
   title: kant gymnasium teltow beim ruderkurs 2014
 - src: images/Kant_ruderkurs_jiajia_vor_der_schleuse_kleinmachnow_2014.jpg
   title: Kant ruderkurs jiajia vor der schleuse kleinmachnow 2014
-länder: []
+länder: 
+- deutschland
 title: Schulrudern Kant-Gymnasium
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schulrrudern Kant- Gymnasium

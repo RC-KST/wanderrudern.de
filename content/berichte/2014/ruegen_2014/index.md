@@ -4,7 +4,7 @@ begin: "2014-08-01"
 date: "2014-08-08T01:00:00+02:00"
 gewässer:
 - rügen
-- oder
+- ostsee
 images:
 - src: images/Boote_aufriggern_in_Mukran_Rugen_2014.jpg
   title: Boote aufriggern in Mukran Rügen 2014
@@ -39,12 +39,6 @@ länder:
 title: Ruegen 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rudern vor Rügen

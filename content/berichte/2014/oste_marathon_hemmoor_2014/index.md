@@ -5,8 +5,9 @@ date: "2014-01-01T01:00:00+02:00"
 gewässer:
 - elbe
 - oste
-- pielisjoki
-images:
+- nordsee
+- wattenmeer
+- images:
 - src: images/Mannschaft_RC_KST_in_Hemmoor_2014.jpg
   title: Mannschaft RC KST in Hemmoor 2014
 - src: images/Abends_in_Hemmoor_2014.jpg
@@ -23,16 +24,11 @@ images:
   title: Frauenmannschaft auf dem Osteriff 2014
 - src: images/Containerfrachter_am_Osteriff_2014.jpg
   title: Containerfrachter am Osteriff 2014
-länder: []
+länder: 
+- deutschland
 title: Oste Marathon Hemmoor 2014
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Oste Marathon Hemmoor 2014

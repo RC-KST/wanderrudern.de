@@ -3,7 +3,6 @@ author: ""
 begin: "2014-10-01"
 date: "2014-10-10T01:00:00+02:00"
 gewässer:
-- oder
 - po
 - lagune von venedig
 images:
@@ -107,16 +106,9 @@ images:
   title: chinesische reisegruppe in venedig 2014
 länder:
 - italien
-- schweiz
 title: Podelta Venedig Blog 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Von Cremona am Po nach Venedig
