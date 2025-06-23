@@ -9,7 +9,7 @@ images:
 länder:
 - deutschland
 title: Aequatorpreis Tim 2023
-typen: event
+typen: veranstaltung
 ---
 
 
