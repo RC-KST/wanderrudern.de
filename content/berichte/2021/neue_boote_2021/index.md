@@ -14,9 +14,10 @@ images:
   title: E-Vierer Bandak 2021
 - src: images/Inrigger_3x__vor_der_Reparatur1.jpg
   title: Inrigger 3x+ vor der Reparatur1
-länder: []
+länder: 
+- deutschland
 title: Neue Boote 2021
-typen: event
+typen: veranstaltung
 ---
 
 # Neuer C-Vierer für den Ruderclub
