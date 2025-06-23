@@ -2,7 +2,8 @@
 author: ""
 begin: "2018-09-01"
 date: "2018-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Kant_Schulrudern_2018_Pohlesee_am_Strand.jpg
   title: Kant Schulrudern 2018 Pohlesee am Strand
@@ -12,15 +13,8 @@ images:
   title: Anfaengerausbildung Kant wir arbeiten noch dran 2018
 länder: []
 title: Schulrudern Kant 2018
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Schülerrudern Kant Gymnasium
 
