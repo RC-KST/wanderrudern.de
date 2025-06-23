@@ -10,9 +10,10 @@ images:
   title: Neue Barke des Ruderclub Kleinmachnow-Stahnsdorf-Teltow 2024
 - src: images/Barke_auf_dem_Teltowkanal_2024.jpg
   title: Barke auf dem Teltowkanal 2024
-länder: []
+länder: 
+- deutschland
 title: Barke 2024
-typen: event
+typen: veranstaltung
 ---
 
 
