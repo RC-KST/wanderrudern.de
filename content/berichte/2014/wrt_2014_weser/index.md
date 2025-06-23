@@ -13,15 +13,11 @@ images:
   title: Masters nach 133 km WRT 2014
 - src: images/Polle_pause_am_Steg_WRT_2014.jpg
   title: Polle pause am Steg WRT 2014
-länder: []
+länder: 
+- deutschland
 title: WRT 2014 Weser
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
