@@ -15,17 +15,11 @@ images:
   title: Trainingsstrecke durch Koeln Rheinmarathon 2018
 - src: images/Rheinmarathon_Ziel_in_Duesseldorf_2018.jpg
   title: Rheinmarathon Ziel in Duesseldorf 2018
-länder: []
+länder:
+- deutschland
 title: Rheinmarathon 2018
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Rheinmarathon 2018
 
