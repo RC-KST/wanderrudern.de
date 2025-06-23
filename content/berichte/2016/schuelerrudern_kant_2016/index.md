@@ -2,7 +2,8 @@
 author: ""
 begin: "2016-09-01"
 date: "2016-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Kant_Schulrudern_2016_Teltowkanal.jpg
   title: Kant Schulrudern 2016 Teltowkanal
