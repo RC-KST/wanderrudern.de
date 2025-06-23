@@ -4,6 +4,7 @@ begin: "2015-10-01"
 date: "2015-10-10T01:00:00+02:00"
 gewässer:
 - havel
+- templiner seenplatte
 images:
 - src: images/Boote_riggern_Burgwall_2015.jpg
   title: Boote riggern Burgwall 2015
@@ -27,16 +28,11 @@ images:
   title: Ruderer auf dem Wentowsee 2015
 - src: images/Wentowsee_Ruderboote_2015.jpg
   title: Wentowsee Ruderboote 2015
-länder: []
+länder: 
+- deutschland
 title: Burgwall Templiner Seenplatte 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Burgwall, Templiner Seenplatte
