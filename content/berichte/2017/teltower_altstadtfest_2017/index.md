@@ -10,16 +10,11 @@ images:
   title: Teltower Altstadtfest 2017 Ruderergometer
 - src: images/LingLing_beim_Interview_Altstadtfest_Teltow_2017.jpg
   title: LingLing beim Interview Altstadtfest Teltow 2017
-länder: []
+länder: 
+- deutschland
 title: Teltower Altstadtfest 2017
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Teltower Altstadtfest 2017
