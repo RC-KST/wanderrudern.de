@@ -12,26 +12,17 @@ images:
   title: Kirchboot und Dampfer beim Schleusenfest Kleinmachnow 2014
 - src: images/Ruderboote_beim_Schleusenfest_Kleinmachnow_2014.jpg
   title: Ruderboote beim Schleusenfest Kleinmachnow 2014
-länder: []
+länder: 
+- deutschland
 title: Schleusenfest 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schleusenfest Kleinmachnow 2014
 
 
-Nach der
-
-[Wetterkatastrophe](/berichte/2014/schleusenfest_2013)
-
-des Vorjahres konnte es eigentlich nur besser werden. Es gab zwar keinen Dauerregen, aber immer wieder Schauer. Erst am Sonntag Nachmittag blieb es längere Zeit trocken. Da strömten dann auch die Zuschauer und das Kirchboot und die beiden Zweier “Yoda” und “Drei” waren im Dauereinsatz. Mal sehen wie viele Leute wir überzeugt haben, dass Rudern eine gesunde Sportart ist, wenn man es nicht als Leistungssport betreibt.
+Nach der [Wetterkatastrophe](/berichte/2014/schleusenfest_2013) des Vorjahres konnte es eigentlich nur besser werden. Es gab zwar keinen Dauerregen, aber immer wieder Schauer. Erst am Sonntag Nachmittag blieb es längere Zeit trocken. Da strömten dann auch die Zuschauer und das Kirchboot und die beiden Zweier “Yoda” und “Drei” waren im Dauereinsatz. Mal sehen wie viele Leute wir überzeugt haben, dass Rudern eine gesunde Sportart ist, wenn man es nicht als Leistungssport betreibt.
 
 Wir hoffen auf einige neue Ruderer in der nächsten Zeit.
 
