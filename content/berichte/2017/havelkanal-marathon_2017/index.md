@@ -4,7 +4,7 @@ begin: "2017-01-01"
 date: "2017-01-01T01:00:00+02:00"
 gewässer:
 - havel
-- oder
+- havelkanal
 images:
 - src: images/Nirina_Havelkanal_Marathon_2017.jpg
   title: Nirina Havelkanal Marathon 2017
@@ -12,16 +12,11 @@ images:
   title: Havelkanal Marathon 2017 E-Dreier mit
 - src: images/Havelkanal_Marathon_Schleuse_Schoenwalde_2017.jpg
   title: Havelkanal Marathon Schleuse Schoenwalde 2017
-länder: []
+länder: 
+- deutschland
 title: Havelkanal-Marathon 2017
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Havelkanal- Marathon 2017
