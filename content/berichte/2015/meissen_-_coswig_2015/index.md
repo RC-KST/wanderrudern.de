@@ -19,16 +19,11 @@ images:
   title: Anfahrt auf Torgau im Ruderboot Elbe 2015
 - src: images/Seilfahre_Elbe_2015.jpg
   title: Seilfahre Elbe 2015
-länder: []
+länder: 
+- deutschland
 title: Meissen - Coswig 2015
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Elbemarathon Ende Februar/Anfang März 2015

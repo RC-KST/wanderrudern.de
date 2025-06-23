@@ -3,11 +3,6 @@ author: ""
 begin: "2015-05-01"
 date: "2015-05-05T01:00:00+02:00"
 gewässer:
-- donau
-- main
-- main-donau-kanal
-- oder
-- bromberger kanal
 - weichsel
 - oberländischer kanal
 - narew
@@ -146,25 +141,19 @@ images:
 - src: images/Ruderboote_in_den_stromschnellen_der_weichsel.jpg
   title: Ruderboote in den stromschnellen der weichsel
 länder:
-- finnland
 - polen
-title: Main-Donau-Kanal Main 2015
+title: Czarna Hancza, Kanal Augustow, Biebzra, Narew, Weichsel
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
 # Czarna Hancza, Kanal Augustow, Biebzra, Narew, Weichsel
 
 
-Sommerwanderfahrt quer durch Polen
+## Sommerwanderfahrt quer durch Polen
 
-vom litauischen/weißrussischen Grenzgebiet nach Warschau
+## vom litauischen/weißrussischen Grenzgebiet nach Warschau
 
 [Blog](/berichte/2015/polenblog_2015)
 

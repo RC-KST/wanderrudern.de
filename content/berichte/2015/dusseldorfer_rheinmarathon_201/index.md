@@ -7,16 +7,11 @@ gewässer:
 images:
 - src: images/Duesseldorfer_Marathonrudern_2015.jpg
   title: Duesseldorfer Marathonrudern 2015
-länder: []
+länder:
+- deutschland
 title: Düsseldorfer Rheinmarathon 2015
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 44. Düsseldorfer Marathonrudern

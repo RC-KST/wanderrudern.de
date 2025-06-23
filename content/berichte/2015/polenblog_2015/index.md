@@ -7,7 +7,6 @@ gewässer:
 - nogat
 - oberländischer kanal
 - czarna hancza
-- po
 images:
 - src: images/Aufladen_fur__Polenfahrt_2015.jpg
   title: Aufladen für  Polenfahrt 2015
@@ -138,13 +137,6 @@ länder:
 title: Weichsel, Nogat, Oberlaendischer Kanal 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Blog Polen- Wanderfahrt Sommer 2015
 

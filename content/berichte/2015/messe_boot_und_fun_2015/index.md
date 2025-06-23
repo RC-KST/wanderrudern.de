@@ -14,17 +14,11 @@ images:
   title: Angler im Family Trainer Messe 2015
 - src: images/Proberudern_Family_Trainer_Messe_2015.jpg
   title: Proberudern Family Trainer Messe 2015
-länder: []
+länder: 
+- deutschland
 title: Messe Boot und Fun 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Messe Boot und Fun 2015
 

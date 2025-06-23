@@ -21,17 +21,11 @@ images:
   title: Kinderboot Werder 2015
 - src: images/Badepause_Potsdam_Werder_2015.jpg
   title: Badepause Potsdam Werder 2015
-länder: []
+länder:
+- deutschland
 title: Werder Kinderruderlager 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Kinderruderlager in Werder
 

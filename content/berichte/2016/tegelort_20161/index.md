@@ -21,16 +21,11 @@ images:
   title: WSA Blockade Berliner Innenstadt 2016
 - src: images/Tegler_See_Ruderboot_2016.jpg
   title: Tegler See Ruderboot 2016
-länder: []
+länder: 
+- deutschland
 title: Tegelort 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tegelort- Wochenende

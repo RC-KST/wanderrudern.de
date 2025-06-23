@@ -11,16 +11,11 @@ images:
   title: Vierer auf dem Trebelsee Ketzin Herbst 2015
 - src: images/Ketzin_Graeben_Ketzin_Herbst_2015.jpg
   title: Ketzin Graeben Ketzin Herbst 2015
-länder: []
+länder: 
+- deutschland
 title: Ketzin 2015 Herbst
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin Herbst 2015

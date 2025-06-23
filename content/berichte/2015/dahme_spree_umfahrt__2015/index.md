@@ -11,7 +11,6 @@ gewässer:
 - schwielochsee
 - neuendorfer see
 - köthener see
-- oder
 images:
 - src: images/Ruderboot_kurz_vor_der_Dahme_Teltowkanal_2015.jpg
   title: Ruderboot kurz vor der Dahme Teltowkanal 2015
@@ -78,16 +77,10 @@ images:
 - src: images/Kinderdreier_Spreewaldfahrt_2015.jpg
   title: Kinderdreier Spreewaldfahrt 2015
 länder:
-- polen
+- deutschland
 title: Dahme Spree Blog 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Dahme- Spree- Umfahrt

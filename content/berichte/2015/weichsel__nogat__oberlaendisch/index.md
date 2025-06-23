@@ -3,15 +3,11 @@ author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
 gewässer:
-- oder
-- bromberger kanal
 - weichsel
 - nogat
 - oberländischer kanal
-- czarna hancza
 - jagelonen kanal
 - jez jezoriak
-- po
 images:
 - src: images/Thorn_Hafen_2015.jpg
   title: Thorn Hafen 2015
@@ -74,17 +70,10 @@ images:
 - src: images/Oberland_karte.jpg
   title: Oberland karte
 länder:
-- deutschland
 - polen
 title: Polenblog 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Weichsel, Nogat, Oberländischer Kanal 2015

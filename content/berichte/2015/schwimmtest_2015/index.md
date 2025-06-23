@@ -2,7 +2,8 @@
 author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Girlies_beim_Schwimmtest.jpg
   title: Girlies beim Schwimmtest
@@ -22,16 +23,11 @@ images:
   title: schwimmtest Heck um einen Ruderer entlastet
 - src: images/Schwimmtest_S5x__ausgegliche_Besatzung.jpg
   title: Schwimmtest S5x+ ausgegliche Besatzung
-länder: []
+länder:
+- deutschland
 title: Schwimmtest 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schwimmtest mit einem C-Fünfer mit Steuermann S-Class

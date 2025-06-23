@@ -3,7 +3,6 @@ author: ""
 begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/Girlisz_St_Abbs_2016.jpg
   title: Girlisz St Abbs 2016
@@ -28,18 +27,11 @@ images:
 - src: images/schottische_inseln_2016.jpg
   title: schottische inseln 2016
 länder:
-- deutschland
 - england
 - schottland
 title: Schottland 2016
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fährfahrt nach Schottland

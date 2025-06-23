@@ -3,9 +3,9 @@ author: ""
 begin: "2014-02-01"
 date: "2014-02-02T01:00:00+02:00"
 gewässer:
-- rhone
 - vidourle
 - canal du rhone a sete
+- canal du midi
 - mittelmeer
 images:
 - src: images/Wanderruder_Berlin_Essen_2014_-_1.jpg
@@ -51,17 +51,10 @@ images:
 - src: images/thomas_auf_dem_mittelmeer_2014.jpg
   title: thomas auf dem mittelmeer 2014
 länder:
-- deutschland
 - frankreich
 title: Camargue 2014
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Camargue- Wanderfahrt

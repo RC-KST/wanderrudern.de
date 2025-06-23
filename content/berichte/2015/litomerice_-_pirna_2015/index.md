@@ -25,16 +25,12 @@ images:
   title: Trainer neben dem Vierer Elbe 2015
 - src: images/Ruderer_vor_der_Bastei_2015.jpg
   title: Ruderer vor der Bastei 2015
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Litomerice - Pirna 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Litomerice - Pirna

@@ -8,7 +8,6 @@ gewässer:
 - teltowkanal
 - spreewald
 - köthener see
-- bug
 images:
 - src: images/Jacob_auf_dem_Teltowkanal_Freitag_Abend_Spreewald_2016.jpg
   title: Jacob auf dem Teltowkanal Freitag Abend Spreewald 2016
@@ -28,16 +27,11 @@ images:
   title: Simone in Spreewaldschleuse 2016
 - src: images/Hauptspree_Spreewald_2016.jpg
   title: Hauptspree Spreewald 2016
-länder: []
+länder:
+- deutschland
 title: Spreewald 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewaldfahrt 2016

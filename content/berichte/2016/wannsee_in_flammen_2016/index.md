@@ -17,16 +17,11 @@ images:
   title: Wannsee in Flammen 2016-3
 - src: images/Wannsee_in_Flammen_2016-1.jpg
   title: Wannsee in Flammen 2016-1
-länder: []
+länder: 
+- deutschland
 title: Wannsee in Flammen 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wannsee in Flammen 2016

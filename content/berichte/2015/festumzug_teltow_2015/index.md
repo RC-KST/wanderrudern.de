@@ -14,17 +14,11 @@ images:
   title: Messeflagge Festumzug Teltow 2015
 - src: images/Festumzug_Teltow_2015_Gondoliere_Ruderclub.jpg
   title: Festumzug Teltow 2015 Gondoliere Ruderclub
-länder: []
+länder: 
+- deutschland
 title: Festumzug Teltow 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Festumzug 750 Jahre Teltow
 

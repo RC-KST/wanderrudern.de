@@ -14,16 +14,11 @@ images:
   title: Ruderer im REDO Ketzin 2016
 - src: images/Malte_Sophie_XXL_Restaurant_Redo_Ketzin_2016.jpg
   title: Malte Sophie XXL Restaurant Redo Ketzin 2016
-länder: []
+länder: 
+- deutschland
 title: Werder Kinderruderlager 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kinder + Jugendruderlager Werder

@@ -95,16 +95,13 @@ images:
   title: Abendessen in Bratislava Donau 2015
 - src: images/Bratislava_von_der_Burg_Donau_2015.jpg
   title: Bratislava von der Burg Donau 2015
-länder: []
+länder: 
+- deutschland
+- österreich
+- slowakei
 title: Donau Ulm - Bratislava 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaublog Ulm - Bratislava

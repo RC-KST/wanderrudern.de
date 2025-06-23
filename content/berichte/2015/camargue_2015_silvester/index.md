@@ -3,8 +3,7 @@ author: ""
 begin: "2015-02-01"
 date: "2015-02-02T01:00:00+02:00"
 gewässer:
-- oder
-- rhone
+- canal du midi
 - lez
 - vidourle
 - mittelmeer
@@ -36,18 +35,10 @@ images:
 - src: images/Silvester_2015_Camargue.jpg
   title: Silvester 2015 Camargue
 länder:
-- deutschland
 - frankreich
 title: Camargue 2015 Silvester
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Silvester 2015 in der Camargue
 

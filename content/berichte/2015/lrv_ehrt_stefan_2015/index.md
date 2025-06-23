@@ -3,20 +3,13 @@ author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
 gewässer:
-- erne
 images:
 - src: images/Silberne_Ehrennadel_des_LRV_Stefan.jpg
   title: Silberne Ehrennadel des LRV Stefan
 länder: []
 title: LRV ehrt Stefan 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Der LRV verleiht unserem Vorsitzenden die Silberne Ehrennadel

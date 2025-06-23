@@ -2,7 +2,8 @@
 author: ""
 begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- elbe
 images:
 - src: images/Hotel_Posta_Decin_Advent_2014.jpg
   title: Hotel Posta Decin Advent 2014
@@ -16,15 +17,10 @@ images:
   title: Gluehwein auf der elbe Advent 2014
 länder:
 - tschechien
+- deutschland
 title: Decin - Meissen 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Decin - Meissen

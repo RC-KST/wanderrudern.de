@@ -3,7 +3,6 @@ author: ""
 begin: "2015-03-01"
 date: "2015-03-03T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 - plauer see
 - trebelsee
@@ -27,16 +26,10 @@ images:
 - src: images/Ankunft_in_Havelberg_2015.jpg
   title: Ankunft in Havelberg 2015
 länder:
-- italien
+- deutschland
 title: Stahnsdorf - Havelberg 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorf - Havelberg

@@ -12,15 +12,11 @@ images:
   title: dach reinigen 2014
 - src: images/Sitzplatz_streichen_2014.jpg
   title: Sitzplatz streichen 2014
-länder: []
+länder:
+- deutschland
 title: Arbeitseinsatz März 2014
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

@@ -24,16 +24,11 @@ images:
   title: Grillen in Altruppin 2014
 - src: images/Kneipenbesuch_am_Zermuetzelsee_Altruppin-Wanderfahrt_2014.jpg
   title: Kneipenbesuch am Zermuetzelsee Altruppin-Wanderfahrt 2014
-länder: []
+länder: 
+- deutschland
 title: Altruppin 2014
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorf - Altruppin

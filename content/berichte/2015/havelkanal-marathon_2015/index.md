@@ -18,16 +18,11 @@ images:
   title: Sacrower Kirche bei Sonnenaufgang Havelkanal Marathon 2015
 - src: images/Havelkanal_Marathon_2015.jpg
   title: Havelkanal Marathon 2015
-länder: []
+länder: 
+- deutschland
 title: Havelkanal-Marathon 2015
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Havelkanal- Marathon

@@ -8,15 +8,11 @@ images:
   title: Kamerateam vom RBB auf der Schleusenbruecke RC KST 2015
 - src: images/RBB_Zibb_Mini_zu_Gast_beim_RC_KST_2015.jpg
   title: RBB Zibb Mini zu Gast beim RC KST 2015
-länder: []
+länder: 
+- deutschland
 title: RBB Mini ZiBB 2015
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

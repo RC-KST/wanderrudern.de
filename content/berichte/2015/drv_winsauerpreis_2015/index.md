@@ -2,7 +2,8 @@
 author: ""
 begin: "2015-01-01"
 date: "2015-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- saale
 images:
 - src: images/Girlies_mit_dem_Winsauerpreis_2015_RC_KST.jpg
   title: Girlies mit dem Winsauerpreis 2015 RC KST
@@ -10,17 +11,11 @@ images:
   title: Baumgarten Ausstellungsboote auf dem WRT 2016 Bernburg
 - src: images/Preisverleihung_Winsauerpreis_2015_RC_KSt.jpg
   title: Preisverleihung Winsauerpreis 2015 RC KSt
-länder: []
+länder: 
+- deutschland
 title: DRV Winsauerpreis 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Wanderrudertreffen Bernburg
 
