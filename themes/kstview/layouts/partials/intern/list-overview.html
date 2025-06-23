@@ -25,9 +25,11 @@
         {{- $pages = $paginator.Pages }}
     {{- end }}
     {{- range $pages }}
+        {{- if not .Params.hidden }}
         <a href="{{ .Permalink }}" class="m-2 py-2 px-6 h-20 flex flex-col flex-grow items-center justify-center">
             <div class="border-0 rounded-2xl font-bold text-center">{{ .Title }}</div>
         </a>
+        {{- end }}
     {{- end -}}
     <!--Pseudo-Element for not growing the last line -->
     <div style="content: ''; flex-grow: 1000000000;"></div>

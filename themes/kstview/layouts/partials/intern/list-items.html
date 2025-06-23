@@ -25,6 +25,7 @@
         {{- $pages = $paginator.Pages }}
     {{- end }}
     {{- range $pages }}
+        {{- if not .Params.hidden }}
         <a href="{{ .Permalink }}" class="p-0">
             <div class="flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4 py-2 px-4">
                 <div class="flex flex-row">
@@ -45,6 +46,7 @@
                 {{- end }}
             </div>
         </a>
+        {{- end }}
     {{- end }}
     </div>
 </div>
