@@ -15,7 +15,7 @@ images:
 länder: 
 - deutschland
 title: Aequatorpreis Martin 2020
-typen: event
+typen: veranstaltung
 ---
 
 # Äquatorpreis für Martin
