@@ -10,16 +10,11 @@ images:
   title: Obmannskurs 2017
 - src: images/Obmannskurs_2017_Kraftraum.jpg
   title: Obmannskurs 2017 Kraftraum
-länder: []
+länder: 
+- deutschland
 title: Obmannskurs 2017
-typen: wanderfahrt
+typen: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurs 2017
