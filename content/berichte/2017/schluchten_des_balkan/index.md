@@ -17,15 +17,11 @@ images:
   title: Felsbogen Balkan 2017
 - src: images/Balkan_Bauernhof_2017.jpg
   title: Balkan Bauernhof 2017
-länder: []
+länder:
+- serbien
 title: Donau Bezdan Negotin 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
