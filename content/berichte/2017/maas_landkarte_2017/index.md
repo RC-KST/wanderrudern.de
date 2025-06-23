@@ -7,16 +7,13 @@ gewässer:
 images:
 - src: images/Maas_Wanderfahrt_2017_Karte.jpg
   title: Maas Wanderfahrt 2017 Karte
-länder: []
+länder:
+- frankreich
+- belgien
+- niederlande
 title: Maas 2017 Blog
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Maas bis zum Meer 2017
