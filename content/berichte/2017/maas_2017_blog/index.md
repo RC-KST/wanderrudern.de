@@ -4,6 +4,7 @@ begin: "2017-07-01"
 date: "2017-07-07T01:00:00+02:00"
 gewässer:
 - maas
+- niederländische gewässer
 images:
 - src: images/Verdun_Ruderclub_Start_Blog_Frankreich_2017.jpg
   title: Verdun Ruderclub Start Blog Frankreich 2017
@@ -167,17 +168,13 @@ images:
   title: Ruderer in den Wellen Blog 2017
 - src: images/Burger_Abendessen_im_Ruderclub_Schagen_Blog_2017.jpg
   title: Burger Abendessen im Ruderclub Schagen Blog 2017
-länder: []
+länder: 
+- frankreich
+- belgien
+- niederlande
 title: Maas 2017
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Maas- Sommerwanderfahrt 2017 Blog
 
