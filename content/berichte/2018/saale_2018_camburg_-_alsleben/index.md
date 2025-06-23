@@ -4,7 +4,6 @@ begin: "2018-01-01"
 date: "2018-01-01T01:00:00+02:00"
 gewässer:
 - saale
-- oder
 images:
 - src: images/Einsetzstelle_Camburg_Saale_2018.jpg
   title: Einsetzstelle Camburg Saale 2018
@@ -30,17 +29,11 @@ images:
   title: Saale Wehr 2018
 - src: images/Burg_Wettin_Saale_2018.jpg
   title: Burg Wettin Saale 2018
-länder: []
+länder: 
+- deutschland
 title: Saale 2018 Camburg - Alsleben
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Saale- Wanderfahrt
 
