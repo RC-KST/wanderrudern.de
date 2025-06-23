@@ -8,15 +8,11 @@ gewässer:
 images:
 - src: images/Sterne_des_Sports_2018_RC_KST.jpg
   title: Sterne des Sports 2018 RC KST
-länder: []
+länder:
+- deutschland
 title: Sterne des Sports 2018
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
