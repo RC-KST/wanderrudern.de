@@ -4,7 +4,7 @@ author: "Stefan"
 begin: "2025-11-28"
 title: Birkenwerder 
 images:
-- src: "images/rimg0003.jpg"
+- src: "images/RIMG0003.jpg"
   title: Rudern im Schnee
 
 ---
