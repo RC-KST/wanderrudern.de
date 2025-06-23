@@ -78,16 +78,11 @@ images:
   title: Schloss am rhein 2015
 - src: images/Remagen_bruecke_rhein_2015.jpg
   title: Remagen bruecke rhein 2015
-länder: []
+länder: 
+- deutschland
 title: Main-Donau-Kanal Main 2015
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Blog Main- Donau- Kanal, Main, Rhein
