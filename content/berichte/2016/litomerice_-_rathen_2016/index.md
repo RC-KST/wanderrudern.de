@@ -2,7 +2,8 @@
 author: ""
 begin: "2016-01-01"
 date: "2016-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- elbe
 images:
 - src: images/Ruderer_in_Rathen_2016.jpg
   title: Ruderer in Rathen 2016
@@ -25,13 +26,6 @@ länder:
 title: Litomerice - Rathen 2016
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Lovosice - Rathen
 
