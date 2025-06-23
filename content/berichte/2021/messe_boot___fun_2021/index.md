@@ -17,7 +17,7 @@ images:
 länder: 
 - deutschland
 title: Messe Boot + Fun 2021
-typen: event
+typen: veranstaltung
 ---
 
 # Messe Boot & Fun 2021
