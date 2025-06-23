@@ -4,8 +4,7 @@ begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
 gewässer:
 - donau
-- oste
-- oder
+-donaudelta
 images:
 - src: images/Anreise_Rumaenien_2014.jpg
   title: Anreise Rumaenien 2014
@@ -94,19 +93,10 @@ images:
 - src: images/rueckreise_donaudelta_2014.jpg
   title: rueckreise donaudelta 2014
 länder:
-- deutschland
-- tschechien
-- ungarn
-- slowakei
+- rumänien
 title: Donaudelta 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaudelta Osterfahrt 2014
