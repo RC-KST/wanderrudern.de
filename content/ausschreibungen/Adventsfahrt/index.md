@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-10-18"
+begin: "2025-12-05"
 title: Adventsfahrt Elb-Sandstein
 images:
 - src: "images/100_0627.jpg"
