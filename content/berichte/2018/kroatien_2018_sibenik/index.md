@@ -5,6 +5,8 @@ date: "2018-01-01T01:00:00+02:00"
 gewässer:
 - krka
 - kornaten
+- adria
+- mittelmeer
 images:
 - src: images/Anreise_Kroatien_Uebelbach_2018.jpg
   title: Anreise Kroatien Uebelbach 2018
@@ -103,15 +105,10 @@ images:
 - src: images/AH_Selfie_beim_Baden_Kroatien_2018.jpg
   title: AH Selfie beim Baden Kroatien 2018
 länder:
-- österreich
+- kroatien
 title: Kroatien 2018 Sibenik
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
