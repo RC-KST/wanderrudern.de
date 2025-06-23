@@ -15,7 +15,7 @@ images:
 länder: 
 - deutschland
 title: Arbeitseinsatz 2020 Februar
-typen: event
+typen: veranstaltung
 ---
 
 
