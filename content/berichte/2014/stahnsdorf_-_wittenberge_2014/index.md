@@ -6,7 +6,6 @@ gewässer:
 - elbe
 - havel
 - plauer see
-- oder
 images:
 - src: images/Kindervierer_Havel_nach_Brandenburg_2014.jpg
   title: Kindervierer Havel nach Brandenburg 2014
@@ -26,15 +25,11 @@ images:
   title: Havelberger Dom vom Ruderboot aus 2014
 - src: images/mal_wieder_eine_steuerreparatur_havelberg_2014.jpg
   title: mal wieder eine steuerreparatur havelberg 2014
-länder: []
+länder: 
+- deutschland
 title: Stahnsdorf - Wittenberge 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

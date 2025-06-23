@@ -3,7 +3,6 @@ author: ""
 begin: "2014-01-01"
 date: "2014-01-01T01:00:00+02:00"
 gewässer:
-- oder
 - warthe
 images:
 - src: images/Abladen_in_Kolo_2014.jpg
@@ -34,16 +33,9 @@ images:
   title: Aussetzstelle in Gorzow
 länder:
 - polen
-- italien
 title: Warthe 2014
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Warthe- Marathon

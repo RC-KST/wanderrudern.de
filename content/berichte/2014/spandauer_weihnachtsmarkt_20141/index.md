@@ -10,16 +10,11 @@ images:
   title: Boote bei Hevella rausnehmen im Graupelschauer 2014
 - src: images/Ruderboote_RC_KST_im_Graupelschauer_bei_Hevella_2014.jpg
   title: Ruderboote RC KST im Graupelschauer bei Hevella 2014
-länder: []
+länder: 
+- deutschland
 title: Spandauer Weihnachtsmarkt 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wanderfahrt zum Spandauer Weihnachtsmarkt 2014
