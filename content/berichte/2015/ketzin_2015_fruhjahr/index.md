@@ -14,16 +14,11 @@ images:
   title: Ruderboote Brandenburg Havel Maerz 2015
 - src: images/Indisches_Brot_Malabar_Maerz_2015.jpg
   title: Indisches Brot Malabar Maerz 2015
-länder: []
+länder: 
+- deutschland
 title: Ketzin 2015 Frühjahr
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Frühjahrsfahrt Ketzin März 2015
