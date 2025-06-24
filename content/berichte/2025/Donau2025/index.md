@@ -15,9 +15,30 @@ länder:
 - ungarn
 typen: wanderfahrt
 images:
-- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
-  title: "Start in Meißen"
-
+- src: "./images/Abendessen_Budapest2025.jpg"
+  title: "Strandbar Budapest"
+- src: "./images/Altedonau2025.jpg"
+  title: "Esztergom Alte Donau"
+- src: "./images/ArdaggerMarkt2025.jpg"
+  title: "Ardagger Markt Hotel"
+- src: "./images/Ardagger_Hotelblick2025"
+  title: "Ardagger Markt Blick aus dem Hotel"
+- src: "./images/Arnold2025.jpg"
+  title: "Nicht ausgelasteter Jugendlicher"
+- src: "./images/Blick_Buda2025.jpg"
+  title: "Blick auf die Burg von Budapest"
+- src: "./images/Abendessen_Budapest2025.jpg"
+  title: "Strandbar Budapest"
+- src: "./images/Altedonau2025.jpg"
+  title: "Esztergom Alte Donau"
+- src: "./images/ArdaggerMarkt2025.jpg"
+  title: "Ardagger Markt Hotel"
+- src: "./images/Ardagger_Hotelblick2025"
+  title: "Ardagger Markt Blick aus dem Hotel"
+- src: "./images/Arnold2025.jpg"
+  title: "Nicht ausgelasteter Jugendlicher"
+- src: "./images/Blick_Buda2025.jpg"
+  title: "Blick auf die Burg von Budapest"
   title: Donau Straubing - Budapest 2025
 ---
 
