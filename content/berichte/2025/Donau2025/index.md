@@ -73,8 +73,27 @@ Schönbrunn mit seinem Park und dem beliebten Hecklabyrinth, der Naschmarkt, Hof
 Abendessen hatten wir auch in einem Heurigenlokal in Nussdorf.
 
 
+Nach dem Pausentag ging es wieder aufs Wasser, 69 km nach Bratislava. Die Schleuse Nussdorf schleuste uns kurz nach 9 Uhr, so dass die auf dem Donaukanal verkehrende Schnellfähre bereits weg war. Der enge Donaukanal führt durch Wien. Hinter Stadt trifft man dann wieder auf die Hauptdonau.
+Bei Sonne und guter Strömung flogen wir geradezu die Donau abwärts. Das erste Boot brauchte nur 4,5 Stunden für die Strecke. Der Rest folgte etwas später. 
+Die Anlege am Steg vom Ruderverein Bratislava war wie immer eine Herausforderung. Starke Strömung, ein schlecht montierter Steg und eine übel steile Treppe erfordern viele helfende Hände und Standsicherheit.
+Wir hatten viel Zeit, um Bratislava zu besichtigen. Die Innenstadt ist sehr schön, der Aufstieg zur Burg auch. Der Blick von oben auf den Fluß ist grandios, der Blick in die Ferne nicht so. Hier sind endlos die Plattenbauten der Vorstädte zu sehen. In der Burg gab es dieses Mal sogar einen Mittelaltermarkt.
+Für das Abendessen hatten wir in unserem Stammlokal reserviert, günstige Preise, gute Portionen. In der Innenstadt gibt es sonst auch viel Touri-Nepp.
+Da uns eine Ruderin ungeplant schon wieder verlassen wollt, traf am Abend auch wieder Lingling ein, danke für die spontane Hilfe.
 
 
+In allen Unterlagen steht, dass man die Mossoni-Donau von Bratislava nicht auf dem Wasser erreichen kann. Die Alternative auf der alten Donau ist auch problematisch, da hier auf langer Strecke keine festen Quartiere existieren.
+Wir wissen wie man die Mossoni Donau erreicht. 
+Erstes aussetzen an der Staumauer, wiedereinsetzen über einen steilen Abhang in die stark strömende Mossoni.
+Zweites aussetzen 1km weiter im Ufergestrüpp direkt vor einem Wehr, umtragen über einen steilen Deich mit schmaler Treppe, wiedereinsetzen an einer Wiese.
+Danach erst mal eine längere Pause zur Erholung, bevor man die dritte Umtrage macht. Diese ist allerdings auf beiden Seiten leicht.
+Jetzt hat die stark strömende Mossoni Donau vor sich, allerdings mit Inseln, Nebenarmen und vielen Bäumen im Wasser. Schnelles reagieren ist unbedingt nötig. Falls das mit dem schnllen reagieren nicht klappt, hängt man mit der Strömung in Bäumen fest.
+Am Abend erreichten wir nach 59 km Moson-Magyarova. Unsere sehr einfache Pension lag direkt am Ufer, vor dem nächsten Wehr. Leider hatte seit dem letzten Mal die Küche stark nachgelassen. Wir wurden kaum satt.
+
+
+Am nächsten Morgen stellten wir fest, dass das eigentlich einfach zum umtragene Wehr umgebaut worden war (ich vermute EU Richtlinie für Fisch-Durchgängigkeit) und das ein umtragen hier unmöglich war. Nach einer Erkundung mit dem Zweier wurde beschlossen nicht am Fischpass umzutragen, sondern am senkrechten Wehr auf dem anderen Flussarm. Allerdings mussten wir dazu unsere Boot bis direkt vor das Wehr rudern, an einer 70 Grad geneigten Betonschräge herausnehmen, durch eine Wiese tragen und ebenso steil wieder einsetzen. Dank gemeinsamer Anstrengung und der Trittsicherheit einiger erfahrener Wanderruderer gelang das, aber es kostete Zeit.
+Danach waren noch 70 km bei guter Strömung zu rudern. Inseln, Engstellen, quer liegende Bäume ohne Ende. Schön wäre es wenn alle Ruderer auf Ruderkommandos sofort reagieren würden und nicht noch 5 Schläge auf der falschen Seite weiter rudern würden. Wir kamen immer wieder aus aus den Hindernissen, aber teilweise mussten Leute auf im Wasser liegende Bäume aussteigen und das Boot treideln um das Boot wieder flott zu kriegen.
+Glücklicherweise kamen alle Ruderer und alle Boote ohne größere Blessuren in Györ an. Hier lagerten wir die Boote beim örtlichen Ruderclub und spazierten zu unser Czarda am andren Ufer. 
+Der Landdienst hatte ein sehr schönes Restaurant am Marktplatz ausgesucht. Endlich mal mit Portionen, die auch für Ruderer reichten.
 
 
 
