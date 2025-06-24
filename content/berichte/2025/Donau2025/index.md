@@ -96,6 +96,19 @@ Glücklicherweise kamen alle Ruderer und alle Boote ohne größere Blessuren in 
 Der Landdienst hatte ein sehr schönes Restaurant am Marktplatz ausgesucht. Endlich mal mit Portionen, die auch für Ruderer reichten.
 
 
+Nach einiger Verwirrung fanden wir auch unser Frühstück am nächsten Morgen, das wurde in einer 400m entfernten Czarda serviert. Ein sehr gutes Frühstück, nur das mit den Kaffeemaschienen/Heißwasser müssen die Hotels doch irgendwann mal lernen.... Nicht hilfreich ist natürlich auch, wenn alle einen Kaffe haben wollen und eine Ruderin sich erst mal einen Liter Heißwasser abfüllt.
+Wieder auf dem Wasser galt es noch ein paar Kilometer Mossoni zu bewältigen. Wenig Strömung bis zur nächsten Schleuse, die dieses Jahr auch endlich fertig war, also kein lästiges Umtragen mehr. Danach erreichten wir wieder die Hauptdonau, die hier schon sehr breit ist. Trotz niedrigem Wasserstand reichte die Strömung, um uns entspant nach Komarno zu bringen.
+Unser Quartier lag hier auf der slowakischen Seite. Wir bogen ins Hafenbecken ab und der VL bekam vom Hafenmeister die Erlaubnis am ersten Yachthafen anzulegen. (schwierige Verhandlungen per Telefon, das das PPersonal vor Ort nur slowakisch sprach). 
+Von hier waren es nur wenige hundert Meter zu unserem Quartier.
+Da es noch früh am Tag war wurde durch den Ort spaziert, die örtlichen Eisdielen inspiziert und abends trafen wir uns in einer Pizzeria, in der der Landdienst vorbestellt hatte.
+Der VL hatte übersehen, dass unser Hotel ohne Frühstück war, also wurde schnell noch in der Nähe ein Frühstück bestellt.
+
+
+
+
+
+
+
 
 
 
