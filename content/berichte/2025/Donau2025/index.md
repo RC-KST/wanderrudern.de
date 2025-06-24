@@ -48,6 +48,34 @@ Ziel war eine Pension in Ardagger Markt, direkt am Ufer und mit einem Yachthafen
 Glücklicherweise funktionierte das Wlan, so dass Martin + Stefan der Sicherheitskonferenz des LRV Brandenburg beiwohnen konnten.
 
 
+Nach einem wirklich schlechten Frühstück ging es aufs Wasser. Die Strecke war wieder sehr reizvoll, praktisch die ganze Zeit durchs Gebirge. 28 Grad und Dauersonne, leider mit Gegenwind und das Gebirge bescherte uns einen Düseneffekt. Auch ein paar der Gastruderer sahen jetzt ein, warum wir gedeckte E-Boote rudern und keine C-Boote.
+Das Hauptproblem war leider die erste Schleuse. Der Schleusenwart weigerte sich uns zu schleusen, auch mitschleusen mit dem nächsten Schiff käme nicht in Frage. Wir sollten seine "Super" Umsetzanlage nutzen. Die Aussetzstelle lag direkt vor dem Turbineneinlauf des Kraftwerks, toll. Dann standen Bootswagen zur Verfügung bis 100kg. Wir hofften das sie nicht zusammenbrechen. Der Weg war lang zuletzt ging es eine schmale Rampe nach unten. Leider nicht bis zum Wasser. Sie endete 2m Höhenmeter über dem Wasser. Von hier mussten die Boote eine steile Treppe herunter geschleppt werden. Unten strömte es und Platz war auch keiner, so dass die Boote irgendwo am Steilhang gehalten werden mussten. Das ganze kostete uns 2 Stunden. Wir sind immer wieder dankbar für das qualifizierte Personal des WSA, das solche Hindernisse einbaut, sonst wäre Wanderrudern ja langweilig.
+Glücklicherweise machte die Schleuse Melk keine Probleme, so dass wir halbwegs früh in Melk beim Ruderclub anlegen konnten.
+Der Ruderclub hat sogar einen neuen Steg, der nicht mehr versinkt, wenn man ein Boot herauf trägt. Wir lagerten unsere Boote auf der Wiese und spazierten zu unserem Hotel.
+Dieses Mal waren wir in einem chinesischen Restaurant, direkt neben unser Pension, also wurden alle satt. (empfehlenswert)
+
+
+Die Etappe nach Tulln, 73 km war wieder sehr warm. Leider hatte sich der Gegenwind auf 5-6 Beaufort verstärkt. Die erste Hälfte ging es zum ersten Mal mit flotter Strömung durch die Wachau. Vielleicht die schönste Strecke auf unser Fahrt. Hohe Berge am Ufer, schöne Orte alles wunderbar, nur der Gegenwind nervte.
+Nachdem wir den Ort Stein passiert hatten war die Strömung schlagartig weg. Die Versuche den Uferdeich als Windschutz zu suchen waren mehr oder weniger erfolgreich.
+Kurz vor dem Ende erreichten wir die einzige Schleuse, die uns glücklicherweise nach einiger Wartezeit schleuste.
+Hinter der Schleuse hatten wir wieder etwas Strömung, so dass die letzten paar Kilometer nach Tulln etwas entspannter gingen.
+Übernachtung im kleinen Bootshaus des Rudervereins Tulln. Jeder fand irgendwo einen Schlafplatz.
+
+
+Auf dem Weg nach Wien, nur 33km erwischte uns leider das miese Wetter. Regen und Schiebewind, leider ziemlich starker Schiebewind. Ruderer sind halt nie zufrieden, aber die Einfahrt in die Schleuse vor Wien ist nicht so einfach, wenn die Wellen von hinten in die Schleuse laufen und vom vorderen Tor reflektiert werden. Immerhin ließ der Schleusenwart sich erweichen uns zu schleusen. Die Umtrage wäre hier doppelt gewesen. Rein in den toten Altarm, raus aus dem toten Altarm. Nicht wirklich was man sich wünscht.
+Bereits kurz nach Mittag erreichten wir das Bootshaus vom Ruderverein Donauhort und quartierten uns ein. Für die sechs ältesten Teilnehmer gab es sogar Betten.
+Auf eine Stadtbesichtigung hatte heute keiner mehr Lust, insbesondere weil am Nachmittag der Regen noch zunahm.
+Heute erfolgte auch der geplante Tausch von Schulze gegen eine Gastruderin, die für die zweite Woche nach Wien angereist war.
+
+
+Der Kulturtag in Wien wurde sehr unterschiedlich begangen, je nach Interesse und Motivation gab es mehr Kultur oder mehr Kaffeehauskultur.
+Schönbrunn mit seinem Park und dem beliebten Hecklabyrinth, der Naschmarkt, Hofburg, Opernhaus, Burgtheater und die Innenstadt. Gegen Abend fuhren einige mit dem Linienbus auf den Kahlenberg und wanderten von dort durch die Weinberge zurück Ruderclub. Nicht ohne ein paar Zwischenstops in den Heurigenlokalen, die dank des späten Osterfest dieses Jahr alle offen hatten.
+Abendessen hatten wir auch in einem Heurigenlokal in Nussdorf.
+
+
+
+
+
 
 
 
