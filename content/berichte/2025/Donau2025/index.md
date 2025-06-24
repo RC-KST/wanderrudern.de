@@ -114,13 +114,12 @@ Das Abendessen gabe es in einer Czarda ein Stük den Hang hoch in Richtung Innen
 Die Abschlussetappe nach Budapest stand an. Hinter Esztergom säumen die Donau auf beiden Seiten wieder hohe Berge. Bis zum Donauknie (Visegrad) hat man wieder eine spektakuläre Kulisse beim Rudern.
 Bei Visegrad biegt die Donau im rechten Winkel nach Süden ab und teilt sich in zwei Arme auf. Wir nahmen den schmaleren Szentendre Arm. Hier ist kaum Schifffahrt und es geht idyllisch durch eine recht einsame Landschaft. Dieser Arm trifft erst unmittelbar vor Budapest wieder auf den Hauptarm. Wenig später lag auch schon unser Ziel der Külker Ruderverein. 
 Der mit weitem Vorsprung ankommende "Jugend-Zweier" entschloss sich zusätzlich zu den 62 km, noch einen kleine Runde um die Margareteninsel und zum Parlament zu drehen (+16 km). Der Haken an der Sache 8km runter und 8km wieder hoch und die Donau strömte hier sehr gut. Danach waren die drei halbwegs ausgelastet.
+Unser Quartier bestand aus 2-3 Bettzimmern mit Betten und einer allerdings etwas behelfsmässigen Küche.
+
+Am nächsten Morgen drehten auch drei ältere Ruderkameraden noch die Runde um die Margaretheninsel, bevor es zur Stadtbesichtigung ging.
+Allerdings machte knapp die Hälfte der Mannschaft sich bereits heute auf den Rückweg und verschmähte die Stadtbesichtigung, was wirklich schade ist, den Budapest ist wirklich eine schöne Stadt.
+Der Rest besuchte die Burg, Fischerbastei, den heiligen Stefan, das Sisi- Denkmal, den Heldenplatz und natürlich die Margaretheninsel, bevor es wieder zurück zum Ruderverein ging.
 
 
-
-
-
-
-
-
-
+Am Sonntag fuhr der Anhängertransport die gut 900 km zurück nach Stahnsdorf. 
 
