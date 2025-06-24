@@ -98,13 +98,22 @@ Der Landdienst hatte ein sehr schönes Restaurant am Marktplatz ausgesucht. Endl
 
 Nach einiger Verwirrung fanden wir auch unser Frühstück am nächsten Morgen, das wurde in einer 400m entfernten Czarda serviert. Ein sehr gutes Frühstück, nur das mit den Kaffeemaschienen/Heißwasser müssen die Hotels doch irgendwann mal lernen.... Nicht hilfreich ist natürlich auch, wenn alle einen Kaffe haben wollen und eine Ruderin sich erst mal einen Liter Heißwasser abfüllt.
 Wieder auf dem Wasser galt es noch ein paar Kilometer Mossoni zu bewältigen. Wenig Strömung bis zur nächsten Schleuse, die dieses Jahr auch endlich fertig war, also kein lästiges Umtragen mehr. Danach erreichten wir wieder die Hauptdonau, die hier schon sehr breit ist. Trotz niedrigem Wasserstand reichte die Strömung, um uns entspant nach Komarno zu bringen.
-Unser Quartier lag hier auf der slowakischen Seite. Wir bogen ins Hafenbecken ab und der VL bekam vom Hafenmeister die Erlaubnis am ersten Yachthafen anzulegen. (schwierige Verhandlungen per Telefon, das das PPersonal vor Ort nur slowakisch sprach). 
+Unser Quartier lag hier auf der slowakischen Seite. Wir bogen ins Hafenbecken ab und der VL bekam vom Hafenmeister die Erlaubnis am ersten Yachthafen anzulegen. (schwierige Verhandlungen per Telefon, da das Personal vor Ort nur slowakisch sprach). Übrigens ohne Liegegebühr im Unterschied zu Österreich.
 Von hier waren es nur wenige hundert Meter zu unserem Quartier.
 Da es noch früh am Tag war wurde durch den Ort spaziert, die örtlichen Eisdielen inspiziert und abends trafen wir uns in einer Pizzeria, in der der Landdienst vorbestellt hatte.
 Der VL hatte übersehen, dass unser Hotel ohne Frühstück war, also wurde schnell noch in der Nähe ein Frühstück bestellt.
 
 
+Diesen Tag war die Hitze schier unerträglich geworden. Aber wir hatten Glück, das Gewitter kam erst am Abend. Die Etappe war mit 49km nicht allzu lang.
+Auf ungarischer Seite näherte sich eine Bergkette der Donau, auf slowakischer Seite war die Landschaft flach. Bei der Anfahrt auf Esztergom sieht man schon von weitem die Krönungskirche der Ungarischen Könige. Kurz vor dem Ort bogen wir in die alte Donau ab, einem schmalen Graben mit noch weniger Wasser als sonst und legten am Steg des örtlichen Ruderclubs an. Hier durften wir unsere Boote lagern.
+Nur ein paar Schritte weiter war unser Quartier beim örtlichen Rugby Club. Einfache Zimmer, aber alles OK für Ruderer.
+Die Stadtbesichtigung wurde von einigen Regenschauern gestört, aber die meisten blieben halbwegs trocken.
+Das Abendessen gabe es in einer Czarda ein Stük den Hang hoch in Richtung Innenstadt. Die Restaurants auf der Insel sind touristische Nepp-Läden (Erfahrung vom letzen Mal)
 
+
+Die Abschlussetappe nach Budapest stand an. Hinter Esztergom säumen die Donau auf beiden Seiten wieder hohe Berge. Bis zum Donauknie (Visegrad) hat man wieder eine spektakuläre Kulisse beim Rudern.
+Bei Visegrad biegt die Donau im rechten Winkel nach Süden ab und teilt sich in zwei Arme auf. Wir nahmen den schmaleren Szentendre Arm. Hier ist kaum Schifffahrt und es geht idyllisch durch eine recht einsame Landschaft. Dieser Arm trifft erst unmittelbar vor Budapest wieder auf den Hauptarm. Wenig später lag auch schon unser Ziel der Külker Ruderverein. 
+Der mit weitem Vorsprung ankommende "Jugend-Zweier" entschloss sich zusätzlich zu den 62 km, noch einen kleine Runde um die Margareteninsel und zum Parlament zu drehen (+16 km). Der Haken an der Sache 8km runter und 8km wieder hoch und die Donau strömte hier sehr gut. Danach waren die drei halbwegs ausgelastet.
 
 
 
