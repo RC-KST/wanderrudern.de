@@ -19,7 +19,6 @@ images:
 - src: "./images/20250531_205441.jpg"
 - src: "./images/20250601_072041.jpg"
 - src: "./images/20250601_164356.jpg"
-  title: "Dorf an der Lahn"
 ---
 
 # Warthe von Kolo nach Gorzow
