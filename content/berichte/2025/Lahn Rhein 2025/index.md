@@ -36,7 +36,7 @@ images:
   title: "Lahn Pause"
 - src: "./images/Lahn_Vierer2025.jpg"
   title: "Ruderboot auf Lahn"
-  - src: "./images/BadEms_Kurhaus2025.jpg"
+- src: "./images/BadEms_Kurhaus2025.jpg"
   title: "Bad Ems Kurhaus"
 - src: "./images/BadEms_Ruderverein2025.jpg"
   title: "Ruderverein Bad Ems"
