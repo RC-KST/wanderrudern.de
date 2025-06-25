@@ -16,7 +16,7 @@ images:
 - src: "./images/Äquatorpreis_4-fach_Stefan_2023.jpg"
   title: "Stefan vierfacher Äquatorpreis"
 
-title: Äquatorpreisträges des RC KST
+title: Äquatorpreisträger des RC KST
 ---
 
 # Äquatorpreisträger des Ruderclub KST
