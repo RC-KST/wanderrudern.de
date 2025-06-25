@@ -65,7 +65,7 @@ images:
 
 # Lahn von Weilburg bis Bonn am Rhein 2025
 
-Am 3. Mai fand dieses Jahr die EUREGA Rheinregatta über 100 km statt. Da bot es sich an am langen Wochenende in dieser Gegend eine Wanderfahrt zu unternehmen.
+Am 3. Mai fand dieses Jahr die [EUREGA Rheinregatta](../eurega_2025/index.md) über 100 km statt. Da bot es sich an am langen Wochenende in dieser Gegend eine Wanderfahrt zu unternehmen.
 Am Mittwoch ging es mit großer Mannschaft los, nach Weilburg an der Lahn. 
 Wir übernachteten im Bootshaus des dortigen Rudervereins. Bis spät in den Abend wurde gegrillt.
 
