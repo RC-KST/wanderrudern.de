@@ -1,3 +1,4 @@
 ---
-hidden: true
+title: English
+weight: 100
 ---
