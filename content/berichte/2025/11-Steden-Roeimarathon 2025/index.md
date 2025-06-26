@@ -11,12 +11,10 @@ länder:
 - niederlande
 typen: marathon
 images:
-- src: images/boot_fertig.jpg
-  title: Boot fertig vorbereitet
-- src: images/neuwied_vorbeifahrt.jpg
-  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
-- src: ./images/neuwied_vorbeifahrt_2.jpg
-  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
+- src: images/Boot11-steden2025.jpg
+  title: Regattaboot
+- src: images/Sieger11-steden2025.jpg
+  title: Sieger der 11-steden Regatta
 ---
 Am Himmelfahrtswochenende fand der 39. Elfsteden Roeimarathon statt. Insgesamt nahmen 98 Teams an der Veranstaltung teil.
 Der Großteil der Teams fährt diesen 208km langen Marathon als Staffel mit bis zu 12 Teammitgliedern pro Boot.
@@ -26,4 +24,4 @@ Gestartet sind wir am Freitag um 20:08 Uhr. Von da an hieß es rudern. Nach eine
 
 Nach insgesamt 20 Stunden 55 Minuten und 39 Sekunden erreichten wir am Samstag das Ziel als erster Platz in der unserer Klasse und als 26ter in der Gesamtwertung.
 
-![Zieleinfahrt](images/zieleinfahrt.jpg)
+![Sieger](images/Sieger11-steden2025.jpg)
