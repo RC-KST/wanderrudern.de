@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Eurega 2025
+title: 11-Steden-Roeimarathon 2025
 #author: "Tim"
 begin: 2025-05-29
 end: 2025-05-31
