@@ -11,19 +11,19 @@ länder:
 - deutschland
 typen: veranstaltung
 images:
-- src: images/boot_fertig.jpg
-  title: Boot fertig vorbereitet
-- src: images/neuwied_vorbeifahrt.jpg
-  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
-- src: ./images/neuwied_vorbeifahrt_2.jpg
-  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
+- src: images/Boote_am_Steg_T2025.jpg
+  title: Ruderboote beim Tag der offenen Tür 2025
+- src: images/Barke_T2025.jpg
+  title: Barke auf dem Teltowkanal
 ---
 
+Anfang Mai fanden unsere Tage der offenen Tür statt. Bei bestem Wetter fanden zahlreiche Besucher den Weg auf unser Clubgelände am Teltowkanal.
+Samstag und Sonntag waren pausenlos 4-5 Boote im Einsatz, um allen Gästen das Proberudern zu ermöglichen.
+Unser Catering- Team war auch gut beschäftigt damit niemand hungrig oder durstig blieb.
+Wir hoffen, dass es allen gefallen hat und wir zahlreiche neue Ruderer gewonnen haben.
+![Boote im Einsatz](images/Boote_am_Steg_T2025.jpg)
+Mit 30 Anmeldungen für den folgenden Anfängerkurs sind unsere Obleute auf jeden Fall erst einmal gut beschäftigt.
 
-
-![Zieleinfahrt](images/zieleinfahrt.jpg)
-
-
-
-![Mannschaft im Ziel](images/mannschaft_im_ziel.jpg)
+Auch unsere Barke war natürlich im Einsatz
+![Barke](images/Barke_T2025.jpg)
 
