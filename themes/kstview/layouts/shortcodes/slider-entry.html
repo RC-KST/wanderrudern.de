@@ -17,12 +17,16 @@
 {{- $text := .Get "text" }}
 {{- $img := .Get "img" }}
 {{- $slideshow_id := .Parent.Get "id" }}
+
+{{- $img_resource := page.Resources.Get $img }}
+{{- if not $img_resource }}{{ $img_resource = resources.Get $img }}{{ end }}
+{{- with $img_resource }}
 <div
     class="absolute left-0 top-0 opacity-0 w-full h-full
         object-cover bg-cover bg-center slideshow_slides_{{ $slideshow_id }}"
     style="transition: opacity 1s ease-in-out;
-        background-image: url(&quot;{{ (resources.Get $img).Permalink }}&quot;);"
-    data-href="{{- if $href }}{{- $.Page.Ref (dict "path" $href "lang" "de") }}{{ else }}#{{ end }}"
+        background-image: url(&quot;{{ $img_resource.Permalink }}&quot;);"
+    data-href="{{- if $href }}{{- page.Ref (dict "path" $href "lang" "de") }}{{ else }}#{{ end }}"
 >
     {{ with $text }}
     <div class="text-center text-white text-lg px-9 py-2
@@ -30,3 +34,4 @@
     >{{ . }}</div>
     {{ end }}
 </div>
+{{- end }}
