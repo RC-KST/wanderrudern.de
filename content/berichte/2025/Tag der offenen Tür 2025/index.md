@@ -15,6 +15,8 @@ images:
   title: Ruderboote beim Tag der offenen Tür 2025
 - src: images/Barke_T2025.jpg
   title: Barke auf dem Teltowkanal
+- src: images/Party2025.jpg
+  title: Tag der offenen Tür
 ---
 
 Anfang Mai fanden unsere Tage der offenen Tür statt. Bei bestem Wetter fanden zahlreiche Besucher den Weg auf unser Clubgelände am Teltowkanal.
@@ -28,3 +30,7 @@ Auch unsere Barke war natürlich im Einsatz
 ![Barke](images/Barke_T2025.jpg)
 
 Auf jeden Fall hat der neue Steg die Abläufe erheblich erleichtert. Weniger Gedrängel und niemand drohte ins Wasser zu fallen.
+
+![Party](images/Party2025.jpg)
+
+Wegen des guten Wetters musste nicht einmal das Festzelt aufgebaut werden.
