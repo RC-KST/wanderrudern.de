@@ -19,7 +19,6 @@ images:
 - src: "./images/Glasblaeser2025.jpg"
 - src: "./images/Gondel_2.jpg"
 - src: "./images/Gondel_6.jpg"
-- src: "./images/Gondel_maximum.jpg"
 - src: "./images/Barke_Canale_Grande2025.jpg"
 - src: "./images/Barke_Cannaregio2025.jpg"
 - src: "./images/Barke_Heck2025.jpg"
