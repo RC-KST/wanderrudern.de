@@ -27,3 +27,4 @@ Mit 30 Anmeldungen für den folgenden Anfängerkurs sind unsere Obleute auf jede
 Auch unsere Barke war natürlich im Einsatz
 ![Barke](images/Barke_T2025.jpg)
 
+Auf jeden Fall hat der neue Steg die Abläufe erheblich erleichtert. Weniger Gedrängel und niemand drohte ins Wasser zu fallen.
