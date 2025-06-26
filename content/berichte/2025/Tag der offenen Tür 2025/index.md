@@ -32,3 +32,5 @@ Auch unsere Barke war natürlich im Einsatz
 Auf jeden Fall hat der neue Steg die Abläufe erheblich erleichtert. Weniger Gedrängel und niemand drohte ins Wasser zu fallen.
 
 ![Party](images/Party2025.jpg)
+
+Wegen des guten Wetters musste nicht einmal das Festzelt aufgebaut werden.
