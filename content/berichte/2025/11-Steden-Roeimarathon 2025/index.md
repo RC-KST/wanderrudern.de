@@ -16,6 +16,7 @@ images:
 - src: images/Sieger11-steden2025.jpg
   title: Sieger der 11-steden Regatta
 ---
+
 Am Himmelfahrtswochenende fand der 39. Elfsteden Roeimarathon statt. Insgesamt nahmen 98 Teams an der Veranstaltung teil.
 Der Großteil der Teams fährt diesen 208km langen Marathon als Staffel mit bis zu 12 Teammitgliedern pro Boot.
 Dieses Jahr starteten 3 von den 98 Teams in der "3er Bullen" Klasse. In dieser Klasse rudern die Ruderer die gesamte Strecke durch und tauschen lediglich im Boot den Steuermann durch. 
