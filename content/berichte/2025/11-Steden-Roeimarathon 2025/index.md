@@ -18,24 +18,12 @@ images:
 - src: ./images/neuwied_vorbeifahrt_2.jpg
   title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
 ---
+Am Himmelfahrtswochenende fand der 39. Elfsteden Roeimarathon statt. Insgesamt nahmen 98 Teams an der Veranstaltung teil.
+Der Großteil der Teams fährt diesen 208km langen Marathon als Staffel mit bis zu 12 Teammitgliedern pro Boot.
+Dieses Jahr starteten 3 von den 98 Teams in der "3er Bullen" Klasse. In dieser Klasse rudern die Ruderer die gesamte Strecke durch und tauschen lediglich im Boot den Steuermann durch. 
+Der Clever Ruder Club ist zusammen mit dem RC KST, vertreten durch Tim, als 3er Team mit der Startnummer 23 angetreten. 
+Gestartet sind wir am Freitag um 20:08 Uhr. Von da an hieß es rudern. Nach einer sehr nebeligen Nacht, waren wir froh, diese ohne Schäden überstanden zu haben und wieder im Hellen rudern zu können. 
 
-Parallel zur EUREGA lief vom KST noch eine Wanderfahrt auf der Lahn, bei der wir uns für den ersten Rudertag (Donnerstag) einklinkten.
-Am Freitag frühstückten wir noch mit der restlichen Rudermannschaft.
-Nachdem die Boote abgefahren waren, machten wir uns mit dem Hänger auf den Weg zum Einsatzort Sankt Goar.
-Im Unterschied zu den letzten Jahren waren wir auf einem Campingplatz auf der linksrheinischen Seite untergebracht, weswegen wir die Entscheidung getroffen hatten, unser Boot auch auf dieser Seite auf dem Grundstück des Wassersportverein St. Goar 1924 e.V. vorzubereiten.
-Wir luden die Shannon also dort ab und bereiteten sie, soweit es ging, vor.
-
-Nach dem Einkaufen ging zum Campingplatz um uns bei der Rennleitung anzumelden.
-Wir trafen dort auf unsere Mitrudernden Marvin und Mila vom Oldenburger Ruderverein (ORVO), die getrennt angereist waren.
-Nachdem die Zelte aufgebaut waren, wurde das traditionelle Nudelessen veranstaltet; und anschließend die Sicherheitseinweisung für die Regatta gegeben.
-
-Nach einer (hoffentlich) halbwegs erholsamen Nacht wurde beim Frühstück das letzte Essen für das Boot vorbereitet, die Zelte abgebaut, alles zusammengepackt und im eigenen Auto oder beim Landdienst der ORVOs deponiert.
-Nach dem Einsetzen ging es zum Start; also ein paar hundert Meter den Rhein aufwärts und auf die andere Seite des Rheins. So bekamen wir zumindest noch einmal die Möglichkeit, ein paar Meter vor der Regatta alle gemeinsam gefahren zu sein.
-
-Dieses Jahr starteten wir im hinteren Mittelfeld.
-Somit hatten wir die meiste Zeit genügend Boote vor uns, um uns zu motivieren.
-Das Wetter war, bis auf ein paar Tropfen, mit angenehmen Temperaturen und bewölktem Himmel sehr gnädig zu uns.
-Ca. 20 Kilometer vor dem Ziel holte uns der QuadTiger ein, was unsere Mannschaft noch einmal immens motivierte.
-Wir lieferten uns ein erbittertes Rennen, das bis zur Ziellinie anhielt und bei dem am Ende auch die Mannschaft "Row with the Flow" mit einstieg.
+Nach insgesamt 20 Stunden 55 Minuten und 39 Sekunden erreichten wir am Samstag das Ziel als erster Platz in der unserer Klasse und als 26ter in der Gesamtwertung.
 
 ![Zieleinfahrt](images/zieleinfahrt.jpg)
