@@ -9,16 +9,11 @@ title: Home
     {{< slider-entry
         text="Der Steg ist da!"
         img="bundle/backdrops/club-gelaende.jpg"
-        href="#1" >}}
+        href="#" >}} 
     {{< slider-entry
-        text="Nirina jüngste Äquatorpreisträgerin aller Zeiten"
+        text="Erfolgreicher "
         img="bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
-        href="#2" >}},
-    {{< slider-entry
-        text="In Gedenken an Bernhard Giefer"
-        img="images/Bernd_mit_wilder_Kuh_L10.jpg"
-        href="./neuigkeiten/2024/in_gedenken_an_bernhard_giefer/index.md"
-        >}}
+        href="./neuigkeiten/2023/äqutorpreisträger/index.md" >}},
 {{< /slider >}}
 
 {{< column-layout >}}
