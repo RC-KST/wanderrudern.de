@@ -153,6 +153,7 @@ menus:
     - name: Wettbewerbe
       pageRef: /club/wettbewerbe
       weight: 30
+      parent: Club
     - name: Clubkleidung
       pageRef: /club/clubkleidung
       weight: 40
