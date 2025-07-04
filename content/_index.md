@@ -11,7 +11,7 @@ title: Home
         img="bundle/backdrops/club-gelaende.jpg"
         href="#" >}} 
     {{< slider-entry
-        text="Erfolgreicher "
+        text="Äquatorpreisträger in Kleinmachnow"
         img="bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
         href="./neuigkeiten/2023/äqutorpreisträger/index.md" >}},
 {{< /slider >}}
