@@ -150,33 +150,36 @@ menus:
       pageRef: /club/marathon
       weight: 20
       parent: Club
+    - name: Wettbewerbe
+      pageRef: /club/wettbewerbe
+      weight: 30
     - name: Clubkleidung
       pageRef: /club/clubkleidung
-      weight: 30
+      weight: 40
       parent: Club
     - name: Schulungen
       pageRef: /club/schulungen
-      weight: 40
+      weight: 50
       parent: Club
     - name: Gäste
       pageRef: /club/gaeste
-      weight: 50
+      weight: 60
       parent: Club
     - name: Vorstand
       pageRef: /club/vorstand
-      weight: 60
+      weight: 70
       parent: Club
     - name: Wochentermine
       pageRef: /club/wochentermine
-      weight: 70
+      weight: 80
       parent: Club
     - name: Datenschutz
       pageRef: /club/datenschutz
-      weight: 80
+      weight: 90
       parent: Club
     - name: Impressum
       pageRef: /club/impressum
-      weight: 90
+      weight: 100
       parent: Club
 
 taxonomies:
