@@ -2,7 +2,7 @@
 {{- $lang := site.Language.Lang }}
 {{- with page.Params.language }}{{ $lang = . | safeHTML }}{{- end }}
 
-<html lang="{{ $lang }}" class="h-full">
+<html lang="{{ $lang }}" class="min-h-full flex flex-col">
     <head>
         {{- partial "head-meta.html" . -}}
 
@@ -63,7 +63,7 @@
         {{- block "head" . }}{{ end -}}
     </head>
     
-    <body class="h-full flex flex-col">
+    <body class="min-h-full flex-grow flex flex-col items-stretch">
         {{- partial "nav.html" . -}}
         <div class="min-h-full w-full h-auto fixed top-0 left-0
                 bg-white -z-10 bg-center bg-cover bg-no-repeat
