@@ -31,7 +31,7 @@ params:
       - key: data_protection
         href: /club/datenschutz
       - key: archive
-        href: https://wanderrudern-archiv.de
+        href: http://archiv.wanderrudern.de
   meta:
     publisher: Ruderclub Kleinmachnow Stahnsdorf Teltow
     copyright: Stefan Biastock
