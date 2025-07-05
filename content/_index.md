@@ -9,7 +9,7 @@ title: Home
     {{< slider-entry
         text="Der Steg ist da!"
         img="bundle/backdrops/club-gelaende.jpg"
-        href="#" >}} 
+        href="./berichte/2024/stegeinweihung_2024/index.md" >}} 
     {{< slider-entry
         text="Äquatorpreisträger in Kleinmachnow"
         img="bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
