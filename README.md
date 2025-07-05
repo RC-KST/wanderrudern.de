@@ -27,7 +27,43 @@ Dies ist das Wanderrudern.de Website-Gerüst für den Static Site Generator Hugo
 ## Seiten-Layout und Basisnutzung
 
 Alle Seiten nutzen [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) als Formatierungssprache.
-Basis-Formatierung ist damit möglich, wird aber größtenteils von der Seite übernommen (Absätze, Überschriften, Stichpunkte, Bilder, Links).
+Grundlegende formatierung ist damit möglich (Absätze, Überschriften, Stichpunkte, Bilder, Links, fette Schrift).
+
+Seiten können verschieden aufgebaut sein.
+
+### alleinstehende Seiten
+
+Alleinstehende Seiten bestehen nur aus einer md-Datei. Es wird für sie ein Pfad mit dem Namen der Datei erstellt. Bei diesem Beispiel also `/club/vorstand`
+
+```
+|  club/
+ \   vorstand.md
+```
+
+### Leaf-Bundle
+
+Sogenannte "Leaf-Bundles" sind Seiten, die eigene Resourcen nutzen und _keine_ Unterseiten haben. Hier wird der Pfad wiefolgt erstellt: `/club/clubkleidung`
+
+Zu beachten ist hier die `index.md` _ohne_ Unterstrich vor dem Namen (heißt: keine Unterseiten)
+
+```
+|  club/
+\    clubkleidung/
+  \    index.md
+```
+
+Auf dieser Seite können zusätzliche Resourcen eingebunden werden, die im Ordner neben der `index.md` abgelegt werden müssen.
+
+### Branch-Bundle
+
+Sognenannte "Branch-Bundles" sind Seiten, die auf Unterseiten verteilen, also Indexseiten sind (siehe z.B. `/club`). Sie sind ähnlich strukturiert wie Leaf-Bundles, allerdings mit einem kleinen Unterschied:
+
+```
+|  club/
+ \   _index.md
+```
+
+Die `_index.md` signalisiert, dass hier Unterseiten angezeigt werden müssen.
 
 ## Frontmatter
 
