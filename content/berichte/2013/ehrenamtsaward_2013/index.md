@@ -3,22 +3,14 @@ author: ""
 begin: "2013-04-01"
 date: "2013-04-04T01:00:00+02:00"
 gewässer:
-- donau
-- fulda
-- orivesi
 images:
 - src: images/Ehrenamtsaward_nachwuchsmannschaft_des_Jahres_2014_rc_kst.jpg
   title: Ehrenamtsaward nachwuchsmannschaft des Jahres 2014 rc kst
 länder:
-- bulgarien
+- deutschland
 title: Ehrenamtsaward 2013
-typen: marathon
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
