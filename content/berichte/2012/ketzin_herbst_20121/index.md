@@ -4,7 +4,6 @@ begin: "2012-11-01"
 date: "2012-11-11T01:00:00+02:00"
 gewässer:
 - havel
-- oder
 images:
 - src: images/Marlies_in_Brandenburg_Ketzin_2012.jpg
   title: Marlies in Brandenburg Ketzin 2012
@@ -14,16 +13,11 @@ images:
   title: Auf der Havel nach Ketzin 2012
 - src: images/Vierer_in_Ketzin_Herbst_2012.jpg
   title: Vierer in Ketzin Herbst 2012
-länder: []
+länder: 
+- deutschland
 title: Ketzin Herbst 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Herbstfahrt nach Ketzin vom 16.-18. November 2012
