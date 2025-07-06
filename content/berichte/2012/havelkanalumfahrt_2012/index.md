@@ -4,7 +4,7 @@ begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
 - havel
-- oder
+- havelkanal
 images:
 - src: images/Machnower_Schleuse_Ruderverein_Morgens_2012.jpg
   title: Machnower Schleuse Ruderverein Morgens 2012
@@ -16,17 +16,11 @@ images:
   title: 100 km Tour Spandauer Schleuse 2012
 - src: images/Sternfahrt_Hevella_2012.jpg
   title: Sternfahrt Hevella 2012
-länder: []
+länder: 
+- deutschland
 title: Havelkanalumfahrt 2012
-typen: wanderfahrt
+typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Havelkanalumfahrt 100km- Runde
 
