@@ -4,7 +4,6 @@ begin: "2010-11-01"
 date: "2010-11-11T01:00:00+02:00"
 gewässer:
 - havel
-- oder
 images:
 - src: images/Ruderervierer_auf_dem_Sacrow_Paretzer_Kanal_K10.jpg
   title: Ruderervierer auf dem Sacrow Paretzer Kanal K10
@@ -12,16 +11,11 @@ images:
   title: Ruderzweier auf dem Weg nach Brandenburg K10
 - src: images/Vierer_in_Brandenburg_K10.jpg
   title: Vierer in Brandenburg K10
-länder: []
+länder: 
+- deutschland
 title: Ketzin Herbst 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Traditionelle Eisfahrt“ Ketzin 12. – 14.11.2010
