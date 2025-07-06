@@ -15,16 +15,11 @@ images:
   title: Schrott vor dem Haus 2010
 - src: images/Ruine_auf_dem_Clubgelaende_2010.jpg
   title: Ruine auf dem Clubgelaende 2010
-länder: []
+länder: 
+- deutschland
 title: Erweiterungsgelaende 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Der RC KST erhält sein Erweiterungsgelände
