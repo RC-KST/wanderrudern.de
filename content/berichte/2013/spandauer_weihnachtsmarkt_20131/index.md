@@ -10,16 +10,11 @@ images:
   title: Spandau Muehlengraben 2013
 - src: images/Spandauer_Weihnachtsmarkt_2013.jpg
   title: Spandauer Weihnachtsmarkt 2013
-länder: []
+länder: 
+- deutschland
 title: Spandauer Weihnachtsmarkt 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spandauer Weihnachtsmarkt 1. Advent 2013
