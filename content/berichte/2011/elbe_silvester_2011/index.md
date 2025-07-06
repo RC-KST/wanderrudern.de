@@ -27,17 +27,11 @@ images:
   title: Ablegen Neujahr 2012 Arneburg
 - src: images/Ruderboote_Wittenberge_Silvesterfahrt_2011.jpg
   title: Ruderboote Wittenberge Silvesterfahrt 2011
-länder: []
+länder: 
+- deutschland
 title: Elbe Silvester 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Fahrtenbericht Silvesterfahrt 2011/2012, 26.12.2011 – 03.01.2012
 
