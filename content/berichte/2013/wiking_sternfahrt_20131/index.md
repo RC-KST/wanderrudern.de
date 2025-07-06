@@ -12,16 +12,11 @@ images:
   title: Ruderer am Urbanhafen Wiking 2013
 - src: images/Landwehrkanal_Wiking_2013.jpg
   title: Landwehrkanal Wiking 2013
-länder: []
+länder: 
+- deutschland
 title: Wiking Sternfahrt 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wiking- Sternfahrt 2013
