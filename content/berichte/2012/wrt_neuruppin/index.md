@@ -2,7 +2,9 @@
 author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- ruppiner see
+- havel
 images:
 - src: images/Party_beim_WRT_Neuruppin_2012.jpg
   title: Party beim WRT Neuruppin 2012
@@ -10,16 +12,11 @@ images:
   title: Ruppiner Kanal 2012
 - src: images/Ruppiner_See__2012.jpg
   title: Ruppiner See _2012
-länder: []
+länder: 
+- deutschland
 title: Landeswanderrudertreffen Neuruppin
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Landeswanderrudertreffen 2012 Neuruppin
