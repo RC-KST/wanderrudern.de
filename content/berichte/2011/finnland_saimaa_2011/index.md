@@ -3,10 +3,6 @@ author: ""
 begin: "2011-05-01"
 date: "2011-05-05T01:00:00+02:00"
 gewässer:
-- inn
-- aller
-- oder
-- bug
 - saimaa
 - orivesi
 images:
@@ -127,18 +123,10 @@ images:
 - src: images/Abreise_S11.jpg
   title: Abreise S11
 länder:
-- deutschland
 - finnland
-- schweden
 title: Finnland Saimaa 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Saimaa Seenplatte
