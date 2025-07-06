@@ -6,8 +6,8 @@ gewässer:
 - rhein
 - mosel
 - saar
-- aller
-- oder
+- saar kohle kanal
+- rhein marne kanal
 images:
 - src: images/Hotel_Cactus_Buhl_Lorraine_2013.jpg
   title: Hotel Cactus Buhl Lorraine 2013
@@ -115,12 +115,6 @@ typen: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Saar- Mosel- Rheinwanderfahrt Herbst 2013
 
 
@@ -130,9 +124,7 @@ Diesmal sollte die Wanderfahrt in den französischen Bergen starten, wir wollten
 
 Und wirklich wir müssen jetzt unumwunden zugeben, dass die VNF (WSA) recht hatte:
 
-französische Schiffshebewerke
-
-sind lebensgefährlich.
+französische Schiffshebewerke sind lebensgefährlich.
 
 Im Sommer 2013 ist das Schiffshebewerk von Niderviller abgerutscht. Ein gerade im Einfahren befindliches Rundfahrtsschiff hat glücklicherweise den Trog blockiert, sonst wäre er 40m in die Tiefe gerutscht mit allen Booten die im Oberwasser gewartet haben. So wurde nur der im Unterwasser gelegene Ort überschwemmt und alle Yachten im Oberwasser kippten im trockenen Kanal um. Ein nahe dem Trog gelegenes Not-Schutztor gab es nicht.
 
