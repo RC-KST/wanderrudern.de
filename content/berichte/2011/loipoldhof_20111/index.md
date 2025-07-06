@@ -3,7 +3,6 @@ author: ""
 begin: "2011-08-01"
 date: "2011-08-08T01:00:00+02:00"
 gewässer:
-- po
 images:
 - src: images/Loipoldhof_2011.jpg
   title: Loipoldhof 2011
@@ -75,16 +74,11 @@ images:
   title: Aufstieg Kufstein Martin Nirina Jonathan Loipold 11
 - src: images/Nirina_im_Geroellfeld_Loipold_11.jpg
   title: Nirina im Geroellfeld Loipold 11
-länder: []
+länder:
+- österreich
 title: Loipoldhof 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwandern auf dem Loipoldhof
