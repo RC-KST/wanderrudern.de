@@ -4,8 +4,6 @@ begin: "2013-03-01"
 date: "2013-03-03T01:00:00+02:00"
 gewässer:
 - donau
-- oder
-- erne
 images:
 - src: images/Bazias_Startpunkt_an_der_Donau_2013.jpg
   title: Bazias Startpunkt an der Donau 2013
@@ -110,16 +108,10 @@ images:
 länder:
 - ungarn
 - bulgarien
-- serbien
+- rumänien
 title: Donau 2013 Rumänien Bulgarien
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donauwanderfahrt Eisernes Tor - Calarasi 2013
