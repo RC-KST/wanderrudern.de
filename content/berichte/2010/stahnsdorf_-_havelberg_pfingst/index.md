@@ -17,16 +17,11 @@ images:
   title: kurz vor Plaue Havel10
 - src: images/Steuermann_auf_der_Havel_10.jpg
   title: Steuermann auf der Havel 10
-länder: []
+länder:
+- deutschland
 title: Stahnsdorf - Havelberg Pfingsten 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Havel vom Bootshaus bis (fast) zum Ende
