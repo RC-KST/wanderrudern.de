@@ -5,6 +5,7 @@ date: "2011-08-08T01:00:00+02:00"
 gewässer:
 - havel
 - zernsee
+- emster kanal
 images:
 - src: images/Sockbrot_am_Lagerfeuer_Lehnin_2011.jpg
   title: Sockbrot am Lagerfeuer Lehnin 2011
@@ -24,16 +25,11 @@ images:
   title: Badefloss Lehnin WRT 2011
 - src: images/Emster_Kanal_Lehnin_2011.jpg
   title: Emster Kanal Lehnin 2011
-länder: []
+länder: 
+- deutschland
 title: Lehnin Wanderrudertreffen 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Brandenburger Wanderrudertreffen
