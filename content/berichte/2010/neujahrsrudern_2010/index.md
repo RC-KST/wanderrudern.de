@@ -2,7 +2,8 @@
 author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- stölpchensee
 images:
 - src: images/Schnee_vom_Dach_des_Bootslagers_raeumen_2010.jpg
   title: Schnee vom Dach des Bootslagers raeumen 2010
@@ -16,15 +17,11 @@ images:
   title: Rudervierer auf dem Wannsee Neujahr 2010
 - src: images/Ruderboot_im_Eis_des_Stolpchensee_2010.jpg
   title: Ruderboot im Eis des Stölpchensee 2010
-länder: []
+länder:
+- deutschland
 title: Neujahrsrudern 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
