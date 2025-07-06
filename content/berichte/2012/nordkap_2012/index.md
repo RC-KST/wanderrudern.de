@@ -3,10 +3,9 @@ author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
-- inn
-- oder
 - porsangenfjord
 - barentssee
+- eismeer
 images:
 - src: images/Anreise_zum_Porsangenfjord_2012.jpg
   title: Anreise zum Porsangenfjord 2012
@@ -81,19 +80,10 @@ images:
 - src: images/Ruderer_am_Polarkreis_2012.jpg
   title: Ruderer am Polarkreis 2012
 länder:
-- deutschland
-- finnland
 - norwegen
-title: Finnland Inari 2012
+title: Nordkapfahrt 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Von Lakselv zum Nordkap 2012
 
