@@ -10,17 +10,11 @@ images:
   title: Obmannskurs RC KST 2011
 - src: images/Fehleranalyse_Rudern_Obmannskurs_RC_KST_2011.jpg
   title: Fehleranalyse Rudern Obmannskurs RC KST 2011
-länder: []
+länder: 
+- deutschland
 title: Obmannskurs 2011
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Obmannskurs Kinder + Jugend
 
