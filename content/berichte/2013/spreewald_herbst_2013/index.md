@@ -25,16 +25,11 @@ images:
   title: blockierte Schleuse grosses fliess 2013
 - src: images/Laura_in_Burg_im_Spreewald_2013.jpg
   title: Laura in Burg im Spreewald 2013
-länder: []
+länder: 
+- deutschland
 title: Spreewald Herbst 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewald im Herbst 2013
