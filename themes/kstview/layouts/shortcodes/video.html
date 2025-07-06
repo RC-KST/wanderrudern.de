@@ -1,12 +1,15 @@
 {{/*
     Embed a video
 
+    title is optional
+
     Usage:
 
     ```
-    {{< video "url" >}}
+    {{< video src="url" title="title" >}}
     ```
 */}}
 
-{{- $src := .Get 0 }}
-{{- partial "video" (dict "src" $src) }}
+{{- $src := .Get "src" }}
+{{- $title := .Get "title" }}
+{{- partial "video" (dict "src" $src "Title" $title) }}

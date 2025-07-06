@@ -1,0 +1,12 @@
+<figure class="mx-3 flex flex-col items-center">
+    <img src="{{ .Destination | safeURL }}" class="my-3 max-w-full h-auto max-h-96"
+    {{- with .PlainText }} alt="{{ . }}"{{ end -}}
+    {{- with .Title }} title="{{ . }}"{{ end -}}
+    >
+
+    {{- with .Title }}
+    <div class="flex flex-col items-center mb-3">
+      <figcaption>{{ . }}</figcaption>
+    </div>
+    {{- end }}
+</figure>

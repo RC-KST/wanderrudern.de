@@ -8,12 +8,21 @@
 {{- with .muted }}{{ $muted = . }}{{ end }}
 
 {{- $resource := page.Resources.Get .src }}
-<video
-    {{ if $with_controls }}controls{{ end }}
-    {{ if $muted }}muted{{ end }}
-    controlsList="nodownload"
-    oncontextmenu="return false;"
-    preload="{{ $preload }}">
-    <source src="{{ $resource.Permalink }}" type="{{ $resource.MediaType }}"/>
-    This video is not supported by your browser
-</video>
+<figure class="mx-3 flex flex-col items-center">
+    <video
+        class="max-w-full h-auto max-h-96"
+        {{ if $with_controls }}controls{{ end }}
+        {{ if $muted }}muted{{ end }}
+        controlsList="nodownload"
+        oncontextmenu="return false;"
+        preload="{{ $preload }}">
+        <source src="{{ $resource.Permalink }}" type="{{ $resource.MediaType }}"/>
+        This video is not supported by your browser
+    </video>
+
+    {{- with .Title }}
+    <div class="flex flex-col items-center mb-3">
+      <figcaption>{{ . }}</figcaption>
+    </div>
+    {{- end }}
+</figure>

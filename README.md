@@ -139,7 +139,7 @@ Shortcodes sind Hilfskonstrukte, um Nutzern mehr Einfluss auf das Aussehen der S
 Ein paar Shortcode-Snippets könnten so aussehen:
 
 ```
-{{< video "./images/video.mp4" >}}
+{{< video src="./images/video.mp4" title="angezeigter Titel" >}}
 
 {{< column-layout >}}
 {{% col %}}
@@ -286,12 +286,12 @@ Nutzung
 
 ### `video`
 
-Bettet ein Video ein.
+Bettet ein Video ein, `title` ist optional
 
 Nutzung:
 
 ```
-{{< video "pfad/zu/video.mp4" >}}
+{{< video src="pfad/zu/video.mp4" title="titel des videos" >}}
 ```
 
 ### `vorstand-email`

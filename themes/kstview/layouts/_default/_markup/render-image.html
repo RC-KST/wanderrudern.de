@@ -1,11 +1,14 @@
-<figure class="mx-3 flex flex-col items-center">
-  <img src="{{ .Destination | safeURL }}" class="my-3 max-w-full h-auto max-h-96"
-  {{- with .PlainText }} alt="{{ . }}"{{ end -}}
-  {{- with .Title }} title="{{ . }}"{{ end -}}
-  >
-  {{- with .Title }}
-  <div class="flex flex-col items-center mb-3">
-    <figcaption>{{ . }}</figcaption>
-  </div>
-  {{- end }}
-</figure>
+{{- $resource := page.Resources.Get .Destination }}
+{{- if $resource }}
+  {{- if eq $resource.MediaType.MainType "video"}}
+    {{- partial "video.html" (dict 
+      "src" .Destination
+      "Title" .Title
+      "PlainText" .PlainText) }}
+  {{- else if eq $resource.MediaType.MainType "image"}}
+    {{- partial "image.html" . }}
+  {{- else }}{{- warnf "(Page %v (%v)) Media resource '%v' is of unknown media type '%v'" page.Path  page.Title .Destination $resource.MediaType.MainType }}{{- end }}
+{{- else }}
+  {{- warnf "(Page %v (%v)) No resource found at destination '%v', assuming image..." page.Path page.Title .Destination }}
+  {{- partial "image.html" . }}
+{{- end }}
