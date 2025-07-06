@@ -2,7 +2,8 @@
 author: ""
 begin: "2012-09-01"
 date: "2012-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Volksfest_Kleinmachnow_Drachenbootrudercup_2012.jpg
   title: Volksfest Kleinmachnow Drachenbootrudercup 2012
@@ -22,16 +23,11 @@ images:
   title: Drachenbootrennen Teltowkanal 2012
 - src: images/Feen_Drachenbootcup_2012.jpg
   title: Feen Drachenbootcup 2012
-länder: []
+länder:
+- deutschland
 title: Drachenbootcup 2012
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 7. Drachenboot-Rudercup Kleinmachnow
