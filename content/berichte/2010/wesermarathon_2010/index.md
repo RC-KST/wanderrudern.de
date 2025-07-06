@@ -5,8 +5,6 @@ date: "2010-01-01T01:00:00+02:00"
 gewässer:
 - weser
 - werra
-- aller
-- narew
 images:
 - src: images/Riggern_der_Boote_in_Eschwege_WM2010.jpg
   title: Riggern der Boote in Eschwege WM2010
@@ -20,16 +18,11 @@ images:
   title: Werra Wehr Muenden WM2010
 - src: images/Wesermarathon_Gold_Ruderclub_Kleinmachnow_WM2010.jpg
   title: Wesermarathon Gold Ruderclub Kleinmachnow WM2010
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2010
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2010
