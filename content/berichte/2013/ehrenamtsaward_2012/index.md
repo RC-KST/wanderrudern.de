@@ -8,7 +8,7 @@ images:
   title: Jiajia mit Landrat Blasig beim Ehrenamtsaward 2012
 länder:
 - deutschland
-title: Ehrenamtsaward 2013
+title: Ehrenamtsaward 2012
 typen: veranstaltung
 ---
 
