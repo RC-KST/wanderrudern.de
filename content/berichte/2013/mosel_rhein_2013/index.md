@@ -5,8 +5,6 @@ date: "2013-01-01T01:00:00+02:00"
 gewässer:
 - rhein
 - mosel
-- saar
-- oder
 images:
 - src: images/Burg_an_der_Mosel_2013.jpg
   title: Burg an der Mosel 2013
@@ -42,17 +40,11 @@ images:
   title: dichter Verkehr auf dem Rhein 2013
 - src: images/Niederrhein_in_voller_Schoenheit_2013.jpg
   title: Niederrhein in voller Schoenheit 2013
-länder: []
+länder:
+- deutschland
 title: Saar Mosel Rhein 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Mosel- Rhein   Herbst 2013
 
