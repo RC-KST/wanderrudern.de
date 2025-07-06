@@ -58,17 +58,10 @@ images:
 - src: images/Baux_C10.jpg
   title: Baux C10
 länder:
-- deutschland
 - frankreich
 title: Frankreich Camargue 10
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Camargue - Wanderfahrt Februar 2010
