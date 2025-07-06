@@ -6,17 +6,11 @@ gewässer: []
 images:
 - src: images/Teilnehmer_Obmannskurs_2013.jpg
   title: Teilnehmer Obmannskurs 2013
-länder: []
+länder: 
+- deutschland
 title: Obmannskurs 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Obmannskurs der Kinder + Jugendlichen 2013
 
