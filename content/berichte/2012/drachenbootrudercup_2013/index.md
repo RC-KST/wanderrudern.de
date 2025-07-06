@@ -3,7 +3,7 @@ author: ""
 begin: "2012-05-01"
 date: "2012-05-05T01:00:00+02:00"
 gewässer:
-- oder
+- teltowkanal
 images:
 - src: images/Logo-Thiel-top04.gif
   title: Logo-Thiel-top04
@@ -13,15 +13,8 @@ images:
   title: drachenboot regatta kleinmachnow 0802
 länder: []
 title: Drachenbootcup 2012
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # 8. Drachenboot-Rudercup
 
