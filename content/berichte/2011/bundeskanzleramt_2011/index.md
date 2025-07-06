@@ -4,6 +4,7 @@ begin: "2011-02-01"
 date: "2011-02-02T01:00:00+02:00"
 gewässer:
 - havel
+- spree
 images:
 - src: images/Kleinmachnower_Ruderboote_in_Spandau_Ka11.jpg
   title: Kleinmachnower Ruderboote in Spandau Ka11
@@ -23,17 +24,11 @@ images:
   title: Schleuse Charlottenburg Ruderer Ka11
 - src: images/Ruderer_am_Steg_in_Spandau_Ka11.jpg
   title: Ruderer am Steg in Spandau Ka11
-länder: []
+länder:
+- deutschland
 title: Bundeskanzleramt 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Wochenendwanderfahrt zum Bundeskanzleramt
 
