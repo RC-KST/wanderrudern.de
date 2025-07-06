@@ -27,16 +27,11 @@ images:
   title: Storkow Fruehstueck St10
 - src: images/Schleuse_Wendisch_Rietz_St10.jpg
   title: Schleuse Wendisch Rietz St10
-länder: []
+länder: 
+- deutschland
 title: Storkow 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorf - Storkow
