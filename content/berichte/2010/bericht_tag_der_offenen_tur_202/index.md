@@ -3,7 +3,6 @@ author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/313.jpg
   title: "313"
@@ -15,16 +14,11 @@ images:
   title: Proberudern an der Machnower Schleuse 2010
 - src: images/Ruderclub_Kleinmachnow_Clubgelaende_2010.jpg
   title: Ruderclub Kleinmachnow Clubgelaende 2010
-länder: []
+länder: 
+- deutschland
 title: Bericht Tag der offenen Tür 2010
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2010
