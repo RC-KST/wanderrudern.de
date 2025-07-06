@@ -2,7 +2,10 @@
 author: ""
 begin: "2010-08-01"
 date: "2010-08-08T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
+- spree
+- müggelsee
 images:
 - src: images/Kleinmachnower_Vierer_auf_dem_Teltowkanal_Ra10.jpg
   title: Kleinmachnower Vierer auf dem Teltowkanal Ra10
@@ -14,16 +17,11 @@ images:
   title: Sternfahrt Rahnsdorf RC Kleinmachnow Ra10
 - src: images/Seddinsee_Ruderboote_Stahnsdorf_Ra10.jpg
   title: Seddinsee Ruderboote Stahnsdorf Ra10
-länder: []
+länder: 
+- deutschland
 title: Sternfahrt Rahnsdorf 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Sternfahrt zum RC Rahnsdorf
