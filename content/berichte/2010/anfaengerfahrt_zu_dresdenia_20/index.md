@@ -5,7 +5,6 @@ date: "2010-06-06T01:00:00+02:00"
 gewässer:
 - tegler see
 - neuendorfer see
-- oder
 images:
 - src: images/Pause_bei_Saffonia_2010.jpg
   title: Pause bei Saffonia 2010
@@ -13,17 +12,11 @@ images:
   title: Cookie groovt Dresdenia2010
 - src: images/Jugendwanderfahrt_Dresdenia_2010.jpg
   title: Jugendwanderfahrt Dresdenia 2010
-länder: []
+länder: 
+- deutschland
 title: Anfaengerfahrt zu Dresdenia 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Anfänger- Ruderfahrt nach Spandau
 
