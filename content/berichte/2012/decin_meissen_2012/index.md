@@ -17,16 +17,12 @@ images:
   title: Das Wetter wird besser Decin 2012
 - src: images/Downtown_Dresden_Decin_2012.jpg
   title: Downtown Dresden Decin 2012
-länder: []
+länder:
+- tschechien
+- deutschland
 title: Decin Meissen 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Adventsfahrt auf der Elbe
