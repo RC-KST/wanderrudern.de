@@ -6,7 +6,6 @@ gewässer:
 - spree
 - teltowkanal
 - wannsee
-- oder
 images:
 - src: images/Spreebogen_Kanzleramt_2012.jpg
   title: Spreebogen Kanzleramt 2012
@@ -26,15 +25,11 @@ images:
   title: Dresdenia 2012 Januar
 - src: images/Grunewaldturm_Januar_2012.jpg
   title: Grunewaldturm Januar 2012
-länder: []
+länder:
+- deutschland
 title: Bundeskanzleramt 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
