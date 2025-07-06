@@ -71,6 +71,8 @@ Am 3. Mai fand dieses Jahr die [EUREGA Rheinregatta](../eurega_2025/index.md) ü
 Am Mittwoch ging es mit großer Mannschaft los, nach Weilburg an der Lahn. 
 Wir übernachteten im Bootshaus des dortigen Rudervereins. Bis spät in den Abend wurde gegrillt.
 
+![Stromschnelle auf der Lahn](images/Stromschnelle_Lahn_x264.mp4)
+
 Donnerstag früh ging es mit fünf Booten aufs Wasser. Unmittelbar nach dem Start folgte das erste Highlight, der Weilburger Schiffstunnel 180m durch den Berg und direkt nach dem Tunnel eine Doppelschleuse zum selbst bedienen.
 Danach ging es durch ein enges Flußtal mit einigen, allerdings gut ruderbaren Stromschnellen. Da die Tagesetappe nur bei 37 km lag, gönnten wir uns nach der letzten Schleuse (6. Kammer) in Runkel eine größere Mittagspause. Der Ort ist wirklich sehr schön und liegt im engen Flußtal zwischen Felsen. Wichtiges Detail, es gibt eine Eisdiele. Diese wurde auch wegen der Hitze gut besucht.
 Danach ging es weiter nach Limburg zum dortigen Ruderverein. Hier war viel Ruderbetrieb, so dass wir gucken mussten, dass wir den nicht allzu viel behinderten.
