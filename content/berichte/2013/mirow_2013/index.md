@@ -21,16 +21,11 @@ images:
   title: Gewitter abwarten Mirow 2013
 - src: images/Schleuse_Diemitz_Ruderboote_2013.jpg
   title: Schleuse Diemitz Ruderboote 2013
-länder: []
+länder: 
+- deutschland
 title: Mirow 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Mirow- Wochenendfahrt
