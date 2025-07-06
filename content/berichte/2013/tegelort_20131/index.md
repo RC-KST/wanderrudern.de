@@ -23,17 +23,11 @@ images:
   title: Moby Dick mit Ruderboot Tegelort 2013
 - src: images/jonathan_baded_tegelort_2013.jpg
   title: jonathan baded tegelort 2013
-länder: []
+länder: 
+- deutschland
 title: Tegelort 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Tegelort- Wochenend-Wanderfahrt
 
