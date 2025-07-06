@@ -4,7 +4,7 @@ title: Lahn Rhein Maiwochenende 2025
 #author: "Stefan"
 begin: 2025-04-30
 end: 2025-05-04
-date: 2025-05-05
+date: 2025-07-05
 gewässer:
 - lahn
 - rhein
