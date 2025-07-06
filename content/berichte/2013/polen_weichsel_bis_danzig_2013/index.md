@@ -3,15 +3,12 @@ author: ""
 begin: "2013-01-01"
 date: "2013-01-01T01:00:00+02:00"
 gewässer:
-- havel
 - ostsee
 - oder
-- bromberger kanal
 - weichsel
 - nogat
 - narew
 - bug
-- po
 images:
 - src: images/Schleuse_Zeran_Warschau_Weichsel_2013.jpg
   title: Schleuse Zeran Warschau Weichsel 2013
@@ -130,12 +127,6 @@ länder:
 title: Polen Bug Narew Weichsel Ostsee 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Von der ukrainischen Grenze zur Ostsee
