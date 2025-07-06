@@ -2,7 +2,8 @@
 author: ""
 begin: "2013-05-01"
 date: "2013-05-05T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- Havel
 images:
 - src: images/Rummel_in_Werder_2013.jpg
   title: Rummel in Werder 2013
@@ -10,17 +11,11 @@ images:
   title: Jonathan auf dem Wentorfgraben 2013
 - src: images/Ruderer_in_Werder_baumbluetenfest_2013.jpg
   title: Ruderer in Werder baumbluetenfest 2013
-länder: []
+länder: 
+- deutschland
 title: Baumbluete Werder 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Baumblütenfest in Werder
 
