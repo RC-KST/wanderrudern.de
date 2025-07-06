@@ -2,7 +2,13 @@
 author: ""
 begin: "2013-01-01"
 date: "2013-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
+- dahme
+- rüdersdorfer gewässer
+- kalksee
+- stienitzsee
+- löcknitz
 images:
 - src: images/Abendessen_machen_Rahnsdorf_2013.jpg
   title: Abendessen machen Rahnsdorf 2013
