@@ -3,7 +3,7 @@ author: ""
 begin: "2013-12-01"
 date: "2013-12-12T01:00:00+02:00"
 gewässer:
-- oder
+- elbe
 images:
 - src: images/Ruderer_in_Dresden_Elbe_2013.jpg
   title: Ruderer in Dresden Elbe 2013
@@ -19,17 +19,12 @@ images:
   title: Bastei Elbe 2013
 - src: images/Leonie_Schloss_Pillnitz_Elbe_2013.jpg
   title: Leonie Schloss Pillnitz Elbe 2013
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Decin - Meissen 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Decin - Meißen
 
