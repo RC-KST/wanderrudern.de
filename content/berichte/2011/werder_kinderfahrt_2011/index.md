@@ -22,16 +22,11 @@ images:
   title: Blondie ist im Boot We11
 - src: images/Bamby_We11.jpg
   title: Bamby We11
-länder: []
+länder: 
+- deutschland
 title: Werder Kinderfahrt 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kinder + Jugendruderlager in Werder
