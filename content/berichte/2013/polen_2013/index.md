@@ -10,18 +10,10 @@ gewässer:
 - bug
 - po
 länder:
-- deutschland
 - polen
 title: Polen Bug Narew Weichsel Ostsee 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Tips zu Polenwanderfahrten 2013
 
