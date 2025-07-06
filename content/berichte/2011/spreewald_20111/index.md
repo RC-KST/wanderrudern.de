@@ -8,7 +8,6 @@ gewässer:
 - teltowkanal
 - spreewald
 - köthener see
-- oder
 images:
 - src: images/Ruderboote_vor_Spreewaldschleuse_11.jpg
   title: Ruderboote vor Spreewaldschleuse 11
@@ -46,16 +45,11 @@ images:
   title: Nirina im Spreewald 11
 - src: images/Spreewaldschleuse_11.jpg
   title: Spreewaldschleuse 11
-länder: []
+länder: 
+- deutschland
 title: Spreewald 2014
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewaldwanderfahrt Oktober 2011
