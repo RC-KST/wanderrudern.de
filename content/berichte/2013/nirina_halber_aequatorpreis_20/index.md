@@ -7,15 +7,9 @@ images:
 - src: images/Halber_Aequatorpreis_fuer_Nirina_Anrudern_2013.jpg
   title: Halber Aequatorpreis fuer Nirina Anrudern 2013
 länder: []
-title: Anrudern 2013
+title: Halber Äquatorpreis für Nirina 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Halber Äquatorpreis für Nirina
