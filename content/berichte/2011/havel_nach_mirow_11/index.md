@@ -51,16 +51,11 @@ images:
   title: Wartende Boote in Strassen M11
 - src: images/Havelpanorama_Ruderboot_M11.jpg
   title: Havelpanorama Ruderboot M11
-länder: []
+länder: 
+- deutschland
 title: Havel nach Mirow 11
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stahnsdorf - Mirow
