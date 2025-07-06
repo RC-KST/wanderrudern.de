@@ -2,7 +2,11 @@
 author: ""
 begin: "2013-01-01"
 date: "2013-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- adria
+- mittelmeer
+- krka
+- zrmanja
 images:
 - src: images/Aufladen_Lebensmittel_Kroatien_2013.jpg
   title: Aufladen Lebensmittel Kroatien 2013
@@ -52,16 +56,11 @@ images:
   title: krka wasserfaelle mit dem ruderboot kroatien 2013
 - src: images/so_nah_soll_man_eigentlich_nicht_ran_krka_Kroatien_2014.jpg
   title: so nah soll man eigentlich nicht ran krka Kroatien 2014
-länder: []
+länder: 
+- kroatien
 title: Kroatien 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kroatienblog   Silvesterwanderfahrt 2013 Sibenik
