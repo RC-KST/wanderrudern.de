@@ -2,7 +2,8 @@
 author: ""
 begin: "2013-09-01"
 date: "2013-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- ruhr
 images:
 - src: images/Boor_treideln_Bootsgasse_Ruhr_2013.jpg
   title: Boor treideln Bootsgasse Ruhr 2013
@@ -20,12 +21,6 @@ länder: []
 title: DRV Winsauerpreis 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ruhrwanderfahrt September 2013
