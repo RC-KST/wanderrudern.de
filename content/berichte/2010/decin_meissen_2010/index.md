@@ -4,7 +4,6 @@ begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Anreise_nach_Decin_im_Stau_DC10.jpg
   title: Anreise nach Decin im Stau DC10
@@ -24,14 +23,10 @@ images:
   title: Ruderer in Kneipe in Decin DC10
 länder:
 - deutschland
+- tschechien
 title: Decin Meissen 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
