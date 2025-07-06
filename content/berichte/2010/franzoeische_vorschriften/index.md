@@ -7,16 +7,10 @@ images:
 - src: images/Franzoesischer_Vorschriftenwahn_C10.jpg
   title: Franzoesischer Vorschriftenwahn C10
 länder:
-- deutschland
 - frankreich
 title: Frankreich Camargue 10
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
