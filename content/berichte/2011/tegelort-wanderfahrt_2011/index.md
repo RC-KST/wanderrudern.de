@@ -16,15 +16,11 @@ images:
   title: Grillen Tegelort 2011
 - src: images/Badestrand_Havel_Ruderer_Tegelort_2011.jpg
   title: Badestrand Havel Ruderer Tegelort 2011
-länder: []
+länder: 
+- deutschland
 title: Tegelort-Wanderfahrt 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
