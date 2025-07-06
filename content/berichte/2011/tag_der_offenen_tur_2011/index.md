@@ -18,16 +18,11 @@ images:
   title: TdoT.Publikum
 - src: images/TdoT.Zangengeburt.jpg
   title: TdoT.Zangengeburt
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tür 2011
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2011
