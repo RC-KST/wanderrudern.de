@@ -4,8 +4,6 @@ begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
 - donau
-- oste
-- spreewald
 images:
 - src: images/Boote_abladen_in_Calarasi_bei_Sauwetter_DD10.jpg
   title: Boote abladen in Calarasi bei Sauwetter DD10
@@ -149,15 +147,10 @@ images:
   title: Anlegen am Lacul Razim DD10
 länder:
 - ukraine
+- rumänien
 title: Donaudelta Ostern 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donaudelta Wanderfahrt Ostern 2010
