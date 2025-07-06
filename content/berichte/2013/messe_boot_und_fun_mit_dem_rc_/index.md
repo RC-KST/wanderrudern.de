@@ -2,8 +2,7 @@
 author: ""
 begin: "2013-01-01"
 date: "2013-01-01T01:00:00+02:00"
-gewässer:
-- po
+gewässer: []
 images:
 - src: images/Ruderer_lassen_das_Wasserbecken_kochen_Boot_und_Fun_2013.jpg
   title: Ruderer lassen das Wasserbecken kochen Boot und Fun 2013
@@ -13,16 +12,11 @@ images:
   title: Gala Nacht Boot und Fun 2013
 - src: images/Messestand_RC_KST_Boot_und_Fun_2013.jpg
   title: Messestand RC KST Boot und Fun 2013
-länder: []
+länder:
+- deutschland 
 title: Messe Boot und Fun mit dem RC KST 2013
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ruderclub KST auf der Wassersportmesse “Boot und Fun” in Berlin
