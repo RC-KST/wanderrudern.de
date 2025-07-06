@@ -2,7 +2,8 @@
 author: ""
 begin: "2010-09-01"
 date: "2010-09-09T01:00:00+02:00"
-gewässer: []
+gewässer:
+- teltowkanal
 images:
 - src: images/Die_ersten_Drachen_auf_dem_Weg_zum_Start_Drachenbootcup__2010.jpg
   title: Die ersten Drachen auf dem Weg zum Start Drachenbootcup_ 2010
@@ -28,17 +29,11 @@ images:
   title: Feen beim Drachenbootcup 2010
 - src: images/Ruderboote_beim_Drachenbootcup_2010.jpg
   title: Ruderboote beim Drachenbootcup 2010
-länder: []
+länder:
+- deutschland
 title: Drachenbootcup 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # 5. Drachenboot-Rudercup Kleinmachnow
 
