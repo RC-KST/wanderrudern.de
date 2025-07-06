@@ -3,9 +3,10 @@ author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer: []
-länder: []
+länder: 
+- deutschland
 title: Anrudern Bootstaufe RC KST 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
 
 
