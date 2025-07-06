@@ -6,9 +6,10 @@ gewässer: []
 images:
 - src: images/preisverleihung_LRV_Berlin_RC_KST02.jpg
   title: preisverleihung LRV Berlin RC KST02
-länder: []
+länder: 
+- deutschland
 title: Anrudern Bootstaufe RC KST 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
 
 
