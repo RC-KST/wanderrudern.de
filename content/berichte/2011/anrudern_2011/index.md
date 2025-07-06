@@ -2,7 +2,8 @@
 author: ""
 begin: "2011-01-01"
 date: "2011-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Bootstaufe_2011_Anrudern_Kleinmachnow.jpg
   title: Bootstaufe 2011 Anrudern Kleinmachnow
@@ -24,16 +25,11 @@ images:
   title: der neue E-Zweier Kleinmachnow 2011
 - src: images/Bootstaufe_Baumgaren_E-Zweier_Kleinmachnow_2011.jpg
   title: Bootstaufe Baumgaren E-Zweier Kleinmachnow 2011
-länder: []
+länder: 
+- deutschland
 title: Anrudern Kleinmachnow 2011
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Anrudern 2011
