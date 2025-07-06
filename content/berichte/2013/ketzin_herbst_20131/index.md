@@ -4,6 +4,7 @@ begin: "2013-01-01"
 date: "2013-01-01T01:00:00+02:00"
 gewässer:
 - trebelsee
+- havel
 images:
 - src: images/Zweier_auf_den_Weg_nach_Brandenburg_Ketzin_Herbst_2013.jpg
   title: Zweier auf den Weg nach Brandenburg Ketzin Herbst 2013
@@ -15,13 +16,6 @@ länder: []
 title: Ketzin Herbst 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ketzin- Herbstfahrt 2013
 
