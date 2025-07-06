@@ -5,16 +5,11 @@ date: "2011-11-11T01:00:00+02:00"
 gewässer:
 - havel
 - trebelsee
-länder: []
+länder: 
+- deutschland
 title: Ketzin Herbst 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin November 2011
