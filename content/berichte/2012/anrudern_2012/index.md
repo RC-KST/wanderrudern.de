@@ -2,7 +2,8 @@
 author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Proberudern_beim_Anrudern_Kleinmachnow_2012.jpg
   title: Proberudern beim Anrudern Kleinmachnow 2012
@@ -17,13 +18,8 @@ images:
 länder:
 - deutschland
 title: Anrudern 2012
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
