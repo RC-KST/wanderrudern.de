@@ -6,8 +6,6 @@ gewässer:
 - elbe
 - saale
 - unstrut
-- oder
-- saimaa
 images:
 - src: images/Bootsanhaenger_mit_Nirina_USE2012.jpg
   title: Bootsanhaenger mit Nirina USE2012
@@ -194,12 +192,6 @@ länder:
 title: Unstrut Saale Elbe 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Unstrut- Saale- Elbe- Elbe-Seitenkanal- Ilmenau- Elbe- Alster
