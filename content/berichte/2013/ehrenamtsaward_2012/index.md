@@ -3,23 +3,14 @@ author: ""
 begin: "2013-01-01"
 date: "2013-01-01T01:00:00+02:00"
 gewässer:
-- po
-- lagune von venedig
 images:
 - src: images/Jiajia_mit_Landrat_Blasig_beim_Ehrenamtsaward_2012.jpg
   title: Jiajia mit Landrat Blasig beim Ehrenamtsaward 2012
 länder:
 - deutschland
-- finnland
-title: Anrudern 2013
-typen: wanderfahrt
+title: Ehrenamtsaward 2013
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ehrenamtsaward des KSB Potsdam Mittelmark für die beste Nachwuchssportlerin an JiaJia verliehen
