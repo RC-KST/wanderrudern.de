@@ -15,17 +15,11 @@ images:
   title: Charlottenburger Tor Wiking 2011
 - src: images/WIking_Sternfahrt_2011_Boote_am_Steg.jpg
   title: WIking Sternfahrt 2011 Boote am Steg
-länder: []
+länder: 
+- deutschland
 title: Wiking Sternfahrt 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Wiking Sternfahrt 2011
 
