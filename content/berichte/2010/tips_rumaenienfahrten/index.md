@@ -4,26 +4,16 @@ begin: "2010-05-01"
 date: "2010-05-05T01:00:00+02:00"
 gewässer:
 - donau
-- oste
-- oder
 images:
 - src: images/calarasi2.jpg
   title: calarasi2
 - src: images/deltakarte.jpg
   title: deltakarte
 länder:
-- deutschland
 - ukraine
 title: Donaudelta Ostern 2010
-typen: wanderfahrt
+typen: veranstaltungen
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Tips für Rumänienfahrten
 
