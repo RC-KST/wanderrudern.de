@@ -4,12 +4,9 @@ begin: "2013-05-01"
 date: "2013-05-05T01:00:00+02:00"
 gewässer:
 - ostsee
-- oder
 - weichsel
 - narew
 - bug
-- po
-- saimaa
 images:
 - src: images/Grenze_Dorohusk_in_die_Ukraine_Bug_2013-1.jpg
   title: Grenze Dorohusk in die Ukraine Bug 2013-1
@@ -111,14 +108,8 @@ länder:
 - polen
 - ukraine
 title: Polen Bug Narew Weichsel Ostsee 2013
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Von der ukrainischen Grenze zur Ostsee
