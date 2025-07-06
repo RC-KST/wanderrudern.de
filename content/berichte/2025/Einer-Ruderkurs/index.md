@@ -5,8 +5,12 @@ date: "2025-07-07T01:00:00+02:00"
 gewässer: 
 - griebnitzsee
 images:
-- src: images/Ruder_Anfaenger2025.jpg
-  title: Fahrtenleiterschulung
+- src: images/Einerkurs1.jpg
+- src: images/Einerkurs2.jpg
+- src: images/Einerkurs3.jpg
+- src: images/Einerkurs4.jpg
+- src: images/Einsteigen1.jpg
+- src: images/Einsteigen2.jpg
 länder: 
 - deutschland
 title: Einer Ruderkurs
@@ -15,11 +19,15 @@ typen: veranstaltung
 
 # Einer Training am Griebnitzsee
 
-Nach unserem gut besuchten Tagen der offenen Tür Anfang Mai, hatten wir 30 Anmeldungen für den Anfängerkurs der Erwachsenen, so viele wie noch nie.
+Wanderruderer rudern nicht so oft in schmalen Einern.
 
-Die meisten Teilnehmer haben die 10 Rudertermine durchgehalten, so dass wir, nach dem Kurs viele neue Mitglieder begrüßen konnten.
+![Einerrudern will geübt sein](images/Einerkurs1.jpg)
 
-![Anfänger beim ersten Termin](images/Ruder_Anfaenger2025.jpg)
+Daher unser Einer-Trainingskurs am Griebnitzsee, FunTrainer (60cm), GigRacer (47cm), Skiff (37cm). 
+Je schmaler, desto kippempfindlicher.
+Bevor man mit solchen Booten aufs Wasser geht, sollte man wissen wie man nach eine Kenterung wieder einsteigt.
 
+![Einsteigen](images/Einsteigen2.jpg)
 
-Nach den Sommerferien findet ein weiterer Anfängerkurs für Jugendliche statt.
+Das Training erfolgte vor einem Strand am Griebnitzsee. Vor dem Steg geht so etwas bei uns nicht, sonst trifft den Schleusenwart der Schlag.
+
