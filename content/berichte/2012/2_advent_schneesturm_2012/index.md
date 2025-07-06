@@ -2,7 +2,8 @@
 author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- stölpchensee
 images:
 - src: images/fruehschoppen_bei_astoria_2._advent_2012.jpg
   title: fruehschoppen bei astoria 2. advent 2012
@@ -14,16 +15,11 @@ images:
   title: Eiskante kurz vor Astoria 2. advent 2012
 - src: images/Rueckweg_im_Schneesturm_Advent_2012.jpg
   title: Rueckweg im Schneesturm Advent 2012
-länder: []
+länder: 
+- deutschland
 title: 2.Advent Schneesturm 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 2. Advent 2012
