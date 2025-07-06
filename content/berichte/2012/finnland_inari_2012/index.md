@@ -3,8 +3,7 @@ author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
-- inn
-- porsangenfjord
+- inari
 länder:
 - finnland
 title: Finnland Inari 2012
