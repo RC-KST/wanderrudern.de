@@ -19,16 +19,11 @@ images:
   title: Ruderer am Steg in Ketzin 2011
 - src: images/Ruderboote_vor_dem_Malabar_Brandenburg_2011.jpg
   title: Ruderboote vor dem Malabar Brandenburg 2011
-länder: []
+länder: 
+- deutschland
 title: Ketzin Fruehjahr 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin- Wochenendfahrt
