@@ -2,7 +2,8 @@
 author: ""
 begin: "2013-04-01"
 date: "2013-04-04T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Logo-Thiel-top04.gif
   title: Logo-Thiel-top04
@@ -36,16 +37,11 @@ images:
   title: Zieleinlauf Drachenboot-Rudercup 2013
 - src: images/Zielsteg_Drachenboot-Rudercup_2013.jpg
   title: Zielsteg Drachenboot-Rudercup 2013
-länder: []
+länder: 
+- deutschland
 title: Drachenboot-Rudercup 2013
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 8. Drachenboot- Rudercup
