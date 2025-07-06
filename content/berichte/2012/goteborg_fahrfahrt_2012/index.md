@@ -2,8 +2,7 @@
 author: ""
 begin: "2012-02-01"
 date: "2012-02-02T01:00:00+02:00"
-gewässer:
-- aller
+gewässer: []
 images:
 - src: images/auf_der_Komanndobruecke_2012.jpg
   title: auf der Komanndobruecke 2012
@@ -33,7 +32,8 @@ images:
   title: Elina Nirina Goeteborg 2012
 - src: images/Blick_aus_dem_Bullauge_Stena_2012.jpg
   title: Blick aus dem Bullauge Stena 2012
-länder: []
+länder: 
+- schweden
 title: Göteborg Fährfahrt 2012
 typen: wanderfahrt
 ---
