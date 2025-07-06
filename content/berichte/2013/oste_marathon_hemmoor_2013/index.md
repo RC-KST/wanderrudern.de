@@ -4,6 +4,8 @@ begin: "2013-06-01"
 date: "2013-06-06T01:00:00+02:00"
 gewässer:
 - oste
+- wattenmeer
+- nordsee
 images:
 - src: images/Riggern_der_Boote_Hemmoor_2013.jpg
   title: Riggern der Boote Hemmoor 2013
@@ -23,16 +25,11 @@ images:
   title: Oste Hechthausen Hemmoor 2013
 - src: images/so_sehen_Sieger_aus_Hemmoor_2013.jpg
   title: so sehen Sieger aus Hemmoor 2013
-länder: []
+länder:
+- deutschland
 title: Oste Marathon Hemmoor 2013
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Oste Marathon Hemmoor Juni 2013
