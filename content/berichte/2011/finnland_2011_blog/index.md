@@ -3,7 +3,6 @@ author: ""
 begin: "2011-11-01"
 date: "2011-11-11T01:00:00+02:00"
 gewässer:
-- inn
 - saimaa
 images:
 - src: images/Senatsplatz_Helsinki_S11Bl.jpg
@@ -103,11 +102,6 @@ länder:
 title: Finnland Saimaa 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
