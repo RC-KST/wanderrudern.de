@@ -12,6 +12,8 @@ länder:
 - deutschland
 typen: wanderfahrt
 images:
+- src: "./images/Stromschnelle_Lahn_x264.mp4"
+  title: "Stromschnelle Lahn"
 - src: "./images/Weilburg2025.jpg"
   title: "Weilburg"
 - src: "./images/Weilburg_Ausfahrt2025.jpg"
