@@ -6,8 +6,6 @@ gewässer:
 - ostsee
 - peene
 - tollense
-- oder
-- netze
 - stettiner haff
 images:
 - src: images/Tollense_Aufriggern_am_Hochwassertumpel_2.jpg
@@ -39,16 +37,10 @@ images:
 - src: images/Moenkebude_am_Strand_Ostsee_11.jpg
   title: Moenkebude am Strand Ostsee 11
 länder:
-- polen
+- deutschland
 title: Tollense Peene 11
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tollense - Peene - Ostsee
