@@ -3,7 +3,9 @@ author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
-- oder
+- mälaren
+- hjälrmaren
+- strömsholm kanal
 images:
 - src: images/Schwedische_Insellandschaft_S10.jpg
   title: Schwedische Insellandschaft S10
@@ -12,16 +14,10 @@ images:
 - src: images/Schwedische_Uferlandschaft_S10.jpg
   title: Schwedische Uferlandschaft S10
 länder:
-- deutschland
 - schweden
 title: Wanderfahrt Stroemsholm  Kanal Maelar 2010
-typen: wanderfahrt
+typen: veranstaltungen
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
