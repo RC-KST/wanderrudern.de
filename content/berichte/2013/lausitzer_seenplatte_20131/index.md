@@ -2,7 +2,10 @@
 author: ""
 begin: "2013-06-01"
 date: "2013-06-06T01:00:00+02:00"
-gewässer: []
+gewässer:
+- lausitzer seenplatte
+- partwitzer see
+- geierswalder see
 images:
 - src: images/Ruderboote_am_Partwitzer_See_2013.jpg
   title: Ruderboote am Partwitzer See 2013
@@ -18,16 +21,11 @@ images:
   title: Schleuseneroeffnung Lausitzer Seen 2013
 - src: images/Ministerpraesidenten_auf_dem_Floss_2013.jpg
   title: Ministerpraesidenten auf dem Floss 2013
-länder: []
+länder:
+- deutschland
 title: Lausitzer Seenplatte 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Lausitzer Seenplatte Juni 2013
