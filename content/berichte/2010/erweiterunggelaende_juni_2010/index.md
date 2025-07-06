@@ -18,15 +18,11 @@ images:
   title: Cookie hat den Baum besiegt J2010
 - src: images/Hangbefestigung_neu_J2010.jpg
   title: Hangbefestigung neu J2010
-länder: []
+länder: 
+- deutschland
 title: Erweiterunggelaende Juni 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
