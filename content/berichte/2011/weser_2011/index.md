@@ -33,17 +33,11 @@ images:
   title: Ruderer Schleuse Ritterhude Hamme Winter2011
 - src: images/Nirina_am_Ziel_Osterholz_Scharnbeck_Winter2011.jpg
   title: Nirina am Ziel Osterholz Scharnbeck Winter2011
-länder: []
+länder: 
+- deutschland
 title: Weser 2011 Winterwanderfahrt
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Weserwanderfahrt
 
