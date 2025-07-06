@@ -14,16 +14,11 @@ images:
   title: Frau Wicklein mit Nirina und Elina Tag der offenen Tuer 2013
 - src: images/Kuchenverkauf_Tag_der_offenen_Tuer_2013.jpg
   title: Kuchenverkauf Tag der offenen Tuer 2013
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tuer 2013
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2013
