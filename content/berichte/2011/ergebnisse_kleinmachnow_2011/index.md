@@ -10,7 +10,7 @@ images:
   title: Sieger des Profi Wettbewerb Drachenbootcup Kleinmachnow 2011
 länder: []
 title: Drachenbootcup 2011
-typen:veranstaltung
+typen: veranstaltung
 ---
 
 
