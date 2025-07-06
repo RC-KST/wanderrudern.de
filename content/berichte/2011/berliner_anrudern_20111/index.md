@@ -5,16 +5,10 @@ date: "2011-04-04T01:00:00+02:00"
 gewässer:
 - teltowkanal
 länder:
-- italien
+- deutschland
 title: Berliner Anrudern 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Berliner Anrudern 2011
