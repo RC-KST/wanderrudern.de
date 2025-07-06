@@ -2,7 +2,8 @@
 author: ""
 begin: "2010-09-01"
 date: "2010-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- ruppiner see
 images:
 - src: images/Alt_Ruppin_Aufriggern_2010.jpg
   title: Alt Ruppin Aufriggern 2010
@@ -16,15 +17,12 @@ images:
   title: Alt Ruppin Am Steg 2010
 - src: images/Altruppin_Zuruck_im_Regen_II.jpg
   title: Altruppin Zurück im Regen II
-länder: []
+länder:
+- deutschland
 title: Altruppin Wanderfahrt 2010
 typen: wanderfahrt
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
