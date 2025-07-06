@@ -6,16 +6,11 @@ gewässer: []
 images:
 - src: images/Schulrudern_Kant_2017-2_Pohlesee.jpg
   title: Schulrudern Kant 2017-2 Pohlesee
-länder: []
+länder: 
+- deutschland
 title: Schulrudern Kant Gymnasium 2017-2
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schülerrudern Kant Gymnasium
