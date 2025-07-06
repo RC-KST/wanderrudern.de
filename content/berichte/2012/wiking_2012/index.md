@@ -6,7 +6,6 @@ gewässer:
 - havel
 - spree
 - wannsee
-- pielisjoki
 images:
 - src: images/Rebecca_Teltowkanal_Wiking_2012.jpg
   title: Rebecca Teltowkanal Wiking 2012
@@ -16,16 +15,11 @@ images:
   title: Neukoellner Schleuse Wiking 2012
 - src: images/Wiking_Fahrer_des_RC_KST_2012.jpg
   title: Wiking Fahrer des RC KST 2012
-länder: []
+länder: 
+- deutschland
 title: Wiking 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wiking Sternfahrt 2012
