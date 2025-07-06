@@ -26,16 +26,11 @@ images:
   title: Schleuse Luebben Spreewald 2012
 - src: images/Jonathan_mit_Bagger_Spreewald_2012.jpg
   title: Jonathan mit Bagger Spreewald 2012
-länder: []
+länder: 
+- deutschland
 title: Spreewald 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewaldwanderfahrt August 2012
