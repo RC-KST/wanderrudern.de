@@ -3,7 +3,9 @@ author: ""
 begin: "2010-07-01"
 date: "2010-07-07T01:00:00+02:00"
 gewässer:
-- oder
+- mälaren
+- strömsholm kanal
+- hjälmaren
 images:
 - src: images/Ruderer_Faehranleger_Rostock_S10.jpg
   title: Ruderer Faehranleger Rostock S10
@@ -112,12 +114,6 @@ länder:
 title: Wanderfahrt Stroemsholm  Kanal Maelar 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Sommerwanderfahrt Schweden
