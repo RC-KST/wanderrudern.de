@@ -4,7 +4,6 @@ begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
 - donau
-- erne
 images:
 - src: images/Anreise_Bootstransport_nach_Budapest_Donau_2012.jpg
   title: Anreise Bootstransport nach Budapest Donau 2012
@@ -86,7 +85,9 @@ images:
   title: Bahnreise Budapest Berlin Donau 2012
 - src: images/Bahnreisende_Budapest_Berlin_Donau_2012.jpg
   title: Bahnreisende Budapest Berlin Donau 2012
-länder: []
+länder: 
+- ungarn
+- serbien
 title: Donau Budapest Eisernes Tor 2012
 typen: wanderfahrt
 ---
