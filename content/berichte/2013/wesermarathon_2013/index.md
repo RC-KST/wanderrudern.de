@@ -18,16 +18,11 @@ images:
   title: Hochseilfaehre Wesermarathon 2013
 - src: images/Jo_und_LingLing_am_Weserstein_2013.jpg
   title: Jo und LingLing am Weserstein 2013
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2013
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2013
