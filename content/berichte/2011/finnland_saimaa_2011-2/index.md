@@ -3,8 +3,6 @@ author: ""
 begin: "2011-11-01"
 date: "2011-11-11T01:00:00+02:00"
 gewässer:
-- inn
-- oder
 - saimaa
 images:
 - src: images/Finnisches_Fahrwasser_S11.jpg
@@ -56,17 +54,10 @@ images:
 - src: images/JarJar_im_Nachtclub_S11.jpg
   title: JarJar im Nachtclub S11
 länder:
-- dänemark
 - finnland
-- schweden
 title: Finnland Saimaa 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
