@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Eurega 2025
+title: Eurega 2025 Europäische Rhein Regatta
 #author: "Paul"
 begin: 2025-05-02
 end: 2025-05-04
