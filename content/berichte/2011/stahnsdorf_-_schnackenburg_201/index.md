@@ -9,8 +9,9 @@ gewässer:
 images:
 - src: images/Schleuse_Havelberg_Ex11.jpg
   title: Schleuse Havelberg Ex11
-länder: []
-title: Stahnsdorf - Schnackenburg Nov 2011
+länder: 
+- deutschland
+title: Stahnsdorf - Schnackenburg Juli 2011
 typen: wanderfahrt
 ---
 
