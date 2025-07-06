@@ -2,7 +2,8 @@
 author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Siegerehrung_Feuerwehr_Kleinmachnow_Drachenbootcup_2010.jpg
   title: Siegerehrung Feuerwehr Kleinmachnow Drachenbootcup 2010
@@ -16,17 +17,11 @@ images:
   title: Siegerehrung Kuehn Baeder Drachenbootrudercup 2010
 - src: images/Siegerehrung_Steisstrommler_Drachenbootcup_Kleinmachnow_2010.jpg
   title: Siegerehrung Steisstrommler Drachenbootcup Kleinmachnow 2010
-länder: []
+länder: 
+- deutschland
 title: Drachenbootcup 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ergebnisse des 5. Drachenboot- Rudercups 2010
 
