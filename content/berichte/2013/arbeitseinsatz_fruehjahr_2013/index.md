@@ -14,14 +14,8 @@ images:
   title: Jonathans Buddelkasten Februar 2013
 länder: []
 title: Arbeitseinsatz Fruehjahr 2013
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 1. Arbeitseinsatz im Frühjahr 2013
