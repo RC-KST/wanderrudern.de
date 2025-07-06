@@ -14,16 +14,11 @@ images:
   title: RC KST Vierer bei Birkenwerder am Steg 2012
 - src: images/Badepause_Brandenburgia_2012.jpg
   title: Badepause Brandenburgia 2012
-länder: []
+länder: 
+- deutschland
 title: Brandenburgia 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Brandenburgia Wochenendfahrt
