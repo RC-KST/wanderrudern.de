@@ -22,16 +22,11 @@ images:
   title: Annika Broetchenverkauf Drachenbootcup 2011
 - src: images/Grillstand_Drachenbootcup_2011.jpg
   title: Grillstand Drachenbootcup 2011
-länder: []
+länder: 
+- deutschland
 title: Drachenbootcup 2011
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 6. Drachenboot-Rudercup Kleinmachnow
