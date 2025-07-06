@@ -4,22 +4,18 @@ begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
 - spree
+- dahme
 - teltowkanal
 images:
 - src: images/Abrudern_Berlin_2010.jpg
   title: Abrudern Berlin 2010
 - src: images/Orivesi_legt_ab_Abrudern_Berlin_2010.jpg
   title: Orivesi legt ab Abrudern Berlin 2010
-länder: []
+länder: 
+- deutschland
 title: Berliner Abrudern 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Berliner Abrudern in Schmöckwitz
