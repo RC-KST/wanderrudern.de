@@ -4,11 +4,6 @@ begin: "2012-04-01"
 date: "2012-04-04T01:00:00+02:00"
 gewässer:
 - donau
-- teltowkanal
-- oder
-- erne
-- porsangenfjord
-- orivesi
 images:
 - src: images/Marlene_in_Budapest_Donau_2012.jpg
   title: Marlene in Budapest Donau 2012
@@ -149,20 +144,11 @@ images:
 - src: images/Bahn_Budapest_Berlin_Donau_12.jpg
   title: Bahn Budapest Berlin Donau 12
 länder:
-- deutschland
-- dänemark
 - ungarn
 - serbien
 title: Donau Budapest Eisernes Tor 2012
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Donau-Blog
 
