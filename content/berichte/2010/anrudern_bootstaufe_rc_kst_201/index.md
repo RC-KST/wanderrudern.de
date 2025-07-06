@@ -3,8 +3,6 @@ author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
-- warthe
-- orivesi
 images:
 - src: images/Medaillen_der_Wanderruderwettbewerbe_2010.jpg
   title: Medaillen der Wanderruderwettbewerbe 2010
@@ -19,14 +17,8 @@ images:
 länder:
 - deutschland
 title: Anrudern Bootstaufe RC KST 2010
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Anrudern 2010
