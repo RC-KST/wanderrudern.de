@@ -3,8 +3,6 @@ author: ""
 begin: "2010-01-01"
 date: "2010-01-01T01:00:00+02:00"
 gewässer:
-- rhein
-- erne
 images:
 - src: images/Zweier_startet_in_Rees_WRT10.jpg
   title: Zweier startet in Rees WRT10
@@ -20,17 +18,11 @@ images:
   title: Frauenzweier vor Emmerich WRT10
 - src: images/Ruderboote_Schleuse_Kleve_WRT10.jpg
   title: Ruderboote Schleuse Kleve WRT10
-länder: []
+länder: 
+- deutschland
 title: DRV Winsauerpreis
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ruderclub Kleinmachnow - Stahnsdorf - Teltow erneut erfolgreichster Deutscher Wanderruderverein
 
