@@ -8,7 +8,6 @@ gewässer:
 - ijssel
 - ijsselmeer
 - waal
-- oder
 images:
 - src: images/Aufriggern_in_Grenzach_Rhein_2011.jpg
   title: Aufriggern in Grenzach Rhein 2011
@@ -120,15 +119,12 @@ images:
   title: Ruderer beim Abschiedsessen Kampen 2011
 länder:
 - schweiz
+- frankreich
+- deutschland
+- niederlande
 title: Rhein 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Rheinwanderfahrt Grenzach - Ijsselmeer
