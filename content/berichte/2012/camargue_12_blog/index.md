@@ -2,7 +2,9 @@
 author: ""
 begin: "2012-02-01"
 date: "2012-02-02T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- mittelmeer
+- canal du midi
 images:
 - src: images/Abfahrt_in_Stahnsdorf_Camargue_2012.jpg
   title: Abfahrt in Stahnsdorf Camargue 2012
@@ -37,12 +39,6 @@ länder:
 title: Frankreich Camargue 12
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Camargue Blog Februar 2012
