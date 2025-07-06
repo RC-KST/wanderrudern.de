@@ -3,7 +3,6 @@ author: ""
 begin: "2011-01-01"
 date: "2011-01-01T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/Family_Trainer_Schleusenfest_Kleinmachnow_2011.jpg
   title: Family Trainer Schleusenfest Kleinmachnow 2011
@@ -13,14 +12,8 @@ images:
   title: Ruderbarke am Steg Schleusenfest Kleinmachnow 2011
 länder: []
 title: Schleusenfest Kleinmachnow 2011
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schleusenfest Kleinmachnow 2011
