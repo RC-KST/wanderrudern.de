@@ -2,8 +2,7 @@
 author: ""
 begin: "2012-07-01"
 date: "2012-07-07T01:00:00+02:00"
-gewässer:
-- po
+gewässer: []
 images:
 - src: images/Scharte_vor_der_Steirischen_Kalkspitze_Loipold_2012.jpg
   title: Scharte vor der Steirischen Kalkspitze Loipold 2012
@@ -61,17 +60,11 @@ images:
   title: Panorama Klafferkessel Loipold 2012
 - src: images/Panorama_Keinprechthuette_Loipold_2012.jpg
   title: Panorama Keinprechthuette Loipold 2012
-länder: []
+länder: 
+- österreich
 title: Loipoldhof 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Bergwanderung Juli 2012
 
