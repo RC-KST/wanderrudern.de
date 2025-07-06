@@ -4,8 +4,9 @@ begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
 - donau
-- erne
-länder: []
+länder:
+- ungarn
+- serbien
 title: Donau Budapest Eisernes Tor 2012
 typen: wanderfahrt
 ---
