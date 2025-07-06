@@ -3,11 +3,9 @@ author: ""
 begin: "2012-02-01"
 date: "2012-02-02T01:00:00+02:00"
 gewässer:
-- aller
-- teltowkanal
-- oder
 - vidourle
-- orivesi
+- mittelmeer
+- canal du midi
 images:
 - src: images/Fahrtenleiter_und_Fuchs_Camargue_2012.jpg
   title: Fahrtenleiter und Fuchs Camargue 2012
@@ -52,18 +50,10 @@ images:
 - src: images/Abendessen_in_Le_Grau_du_Roi_2012.jpg
   title: Abendessen in Le Grau du Roi 2012
 länder:
-- deutschland
 - frankreich
 title: Frankreich Camargue 12
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Frankreich Camargue im Februar 2012
 
