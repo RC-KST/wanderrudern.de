@@ -14,13 +14,8 @@ images:
   title: Rollbahnen wechseln Februar 2011
 länder: []
 title: Arbeitseinsatz Februar 2011
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
