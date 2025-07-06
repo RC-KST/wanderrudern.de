@@ -15,16 +15,11 @@ images:
   title: Ablegen Kleinmachnow Kinderfahrt 2012
 - src: images/Abendessen_kochen_Dresdenia_2012.jpg
   title: Abendessen kochen Dresdenia 2012
-länder: []
+länder:
+- deutschland
 title: Kinderruderfahrt Spandau 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Anfänger Ruderfahrt 2012
