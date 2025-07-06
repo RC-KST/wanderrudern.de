@@ -3,7 +3,6 @@ author: ""
 begin: "2010-08-01"
 date: "2010-08-08T01:00:00+02:00"
 gewässer:
-- po
 images:
 - src: images/Bergpanorama_Dachstein_Stoderzinken_Kammspitze_L10.jpg
   title: Bergpanorama Dachstein Stoderzinken Kammspitze L10
@@ -47,16 +46,11 @@ images:
   title: Maedchen in Wiese L10
 - src: images/Kletterstelle_oberhalb_vom_Riesachsee_L10.jpg
   title: Kletterstelle oberhalb vom Riesachsee L10
-länder: []
+länder: 
+- österreich
 title: Loipoldhof 2010
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwandern auf dem Loipoldhof 2010
