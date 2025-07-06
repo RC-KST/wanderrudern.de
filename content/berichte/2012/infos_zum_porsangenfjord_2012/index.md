@@ -3,7 +3,6 @@ author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
-- po
 - porsangenfjord
 - barentssee
 images:
@@ -13,16 +12,11 @@ images:
   title: Dreier auf der Barentssee 2012
 - src: images/Letzte_Bucht_aber_ohne_Strassenanschluss_2012.jpg
   title: Letzte Bucht aber ohne Strassenanschluss 2012
-länder: []
+länder: 
+- norwegen
 title: Nordkap 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Infos zum Porsangenfjord und Barentssee
