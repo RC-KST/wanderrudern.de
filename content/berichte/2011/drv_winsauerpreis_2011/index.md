@@ -3,7 +3,6 @@ author: ""
 begin: "2011-01-01"
 date: "2011-01-01T01:00:00+02:00"
 gewässer:
-- erne
 images:
 - src: images/Winsauerpreis_Gruppe_C_an_den_RC_KST_2012.jpg
   title: Winsauerpreis Gruppe C an den RC KST 2012
@@ -16,14 +15,8 @@ images:
 länder:
 - deutschland
 title: DRV Winsauerpreis 2011
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ruderclub Kleinmachnow - Stahnsdorf - Teltow erneut erfolgreichster Deutscher Wanderruderverein
