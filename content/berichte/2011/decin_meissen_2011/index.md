@@ -4,7 +4,6 @@ begin: "2011-01-01"
 date: "2011-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Barke_am_Steg_Decin_Elbe_11.jpg
   title: Barke am Steg Decin Elbe 11
@@ -20,16 +19,12 @@ images:
   title: Barkendemontage in Meissen Elbe11
 - src: images/Der_Schrauber_an_der_Barke_Elbe_11.jpg
   title: Der Schrauber an der Barke Elbe 11
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Decin Meissen 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Barkenfahrt auf der Elbe
