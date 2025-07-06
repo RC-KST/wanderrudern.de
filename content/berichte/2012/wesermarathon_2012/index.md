@@ -32,16 +32,11 @@ images:
   title: Bad Karlshafen Wesermarathon 2012
 - src: images/Chillen_im_Boot_nach_dem_Marathon_2012.jpg
   title: Chillen im Boot nach dem Marathon 2012
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2012
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Werra - Wesermarathon - Weserfahrt 2012
