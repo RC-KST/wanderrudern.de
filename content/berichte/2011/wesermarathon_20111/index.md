@@ -30,16 +30,11 @@ images:
   title: Masters am Zielsteg Wesermarathon 11
 - src: images/Frauenzweier_in_Hameln_WM11.jpg
   title: Frauenzweier in Hameln WM11
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2011
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2011 mit Fuldavorfahrt
