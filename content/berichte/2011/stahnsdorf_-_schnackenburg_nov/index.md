@@ -6,7 +6,6 @@ gewässer:
 - elbe
 - plauer see
 - trebelsee
-- oder
 images:
 - src: images/Elbe_Havel_Kanal_kurz_vor_Genthin_Stahnsdorf_Elbe_2011.jpg
   title: Elbe Havel Kanal kurz vor Genthin Stahnsdorf Elbe 2011
@@ -20,17 +19,11 @@ images:
   title: Schnackenburg Ruderer am Ziel November 2011
 - src: images/Aussichtsturm_Schnackenburg_November_2011.jpg
   title: Aussichtsturm Schnackenburg November 2011
-länder: []
+länder: 
+- deutschland
 title: Stahnsdorf - Schnackenburg Nov 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Stahnsdorf nach Schnackenburg, die 2.
 
