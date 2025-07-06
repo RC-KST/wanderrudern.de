@@ -17,17 +17,11 @@ images:
   title: Ruderer Brandenburg Malabar 2012
 - src: images/Ruderboote_Brandenburg_Havel_Maerz12.jpg
   title: Ruderboote Brandenburg Havel Maerz12
-länder: []
+länder: 
+- deutschland
 title: Ketzin Fruehjahr 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ketzin März 2012
 
