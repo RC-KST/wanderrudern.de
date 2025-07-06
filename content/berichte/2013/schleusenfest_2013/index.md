@@ -1,7 +1,7 @@
 ---
 author: ""
-begin: "2014-03-01"
-date: "2014-03-03T01:00:00+02:00"
+begin: "2013-03-01"
+date: "2013-03-03T01:00:00+02:00"
 gewässer: []
 images:
 - src: images/Kirchboot_beim_Einsetzen_Schleusenfest_2013.jpg
@@ -10,15 +10,11 @@ images:
   title: Kirchboot Schleuse Kleinmachnow Schleusenfest 2013
 - src: images/Kirchboot_auf_dem_Pohlesee_Schleusenfest_2013.jpg
   title: Kirchboot auf dem Pohlesee Schleusenfest 2013
-länder: []
-title: Schleusenfest 2014
+länder: 
+- deutschland
+title: Schleusenfest 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
