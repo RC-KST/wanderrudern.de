@@ -8,14 +8,8 @@ images:
   title: Winsauerpreis Nirina LingLing Stefan 2013
 länder: []
 title: DRV Winsauerpreis 2013
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Winsauerpreis des Deutschen Ruderverbandes an den RC KST
