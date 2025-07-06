@@ -15,17 +15,11 @@ images:
   title: Havelufer Herbst 2012
 - src: images/Wanderruderer_bei_Havel_Brandenburg_Herbst_2012.jpg
   title: Wanderruderer bei Havel Brandenburg Herbst 2012
-länder: []
+länder: 
+- deutschland
 title: Beetzsee Herbst 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Von Stahnsdorf zum Beetzsee
 
