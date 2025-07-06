@@ -3,10 +3,8 @@ author: ""
 begin: "2012-01-01"
 date: "2012-01-01T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 - plauer see
-- oder
 images:
 - src: images/Libelle_Havelberg_2012.jpg
   title: Libelle Havelberg 2012
@@ -20,16 +18,11 @@ images:
   title: Kindervierer Havel 2012
 - src: images/Rudervierer_Havel_2012.jpg
   title: Rudervierer Havel 2012
-länder: []
+länder: 
+- deutschland
 title: Havelberg 2012
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Havelwanderfahrt Stahnsdorf - Havelberg
