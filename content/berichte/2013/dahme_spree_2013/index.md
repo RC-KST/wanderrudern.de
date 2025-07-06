@@ -33,16 +33,11 @@ images:
   title: Schafott Schleuse Spreewald Dahme Spree Umfahrt 2013
 - src: images/Hannes_beim_staken_Dahme_Spree_2013.jpg
   title: Hannes beim staken Dahme Spree 2013
-länder: []
+länder: 
+- deutschland
 title: Dahme Spree 2013
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Dahme- Spree- Umfahrt Sommer 2013
