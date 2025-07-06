@@ -2,7 +2,10 @@
 author: ""
 begin: "2011-06-01"
 date: "2011-06-06T01:00:00+02:00"
-gewässer: []
+gewässer:
+- wannsee
+- teltowkanal
+- havel
 images:
 - src: images/Ruderer_bei_der_Sternfahrt_Kleinmachnow_2011.jpg
   title: Ruderer bei der Sternfahrt Kleinmachnow 2011
@@ -18,13 +21,6 @@ länder: []
 title: Sternfahrt 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Sternfahrt Juni 2011
 
