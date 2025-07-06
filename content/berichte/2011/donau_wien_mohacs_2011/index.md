@@ -4,8 +4,6 @@ begin: "2011-04-01"
 date: "2011-04-04T01:00:00+02:00"
 gewässer:
 - donau
-- oste
-- oder
 images:
 - src: images/donaukarte_Ungarn.jpg
   title: donaukarte Ungarn
@@ -126,13 +124,6 @@ länder:
 title: Donau Wien Mohacs 2011
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Osterwanderfahrt 2011
 
