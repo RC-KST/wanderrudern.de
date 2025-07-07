@@ -3,7 +3,7 @@ author: ""
 begin: "2007-09-01"
 date: "2007-09-09T01:00:00+02:00"
 gewässer:
--teltowkanal
+- teltowkanal
 images:
 - src: images/Drachenboot_am_Steg_in_Kleinmachnow.jpg
   title: Drachenboot am Steg in Kleinmachnow
