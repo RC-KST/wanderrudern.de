@@ -3,7 +3,7 @@ author: ""
 begin: "2008-03-01"
 date: "2008-03-03T01:00:00+02:00"
 gewässer:
-- oder
+- havel
 images:
 - src: images/Auf_dem_Weg_nach_Ketzin_Nov08.jpg
   title: Auf dem Weg nach Ketzin Nov08
@@ -12,12 +12,6 @@ länder:
 title: Ketzin November 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketziner Eisfahrt (28. November bis 30. November 2008)
