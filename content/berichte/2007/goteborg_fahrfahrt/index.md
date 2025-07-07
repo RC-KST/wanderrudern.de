@@ -36,15 +36,9 @@ images:
   title: beim Tanzen GB07
 länder:
 - schweden
-title: Göteborg Fährfahrt
-typen: wanderfahrt
+title: Göteborg Fährfahrt 2007
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fährfahrt nach Göteborg Februar 2007
