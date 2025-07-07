@@ -2,7 +2,8 @@
 author: ""
 begin: "2009-05-01"
 date: "2009-05-05T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- bodensee
 images:
 - src: images/04-1tag-blick_auf_rorschach.jpg
   title: 04-1tag-blick_auf_rorschach
@@ -42,17 +43,10 @@ images:
   title: Pfahlbauten Bodensee 09
 länder:
 - deutschland
-- schweden
 - schweiz
 title: Bodensee 09
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bodenseefahrt vom 6.- 11. Mai 2009
