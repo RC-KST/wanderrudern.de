@@ -3,8 +3,7 @@ author: ""
 begin: "2006-01-01"
 date: "2006-01-01T01:00:00+02:00"
 gewässer:
-- oder
-- rhone
+- canal du midi
 - mittelmeer
 images:
 - src: images/camargue06_party2.jpg
@@ -70,12 +69,6 @@ länder:
 title: Camargue 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fahrtenbericht Frankreich 2006 (27.01. - 04.02.06)
