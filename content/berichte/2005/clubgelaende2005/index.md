@@ -20,14 +20,8 @@ images:
   title: schuppen_bau
 länder: []
 title: Clubgelaende2005
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Der Arbeitsgrosseinsatz vom Oktober 2005.
