@@ -4,7 +4,6 @@ begin: "2007-01-01"
 date: "2007-01-01T01:00:00+02:00"
 gewässer:
 - teltowkanal
-- oder
 images:
 - src: images/Boote_vor_dem_Steg_ToT07.jpg
   title: Boote vor dem Steg ToT07
@@ -34,12 +33,6 @@ länder: []
 title: Tag der Offenen Tuer 2007
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2007
