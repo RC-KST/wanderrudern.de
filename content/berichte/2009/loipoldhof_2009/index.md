@@ -3,7 +3,6 @@ author: ""
 begin: "2009-01-01"
 date: "2009-01-01T01:00:00+02:00"
 gewässer:
-- po
 images:
 - src: images/Wanderer_oberhalb_vom_Gutenberghaus_Loipold_09.jpg
   title: Wanderer oberhalb vom Gutenberghaus Loipold 09
@@ -75,16 +74,11 @@ images:
   title: Panorama Loipoldhof 3-09
 - src: images/Panorama_Loipoldhof_4-09.jpg
   title: Panorama Loipoldhof 4-09
-länder: []
+länder: 
+- österreich
 title: Loipoldhof 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwandern auf dem Loipoldhof 2009
