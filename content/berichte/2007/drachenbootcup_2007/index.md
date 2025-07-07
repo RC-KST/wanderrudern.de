@@ -3,8 +3,7 @@ author: ""
 begin: "2007-09-01"
 date: "2007-09-09T01:00:00+02:00"
 gewässer:
-- oder
-- bug
+-teltowkanal
 images:
 - src: images/Drachenboot_am_Steg_in_Kleinmachnow.jpg
   title: Drachenboot am Steg in Kleinmachnow
@@ -50,17 +49,11 @@ images:
   title: Siegerehrung Drachenbootcup 07
 - src: images/Dritter_Platz_bei_den_Profis_DB07.jpg
   title: Dritter Platz bei den Profis DB07
-länder: []
+länder: 
+- deutschland
 title: Drachenbootcup 2007
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Drachenboot-Rudercup am 30.09.2007
 
