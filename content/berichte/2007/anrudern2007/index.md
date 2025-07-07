@@ -42,7 +42,7 @@ images:
 länder:
 - deutschland
 title: Anrudern 2007 beim RC Kleinmachnow
-typen:veranstaltung
+typen: veranstaltung
 ---
 
 
