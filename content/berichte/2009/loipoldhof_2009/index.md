@@ -77,7 +77,7 @@ images:
 länder: 
 - österreich
 title: Loipoldhof 2009
-typen: wanderfahrt
+typen: bergwandern
 ---
 
 
