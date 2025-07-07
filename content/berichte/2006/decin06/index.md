@@ -42,12 +42,7 @@ typen: wanderfahrt
 
 
 
-# Adventsfahrt D
-
-
-ěč
-
-in – Meißen
+# Adventsfahrt Děčin – Meißen
 
 Zu unserer traditionellen Adventsfahrt starteten im Jahr 2006 Stefan Biastock, Levon Bormann, Sandro Genrich, Christian Grabert, Patrick Ziegler, Hendrik Wogan, Jens, Katrin und Marlies Schöpfel. Von den Guten“ begleiteten uns Simon Forstreuter, Robin Hannß und Nicolas Michael.
 
