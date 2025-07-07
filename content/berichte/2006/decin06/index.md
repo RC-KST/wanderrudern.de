@@ -3,8 +3,7 @@ author: ""
 begin: "2006-01-01"
 date: "2006-01-01T01:00:00+02:00"
 gewässer:
-- aller
-- oder
+- elbe
 images:
 - src: images/Barkenbau_in_Decin_06.jpg
   title: Barkenbau in Decin 06
@@ -34,15 +33,12 @@ images:
   title: Katamaran 06
 - src: images/Kinder_auf_der_Barke_2006.jpg
   title: Kinder auf der Barke 2006
-länder: []
+länder:
+- tschechien
+- deutschland
 title: Decin06
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
