@@ -75,7 +75,7 @@ images:
 länder:
 - österreich
 title: Loipoldhof 2008
-typen: wanderfahrt
+typen: bergwandern
 ---
 
 
