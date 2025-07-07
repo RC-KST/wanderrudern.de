@@ -16,7 +16,7 @@ images:
 länder:
 - schweden
 title: Tips für Schweden Mälar 2010
-typen: veranstaltungen
+typen: wanderfahrt
 ---
 
 
