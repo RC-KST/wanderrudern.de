@@ -2,7 +2,8 @@
 author: ""
 begin: "2008-07-01"
 date: "2008-07-07T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- havel
 images:
 - src: images/Dresdenia_Boote_auf_der_Wiese_J08.jpg
   title: Dresdenia Boote auf der Wiese J08
@@ -16,16 +17,11 @@ images:
   title: Saffonia-Kinderbadespass5 J08
 - src: images/die_Masters_bei_Saffonua_J08.jpg
   title: die Masters bei Saffonua J08
-länder: []
+länder:
+- deutschland
 title: Berlin Saffonia 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Sternfahrt Saffonia Juli 2008
