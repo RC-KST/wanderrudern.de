@@ -3,7 +3,6 @@ author: ""
 begin: "2001-11-01"
 date: "2001-11-11T01:00:00+02:00"
 gewässer:
-- rhein
 - mosel
 images:
 - src: images/metz.jpg
@@ -30,16 +29,9 @@ länder:
 - deutschland
 - frankreich
 - luxemburg
-- italien
-title: Camargue 2001
+title: Metz - Koblenz
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Moselwanderfahrt Metz-Koblenz
@@ -47,7 +39,7 @@ Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte e
 
 Am letzten Schultag vor den Herbstferien brachen wir mit 2 Kleinbussen und einem Bootshänger auf. Dank erstaunlich freier Straßen kamen wir am Abend in Kassel an, wo wir im Bootshaus des  Friedrichsgymnasium Kassel übernachteten. Das Quartier ist ein bißchen rustikal, aber Wanderruderer sind hart im nehmen.
 
-Die Teilnehmer: Martina Jagsch, Hannah Brüggemann, Kai + Timo Siempelkamp, Christian Grabert,  Kartin + Wolfgang Schirp, sowie Karsten, Malte und Anke Schirp. Die drei letztgenannten sind 2, 4 und 6 Jahre alt und sollten eigentlich nur im Landdienst sitzen. Karsten war aber fast die gesamte Strecke im Boot, als  Steuermann und bis zu 5 Kilometer am Stück auch als Ruderer.
+Die Teilnehmer: Martina, Hannah, Kai, Timo, Chrishe,  Kartin, Wolfgang, sowie Karsten, Malte und Anke. Die drei letztgenannten sind 2, 4 und 6 Jahre alt und sollten eigentlich nur im Landdienst sitzen. Karsten war aber fast die gesamte Strecke im Boot, als  Steuermann und bis zu 5 Kilometer am Stück auch als Ruderer.
 
 Am Samstag ging es quer durch Deutschland weiter. Am Nachmittag dann noch ein paar Kilometer nach Frankreich. Die Jugendherberge in Metz war schnell  gefunden. Eine geeignete Einsetzstelle zu finden war dann schon schwerer. Nach einer längeren Irrfahrt durch das Stadtzentrum (teilweise mit Bootsanhänger) fanden wir dann immerhin den Kajakklub.
 
