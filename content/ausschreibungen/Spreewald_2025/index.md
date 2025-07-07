@@ -14,7 +14,7 @@ images:
   title: Bodemuserum mit Ruderbooten
 ---
 
-# Spreewaldfahrt Oktoberwochenende 205
+# Spreewaldfahrt Oktoberwochenende 2025
 
 ## 02. - 05. Oktober 2025
 
