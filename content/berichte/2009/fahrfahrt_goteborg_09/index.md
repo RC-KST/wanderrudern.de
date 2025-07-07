@@ -16,15 +16,11 @@ images:
   title: Schneesturm auf dem Oberdeck 09
 - src: images/LKW_Simulator_09.jpg
   title: LKW Simulator 09
-länder: []
+länder: 
+- schweden
 title: Fährfahrt Göteborg 09
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
