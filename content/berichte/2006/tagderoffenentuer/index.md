@@ -16,17 +16,11 @@ images:
   title: Rudervierer Anfänger Stahnsdorf
 - src: images/tot06_feuer.jpg
   title: tot06_feuer
-länder: []
+länder: 
+- deutschland
 title: Tag der offenen Tür 2006
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Erfolgreicher Tag der offenen Tür am 30. April + 1. Mai
 
