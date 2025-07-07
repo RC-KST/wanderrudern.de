@@ -42,16 +42,11 @@ images:
   title: loipoldhof_zinken_scheibeleck
 - src: images/lp05_abendessen.jpg
   title: abendessen loipoldhof
-länder: []
+länder: 
+- österreich
 title: Bergwandern2005
-typen: wanderfahrt
+typen: bergwandern
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwanderung 2005
