@@ -12,7 +12,7 @@ images:
 länder:
 - ukraine
 title: Tips für Rumänien 2010
-typen: veranstaltung
+typen: wanderfahrt
 ---
 
 # Tips für Rumänienfahrten
