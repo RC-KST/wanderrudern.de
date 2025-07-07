@@ -18,7 +18,7 @@ länder:
 - italien
 - schweiz
 - irland
-title: WRT Saarbrücken 2021
+title: Äquatorpreis Patrik 2021
 typen: veranstaltung
 ---
 
