@@ -9,15 +9,6 @@ images:
   title: Patrik Äquatorpreis WRT2021
 länder:
 - deutschland
-- frankreich
-- niederlande
-- finnland
-- norwegen
-- schweden
-- polen
-- italien
-- schweiz
-- irland
 title: Äquatorpreis Patrik 2021
 typen: veranstaltung
 ---
