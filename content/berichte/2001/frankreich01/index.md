@@ -3,8 +3,6 @@ author: ""
 begin: "2001-01-01"
 date: "2001-01-01T01:00:00+02:00"
 gewässer:
-- mosel
-- oder
 - canal du midi
 - vidourle
 - mittelmeer
@@ -30,12 +28,6 @@ länder:
 title: Camargue 2001
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Die Flucht in die Sonne...
@@ -69,9 +61,7 @@ Häuslich wie wir nun mal sind ließen einige den Abend im Hotel ausklingen. Der
 
 Am zweiten Tag ging es mit 2 Vierern und einer großen Zahl an Einern, durch den Hafen aufs Mittelmeer heraus. Werner fuhr Begleitmotorboot (Vorschrift in Frankreich bei Meeresbefahrungen). Das Meer war spiegelglatt nur die Motorbootwellen nervten, besonders die von unserem eigenen Motorboot, oder wie formulierte es Wolfgang: “Das Boot beschützt uns vor den Gefahren, die wir ohne es gar nicht hätten. Die Vierer waren überhaupt nicht wellengängig und viel zu flach (Ich will meinen Baumgarten-Vierer wiederhaben).
 
-Bei strahlendem Sonnenschein drehten w
-
-ir eine Runde durch den Yachthafen von Port Camargue (einer Retortentouristadt a la Frankreich). Dann ging es an den Strand. Hier zeigte sich leider, daß man das Motorboot brauchte um einige disziplinlose Einerfahrer, die sich von der Gruppe absetzten, wieder einzufangen.
+Bei strahlendem Sonnenschein drehten wir eine Runde durch den Yachthafen von Port Camargue (einer Retortentouristadt a la Frankreich). Dann ging es an den Strand. Hier zeigte sich leider, daß man das Motorboot brauchte um einige disziplinlose Einerfahrer, die sich von der Gruppe absetzten, wieder einzufangen.
 
 Die Anlege am Strand wurde für einige Leute trotz lächerlich niedriger Brandung zum Problem, allerdings hatte hier das Motorboot die meisten Probleme.
 
@@ -89,9 +79,7 @@ Die beiden letzten Tage waren als Zweitagesfahrt geplant. Mit zwei Vierern und l
 
 Am zweiten Tag wurden wir am frühen Morgen nach St.Gilles gebracht. Kilian, Martina und Stefan waren bereits mit dem ersten Auto da und besichtigten die Stadt inklusive des Heimatmuseums (kostenlos + warm, der Wind fegte ziemlich durch den Ort und Kilian war ohne Pullover).
 
-Als der Rest eintraf
-
-machten wir uns per Boot auf den Rückweg. Der Mistral, der uns heute hätte schieben sollen, schlief natürlich nach 1 Stunde fast völlig ein, aber wir genossen die Rückfahrt trotz fehlendem Schiebewind, ohne Mistral wurde es wieder richtig warm.. Ein Vierer gönnte sich noch einen Zwischenstop in einer Dorfgaststätte unterwegs.
+Als der Rest eintraf machten wir uns per Boot auf den Rückweg. Der Mistral, der uns heute hätte schieben sollen, schlief natürlich nach 1 Stunde fast völlig ein, aber wir genossen die Rückfahrt trotz fehlendem Schiebewind, ohne Mistral wurde es wieder richtig warm.. Ein Vierer gönnte sich noch einen Zwischenstop in einer Dorfgaststätte unterwegs.
 
 Schirps machten unterdessen einen Reitausflug durch die Camargue.
 
