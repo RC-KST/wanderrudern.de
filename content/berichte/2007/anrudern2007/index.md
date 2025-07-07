@@ -2,7 +2,8 @@
 author: ""
 begin: "2007-01-01"
 date: "2007-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Anrudern_2007_Ruderer.JPG
   title: Anrudern 2007 Ruderer
@@ -39,16 +40,10 @@ images:
 - src: images/Barke_in_Stahndsdorf.JPG
   title: Barke in Stahndsdorf
 länder:
-- schweden
+- deutschland
 title: Anrudern 2007 beim RC Kleinmachnow
-typen: wanderfahrt
+typen:veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Anrudern 2007
