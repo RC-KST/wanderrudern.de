@@ -5,7 +5,6 @@ date: "2006-08-08T01:00:00+02:00"
 gewässer:
 - spree
 - spreewald
-- saimaa
 images:
 - src: images/Schleuse_Neue_Muehle_August_06.jpg
   title: Schleuse Neue Muehle August 06
@@ -35,16 +34,11 @@ images:
   title: mannschaft Ruderboot Dreier
 - src: images/Ruderclub_Beeskow_August_06.jpg
   title: Ruderclub Beeskow August 06
-länder: []
+länder: 
+- deutschland
 title: spreewald 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Spreewaldfahrt vom 4.-8. August 06
