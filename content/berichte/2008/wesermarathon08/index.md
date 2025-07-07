@@ -4,7 +4,6 @@ begin: "2008-05-01"
 date: "2008-05-05T01:00:00+02:00"
 gewässer:
 - weser
-- fulda
 - werra
 - aller
 images:
@@ -40,15 +39,11 @@ images:
   title: Wesermarathon 08 im Nebel
 - src: images/Starke_Ruderer_beim_Wesermarathon_08.jpg
   title: Starke Ruderer beim Wesermarathon 08
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon08
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
