@@ -21,16 +21,11 @@ images:
   title: Mittagspause am Beetzsee
 - src: images/Zielturm_Beetzsee.jpg
   title: Zielturm Beetzsee
-länder: []
+länder: 
+- deutschland
 title: Jugend Wanderrudertreffen Brandenburg 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Jugend-Wanderrudertreffen 2007
