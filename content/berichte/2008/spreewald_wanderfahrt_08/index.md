@@ -28,15 +28,11 @@ images:
   title: Alt Schadow Ruderboote Sp08
 - src: images/Trebatsch__Boote_aufladen_Sp08.jpg
   title: Trebatsch  Boote aufladen Sp08
-länder: []
+länder: 
+- deutschland
 title: Spreewald Wanderfahrt 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
