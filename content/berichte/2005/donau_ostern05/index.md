@@ -5,20 +5,12 @@ date: "2005-05-05T01:00:00+02:00"
 gewässer:
 - donau
 - ilz
-- oste
-- oder
 länder:
 - deutschland
 - österreich
 title: Donau Ostern 2005
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wanderfahrt Ostern 22.03. – 03.04.2005 von Ingolstadt nach Wien
