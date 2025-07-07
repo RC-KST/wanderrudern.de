@@ -3,7 +3,8 @@ author: ""
 begin: "2003-01-01"
 date: "2003-01-01T01:00:00+02:00"
 gewässer:
-- oder
+- inari
+- ivalojoki
 images:
 - src: images/mannschaft_fjord.jpg
   title: porsangenfjord Ruderer
@@ -37,15 +38,11 @@ images:
   title: Laura beim Karaoke
 - src: images/letzteHuette.jpg
   title: letzteHuette
-länder: []
+länder:
+- Finnland
 title: inari 2003
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
@@ -56,21 +53,21 @@ Wanderfahrt des RC-KSt auf dem INARI-See in Lappland
 
 Teilnehmer:
 
-Greta Dinslage11 Jahre
+Greta 11 Jahre
 
-Lisa Hinz 12 Jahre
+Lisa 12 Jahre
 
-Norina Keller 13 Jahre
+Norina 13 Jahre
 
-Kilian Klauber 14 Jahre
+Kilian 14 Jahre
 
-Martina Jagsch 19 Jahre
+Martina 19 Jahre
 
-Laura Herbst 23 Jahre
+Laura 23 Jahre
 
-Stefan Biastock38 Jahre
+Stefan 38 Jahre
 
-Thomas Borkowsky 43 Jahre
+Thomas B. 43 Jahre
 
 [Landkarte](/berichte/2003/inari_karte)
 
