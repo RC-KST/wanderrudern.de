@@ -49,7 +49,7 @@ images:
 länder: 
 - österreich
 title: Loipoldhof 2010
-typen: wanderfahrt
+typen: bergwandern
 ---
 
 
