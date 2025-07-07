@@ -3,7 +3,6 @@ author: ""
 begin: "2005-01-01"
 date: "2005-01-01T01:00:00+02:00"
 gewässer:
-- oder
 - saimaa
 - orivesi
 images:
@@ -170,18 +169,10 @@ images:
 - src: images/Finnland_2005_-_trelleborg_paula_jens__216_.jpg
   title: Finnland 2005 - trelleborg paula jens (216)
 länder:
-- deutschland
 - finnland
-- schweden
 title: Saimaa 2005
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Saimaa-Seenplatte 22.06 - 19.07.05
