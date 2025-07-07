@@ -15,7 +15,7 @@ images:
   title: Schwedische Uferlandschaft S10
 länder:
 - schweden
-title: Wanderfahrt Stroemsholm  Kanal Maelar 2010
+title: Tips für Schweden Mälar 2010
 typen: veranstaltungen
 ---
 
