@@ -4,21 +4,17 @@ begin: "2006-09-01"
 date: "2006-09-09T01:00:00+02:00"
 gewässer:
 - müritz
-- inarisee
+- mecklenburger seenplatte
 images:
 - src: images/Mirow06_bolterkanal.jpg
   title: Mirow06 bolter kanal ruderboot
 - src: images/Mirow06_mueritz.jpg
   title: Mirow06 mueritz rudern
-länder: []
+länder: 
+- deutschland
 title: Mirow 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
