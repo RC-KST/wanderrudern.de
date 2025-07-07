@@ -3,7 +3,6 @@ author: ""
 begin: "2008-05-01"
 date: "2008-05-05T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 - teltowkanal
 images:
@@ -15,16 +14,11 @@ images:
   title: Zweier auf dem Plauer See 08
 - src: images/Ruderer_in_Havelberg_08.jpg
   title: Ruderer in Havelberg 08
-länder: []
+länder: 
+- deutschland
 title: Stahnsdorf Havelberg 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wanderfahrt auf der Unteren Havel
