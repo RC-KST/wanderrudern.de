@@ -3,7 +3,7 @@ author: ""
 begin: "2008-06-01"
 date: "2008-06-06T01:00:00+02:00"
 gewässer:
-- pielisjoki
+- spree
 images:
 - src: images/quer_durch_berlin_regatta_046.jpg
   title: quer_durch_berlin_regatta_046
@@ -17,15 +17,8 @@ images:
   title: quer_durch_berlin_regatta_025
 länder: []
 title: Quer durch Berlin 08
-typen: wanderfahrt
+typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Quer durch Berlin 2008
 
