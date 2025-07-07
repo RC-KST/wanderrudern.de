@@ -3,7 +3,6 @@ author: ""
 begin: "2005-01-01"
 date: "2005-01-01T01:00:00+02:00"
 gewässer:
-- elbe
 - havel
 images:
 - src: images/havel05_rathenow_steg.jpg
@@ -12,7 +11,8 @@ images:
   title: havel rathenow steg Ruderer
 - src: images/havel05_steg.jpg
   title: Gepäck verladen Rudern
-länder: []
+länder: 
+- deutschland
 title: Berlin havelberg 2005
 typen: wanderfahrt
 ---
