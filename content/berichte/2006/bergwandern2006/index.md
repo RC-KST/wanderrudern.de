@@ -3,7 +3,6 @@ author: ""
 begin: "2006-08-01"
 date: "2006-08-08T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/loipold06S_002.jpg
   title: Weg zum Gutenberghaus
@@ -49,16 +48,11 @@ images:
   title: Loipoldhof
 - src: images/loipold06_063.jpg
   title: Obersee Loipoldhof
-länder: []
+länder: 
+- österreicj
 title: Bergwandern2006
-typen: wanderfahrt
+typen: bergwandern
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwanderung August 2006
