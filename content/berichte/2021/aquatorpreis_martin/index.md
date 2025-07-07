@@ -9,7 +9,7 @@ images:
 länder:
 - deutschland
 - irland
-title: WRT Saarbrücken 2021
+title: Äquatorpreis Martin 2021
 typen: veranstaltung
 ---
 
