@@ -6,7 +6,7 @@ gewässer:
 - teltowkanal
 - dahme
 länder: 
-deutschland
+- deutschland
 title: Schmoeckwitz 2004
 typen: wanderfahrt
 ---
