@@ -5,8 +5,6 @@ date: "2007-04-04T01:00:00+02:00"
 gewässer:
 - donau
 - donaukanal
-- oste
-- oder
 images:
 - src: images/Burgtheater_Wien_DWM07.JPG
   title: Burgtheater Wien DWM07
@@ -179,20 +177,12 @@ images:
 - src: images/Paula_schlaeft_DWM07.JPG
   title: Paula schlaeft DWM07
 länder:
-- deutschland
 - österreich
 - ungarn
 - slowakei
 title: Donau Wien Mohacs 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Osterfahrt auf der Donau von Wien nach Mohacs
 
