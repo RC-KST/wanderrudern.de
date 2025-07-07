@@ -11,7 +11,7 @@ images:
   title: deltakarte
 länder:
 - ukraine
-title: Donaudelta Ostern 2010
+title: Tips für Rumänien 2010
 typen: veranstaltung
 ---
 
