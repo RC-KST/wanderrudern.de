@@ -3,7 +3,6 @@ author: ""
 begin: "2003-01-01"
 date: "2003-01-01T01:00:00+02:00"
 gewässer:
-- aller
 - mecklenburger seenplatte
 - labussee
 images:
@@ -13,17 +12,11 @@ images:
   title: auf der Müritz
 - src: images/kochen_mb0302.jpg
   title: Kochen in Waren beim Ruderverein
-länder: []
+länder:
+ deutschland
 title: Zechlin Waren 2003
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Mecklenburger Seenplatte
 
