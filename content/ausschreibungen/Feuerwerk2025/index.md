@@ -3,9 +3,7 @@ draft: false
 author: "Stefan"
 begin: "2025-07-19"
 title: Feuerwerk 2025
-images:
-- src: images/Glienicker Bruecke Feuerwerk 2025.jpg
-  title: Feuerwerk an der Glienicker Brücke
+images: []
 ---
 # Feuerwerk + Blasmusik Glienicker Brücke + Sacrower Kirche
 
