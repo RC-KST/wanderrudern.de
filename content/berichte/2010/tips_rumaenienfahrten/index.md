@@ -12,7 +12,7 @@ images:
 länder:
 - ukraine
 title: Donaudelta Ostern 2010
-typen: veranstaltungen
+typen: veranstaltung
 ---
 
 # Tips für Rumänienfahrten
