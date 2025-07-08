@@ -2,17 +2,13 @@
 author: ""
 begin: "2005-11-01"
 date: "2005-11-11T01:00:00+02:00"
-gewässer: []
-länder: []
+gewässer: 
+- havel
+länder: 
+- deutschland
 title: Spandau November 2005
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wochenendfahrt vom 18. bis zum 20.11.2005 nach Spandau

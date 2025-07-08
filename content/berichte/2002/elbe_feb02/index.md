@@ -4,7 +4,6 @@ begin: "2002-02-01"
 date: "2002-02-02T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/martina_elb02.jpg
   title: Elbe Februar Rudern
@@ -18,16 +17,11 @@ images:
   title: Hochwasser Elbe Aken Ruderboot
 - src: images/kanalbruecke.jpg
   title: 'Mittellandkanalbrücke '
-länder: []
-title: Prag Hamburg 2002
+länder:
+- deutschland
+title: Elbe bei Hochwasser 2002
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wanderfahrt über die anhaltinische Seeplatte...

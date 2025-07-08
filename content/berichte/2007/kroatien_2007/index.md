@@ -52,17 +52,10 @@ images:
 - src: images/Moritz_Novigrader_Meer.JPG
   title: Moritz Novigrader Meer
 länder:
-- deutschland
-- österreich
+- kroatien
 title: Kroatien Ruderfahrt 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kroatienwanderfahrt Februar 2007

@@ -4,7 +4,7 @@ begin: "2006-10-01"
 date: "2006-10-10T01:00:00+02:00"
 gewässer:
 - teltowkanal
-- oder
+- dahme
 images:
 - src: images/Schleuse_Kleinmachnow__Herbst_06.jpg
   title: Schleuse Kleinmachnow  Herbst 06
@@ -22,16 +22,11 @@ images:
   title: Schmoeckwitz Boote 06
 - src: images/Wiking_Essraum_06.jpg
   title: Wiking Essraum 06
-länder: []
+länder: 
+- deutschland
 title: Schmoeckwitz06
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fahrtenbericht Schmöckwitz 2006

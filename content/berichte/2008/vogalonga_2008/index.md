@@ -3,9 +3,9 @@ author: ""
 begin: "2008-05-01"
 date: "2008-05-05T01:00:00+02:00"
 gewässer:
-- aller
 - mittelmeer
 - lagune von venedig
+- adria
 images:
 - src: images/Ruderboote_auf_dem_Anhaenger_Vogalonga_08.jpg
   title: Ruderboote auf dem Anhaenger Vogalonga 08
@@ -56,17 +56,9 @@ images:
 länder:
 - deutschland
 - italien
-- österreich
 title: Vogalonga 2008
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Vogalonga + Wanderfahrt auf der Lagune
 

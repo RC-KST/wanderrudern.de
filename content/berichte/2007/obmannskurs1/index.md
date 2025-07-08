@@ -3,7 +3,6 @@ author: ""
 begin: "2007-01-01"
 date: "2007-01-01T01:00:00+02:00"
 gewässer:
-- spreewald
 images:
 - src: images/obmannskurs_fuerstenwalde.jpg
   title: obmannskurs fuerstenwalde
@@ -11,16 +10,11 @@ images:
   title: ruderkasten fuerstenwalde
 - src: images/ruderkasten_fw3.jpg
   title: ruderkasten fw3
-länder: []
+länder:
+- deutschland
 title: Obmannskurs
-typen: wanderfahrt
+typen: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurs 2007

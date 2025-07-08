@@ -4,7 +4,6 @@ begin: "2003-12-01"
 date: "2003-12-12T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Barkenfahrt_2005_003.jpg
   title: Barkenfahrt 2005 Steuerleute
@@ -26,16 +25,10 @@ images:
   title: Barkenfahrt 2005 063
 länder:
 - tschechien
+- deutschland
 title: Decin05
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Barkenfahrt 9.-11. Dezember (3. Advent)
 

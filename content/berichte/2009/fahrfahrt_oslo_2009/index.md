@@ -31,16 +31,10 @@ images:
 - src: images/Fahrt_durch_den_Oslofjord_2009.jpg
   title: Fahrt durch den Oslofjord 2009
 länder:
-- england
+- norwegen
 title: Fährfahrt Oslo 2009
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fährreise nach Oslo

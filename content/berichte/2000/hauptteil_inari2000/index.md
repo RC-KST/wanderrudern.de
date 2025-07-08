@@ -4,7 +4,7 @@ begin: "2000-01-01"
 date: "2000-01-01T01:00:00+02:00"
 gewässer:
 - porsangenfjord
-- inarisee
+- inari
 - ivalojoki
 images:
 - src: images/polarkreis.jpg

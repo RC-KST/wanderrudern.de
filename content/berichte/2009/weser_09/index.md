@@ -5,7 +5,6 @@ date: "2009-04-04T01:00:00+02:00"
 gewässer:
 - weser
 - aller
-- oder
 images:
 - src: images/Hoxter_Ruderboote_am_Morgen_W09.jpg
   title: Höxter Ruderboote am Morgen W09
@@ -53,15 +52,9 @@ images:
   title: Nordenham Ruderclub Steg W09
 länder:
 - deutschland
-title: Weser 09
+title: Weser Februar 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Weserwanderfahrt Hann Münden - Brake

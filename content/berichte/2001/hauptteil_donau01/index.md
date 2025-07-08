@@ -6,7 +6,6 @@ gewässer:
 - donau
 - ilz
 - mossoni-donau
-- oder
 images:
 - src: images/burg_do01.jpg
   title: Donau Rudern
@@ -29,14 +28,11 @@ images:
 länder:
 - österreich
 - ungarn
-title: donau 2001
+title: Donau 2001 Deggendorf - Mohacs
 typen: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

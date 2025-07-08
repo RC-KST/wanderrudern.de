@@ -5,8 +5,6 @@ date: "2006-05-05T01:00:00+02:00"
 gewässer:
 - weser
 - fulda
-- oste
-- oder
 images:
 - src: images/w06_Kassel_1.jpg
   title: Kassel Rudersteg Ruderboot
@@ -55,17 +53,10 @@ images:
 - src: images/w06_Brhafen_17.jpg
   title: w06_Brhafen 17
 länder:
-- schweiz
+- deutschland
 title: Fulda Weser 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Osterfahrt 2006
 

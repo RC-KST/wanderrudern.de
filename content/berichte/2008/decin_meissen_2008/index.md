@@ -23,16 +23,12 @@ images:
   title: elbe08-barke
 - src: images/Weihnachtsmann_am_Steuer_Decin_0802.jpg
   title: Weihnachtsmann am Steuer Decin 0802
-länder: []
+länder: 
+- tschechien
+- deutschland
 title: Decin Meissen 2008
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Decin - Meißen 3. Advent 08

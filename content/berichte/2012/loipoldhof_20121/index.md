@@ -63,7 +63,7 @@ images:
 länder: 
 - österreich
 title: Loipoldhof 2012
-typen: wanderfahrt
+typen: bergwandern
 ---
 
 # Bergwanderung Juli 2012

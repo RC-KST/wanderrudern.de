@@ -7,7 +7,6 @@ gewässer:
 - spree
 - oder-spree-kanal
 - schwielochsee
-- oder
 images:
 - src: images/Idylle_an_der_Dahme_DS09.jpg
   title: Idylle an der Dahme DS09
@@ -59,15 +58,9 @@ images:
   title: Beladener Vierer Alte Spree DS09
 länder:
 - deutschland
-- italien
 title: Dahme Spree Umfahrt 09
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

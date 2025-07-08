@@ -7,16 +7,11 @@ gewässer:
 images:
 - src: images/winter05_elbe02.jpg
   title: Ruderboot Elbe Winter Paula
-länder: []
+länder: 
+- deutschland
 title: Elbe_mrz05
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Trainingsfahrt von Meißen über Torgau nach Wittenberg vom 04.03.-06.03.2005

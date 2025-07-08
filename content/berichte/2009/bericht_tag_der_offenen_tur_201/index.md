@@ -16,15 +16,11 @@ images:
   title: Tag der offen Tuer Kleinmachnow 09
 - src: images/Erwachsnenausbildung_im_Ruderboot_09.jpg
   title: Erwachsnenausbildung im Ruderboot 09
-länder: []
+länder: 
+- deutschland
 title: Bericht Tag der offenen Tür 2009
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

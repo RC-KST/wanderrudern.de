@@ -3,7 +3,6 @@ author: ""
 begin: "2007-03-01"
 date: "2007-03-03T01:00:00+02:00"
 gewässer:
-- donau
 - havel
 images:
 - src: images/Brandenburg_am_Steg.jpg
@@ -14,17 +13,11 @@ images:
   title: Zweier vor der Glienicker Bruecke 07
 - src: images/Ruderer_im_Regen_Brandenburg_07.jpg
   title: Ruderer im Regen Brandenburg 07
-länder: []
+länder: 
+- deutschland
 title: Ketzin Maerz 07
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Fahrtenbericht vom 2.-4. März 2007
 

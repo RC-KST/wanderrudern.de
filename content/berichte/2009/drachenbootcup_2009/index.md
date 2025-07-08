@@ -2,7 +2,8 @@
 author: ""
 begin: "2009-01-01"
 date: "2009-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/Ruderer_im_Kostuem_09.jpg
   title: Ruderer im Kostuem 09
@@ -24,16 +25,11 @@ images:
   title: Startbuero Drachenbootrennen 0902
 - src: images/Ruderboote_auf_dem_Teltowkanal_Drachenbootcup_09.jpg
   title: Ruderboote auf dem Teltowkanal Drachenbootcup 09
-länder: []
+länder: 
+- deutschland
 title: Drachenbootcup 2009
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 4. Drachenbootrudercup 27.09.09

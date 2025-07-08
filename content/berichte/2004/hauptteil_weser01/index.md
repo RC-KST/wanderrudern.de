@@ -25,16 +25,11 @@ images:
   title: Vegesack im Nebel Ruderclub
 - src: images/vegesack.jpg
   title: Fahrtende in Vegesack
-länder: []
+länder:
+- deutschland
 title: Weser 2004 Februar
-typen: marathon
+typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Eine Weserwanderfahrt nichts besonderes ...im Februar vielleicht doch

@@ -4,17 +4,11 @@ begin: "2004-11-01"
 date: "2004-11-11T01:00:00+02:00"
 gewässer:
 - havel
-- saimaa
-länder: []
+länder:
+- deutschland
 title: Ketzin November 2004
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Ketzin
@@ -22,7 +16,7 @@ Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte e
 
 Strecke: Stahnsdorf - Ketzin
 
-Mannschaft: Ulla Seitz, Stefan Biastock, Thomas Borkowsky, Jens Schöpfel, Norina Keller, Sophie v. Fromm, Christian Grabert und Katrin Schöpfel
+Mannschaft: Ulla, Stefan, Thomas B., Jens, Norina, Sophie, Chrishe und Katrin
 
 1. Tag: Um 4.00 traf sich die ganze Mannschaft auf dem Vereinsgelände. Nach dem die Bootseinteilung festgelegt war und die Boote bepackt waren fuhren wir Richtung Ketzin über die Havel und den Sakrow-Paretzer-Kanal. In der Geirangerfjord fuhren Jens, Katrin und Norina. Stefan, Sophie, Ulla und Christian waren in der Saimaa. Da Krishe pinkeln musste legte die Saimaa vor einem Frachter an. Das benachbarte Boot wartete daneben. Da der Frachter Wasser zog lag die Geirangerfjord plötzlich trocken. Nach einer Weile kam das Wasser als Welle zurück und schwappte leicht in die Geirangerfjord weil diese immer noch im trockenen saß. Am späten Abend ( ca. 19.30) kamen wir am Seesportclub Ketzin an. Dort gab es: Würstchen, Sauerkraut und Kartoffeln. Krishe bevorzugte wie immer ein Hotel.
 

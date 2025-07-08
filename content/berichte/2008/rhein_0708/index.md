@@ -4,7 +4,6 @@ begin: "2008-01-01"
 date: "2008-01-01T01:00:00+02:00"
 gewässer:
 - rhein
-- oder
 images:
 - src: images/Mannschaft_in_RHeinfelden_RH08.jpg
   title: Mannschaft in RHeinfelden RH08
@@ -116,17 +115,12 @@ images:
   title: strandschoenheit RH0802
 länder:
 - frankreich
-- italien
+- deutschland
 - schweiz
+- niederlande
 title: Rhein 0708
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Silvesterwanderfahrt 2007/2008

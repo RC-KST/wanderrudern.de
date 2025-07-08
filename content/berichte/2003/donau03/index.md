@@ -6,7 +6,6 @@ gewässer:
 - donau
 - ilz
 - große tulln
-- oder
 images:
 - src: images/ingolstadt.jpg
   title: INgolstadt Frühstück Ruderer
@@ -26,15 +25,10 @@ images:
   title: burgtheather
 länder:
 - österreich
+- deutschland
 title: Donau 2003 Ingolstadt Wien
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donauwanderfahrt von Ingolstadt nach Wien

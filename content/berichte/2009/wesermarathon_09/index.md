@@ -5,8 +5,6 @@ date: "2009-01-01T01:00:00+02:00"
 gewässer:
 - weser
 - fulda
-- narew
-- pielisjoki
 images:
 - src: images/Boote_abladen_in_Rotenburg_Fulda_09.jpg
   title: Boote abladen in Rotenburg Fulda 09
@@ -49,14 +47,9 @@ images:
 - src: images/Ruderzweier_Wesermarathon_Masters_09.jpg
   title: Ruderzweier Wesermarathon Masters 09
 länder: []
-title: Wesermarathon 09
+title: Wesermarathon 2009
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

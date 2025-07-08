@@ -5,7 +5,6 @@ date: "2002-02-02T01:00:00+02:00"
 gewässer:
 - elbe
 - moldau
-- nordsee
 images:
 - src: images/prag_bruecke02.jpg
   title: Karlsbrücke Prag
@@ -29,15 +28,12 @@ images:
   title: Vierer Zollkanal Hamburg
 - src: images/hh_hafen.jpg
   title: Hambuger Hafen Ruderboot Ruderer
-länder: []
+länder:
+- tschechien
+- deutschland
 title: Prag Hamburg 2002
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

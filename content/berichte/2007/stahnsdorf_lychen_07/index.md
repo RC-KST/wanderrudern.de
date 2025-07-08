@@ -6,7 +6,7 @@ gewässer:
 - havel
 - teltowkanal
 - wannsee
-- oder
+- mecklenburger seenplatte
 images:
 - src: images/Meedy_auf_Schlag_Ly07.JPG
   title: Meedy auf Schlag Ly07
@@ -58,16 +58,11 @@ images:
   title: Aufladen der Ruderboote Ly07
 - src: images/Patrick_Fliess_Lychen_07.JPG
   title: Patrick Fliess Lychen 07
-länder: []
+länder: 
+- deutschland
 title: Stahnsdorf Lychen 07
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Pfingstwanderfahrt auf der Havel von Stahnsdorf nach Lychen

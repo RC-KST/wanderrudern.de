@@ -92,15 +92,9 @@ images:
   title: Peppis Stadtfuehrung in Bratislava D09
 länder:
 - österreich
-title: Donau 09
+title: Donau 09 Ulm - Bratislava
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donau Herbstfahrt von Ulm nach Bratislava

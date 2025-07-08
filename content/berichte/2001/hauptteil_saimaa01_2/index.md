@@ -16,18 +16,10 @@ images:
 - src: images/Turm.jpg
   title: auf der Brück von Puumala
 länder:
-- deutschland
 - finnland
-- schweden
 title: Saimaa Seenplatte 2001
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # zurück zum 1. Teil

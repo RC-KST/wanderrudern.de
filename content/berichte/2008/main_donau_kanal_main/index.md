@@ -6,9 +6,7 @@ gewässer:
 - donau
 - rhein
 - main
-- neckar
 - main-donau-kanal
-- saimaa
 images:
 - src: images/Boote_riggern_in__Berching__MDK08.jpg
   title: Boote riggern in  Berching  MDK08
@@ -74,16 +72,9 @@ images:
   title: Quartier Germania Boppard MDK08
 länder:
 - deutschland
-- italien
 title: Main Donau Kanal Main
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Über Main-Donau-Kanal, Regnitz, Main und Rhein

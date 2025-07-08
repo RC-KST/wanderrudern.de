@@ -2,7 +2,8 @@
 author: ""
 begin: "2009-10-01"
 date: "2009-10-10T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- mecklenburger seenplatte
 images:
 - src: images/Baumgarten_E-Vierer_M09.jpg
   title: Baumgarten E-Vierer M09
@@ -10,16 +11,11 @@ images:
   title: Baumgarten E-Vierer Mirow am Steg M09
 - src: images/Neuer_Baumgarten_Vierer_M09.jpg
   title: Neuer Baumgarten Vierer M09
-länder: []
+länder: 
+- deutschland
 title: Mirow 09
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Auf zur Fahrt in den Herbst, im Herbst ( 2.-4. Oktober 2009) nach Mirow

@@ -15,16 +15,11 @@ images:
   title: Tag der offeen Tuer Pavillons 08
 - src: images/Proberudern_ToT08.jpg
   title: Proberudern ToT08
-länder: []
+länder:
+- deutschland
 title: Bericht Tag der offenen Tür 2008
 typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Tag der offenen Tür 2008

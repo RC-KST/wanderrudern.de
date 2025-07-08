@@ -4,22 +4,16 @@ begin: "2005-01-01"
 date: "2005-01-01T01:00:00+02:00"
 gewässer:
 - ruppiner see
-- saimaa
 images:
 - src: images/rhin.jpg
   title: Ruppiner Gewässer Altruppin Rudern
 - src: images/boote.jpg
   title: Ruderboot Altruppin
-länder: []
+länder: 
+- deutschland
 title: Altruppin
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Altruppin

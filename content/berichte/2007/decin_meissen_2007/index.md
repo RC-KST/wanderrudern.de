@@ -4,7 +4,6 @@ begin: "2007-01-01"
 date: "2007-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/Boote_am_Ufer_Decin07.jpg
   title: Boote am Ufer Decin07
@@ -30,15 +29,12 @@ images:
   title: Pirna im Ruderclub DC07
 - src: images/meissen_Boote_aufladen_DC07.jpg
   title: meissen Boote aufladen DC07
-länder: []
+länder:
+- tschechien
+- deutschland
 title: Decin Meissen 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

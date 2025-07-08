@@ -3,8 +3,6 @@ author: ""
 begin: "2001-07-01"
 date: "2001-07-07T01:00:00+02:00"
 gewässer:
-- inn
-- ostsee
 - saimaa
 images:
 - src: images/elch.gif
@@ -26,19 +24,10 @@ images:
 - src: images/phillipp_fi01.jpg
   title: Steuermann Ruderboot
 länder:
-- deutschland
 - finnland
-- österreich
 title: Saimaa Seenplatte 2001
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Sommerwanderfahrt auf der Saimaa-Seenplatte in Finnland
 

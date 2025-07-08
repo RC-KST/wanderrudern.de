@@ -5,7 +5,6 @@ date: "2007-05-05T01:00:00+02:00"
 gewässer:
 - rhein
 - neckar
-- oder
 images:
 - src: images/Baumgarten_Bus_in_Stuttgart_NR07.jpg
   title: Baumgarten Bus in Stuttgart NR07
@@ -83,16 +82,9 @@ images:
   title: Bootstransport in Bacharach NR07
 länder:
 - deutschland
-- italien
 title: Neckar Rhein 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Reisebericht von der Herbstfahrt Neckar/ Rhein ( 12.10.-21.10. 07 )

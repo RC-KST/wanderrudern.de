@@ -4,15 +4,13 @@ begin: "2007-10-01"
 date: "2007-10-10T01:00:00+02:00"
 gewässer:
 - teltowkanal
-länder: []
+- dahme
+länder: 
+- deutschland
 title: Abrudern Schmoeckwitz 07
 typen: wanderfahrt
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

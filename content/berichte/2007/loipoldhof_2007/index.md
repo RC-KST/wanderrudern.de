@@ -3,7 +3,6 @@ author: ""
 begin: "2007-08-01"
 date: "2007-08-08T01:00:00+02:00"
 gewässer:
-- po
 images:
 - src: images/Ruderboot_Tegernsee_L07.JPG
   title: Ruderboot Tegernsee L07
@@ -103,15 +102,8 @@ länder:
 - italien
 - österreich
 title: Loipoldhof 2007
-typen: wanderfahrt
+typen: bergwandern
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Von Bergtouren, üppigen Speisezetteln und anderen Vergnügungen
 

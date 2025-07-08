@@ -2,7 +2,9 @@
 author: ""
 begin: "2009-07-01"
 date: "2009-07-07T01:00:00+02:00"
-gewässer: []
+gewässer:
+- havel
+- glindowsee
 images:
 - src: images/Ruderboot_Glindow_Campingplatz_09.jpg
   title: Ruderboot Glindow Campingplatz 09
@@ -20,17 +22,11 @@ images:
   title: Steg in Glindow 09
 - src: images/Ruderboote_in_Glindow_09.jpg
   title: Ruderboote in Glindow 09
-länder: []
-title: Glindow Kinderfahrt
+länder: 
+- deutschland
+title: Glindow Kinderfahrt 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Kinder und Jugendfahrt nach Glindow
 

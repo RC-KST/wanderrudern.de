@@ -14,16 +14,11 @@ images:
   title: Ruderboot auf der Werra
 - src: images/vagabund_wm02.jpg
   title: Wesermarathon Ruderboot
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2002
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2002

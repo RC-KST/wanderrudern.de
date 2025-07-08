@@ -5,23 +5,16 @@ date: "2003-01-01T01:00:00+02:00"
 gewässer:
 - havel
 - mecklenburger seenplatte
-- tegler see
 images:
 - src: images/lehnitz_schleuse03.jpg
   title: Schleuse Lehnitz Ruderboot
 - src: images/gretchen_fuerstenberg.jpg
   title: Greta rudert
-länder: []
+länder: 
+- deutschland
 title: Berlin Flecken Zechlin 2003
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Von Berlin zu Mecklenburger Seenplatte
 

@@ -20,16 +20,11 @@ images:
   title: Anrudern06_medaillen2
 - src: images/Anrudern06_schleuse.jpg
   title: Anrudern06_schleuse
-länder: []
+länder: 
+- deutschland
 title: Anrudern2006
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Anrudern mitten im Winter (26. März 2006)

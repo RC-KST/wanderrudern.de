@@ -3,8 +3,6 @@ author: ""
 begin: "2008-08-01"
 date: "2008-08-08T01:00:00+02:00"
 gewässer:
-- oder
-- po
 images:
 - src: images/Gipfel_des_Pleschnitzzinken_Ruderclub_Kleinmachnow_08.jpg
   title: Gipfel des Pleschnitzzinken Ruderclub Kleinmachnow 08
@@ -74,16 +72,11 @@ images:
   title: Trampolin Loipoldhof L08
 - src: images/VorderTuer_L08.jpg
   title: VorderTuer L08
-länder: []
+länder:
+- österreich
 title: Loipoldhof 2008
-typen: wanderfahrt
+typen: bergwandern
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwandern am Loipoldhof 2008

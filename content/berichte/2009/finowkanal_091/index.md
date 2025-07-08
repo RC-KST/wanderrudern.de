@@ -5,7 +5,7 @@ date: "2009-01-01T01:00:00+02:00"
 gewässer:
 - havel
 - werbellinsee
-- oder
+- finowkanal
 images:
 - src: images/Rudibar_Marienwerder_Finowkanal_09.jpg
   title: Rudibar Marienwerder Finowkanal 09
@@ -31,15 +31,11 @@ images:
   title: Ruderboote im Trog des Schiffshebewerks 09
 - src: images/Oberwasser_Hebewerk_Niederfinow_09.jpg
   title: Oberwasser Hebewerk Niederfinow 09
-länder: []
+länder: 
+- deutschland
 title: Finowkanal 09
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

@@ -10,17 +10,11 @@ images:
   title: Wanderrudertreffen Brandenburg 07
 - src: images/Insel_Kaelberwerder_Rc_Kleinmachnow_07.JPG
   title: Insel Kaelberwerder Rc Kleinmachnow 07
-länder: []
+länder: 
+- deutschland
 title: Brandenburger Wanderrudertreffen 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Brandenburger Landeswanderrudertreffen 2007
 

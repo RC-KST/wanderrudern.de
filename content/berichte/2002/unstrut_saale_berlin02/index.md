@@ -6,6 +6,7 @@ gewässer:
 - saale
 - unstrut
 - havel
+- elbe havel kanal
 images:
 - src: images/kilian_unstrut.jpg
   title: Unstrut Ruderboot Kilian
@@ -19,16 +20,11 @@ images:
   title: Saale Ruderboot Karsten
 - src: images/wolfgang_anke_us02.jpg
   title: Ruderboot Saale Anke Wolfgang
-länder: []
+länder: 
+- deutschland
 title: Unstrut_Saale_Berlin02
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Unstrut-Saale-Havel  von Roßleben nach Berlin

@@ -7,16 +7,11 @@ gewässer:
 images:
 - src: images/landkarte_sogne.jpg
   title: Wanderrudern Sognefjord Norwegen Wanderfahrten
-länder: []
-title: Sognefjord 2004
+länder:
+- norwegen
+title: Sognefjord 2004 Landkarte
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Sognefjord

@@ -12,16 +12,11 @@ images:
   title: Maedchen Ruderboot auf dem Weg nach Ketzin 09
 - src: images/Kinder_Ruderboot_Sacrow_Paretzer_Kanal_K09.jpg
   title: Kinder Ruderboot Sacrow Paretzer Kanal K09
-länder: []
-title: Ketzin März 09
+länder: 
+- deutschland
+title: Ketzin März 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Frühjahrsruderlager Ketzin

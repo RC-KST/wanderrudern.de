@@ -2,17 +2,14 @@
 author: ""
 begin: "2009-05-01"
 date: "2009-05-05T01:00:00+02:00"
-gewässer: []
-länder: []
-title: Stienitz Moellensee 09
+gewässer: 
+- stienitzsee
+- möllensee
+länder: 
+- deutschland
+title: Stienitz Moellensee 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Stienitz/Möllensee- Wanderfahrt
@@ -24,8 +21,6 @@ Am nächsten Tag starteten alle Boote Richtung Dämeritzsee und dann durch den F
 
 Am nächsten Morgen ging es zuerst die selbe Strecke über den Dämeritzsee zum Flakensee. Dort bogen wir in den Löcknitzkanal ein. Die ersten zwei Boote ruderten einen kleinen Umweg in eine Nebenkanal, da die Strecke ja schöner sein sollte. Anschließen ruderten alle Boote einige Zeit lang dicht beieinander erst über den Werlsee, dann über den Petzsee zum Möllensee. Dort machte der Zweier von Stefan
 
-wieder
-
-einen Umweg was zu Folge hatte das es als letztes ankam statt als erstes. Nach einer diesmal kürzeren Pause machten sich alle Boote wieder auf den Rückweg. Nach einer Weile trafen sich alle noch mal an einem Imbiss zum Eisessen. Am späten Nachmittag kamen alle Boote wieder in Rahnsdorf an. Nach dem Aufladen ging es dann nach Hause.
+wieder einen Umweg was zu Folge hatte das es als letztes ankam statt als erstes. Nach einer diesmal kürzeren Pause machten sich alle Boote wieder auf den Rückweg. Nach einer Weile trafen sich alle noch mal an einem Imbiss zum Eisessen. Am späten Nachmittag kamen alle Boote wieder in Rahnsdorf an. Nach dem Aufladen ging es dann nach Hause.
 
 Jenny

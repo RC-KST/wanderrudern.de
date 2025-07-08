@@ -5,7 +5,6 @@ date: "2008-01-01T01:00:00+02:00"
 gewässer:
 - spree
 - teltowkanal
-- oder
 images:
 - src: images/abrudern_08_machnower_Schleuse.jpg
   title: abrudern 08 machnower Schleuse
@@ -13,16 +12,11 @@ images:
   title: Schmoeckwitz vor dem Bierwagen S08
 - src: images/Schmoeckwitz_Abrudern_am_Steg_08.jpg
   title: Schmoeckwitz Abrudern am Steg 08
-länder: []
+länder: 
+- deutschland
 title: Abrudern Berlin Schmöckwitz 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wochenendfahrt zum Abrudern in Schmöckwitz (31.11.08-02-11.08)

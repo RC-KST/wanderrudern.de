@@ -4,6 +4,7 @@ begin: "2006-10-01"
 date: "2006-10-10T01:00:00+02:00"
 gewässer:
 - spree
+- teltowkanal
 images:
 - src: images/Berlin-Reichstag.jpg
   title: Berlin-Reichstag
@@ -13,16 +14,11 @@ images:
   title: muehlendamm06
 - src: images/endlich_bei_Wiking06.jpg
   title: endlich bei Wiking06
-länder: []
+länder:
+- deutschland
 title: Wiking06
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wiking-Sternfahrt 21/22. Oktober 2006

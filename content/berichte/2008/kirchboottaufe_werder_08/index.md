@@ -16,16 +16,10 @@ images:
 - src: images/Das_Kirchboot_legt_ab.jpg
   title: Das Kirchboot legt ab
 länder:
-- finnland
+- deutschland
 title: Kirchboottaufe Werder 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Taufe des Brandenburger Kirchboots

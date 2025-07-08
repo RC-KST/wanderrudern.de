@@ -3,7 +3,7 @@ author: ""
 begin: "2008-05-01"
 date: "2008-05-05T01:00:00+02:00"
 gewässer:
-- rhein
+- mecklenburger seenplatte
 images:
 - src: images/Ein_Umweg_am_Schloss_vorbei.JPG
   title: Ein_Umweg_am_Schloss_vorbei
@@ -20,16 +20,10 @@ images:
 - src: images/Sonnenuntergang_Grienericksee_am_Verein.JPG
   title: Sonnenuntergang_Grienericksee_am_Verein
 länder:
-- italien
+- deutschland
 title: Rheinsberg 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Auf den Seen

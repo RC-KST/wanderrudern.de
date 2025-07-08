@@ -4,6 +4,7 @@ begin: "2007-03-01"
 date: "2007-03-03T01:00:00+02:00"
 gewässer:
 - dahme
+- spree
 - teltowkanal
 images:
 - src: images/Ruderer_bei_KWO_BA07.jpg
@@ -16,16 +17,11 @@ images:
   title: auf der Spree BA07
 - src: images/Patrick_Schleuse_Kleinmachnow_BA07.jpg
   title: Patrick Schleuse Kleinmachnow BA07
-länder: []
+länder: 
+- deutschland
 title: Anrudern2007 Friedrichshagen
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Berliner Anrudern in Friedrichshagen“ vom 30. März – 01. April 2007

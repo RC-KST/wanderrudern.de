@@ -4,7 +4,7 @@ begin: "2006-01-01"
 date: "2006-01-01T01:00:00+02:00"
 gewässer:
 - weser
-- oder
+- werra
 images:
 - src: images/WM06_Schleuse_Eschwege.jpg
   title: Schleuse Eschwege Ruderer
@@ -20,16 +20,11 @@ images:
   title: Schule Münden Übernachtung Ruderer
 - src: images/wm06_KM113.jpg
   title: Malte Sophie Ruderboot
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2006
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2006

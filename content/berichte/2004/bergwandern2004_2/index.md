@@ -3,7 +3,6 @@ author: ""
 begin: "2002-01-01"
 date: "2002-01-01T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/kochofen.jpg
   title: kochofen
@@ -13,16 +12,11 @@ images:
   title: gollinghuette
 - src: images/gumpeneck2.jpg
   title: gumpeneck2
-länder: []
+länder:
+- österreich
 title: Bergwandern2004_1
-typen: wanderfahrt
+typen: bergwandern
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Berwanderung 2004 2. Woche
