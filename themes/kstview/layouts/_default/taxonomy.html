@@ -1,4 +1,8 @@
 {{ define "main" }}
+    {{- partial "intern/page-title.html" .Title }}
+
+    {{ .Content }}
+
     {{ partial "intern/list-items.html" }}
 {{ end }}
 
