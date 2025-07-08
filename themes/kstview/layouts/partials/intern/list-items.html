@@ -11,23 +11,27 @@
 {{- $paginate := true }}
 {{- if and $args (isset $args "paginate" )}}{{ $paginate = $args.paginate}}{{ end }}
 
+{{- $pages := (page.Pages.ByParam $sort_param) }}
+{{- if $reverse }}{{ $pages = $pages.Reverse }}{{ end }}
+{{- if $paginate }}
+    {{- $paginator := (page.Paginate $pages site.Params.list.articles_per_site) }}
+    {{- $pages = $paginator.Pages }}
+{{- end }}
+
 {{- $sort_by_date := eq $sort_param "date" }}
-<div class="h-full">
-    {{- partial "intern/page-title.html" page.Title }}
-
-    {{ page.Content }}
-
-    <div>
-    {{- $pages := (page.Pages.ByParam $sort_param) }}
-    {{- if $reverse }}{{ $pages = $pages.Reverse }}{{ end }}
     {{- if $paginate }}
-        {{- $paginator := (page.Paginate $pages site.Params.list.articles_per_site) }}
-        {{- $pages = $paginator.Pages }}
+    <div class="flex justify-center">
+        {{ partial "intern/pagination.html" (dict "page" page) }}
+    </div>
+
+    <hr>
     {{- end }}
-    {{- range $pages }}
+
+    <div class="flex flex-col flex-grow">
+        {{- range $pages }}
         {{- if not .Params.hidden }}
-        <a href="{{ .Permalink }}" class="p-0">
-            <div class="flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-4 py-2 px-4">
+        <a href="{{ .Permalink }}" class="p-0 my-2">
+            <div class="flex flex-col flex-nowrap border-0 rounded-md bg-gray-200 my-2 px-4">
                 <div class="flex flex-row">
                     <div class="flex-grow font-bold flex flex-row flex-nowrap">{{ .Title }}</div>
                     <div>
@@ -47,12 +51,14 @@
             </div>
         </a>
         {{- end }}
-    {{- end }}
+        {{- end }}
+        <div class="flex-grow"></div>
     </div>
-</div>
-<hr>
-{{- if $paginate }}
-<div class="flex justify-center">
-    {{ partial "intern/pagination.html" (dict "page" page) }}
-</div>
+
+    {{- if $paginate }}
+    <hr>
+
+    <div class="flex justify-center">
+        {{ partial "intern/pagination.html" (dict "page" page) }}
+    </div>
 {{- end }}
