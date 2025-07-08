@@ -16,14 +16,8 @@ images:
   title: Auf dem Heimweg nach Stahnsdorf 09
 länder: []
 title: Preisverleihung Berliner Wettbewerb 08
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Preisverleihung des Berliner Sommerwettbewerbs

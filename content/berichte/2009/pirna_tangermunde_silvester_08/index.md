@@ -4,7 +4,6 @@ begin: "2009-01-01"
 date: "2009-01-01T01:00:00+02:00"
 gewässer:
 - elbe
-- oder
 images:
 - src: images/1_Boot_vor_Schloss_Pillnitz_1_0809.jpg
   title: 1 Boot vor Schloss Pillnitz 1 0809
@@ -32,17 +31,11 @@ images:
   title: Abriggern Tangermünde
 - src: images/Aufladen_in_Tangermunde_0708.jpg
   title: Aufladen in Tangermünde 0708
-länder: []
-title: Pirna Tangermünde Silvester 08
+länder: 
+- deutschland
+title: Pirna Tangermünde Silvester 2008
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Fahrt zum Jahreswechsel 2008 zu 2009
 

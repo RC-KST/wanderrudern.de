@@ -4,9 +4,6 @@ begin: "2002-10-01"
 date: "2002-10-10T01:00:00+02:00"
 gewässer:
 - donau
-- aller
-- oder
-- erne
 images:
 - src: images/mannschaft_buidapest.jpg
   title: 'Budapest Ruderer '
@@ -27,27 +24,18 @@ images:
 - src: images/d02_engtal.jpg
   title: Eisernes Tor Donau Serbien
 länder:
-- deutschland
-- österreich
 - ungarn
 - serbien
 title: Donau 2002 Budapest - Eisernes Tor
 typen: wanderfahrt
 ---
 
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Donauwanderfahrt von Budapest zum Eisernen Tor
 
 
 Abenteuerreise im Oktober 2002 durch Ungarn und Serbien
 
-Teilnehmer: Steffi Tews, Clara Eckardt-Framm, Martina Jagsch, Kilian KLauber, Frederic Carpenter, Timo Siempelkamp, Jörg Kretschmer, Stefan Biastock, Christian Grabert.
+Teilnehmer: Steffi, Clara, Martina, Kilian, Frederic, Timo, Jörg, Stefan, Chrishe.
 
 Am letzten Schultag vor den Herbstferien startete der mit 9 Ruderern vollbesetzte Bus mit Trailer in Richtung Süden. Da wir mal wieder zu spät los gekommen waren, übernachteten wir beim Ruderclub in Regensburg (vielen DanK für die spontane Übernachtungsmöglichkeit).
 

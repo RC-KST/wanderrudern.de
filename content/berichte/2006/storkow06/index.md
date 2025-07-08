@@ -5,7 +5,7 @@ date: "2006-06-06T01:00:00+02:00"
 gewässer:
 - teltowkanal
 - wolziger see
-- bug
+- dahme
 images:
 - src: images/Nils_teltowkanal06.jpg
   title: Nils teltowkanal06
@@ -47,17 +47,11 @@ images:
   title: scharmuetzelsee baden sophie
 - src: images/scharmuetzelsee06baden3.jpg
   title: scharmuetzelsee unterwasser
-länder: []
+länder: 
+- deutschland
 title: storkow 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Storkowwanderfahrt Pfingsten 2006
 

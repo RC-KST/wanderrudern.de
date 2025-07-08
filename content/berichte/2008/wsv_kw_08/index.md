@@ -4,7 +4,7 @@ begin: "2008-06-01"
 date: "2008-06-06T01:00:00+02:00"
 gewässer:
 - teltowkanal
-- pielisjoki
+- dahme
 images:
 - src: images/WSV_KW_Domiziel.jpg
   title: WSV_KW_Domiziel
@@ -20,17 +20,11 @@ images:
   title: Im_Kirchboot_Levon_und_Philipp
 - src: images/Irchboot_in_den_engen_Kanaelen.jpg
   title: Irchboot_in_den_engen_Kanaelen
-länder: []
+länder: 
+- deutschland
 title: WSV KW 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Wochenendfahrt zur Bootshauseinweihung
 

@@ -4,8 +4,7 @@ begin: "2006-11-01"
 date: "2006-11-11T01:00:00+02:00"
 gewässer:
 - havel
-- neuendorfer see
-- bug
+- niederneuendorfer see
 images:
 - src: images/Levon_steuert_bei_Nacht_06.JPG
   title: Levon steuert bei Nacht 06
@@ -13,16 +12,11 @@ images:
   title: Ruderboot bei Nach in Spandau 06
 - src: images/Ruderer_im_Boot_Oder_Havel_Kanal__06.JPG
   title: Ruderer im Boot Oder Havel Kanal  06
-länder: []
+länder: 
+- deutschland
 title: Oranienburg06
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # November-Wanderfahrt nach Oranienburg

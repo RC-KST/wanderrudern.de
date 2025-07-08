@@ -6,20 +6,12 @@ gewässer:
 - donau
 - donaukanal
 - mossoni-donau
-- oste
-- oder
 länder:
 - ungarn
 - slowakei
 title: Donau Ostern 2004 Wien-Budapest
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Donauwanderfahrt Ostern 2004

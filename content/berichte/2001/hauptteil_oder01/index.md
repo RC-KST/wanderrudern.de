@@ -10,7 +10,6 @@ gewässer:
 - oder-spree-kanal
 - wannsee
 - oder
-- bug
 images:
 - src: images/fuerstenwalde.jpg
   title: Eisenhüttenstadt Ruderverein Ruderer
@@ -37,18 +36,13 @@ typen: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Berlin-Oder-Berlin – Du hast keine Wahl! – Teil I der Qual (Fahrtbericht von Katrin)
 
 
 Teilnehmer: Stefan Biastock, Martina Jagsch, Philip Sapora, Niklas Sapora, Reyk Forsten,
 
-Wolfgang und Katrin Schirp mit Karsten (7), Malte (5), Anke (3)
+Wolfgang und Katrin mit Karsten (7), Malte (5), Anke (3)
 
 Mittwoch, 23. Mai 2001
 
@@ -142,4 +136,4 @@ Am Morgen regnete es  Bindfäden. Wir frühstückten noch in unserer heimeligen
 
 Vielen Dank, lieber Stefan, für diese schöne Fahrt, jetzt sehen wir Brandenburg mit ganz anderen Augen. Ärgere  Dich nicht über die “Personalausfälle”! Was Dir als “Panne” erscheint, hat uns Teilnehmer gar nicht so aufgeregt wie Dich. Wir nehmen alles, wie es ist, auch das Wetter! Dafür kannst Du schließlich auch nichts.
 
-Katrin Schirp
+Katrin

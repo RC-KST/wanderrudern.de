@@ -18,16 +18,11 @@ images:
   title: kassel frauen05
 - src: images/weserstein05.jpg
   title: weserstein Ruderer
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2005
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Fuldavorfahrt ab Bad Hersfeld und Wesermarathon Mai 05

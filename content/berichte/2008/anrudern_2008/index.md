@@ -15,9 +15,10 @@ images:
   title: Medaillen Brandenburg DRV
 - src: images/C-Vierer_Moldau.JPG
   title: C-Vierer Moldau
-länder: []
+länder:
+- deutschland
 title: Anrudern 2008
-typen: wanderfahrt
+typen: veranstaltung
 ---
 
 

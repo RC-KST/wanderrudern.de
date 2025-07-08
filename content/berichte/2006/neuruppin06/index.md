@@ -5,7 +5,6 @@ date: "2006-08-08T01:00:00+02:00"
 gewässer:
 - havel
 - ruppiner see
-- oder
 images:
 - src: images/Dresdenia1.jpg
   title: Dresdenia1
@@ -27,17 +26,11 @@ images:
   title: MarliesBernJörgTornowsee3
 - src: images/Boltenmuhle2.jpg
   title: Boltenmühle2
-länder: []
+länder:
+- deutschland
 title: Neuruppin 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Ruderfahrt nach Neuruppin August 2006
 

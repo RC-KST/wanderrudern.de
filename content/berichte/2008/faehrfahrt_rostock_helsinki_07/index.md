@@ -19,16 +19,10 @@ images:
 - src: images/marlies_an_Deck_RHR08.jpg
   title: marlies an Deck RHR08
 länder:
-- schweden
-title: Quer durch Schweden 08
-typen: wanderfahrt
+- finnland
+title: Party Fährfahrt nach Finnland
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Party-Fährfahrt Februar 2008

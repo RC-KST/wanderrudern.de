@@ -3,7 +3,6 @@ author: ""
 begin: "2004-04-01"
 date: "2004-04-04T01:00:00+02:00"
 gewässer:
-- oder
 images:
 - src: images/gratzurgamskar1.jpg
   title: Blick von der Gamskarspitze zum Gössenberg
@@ -17,16 +16,11 @@ images:
   title: waldhornscharte
 - src: images/schiedeck.jpg
   title: schiedeck
-länder: []
+länder: 
+- österreich
 title: Bergwandern2004_1
-typen: wanderfahrt
+typen: bergwandern
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bergwandern Sommer 2004

@@ -3,7 +3,7 @@ author: ""
 begin: "2002-01-01"
 date: "2002-01-01T01:00:00+02:00"
 gewässer:
-- wannsee
+- elbe
 images:
 - src: images/Bild018.jpg
   title: Barke in Decin Ruderer
@@ -18,12 +18,6 @@ länder:
 title: Decin00
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Decin - Meißen 2. Advent

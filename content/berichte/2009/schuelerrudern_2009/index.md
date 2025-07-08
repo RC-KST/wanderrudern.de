@@ -20,16 +20,11 @@ images:
   title: Ruderinnen Muehlendorf Oberschule 09
 - src: images/Rudern_als_Schulprojekt_09.jpg
   title: Rudern als Schulprojekt 09
-länder: []
+länder: 
+- deutschland
 title: Schuelrrudern 2009
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Schülerrudern im RC KST

@@ -6,8 +6,7 @@ gewässer:
 - rhein
 - mosel
 - saar
-- oste
-- oder
+- rhein marne kanal
 images:
 - src: images/franzoesischen_Aquadukt_SMR08.jpg
   title: franzoesischen Aquadukt SMR08
@@ -85,9 +84,7 @@ images:
   title: Industrie am Rhein SMR08
 länder:
 - deutschland
-- tschechien
-- ungarn
-- serbien
+- frankreich
 title: Saar Mosel Rhein 08
 typen: wanderfahrt
 ---

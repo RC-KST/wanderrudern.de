@@ -15,15 +15,11 @@ images:
   title: Wesermarathon 07
 - src: images/Wesermarathon_07_kurz_nach_dem_Start.JPG
   title: Wesermarathon 07 kurz nach dem Start
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 07
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 

@@ -3,7 +3,7 @@ author: ""
 begin: "2007-03-01"
 date: "2007-03-03T01:00:00+02:00"
 gewässer:
-- oder
+- dahme
 images:
 - src: images/RC_KST_bei_Preisverleihun.JPG
   title: RC KST bei Preisverleihun
@@ -19,12 +19,6 @@ länder: []
 title: Preisverleihung Sommer 07
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Preisverleihung des Berliner Sommerwettbewerbs 2007

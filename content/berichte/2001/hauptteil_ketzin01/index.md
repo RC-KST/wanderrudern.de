@@ -3,9 +3,7 @@ author: ""
 begin: "2001-01-01"
 date: "2001-01-01T01:00:00+02:00"
 gewässer:
-- aller
 - havel
-- oder
 images:
 - src: images/MartinaStefan.jpg
   title: Ketzin Ruderer
@@ -19,16 +17,11 @@ images:
   title: Globetrotter Ruderboot
 - src: images/Ketziner.jpg
   title: Ketziner
-länder: []
+länder: 
+- deutschland
 title: Ketzin 2001
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Kleiner Ketzin Korso

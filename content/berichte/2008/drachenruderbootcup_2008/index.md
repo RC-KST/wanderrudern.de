@@ -2,7 +2,8 @@
 author: ""
 begin: "2008-01-01"
 date: "2008-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- teltowkanal
 images:
 - src: images/viele_besuche_beim_drachenbootcup_08.jpg
   title: viele besuche beim drachenbootcup 08
@@ -40,16 +41,11 @@ images:
   title: kuchenstand kleinmachnow drachenboot08
 - src: images/drachenbootcup_grill_08.jpg
   title: drachenbootcup grill 08
-länder: []
+länder: 
+- deutschland
 title: Drachenruderbootcup 2008
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 3. Drachenbootrudercup 21.09.08

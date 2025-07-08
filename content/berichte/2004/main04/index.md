@@ -13,22 +13,17 @@ images:
   title: miltenberg marktplatz
 - src: images/miltenberg_strasse04_2.jpg
   title: miltenberg strasse
-länder: []
+länder: 
+- deutschland
 title: main 2004
 typen: wanderfahrt
 ---
 
 
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
-
 # Mainwanderfahrt
 
 
-Teilnehmer: Stefan Biastock, Matthias Wagner, Jens Schöpfel, Sophie v. Fromm
+Teilnehmer: Stefan, Matze, Jens, Sophie
 
 Strecke: Bamberg - Miltenberg
 

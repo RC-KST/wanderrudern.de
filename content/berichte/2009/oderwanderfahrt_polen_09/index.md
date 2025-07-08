@@ -4,7 +4,6 @@ begin: "2009-01-01"
 date: "2009-01-01T01:00:00+02:00"
 gewässer:
 - oder
-- po
 images:
 - src: images/Start_bei_Olza_O09.jpg
   title: Start bei Olza O09
@@ -80,16 +79,9 @@ images:
   title: Rudervierer auf dem Weg nach Stettin O09
 länder:
 - polen
-title: Oderwanderfahrt Polen
+title: Oderwanderfahrt Polen 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Oderwanderfahrt in Polen
 

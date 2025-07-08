@@ -17,15 +17,8 @@ images:
 länder:
 - deutschland
 title: Anrudern Bootstaufe 2009
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Anrudern Ende März 2009
 

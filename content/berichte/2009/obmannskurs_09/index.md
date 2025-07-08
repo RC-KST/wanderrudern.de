@@ -12,16 +12,11 @@ images:
   title: Obmannskurs 09
 - src: images/Obmannsausbildung_RC_KST_09.jpg
   title: Obmannsausbildung RC KST 09
-länder: []
-title: Obmannskurs 09
-typen: wanderfahrt
+länder: 
+- deutschland
+title: Obmannskurs 2009
+typen: schulung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Obmannskurs Januar 2009

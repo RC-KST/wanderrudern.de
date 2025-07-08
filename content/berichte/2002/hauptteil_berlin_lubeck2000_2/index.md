@@ -4,6 +4,8 @@ begin: "2002-01-01"
 date: "2002-01-01T01:00:00+02:00"
 gewässer:
 - elbe
+- elbe lübeck kanal
+- trave
 images:
 - src: images/dschungel.jpg
   title: Dömitz Kanuklub ZUfahrt mit Ruderboot
@@ -17,15 +19,11 @@ images:
   title: luebeck00
 - src: images/segeln.jpg
   title: segeln
-länder: []
-title: Berlin_Lubeck2000_2
+länder: 
+- deutschland
+title: Dömitz - Travemünde
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
 
 
 
@@ -34,7 +32,7 @@ Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte e
 
 Zum zweiten Teil der Berlin-Lübeck-Fahrt starteten wir am Freitag vor Pfingsten mit zwei Kleinbussen nach Dömitz, wo wir am letzten Wochenende unsere Boote gelassen hatten.
 
-Die Teilnehmer: Martina Jagsch, Martina  Ahnepohl, Jana Forsten, Niklas + Phillipp Sapora, Nicolai Tietz, Geert Geißler, Kai + Timo Siempelkamp, Martin Klee, Martin Reible, Stefan Biastock und Sasa Antelovic als Landdienst.
+Die Teilnehmer: Martina J., Martina  A., Jana, Niklas, Phillipp, Nicolai, Geert, Kai + Timo, Martin K., Martin R., Stefan und Sasa als Landdienst.
 
 Nach einer teilweise sehr  nervenden Fahrt durch diverse Staus kamen wir am Bootshaus des Kanuvereins Dömitz an.
 

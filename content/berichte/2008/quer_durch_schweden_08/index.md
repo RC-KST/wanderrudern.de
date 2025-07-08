@@ -4,8 +4,12 @@ begin: "2008-02-01"
 date: "2008-02-02T01:00:00+02:00"
 gewässer:
 - ostsee
-- oder
-- bug
+- göta kanal
+- dalsland kanal
+- ostsee
+- vänern
+- vättern
+- mälaren
 images:
 - src: images/Sophie_zeigt_den_Weg_Sw08.jpg
   title: Sophie zeigt den Weg Sw08
@@ -150,18 +154,10 @@ images:
 - src: images/Sophie_im_Nachtclub_SW08.jpg
   title: Sophie im Nachtclub SW08
 länder:
-- dänemark
 - schweden
 title: Quer durch Schweden 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Von der Norwegischen Grenze nach Stockholm
 

@@ -6,7 +6,7 @@ gewässer:
 - elbe
 - havel
 - ostsee
-- oder
+- elbe lübeck kanal
 images:
 - src: images/Patrik_beim_Rollsitz_wechseln_01.jpg
   title: Patrik beim Rollsitz wechseln 01
@@ -36,16 +36,11 @@ images:
   title: Malte und Steffel 04
 - src: images/Ein_Kunstwerk_an_der_Schleuse_25.jpg
   title: Ein Kunstwerk an der Schleuse 25
-länder: []
+länder: 
+- deutschland
 title: Berlin_Wismar05
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Herbstwanderfahrt Berlin-Wismar  Oktober 2005

@@ -2,7 +2,8 @@
 author: ""
 begin: "2015-03-01"
 date: "2015-03-03T01:00:00+02:00"
-gewässer: []
+gewässer:
+- havel
 images:
 - src: images/Maedchenzweier_KH09.jpg
   title: Maedchenzweier KH09
@@ -12,7 +13,8 @@ images:
   title: Ketzin am Steg KH09
 - src: images/AH_Zweier_KH09.jpg
   title: AH Zweier KH09
-länder: []
+länder: 
+- deutschland
 title: Ketzin Herbst 09
 typen: wanderfahrt
 ---

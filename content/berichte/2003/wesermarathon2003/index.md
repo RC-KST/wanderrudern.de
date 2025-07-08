@@ -18,16 +18,11 @@ images:
   title: Laura
 - src: images/laura_greta.jpg
   title: Marathonstart Weser Ruderer
-länder: []
+länder: 
+- deutschland
 title: Wesermarathon 2003
 typen: marathon
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Wesermarathon 2003

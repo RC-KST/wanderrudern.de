@@ -5,7 +5,6 @@ date: "2004-06-06T01:00:00+02:00"
 gewässer:
 - sognefjord
 - fjaerlandsfjord
-- saimaa
 images:
 - src: images/sogne04__54_.jpg
   title: Passstrasse Sognefjord
@@ -48,17 +47,10 @@ images:
 - src: images/sogne04.jpg
   title: sogne04
 länder:
-- deutschland
-- schweden
+- norwegen
 title: Sognefjord 2004
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Sognefjord 2005

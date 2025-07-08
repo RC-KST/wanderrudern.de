@@ -3,8 +3,7 @@ author: ""
 begin: "2006-07-01"
 date: "2006-07-07T01:00:00+02:00"
 gewässer:
-- oder
-- bug
+- teltowkanal
 images:
 - src: images/Logo-Thiel-top04.gif
   title: Logo-Thiel-top04
@@ -64,16 +63,11 @@ images:
   title: Drachenboote im Rennen
 - src: images/Zuschauer_Drachenbootrennen.JPG
   title: Zuschauer Drachenbootrennen
-länder: []
+länder:
+- deutschland
 title: drachenboot2006
-typen: wanderfahrt
+typen: veranstaltung
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # 1. Drachenboot – Rudercup“ der Region Kleinmachnow / Stahnsdorf / Teltow“

@@ -7,7 +7,6 @@ gewässer:
 - havelquellgebiet
 - useriner see
 - jäthensee
-- oder
 images:
 - src: images/Abwasch_in_Neustrelitz_08.jpg
   title: Abwasch in Neustrelitz 08
@@ -15,17 +14,11 @@ images:
   title: Havel bei Babke N08
 - src: images/Kanal_nach_Neustrelitz_08.jpg
   title: Kanal nach Neustrelitz 08
-länder: []
+länder: 
+- deutschland
 title: Neustrelitz 08
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Neustrelitz September 08
 

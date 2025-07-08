@@ -2,7 +2,8 @@
 author: ""
 begin: "2003-01-01"
 date: "2003-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- bleilochtalsperre
 images:
 - src: images/Bleiloch03_BleiSpecs1.jpg
   title: Bleiloch03_BleiSpecs1
@@ -14,16 +15,11 @@ images:
   title: Staumauer Bleichloch Ruderer
 - src: images/bleiloch03_Boot8.jpg
   title: Ruderboot auf der Talsperre
-länder: []
+länder:
+- deutschland
 title: bleiloch03
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Bleilochtalsperre Herbst 2003

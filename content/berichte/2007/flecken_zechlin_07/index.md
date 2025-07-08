@@ -2,23 +2,18 @@
 author: ""
 begin: "2007-09-01"
 date: "2007-09-09T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- mecklenburger seenplatte
 images:
 - src: images/Kinderruderer_Flecken_07.JPG
   title: Kinderruderer Flecken 07
 - src: images/Rudervierer_auf_dem_Zechliner_See_07.JPG
   title: Rudervierer auf dem Zechliner See 07
-länder: []
-title: Flecken Zechlin 07
+länder: 
+- deutschland
+title: Flecken Zechlin 2007
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Kinder-Wochenende in Flecken Zechlin
 

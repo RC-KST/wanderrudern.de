@@ -3,7 +3,6 @@ author: ""
 begin: "2009-06-01"
 date: "2009-06-06T01:00:00+02:00"
 gewässer:
-- spree
 - ostsee
 - warnow
 images:
@@ -35,16 +34,11 @@ images:
   title: Ruderboot vor der Neptun Werft 09
 - src: images/Ruderboot_auf_der_Ostsee_Warnemuende_09.jpg
   title: Ruderboot auf der Ostsee Warnemuende 09
-länder: []
-title: Warnow 09
+länder: 
+- deutschland
+title: Warnow 2009
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
 
 
 # Warnowwanderfahrt Juni 09

@@ -21,17 +21,11 @@ images:
   title: Schwielochsee Vierer Ruderboot
 - src: images/badensp02.jpg
   title: Baden im See vom Boot aus
-länder: []
+länder:
+- deutschland
 title: Spreewald 2002
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Von Stahnsdorf zum Spreewald und zurück...
 

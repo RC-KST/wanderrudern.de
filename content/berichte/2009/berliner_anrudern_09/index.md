@@ -2,13 +2,16 @@
 author: ""
 begin: "2009-01-01"
 date: "2009-01-01T01:00:00+02:00"
-gewässer: []
+gewässer: 
+- spree
+- teltowkanal
 images:
 - src: images/Ruderboote_auf_dem_Mueggelsee_09.jpg
   title: Ruderboote auf dem Mueggelsee 09
 - src: images/Party_bei_Friedrichshagen_09.jpg
   title: Party bei Friedrichshagen 09
-länder: []
+länder: 
+- deutschland
 title: Berliner Anrudern 09
 typen: wanderfahrt
 ---

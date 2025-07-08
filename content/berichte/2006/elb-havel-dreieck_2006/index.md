@@ -6,7 +6,6 @@ gewässer:
 - elbe
 - havel
 - plauer see
-- oder
 images:
 - src: images/El-Havel-Dreieck_Silvester06.jpg
   title: El-Havel-Dreieck Silvester06
@@ -26,17 +25,11 @@ images:
   title: Ruderer feiern Silvester 06
 - src: images/Luftbild_Plaue_Silvester06.jpg
   title: Luftbild Plaue Silvester06
-länder: []
+länder: 
+- deutschland
 title: Elb-Havel-Dreieck 2006
 typen: wanderfahrt
 ---
-
-
-*Dieser Bericht wurde automatisch migriert*
-
-Wenn Fehler auftreten oder links nicht funktionieren, dann schreiben Sie bitte eine Mail an website@wanderrudern.de, wir beheben das Problem gerne!
-
-
 
 # Fahrtenbericht Jahreswechselfahrt 2006/ 2007
 
