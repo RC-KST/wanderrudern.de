@@ -1,4 +1,9 @@
 {{ define "main" }}
+<div class="h-full flex flex-col">
+    {{- partial "intern/page-title.html" page.Title }}
+
+    {{ .Content }}
+
     {{- partial "taxonomy/list-taxonomy.html" "typen" }}
 
     {{- partial "intern/list-items.html" }}
@@ -11,4 +16,5 @@
 
     {{- partial "taxonomy/list-taxonomy.html" "gewässer" }}
     {{- partial "taxonomy/list-taxonomy.html" "länder" }}
+</div>
 {{ end }}
