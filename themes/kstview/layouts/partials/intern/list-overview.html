@@ -15,7 +15,7 @@
 <div class="h-full">
     {{- partial "intern/page-title.html" page.Title }}
 
-    {{ .Content }}
+    {{ page.Content }}
 
     <div class="flex flex-row flex-wrap items-center justify-start">
     {{- $pages := (page.Pages.ByParam $sort_param) }}
@@ -38,6 +38,6 @@
 <hr>
 {{- if $paginate }}
 <div class="flex justify-center">
-    {{ partial "intern/pagination.html" }}
+    {{ partial "intern/pagination.html" (dict "page" page) }}
 </div>
 {{- end }}
