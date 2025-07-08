@@ -53,6 +53,6 @@
 <hr>
 {{- if $paginate }}
 <div class="flex justify-center">
-    {{ partial "intern/pagination.html" }}
+    {{ partial "intern/pagination.html" (dict "page" page) }}
 </div>
 {{- end }}
