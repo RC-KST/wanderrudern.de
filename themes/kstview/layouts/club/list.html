@@ -1,6 +1,12 @@
 {{ define "main" }}
+<div class="h-full flex flex-col">
+    {{- partial "intern/page-title.html" page.Title }}
+
+    {{ .Content }}
+
     {{ partial "intern/list-overview.html" (dict 
         "sort_param" "weight"
         "reverse" false 
         "paginate" false) }}
+</div>
 {{ end }}

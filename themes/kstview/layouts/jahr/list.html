@@ -1,3 +1,9 @@
 {{ define "main" }}
+<div class="h-full flex flex-col">
+    {{- partial "intern/page-title.html" page.Title }}
+
+    {{ .Content }}
+
     {{ partial "intern/list-overview.html" }}
+</div>
 {{ end }}
