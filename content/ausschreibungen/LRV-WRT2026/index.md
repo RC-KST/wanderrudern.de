@@ -16,3 +16,9 @@ images:
 ## 03. - 05. Juli 2026
 
 ![Bastei](./images/Lehnin_Lagerfeuer.jpg)
+
+Das nächste Brandenburger Wanderrudertreffen findet wieder in Lehnin statt.
+Wir rudern am Freitagnachmittag bis Ketzin und stoßen dann am Samstag Mittag zur Auffahrt des Wanderrudertreffens, mit der wir dann gemeinsam nach Lehnin rudern.
+
+Sonntag ist die Rücketappe ziemlich lang, alternativ rudern wir auch ein paar Boote nur bis Werder zurück.
+
