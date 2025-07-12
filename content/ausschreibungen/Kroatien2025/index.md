@@ -17,4 +17,4 @@ images:
 
 ## 17. Oktober - 02.November 2025
 
-![Griechenland](./images/Griechenland2025.jpg)
+![Kroatien](./images/ugljan-muline01.jpg)
