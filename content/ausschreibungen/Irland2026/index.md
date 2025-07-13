@@ -23,4 +23,4 @@ images:
 
 ### Rudern auf der grünen Insel
 
-![Shannon-Erne-Kanal](./images/Ruderboot_Irland.jpg)
+![Shannon-Erne-Kanal](./images/Ruderboot-Irland.jpg)
