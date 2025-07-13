@@ -19,7 +19,7 @@ images:
 ---
 # Irland von Nord nach Süd mit dem Ruderboot
 
-## 05. - 23.August 2026 
+## 05. - 23. August 2026 
 
 (Verschiebung um 1 Tag möglich, das die Fährpläne noch nicht veröffentlicht sind)
 
