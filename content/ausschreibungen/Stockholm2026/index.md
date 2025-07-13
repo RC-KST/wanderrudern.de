@@ -13,7 +13,7 @@ images:
 ---
 # Stockholmer Schärengarten
 
-## 08. - 26.Juli 2026
+## 08. - 26. Juli 2026
 
 ### Rudern durch 30.000 Inseln
 
@@ -25,5 +25,6 @@ Die ersten 2,5 Wochen der Sommerferien. Nicht nur für Kinder und Jugendliche.
 Anreise für die Jugend per Auto am Mittwoch. Fluganreisende stoßen am Freitag Abend dazu.
 
 Wir haben 13/14 Tage Rudertage. Es wird mit Gepäck in den Booten gerudert. Meist versuchen wir in Campinghütten und Jugendherbergen zu übernachten, es wird aber auch gezeltet.
+Die Schären bieten normalerweise einen guten Windschutz, aber mit Wellen muss gerechnet werden.  Wir nehmen gedeckte E-Boote und Inrigger mit.
 
 Viele der größeren Inseln sind bewohnt, es gibt aber auch unbewohnte Inseln und unzählige Klippen.
