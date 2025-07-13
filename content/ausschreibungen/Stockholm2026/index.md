@@ -8,7 +8,7 @@ images:
   title: Insel vor Stockholm
 - src: "images/schaere_97.jpg"
   title: Pause auf der Schäre
-- src: "images/baumgarten_inrigger_am_Eyjafjördur_2022.jpg"
+- src: "images/Stockholm_Skaergarden_Karte.jpg"
   title: Baumgarten Inrigger Dreier
 ---
 # Stockholmer Schärengarten
