@@ -2,7 +2,7 @@
 draft: false
 author: "Stefan"
 begin: "2026-07-03"
-title: Landeswandertreffen 2026 Lehnin
+title: LRV Wanderrudertreffen 2026 Lehnin
 images:
 - src: "Badefloss Lehnin WRT 2011.jpg"
   title: Badefloss
