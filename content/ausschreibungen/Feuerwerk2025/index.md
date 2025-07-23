@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-07-19"
+begin: "2025-08-23"
 title: Feuerwerk 2025
 images: []
 ---
