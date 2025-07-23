@@ -1,10 +1,8 @@
 ---
 author: "Stefan"
 date: "2025-07-06"
-title: Anfängerkurs Erwachsene 2025
+title: Anfänger-Ruderkurs für Erwachsene 2025
 ---
-
-# Anfänger-Ruderkurs für Erwachsene
 
 Nach unserem gut besuchten Tagen der offenen Tür Anfang Mai, hatten wir 30 Anmeldungen für den Anfängerkurs der Erwachsenen, so viele wie noch nie.
 
