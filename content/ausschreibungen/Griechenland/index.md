@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-10-18"
+begin: "2026-10-16"
 title: Griechenland Peloponnes
 images:
 - src: "images/Einsame_Bucht_Griechenland_2024.jpg"
@@ -15,7 +15,7 @@ images:
 ---
 # Griechenland Peloponnes
 
-## 18. Oktober - 02.November 2025
+## 16. Oktober - 01.November 2026
 
 ### Rudern und Antike Ruinen
 
@@ -26,6 +26,8 @@ Gerudert wird an 9-10 Tagen in den tiefen Buchten des Peloponnes. Wir haben Hote
 Gerudert wird in Inrigger- Doppel- Dreiern. Man muss daher nur Skullen können. Alle Teilnehmer sollten trainierte Wanderruderer sein, die auch so beweglich sein müssen, dass man an einem Strand aussteigen kann. Es gibt keine Stege. Es muss mit Wellengang gerechnet werden. Wer leicht seekrank wird, nimmt bitte entsprechende Tabletten mit.
 Um diese Jahreszeit liegen die Temperaturen üblicherweise bei ca. 20 Grad.
 Übrigens sind um diese Zeit die Orangen reif, die wachsen da teilweise direkt an den Straßen.
+
+Die Wanderfahrt wird extrem teuer. Es muss mit ca. 2000 Euro Kosten gerechnet werden.
 
 Wir haben maximal 16 Ruderplätze.
 
