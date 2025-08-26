@@ -2,6 +2,10 @@
 
 {{- $args := . }}
 
+{{/* Hide past posts, mostly relevant for future dates */}}
+{{- $hide_past_posts := false }}
+{{- if and $args (isset $args "hide_past_posts") }}{{ $hide_past_posts = $args.hide_past_posts }}{{ end }}
+
 {{- $sort_param := "date" }}
 {{- if and $args (isset $args "sort_param") }}{{ $sort_param = $args.sort_param }}{{ end }}
 
@@ -19,7 +23,7 @@
 {{- end }}
 
 {{- $sort_by_date := eq $sort_param "date" }}
-    {{- if $paginate }}
+{{- if $paginate }}
     <div class="flex justify-center">
         {{ partial "intern/pagination.html" (dict "page" page) }}
     </div>
@@ -28,6 +32,20 @@
     {{- end }}
 
     <div class="flex flex-col flex-grow">
+        {{- if $hide_past_posts }}
+            {{- if $sort_by_date }}
+                {{- errorf "hide_past_posts and sorting by date is not supported! This will always result in no posts whatsoever." }}
+            {{- else }}
+                {{/* Filter out events that are already over */}}
+                {{- $pages_new := slice }}
+                {{- range $pages }}
+                    {{- if gt (time.AsTime (index .Params $sort_param)) now }}
+                        {{- $pages_new = $pages_new | append . }}
+                    {{- end }}
+                {{- end }}
+                {{- $pages = $pages_new }}
+            {{- end }}
+        {{- end }}
         {{- range $pages }}
         {{- if not .Params.hidden }}
         <a href="{{ .Permalink }}" class="p-0 my-2">
