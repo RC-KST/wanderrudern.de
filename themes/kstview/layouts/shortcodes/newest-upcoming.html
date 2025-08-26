@@ -13,6 +13,16 @@
 <h3 class="w-full text-center">{{ i18n "home_ausschreibungen" }}</h3>
 <ul>
     {{- $pages := (page.GetPage "/ausschreibungen").RegularPages.ByParam $sort_param }}
+
+    {{/* Filter out events that are already over */}}
+    {{- $pages_new := slice }}
+    {{- range $pages }}
+        {{- if gt (time.AsTime (index .Params $sort_param)) now }}
+            {{- $pages_new = $pages_new | append . }}
+        {{- end }}
+    {{- end }}
+    {{- $pages = $pages_new }}
+
     {{- range first site.Params.home.trip_announcement_count $pages }}
     <li class="list-none ml-0 w-full flex py-1 px-3">
         <a class="w-full grow flex text-start flex-row" href="{{ .Permalink }}">
