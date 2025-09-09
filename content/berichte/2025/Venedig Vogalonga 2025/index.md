@@ -78,8 +78,6 @@ images:
 - src: "./images/Weg_zum_Flughafen2025.jpg"
 ---
 
-# Vogalonga
-
 ## Über den Canale Grande und die Lagune von Venedig
 
 Einmal im Jahr wird in Venedig der Motorbootverkehr gestoppt. Am Pfingstsonntag dürfen von 8-15 Uhr nur muskelbetriebene Boote fahren.
