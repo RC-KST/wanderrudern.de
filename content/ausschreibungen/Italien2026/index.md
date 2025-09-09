@@ -19,7 +19,7 @@ images:
 
 ### Osterwanderfahrt durch Italien
 
-![Karte der Ruderstrecke](./images/Po_Flusslauf.jpg)
+![Karte der Ruderstrecke](./images/Po_Flusslauf.png)
 
 Anreise am Freitagnachmittag nach Süddeutschland. Samstag geht es weiter nach Pavia am Ticino.
 Nach 7 Rudertagen erreichen wir das Po Delta. Hier machen wir zwei Tagestouren zum Ort Adria (liegt im Land) und zur Adria (Strand am Meer).
