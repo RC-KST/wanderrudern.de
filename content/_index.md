@@ -33,9 +33,11 @@ title: Home
 
 {{< column-layout >}}
     {{< col >}}
+        {{% v 2 %}}
         {{< previous-news-and-reports >}}
     {{< /col >}}
     {{< col >}}
+        {{% v 2 %}}
         {{< newest-upcoming >}}
     {{< /col >}}
 {{< /column-layout >}}
