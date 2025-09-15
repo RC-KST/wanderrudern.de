@@ -49,7 +49,9 @@ Am Samstag ging es um 8 Uhr aufs Wasser. Kurz nach 9 Uhr erreichten wir die Sper
 Nun passierten wir den Zoo und die Nationalgalerie und weiter nach Kreuzberg vorbei am Verkehrsmuseum und unter der Hochbahn zum Urbanhafen. Über den Neuköllner Schifffahrtskanal und die Schleuse Neukölln erreichten wir wieder die RG Wiking.
 
 Am Sonntag wollten wir dann noch unseren Pokal (Winsauerpreis) als erfolgreichster Wanderruderverein Deutschlands (Mittelgroße Vereine) beim Festakt des Deutschen Ruderverbands in Rathaus Treptow abholen. Wir ruderten natürlich mit der Barke zum Rathaus.
-Leider wurde uns der Eintritt verweigert, da nur 2 Leute in den Saal sollten. Unser Vorschlag, dass der Rest ja im Foyer warten könnte, wurde rüde abgelehnt. "So nach dem Motto die können ja draußen im Regen warten". Daraufhin verliessen wir diese gastliche Veranstaltung unter Protest.
+Leider wurde uns der Eintritt verweigert, da nur 2 Leute in den Saal sollten. Unser Vorschlag, dass der Rest ja im Foyer warten könnte, wurde rüde abgelehnt. "So nach dem Motto die können ja draußen im Regen warten". 
+
+Daraufhin verliessen wir diese gastliche Veranstaltung unter Protest.
 Damit ist der Tiefpunkt für diese Veranstaltung wohl erreicht. 
 
 Das Rückrudern nach Stahnsdorf war dann angenehmer als erwartet. Die Wolken rissen auf und zum Schluß kam sogar die Sonne raus.
