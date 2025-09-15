@@ -58,6 +58,7 @@ Das Rückrudern nach Stahnsdorf war dann angenehmer als erwartet. Die Wolken ris
 Die Veranstalter waren sichtlich genervt über nur 270 angemeldete Teilnehmer und 800 Ruderer die diese Veranstaltung ignorierten und lieber nur die Stadtdurchfahrt ohne Wanderrudertreffen machten. Wäre ich sicher an ihrer Stelle auch gewesen!
 
 Sie müssen sich aber auch fragen lassen, welcher Berliner/Brandenburger Ruderer für das Rudern auf einer Heimatstrecke mit eigenem Bootsmaterial 110 Euro ausgeben möchte. Darin ist ein Tag rudern und ein Abendessen inkludiert, keine Übernachtung, kein Frühstück.
+
 Selbst für einen Gastruderer ist es einfacher sich Boote für 5-10 Euro/Bootsplatz auszuleihen und sich ein schönes Restaurant zu suchen.
 Natürlich fehlt dann das Gemeinschafterlebnis des Festzelts am Samstagabend, aber den meisten ist das anscheinend keine 100 Euro wert.
 
