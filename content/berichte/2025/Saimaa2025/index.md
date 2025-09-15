@@ -11,8 +11,16 @@ länder:
 - finnland
 typen: wanderfahrt
 images:
-- src: "./images/Weilburg2025.jpg"
-  title: "Weilburg"
+- src: "./images/Abendessen-Siilinjaervi2025"
+  title: "Siilinjärvi Abendessen"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
+- src: "./images/Abendessen-Siilinjaervi2025"
 ---
 
 # Saimaa Seenplatte Sommer 2025
