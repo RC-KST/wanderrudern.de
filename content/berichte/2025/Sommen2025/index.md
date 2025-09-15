@@ -53,7 +53,7 @@ images:
 
 # Sommen September 2025
 
-Die letzte Ferienwoche zog es dann noch einmal in den Norden. Dieses Mal aber nur bis Schweden.
+Die letzte Ferienwoche zog es uns dann noch einmal in den Norden. Dieses Mal aber nur bis Schweden.
 Freitagabend ging es in Rostock auf die Fähre nach Trelleborg, Samstag früh erreichten wir Trelleborg. Der schwedische Zoll störte etwas das entladen der Fähre, da sie einen Alkoholtest von jedem Fahrer verlangte. Als könnte man auf dieser Fähre etwas anderes machen, als sofort schlafen zu gehen.
 
 Gegen Mittag erreichten wir Oskarshamn an Ostküste. Hier lieferten wir einen gebrauchten C-Vierer ab. Als Dank durften wir mit zwei Inriggern eine Runde durch die Schären drehen.
