@@ -61,7 +61,7 @@ Die Veranstalter waren sichtlich genervt über nur 270 angemeldete Teilnehmer un
 
 Sie müssen sich aber auch fragen lassen, welcher Berliner/Brandenburger Ruderer für das Rudern auf einer Heimatstrecke mit eigenem Bootsmaterial 110 Euro ausgeben möchte. Darin ist ein Tag rudern und ein Abendessen inkludiert, keine Übernachtung, kein Frühstück.
 
-Selbst für einen Gastruderer ist es einfacher sich Boote für 5-10 Euro/Bootsplatz auszuleihen und sich ein schönes Restaurant zu suchen.
+Selbst für einen Gastruderer ist es einfacher, sich Boote für 5-10 Euro/Bootsplatz auszuleihen und sich ein schönes Restaurant zu suchen.
 Natürlich fehlt dann das Gemeinschafterlebnis des Festzelts am Samstagabend, aber den meisten ist das anscheinend keine 100 Euro wert.
 
 Wir wissen, dass bei der Ausrichtung des WRT hohe Kosten und sehr viel Arbeit anfallen, aber augenscheinlich gibt es nur noch einen sehr kleinen Kreis von Leuten, die eine solche Veranstaltung in dieser Form besuchen möchten.
