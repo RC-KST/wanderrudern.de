@@ -59,7 +59,7 @@ Freitagabend ging es in Rostock auf die Fähre nach Trelleborg, Samstag früh er
 Gegen Mittag erreichten wir Oskarshamn an Ostküste. Hier lieferten wir einen gebrauchten C-Vierer ab. Als Dank durften wir mit zwei Inriggern eine Runde durch die Schären drehen.
 Danach ging es weiter zum Sommen. Wir hatten zwei traditionelle, gut ausgestattete Ferienhäuser nur 50m vom See enfernt. Wir luden die Boote an einem Strand ab und richteten uns ein.
 
-![Landkarte Sommen](./images/"Quartier_am_Sommen.jpg")
+![Landkarte Sommen](./images/Quartier_am_Sommen.jpg)
 
 Am Sonntag ging es früh aufs Wasser, da wir bis zur äußersten Nordwestecke des Sommen rudern wollten. Zunächst noch bewölkt und mit wenig Wind ruderten wir zur Ortschaft Sommen. Nach einer Pause am örtlichen Badestrand ging es wieder südwärts. Ein Abstecher nach Tranas (der größtn Stadt der Gegend) erforderte es einen Flusslauf aufwärts zu rudern. Der strömte zwar kaum, war mit 3 km dann aber doch länger als gedacht. Wir machten im Yachthafen fest und liefen zum örtlichen Lidl zum einkaufen.
 Damit war die Strecke mit 52 km dann doch etwas länger als erwartet.
