@@ -98,4 +98,4 @@ images:
 
 
 
-![Landkarte Saimaa Seenplatte](./images/Saimaa.tif)
+![Landkarte Saimaa Seenplatte](./images/Saimaa.jpg)
