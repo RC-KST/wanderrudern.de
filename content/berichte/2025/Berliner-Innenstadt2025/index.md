@@ -13,20 +13,28 @@ länder:
 - deutschland
 typen: wanderfahrt
 images:
-- src: "./images/496668308_1276575784476631_6237144758149988691_n.jpg"
-  title: "Start in Meißen"
-- src: "./images/496769633_1276575424476667_8011304570133457408_n.jpg"
-  title: "Meißen"
-- src: "./images/496975599_1276575901143286_5860165015958287480_n.jpg"
-  title: "Ruderboote Torgau"
-- src: "./images/497509722_1276578497809693_4293098990602679313_n.jpg"
-  title: "Zweier vor Wittenberg"
-- src: "./images/497682745_1276575487809994_7145209038742767969_n.jpg"
-  title: "Ruderer auf der Elbe"
-- src: "./images/497790681_1276575501143326_5413080045596869366_n.jpg"
-  title: "Albrechtsburg Meißen"
+- src: "./images/Barke-Teltowkanal-Innenstadt2025.jpg"
+  title: "Kleinmachnower Barke auf dem Teltowkanal"
+- src: "./images/Barke-Ullsteinhaus2025.jpg"
+  title: "Steuerleute der Barke in Tempelhof"
+- src: "./images/Berliner-Innenstadt-Molecule-Men2025.jpg"
+  title: "Einfahrt in den Sperrbezirk"
+- src: "./images/Berliner-Innenstadt-Kreuzberg2025.jpg"
+  title: "Einfahrt in den Sperrbezirk"
+- src: "./images/Berliner-Innenstadt-Mitte2025.jpg"
+  title: "Ruderboot auf der Spree"
+- src: "./images/Schleuse-Muehlendamm2025.jpg"
+  title: "Stau vor der Mühlendammschleuse"
+- src: "./images/Berliner-Innenstadt-Reichstag.jpg"
+  title: "Ruderer am Reichstag"
+- src: "./images/Barke-Schleuse-Tiergarten2025.jpg"
+  title: "Einfahrt in den Sperrbezirk"
+- src: "./images/Barke-Landwehrkanal2025.jpg"
+  title: "Barke auf dem Landwehrkanal"
+- src: "./images/Barke-Hotel-Estrel2025.jpg"
+  title: "Neuköllner Schifffahrtskanal, Hotel Estrel"
 
-  title: Elbe Marathon 2025
+  title: Wanderfahrt durch die Berliner Innenstadt
 ---
 
-# Elbe Marathon Meißen - Coswig
+# Fahrt durch die Berliner Innenstadt 2025
