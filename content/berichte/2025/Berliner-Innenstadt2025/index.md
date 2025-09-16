@@ -69,5 +69,5 @@ Nicht verwunderlich ist es daher, dass es für 2026 bisher keinen Verein gibt, d
 
 Nach unseren Informationen war übrigens die vollkommen chaotische Anmeldeprozedur für das WRT 2025 in der Verantwortung des Deutschen Ruderverbands, nicht in der des Veranstalters. Eine Anmeldung war nach DRV Infos (Webseite) ab dem 12. Juni möglich !!!
 
-Kleines Schamkerl nebenher: Die Anmeldungen für DRV/Gemeinschafts- Wanderfahrten sollen (nach DRV) bis spätestens Ende November des Vorjahres freigeschaltet werden.
+Kleines Schmankerl nebenher: Die Anmeldungen für DRV/Gemeinschafts- Wanderfahrten sollen (nach DRV) bis spätestens Ende November des Vorjahres freigeschaltet werden.
 Das ist auch durchaus sinnvoll, da dann viele Ruderer ihre Planungen und Urlaubsanmeldungen für das Folgejahr machen.
