@@ -4,7 +4,7 @@ title: Saimaa Seenplatte Sommer 2025
 #author: "Stefan"
 begin: 2025-07-16
 end: 2025-08-10
-date: 2025-09-10
+date: 2025-09-09
 gewässer:
 - saimaa
 länder:
