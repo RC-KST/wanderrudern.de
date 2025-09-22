@@ -10,6 +10,10 @@ images:
   title: Schloß Gripsholm am Mälaren
 - src: "images/Nordencreutz_Mälarkarta_1739.jpg"
   title: Historische Landkarte des Mälaren
+  - src: "images/lillasorgarden-20.jpg"
+  title: Unser Quartier
+- src: "images/img_8969.webp"
+  title: Unser Quartier
 ---
 ## 07. - 16. August 2026
 
