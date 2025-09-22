@@ -4,12 +4,12 @@ author: "Stefan"
 begin: "2026-08-07"
 title: Mälaren
 images:
-- src: "images/Stockholm_Schaerenguertel.jpg"
-  title: Insel vor Stockholm
-- src: "images/schaere_97.jpg"
-  title: Pause auf der Schäre
-- src: "images/Stockholm_Skaergarden_Karte.jpg"
-  title: Landkarte Schären vor Stockholm
+- src: "images/Klippe-Mälaren.jpg"
+  title: Pause auf einer Schäre
+- src: "images/Mälaren-Gripsholm.jpg"
+  title: Schloß Gripsholm am Mälaren
+- src: "images/Nordencreutz_Mälarkarta_1739.jpg"
+  title: Historische Landkarte des Mälaren
 ---
 # Mälaren
 
@@ -17,7 +17,7 @@ images:
 
 ### Standquartier auf einer Insel im Mälaren
 
-![Schärengarten](./images/Ruderboote_Schaeren2008.jpg)
+![Ruderer auf dem Mälaren](./images/Ruderboote-Mälaren.jpg)
 
 Anfängerfreundliche Wanderfahrt mit einem Standquartier auf einer Insel im Mälaren.
 Gut ausgestattetes Schwedenhaus mit Bettenquartier.
