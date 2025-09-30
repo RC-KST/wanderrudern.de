@@ -2,7 +2,7 @@
 draft: false
 author: "Stefan"
 begin: "2026-08-07"
-title: Mälaren
+title: Schweden Mälaren
 images:
 - src: "images/Klippe-Mälaren.jpg"
   title: Pause auf einer Schäre
