@@ -6,15 +6,15 @@
 
     {{- partial "taxonomy/list-taxonomy.html" "typen" }}
 
-    {{- partial "intern/list-items.html" }}
+    {{- partial "intern/list-items.html" (dict "sort_param" "begin") }}
 
     {{- $pages := newScratch }}
     {{- range .Page.Pages.GroupByPublishDate "2006" }}
         {{- $pages.Set .Key ($.GetPage ((printf "/jahr/%s" .Key))).Permalink }}
     {{- end }}
-    {{- partial "taxonomy/list-category" (dict "name" (i18n "bericht_jahr") "pages" $pages.Values) }}
 
-    {{- partial "taxonomy/list-taxonomy.html" "gewässer" }}
+    {{- partial "taxonomy/list-category" (dict "name" (i18n "bericht_jahr") "pages" $pages.Values) }}
     {{- partial "taxonomy/list-taxonomy.html" "länder" }}
+    {{- partial "taxonomy/list-taxonomy.html" "gewässer" }}
 </div>
 {{ end }}

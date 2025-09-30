@@ -4,6 +4,6 @@
 
     {{ .Content }}
 
-    {{ partial "intern/list-overview.html" }}
+    {{ partial "intern/list-overview.html" (dict "sort_param" "begin") }}
 </div>
 {{ end }}
