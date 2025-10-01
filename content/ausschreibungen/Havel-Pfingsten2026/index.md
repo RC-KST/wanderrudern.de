@@ -4,8 +4,12 @@ author: "Stefan"
 begin: "2026-05-22"
 title: Havel zu Pfingsten
 images:
-- src: "images/RIMG0003.jpg"
-  title: Rudern im Schnee
+- src: "images/20240713_123853.jpg"
+  title: 
+- src: "images/20240714_142206.jpg"
+  title:
+- src: "images/20240714_162219.jpg"
+  title:  
 
 ---
 # Anfängerwanderfahrt die Havel abwärts
