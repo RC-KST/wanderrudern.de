@@ -19,7 +19,7 @@ images:
 
 ### Binger Loch + Lorelei
 
-![Ruderer auf dem Mälaren](./images/Ruderboote-Mälaren.jpg)
+![Ruderer auf dem Mälaren](./images/Loreleyfelsen.jpg)
 
 Wanderfahrt für fortgeschrittene Anfänger auf der spektakulärsten Strecke des Rhein.
 Da wo der Rhein durch das Rheinische Schiefergebirge bricht sind die landschaftlichen Highlights der Rheinstrecke.
