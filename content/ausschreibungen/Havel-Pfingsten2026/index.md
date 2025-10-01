@@ -12,4 +12,4 @@ images:
 
 ## 22.-26. Mai 2026 (Pfingten + 1 Tag)
 
-![Winterrudern](./images/RIMG0003.jpg)
+![Havelberg](./images/20240714_162314.jpg)
