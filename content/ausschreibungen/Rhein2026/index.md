@@ -4,15 +4,15 @@ author: "Stefan"
 begin: "2026-04-30"
 title: Rhein Lorelei
 images:
-- src: "images/Klippe-Mälaren.jpg"
-  title: Pause auf einer Schäre
-- src: "images/Mälaren-Gripsholm.jpg"
-  title: Schloß Gripsholm am Mälaren
-- src: "images/Nordencreutz_Mälarkarta_1739.jpg"
+- src: "Baumgarten C4x+ im Lorelei Hafen EUREGA 2024.jpg"
+  title: Lorelei Hafen
+- src: "images/Blick von der Lorelei Rheinwanderfahrt 2011.jpg"
+  title: Blick von der Lorelei
+- src: "images/801.jpg"
   title: Historische Landkarte des Mälaren
-- src: "images/lillasorgarden-20.jpg"
+- src: "images/802.jpg"
   title: Unser Quartier
-- src: "images/img_8969.webp"
+- src: "images/901.jpg"
   title: Unser Quartier
 ---
 ## 30. April - 03. Mai 2026
