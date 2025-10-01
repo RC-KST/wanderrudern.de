@@ -8,6 +8,7 @@ images:
   title: Schleuse Brandenburg
 - src: "images/20240714_142206.jpg"
   title: Badestrand an der Havel
+  
  ---
  
 # Anfängerwanderfahrt die Havel abwärts
