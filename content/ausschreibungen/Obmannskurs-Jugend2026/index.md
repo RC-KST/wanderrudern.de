@@ -19,5 +19,5 @@ Die praktischen Prüfungen finden bei passender Gelegenheit in den Folgewochen s
 Die Teilnahme am Obmannskurs ist auch Anfängern dringend zu empfehlen!
 Auch als Auffrischung für gestandene Obleute empfehlenswert.
 
-![Obmannskurs](./images/DSC00125.jpg)
+![Ruderkasten](./images/DSC00125.JPG)
 
