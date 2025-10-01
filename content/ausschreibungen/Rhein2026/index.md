@@ -9,11 +9,11 @@ images:
 - src: "images/Blick von der Lorelei Rheinwanderfahrt 2011.jpg"
   title: Blick von der Lorelei
 - src: "images/801.jpg"
-  title: Historische Landkarte des Mälaren
+  title: Binger Loch
 - src: "images/802.jpg"
-  title: Unser Quartier
+  title: Binger Loch
 - src: "images/901.jpg"
-  title: Unser Quartier
+  title: Schloss am Rhein
 ---
 ## 30. April - 03. Mai 2026
 
