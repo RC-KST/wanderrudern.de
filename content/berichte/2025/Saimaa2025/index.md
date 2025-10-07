@@ -179,6 +179,7 @@ Unsere diesjährige Sommerwanderfahrt ging auf die Saimaa Seenplatte im Südoste
 Gleich nach der Zeugnisausgabe machten wir uns mit 3 Booten auf dem Anhänger und 9 Leuten im Auto auf den Weg nach Rostock, um die Nachtfähre Richtung Schweden zu nehmen, dann weiter auf leeren Straßen nach Stockholm zur Fähre nach Helsinki und schließlich nach Puumala, wo wir die Boote vom Hänger nahmen, diesen samt Auto dort für die nächsten 3 Wochen abstellten und unser Abenteuer starten konnte
 
 … allerdings war vor dem Abenteuer erst einmal viel Gepäckverstauen angesagt. Unmengen an haltbarem Dosenbrot, Tortellini und Büchsenfleisch sowie unsere Zelte, 3 große Töpfe, die Pumpe für das Filtern des Seewassers und die Gasflasche samt Brenner (falls Regen ein Lagerfeuer auf den Biwakplätzen unmöglich machen würde) und dazu natürlich noch die privaten Packsäcke, gefüllt mit Matte, Schlafsack und dicken sowie 
+
 - ganz wichtig – Regensachen.
 
 Mitgebrachter Süßkram benötigte auch einiges an Platz, da wir ja nur alle 3 – 4 Tage mit Einkaufsmöglichkeiten in kleinen Orten auf unserer Runde rechnen konnten.
@@ -198,5 +199,8 @@ Toll war der Blick über die weiten Seeflächen zwischen den Inseln und die herr
 
 Wieder zurück in Puumala kamen die Boote auf den Hänger und wir machten uns auf den Weg nach Hause. Auf der Fähre von Helsinki nach Stockholm fielen wir natürlich über das reichhaltige Buffet her, sodass wir die in den 3 Wochen eventuell verlorenen Pfunde vermutlich gleich wieder zurückhatten.
 
+<<<<<<< HEAD
 Lars hat uns aus seinen Aufnahmen noch eine schöne bildliche Zusammenfassung geschnitten:
 ![Saimaa Video](./Saimaa2025.mp4)
+=======
+>>>>>>> 27c206b2cc40c8cb5eb5e522a3512c96576ebc54

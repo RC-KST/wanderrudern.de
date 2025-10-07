@@ -86,8 +86,8 @@
         }
 
         function show_slides_{{$sid}}() {
-            show_slide_{{$sid}}(slide_idx_{{$sid}});
             slide_idx_{{$sid}}++;
+            show_slide_{{$sid}}(slide_idx_{{$sid}});
             timeout_id_{{$sid}} = setTimeout(show_slides_{{$sid}}, TIMEOUT_MS_{{$sid}});
         }
 
