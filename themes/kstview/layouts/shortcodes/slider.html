@@ -86,7 +86,7 @@
         }
 
         function show_slides_{{$sid}}() {
-            slide_idx_{{$sid}}++;
+            slide_idx_{{$sid}} += 1;
             show_slide_{{$sid}}(slide_idx_{{$sid}});
             timeout_id_{{$sid}} = setTimeout(show_slides_{{$sid}}, TIMEOUT_MS_{{$sid}});
         }
@@ -94,7 +94,8 @@
         function slideshow_onclick_{{$sid}}() {
             let slides = slides_tag_{{$sid}}.getElementsByClassName("slideshow_slides_{{$sid}}");
             let href = slides[slide_idx_{{$sid}}].getAttribute("data-href");
-            window.open(href, "_self");
+            let idx = slide_idx_{{$sid}};
+            window.open(href, "_blank");
         }
 
         function setup_slide_dots_{{$sid}}() {
@@ -107,6 +108,8 @@
                 nodes_parent.appendChild(new_node);
             }
         }
+        // increment happens before showing, this ensures onclick events show you the correct link!
+        slide_idx_{{$sid}} = -1;
         setup_slide_dots_{{$sid}}();
         show_slides_{{$sid}}();
     </script>
