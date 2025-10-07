@@ -199,8 +199,5 @@ Toll war der Blick über die weiten Seeflächen zwischen den Inseln und die herr
 
 Wieder zurück in Puumala kamen die Boote auf den Hänger und wir machten uns auf den Weg nach Hause. Auf der Fähre von Helsinki nach Stockholm fielen wir natürlich über das reichhaltige Buffet her, sodass wir die in den 3 Wochen eventuell verlorenen Pfunde vermutlich gleich wieder zurückhatten.
 
-<<<<<<< HEAD
 Lars hat uns aus seinen Aufnahmen noch eine schöne bildliche Zusammenfassung geschnitten:
 ![Saimaa Video](./Saimaa2025.mp4)
-=======
->>>>>>> 27c206b2cc40c8cb5eb5e522a3512c96576ebc54
