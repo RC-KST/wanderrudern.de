@@ -7,6 +7,10 @@ title: Home
 
 {{< slider id="home" >}}
     {{< slider-entry
+        text="Saimaa 2025 Bericht ist online, inklusive Video!"
+        img="images/saimaa_video_standbild.png"
+        href="berichte/2025/Saimaa2025/index.md" >}},
+    {{< slider-entry
         text="Der Steg ist da!"
         img="bundle/backdrops/club-gelaende.jpg"
         href="./berichte/2024/stegeinweihung_2024/index.md" >}} 

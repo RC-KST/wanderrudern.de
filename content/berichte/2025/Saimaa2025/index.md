@@ -180,6 +180,7 @@ Gleich nach der Zeugnisausgabe machten wir uns mit 3 Booten auf dem Anhänger un
 
 … allerdings war vor dem Abenteuer erst einmal viel Gepäckverstauen angesagt. Unmengen an haltbarem Dosenbrot, Tortellini und Büchsenfleisch sowie unsere Zelte, 3 große Töpfe, die Pumpe für das Filtern des Seewassers und die Gasflasche samt Brenner (falls Regen ein Lagerfeuer auf den Biwakplätzen unmöglich machen würde) und dazu natürlich noch die privaten Packsäcke, gefüllt mit Matte, Schlafsack und dicken sowie 
 - ganz wichtig – Regensachen.
+
 Mitgebrachter Süßkram benötigte auch einiges an Platz, da wir ja nur alle 3 – 4 Tage mit Einkaufsmöglichkeiten in kleinen Orten auf unserer Runde rechnen konnten.
    
 Es lagen auf unserer insgesamt 762 km langen Rundtour durch die vielen Inseln einige interessante Orte, z. B. die Wasserburg Olavlinna, das Kloster Uusi Valamo, in deren einfachen Klosterzellen wir einmal übernachteten und das einfache aber reichhaltige Abendessen und Frühstücksbuffet genießen konnten.
@@ -197,3 +198,5 @@ Toll war der Blick über die weiten Seeflächen zwischen den Inseln und die herr
 
 Wieder zurück in Puumala kamen die Boote auf den Hänger und wir machten uns auf den Weg nach Hause. Auf der Fähre von Helsinki nach Stockholm fielen wir natürlich über das reichhaltige Buffet her, sodass wir die in den 3 Wochen eventuell verlorenen Pfunde vermutlich gleich wieder zurückhatten.
 
+Lars hat uns aus seinen Aufnahmen noch eine schöne bildliche Zusammenfassung geschnitten:
+![Saimaa Video](./Saimaa2025.mp4)
