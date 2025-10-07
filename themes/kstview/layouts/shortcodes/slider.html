@@ -86,16 +86,14 @@
         }
 
         function show_slides_{{$sid}}() {
-            slide_idx_{{$sid}}++;
             show_slide_{{$sid}}(slide_idx_{{$sid}});
+            slide_idx_{{$sid}}++;
             timeout_id_{{$sid}} = setTimeout(show_slides_{{$sid}}, TIMEOUT_MS_{{$sid}});
         }
 
         function slideshow_onclick_{{$sid}}() {
             let slides = slides_tag_{{$sid}}.getElementsByClassName("slideshow_slides_{{$sid}}");
-            console.log("Got slides for onclick: ", slides);
             let href = slides[slide_idx_{{$sid}}].getAttribute("data-href");
-            console.log("next href: ", href)
             window.open(href, "_self");
         }
 
