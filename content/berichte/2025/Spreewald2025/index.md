@@ -38,5 +38,5 @@ images:
 
 
 
-![Im Spreewald](images/Ruderboot-Spreewald.jpg)
+![Im Spreewald](images/Ruderboot-Spreewald2025.jpg)
 
