@@ -12,15 +12,31 @@ länder:
 - deutschland
 typen: wanderfahrt
 images:
-- src: images/boot_fertig.jpg
-  title: Boot fertig vorbereitet
-- src: images/neuwied_vorbeifahrt.jpg
-  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
-- src: ./images/neuwied_vorbeifahrt_2.jpg
-  title: Vorbeifahrt beim Start der 45km-Strecke in Neuwied
+- src: images/Wendenschloss2025.jpg
+  title: Start in Grünau
+- src: images/Graben-Zernsdorf.jpg
+  title: Graben in Zernsdorf
+- src: images/Bootsschleppe-Märkisch-Buchholz.jpg
+  title: Bootswagen Märkisch Buchholz
+- src: ./images/Wasserburger-Spree2025.jpg
+  title: Im Unterspreewald
+- src: images/Puhlstrom2025.jpg
+  title: Im Puhlstrom
+- src: ./images/Puhlstromschleuse-mal-wieder-kaputt.jpg
+  title: Obere Puhlstromschleuse defekt
+- src: images/Umtragen-Puhlstrom.jpg
+  title: Ruderboote umtragen im Spreewald
+- src: ./images/Kaputte-Schleuse-Spreewald2025.jpg
+  title: Nächste Schleuse defekt
+- src: images/Spreewald2025.jpg
+  title: Im Spreewald
+- src: images/Spreewaldschleuse2025.jpg
+  title: Im Puhlstrom
+- src: images/Spreewald-Regenschauer2025.jpg
+  title: Aussetzen im Regen
 ---
 
 
 
-![Zieleinfahrt](images/zieleinfahrt.jpg)
+![Im Spreewald](images/Ruderboot-Spreewald.jpg)
 
