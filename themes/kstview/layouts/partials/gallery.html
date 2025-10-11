@@ -16,9 +16,19 @@
         <div id="gallery-modal" class="gallery-modal-close-btn hidden z-[2010] fixed w-full h-screen left-0 top-0 bg-black/70">
             <div class="flex flex-nowrap h-full w-full">
                 <div class="flex flex-col flex-nowrap flex-grow mx-1 md:mx-5 mt-2 text-2xl text-white">
-                    <div class="flex flex-row flex-nowrap flex-grow items-center">
+                    <div class="flex flex-row flex-nowrap flex-grow items-center justify-center">
                         <a class="gallery-modal-prev-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10094;</a>
-                        <div id="gallery-modal-image" class="bg-contain bg-center bg-no-repeat h-full flex-grow"></div>
+                        <!--<div class="flex-grow h-full"></div>-->
+                        <div class="flex-grow flex flex-col flex-nowrap items-center justify-center">
+                            <img id="gallery-modal-image" style="
+                                     max-height: calc(100vh - 4rem);
+                                     min-height: calc(100vh - 4rem);"
+                                 class=" max-w-[95vw] min-w-[95w]
+                                md:max-w-[85vw]
+                                object-contain" />
+                        </div>
+                        <!--<div class="flex-grow h-full"></div>-->
+                        <!--<div id="gallery-modal-image" class="bg-contain bg-center bg-no-repeat "></div>-->
                         <a class="gallery-modal-next-btn cursor-pointer p-4 rounded hover:bg-black hover:bg-opacity-90 inline max-md:hidden">&#10095;</a>
                     </div>
                     <div class="flex flex-row justify-around flex-nowrap">
@@ -39,6 +49,8 @@
     const gallery = document.getElementById("gallery-container");
     let images_len = 0;
     {
+
+
         const container_images = gallery.getElementsByClassName("gallery-container-image");
         images_len = container_images.length;
         for (let i = 0; i < container_images.length; i++) container_images[i].addEventListener("click", function() {
@@ -68,6 +80,13 @@
                 closeModal();
             });
         }
+
+
+        let modal_img = document.getElementById("gallery-modal-image");
+        modal_img.addEventListener("click", function() {
+            event.stopPropagation(true);
+        });
+
     }
 
 
@@ -96,7 +115,12 @@
 
         let image_href = images[slide].getAttribute("data-href");
         let img = document.getElementById("gallery-modal-image");
-        img.style.backgroundImage = `url(${image_href})`;
+        img.setAttribute("src", image_href);
+        //img.style.backgroundImage = `url(${image_href})`;
+    }
+
+    function modelOpen() {
+        return slide !== -1;
     }
 
     function closeModal() {
@@ -109,7 +133,8 @@
 
 
         let img = document.getElementById("gallery-modal-image");
-        img.style.backgroundImage = "";
+        img.setAttribute("src", "");
+        //img.style.backgroundImage = "";
         //let img = modal_img_container.getElementsByTagName("img")[0];
         //img.setAttribute("src", "");
         //img.setAttribute("alt", "");
@@ -119,6 +144,7 @@
     }
 
     document.addEventListener('keydown', function(event) {
+        if (!modelOpen()) return;
         if (event.key === "Escape") closeModal();
         if (event.key === "ArrowLeft") incModal(-1);
         if (event.key === "ArrowRight") incModal(1);
