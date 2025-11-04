@@ -25,7 +25,10 @@ Die Teilnahme von Gästen aus anderen Vereinen ist ausdrücklich erwünscht. Leh
 
 ## Warum Obmannskurse?
 Grundsätzlich sollten alle Ruderer die Regeln auf dem Wasser kennen. 
+
 Schifffahrtszeichen, Vorfahrtsregeln, Schallsignale, sicheres Rudern in unterschiedlichen Situationen wie bei Wind und Wellen oder Strömung gehören dazu.
 Auch das umsichtige Verhalten bei Havarien sollte jeder kennen.
+
 Leider ist das bisweilen recht selten der Fall. 
+
 Auf jeden Fall sollte jedoch der Obmann diese Dinge beherrschen.
