@@ -28,6 +28,7 @@ Grundsätzlich sollten alle Ruderer die Regeln auf dem Wasser kennen.
 
 Schifffahrtszeichen, Vorfahrtsregeln, Schallsignale, sicheres Rudern in unterschiedlichen Situationen wie bei Wind und Wellen oder Strömung gehören dazu.
 Auch das umsichtige Verhalten bei Havarien sollte jeder kennen.
+Dazu gehört auch der Einsatz von dem Gewässer und dem Wetter angepassten Bootsmaterial, um Unfälle zu vermeiden.
 
 Leider ist das bisweilen recht selten der Fall. 
 
