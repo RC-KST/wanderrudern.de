@@ -25,4 +25,4 @@ Samstag Chorzepowo, 106,5 km Übernachtung Bauer
 
 Sonntag Gorzow, 81,5 km Rückreise mit Auto und Bahn
 
-![Ruderboot bei Coswig](./images/Ruderboot-Coswig.jpg)
+![Ruderboot auf der Warthe](./images/Warthe-2025.jpg)
