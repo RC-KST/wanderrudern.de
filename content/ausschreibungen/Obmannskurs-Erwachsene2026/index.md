@@ -7,7 +7,7 @@ images:
 ---
 ## 10.- 11. Januar 2026
 
-![Obmannskurs](./images/20200117_180719.jpg)
+![Obmannskurs](./images/Obmannskurs-2025.jpg)
 
 Der Kurs findet im Berlin Dahlem statt. 
 Samstag 10-17 Uhr
