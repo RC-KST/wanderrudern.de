@@ -75,9 +75,6 @@ images:
   title: "einziger Sandstrand"
 - src: "./images/Sandstrand-Kroatien.jpg"
   title: "Sandstrand"
-- src: "./images/Ugljan-Inselkarte.jpg"
-  title: "Karte der Inseln vor Zadar"
-
 - src: "./images/Ugljan-Pasman-Bruecke.jpg"
   title: "Brücke zwischen Ugljan und Pasman"
 - src: "./images/VL-im-Pool.jpg"
@@ -91,5 +88,7 @@ images:
 
 # Kroatien Inselwelt rund um Zadar
 
+![Inseln rund um Zadar](./images/Ugljan-Inselkarte.jpg)
 
-![Stromschnelle auf der Lahn](./images/Stromschnelle_Lahn_x264.mp4 "Stromschnelle auf der Lahn")
+
+
