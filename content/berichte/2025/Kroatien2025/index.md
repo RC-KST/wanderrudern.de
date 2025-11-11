@@ -83,12 +83,14 @@ images:
   title: "Abstieg vom Kloster auf Pasman"
 - src: "./images/Wasser-adria.jpg"
   title: "Klares Wasser in der Adria"
- 
 ---
 
 # Kroatien Inselwelt rund um Zadar
 
+![Meeresrudern](./images/kroatien_meeresrudern.mp4)
+
 ![Inseln rund um Zadar](./images/Ugljan-Inselkarte.jpg)
+
 
 
 
