@@ -33,8 +33,6 @@ images:
   title: "Barke auf dem Landwehrkanal"
 - src: "./images/Barke-Hotel-Estrel2025.jpg"
   title: "Neuköllner Schifffahrtskanal, Hotel Estrel"
-
-  title: Wanderfahrt durch die Berliner Innenstadt
 ---
 
 # Fahrt durch die Berliner Innenstadt 2025
