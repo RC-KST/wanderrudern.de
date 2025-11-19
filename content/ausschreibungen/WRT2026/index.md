@@ -4,8 +4,10 @@ author: "Stefan"
 begin: "2026-07-03"
 title: DRV Wanderrudertreffen 2026 Schwerin
 images:
-- src: "Badefloss Lehnin WRT 2011.jpg"
-  title: Badefloss
+- src: "Schweriner Schloss vom Ruderboot gesehen Mecklenburg 2020"
+  title: Schweriner Schloss vom Ruderboot
+- src: "Zweier vor der Grotte Schwerin Mecklenburg 2020"
+  title: Schweriner Grotte mit Ruderboot
 ---
 # DRV- Wanderrudertreffen 2026 in Schwerin
 
