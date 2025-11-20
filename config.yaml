@@ -195,8 +195,8 @@ markup:
       unsafe: true
     renderHooks:
       link:
-        # or: fallbac
-        useEmbedded: never
+        # or: fallback
+        useEmbedded: always
     parser:
       attribute:
         block: true
