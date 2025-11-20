@@ -4,16 +4,15 @@ author: "Stefan"
 begin: "2026-07-03"
 title: DRV Wanderrudertreffen 2026 Schwerin
 images:
-- src: "Schweriner Schloss vom Ruderboot gesehen Mecklenburg 2020"
+- src: "./images/Schweriner Schloss vom Ruderboot gesehen Mecklenburg 2020.jpg"
   title: Schweriner Schloss vom Ruderboot
-- src: "Zweier vor der Grotte Schwerin Mecklenburg 2020"
+- src: "./images/Zweier vor der Grotte Schwerin Mecklenburg 2020.jpg"
   title: Schweriner Grotte mit Ruderboot
 ---
-# DRV- Wanderrudertreffen 2026 in Schwerin
 
 ## 18. - 20. September 2026
 
-Das nächste Deutsche Wanderrudertreffen findet in Schwrin statt.
+Das nächste Deutsche Wanderrudertreffen findet in Schwerin statt.
 
 Wer teilnehme möchte kann sich irgendwann auf der Homepage des DRV anmelden. Sobald wir merken, dass der DRV die Anmeldung freigeschaltet hat melden wird das.
 
