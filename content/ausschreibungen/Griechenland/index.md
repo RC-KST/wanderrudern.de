@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2026-10-16"
+begin: "2027-10-16"
 title: Griechenland Peloponnes
 images:
 - src: "images/Einsame_Bucht_Griechenland_2024.jpg"
@@ -15,7 +15,7 @@ images:
 ---
 # Griechenland Peloponnes
 
-## 16. Oktober - 01.November 2026
+## Geplant für 2027
 
 ### Rudern und Antike Ruinen
 
