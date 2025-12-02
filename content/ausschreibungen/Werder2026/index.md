@@ -12,7 +12,7 @@ images:
 
 ## 06.- 08. März 2026
 
-![Winterrudern](./images/RIMG0003.jpg)
+![Werder Ruderclub](./images/RC-KST-Boote-Werder2019.jpg)
 
 Anfängerfreundliche Wanderfahrt nach Werder. Wir starten am Freitagnachmittag und rudern zum Ruderclub Werder. (25 km)
 Hier übernachten wir zwei Nächte auf Bettenquartier.
