@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2026-07-03"
+begin: "2026-09-18"
 title: DRV Wanderrudertreffen 2026 Schwerin
 images:
 - src: "./images/Schweriner Schloss vom Ruderboot gesehen Mecklenburg 2020.jpg"
