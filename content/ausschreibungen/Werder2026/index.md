@@ -4,7 +4,7 @@ author: "Stefan"
 begin: "2026-03-06"
 title: Werder 
 images:
-- src: "images/RIMG0003.jpg"
+- src: "images/Werder-Steg.jpg"
   title: Rudern im Schnee
 
 ---
