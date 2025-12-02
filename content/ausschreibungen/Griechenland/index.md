@@ -13,7 +13,6 @@ images:
 - src: "images/Griechenland2025.jpg"
   title: Griechenland
 ---
-# Griechenland Peloponnes
 
 ## Geplant für 2027
 

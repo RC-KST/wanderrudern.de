@@ -2,14 +2,12 @@
 draft: false
 author: "Stefan"
 begin: "2026-03-06"
-title: Werder 
+title: Werder 2026
 images:
 - src: "images/Werder-Steg.jpg"
   title: Rudern im Schnee
 
 ---
-# Rudern zur Sitzung nach Werder
-
 ## 06.- 08. März 2026
 
 ![Werder Ruderclub](./images/RC-KST-Boote-Werder2019.jpg)
