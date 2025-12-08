@@ -19,11 +19,3 @@ Ruderkurs Erwachsene
 |           | 06.05.26  |           |
 
 
-
-|-----------------------------------------------|---------|
-| Baumwoll T-Shirt Orginal T kurz               | 25 Euro |
-| Baumwoll T-Shirt lang / Long Sleeve T-Shirt   | 30 Euro |
-| Lightweight Raglan                            | 30 Euro |
-| Classic Hooded Sweat                          | 35 Euro |
-| Funktions-T-Shirt kurzärmlich                 | 25 Euro |
-| Outdoor Fleece                                | 50 Euro |
