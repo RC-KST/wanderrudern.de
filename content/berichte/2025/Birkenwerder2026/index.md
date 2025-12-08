@@ -22,7 +22,7 @@ Zweimal im Jahr muss der Vorstand zur Vorstandsversammlung des LRV Brandenburg.
 Die Dezember- Versammlung war dieses Jahr in Birkenwerder.
 Man kann natürlich mit dem Auto hinfahren, echte Wanderruderer kommen mit dem Boot.
 
-Freitag ging es mit zwei Booten die Havel aufwärts, durch die Spandauer Schleuse nach Haselhorst.
+Freitag ging es mit zwei Booten die Havel aufwärts, über die Spandauer Bootsschleppe nach Haselhorst.
 Wir übernachteten auf Mattenquartier beim Märkischen Wassersport.
 
 ![Birkenwerder](images/Ruderboot-Birkenwerder2026.jpg)
