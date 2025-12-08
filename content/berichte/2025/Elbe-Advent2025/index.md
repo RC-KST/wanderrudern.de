@@ -49,9 +49,10 @@ Um 19 Uhr saßen alle im reservierten Restaurant "Rathaus" und genossen das Tsch
 Sonntag ging es wieder früh aufs Wasser. Das Wetter war immer noch grau, aber inzwischen deutlich wärmer. Beim Start 5 Grad, am Ziel sogar 8 Grad und es blieb trocken. Zum Ende kam soagr die Sonne heraus.
 Da heute keine Schleuse im Weg war konnten sich die Boote eine Pause in Rathen gegenüber der Bastei gönnen.
 
+![Ruderboot bei Rathen](images/Ruderboot-Bastei2026.jpg)
+
 Trotz fehlendem Steg beim Pirnaer Ruderverein bekamen wir die Boote problemlos aus dem Wasser. 
 Die Barke wurde direkt oberhalb des Rudervereins am anderen Ufer ausgesetzt. Eine sehr schöne Rampe eines örtlichen Yachtclubs.
 
-![Ruderboot bei Rathen](images/Ruderboot-Bastei2026.jpg)
 
 
