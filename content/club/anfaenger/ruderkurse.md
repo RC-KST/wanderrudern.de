@@ -25,7 +25,8 @@ Ruderkurs Erwachsene, 10 Termine, Kosten 100 Euro
 | 01.06.26  | 03.06.26  |           |
 
 | 08.06.26  | 10.06.26  | 13.06.26  |
-Am Samstag 13.6. gemeinsame Ausfahrt nach Potsdam, danach Grillen im Club.
+
+Abschluss des Ruderkurses am Samstag 13.6. mit einer gemeinsamen Ausfahrt nach Potsdam, danach Grillen im Club.
 
 
 1. Ruderkurs Jugend, 10 Termine, Kosten 50 Euro 
