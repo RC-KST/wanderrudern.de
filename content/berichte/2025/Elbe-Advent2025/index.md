@@ -12,6 +12,7 @@ images:
 - src: images/Spandau-bei-Nacht.jpg
   title: "Freitag Abend in Spandau"
 länder: 
+- tschechien
 - deutschland
 title: Sitzung des Landesruderverbands in Birkenwerder
 typen: wanderfahrt
