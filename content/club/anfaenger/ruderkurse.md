@@ -13,6 +13,9 @@ Nächste Ruderkurse
 Ruderkurs Erwachsene
 
 | Montag    | Mittwoch  | Samstag   |
+
+
+
 |-----------------------------------------------|---------|
 | Baumwoll T-Shirt Orginal T kurz               | 25 Euro |
 | Baumwoll T-Shirt lang / Long Sleeve T-Shirt   | 30 Euro |
