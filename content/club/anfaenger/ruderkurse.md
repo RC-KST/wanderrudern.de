@@ -26,3 +26,18 @@ Ruderkurs Erwachsene, 10 Termine, Kosten 100 Euro
 
 | 08.06.26  | 10.06.26  | 13.06.26  |
 
+Ruderkurs Jugend, 11 Termine, Kosten 50 Euro 
+
+| Dienstag  | Donerstag | Samstag   |
+
+| 28.04.26  |           |           |
+
+| 05.05.26  | 07.05.26  | 09.05.26  |
+
+| 12.05.26  |           |           |
+
+| 19.05.26  | 21.05.26  |           |
+
+|           | 28.05.26  |           |
+
+| 02.06.26  | 04.06.26  | 06.06.26  |
