@@ -10,7 +10,7 @@ Wir nutzen dafür sichere breite Boote. Niemand muss Angst haben ins Wasser zu f
 
 Nächste Ruderkurse
 
-Ruderkurs Erwachsene
+Ruderkurs Erwachsene, 10 Termine, Kosten 100 Euro
 
 | Montag    | Mittwoch  | Samstag   |
 
@@ -18,4 +18,11 @@ Ruderkurs Erwachsene
 
 |           | 06.05.26  |           |
 
+| 11.05.26  |           |           |
+
+| 18.05.26  | 20.05.26  |           |
+
+| 01.06.26  | 03.06.26  |           |
+
+| 08.06.26  | 10.06.26  | 13.06.26  |
 
