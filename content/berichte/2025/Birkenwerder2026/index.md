@@ -39,4 +39,4 @@ Ein wichtiges Thema bei der Vorsitzenden-Versammlung war die Sicherheit auf dem 
 
 Selbstverständlich rudern wir im Dunkeln mit vorschriftsmässiger Bootsbeleuchtung. Und noch der Hinweis: Für das Rudern im Dunkeln ist Ortskenntnis und Rudererfahrung nötig!
 
-Alle drei Nachtruderer hatten Obmannsscheine für Dunkelfahrten (Stufe 4) auf solchen Gewässern.
+Alle drei Nachtruderer hatten Obmannsscheine für Nachtfahrten (Stufe 4) auf solchen Gewässern.
