@@ -53,6 +53,3 @@ Da heute keine Schleuse im Weg war konnten sich die Boote eine Pause in Rathen g
 
 Trotz fehlendem Steg beim Pirnaer Ruderverein bekamen wir die Boote problemlos aus dem Wasser. 
 Die Barke wurde direkt oberhalb des Rudervereins am anderen Ufer ausgesetzt. Eine sehr schöne Rampe eines örtlichen Yachtclubs.
-
-
-
