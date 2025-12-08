@@ -1,7 +1,7 @@
 ---
 author: "Stefan"
-begin: "2025-07-07"
-date: "2025-07-07T01:00:00+02:00"
+begin: "2025-11-28"
+date: "2025-12-07T01:00:00+02:00"
 gewässer: 
 - havel
 images:
