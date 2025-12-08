@@ -5,39 +5,38 @@ date: "2025-12-08T01:00:00+02:00"
 gewässer: 
 - elbe
 images:
-- src: images/Martin-LingLing-Hennigsdorf.jpg
-  title: "Nächtlicher Steg in Hennigsdorf"
-- src: images/Nebel-Niederbeuendorf2026.jpg
-  title: "Morgennebel am Niederneuendorfer See"
-- src: images/Spandau-bei-Nacht.jpg
-  title: "Freitag Abend in Spandau"
+- src: images/Barke-Lovosice2026.jpg
+  title: "Einsetzen der Barke in Lovsice"
+- src: images/Barke-Pirna2026.jpg
+  title: "Aussetzen der Barke in Pirna"
+- src: images/Decin-Burg2026.jpg
+  title: "Decin Stadtansicht"
+- src: images/Decin2026.jpg
+  title: "Decin Stadtansicht"
+- src: images/Elbsandstein-Ruderboot2026.jpg
+  title: "Ruderboot im Elbsandsteingebirge"
+- src: images/Jugend-Decin2026.jpg
+  title: "Jugendliche Ruderer in Decin"
+- src: images/Koenigsstein2026.jpg
+  title: "Feste Königsstein vom Ruderboot gesehen"
+- src: images/Ruderer-Decin2026.jpg
+  title: "Ruderer in Deciner Restaurant"
+- src: images/Ruderer-Rathen2026.jpg
+  title: "Pause der Ruderer in Rathen" 
 länder: 
 - tschechien
 - deutschland
-title: Sitzung des Landesruderverbands in Birkenwerder
+title: Advents-Wanderfahrt von Lovosice bis Pirna
 typen: wanderfahrt
 ---
+Die traditionelle Adventsfahrt auf der Elbe erfolgte zum ersten Mal nach 
 
 
-Zweimal im Jahr muss der Vorstand zur Vorstandsversammlung des LRV Brandenburg.
-Die Dezember- Versammlung war dieses Jahr in Birkenwerder.
-Man kann natürlich mit dem Auto hinfahren, echte Wanderruderer kommen mit dem Boot.
 
-Freitag ging es mit zwei Booten die Havel aufwärts, über die Spandauer Bootsschleppe nach Haselhorst.
-Wir übernachteten auf Mattenquartier beim Märkischen Wassersport.
+![Barke auf der Elbe](images/Barke-Elbe2026.jpg)
 
-![Birkenwerder](images/Ruderboot-Birkenwerder2026.jpg)
 
-Das Boot, das zur Sitzung musste startete extrem früh, um pünktlich um 11 Uhr beim Ruderclub Birkenwerder zu sein (aber immerhin erst gegen Sonnenaufgang). Das zweite Boot holte unsere Steuerfrau etwas später in Birkenwerder ab und ruderte mit ihr zurück.
-Für die beiden Vorsitzenden ging die Sitzung bis 17 Uhr. Danach im Dunkeln zunächst als Einer mit Steuermann bis Hennigsdorf. Hier stieg LingLing (per S-Bahn angereist) zu, so dass der restliche Rückweg bis Haselhorst wieder schneller ging.
 
-Am Sonntag ruderte die gesamte Mannschaft entspannt nach Stahnsdorf zurück.
-Mit dem Wetter hatten wir Glück, kein Regen und immerhin 5-8 Grad Plus.
+![Ruderboot bei Rathen](images/Ruderboot-Bastei2026.jpg)
 
-![Hennigsdorf bei Nacht](images/Stefan-Hennigsdorf2026.jpg)
 
-Ein wichtiges Thema bei der Vorsitzenden-Versammlung war die Sicherheit auf dem Wasser. 
-
-Selbstverständlich rudern wir im Dunkeln mit vorschriftsmässiger Bootsbeleuchtung. Und noch der Hinweis: Für das Rudern im Dunkeln ist Ortskenntnis und Rudererfahrung nötig!
-
-Alle drei Nachtruderer hatten Obmannsscheine für Nachtfahrten (Stufe 4) auf solchen Gewässern.
