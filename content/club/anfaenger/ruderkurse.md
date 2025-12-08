@@ -13,7 +13,9 @@ Nächste Ruderkurse
 Ruderkurs Erwachsene
 
 | Montag    | Mittwoch  | Samstag   |
+
 | 27.04.26  |           |           |
+
 |           | 06.05.26  |           |
 
 
