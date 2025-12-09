@@ -23,6 +23,7 @@ Nächste Ruderkurse
 
 
 Wochentermine 17:30, Samstag 10:00
+
 Abschluss des Ruderkurses am Samstag 13.6. mit einer gemeinsamen Ausfahrt nach Potsdam, danach Grillen im Club.
 
 
