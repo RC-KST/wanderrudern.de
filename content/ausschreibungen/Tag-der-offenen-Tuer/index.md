@@ -13,9 +13,7 @@ images:
 ---
 # Proberudern für Alle
 
-## 25./26. April 2026
-
-### 11- 18 Uhr
+## 25./26. April 2026     11-18 Uhr
 
 ![Tag der offenen Tür](./images/Tag-der-offenen-Tuer.jpg)
 
@@ -25,9 +23,7 @@ für Erwachsene jeden Alters und Kinder ab 10 Jahren
 
 Proberudern für alle,  auch wenn sie noch nie in einem Boot gesessen haben
 
-Kaffee / Kuchen
-
-Grill / Salate / Getränke
+Kaffee / Kuchen / Grill / Salate / Getränke
 
 Alle Interessierten sind herzlich eingeladen.
 
