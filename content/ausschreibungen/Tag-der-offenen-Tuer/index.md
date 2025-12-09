@@ -29,4 +29,4 @@ Alle Interessierten sind herzlich eingeladen.
 
 ![Proberudern](./images/Boote_am_Steg_T2025.jpg)
 
-Bootshaus: Stahnsdorf, Bäkepromenade (Teltowkanal, 200 m unterhalb d. Schleuse)
+Bootshaus: Stahnsdorf, Bäkepromenade (Teltowkanal, 200 m unterhalb der Schleuse)
