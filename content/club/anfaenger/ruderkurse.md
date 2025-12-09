@@ -22,6 +22,7 @@ Nächste Ruderkurse
 | 08.06.26  | 10.06.26  | 13.06.26  |
 
 
+Wochentermine 17:30, Samstag 10:00
 Abschluss des Ruderkurses am Samstag 13.6. mit einer gemeinsamen Ausfahrt nach Potsdam, danach Grillen im Club.
 
 
@@ -34,6 +35,7 @@ Abschluss des Ruderkurses am Samstag 13.6. mit einer gemeinsamen Ausfahrt nach P
 | 17.03.26  | 19.03.26  | 21.03.26  |
 | 24.03.26  | 26.03.26  |           |
 
+Wochentermine 16:30, Samstag 10:00
 
 ### 2. Ruderkurs Jugend, 11 Termine, Kosten 50 Euro 
 
@@ -45,3 +47,5 @@ Abschluss des Ruderkurses am Samstag 13.6. mit einer gemeinsamen Ausfahrt nach P
 | 19.05.26  | 21.05.26  |           |
 |           | 28.05.26  |           |
 | 02.06.26  | 04.06.26  | 06.06.26  |
+
+Wochentermine 16:30, Samstag 10:00
