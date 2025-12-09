@@ -15,9 +15,22 @@ images:
 
 ## 25./26. April 2026
 
-![Tag der offnen Tür](./images/Tag-der-offenen-Tuer.jpg)
+### 11- 18 Uhr
 
+![Tag der offenen Tür](./images/Tag-der-offenen-Tuer.jpg)
 
+Informationen über das Rudern im Club
+
+für Erwachsene jeden Alters und Kinder ab 10 Jahren
+
+Proberudern für alle,  auch wenn sie noch nie in einem Boot gesessen haben
+
+Kaffee / Kuchen
+
+Grill / Salate / Getränke
+
+Alle Interessierten sind herzlich eingeladen.
 
 ![Proberudern](./images/Boote_am_Steg_T2025.jpg)
 
+Bootshaus: Stahnsdorf, Bäkepromenade (Teltowkanal, 200 m unterhalb d. Schleuse)
