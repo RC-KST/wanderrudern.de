@@ -30,3 +30,5 @@ Alle Interessierten sind herzlich eingeladen.
 ![Proberudern](./images/Boote_am_Steg_T2025.jpg)
 
 Bootshaus: Stahnsdorf, Bäkepromenade (Teltowkanal, 200 m unterhalb der Schleuse)
+
+Ruderkurse für Anfänger starten nach dem Tag der offenen Tür
