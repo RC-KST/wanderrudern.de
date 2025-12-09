@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-04-25"
+begin: "2026-04-25"
 title: Tage der offenen Tür 2026 
 images:
 - src: "images/Grillchef.jpg"
@@ -11,9 +11,10 @@ images:
 - src: "images/Salatbueffet.jpg"
   title: Salat und Kuchen
 ---
-# Proberudern für Alle
 
-## 25./26. April 2026     11-18 Uhr
+## Proberudern für Alle
+
+### 25./26. April 2026     11-18 Uhr
 
 ![Tag der offenen Tür](./images/Tag-der-offenen-Tuer.jpg)
 
