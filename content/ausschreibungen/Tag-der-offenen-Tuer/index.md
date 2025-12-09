@@ -31,4 +31,4 @@ Alle Interessierten sind herzlich eingeladen.
 
 Bootshaus: Stahnsdorf, Bäkepromenade (Teltowkanal, 200 m unterhalb der Schleuse)
 
-Ruderkurse für Anfänger starten nach dem Tag der offenen Tür
+[Ruderkurse für Anfänger starten nach dem Tag der offenen Tür](/club/anfaenger/ruderkurse)
