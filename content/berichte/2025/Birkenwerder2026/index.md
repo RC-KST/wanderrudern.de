@@ -17,7 +17,6 @@ title: Sitzung des Landesruderverbands in Birkenwerder
 typen: wanderfahrt
 ---
 
-
 Zweimal im Jahr muss der Vorstand zur Vorstandsversammlung des LRV Brandenburg.
 Die Dezember- Versammlung war dieses Jahr in Birkenwerder.
 Man kann natürlich mit dem Auto hinfahren, echte Wanderruderer kommen mit dem Boot.
