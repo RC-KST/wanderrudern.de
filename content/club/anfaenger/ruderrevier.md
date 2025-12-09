@@ -19,4 +19,12 @@ Uns steht von unserem Bootshaus die gesamte Berlin- Brandenburger Seenplatte off
 In Richtung Brandenburg kommt die erste Schleuse erst nach 53 km, in Richtung Berlin- Spandau nach 24 km.
 Wer es weiter mag, der kann innerhalb einer Woche über Wasser Hamburg oder Lübeck erreichen. In 3 Tagen ist man an der Elbe oder in die andere Richtung an der Oder. Nach Norden schafft man es in 3-4 Tagen an die Mecklenburger Seenplatte.
 
+Oder für eine bessere Übersicht:
 
+{{< 
+    map height="40rem"
+    lat=52.39454368309411
+    long=13.204571733190004
+    text="Ruderclub Kleinmachnow Stahnsdorf Teltow"
+    zoom="17"
+>}}

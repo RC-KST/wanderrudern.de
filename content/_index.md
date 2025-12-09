@@ -22,16 +22,17 @@ title: Home
 
 {{< column-layout >}}
 {{% col %}}
-- [Was ist Wanderrudern?](/club/anfaenger/was-ist-wanderrudern)
-- [Wann und wo rudern?](/club/anfaenger/wann-und-wo-rudern)
-- [Was ist Marathonrudern?](/club/marathon)
-- [Rudertermine](/club/wochentermine)
+- [Was ist Wanderrudern?](./club/anfaenger/was-ist-wanderrudern.md)
+- [Wann und wo rudern?](./club/anfaenger/wann-und-wo-rudern.md)
+- [Was ist Marathonrudern?](./club/marathon/index.md)
+- [Rudertermine](./club/wochentermine.md)
+- [Ruderkurse für Anfänger](./club/anfaenger/ruderkurse.md)
 {{% /col %}}
 {{% col %}}
-- [Mitglied werden](/club/anfaenger/mitgliedschaft)
-- [Ruderrevier](/club/anfaenger/ruderrevier)
-- [Gäste](/club/gaeste)
-- [Kontakt](/club/vorstand)
+- [Mitglied werden](./club/anfaenger/mitgliedschaft/index.md)
+- [Ruderrevier](./club/anfaenger/ruderrevier.md)
+- [Gäste](./club/gaeste.md)
+- [Kontakt](./club/vorstand.md)
 {{% /col %}}
 {{< /column-layout >}}
 
