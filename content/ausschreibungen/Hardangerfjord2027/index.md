@@ -19,5 +19,8 @@ Frühstück + Abendessen machen wir selbst.
 
 Obwohl wir einen relativ friedlichen Fjord haben, nehmen wir die Inrigger mit. 
 Alle Teilnehmer müssen fit genug sein, um schnell aus dem Boot auszusteigen. Anlegen erfolgen am Strand. Wassersandalen sind Pflicht.
+Gute Kondition ist natürlich Grundvoraussetzung. Tagesetappen zwischen 30 km und 45 km.
+
+Gutes Regenzeug und mehrfach Rudrkleidung ist natürlich Pflicht.
 
 ![Hardanger Landkarte](./images/Hardanger-Landkarte.jpg)
