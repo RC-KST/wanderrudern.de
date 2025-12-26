@@ -17,4 +17,4 @@ Um diese Jahreszeit kann man mit Tagestemperaturen um 18-20 Grad und Wassertempe
 Wir haben Ferienwohnungen in Strandnähe und werden Frühstück und Abendessen selbst zubereiten.
 Die Anreise erfolt mit einer Zwischenübernachtung ab Berlin im Kleinbus. Wir haben 13 Rudertage vor Ort.
 
-![Hardanger Landkarte](./images/Neretva-Delta-Karte.png)
+![Hardanger Landkarte](./images/Hardanger-Landkarte.jpg)
