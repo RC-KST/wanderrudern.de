@@ -9,12 +9,15 @@ images:
 
 ![Hardangerfjord](./images/Hardangerfjord1.jpg)
 
-Wir haben ein Standquartier auf der Insel nahe der Mündung der Neretva in die Adria.
-Von hier aus machen wir Tagesfahrten ins Delta der Neretva oder in die umliegende Inselwelt.
-Die jeweiligen Tagesfahrten werden der Wind- und Wetterlage angepasst. 
+Start am Donnerstag. Anreise über die Fähre nach Bergen. Freitag Mittag in Bergen. Wer Urlaubstage sparen muss reist mit dem Flieger an.
 
-Um diese Jahreszeit kann man mit Tagestemperaturen um 18-20 Grad und Wassertemperaturen von 20 Grad rechnen.
-Wir haben Ferienwohnungen in Strandnähe und werden Frühstück und Abendessen selbst zubereiten.
-Die Anreise erfolt mit einer Zwischenübernachtung ab Berlin im Kleinbus. Wir haben 13 Rudertage vor Ort.
+Von Bergen nur 120 km mit dem Auto nach Kinsarvik. Hier haben wir für 8 Nächte Standquartier und machen Tagesfahrten in die umliegenden Fjorde.
+Danach wechslen wir nach für 4 Nächte nach Herand und dann für 5 Nächte nach Enes.
+Alle Quartiere in Hütten mit Betten, kein Zelten.
+
+Frühstück + Abendessen machen wir selbst.
+
+Obwohl wir einen relativ friedlichen Fjord haben, nehmen wir die Inrigger mit. 
+Alle Teilnehmer müssen fit genug sein, um schnell aus dem Boot auszusteigen. Anlegen erfolgen am Strand. Wassersandalen sind Pflicht.
 
 ![Hardanger Landkarte](./images/Hardanger-Landkarte.jpg)
