@@ -7,7 +7,10 @@ images:
 - src: "images/Eidfjorden.jpg"
   title: Eidfjord
 - src: "images/Hardangerfjord.jpg"
-  title: Eidfjord
+  title: Hardangerfjord
+- src: "images/Hardangerfjord2.jpg"
+  title: Hardangerfjord
+  
 # 01. - 18. Juli 2027
 
 ![Hardangerfjord](./images/Hardangerfjord1.jpg)
