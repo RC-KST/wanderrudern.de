@@ -15,18 +15,15 @@ images:
 
 ![Hardangerfjord](./images/Hardangerfjord1.jpg)
 
-Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg.
+Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg. 240 km bis zu unseren Hütten auf Bolmsö.
+Rückreise erfolgt am Samstagnachmittag, wir nehmen die Nachtfähre ab Trelleborg und sind Sonntag Mittag wieder zur Hause.
 
-Von Bergen nur 120 km mit dem Auto nach Kinsarvik. Hier haben wir für 7 Nächte Standquartier und machen Tagesfahrten in die umliegenden Fjorde.
-Danach wechslen wir für 3 Nächte nach Herand und dann für 4 Nächte nach Enes.
-Alle Quartiere in Hütten mit Betten, kein Zelten.
+Unser Quartier liegt auf der Insel Bolmsö mitten im größten See Smalands, dem Bolmen.
+Wir haben Betten in zwei großen Ferienhäusern mitten im Wald, 600m zur Badestelle/Bootseinsetzstelle.
 
-Frühstück + Abendessen machen wir selbst.
+Von hier aus machen wir Tagesfahrten zwischen 30 und 50 km. 
+Diese Wanderfahrt richtet sich auch an Anfänger aller Altersklassen und Ruderer die eine entspannte Wanderfahrt, ohne Quartierwechsel suchen.
 
-Obwohl wir einen relativ friedlichen Fjord haben, nehmen wir die Inrigger mit. 
-Alle Teilnehmer müssen fit genug sein, um schnell aus dem Boot auszusteigen. Anlegen erfolgen meist am Strand. Wassersandalen sind Pflicht.
-Gute Kondition ist natürlich Grundvoraussetzung. Tagesetappen zwischen 30 km und 45 km.
-
-Gutes Regenzeug und mehrfach Ruderkleidung versteht sich von selbst.
+Frühstück + Abendessen machen wir selbst. Wir haben eine Großküche im Haus und grillen ist natürlich auch möglich.
 
 ![Hardanger Landkarte](./images/Hardanger-Landkarte.jpg)
