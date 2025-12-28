@@ -13,7 +13,7 @@ images:
 ---
 # 23. Juli - 1. August 2027
 
-![Hardangerfjord](./images/Hardangerfjord1.jpg)
+![Hardangerfjord](./images/18825c.jpg)
 
 Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg. 240 km bis zu unseren Hütten auf Bolmsö.
 Rückreise erfolgt eine Woche später am Samstagnachmittag, wir nehmen die Nachtfähre ab Trelleborg und sind Sonntag Mittag wieder zur Hause.
@@ -26,4 +26,4 @@ Volleyballfeld und Tischtennisplatte sind auch vor Ort.
 Wir machen Tagesfahrten zwischen 30 und 50 km. 
 Diese Wanderfahrt richtet sich auch an Anfänger aller Altersklassen und Ruderer die eine entspannte Wanderfahrt, ohne Quartierwechsel suchen.
 
-![Hardanger Landkarte](./images/Hardanger-Landkarte.jpg)
+![Bolmen Landkarte](./images/bolmen-unnen.jpg)
