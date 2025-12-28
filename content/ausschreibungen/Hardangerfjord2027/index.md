@@ -4,7 +4,10 @@ author: "Stefan"
 begin: "2027-07-01"
 title: Norwegen Hardangerfjord
 images:
----
+- src: "images/Eidfjorden.jpg"
+  title: Eidfjord
+- src: "images/Hardangerfjord.jpg"
+  title: Eidfjord
 # 01. - 18. Juli 2027
 
 ![Hardangerfjord](./images/Hardangerfjord1.jpg)
