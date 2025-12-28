@@ -4,12 +4,7 @@ author: "Stefan"
 begin: "2027-07-23"
 title: Schweden Bolmen
 images:
-- src: "images/Eidfjorden.jpg"
-  title: Eidfjord
-- src: "images/Hardangerfjord.jpg"
-  title: Hardangerfjord
-- src: "images/Hardangerfjord2.jpg"
-  title: Hardangerfjord
+
 ---
 # 23. Juli - 1. August 2027
 
