@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2025-12-05"
+begin: "2026-12-04"
 title: Adventsfahrt Elb-Sandstein
 images:
 - src: "images/100_0627.jpg"
@@ -15,7 +15,7 @@ images:
 ---
 # 2. Advent Elb-Sandstein-Gebirge
 
-## 05. - 07. Dezember 2025
+## 04. - 06. Dezember 2026
 
 ![Bastei](./images/bastei2024.jpg)
 
