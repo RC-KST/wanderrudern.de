@@ -4,7 +4,9 @@ author: "Stefan"
 begin: "2026-06-19"
 title: Anfänger- Wanderfahrt zur Sonnenwende
 images:
-- src: ""
+- src: "IMG_3359.jpg"
+  title: Titel
+- src: "IMG_3361.jpg"
   title: Titel
 ---
 # Spandau + Tegel
