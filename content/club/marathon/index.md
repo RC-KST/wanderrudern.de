@@ -29,7 +29,7 @@ weight: 10
 ![Genf Massenstart vor Kulisse](./images/genf_2023_massenstart_vor_kulisse.jpg)
 
 
-Seit 2018 gibt es beim RC KST eine kleine Gruppe motivierter größtenteils junger Ruderinnen und Ruderer, die sich dem Marathonrudern verschrieben haben. Seitdem ist sowohl die Gruppe als auch die Anzahl der besuchten Regatten langsam, aber stetig angestiegen und das Marathonrudern ist zu einer festen Sparte des Vereins geworden. Sehr ehrgeizige Mannschaften erruderten dabei bereits Siege unter anderem bei der inoffiziellen Weltmeisterschaft des Ultra-Langstreckenruderns.  ([2022](/berichte/2022/tour_du_lac_leman_2022/index.md), [2023](../../berichte/2023/tour_de_lac_leman_2023/index.md), [2024](../../berichte/2024/tour_du_lac_leman_20241/index.md)).
+Seit 2018 gibt es beim RC KST eine kleine Gruppe motivierter größtenteils junger Ruderinnen und Ruderer, die sich dem Marathonrudern verschrieben haben. Seitdem ist sowohl die Gruppe als auch die Anzahl der besuchten Regatten langsam, aber stetig angestiegen und das Marathonrudern ist zu einer festen Sparte des Vereins geworden. Sehr ehrgeizige Mannschaften erruderten dabei bereits Siege unter anderem bei der inoffiziellen Weltmeisterschaft des Ultra-Langstreckenruderns.  ([2022](/berichte/2022/tour_du_lac_leman_2022/index.md), [2023](../../berichte/2023/tour_de_lac_leman_2023/index.md), [2024](../../berichte/2024/tour_du_lac_leman_20241/index.md), [2025](../../berichte/2025/genf_2025/index.md) ).
 
 Unser Motto ist dabei immer „100% Geben - Dabei sein ist alles!“
 
