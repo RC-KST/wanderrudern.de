@@ -5,9 +5,9 @@ begin: "2026-06-19"
 title: Anfänger- Wanderfahrt zur Sonnenwende
 images:
 - src: "IMG_3359.jpg"
-  title: Titel
+  title: Sonnenuntergang in Spandau
 - src: "IMG_3361.jpg"
-  title: Titel
+  title: Bootshaus Brandenburgia
 ---
 # Spandau + Tegel
 
