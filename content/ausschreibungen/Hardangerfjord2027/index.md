@@ -18,7 +18,7 @@ images:
 Start am Donnerstag. Anreise über die Fähre nach Bergen. Freitag Mittag in Bergen. Wer Urlaubstage sparen muss reist mit dem Flieger an.
 
 Von Bergen nur 120 km mit dem Auto nach Kinsarvik. Hier haben wir für 7 Nächte Standquartier und machen Tagesfahrten in die umliegenden Fjorde.
-Danach wechslen wir für 3 Nächte nach Herand und dann für 4 Nächte nach Enes.
+Danach wechslen wir für 3 Nächte nach Herand und dann für 4 Nächte nach Ænes.
 Alle Quartiere in Hütten mit Betten, kein Zelten.
 
 Frühstück + Abendessen machen wir selbst.
