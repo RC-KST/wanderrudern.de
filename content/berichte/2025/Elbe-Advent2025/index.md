@@ -47,7 +47,7 @@ In Decin wurden die Boote neben dem winzigen Kanusteg herausgenommen und die Bar
 
 Da unser Hotel ein angeschlossenes Schwimmbad hatte, war die Jugend gut beschäftigt, der Rest genoss den Weihnachtsmarkt.
 
-Zwei der drei Autos und beide Bootsanhänger wurde von einigen Freiwilligen nach Decin gebracht. Da die Schandauer Brücke wieder passierbar war, ging das recht zügig.
+Zwei der drei Autos und beide Bootsanhänger wurde von einigen Freiwilligen nach Pirna gebracht. Da die Schandauer Brücke wieder passierbar war, ging das recht zügig.
 
 Um 19 Uhr saßen alle im reservierten Restaurant "Rathaus" und genossen das Tschechische Abendessen.
 
