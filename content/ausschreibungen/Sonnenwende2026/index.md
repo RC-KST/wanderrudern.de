@@ -26,4 +26,4 @@ Sonntag geht es wieder zurück nach Stahnsdorf.
 Die Strecken sind kurz, so dass auch Anfänger problemlos mitrudern können.
 
 
-![Bild](./images/"Ruderer vor der Zitadelle Collegia 2019.jpeg")
+![Bild]("./images/Ruderer vor der Zitadelle Collegia 2019.jpeg")
