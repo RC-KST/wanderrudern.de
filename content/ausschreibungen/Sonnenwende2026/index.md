@@ -20,7 +20,7 @@ Wir haben eine Küche und einen Grill zur Verfügung. Samstagabend wird gegrillt
 Der Rudersteg liegt am Spandauer See mit Blick auf die Zitadelle Spandau.
 Vom Steg kann gebadet werden.
 
-Samstag wird ein Tagestour auf dem Tegler See gemacht, Sonntag geht es wieder zurück nach Stahnsdorf.
+Samstag machen wir eine Tagestour auf den Niederneuendorfer und auf den Tegler See (30 km), Sonntag geht es wieder zurück nach Stahnsdorf.
 
 Die Strecken sind kurz, so dass auch Anfänger problemlos mitrudern können.
 
