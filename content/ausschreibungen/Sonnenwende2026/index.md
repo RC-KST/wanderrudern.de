@@ -2,11 +2,27 @@
 draft: false
 author: "Stefan"
 begin: "2026-06-19"
-title: Sonnenwende- Wanderfahrt
+title: Anfänger- Wanderfahrt zur Sonnenwende
 images:
 - src: ""
   title: Titel
 ---
+# Spandau + Tegel
+
 ## 19. Juni - 21. Juni 2026
+
+Wir rudern am Freitagnachmittag nach Spandau (25 km). Das Ziel liegt direkt oberhalb der Spandauer Schleuse.
+Übernachtet wird für 2 Nächte beim Ruderklub Brandenburgia auf Bettenquartier.
+
+Wer lieber zu Hause schlafen möchte, der U-Bahnhof Haselhorst ist genau 1000m entfernt.
+
+Wir haben eine Küche und einen Grill zur Verfügung. Samstagabend wird gegrillt.
+Der Rudersteg liegt am Spandauer See mit Blick auf die Zitadelle Spandau.
+Vom Steg kann gebadet werden.
+
+Samstag wird ein Tagestour auf dem Tegler See gemacht, Sonntag geht es wieder zurück nach Stahnsdorf.
+
+Die Strecken sind kurz, so dass auch Anfänger problemlos mitrudern können.
+
 
 ![Bild](./images/X.jpeg)
