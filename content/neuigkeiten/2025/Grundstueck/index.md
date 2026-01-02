@@ -15,3 +15,5 @@ images:
 Am Wochenende vom 18.7. bis 20.7. wurde von Nirina ein Kurs organisiert, bei dem
 
 
+![Bolmen Landkarte](./images/bolmen-unnen.jpg)
+
