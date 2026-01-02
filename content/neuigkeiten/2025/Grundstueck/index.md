@@ -13,7 +13,7 @@ images:
 ---
 
 Der Ruderclub KST wurde im Dezember 2001 gegründet. Im April 2002 pachtete er sein erstes Grundstück von 650m². 
-Im Jahr 2010 wurde ein Nachbargrundstück zur Pacht übernommen, womit sich die Fläche auf 1.295m² nahezu verdoppelte.
+Im Jahr 2010 wurde ein [Nachbargrundstück zur Pacht](/berichte//2010/erweiterungsgelaende_2010) übernommen, womit sich die Fläche auf 1.295m² nahezu verdoppelte.
 Im selben Jahr konnten wir beide Pachtgrundstücke kaufen. 
 Bei der anschließenden Vermessung ergab sich, dass weitere 295m² des Grundstücks gar nicht uns gehörten, sondern einer Immobilienverwaltung des Bundes.
 Die Korrektur dieses Fehlers kostete uns weitere Jahre, bis wir schließlich den oberen Teil des Grundstücks kaufen konnten. Übrigens für einen unverschämten Preis.
