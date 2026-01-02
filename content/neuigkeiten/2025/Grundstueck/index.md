@@ -21,7 +21,7 @@ Im selben Jahr konnten wir beide Pachtgrundstücke kaufen.
 Bei der anschließenden Vermessung ergab sich, dass weitere 295m² des Grundstücks gar nicht uns gehörten, sondern einer Immobilienverwaltung des Bundes.
 Die Korrektur dieses Fehlers kostete uns weitere Jahre, bis wir schließlich 2015 den oberen Teil des Grundstücks kaufen konnten. Übrigens für einen unverschämten Preis.
 
-Damit befand sich endlich das gesamte vom Ruderclub genutzte Gelände im Eigentum des Ruderclubs. (Flurstück 
+Damit befand sich endlich das gesamte vom Ruderclub genutzte Gelände im Eigentum des Ruderclubs. (Flurstück 3868)
 
 Leider verlangte die Bauverwaltung des Landkreises PM eine Klärung des Zufahrtweges zum Ruderclub. 
 
