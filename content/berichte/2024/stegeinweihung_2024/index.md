@@ -11,8 +11,10 @@ images:
   title: Taufe des E-Dreiers mit Steuermann Asnen 2024
 - src: images/Torte_zur_Stegeinweihung_2024.jpg
   title: Torte zur Stegeinweihung 2024
-- src: images/Rotes_Band_bei_der_Stegeinweihung_2024.jpg
-  title: Rotes Band bei der Stegeinweihung 2024
+- src: images/Barke-am-Steg.jpg
+  title: Barke Dnister
+- src: images/Barke-legt-an.jpg
+  title: Barke am neuen Steg in Stahnsdorf
 - src: images/Taufe_des_C-Vierers_mit_Steuermann_Ivalojoki_2024.jpg
   title: Taufe des C-Vierers mit Steuermann Ivalojoki 2024
 - src: images/Ruderclub_Kleinmachnow_Stahnsdorf_Teltow_Stegeinweihung_2024.jpg
@@ -32,15 +34,13 @@ typen: veranstaltung
 # Einweihung des neuen Stegs 2024
 ![Ruderclub](./images/Barke-Taufe.jpg)
 
-Bootstaufen
-
 Der Ruderclub Kleinmachnow- Stahnsdorf- Teltow hatnach 20 Jahren Provisorium einen professionellen Bootssteg erhalten.
 
 Am 16. März 2024 wurde der Steg mit einer großen Feier eingeweiht.
 
 Unter Anwesenheit von Vertretern von Kleinmachnow und Stahnsdorf, sowie unseres Landtagsabgeordneten wurde das rote Band durchschnitten.
 
-![Ruderclub](./images/club-gelaende.jpg)
+![Rotes Band bei der Stegeinweihung](./images/Rotes_Band_bei_der_Stegeinweihung_2024.jpg)
 
 Danach wurde ein E-Dreier mit Steuermann (fürs Wanderrudern), ein C-Vierer mit Steuermann (für Marathon + sportliches Rudern) und eine Barke (für geruhsame Wanderfahrt) getauft.
 
