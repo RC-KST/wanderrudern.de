@@ -19,7 +19,7 @@ Im Jahr 2010 wurde ein [Nachbargrundstück zur Pacht](/berichte//2010/erweiterun
 Im selben Jahr konnten wir beide Pachtgrundstücke kaufen. 
 
 Bei der anschließenden Vermessung ergab sich, dass weitere 295m² des Grundstücks gar nicht uns gehörten, sondern einer Immobilienverwaltung des Bundes.
-Die Korrektur dieses Fehlers kostete uns weitere Jahre, bis wir schließlich den oberen Teil des Grundstücks kaufen konnten. Übrigens für einen unverschämten Preis.
+Die Korrektur dieses Fehlers kostete uns weitere Jahre, bis wir schließlich 2015 den oberen Teil des Grundstücks kaufen konnten. Übrigens für einen unverschämten Preis.
 
 Damit befand sich endlich das gesamte vom Ruderclub genutzte Gelände im Eigentum des Ruderclubs.
 
@@ -32,3 +32,4 @@ Ein Kauf, der uns auf Grund der Kosten nicht gerade glücklich machte, aber was 
 
 ![Bolmen Landkarte](./images/Grundstueck-Ruderclub.png)
 
+Der gesamte Grundstückserwerb erfolgte aus Eigenmittel, ohne Umlage und natürlich ohne Fördermittel. (Es gibt in Deutschland grundsätzlich keine Fördermittel für Geländekäufe)
