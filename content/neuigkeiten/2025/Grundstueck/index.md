@@ -24,7 +24,9 @@ Die Korrektur dieses Fehlers kostete uns weitere Jahre, bis wir schließlich den
 Damit befand sich endlich das gesamte vom Ruderclub genutzte Gelände im Eigentum des Ruderclubs.
 
 Leider verlangte die Bauverwaltung des Landkreises PM eine Klärung des Zufahrtweges zum Ruderclub. 
+
 Um hier eine rechtssichere Zufahrt sicher zu stellen, beschloß eine Hauptversammlung des Ruderclubs 2024 den Kauf des Waldweges zum Ruderclub.
+
 Damit gehören jetzt weitere 1.948 m² dem Ruderclub. Vom Ende der Bäkepromenade (wo die letzten Häuser stehen) bis zum letzten Gartengrundstück. (Flurstück 3860 + 3914)
 Ein Kauf, der uns auf Grund der Kosten nicht gerade glücklich machte, aber was tut man nicht alles in Deutschland, um rechtlich abgesichert zu sein.
 
