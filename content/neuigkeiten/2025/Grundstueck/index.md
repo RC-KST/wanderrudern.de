@@ -32,4 +32,4 @@ Ein Kauf, der uns auf Grund der Kosten nicht gerade glücklich machte, aber was 
 
 ![Bolmen Landkarte](./images/Grundstueck-Ruderclub.png)
 
-Der gesamte Grundstückserwerb erfolgte aus Eigenmittel, ohne Umlage und natürlich ohne Fördermittel. (Es gibt in Deutschland grundsätzlich keine Fördermittel für Geländekäufe)
+Der gesamte Grundstückserwerb erfolgte aus Eigenmitteln, ohne Umlage und natürlich ohne Fördermittel. (Es gibt in Deutschland grundsätzlich keine Fördermittel für Geländekäufe)
