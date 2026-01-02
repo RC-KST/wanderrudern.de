@@ -30,7 +30,7 @@ typen: veranstaltung
 ---
 
 # Einweihung des neuen Stegs 2024
-
+![Ruderclub](./images/Barke-Taufe.jpg)
 
 Bootstaufen
 
@@ -39,6 +39,8 @@ Der Ruderclub Kleinmachnow- Stahnsdorf- Teltow hatnach 20 Jahren Provisorium ein
 Am 16. März 2024 wurde der Steg mit einer großen Feier eingeweiht.
 
 Unter Anwesenheit von Vertretern von Kleinmachnow und Stahnsdorf, sowie unseres Landtagsabgeordneten wurde das rote Band durchschnitten.
+
+![Ruderclub](./images/club-gelaende.jpg)
 
 Danach wurde ein E-Dreier mit Steuermann (fürs Wanderrudern), ein C-Vierer mit Steuermann (für Marathon + sportliches Rudern) und eine Barke (für geruhsame Wanderfahrt) getauft.
 
