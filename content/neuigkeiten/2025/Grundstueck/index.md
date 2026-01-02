@@ -11,6 +11,7 @@ images:
 - src: ./images/kurze_pause_auf_griebnitzsee.jpeg
   title: Kurze Pause auf dem Griebnitzsee am Sonntag
 ---
+![Ruderclub](./images/club-gelaende.jpg)
 
 Der Ruderclub KST wurde im Dezember 2001 gegründet. Im April 2002 pachtete er sein erstes Grundstück von 650m². 
 
@@ -30,6 +31,6 @@ Um hier eine rechtssichere Zufahrt sicher zu stellen, beschloß eine Hauptversam
 Damit gehören jetzt weitere 1.948 m² dem Ruderclub. Vom Ende der Bäkepromenade (wo die letzten Häuser stehen) bis zum letzten Gartengrundstück. (Flurstück 3860 + 3914)
 Ein Kauf, der uns auf Grund der Kosten nicht gerade glücklich machte, aber was tut man nicht alles in Deutschland, um rechtlich abgesichert zu sein.
 
-![Bolmen Landkarte](./images/Grundstueck-Ruderclub.png)
+![Landkarte Ruderclub](./images/Grundstueck-Ruderclub.png)
 
 Der gesamte Grundstückserwerb erfolgte aus Eigenmitteln, ohne Umlage und natürlich ohne Fördermittel. (Es gibt in Deutschland grundsätzlich keine Fördermittel für Geländekäufe)
