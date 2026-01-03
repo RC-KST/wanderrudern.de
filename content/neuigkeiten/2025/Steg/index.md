@@ -38,4 +38,4 @@ Und natürlich allen Mitgliedern, die geholfen haben Genehmigung und Aufbau zu r
 
 ![Ruderclub](./images/Steg2024.jpg)
 
-
+[Stegeinweihung April 2024](/berichte//2010/erweiterungsgelaende_2010)
