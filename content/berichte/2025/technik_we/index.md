@@ -1,10 +1,12 @@
 ---
-draft: true
+draft: false
 author: Paul
 title: Technikwochenende am RC KST
 date: 2025-07-22
-#begin: 2025-07-18
-#end: 2025-07-20
+begin: 2025-07-18
+end: 2025-07-20
+aliases:
+- /berichte/technik_we
 images:
 - src: ./images/video_review.jpeg
   title: Feedback anhand von Aufnahmen
@@ -14,11 +16,8 @@ images:
   title: Kurze Pause auf dem Griebnitzsee am Sonntag
 ---
 
-Am Wochenende vom 18.7. bis 20.7. wurde von Nirina ein Kurs organisiert, bei dem zwei lizensierte Trainer aus dem Rheinland anreisten, um uns einen Einblick in fortgeschrittene Rudertechnik zu geben.
+Am Wochenende vom 18.7. bis 20.7. wurde von Nirina ein Kurs organisiert, bei dem zwei Trainer aus dem Rheinland anreisten, um uns einen Einblick in fortgeschrittene Rudertechnik zu geben.
 Ziel dieses Pilot-Projektes war es, den Teilnehmern einen selbstkritischen Blick in die eigene Technik zu geben, aber auch Wege aufzuzeigen, dieses erlangte Wissen an den Rest des Clubs in einer angemessenen Weise weiterzugeben.
-Da für beide Trainer ein Kurs dieses Formates neu war, begrenzten wir die Teilnehmerzahlen auf eine kleine Gruppe, um es für alle einfacher zu halten.
-
-Um die Teilnehmer von außen besser begutachten zu können, wurde uns großzügigerweise vom BRC noch ein Trainerboot bereit gestellt. (_TODO_ Das so schreiben???)
 
 ![BRC-Motorboot am Steg](./images/motorboot_vor_schleuse.jpeg)
 
@@ -37,4 +36,3 @@ Es wurde nicht nur individuell Technik vermittelt, sondern auch Aspekte besproch
 Hierbei will ich mich bei Eberhard und Patrik bedanken, die den weiten Weg aus dem Rheinland gekommen sind, um mit uns zu arbeiten und dafür keinerlei Geld verlangten.
 Wir haben eure Anwesenheit sehr geschätzt und hatten sehr viel Spaß bei der Arbeit mit euch!
 
-_TODO_: BRC danken?
