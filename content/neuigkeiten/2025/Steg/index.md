@@ -11,7 +11,7 @@ images:
 - src: ./images/kurze_pause_auf_griebnitzsee.jpeg
   title: Kurze Pause auf dem Griebnitzsee am Sonntag
 ---
-# Was braucht man, wenn man ein Grundstück am Wasser hat und einen Ruderclub starte möchte?
+# Was braucht man, wenn man ein Grundstück am Wasser hat und einen Ruderclub starten möchte?
 
 Richtig einen Steg. Das ist das erste Modell 2002 im April zu Wasser getragen.
 Nach jedem Rudern haben wir den wieder aufs Gelände getragen. 
