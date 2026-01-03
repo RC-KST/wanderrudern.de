@@ -17,14 +17,15 @@ Richtig einen Steg. Das ist das erste Modell 2002 im April zu Wasser getragen.
 Nach jedem Rudern haben wir den wieder aufs Gelände gebracht.
 
 Gerne wurde er auch mal von ein paar Anglern ins Wasser geworfen, so dass er uns auf dem Rückweg auch schon mal entgegentrieb.
-![Allererster Steg (mobil)](./images/Steg2002.jpg)
+
 ![Allererster Steg](./images/Steg2002-1.jpg)
+![Allererster Steg (mobil)](./images/Steg2002.jpg)
 
 Anstelle der Euro-Palette wird mit zwei, später drei Schwerlastregalteilen ein neuer Steg konstruiert, den kein Angler mehr ins Wasser werfen kann.
 Allerdings lässt er sich auch nur mit 3-4 kräftigen Ruderern an die wechselnden Wasserstände anpassen.
 
-![Ruderclub](./images/Steg2007.JPG)
 ![Ruderclub](./images/Steg-bis-2023.jpg)
+![Ruderclub](./images/Steg2007.JPG)
 
 
 
