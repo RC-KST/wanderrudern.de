@@ -23,7 +23,7 @@ Gerne wurde er auch mal von ein paar Anglern ins Wasser geworfen, so dass er uns
 Anstelle der Euro-Palette wird mit zwei, später drei Schwerlastregalteilen ein neuer Steg konstruiert, den kein Angler mehr ins Wasser werfen kann.
 Allerdings lässt er sich auch nur mit 3-4 kräftigen Ruderern an die wechselnden Wasserstände anpassen.
 
-![Ruderclub](./images/Steg2007.jpg)
+![Ruderclub](./images/Steg2007.JPG)
 ![Ruderclub](./images/Steg-bis-2023.jpg)
 
 
