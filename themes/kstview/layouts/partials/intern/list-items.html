@@ -39,7 +39,6 @@
                 {{/* Filter out events that are already over */}}
                 {{- $pages_new := slice }}
                 {{- range $cpage := $pages }}
-                    {{- debug.Dump $cpage }}
                     {{- if gt (time.AsTime (index $cpage.Params $sort_param)) now }}
                         {{- $pages_new = $pages_new | append $cpage }}
                     {{- end }}
