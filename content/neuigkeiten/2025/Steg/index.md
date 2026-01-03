@@ -11,5 +11,11 @@ images:
 - src: ./images/kurze_pause_auf_griebnitzsee.jpeg
   title: Kurze Pause auf dem Griebnitzsee am Sonntag
 ---
-![Ruderclub](./images/Steg2002.jpg)
-![Ruderclub](./images/Steg2002-1.jpg)
+![Allererster Steg (mobil)](./images/Steg2002.jpg)
+![Allererster Steg](./images/Steg2002-1.jpg)
+
+
+
+
+
+![Ruderclub](./images/Steg2024.jpg)
