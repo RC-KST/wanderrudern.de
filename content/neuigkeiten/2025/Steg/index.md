@@ -24,17 +24,16 @@ Gerne wurde er auch mal von ein paar Anglern ins Wasser geworfen, so dass er uns
 Anstelle der Euro-Palette wird mit zwei, später drei Schwerlastregalteilen als Unterbau ein neuer Steg konstruiert, den kein Angler mehr ins Wasser werfen kann.
 Allerdings lässt er sich auch nur mit 3-4 kräftigen Ruderern an die wechselnden Wasserstände anpassen.
 
-![Ruderclub](./images/Steg-bis-2023.jpg)
-![Ruderclub](./images/Steg2007.JPG)
+![Schwankender Wasserstand](./images/Steg-bis-2023.jpg)
+![Schwerlaststeg](./images/Steg2007.JPG)
 
 Ab 2008 versuchen wir die Genehmigung für einen üblichen Ruderbootsteg zu bekommen. 
 Daraus ergibt sich eine unendliche Geschichte mit 13 Jahren Rechtsstreit.
 
-
+![Ruderclub](./images/Stegbau-RCKST.JPG)
 
 Nachdem wir insgesamt vier Gerichte beschäfigt haben, gelingt es uns schließlich im April 2024 unseren neuen Steg einzuweihen.
 Der Dank gilt unserem Rechtsanwalt Martin, der sich nie unterkriegen liess, den Gemeinden Kleinmachnow und Stahnsdorf, sowie den vielen Spendern aus der Mitgliederschaft.
 Und natürlich allen Mitgliedern, die geholfen haben Genehmigung und Aufbau zu realisieren.
-
 
 ![Ruderclub](./images/Steg2024.jpg)
