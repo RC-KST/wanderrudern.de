@@ -38,14 +38,28 @@
             {{- else }}
                 {{/* Filter out events that are already over */}}
                 {{- $pages_new := slice }}
-                {{- range $pages }}
-                    {{- if gt (time.AsTime (index .Params $sort_param)) now }}
-                        {{- $pages_new = $pages_new | append . }}
+                {{- range $cpage := $pages }}
+                    {{- debug.Dump $cpage }}
+                    {{- if gt (time.AsTime (index $cpage.Params $sort_param)) now }}
+                        {{- $pages_new = $pages_new | append $cpage }}
                     {{- end }}
                 {{- end }}
                 {{- $pages = $pages_new }}
             {{- end }}
         {{- end }}
+
+        {{/* rewrite redirect pages */}}
+        {{- $pages_new := slice }}
+        {{- range $cpage := $pages }}
+            {{- if eq $cpage.Type "mirror" }}
+                {{- $pages_new = $pages_new | append ($cpage.GetPage $cpage.Params.redirectto) }}
+                {{/*<h1>MIRROR to {{ $cpage.Params.Permalink}}</h1>*/}}
+            {{- else }}
+                {{- $pages_new = $pages_new | append $cpage }}
+            {{- end }}
+        {{- end }}
+        {{- $pages = $pages_new }}
+
         {{- range $pages }}
         {{- if not .Params.hidden }}
         <a href="{{ .Permalink }}" class="p-0 my-2">
