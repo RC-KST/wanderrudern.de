@@ -30,10 +30,12 @@ Allerdings lässt er sich auch nur mit 3-4 kräftigen Ruderern an die wechselnde
 Ab 2008 versuchen wir die Genehmigung für einen üblichen Ruderbootsteg zu bekommen. 
 Daraus ergibt sich eine unendliche Geschichte mit 13 Jahren Rechtsstreit.
 
-![Ruderclub](./images/Stegbau-RCKST.JPG)
+![Ruderclub](./images/Stegbau-RCKST.jpg)
 
 Nachdem wir insgesamt vier Gerichte beschäfigt haben, gelingt es uns schließlich im April 2024 unseren neuen Steg einzuweihen.
 Der Dank gilt unserem Rechtsanwalt Martin, der sich nie unterkriegen liess, den Gemeinden Kleinmachnow und Stahnsdorf, sowie den vielen Spendern aus der Mitgliederschaft.
 Und natürlich allen Mitgliedern, die geholfen haben Genehmigung und Aufbau zu realisieren.
 
 ![Ruderclub](./images/Steg2024.jpg)
+
+
