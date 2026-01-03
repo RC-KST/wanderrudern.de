@@ -2,7 +2,7 @@
 draft: true
 author: Stefan
 title: Grundstückskäufe des Ruderclubs
-date: 2025-12-31
+date: 2024-09-01
 images:
 - src: ./images/video_review.jpeg
   title: Feedback anhand von Aufnahmen
