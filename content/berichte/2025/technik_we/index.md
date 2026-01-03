@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Paul
 title: Technikwochenende am RC KST
 date: 2025-07-22
