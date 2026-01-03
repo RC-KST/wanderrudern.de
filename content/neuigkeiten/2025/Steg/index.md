@@ -14,7 +14,8 @@ images:
 ## Was braucht man, wenn man ein Grundstück am Wasser hat und einen Ruderclub starten möchte?
 
 Richtig einen Steg. Das ist das erste Modell 2002 im April zu Wasser getragen.
-Nach jedem Rudern haben wir den wieder aufs Gelände getragen. 
+Nach jedem Rudern haben wir den wieder aufs Gelände gebracht.
+
 Gerne wurde er auch mal von ein paar Anglern ins Wasser geworfen, so dass er uns auf dem Rückweg auch schon mal entgegentrieb.
 ![Allererster Steg (mobil)](./images/Steg2002.jpg)
 ![Allererster Steg](./images/Steg2002-1.jpg)
