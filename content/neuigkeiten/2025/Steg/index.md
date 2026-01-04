@@ -25,7 +25,10 @@ Ab 2008 versuchen wir die Genehmigung für einen üblichen Ruderbootsteg zu beko
 
 ![Ruderclub](./images/Stegbau-RCKST.jpg)
 
-Daraus ergibt sich eine unendliche Geschichte mit 13 Jahren Rechtsstreit.
+Daraus ergibt sich eine unendliche Geschichte mit 13 Jahren Rechtsstreit. Zwischenzeitlich wurde uns sogar unser Behelfssteg verboten
+
+![Mobile Einstiegshilfe](./images/Steg20023-1.jpeg)
+![Mobile Einstiegshilfe 2023](./images/Steg20023.jpeg)
 
 Nachdem wir insgesamt vier Gerichte beschäfigt haben, gelingt es uns schließlich im April 2024 unseren neuen Steg einzuweihen.
 
