@@ -27,8 +27,8 @@ Ab 2008 versuchen wir die Genehmigung für einen üblichen Ruderbootsteg zu beko
 
 Daraus ergibt sich eine unendliche Geschichte mit 13 Jahren Rechtsstreit. Zwischenzeitlich wurde uns sogar unser Behelfssteg verboten
 
-![Mobile Einstiegshilfe](./images/Steg20023-1.jpeg)
-![Mobile Einstiegshilfe 2023](./images/Steg20023.jpeg)
+![Mobile Einstiegshilfe](./images/Steg20023-1.jpg)
+![Mobile Einstiegshilfe 2023](./images/Steg2023.jpeg)
 
 Nachdem wir insgesamt vier Gerichte beschäfigt haben, gelingt es uns schließlich im April 2024 unseren neuen Steg einzuweihen.
 
