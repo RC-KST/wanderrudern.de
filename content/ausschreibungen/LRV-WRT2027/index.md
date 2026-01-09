@@ -17,6 +17,5 @@ images:
 
 ## 03. - 05. September 2027
 
-![WRT](./images/Lehnin_Lagerfeuer.jpg)
 
-
+Mehr Infos folgen!
