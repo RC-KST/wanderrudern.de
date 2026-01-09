@@ -34,3 +34,6 @@ Am Montag Nachmittag holen wir die Boote aus Werder (25 km)
 Die Fahrt richtet sich auch an fortgeschrittene Anfänger. Wir haben beide Nächte Bettenquartiere.
 
 Vom Veranstalter des Wanderrudertreffens gibt es ein T-Shirt für alle Teilnehmer.
+
+![Schwedenhütte Netzen](./images/Netzner-See-stuga.jpg)
+
