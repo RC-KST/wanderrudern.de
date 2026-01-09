@@ -23,7 +23,8 @@ Wir rudern am Freitagnachmittag bis Ketzin.
 Übernachtung in einer Pension. Das Abendessen kochen wir selbst.
 
 Am Samstag treffen wir in Klein Kreutz zur Mittagspause die anderen Ruderer vom Wanderrudertreffen. (16 km)
-Von hier geht es ann gemeinsam nach Lehnin zur großen Party. (15 km)
+
+Von hier geht es dann gemeinsam nach Lehnin zur großen Party. (15 km)
 Unser Quartier liegt am Netzener See, 2km von der Party entfernt. Wir haben drei Ferienhütten mit 12 Betten.
 
 Sonntag geht es nach dem Frühstück zurück nach Werder (47 km).
