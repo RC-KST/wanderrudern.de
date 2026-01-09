@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Stefan
 title: Grundstückskäufe des Ruderclubs
 date: 2024-09-01
