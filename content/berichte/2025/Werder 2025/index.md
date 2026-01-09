@@ -21,10 +21,7 @@ images:
   title: "Ruderboot vor Werder"
 - src: "./images/Shoppen_bei_feinkoste_albrecht2025.jpg"
   title: "Ruderboot vor Werder"
-title: Werder + Potsdamer Anrudern
 ---
-
-# Werder + Potsdamer Anrudern
 
 Für Anfänger und alle Leute die für die Osterfahrt trainieren sollten, gab es eine Wanderfahrt nach Werder.
 

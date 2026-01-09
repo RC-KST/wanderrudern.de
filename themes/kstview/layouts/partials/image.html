@@ -1,12 +1,31 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+    {{- $src = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $src = printf "%s?%s" $src . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $src = printf "%s#%s" $src . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 <figure class="mx-3 flex flex-col items-center">
-    <img src="{{ .Destination | safeURL }}" class="my-3 max-w-full h-auto max-h-96"
-    {{- with .PlainText }} alt="{{ . }}"{{ end -}}
-    {{- with .Title }} title="{{ . }}"{{ end -}}
+    <img src="{{ $src }}" class="my-3 max-w-full h-auto max-h-96"
+      {{- with .PlainText }} alt="{{ . }}" {{- end -}}
+      {{- with .Title }} title="{{ . }}" {{- end -}}
+      {{- range $k, $v := .Attributes -}}
+        {{- if $v -}}
+          {{- printf " %s=%q" $k ($v | transform.HTMLEscape) | safeHTMLAttr -}}
+        {{- end -}}
+      {{- end -}}
     >
-
     {{- with .Title }}
     <div class="flex flex-col items-center mb-3">
       <figcaption>{{ . }}</figcaption>
     </div>
     {{- end }}
 </figure>
+{{- /**/ -}}

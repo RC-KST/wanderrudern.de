@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2026-08-05"
+begin: "2026-08-29"
 title: Irland Erne-Shannon
 images:
 - src: "images/Boot-Irland.jpg"
@@ -19,9 +19,11 @@ images:
 ---
 # Irland von Nord nach Süd mit dem Ruderboot
 
-## 05. - 23. August 2026 
+## 29. August - 13. September 2026 
 
-(Verschiebung um 1 Tag möglich, das die Fährpläne noch nicht veröffentlicht sind)
+Fähranreise ab 26.8. (Mittwoch) - 14.9. (Montag)
+
+Die Fahrt liegt nicht in den Sommerferien, daher hier keine Teilnahme der Jugend möglich. (es gibt zwei weitere Wanderfahrten in den Sommerferien)
 
 ### Rudern auf der grünen Insel
 

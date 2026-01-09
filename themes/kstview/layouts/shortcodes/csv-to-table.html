@@ -15,11 +15,14 @@
 {{- $head := true}}
 {{- if and (.Get 1) (eq (.Get 1) "nohead") }}{{- $head := false}}{{- end }}
 {{- with $file := .Get 0 }}
+
     {{- $resource := false }}
-    {{- with page.Resources.Get $file }}{{ $resource = . }}{{ end }}
-    {{- if not $resource }}
-        {{- with (page.Parent.Resources.Get $file) }}{{ $resource = . }}{{ end }}
-    {{ end }}
+    {{- $parent_resource := false }}{{with page.Parent}}{{$parent_resource = .Resources.Get $file}}{{end}}
+    {{- with or
+        ($.Page.Resources.Get $file)
+        ($parent_resource)
+    }}{{ $resource = . }}{{ end }}
+
     {{- with $resource }}
         {{- with . | transform.Unmarshal (dict "delimiter" $delimiter) }}
         <table class="min-w-80 border border-gray-200">

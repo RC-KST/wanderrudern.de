@@ -8,7 +8,7 @@
                         {{- printf "-"}}
                     {{- else }}
                         {{- if reflect.IsSlice $entry.position }}
-                            {{- range $entry.position }}<p>{{ . }}</p>{{ end }}
+                            {{- range $entry.position }}<div>{{ . }}</div>{{ end }}
                         {{- else }}
                             {{- $entry.position -}}
                         {{- end }}
@@ -19,7 +19,7 @@
                         {{- printf "-"}}
                     {{- else }}
                         {{- if reflect.IsSlice $entry.name }}
-                            {{- range $entry.name }}<p>{{ . }}</p>{{ end }}
+                            {{- range $entry.name }}<div>{{ . }}</div>{{ end }}
                         {{- else }}
                             {{- $entry.name }}
                         {{- end }}
@@ -31,7 +31,7 @@
                     {{- else }}
 
                         {{- if reflect.IsSlice $entry.email }}
-                            {{- range $entry.email }}<p>{{ . }}</p>{{ end }}
+                        {{- range $entry.email }}<div><a href="mailto:{{.}}">{{ . }}</a></div>{{ end }}
                         {{- else }}
                             <a href="mailto:{{$entry.email}}">{{ $entry.email }}</a>
                         {{- end }}
@@ -42,7 +42,7 @@
                         {{- printf "-"}}
                     {{- else }}
                         {{- if reflect.IsSlice $entry.nummer }}
-                            {{- range $entry.nummer }}<p>{{ . }}</p>{{ end }}
+                            {{- range $entry.nummer }}<div>{{ . }}</div>{{ end }}
                         {{- else }}
                             {{- $entry.nummer }}
                         {{- end }}

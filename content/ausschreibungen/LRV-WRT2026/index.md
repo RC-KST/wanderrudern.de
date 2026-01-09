@@ -15,10 +15,25 @@ images:
 
 ## 03. - 05. Juli 2026
 
-![Bastei](./images/Lehnin_Lagerfeuer.jpg)
+![Party](./images/Lehnin_Lagerfeuer.jpg)
 
 Das nächste Brandenburger Wanderrudertreffen findet wieder in Lehnin statt.
-Wir rudern am Freitagnachmittag bis Ketzin und stoßen dann am Samstag Mittag zur Auffahrt des Wanderrudertreffens, mit der wir dann gemeinsam nach Lehnin rudern.
 
-Sonntag ist die Rücketappe ziemlich lang, alternativ rudern wir auch ein paar Boote nur bis Werder zurück.
+Wir rudern am Freitagnachmittag bis Ketzin. 
+Übernachtung in einer Pension. Das Abendessen kochen wir selbst.
+
+Am Samstag treffen wir in Klein Kreutz zur Mittagspause die anderen Ruderer vom Wanderrudertreffen. (16 km)
+
+Von hier geht es dann gemeinsam nach Lehnin zur großen Party. (15 km)
+Unser Quartier liegt am Netzener See, 2km von der Party entfernt. Wir haben drei Ferienhütten mit 12 Betten.
+
+Sonntag geht es nach dem Frühstück zurück nach Werder (47 km).
+
+Am Montag Nachmittag holen wir die Boote aus Werder (25 km)
+
+Die Fahrt richtet sich auch an fortgeschrittene Anfänger. Wir haben beide Nächte Bettenquartiere.
+
+Vom Veranstalter des Wanderrudertreffens gibt es ein T-Shirt für alle Teilnehmer.
+
+![Schwedenhütte Netzen](./images/Netzner-See-stuga.jpg)
 

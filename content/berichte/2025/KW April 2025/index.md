@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Wanderfahrt KW 2025
+title: KW Wanderfahrt zur Vorstandssitzung
 #author: "Paul"
 begin: 2025-03-10
 end: 2025-03-10
@@ -22,10 +22,8 @@ images:
   title: "Vorstandssitzung LRV Brandenburg"
 - src: "./images/Vorstandssitzung_KW1.jpg"
   title: "Vorstand bei der Tagung"
-title: KW Wanderfahrt zur Vorstandssitzung
 ---
 
-# Wanderfahrt KW
 Die jährliche Sitzung für die Vorstände der Brandenburger Rudervereine war dieses Jahr in KöngisWusterhausen.
 
 Echte Sportler reisen natürlich mit dem Boot an. 

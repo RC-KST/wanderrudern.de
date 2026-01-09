@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Elbe Marathon 2025
+title: Elbe Marathon 2025 Meißen - Coswig
 #author: "Paul"
 begin: 2025-02-28
 end: 2025-02-28
@@ -23,11 +23,7 @@ images:
   title: "Ruderer auf der Elbe"
 - src: "./images/497790681_1276575501143326_5413080045596869366_n.jpg"
   title: "Albrechtsburg Meißen"
-
-  title: Elbe Marathon 2025
 ---
-
-# Elbe Marathon Meißen - Coswig
 
 Wie immer im Frühjahr zum Wachwerden. Zwei Tage Elbe
 Meißen - Torgau 77 km, 6 Grad, nur wenig Gegenwind, trocken, wir kommen schnell vorwärts.

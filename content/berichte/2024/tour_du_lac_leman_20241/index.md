@@ -5,6 +5,10 @@ date: "2024-10-04"
 end: "2024-09-30"
 gewässer:
 - lac leman
+länder:
+- schweiz
+- frankreich
+typen: marathon
 images:
 - src: images/Baumgarten_Marathon_Tour_du_Lac_Leman_2024.jpg
   title: Baumgarten Marathon Tour du Lac Leman 2023
@@ -30,11 +34,7 @@ images:
   title: Lac Leman 2 Gang
 - src: images/Lac_Leman_3_Gang.jpg
   title: Lac Leman 3 Gang
-länder:
-- schweiz
-- frankreich
-title: Tour du Lac Leman 2024
-typen: marathon
+title: Tour du Lac Léman 2024
 ---
 
 Inoffizielle Weltmeisterschaft der Marathon-Ruderer

@@ -1,0 +1,12 @@
+{{/* This redirect has to be intgrated into */}}
+
+{{ define "head" }}
+    {{- $page := (page.GetPage .Params.redirectto) }}
+    <meta http-equiv="refresh" content="0; url={{ $page.Permalink }}">
+    <link rel="canonical" href="{{ $page.Permalink }}">
+{{ end }}
+
+{{ define "main" }}
+    {{ partial "intern/page-title.html" .Title }}
+    {{ .Content }}
+{{ end }}

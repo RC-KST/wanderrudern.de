@@ -12,8 +12,11 @@ Der Club bietet verschiedene Möglichkeiten von Clubkleidung an:
 | Lightweight Raglan                            | 30 Euro |
 | Classic Hooded Sweat                          | 35 Euro |
 | Funktions-T-Shirt kurzärmlich                 | 25 Euro |
+| Outdoor Fleece                                | 50 Euro |
 
 Diese können bei uns vor Ort angefragt werden und werden bei angemessener Menge von uns bestellt und bedruckt.
 Dadurch sind sie etwas preiswerter.
+Bestellungen und weitere Fragen gerne an [die zuständige Person](mailto:clubkleidung.kst@gmail.com). 
 
 Weitere Artikel können im [JL-Teams shop](https://jl-teams.de/194-kleinmachnow-ruderclub-kleinmachnow-stahnsdorf-teltow) individuell gekauft werden.
+

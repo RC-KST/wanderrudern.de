@@ -318,3 +318,27 @@ Nutzung:
 ## Menü
 
 Das Menü wird über die Einstellungsdatei `config.yaml` unter dem Punkt `menus` gesteuert, dort werden die Einträge, die Hierarchie und die Links zu den entsprechenden Unterseiten spezifiziert.
+
+## Redirects/Mirrors
+
+Wenn ein Bericht/eine Neuigkeit in einer anderen Kategorie auftauchen soll, gibt es die Möglichkeit, eine Redirect-Seite anzulegen.
+Im Dateipfad wird sie wiefolgt angelegt:
+
+```
+|  neuigkeiten/
+\    2025/
+  \   bericht_a.md
+```
+
+Der Inhalt von `bericht_a.md`:
+
+```
+---
+title: Bericht A
+type: mirror
+redirectto: /berichte/2025/bericht_a
+---
+```
+
+Dies bewirkt, dass in den Neuigkeiten eine Verlinkung auf den Bericht `bericht_a` auftaucht.
+Beliebige Verlinkungen sollten möglich sein.

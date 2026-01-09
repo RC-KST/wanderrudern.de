@@ -93,9 +93,9 @@ params:
       email: post@wanderrudern.de
     - position: Ruderwart Erwachsene
       name:
-        - Thomas Schmidt-Lehmann
         - Florian Coesfeld
         - Peter Strauß
+        - Luise Gründel
       email: rudern@wanderrudern.de
     - position: Ruderwart Jugend
       name:
@@ -103,7 +103,7 @@ params:
         - Timo Schlichting
       email: jugendwart@wanderrudern.de
     - position: Ruderwart Marathon
-      name: Nirina Beilfuß
+      name: Thomas Schmidt-Lehmann
       email: marathon@wanderrudern.de
     - position: Bootswarte
       name:
@@ -195,7 +195,8 @@ markup:
       unsafe: true
     renderHooks:
       link:
-        enableDefault: true
+        # or: fallback
+        useEmbedded: always
     parser:
       attribute:
         block: true

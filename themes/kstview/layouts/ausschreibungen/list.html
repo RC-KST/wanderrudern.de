@@ -4,6 +4,6 @@
 
     {{ .Content }}
 
-    {{ partial "intern/list-items.html" (dict "sort_param" "begin" "reverse" false) }}
+    {{ partial "intern/list-items.html" (dict "sort_param" "begin" "reverse" false "hide_past_posts" true) }}
 </div>
 {{ end }}

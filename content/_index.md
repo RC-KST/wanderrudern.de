@@ -7,6 +7,10 @@ title: Home
 
 {{< slider id="home" >}}
     {{< slider-entry
+        text="Saimaa 2025 Bericht ist online, inklusive Video!"
+        img="images/saimaa_video_standbild.png"
+        href="berichte/2025/Saimaa2025/index.md" >}},
+    {{< slider-entry
         text="Der Steg ist da!"
         img="bundle/backdrops/club-gelaende.jpg"
         href="./berichte/2024/stegeinweihung_2024/index.md" >}} 
@@ -18,24 +22,27 @@ title: Home
 
 {{< column-layout >}}
 {{% col %}}
-- [Was ist Wanderrudern?](/club/anfaenger/was-ist-wanderrudern)
-- [Wann und wo rudern?](/club/anfaenger/wann-und-wo-rudern)
-- [Was ist Marathonrudern?](/club/marathon)
-- [Rudertermine](/club/wochentermine)
+- [Was ist Wanderrudern?](./club/anfaenger/was-ist-wanderrudern.md)
+- [Wann und wo rudern?](./club/anfaenger/wann-und-wo-rudern.md)
+- [Was ist Marathonrudern?](./club/marathon/index.md)
+- [Rudertermine](./club/wochentermine.md)
+- [Ruderkurse für Anfänger](./club/anfaenger/ruderkurse.md)
 {{% /col %}}
 {{% col %}}
-- [Mitglied werden](/club/anfaenger/mitgliedschaft)
-- [Ruderrevier](/club/anfaenger/ruderrevier)
-- [Gäste](/club/gaeste)
-- [Kontakt](/club/vorstand)
+- [Mitglied werden](./club/anfaenger/mitgliedschaft/index.md)
+- [Ruderrevier](./club/anfaenger/ruderrevier.md)
+- [Gäste](./club/gaeste.md)
+- [Kontakt](./club/vorstand.md)
 {{% /col %}}
 {{< /column-layout >}}
 
 {{< column-layout >}}
     {{< col >}}
+        {{% v 2 %}}
         {{< previous-news-and-reports >}}
     {{< /col >}}
     {{< col >}}
+        {{% v 2 %}}
         {{< newest-upcoming >}}
     {{< /col >}}
 {{< /column-layout >}}
