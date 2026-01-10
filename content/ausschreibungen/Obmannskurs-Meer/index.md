@@ -8,7 +8,7 @@ images:
 
 ## Obmannskurs Stufe 5
 
-## 24. Januar 2026    
+## Samstag, 24. Januar 2026    
 
 ## Kleinmachnow 10 - 16 Uhr
 
