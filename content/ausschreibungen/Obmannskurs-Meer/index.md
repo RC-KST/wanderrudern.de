@@ -8,16 +8,16 @@ images:
 
 ## Obmannskurs Stufe 5
 
-## 24. Januar 2026
+## 24. Januar 2026    
+
+## Kleinmachnow 10 - 16 Uhr
 
 ![Inrigger auf dem Inari- See](./images/Vier-Inrigger-Ruderboote-am-Steg-Inari-2022.jpg)
 
-Der Kurs findet im Ruderclub Fürstenwalde (Bettenquartier) statt. Abfahrt am Freitag um 16 Uhr am Bootshaus. Wir sind am Sonntag Nachmittag zurück. Kosten des Kurses ca. 50 Euro (Verpflegung, Unterkunft, Ein­tritt Funbad).
+Wir bieten zum ersten Mal einen Obmannskurs für das Rudern auf dem Meer an.
 
-Der Kurs besteht aus Theorie für die Stufen 1-4, sowie einer praktischen Ausbildung im Ruder­kasten und auf dem Ruder­ergometer.
+Wir lehnen uns an die Dänischen Bestimmungen an, aber dieser Kurs berechtigt nicht dazu sich in Dänemark ein Boot auszuleihen.
 
-Am Sonntag findet die theoretische Prüfung statt. Die Abnahme der Prüfung kann auch erfolgen, wenn die Voraussetzungen (Kilometer) noch nicht ganz erfüllt sind.
+Aber man erwirbt Kenntnisse zum Meeres-Rudern.
 
-Die praktischen Prüfungen finden bei passender Gelegenheit in den Folgewochen statt.
-Die Teilnahme am Obmannskurs ist auch Anfängern dringend zu empfehlen!
-Auch als Auffrischung für gestandene Obleute empfehlenswert.
+Alle Leute die im Jahr 2026 an Meereswanderfahrten teilnehmen wollen, sollten an dem Kurs teilnehmen. Selbst wenn sie nicht als Obmann mitfahren.
