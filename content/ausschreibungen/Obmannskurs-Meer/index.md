@@ -10,7 +10,7 @@ images:
 
 ## 24. Januar 2026
 
-![Obmannskurs](./images/20200117_180719.jpg)
+![Inrigger auf dem Inari- See](./images/Vier-Inrigger-Ruderboote-am-Steg-Inari-2022.jpg)
 
 Der Kurs findet im Ruderclub Fürstenwalde (Bettenquartier) statt. Abfahrt am Freitag um 16 Uhr am Bootshaus. Wir sind am Sonntag Nachmittag zurück. Kosten des Kurses ca. 50 Euro (Verpflegung, Unterkunft, Ein­tritt Funbad).
 
