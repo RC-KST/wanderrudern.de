@@ -1,17 +1,27 @@
-{{- $u := urls.Parse .Destination -}}
-{{- $src := $u.String -}}
-{{- if not $u.IsAbs -}}
-  {{- $path := strings.TrimPrefix "./" $u.Path -}}
-  {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
-    {{- $src = .RelPermalink -}}
-    {{- with $u.RawQuery -}}
-      {{- $src = printf "%s?%s" $src . -}}
+{{- $resource := page.Resources.Get .Destination }}
+{{- if and (not $resource) page.CurrentSection }}
+    {{- $resource = page.CurrentSection.Resources.Get .Destination }}
+{{ end }}
+
+{{- $src := "" }}
+{{- if $resource }}
+    {{- $src = $resource.Permalink }}
+{{- else }}
+    {{- $u := urls.Parse .Destination -}}
+    {{- $src = $u.String -}}
+    {{- if not $u.IsAbs -}}
+      {{- $path := strings.TrimPrefix "./" $u.Path -}}
+      {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+        {{- $src = .Permalink -}}
+        {{- with $u.RawQuery -}}
+          {{- $src = printf "%s?%s" $src . -}}
+        {{- end -}}
+        {{- with $u.Fragment -}}
+          {{- $src = printf "%s#%s" $src . -}}
+        {{- end -}}
+      {{- end -}}
     {{- end -}}
-    {{- with $u.Fragment -}}
-      {{- $src = printf "%s#%s" $src . -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
+{{- end }}
 <figure class="mx-3 flex flex-col items-center">
     <img src="{{ $src }}" class="my-3 max-w-full h-auto max-h-96"
       {{- with .PlainText }} alt="{{ . }}" {{- end -}}

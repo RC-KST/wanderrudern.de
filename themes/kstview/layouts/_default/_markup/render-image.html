@@ -1,14 +1,21 @@
-{{- $destination := .Destination | safeURL }}
-{{- $resource := page.Resources.Get .Destination }}
+{{- $destination := .Destination }}
+{{- $resource := page.Resources.Get $destination }}
+{{- if and (not $resource) page.CurrentSection }}
+  {{- $resource = page.CurrentSection.Resources.Get $destination }}
+{{ end }}
+
 {{- if $resource }}
   {{- if eq $resource.MediaType.MainType "video"}}
     {{- partial "video.html" (dict 
-      "src" $destination
+      "Destination" .Destination
       "Title" .Title
       "PlainText" .PlainText) }}
   {{- else if eq $resource.MediaType.MainType "image"}}
     {{- partial "image.html" . }}
-  {{- else }}{{- warnf "(Page %v (%v)) Media resource '%v' is of unknown media type '%v'" page.Path  page.Title $destination $resource.MediaType.MainType }}{{- end }}
+  {{- else }}
+      {{- warnf "(Page %v (%v)) Media resource '%v' is of unknown media type '%v'" page.Path  page.Title $destination $resource.MediaType.MainType }}
+      {{- partial "image.html" . }}
+  {{- end }}
 {{- else }}
   {{- warnf "(Page %v (%v)) No resource found at destination '%v', assuming image..." page.Path page.Title $destination }}
   {{- partial "image.html" . }}
