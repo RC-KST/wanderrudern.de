@@ -3,9 +3,9 @@ title: Fähren
 weight: 60
 ---
 
-![Schallsignale](./images/Fahrrinne.png)
+![Fähre Schilder](./images/Faehre-Schilder.png)
 
-![Schallsignale](./images/Tonnen.png)
+![Seilfähren](./images/Seilfaehren.png)
 
 ![Schallsignale](./images/Bruecken.png)
 
