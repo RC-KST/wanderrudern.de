@@ -1,6 +1,6 @@
 ---
 title: Fahrrinnen- Markierungen
-weight: 10
+weight: 40
 ---
 
 ![Schallsignale](./images/Fahrrinne.png)
