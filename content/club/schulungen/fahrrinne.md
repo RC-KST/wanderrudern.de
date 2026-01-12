@@ -4,10 +4,10 @@ weight: 40
 ---
 
 
-![Fahrrinne](.images/Fahrrinne.png)
+![Fahrrinne](./images/Fahrrinne.png)
 
-![Tonnen](.images/Tonnen.png)
+![Tonnen](./images/Tonnen.png)
 
-![Brücken](.images/Bruecken.png)
+![Brücken](./images/Bruecken.png)
 
-![Schiffsmarkierungen](.images/Schiffsmarkierungen.png)
+![Schiffsmarkierungen](./images/Schiffsmarkierungen.png)
