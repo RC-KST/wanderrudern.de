@@ -7,6 +7,5 @@ weight: 60
 
 ![Seilfähren](./images/Seilfaehren.png)
 
-![Schallsignale](./images/Bruecken.png)
+![Gierseilfähre](./images/Gierfaehre.png)
 
-![Schallsignale](./images/Schiffsmarkierungen.png)
