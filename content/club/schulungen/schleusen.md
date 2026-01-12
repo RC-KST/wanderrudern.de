@@ -16,3 +16,5 @@ weight: 80
 ![Schleusentore](./images/Schleusentore.png)
 
 ![Schleusentreppe](./images/Schleusentreppe.png)
+
+![Selbstbedienungsschleuse](./images/Schleuse-selbstbedienung.png)
