@@ -5,12 +5,12 @@ weight: 30
 
 ![Durchfahrt verboten](./images/Durchfahrt-verboten.png)
 
-![Durchfahrt verboten](./images/Verbotsschilder.png)
+![Verbotsschilder 1](./images/Verbotsschilder.png)
 
-![Durchfahrt verboten](./images/Verbotsschilder2.png)
+![Verbotsschilder 2](./images/Verbotsschilder2.png)
 
-![Durchfahrt verboten](./images/Verbotsschilder3.png)
+![Verbotsschilder 3](./images/Verbotsschilder3.png)
 
-![Durchfahrt verboten](./images/Gebotsschilder.png)
+![Gebotsschilder](./images/Gebotsschilder.png)
 
-![Durchfahrt verboten](./images/Abzweigungen.png)
+![Abzweigungen](./images/Abzweigungen.png)

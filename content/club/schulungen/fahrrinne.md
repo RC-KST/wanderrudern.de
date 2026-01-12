@@ -3,10 +3,11 @@ title: Fahrrinnen- Markierungen
 weight: 40
 ---
 
-![Schallsignale](./images/Fahrrinne.png)
 
-![Schallsignale](./images/Tonnen.png)
+![Fahrrinne](.images/Fahrrinne.png)
 
-![Schallsignale](./images/Bruecken.png)
+![Tonnen](.images/Tonnen.png)
 
-![Schallsignale](./images/Schiffsmarkierungen.png)
+![Brücken](.images/Bruecken.png)
+
+![Schiffsmarkierungen](.images/Schiffsmarkierungen.png)
