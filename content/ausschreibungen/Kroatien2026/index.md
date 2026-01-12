@@ -24,6 +24,8 @@ Wir haben ein Standquartier im Ort Blace an der Mündung der Neretva in die Adri
 Von hier aus machen wir Tagesfahrten ins Delta der Neretva oder in die umliegende Inselwelt.
 Die jeweiligen Tagesfahrten werden der Wind- und Wetterlage angepasst. 
 
+Blace hat einen natürlichen, geschützten Hafen, einen kleinen Lebensmittelladen und einige Gaststätten. Ob die alle im Oktober noch offen sind, ist aber fraglich.
+
 Das Delta der Neretva ist das kroatische Anbaugebiet für Zitrusfrüchte.
 
 Um diese Jahreszeit kann man mit Tagestemperaturen um 18-20 Grad und Wassertemperaturen von 20 Grad rechnen.
@@ -32,6 +34,6 @@ Die Anreise erfolt mit einer Zwischenübernachtung ab Berlin im Kleinbus. Wir ha
 
 ![Kroatien Landkarte](./images/Neretva-Delta-Karte.png)
 
-Wir haben ein sehr großes Ferienhaus. Hier haben wir genug Platz zum Kochen und um uns aufzuhalten. In einer weiteren kleineren Ferienwohnung, die 150m entfernt ist, haben wir weitere Schlafplätze.
+Wir haben ein sehr großes Ferienhaus (200m²). Hier haben wir genug Platz zum Kochen und um uns alle aufzuhalten. In einer weiteren kleineren Ferienwohnung, die 150m entfernt ist, haben wir weitere Schlafplätze.
 
 Das Haupthaus hat einen Pool. Beide Gebäude liegen unmittelbar am Wasser.
