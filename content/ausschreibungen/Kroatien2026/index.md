@@ -10,7 +10,7 @@ images:
   title: "Hauptquartier"
 - src: "./images/Villa-Juma1.jpg"
   title: "Hauptquartier"
-- - src: "./images/Villa-Juma-innen.jpg"
+- src: "./images/Villa-Juma-innen.jpg"
   title: "Hauptquartier"
 ---
 
