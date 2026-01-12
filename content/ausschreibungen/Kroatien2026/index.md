@@ -33,4 +33,5 @@ Die Anreise erfolt mit einer Zwischenübernachtung ab Berlin im Kleinbus. Wir ha
 ![Kroatien Landkarte](./images/Neretva-Delta-Karte.png)
 
 Wir haben ein sehr großes Ferienhaus. Hier haben wir genug Platz zum Kochen und um uns aufzuhalten. In einer weiteren kleineren Ferienwohnung, die 150m entfernt ist, haben wir weitere Schlafplätze.
+
 Das Haupthaus hat einen Pool. Beide Gebäude liegen unmittelbar am Wasser.
