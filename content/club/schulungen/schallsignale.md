@@ -1,6 +1,6 @@
 ---
 title: Schallsignale
-weight: 10
+weight: 50
 ---
 
 ![Schallsignale](./images/Schallsignale.png)
