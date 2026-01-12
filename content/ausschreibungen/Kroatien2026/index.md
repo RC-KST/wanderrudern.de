@@ -4,7 +4,10 @@ author: "Stefan"
 begin: "2026-10-16"
 title: Kroatien Neretva Delta
 images:
+- src: "./images/Barke-Teltowkanal-Innenstadt2025.jpg"
+  title: "Kleinmachnower Barke auf dem Teltowkanal"
 ---
+
 # Kroatien Neretva Delta
 
 ## 16. Oktober - 01.November 2026
