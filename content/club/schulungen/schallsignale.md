@@ -1,10 +1,9 @@
 ---
-title: Obmannsstufen
+title: Schallsignale
 weight: 10
 ---
 
-| Stufe | **1** | **2** | **3** | **4** | **5** |
-|-|-|-|-|-|-|
+
 | Geltungsbereich | Teltowkanal unterhalb der Schleuse Machnow bis Wannseebrücke und Griebnitzsee Ende | Unterhavel und alle Seen zwischen Schleuse Spandau/Schleuse Charlottenburg & Schleuse Brandenburg, *nicht Nuthe* | Jedes nicht stark strömendes Gewässer, auch Kleingewässer, sofern sie schwach strömen | Stark strömende Gewässer wie Elbe, Rhein, Oder, Weser, Donau | Meeresbefahrung |
 | Nachtfahrten | Keine | Bereich 1 | Bereich 2 | Bereich 3 | Überall |
 | Beaufsichtigung Fremdboot | Keine | Bereich 1 | Bereich 2 | Bereich 3 | Bereich 4 |
