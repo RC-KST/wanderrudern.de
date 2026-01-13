@@ -3,6 +3,16 @@ title: Obmannsstufen
 weight: 10
 ---
 
+# Welche Aufgaben hat ein Obmann
+
+- Trägt im Boot die Verantwortung für seine Mannschaft. 
+      !Auch, wenn er nicht Steuermann ist, sondern nur Ruderer!
+- Trägt auf Wanderfahrten auch an Land  Verantwortung
+- Obmann ist immer der Dienstälteste seiner Stufe, es sei denn, der VL/ Vorstand  trifft eine     Sonderregelung
+- Obmannsprüfung = Theorie +  Praxis + Einverständnis des geschäftsführenden Vorstands
+
+
+
 | Stufe | **1** | **2** | **3** | **4** | **5** |
 |-|-|-|-|-|-|
 | Geltungsbereich | Teltowkanal unterhalb der Schleuse Machnow bis Wannseebrücke und Griebnitzsee Ende | Unterhavel und alle Seen zwischen Schleuse Spandau/Schleuse Charlottenburg & Schleuse Brandenburg, *nicht Nuthe* | Jedes nicht stark strömendes Gewässer, auch Kleingewässer, sofern sie schwach strömen | Stark strömende Gewässer wie Elbe, Rhein, Oder, Weser, Donau | Meeresbefahrung |
