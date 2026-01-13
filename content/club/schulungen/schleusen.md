@@ -13,6 +13,8 @@ weight: 80
 
 ![Schleusen mit Seilen](./images/Schleuse-Seile.png)
 
+- Seile in Gegenrichtung spannen, trapezförmig
+
 ![Schleusentore](./images/Schleusentore.png)
 
 ![Schleusentreppe](./images/Schleusentreppe.png)
