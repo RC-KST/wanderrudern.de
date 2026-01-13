@@ -14,15 +14,14 @@ weight: 110
 
 ![Große Bootswagen](./images/Bootswagen3.png)
 
+![Bootsgasse](./images/Bootsgassen.png)
+
 - kontrollieren, ob die Gasse frei und unbeschädigt ist
 - erst einfahren, wenn die Gasse komplett durchströmt ist
 - gerade einfahren
 - Skulls lang, gerade sitzen
 - in der Gasse nicht steuern
 
-![Bootsgasse](./images/Bootsgassen.png)
-
-- wenn die Gasse zu eng ist treideln
-
 ![Bootsgasse treideln](./images/Bootsgassen2.png)
 
+- wenn die Gasse zu eng ist treideln
