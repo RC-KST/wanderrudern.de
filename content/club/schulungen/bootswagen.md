@@ -26,4 +26,4 @@ weight: 110
 
 - wenn die Gasse zu eng ist treideln
 
-![Treideln](./images/treideln.png)
+![Treideln](./images/Treideln.png)
