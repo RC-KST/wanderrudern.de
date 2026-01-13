@@ -10,6 +10,7 @@ weight: 10
 - Trägt auf Wanderfahrten auch an Land  Verantwortung
 - Obmann ist immer der Dienstälteste seiner Stufe, es sei denn, der VL/ Vorstand  trifft eine     Sonderregelung
 - Obmannsprüfung = Theorie +  Praxis + Einverständnis des geschäftsführenden Vorstands
+  
 
 
 
