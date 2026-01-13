@@ -27,10 +27,8 @@ weight: 10
 
 Eine bestandene theoretische und praktische Prüfung entsprechend den Gewässertypen ist Voraussetzung für die Obmannsscheine.
 
-Die Obleute führen silberne Abzeichen entsprechend ihren Stufen.
-
 Von den genannten Voraussetzungen kann mit Zustimmung des geschäftsführenden Vorstandes abgewichen werden.
 
-Goldabzeichen erlauben in den entsprechenden Geltungsbereichen die Funktion als Fahrtenleiter. Ein Fahrtenleiter muss Wanderfahrterfahrung als Mitglied  einer Fahrtenleitung haben. (Die vom VL einer Wanderfahrt festgelegten Obleute sind Mitglied der Fahrtenleitung.). Außerdem wird eine ausreichende geistige Reife und ein verantwortungsvolles Verhalten erwartet.
+Ein Fahrtenleiter muss Wanderfahrterfahrung als Mitglied  einer Fahrtenleitung haben. (Die vom VL einer Wanderfahrt festgelegten Obleute sind Mitglied der Fahrtenleitung.). Außerdem wird eine ausreichende geistige Reife und ein verantwortungsvolles Verhalten erwartet.
 
 Den Weisungen der Obleute beim Ruderbetrieb ist auf jeden Fall Folge zu leisten. Auf Wanderfahrten haben die Obleute darüber hinaus auch eine Weisungsbefugnis außerhalb des Ruderbetriebes.
