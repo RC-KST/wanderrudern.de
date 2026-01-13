@@ -13,7 +13,15 @@ weight: 120
 
 ![Einfahrt in die Strömung](./images/Stroemung-Einfahrt.png)
 
+- senkrecht und mit Druck einfahren
+- sobald der Bug in der Strömung ist, wird das Boot abwärts gedreht
+
 ![Ausfahrt in die Strömung](./images/Stroemung-Ausfahrt.png)
+
+- der Bug in der Nehrströmung sorgt für eine Drehbewegung flussaufwärts
+- das Heck schräg in der Flussströmung sorgt für eine Drehbewegung flussaufwärts
+- in Summe sehr schnelle Drehung
+- bei engen Einfahrten möglicherweise von flussabwärts einfahren, anstrengender, aber sicherer
 
 ![Anlegen in Buhnen](./images/Stroemung-Buhnen.png)
 
