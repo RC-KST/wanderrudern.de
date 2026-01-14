@@ -28,3 +28,6 @@ weight: 120
 ![Anlegen am Steg](./images/Stroemung-Anlegen.png)
 
 ![Anlegen bei Brückenpfeilern](./images/Stroemung-Bruecke.png)
+
+- niemals oberhalb von Brückenpfeilern wenden
+- die Nehrströmung unterhalb des Brückenpfeilers zieht das Boot aufwärts, Abstand halten
