@@ -21,6 +21,10 @@ weight: 80
 
 ![Schleusentore](./images/Schleusentore.png)
 
+- Ausfahren erst wenn Ampel auf grün oder der Schleusenwart auffordert
+- Abstand zur Berufsschifffahrt halten (Verwirbelung!)
+- Zügig ausfahren, Achtung bei Automatikschleusen
+
 ![Schleusentreppe](./images/Schleusentreppe.png)
 
 ![Selbstbedienungsschleuse](./images/Schleuse-selbstbedienung.png)
