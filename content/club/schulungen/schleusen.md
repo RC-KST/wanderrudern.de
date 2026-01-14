@@ -13,7 +13,7 @@ weight: 80
 
 ![Schleusen mit Seilen](./images/Schleuse-Seile.png)
 
-- Seile in Gegenrichtung spannen, trapezförmig
+- Seile in Gegenrichtung spannen, trapezförmig, sonst ist das Boot nur in eine Richtung gesichert
 
 ![Schleusentore](./images/Schleusentore.png)
 
