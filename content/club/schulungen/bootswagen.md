@@ -5,6 +5,7 @@ weight: 110
 
 ![Bootswagen auf Schienen](./images/Bootswagen.png)
 
+- Breite des Bootswagens kontrollieren, passt das Boot?
 - Boote mittig legen
 - Skulls aus den Dollen nehmen
 - Steuer raus nehmen
@@ -19,7 +20,7 @@ weight: 110
 - kontrollieren, ob die Gasse frei und unbeschädigt ist
 - erst einfahren, wenn die Gasse komplett durchströmt ist
 - gerade einfahren
-- Skulls lang, gerade sitzen
+- Skulls lang, gerade sitzen, nicht umdrehen
 - in der Gasse nicht steuern
 
 ![Bootsgasse treideln](./images/Bootsgassen2.png)
