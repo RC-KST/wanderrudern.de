@@ -5,6 +5,9 @@ weight: 120
 
 ![Strömungsverlauf auf der Elbe](./images/Stroemung-Verlauf.png)
 
+- Optimale Strömung nutzen, ca. auf 2/3 in der Außenkurve rudern
+- Von Verwirbellung an den Buhnenköpfen fernhalten
+
 ![Strömung](./images/Stroemung.png)
 
 ![Strömung](./images/Stroemung1.png)
