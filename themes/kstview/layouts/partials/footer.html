@@ -5,9 +5,9 @@
         <div class="w-full mr-5 mb-3">
             <div>Copyright {{ i18n "rowingclub_name" }}, {{ now.Year }}. {{ i18n "footer_all_rights_reserved" }}.</div>
         </div>
-        <div class="w-full">
+        <div class="w-full flex flex-col">
             {{- range $v := .Site.Params.footer.links }}
-            <div><a class="px-0 bg-transparent" href="{{ $v.href | safeHTML }}">{{ i18n $v.key }}</a></div>
+            <div class="mb-1"><a class="px-1 bg-gray-600/40" href="{{ $v.href | safeHTML }}">{{ i18n $v.key }}</a></div>
             {{- end }}
         </div>
     </div>
@@ -15,7 +15,7 @@
         {{ range $social := .Site.Params.footer.socials }}
         <a href="{{ $social.href }}"
             target="_blank" 
-            class="relative h-auto min-w-12 min-h-12 m-1 bg-contain bg-no-repeat text-xl hover:opacity-50 bg-transparent"
+            class="relative h-auto min-w-12 min-h-12 m-1 bg-contain bg-no-repeat text-xl hover:opacity-50"
                 style="background-image: url(&quot;{{ (resources.Get $social.image).Permalink }}&quot;);">
 
             <img src="{{ (resources.Get "bundle/external_link_light.svg").Permalink }}" width="14pt" class="absolute bottom-0 right-0"></img>
