@@ -10,3 +10,4 @@ Bei unserem Ruderclub muss jedes Boot mit geprüften Obmann (Bootsführer nach B
 
 Im Winterhalbjahr werden Theorie- Kurse zur Sicherheit auf dem Wasser angeboten. Ergänzt durch eine praktische Prüfung im Frühjahr.
 
+Wir haben hier Informationen zum sicheren Rudern veröffentlicht. Besser wäre auf jeden Fall der Besuch eines Obmannskurses.
