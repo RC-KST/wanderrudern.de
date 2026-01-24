@@ -4,8 +4,10 @@ begin: "2026-01-24"
 date: "2026-01-24T01:00:00+02:00"
 gewässer: []
 images:
-- src: images/Obmannskurs_2025-1.jpg
-  title: Obmannskurs 2025-1
+- src: images/Obmannskurs_2026.jpg
+  title: Obmannskurs Jugend 2026
+- src: images/Obmannskurs-Meresgewaesser2026.jpeg
+  title: Obmannskurs Jugend 2026
 länder: []
 title: Obmannskurs 2026
 typen: schulung
