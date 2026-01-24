@@ -13,19 +13,30 @@ typen: schulung
 
 # Obmannskurse Erwachsene
 
+Obmannskurs Nr.1  im Januar 2026. Insgesamt 15 Teilnehmer
 
-Obmannskurs Nr.1  im Januar 2025. Insgesamt 20 Teilnehmer
+Neue Obleute Stufe 1+2: Franziska, Christine
 
-Neue Obleute Stufe 1: Silvia, Kai, Luise,
+Neue Obleute Stufe 4: Florian
 
-Neue Obleute Stufe 2: Silvia, Ralf, Luise, Sonia
-
-Neue Obleute Stufe 3: Ralf
-
-Neue Obleute Stufe 4: Carlos
-
-Neue Obleute Stufe 5:
-
-Die restlichen Teilnehmer haben an der integrierten Sicherheitsschulung teilgenommen.
+Die restlichen Teilnehmer haben an der integrierten Sicherheitsschulung teilgenommen. Drei Gäste von anderen Ruderclubs haben teilgenommen.
 
 In den nächsten Wochen werden noch die praktischen Prüfungen im Boot gemacht. Praktische Prüfungen der Stufe 2 sind am besten auf Wanderfahrt abzulegen, notfalls auch im Wochenendbetrieb. Stufe 3 ist nur auf Wanderfahrt möglich.
+
+# Obmannskurs Jugend
+
+Obmannskurs Nr.2  im Januar 2026. Insgesamt 16 Teilnehmer
+
+Neue Obleute Stufe 1: Albert, Theo
+
+Die restlichen Teilnehmer haben an der integrierten Sicherheitsschulung teilgenommen. 12 Gäste von anderen Ruderclubs haben teilgenommen.
+
+# Obmannskurs Meeresgewässer
+
+Obmannskurs Nr.3  im Januar 2026. Insgesamt 10 Teilnehmer
+
+Neue Obleute Stufe 5: Timo, Thomas, Carlos, Felix
+
+Die restlichen Teilnehmer haben als Auffrischung teilgenommen. 2 Gäste von anderen Ruderclubs haben teilgenommen.
+
+
