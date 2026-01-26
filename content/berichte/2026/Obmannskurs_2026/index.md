@@ -3,16 +3,15 @@ author: "Stefan"
 begin: "2026-01-24"
 date: "2026-01-24T01:00:00+02:00"
 gewässer: []
-images:
-- src: images/Obmannskurs_2026.jpg
-  title: Obmannskurs Jugend 2026
-- src: images/Obmannskurs-Meresgewaesser2026.jpeg
-  title: Obmannskurs Jugend 2026
 länder: []
+images:
+- src: ./images/obkurs_jugend.jpeg
+  title: Obkurs Jugend Gruppe
+- src: ./images/obkurs_pruefung.jpeg
+  title: Obkurs Meer Prüfung
 title: Obmannskurs 2026
 typen: schulung
 ---
-
 # Obmannskurse Erwachsene
 
 Obmannskurs Nr.1  im Januar 2026. Insgesamt 15 Teilnehmer
