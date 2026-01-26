@@ -4,8 +4,14 @@ author: "Stefan"
 begin: "2026-06-06"
 title: Rudertrainingswochenende 2026  
 images:
-- src: "images/Grillchef.jpg"
-  title: Verpflegung vom Grill
+- src: ./images/trainer_we_trainer-boot.jpeg
+  title: Trainingsboot Aussicht
+- src: ./images/trainer_we_waehrend_des_trainings.jpeg
+  title: Gutes Wetter und anstrengendes Training
+  
+#- src: "images/Grillchef.jpg"
+#  title: Verpflegung vom Grill
+# ![Tag der offenen Tür](./images/Tag-der-offenen-Tuer.jpg)
 ---
 
 # 06./07. Juni 2026   
@@ -15,6 +21,5 @@ Am Samstag, 06. Juni 2026, 09:00 Uhr startet unser intensives Trainingswochenend
 Der Kurs richtet sich an aktive Ausbilder, Ruderwarte und Marathonruderer. Die Teilnehmerzahl ist begrenzt – sichere dir frühzeitig deinen Platz!
 Bitte beachte: Alle Teilnehmer helfen beim Organisationsablauf mit, und wir behalten uns vor, eine Unkostenabgabe zu erbitten.
 
-Anmeldung und Rückfragen: Bitte wende dich direkt an Thomas (Tel. 0173 1545810).
+Anmeldung und Rückfragen: Bitte wende dich direkt an Thomas.
 
-![Tag der offenen Tür](./images/Tag-der-offenen-Tuer.jpg)

@@ -14,10 +14,6 @@ images:
   title: Training live
 - src: ./images/kurze_pause_auf_griebnitzsee.jpeg
   title: Kurze Pause auf dem Griebnitzsee am Sonntag
-- src: ./images/trainer_we_trainer-boot.jpeg
-  title: Trainingsboot Aussicht
-- src: ./images/trainer_we_waehrend_des_trainings.jpeg
-  title: Gutes Wetter und anstrengendes Training
 ---
 
 Am Wochenende vom 18.7. bis 20.7. wurde von Nirina ein Kurs organisiert, bei dem zwei Trainer aus dem Rheinland anreisten, um uns einen Einblick in fortgeschrittene Rudertechnik zu geben.
