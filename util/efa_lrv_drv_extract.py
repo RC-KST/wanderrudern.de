@@ -93,14 +93,45 @@ def main():
 
             md_txt = write_md(GROUPS_LIST, GROUPS, classes, year, cli.competition)
 
-            output_file_path = os.path.basename(filepath)
-            if len(output_file_path.rsplit('.', 1)) != 0:
-                output_file_path = output_file_path.rsplit('.', 1)[0]
-            output_file_path = os.path.join(cli.output_directory, output_file_path + ".md")
-
+            output_file_path = gen_out_path(filepath, cli.output_directory, "md")
             try: os.mkdir(cli.output_directory)
             except: pass
             with open(output_file_path, "w") as f: f.write(md_txt)
+
+            if cli.export_ewige:
+                output_file_path = gen_out_path(filepath, cli.output_directory, "csv")
+                rows = write_csv(GROUPS_LIST, GROUPS, classes, year, cli.competition)
+                with open(output_file_path, "w") as f:
+                    csvw = csv.writer(f, delimiter=";")
+                    csvw.writerows(rows)
+
+def write_csv(
+    GROUPS_LIST: list[str],
+    GROUPS: dict[str, dict[str, int]],
+    class_persons: dict[str, list[Person]],
+    year: int,
+    competition: str) -> list[list[str]]:
+
+    rows = []
+    rows.append(["Name", "Jahres-Kilometer", "Gold gewonnen (Ja/Nein/True/False)"])
+    
+    persons: list[Person] = list(ft.reduce(lambda acc, c: acc + class_persons[c], class_persons.keys(), []))
+    persons.sort(key=lambda c: c.km)
+    persons.reverse()
+
+    for person in persons:
+        name = " ".join(reversed(list(map(lambda c: c.strip(), person.name.split(',', 1)))))
+        #print(f"name: '{name}'")
+        rows.append([name, person.km, "false"])
+
+    return rows
+
+def gen_out_path(input_file_path: str, output_dir: str, new_ext: str) -> str:
+    output_file_path = os.path.basename(input_file_path)
+    if len(output_file_path.rsplit('.', 1)) != 0:
+        output_file_path = output_file_path.rsplit('.', 1)[0]
+    output_file_path = os.path.join(output_dir, output_file_path + "." + new_ext)
+    return output_file_path
 
 def write_md(
     GROUPS_LIST: list[str],
@@ -257,15 +288,18 @@ class Cli:
     input_files_years: list[int]
     output_directory: str
     competition: str
+    export_ewige: bool
+
 
 def helpExit(msg: str|None = None, exit_code: int = 1) -> typing.NoReturn:
-    exe_name = "transform_lrv.py"
+    exe_name = "efa_lrv_drv_extract.py"
     if msg is not None: print(msg + "\n\n")
     print(f"USAGE: {exe_name} OPTIONS <INPUT_FILE INPUT_FILE_YEAR ...>")
     print(f"")
     print(f"OPTIONS:")
     print(f" -h, --help                 print this and exit")
     print(f" --drv,--lrv                Specify which competition will be extracted")
+    print(f" --export-ewige             Export for the list that holds all rowed kilometers")
     #print(f" -i, --input-file           specify an input file")
     #print(f" -y, --input-file-year      specify a year for the given input file, count must be identical to input files specified, order matters")
     print(f" -o, --output-dir           specify output folder")
@@ -276,6 +310,7 @@ def parseCli() -> Cli:
     input_files_years: list[int] = []
     output_dir: str | None = None
     competition: str | None = None
+    export_ewige: bool = False
 
 
     va = iter(sys.argv)
@@ -293,6 +328,8 @@ def parseCli() -> Cli:
             if competition is not None: helpExit(" Only one instance of --lrv/--drv may be specified")
             if carg == "--drv": competition = "drv"
             else: competition = "lrv"
+        elif carg == "--export-ewige":
+            export_ewige = True
         #elif carg == "-i" or carg == "--input-file":
         #    carg = next(va, None)
         #    if (carg is None): helpExit("Expected input file path")
@@ -323,6 +360,7 @@ def parseCli() -> Cli:
         input_files_years=input_files_years,
         output_directory=(output_dir if output_dir is not None else helpExit("output directory has to be specified")),
         competition=competition if competition is not None else helpExit("one of --drv/--lrv have to be speicified"),
+        export_ewige=export_ewige,
     )
 
 

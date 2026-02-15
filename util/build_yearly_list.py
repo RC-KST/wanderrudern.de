@@ -3,9 +3,9 @@
 import csv
 import os
 import sys
-import dataclasses
 from dataclasses import dataclass
 from typing import NoReturn
+import functools as ft
 import locale
 #locale.setlocale(locale.LC_ALL, 'de_DE.UTF-8')
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
@@ -21,9 +21,10 @@ EQUATOR_LENGTH=40_077
 @dataclass
 class KmEntry:
     name: str
-    km: int
+    base_km: int
+    km: list[int]
     last_fulfilment_year: int
-    gold_medals: int
+    batches: int
 
 def append_files_from_dir(dir: str, file_list: list[str]):
     for path, _, files in os.walk(dir):
@@ -52,10 +53,23 @@ def main():
         append_file(file, entries)
 
     entries_list = list(entries.values())
-    entries_list.sort(key = lambda c: c.km)
+    entries_list.sort(key = lambda c: ft.reduce(lambda acc, ckm:
+                                                acc + ckm,
+                                                c.km,
+                                                c.base_km))
     entries_list.reverse()
+    entries_list = list(filter(person_is_eligible, entries_list))
+    print(f"Ignored: {cli_args['ignore_persons']}")
+    entries_list = list(filter(lambda c: c.name not in cli_args['ignore_persons'], entries_list))
 
     write_file(cli_args["output_file"], header, entries_list)
+
+def person_is_eligible(entry: KmEntry) -> bool:
+    if entry.batches >= 5: return True
+    if entry.base_km >= 4000: return True
+    for ckm in entry.km:
+        if ckm >= 4000: return True
+    return False
 
 def append_file(path: str, entries: dict[str, KmEntry]):
     year = int(os.path.basename(path).rsplit(".", 1)[0])
@@ -74,13 +88,11 @@ def append_file(path: str, entries: dict[str, KmEntry]):
 
             name = row[0]
             jahres_km = parse_bignum(row[1])
-            gold_gewonnen = parse_bool(row[2])
+            abzeichen = 1 if parse_bool(row[2]) else 0
 
-            if name not in entries:
-                entries[name] = KmEntry(name, 0, year, 0)
-
-            entries[name].km += jahres_km
-            entries[name].gold_medals += 1 if gold_gewonnen else 0
+            if name not in entries: entries[name] = KmEntry(name, 0, [], year, 0)
+            entries[name].km.append(jahres_km)
+            entries[name].batches += abzeichen
             entries[name].last_fulfilment_year = max(year, entries[name].last_fulfilment_year)
 
 
@@ -111,21 +123,21 @@ def read_basefile(path: str) -> tuple[list[str], dict[str, KmEntry]]:
             gold_medals = locale.atoi(row[3])
             #comment = row[5]
             if name in entries: print(f"[WARNING] name '{name}' is existing multiple times")
-            entries[name] = KmEntry(name, km, last_fulfilment_year, gold_medals)
+            entries[name] = KmEntry(name, km, [], last_fulfilment_year, gold_medals)
             #print(f"row {i}:", row[0])
     return (header, entries)
 
 def write_file(path: str, header: list[str], entries: list[KmEntry]):
-
     print(f"Writing output to file: '{path}'")
     with open(path, "w") as f:
         w = csv.writer(f, delimiter=";")
         # Header: Platz, Name, Gesamt-Kilometer, letzte Erfüllung, Gold, Äquator, Comment
         w.writerow(header)
         for i, entry in enumerate(entries):
-            eq_done = entry.km // EQUATOR_LENGTH
-            eq_km_left = EQUATOR_LENGTH - (entry.km % EQUATOR_LENGTH)
-            eq_perc = ((entry.km % EQUATOR_LENGTH) / EQUATOR_LENGTH) * 100
+            km = ft.reduce(lambda acc, c: acc + c, entry.km, entry.base_km)
+            eq_done = km // EQUATOR_LENGTH
+            eq_km_left = EQUATOR_LENGTH - (km % EQUATOR_LENGTH)
+            eq_perc = ((km % EQUATOR_LENGTH) / EQUATOR_LENGTH) * 100
 
             eq_done_str = f"{eq_done}"
             if eq_done == 0:
@@ -142,9 +154,9 @@ def write_file(path: str, header: list[str], entries: list[KmEntry]):
                     i+1,
                     entry.name,
                     #f"{entry.km:n}",
-                    format_bignum(entry.km),
+                    format_bignum(km),
                     entry.last_fulfilment_year,
-                    entry.gold_medals,
+                    entry.batches,
                     eq_done_str,
                     comment,
                 ]
@@ -180,6 +192,7 @@ OPTIONS:
  -b, --base-file                    Specify the base csv file, Separator: ';', Columns: 'Name', 'Kilometer', 'last fulfilment', 'gold medal count', 
  -d, --append-dir                   Specify directory where appending files lie, all have to be of the form '<year>.csv'
  -f, --force                        Ignore warnings
+ -i, --ignore-persons               Ignore person, specified, multiple invocations possible
 """)
         sys.exit(exit_code);
 
@@ -187,6 +200,7 @@ OPTIONS:
     base_file: str | None = None
     out_file: str | None = None
     append_dir: str | None = None
+    ignore_persons: list[str] = []
     files: list[str] = []
     i: int = 1
     while (i < len(args)):
@@ -210,6 +224,10 @@ OPTIONS:
             append_dir = args[i]
             if (not os.path.exists(append_dir)) or (not os.path.isdir(append_dir)):
                 print_help_and_exit(f"The given appending directory '{append_dir}' does not exist or is not a directory!")
+        elif args[i] == "-i" or args[i] == "--ignore-persons":
+            i += 1
+            if i >= len(args): print_help_and_exit("Expected a persons name")
+            ignore_persons.append(args[i])
         else:
             # Positionals
             files.append(args[i])
@@ -231,6 +249,7 @@ OPTIONS:
         "output_file": out_file,
         "files": files,
         "append_dir": append_dir,
+        "ignore_persons": ignore_persons,
     }
 
 
