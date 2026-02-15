@@ -193,11 +193,12 @@ Nutzung:
 
 CSV-Resourse als Tabelle formatieren
 
-optionaler `nohead`-Parameter: der grüne Kopf der Tabelle wird nicht gerendert (für Tabellen ohne Kopf)
+optionaler `head`-Parameter (default: true): false der grüne Kopf der Tabelle wird nicht gerendert (für Tabellen ohne Kopf)
+optionaler `delimiter`-Paramter (default: ';'): ändert das Zeichen, dass für die CSV-Dateien als Separator genutzt wird
 
 Nutzung:
 ```
-{{< csv-to-table "pfad/zur/datei.csv" "nohead" >}}
+{{< csv-to-table src="pfad/zur/datei.csv" head=false delimiter='|' >}}
 ```
 
 

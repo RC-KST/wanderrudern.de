@@ -3,7 +3,7 @@ title: Mitgliedschaft
 weight: 50
 ---
 
-{{< csv-to-table "preise.csv" >}}
+{{< csv-to-table src="preise.csv" >}}
 
 Zusätzlich erheben wir für die ersten drei Monate eine Aufnahmegebühr von jeweils einem Monatsbeitrag.
 

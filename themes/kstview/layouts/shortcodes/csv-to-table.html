@@ -1,25 +1,28 @@
 {{/*
     Show CSV-file as a table
 
-    `nohead` is optional
+    `head`, `delimiter` is optional
 
     Usage:
 
     ```
-    {{< csv-to-table "file" "nohead" >}}
+    {{< csv-to-table src="file" head=false delimiter='|' >}}
     ```
 */}}
 
-<div class="flex flex-col flex-nowrap items-center py-5">
+
 {{- $delimiter := ";"}}
 {{- $head := true}}
-{{- if and (.Get 1) (eq (.Get 1) "nohead") }}{{- $head := false}}{{- end }}
-{{- with $file := .Get 0 }}
+{{- with .Get "head" }}{{ $head := . }}{{- end }}
+{{- with .Get "delimiter" }}{{ $delimiter = . }}{{- end }}
+
+<div class="flex flex-col flex-nowrap items-center py-5">
+{{- with $src := .Get "src" }}
 
     {{- $resource := false }}
-    {{- $parent_resource := false }}{{with page.Parent}}{{$parent_resource = .Resources.Get $file}}{{end}}
+    {{- $parent_resource := false }}{{with page.Parent}}{{$parent_resource = .Resources.Get $src}}{{end}}
     {{- with or
-        ($.Page.Resources.Get $file)
+        ($.Page.Resources.Get $src)
         ($parent_resource)
     }}{{ $resource = . }}{{ end }}
 
@@ -47,7 +50,7 @@
         </table>
         {{- end }}
     {{- else }}
-        {{- errorf "The Shortcode %q could not find file %s. See %s" $.Name $file $.Position }}
+        {{- errorf "The Shortcode %q could not find file %s. See %s" $.Name $src $.Position }}
     {{- end }}
 {{- else }}{{ errorf "The %q Shortcode requires one positional argument (the path to the file)" .Name .Position }}{{ end }}
 </div>
