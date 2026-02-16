@@ -7,7 +7,7 @@ date: 2024
 {{% v 2 %}}
 
 ## Jugend: 11 - 12 Jahre
-Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
+Erfüllung mit mindestens 300km, eine dreitägige Wanderfahrt.
 | Name            | Kilometer | davon Wanderfahrtskilometer |
 |-----------------|-----------|-----------------------------|
 | Orquera, Joshua | 372km     | 92km                        |
@@ -15,7 +15,7 @@ Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Jugend: 13 - 14 Jahre
-Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
+Erfüllung mit mindestens 400km, eine dreitägige Wanderfahrt.
 | Name         | Kilometer | davon Wanderfahrtskilometer |
 |--------------|-----------|-----------------------------|
 | Fuchs, Rufus | 1056km    | 798km                       |
@@ -23,7 +23,7 @@ Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Jugend: 15 - 16 Jahre
-Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
+Erfüllung mit mindestens 700km, eine dreitägige Wanderfahrt.
 | Name              | Kilometer | davon Wanderfahrtskilometer |
 |-------------------|-----------|-----------------------------|
 | Fisch, Carlos     | 3640km    | 2390km                      |
@@ -32,7 +32,7 @@ Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Jugend: 17 - 18 Jahre
-Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
+Erfüllung mit mindestens 800km, eine dreitägige Wanderfahrt.
 | Name                 | Kilometer | davon Wanderfahrtskilometer |
 |----------------------|-----------|-----------------------------|
 | von Lehmann, Leopold | 1193km    | 857km                       |
@@ -41,7 +41,7 @@ Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Männlich: 19 - 60 Jahre
-Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
+Erfüllung mit mindestens 800km, davon 160 Wanderfahrtskilometer.
 | Name                    | Kilometer | davon Wanderfahrtskilometer |
 |-------------------------|-----------|-----------------------------|
 | Weber, Tom              | 5601km    | 2287km                      |
@@ -57,7 +57,7 @@ Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Weiblich: 19 - 60 Jahre
-Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
+Erfüllung mit mindestens 800km, davon 160 Wanderfahrtskilometer.
 | Name            | Kilometer | davon Wanderfahrtskilometer |
 |-----------------|-----------|-----------------------------|
 | Beilfuß, Nirina | 2066km    | 1452km                      |
@@ -69,7 +69,7 @@ Erfüllung mit mindestens 800km, davon 160km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Männlich: 61 - 75 Jahre
-Erfüllung mit mindestens 600km, davon 120km als Wanderfahrt.
+Erfüllung mit mindestens 600km, davon 120 Wanderfahrtskilometer.
 | Name            | Kilometer | davon Wanderfahrtskilometer |
 |-----------------|-----------|-----------------------------|
 | Beilfuß, Martin | 3562km    | 2236km                      |
@@ -81,7 +81,7 @@ Erfüllung mit mindestens 600km, davon 120km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Weiblich: 61 - 75 Jahre
-Erfüllung mit mindestens 600km, davon 120km als Wanderfahrt.
+Erfüllung mit mindestens 600km, davon 120 Wanderfahrtskilometer.
 | Name                | Kilometer | davon Wanderfahrtskilometer |
 |---------------------|-----------|-----------------------------|
 | Specht, Doris       | 3716km    | 2554km                      |
@@ -93,7 +93,7 @@ Erfüllung mit mindestens 600km, davon 120km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Männlich: ab 76 Jahre
-Erfüllung mit mindestens 500km, davon 100km als Wanderfahrt.
+Erfüllung mit mindestens 500km, davon 100 Wanderfahrtskilometer.
 | Name            | Kilometer | davon Wanderfahrtskilometer |
 |-----------------|-----------|-----------------------------|
 | Petri, Wolfgang | 724km     | 195km                       |
@@ -102,7 +102,7 @@ Erfüllung mit mindestens 500km, davon 100km als Wanderfahrt.
 {{% v 2 %}}
 
 ## Weiblich: ab 76 Jahre
-Erfüllung mit mindestens 500km, davon 100km als Wanderfahrt.
+Erfüllung mit mindestens 500km, davon 100 Wanderfahrtskilometer.
 | Name | Kilometer | davon Wanderfahrtskilometer |
 |------|-----------|-----------------------------|
 | -    | -         | -                           |

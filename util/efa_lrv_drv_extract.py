@@ -36,18 +36,19 @@ GROUPS_DRV_LIST = [
     "Männer 1c", "Frauen 2c",
 ]
 GROUPS_DRV = {
-    "Jugend 3b": { "min": 11, "max": 12, "min_km": 800, "min_trip_km": 160, "info": "Jugend" },
-    "Jugend 3c": { "min": 13, "max": 14, "min_km": 800, "min_trip_km": 160, "info": "Jugend" },
-    "Jugend 3d": { "min": 15, "max": 16, "min_km": 800, "min_trip_km": 160, "info": "Jugend" },
-    "Jugend 3e": { "min": 17, "max": 18, "min_km": 800, "min_trip_km": 160, "info": "Jugend" },
+    "Jugend 3a": { "min": 8, "max": 10, "min_km": 200, "min_trip_info": "eine dreitägige Wanderfahrt", "info": "Jugend" },
+    "Jugend 3b": { "min": 11, "max": 12, "min_km": 300, "min_trip_info": "eine dreitägige Wanderfahrt", "info": "Jugend" },
+    "Jugend 3c": { "min": 13, "max": 14, "min_km": 400, "min_trip_info": "eine dreitägige Wanderfahrt", "info": "Jugend" },
+    "Jugend 3d": { "min": 15, "max": 16, "min_km": 700, "min_trip_info": "eine dreitägige Wanderfahrt", "info": "Jugend" },
+    "Jugend 3e": { "min": 17, "max": 18, "min_km": 800, "min_trip_info": "eine dreitägige Wanderfahrt", "info": "Jugend" },
 
-    "Männer 1a": { "min": 19, "max": 60, "min_km": 800, "min_trip_km": 160, "info": "Männlich" },
-    "Männer 1b": { "min": 61, "max": 75, "min_km": 600, "min_trip_km": 120, "info": "Männlich" },
-    "Männer 1c": { "min": 76, "min_km": 500, "min_trip_km": 100, "info": "Männlich" },
+    "Männer 1a": { "min": 19, "max": 60, "min_km": 800, "min_trip_info": "davon 160 Wanderfahrtskilometer", "info": "Männlich" },
+    "Männer 1b": { "min": 61, "max": 75, "min_km": 600, "min_trip_info": "davon 120 Wanderfahrtskilometer", "info": "Männlich" },
+    "Männer 1c": { "min": 76, "min_km": 500, "min_trip_info": "davon 100 Wanderfahrtskilometer", "info": "Männlich" },
 
-    "Frauen 2a": { "min": 19, "max": 60, "min_km": 800, "min_trip_km": 160, "info": "Weiblich" },
-    "Frauen 2b": { "min": 61, "max": 75, "min_km": 600, "min_trip_km": 120, "info": "Weiblich" },
-    "Frauen 2c": { "min": 76, "min_km": 500, "min_trip_km": 100, "info": "Weiblich" },
+    "Frauen 2a": { "min": 19, "max": 60, "min_km": 800, "min_trip_info": "davon 160 Wanderfahrtskilometer", "info": "Weiblich" },
+    "Frauen 2b": { "min": 61, "max": 75, "min_km": 600, "min_trip_info": "davon 120 Wanderfahrtskilometer", "info": "Weiblich" },
+    "Frauen 2c": { "min": 76, "min_km": 500, "min_trip_info": "davon 100 Wanderfahrtskilometer", "info": "Weiblich" },
 }
 
 GROUPS_LRV_LIST = [ "M1", "W1", "M2", "W2", "M3", "W3", "M4", "W4", "M5", "W5", "M6", "W6", "M7", "W7" ]
@@ -175,8 +176,8 @@ date: {year}
         min_max_age = f"{GROUPS[cclass]['min']} - {GROUPS[cclass]['max']} Jahre" \
                 if "max" in GROUPS[cclass] else f"ab {GROUPS[cclass]['min']} Jahre"
         md += f"\n## {GROUPS[cclass]['info']}: {min_max_age}\n"
-        min_trip_km = f", davon {GROUPS[cclass]['min_trip_km']}km als Wanderfahrt" if "min_trip_km" in GROUPS[cclass] else ""
-        md += f"Erfüllung mit mindestens {GROUPS[cclass]['min_km']}km{min_trip_km}.\n"
+        min_trip_info = f", {GROUPS[cclass]['min_trip_info']}" if "min_trip_info" in GROUPS[cclass] else ""
+        md += f"Erfüllung mit mindestens {GROUPS[cclass]['min_km']}km{min_trip_info}.\n"
 
         # Table
         print(f"class {cclass}: {GROUPS[cclass]}")
