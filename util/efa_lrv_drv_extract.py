@@ -30,7 +30,7 @@ def trip_count_from_row(trips_row: list[str]) -> int:
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 
 GROUPS_DRV_LIST = [
-    "Jugend 3b", "Jugend 3c", "Jugend 3d", "Jugend 3e",
+    "Jugend 3a", "Jugend 3b", "Jugend 3c", "Jugend 3d", "Jugend 3e",
     "Männer 1a", "Frauen 2a",
     "Männer 1b", "Frauen 2b",
     "Männer 1c", "Frauen 2c",
