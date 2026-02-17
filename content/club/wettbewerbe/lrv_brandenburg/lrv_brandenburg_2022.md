@@ -106,7 +106,7 @@ In diesem Jahr gab es keine Erfüller dieser Kategorie
 | Platz | Name          | Kilometer |
 |-------|---------------|-----------|
 | 3     | Simone Pelzer | 1.940 km  |
-| 8     | Astrid Giese  | 1.093 km  |
+| 8     | A.G.          | 1.093 km  |
 
 {{% v 2 %}}
 

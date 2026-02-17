@@ -86,7 +86,7 @@ Erfüllung mit mindestens 600km, davon 120 Wanderfahrtskilometer.
 | Pietschmann, Silvia | 2318km    | 241km                       |
 | Gründel, Luise      | 2227km    | 529km                       |
 | Daun, Gundula       | 1196km    | 332km                       |
-| Giese, Astrid       | 1013km    | 180km                       |
+| A.G.                | 1013km    | 180km                       |
 
 {{% v 2 %}}
 

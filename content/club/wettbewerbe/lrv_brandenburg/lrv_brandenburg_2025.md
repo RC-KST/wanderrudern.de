@@ -123,5 +123,5 @@ In diesem Jahr gab es keine Erfüller dieser Kategorie
 | 9     | Silvia Pietschmann | 1622      |
 | 20    | Simone Pelzer      | 1063      |
 | 23    | Gundula Daun       | 919       |
-| 32    | Astrid Giese       | 724       |
+| 32    | A.G.               | 724       |
 

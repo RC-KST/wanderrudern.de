@@ -103,7 +103,7 @@ In diesem Jahr gab es keine Erfüller dieser Kategorie
 |-------|------------------|-----------|
 | 1     | Simone Pelzer    | 2.650 km  |
 | 6     | Marlies Schöpfel | 1.101 km  |
-| 17    | Astrid Giese     | 735 km    |
+| 17    | A.G.             | 735 km    |
 | 23    | Sonia Beilfuß    | 506 km    |
 
 {{% v 2 %}}
