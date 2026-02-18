@@ -13,19 +13,19 @@ In diesem Jahr gab es keine Erfüller dieser Kategorie
 
 ## Weiblich Alter 0 - 14 (Erfüllung: mindestens 500 km)
 
-| Platz | Name            | Kilometer |
-|-------|-----------------|-----------|
-| 1     | Sophie v. Fromm | 2015      |
-| 2     | Norina Keller   | 1292      |
+| Platz | Name   | Kilometer |
+|-------|--------|-----------|
+| 1     | Sophie | 2015      |
+| 2     | Norina | 1292      |
 
 {{% v 2 %}}
 
 ## Männlich Alter 15 - 18 (Erfüllung: mindestens 800 km)
 
-| Platz | Name            | Kilometer |
-|-------|-----------------|-----------|
-| 1     | Jens Schöpfel   | 2360      |
-| 11    | Matthias Wagner | 844       |
+| Platz | Name     | Kilometer |
+|-------|----------|-----------|
+| 1     | Jens     | 2360      |
+| 11    | Matthias | 844       |
 
 {{% v 2 %}}
 
@@ -43,18 +43,18 @@ In diesem Jahr gab es keine Erfüller dieser Kategorie
 
 ## Weiblich Alter 19 - 31 (Erfüllung: mindestens 800 km)
 
-| Platz | Name             | Kilometer |
-|-------|------------------|-----------|
-| 4     | Kathrin Schöpfel | 869       |
+| Platz | Name    | Kilometer |
+|-------|---------|-----------|
+| 4     | Kathrin | 869       |
 
 {{% v 2 %}}
 
 ## Männlich Alter 32 - 39 (Erfüllung: mindestens 700 km)
 
-| Platz | Name             | Kilometer |
-|-------|------------------|-----------|
-| 1     | Stefan Biastock  | 2468      |
-| 4     | Thomas Borkowsky | 1562      |
+| Platz | Name   | Kilometer |
+|-------|--------|-----------|
+| 1     | Stefan | 2468      |
+| 4     | Thomas | 1562      |
 
 {{% v 2 %}}
 

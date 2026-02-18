@@ -1,58 +1,58 @@
 Platz;Name;Gesamt-Kilometer;letzte Erfüllung;Gold;Äquator;
-1;Stefan Biastock;182.538;2025;37;4;fehlen 17.847 km
-2;Stefan Schulze;63.291;2019;11;1;fehlen 16.863 km
-3;Nirina Beilfuß;62.043;2025;18;1;fehlen 18.111 km
-4;Martin Beilfuß;61.743;2025;17;1;fehlen 18.411 km
-5;Tim Czemper;47.514;2025;16;1;fehlen 32.640 km
-6;Patrik Sassin;44.313;2021;15;1;fehlen 35.841 km
-7;Johanna Tesch;40.736;2023;13;1;fehlen 39.418 km
-8;Marlies Schöpfel;38.425;2021;16;95.9%;fehlen 1.652 km
-9;Paul Seydel;31.297;2025;16;78.1%;fehlen 8.780 km
-10;Doris Specht;28.776;2025;9;71.8%;fehlen 11.301 km
-11;Jochen Wagner;28.679;2025;16;71.6%;fehlen 11.398 km
-12;Florian Coesfeld;25.382;2025;13;63.3%;fehlen 14.695 km
-13;Jennifer Liang;25.247;2024;17;63.0%;fehlen 14.830 km
-14;Simone Pelzer;24.586;2025;11;61.3%;fehlen 15.491 km
-15;Uwe Riik;22.926;2016;9;57.2%;fehlen 17.151 km
-16;Lisa Liang;21.544;2024;14;53.8%;fehlen 18.533 km
-17;Sophie v. Fromm;19.484;2011;9;48.6%;
-18;Christian Grabert      +;17.890;2010;10;44.6%;
-19;Jens Schöpfel;17.807;2011;8;44.4%;
-20;Martina Jagsch;17.800;2004;6;44.4%;
-21;Elina Unruh;17.661;2024;8;44.1%;
-22;Bernd Giefer;17.172;2019;12;42.8%;
-23;Felix Burth;17.166;2024;12;42.8%;
-24;Moritz Hagemann;15.430;2011;6;38.5%;
-25;Timo Siempelkamp;14.919;2006;7;37.2%;
-26;Wolfgang Petri;14.687;2025;11;36.6%;
-27;Carlos Fisch;13.080;2025;6;32.6%;
-28;Ines Mann;12.917;2015;6;32.2%;
-29;Patrick Ziegler;12.380;2010;6;30.9%;
-30;Melina Weidlich;12.336;2022;4;30.8%;
-31;Sandro Genrich;11.890;2012;7;29.7%;
-32;Malte Mühlig;11.749;2009;5;29.3%;
-33;Hannes Lück;11.568;2018;7;28.9%;
-34;Johanna Frühlich;11.540;2022;5;28.8%;
-35;Devin Schirm;11.342;2022;11;28.3%;
-36;Niklas Sapora;11.239;2008;8;28.0%;
-37;Bettina Thun;11.165;2014;6;27.9%;
-38;Jonathan Beilfuß;10.970;2020;9;27.4%;
-39;Thomas Schmidt-Lehmann;10.728;2025;6;26.8%;
-40;Sonia Beilfuß;10.666;2024;11;26.6%;
-41;Katrin Schöpfel;9.861;2013;9;24.6%;
-42;Ralf Häberer;9.814;2025;5;24.5%;
-43;Christel v. Fromm;9.515;2018;9;23.7%;
-44;Claudia Kalisch;8.907;2017;7;22.2%;
-45;Philipp Häberer;8.746;2013;7;21.8%;
-46;Ulrich Schmidt;8.742;2025;9;21.8%;
-47;Isabel Giese;8.694;2022;5;21.7%;
-48;Stephan Baufeld;8.650;2007;3;21.6%;
-49;Cajus König;8.312;2021;3;20.7%;
-50;Silvia Pietschmann;8.231;2025;6;20.5%;
-51;Lutz v. Fromm;8.116;2012;7;20.3%;
-52;Levon Borrmann;7.237;2010;5;18.1%;
-53;Gundula Daun;6.791;2025;7;16.9%;
-54;Victor Kolck;6.164;2010;5;15.4%;
-55;Matthias Wagner;6.029;2012;5;15.0%;
-56;Malte Beversdorff;5.339;2011;5;13.3%;
-57;Jörg Schöpfel;5.197;2012;5;13.0%;
+1;Stefan B;182.538;2025;37;4;fehlen 17.847 km
+2;Stefan S;63.291;2019;11;1;fehlen 16.863 km
+3;Nirina;62.043;2025;18;1;fehlen 18.111 km
+4;Martin;61.743;2025;17;1;fehlen 18.411 km
+5;Tim;47.514;2025;16;1;fehlen 32.640 km
+6;Patrik;44.313;2021;15;1;fehlen 35.841 km
+7;Johanna T;40.736;2023;13;1;fehlen 39.418 km
+8;Marlies;38.425;2021;16;95.9%;fehlen 1.652 km
+9;Paul S;31.297;2025;16;78.1%;fehlen 8.780 km
+10;Doris;28.776;2025;9;71.8%;fehlen 11.301 km
+11;Jochen;28.679;2025;16;71.6%;fehlen 11.398 km
+12;Florian;25.382;2025;13;63.3%;fehlen 14.695 km
+13;Jennifer;25.247;2024;17;63.0%;fehlen 14.830 km
+14;Simone;24.586;2025;11;61.3%;fehlen 15.491 km
+15;Uwe;22.926;2016;9;57.2%;fehlen 17.151 km
+16;Lisa;21.544;2024;14;53.8%;fehlen 18.533 km
+17;Sophie;19.484;2011;9;48.6%;
+18;Christian;17.890;2010;10;44.6%;
+19;Jens;17.807;2011;8;44.4%;
+20;Martina;17.800;2004;6;44.4%;
+21;Elina;17.661;2024;8;44.1%;
+22;Bernd;17.172;2019;12;42.8%;
+23;Felix;17.166;2024;12;42.8%;
+24;Moritz;15.430;2011;6;38.5%;
+25;Timo Si;14.919;2006;7;37.2%;
+26;Wolfgang;14.687;2025;11;36.6%;
+27;Carlos;13.080;2025;6;32.6%;
+28;Ines;12.917;2015;6;32.2%;
+29;Patrick;12.380;2010;6;30.9%;
+30;Melina;12.336;2022;4;30.8%;
+31;Sandro;11.890;2012;7;29.7%;
+32;Malte M;11.749;2009;5;29.3%;
+33;Hannes;11.568;2018;7;28.9%;
+34;Johanna F;11.540;2022;5;28.8%;
+35;Devin;11.342;2022;11;28.3%;
+36;Niklas;11.239;2008;8;28.0%;
+37;Bettina;11.165;2014;6;27.9%;
+38;Jonathan;10.970;2020;9;27.4%;
+39;Thomas;10.728;2025;6;26.8%;
+40;Sonia;10.666;2024;11;26.6%;
+41;Katrin;9.861;2013;9;24.6%;
+42;Ralf;9.814;2025;5;24.5%;
+43;Christel;9.515;2018;9;23.7%;
+44;Claudia;8.907;2017;7;22.2%;
+45;Philipp;8.746;2013;7;21.8%;
+46;Ulrich;8.742;2025;9;21.8%;
+47;Isabel;8.694;2022;5;21.7%;
+48;Stephan;8.650;2007;3;21.6%;
+49;Cajus;8.312;2021;3;20.7%;
+50;Silvia;8.231;2025;6;20.5%;
+51;Lutz;8.116;2012;7;20.3%;
+52;Levon;7.237;2010;5;18.1%;
+53;Gundula;6.791;2025;7;16.9%;
+54;Victor;6.164;2010;5;15.4%;
+55;Matthias;6.029;2012;5;15.0%;
+56;Malte B;5.339;2011;5;13.3%;
+57;Jörg;5.197;2012;5;13.0%;
