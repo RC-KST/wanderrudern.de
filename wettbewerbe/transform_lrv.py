@@ -6,6 +6,7 @@ import functools as ft
 import csv
 import os
 import sys
+import arbitration
 
 #files = [
 #    ("./lrv_brandenburg_exp/Brandenburg_Kilometer_2004.csv", 2004),
@@ -69,38 +70,51 @@ def main():
             csvr = csv.reader(f, delimiter="|")
             header = next(csvr)
             print("header: ", header)
-            out_data = transform_data(header, csvr)
+            out_data = transform_data(header, list(csvr))
 
             md_out = write_data(year, header, out_data)
 
-            lrv_dir = os.path.join(SCRIPT_DIR, cli.output_directory)
-            try: os.mkdir(lrv_dir)
+            output_dir = os.path.join(SCRIPT_DIR, cli.output_directory)
+            try: os.mkdir(output_dir)
             except: pass
 
             print("====== md_out ======")
             print(md_out)
-
-            with open(os.path.join( lrv_dir, 
+            with open(os.path.join( output_dir, 
                 f"lrv_brandenburg_{year}.md"), "w") as f:
                 f.write(md_out)
             
 
 
         
-def transform_data(header: list[str], input: Iterable[list[str]]) -> dict[str, list[list[str]]]:
+def transform_data(header: list[str], input_rows: list[list[str]]) -> dict[str, list[list[str]]]:
     assert(header[ID_PLATZ].lower() == "platz")
     assert(header[ID_NAME].lower() == "name")
     assert(header[ID_KM].lower() == "kilometer")
     assert(header[ID_GROUP].lower() == "gruppe")
 
+    input_rows = list(filter(lambda c: c[0] != '', input_rows))
+
+
+    # Name anonymization
+    names: list[tuple[str, str]] = []
+    for row in input_rows:
+        splitted = row[ID_NAME].split(' ', 1)
+        print("splitted:", splitted)
+        names.append((splitted[0], splitted[1]))
+    arb_state = arbitration.ArbitrationState(iter(names))
+    arb_state.compute_shorthands()
+    for i, name_row in enumerate(iter(names)):
+        input_rows[i][ID_NAME] = arb_state.lookup(name_row)
+
+    # Build groups by classification
     data: dict[str, list[list[str]]] = {}
-    for key in GROUPS.keys():
-        data[key] = []
+    for key in GROUPS.keys(): data[key] = []
 
     header = header[0:4]
     print(f"\theader: {header}")
-    for row in input:
-        if row[0] == '': break
+    for row in input_rows:
+        #if row[0] == '': break
         row = row[0:4]
 
         #print(f"Group {row[ID_GROUP]}")
@@ -127,18 +141,18 @@ date: {year}
 """
     for group in GROUPS_LIST:
         assert(group in GROUPS)
-        cd = data[group]
+        rows = data[group]
         place_space = ft.reduce(
                 lambda acc, c: max(acc, len(c)),
-                map(lambda c: c[ID_PLATZ], cd),
+                map(lambda c: c[ID_PLATZ], rows),
                 len(header[ID_PLATZ]))
         name_space = ft.reduce(
                 lambda acc, c: max(acc, len(c)),
-                map(lambda c: c[ID_NAME], cd),
+                map(lambda c: c[ID_NAME], rows),
                 len(header[ID_NAME]))
         km_space = ft.reduce(
                 lambda acc, c: max(acc, len(c)),
-                map(lambda c: c[ID_KM], cd),
+                map(lambda c: c[ID_KM], rows),
                 len(header[ID_KM]))
 
 
@@ -166,7 +180,7 @@ date: {year}
         km_fmt = format_space(header[ID_KM], km_space)
         md += f"| {place_fmt} | {name_fmt} | {km_fmt} |\n"
         md += f"|{'-' * (place_space + 2)}|{'-' * (name_space + 2)}|{'-' * (km_space + 2)}|\n"
-        for row in cd:
+        for row in rows:
             place_fmt = format_space(row[ID_PLATZ], place_space)
             name_fmt = format_space(row[ID_NAME], name_space)
             km_fmt = format_space(row[ID_KM], km_space)
