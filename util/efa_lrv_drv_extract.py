@@ -6,6 +6,7 @@ from dataclasses import dataclass
 import csv
 import os
 import sys
+import arbitration
 
 C_CLASS = 0
 C_CLASS_TXT = 1
@@ -88,7 +89,7 @@ def main():
             for person in persons: classes[person.rclass].append(person)
 
             for person in persons:
-                print(f"item: {person.name} ({person.km}km, class_info: {person.rclass_info})")
+                print(f"item: '{person.first_name}' '{person.last_name}' ({person.km}km, class_info: {person.rclass_info})")
                 for trip in person.trips:
                     print(f"\t{trip}")
 
@@ -121,9 +122,8 @@ def write_csv(
     persons.reverse()
 
     for person in persons:
-        name = " ".join(reversed(list(map(lambda c: c.strip(), person.name.split(',', 1)))))
         #print(f"name: '{name}'")
-        rows.append([name, person.km, "false"])
+        rows.append([" ".join((person.first_name, person.last_name)), person.km, "false"])
 
     return rows
 
@@ -158,7 +158,7 @@ date: {year}
         name_heading = "Name"
         name_space = ft.reduce(
                 lambda acc, c: max(acc, len(c)),
-                map(lambda c: c.name, class_persons[cclass]),
+                map(lambda c: c.short_name, class_persons[cclass]),
                 len(name_heading))
         km_heading = "Kilometer"
         km_space = ft.reduce(
@@ -187,7 +187,7 @@ date: {year}
         md += f"| {name_fmt} | {km_fmt} | {trip_km_fmt} |\n"
         md += f"|{'-' * (name_space + 2)}|{'-' * (km_space + 2)}|{'-' * (trip_km_space + 2)}|\n"
         for person in class_persons[cclass]:
-            name_fmt = format_space(person.name, name_space)
+            name_fmt = format_space(person.short_name, name_space)
             km_fmt = format_space(person.km_str, km_space)
             trip_km_fmt = format_space(person.trips_km_str , trip_km_space)
             md += f"| {name_fmt} | {km_fmt} | {trip_km_fmt} |\n"
@@ -206,14 +206,14 @@ def format_space(v: str, length: int) -> str:
 
 def parse_csv(r) -> list[Person]:
     name_line: list[str] | None = next(r, None)
-    entries: list[Person] = []
+    persons: list[Person] = []
     while name_line is not None:
         if name_line[0] == "": panic("Malformed efa format, expected class information in first column")
 
         rclass = name_line[C_CLASS]
         rclass_info = name_line[C_CLASS]
         prereq = name_line[C_PREREQ]
-        name = name_line[C_NAME]
+        last_name, first_name = map(lambda c: c.strip(), name_line[C_NAME].split(","))
         birth = name_line[C_BIRTH_YEAR]
         _ = birth
         km = int(name_line[C_KM])
@@ -242,8 +242,10 @@ def parse_csv(r) -> list[Person]:
                     ))
 
         trips_km = ft.reduce(lambda acc, c: acc + c, map(lambda c: c.km, trips_list))
-        entries.append(Person(
-            name = name,
+        persons.append(Person(
+            first_name = first_name,
+            last_name = last_name,
+            short_name = "",
             km = km,
             km_str = f"{km}km",
             rclass_info = rclass_info,
@@ -253,11 +255,19 @@ def parse_csv(r) -> list[Person]:
             trips_km_str = f"{trips_km}km",
         ))
 
-    return entries
+    anon_state = arbitration.ArbitrationState(map(lambda c: (c.first_name, c.last_name), persons))
+    anon_state.compute_shorthands()
+    for i in range(len(persons)):
+        persons[i].short_name = anon_state.lookup((persons[i].first_name, persons[i].last_name))
+    print("persons:", list(map(lambda c: c.short_name, persons)))
+
+    return persons
 
 @dataclass
 class Person:
-    name: str
+    first_name: str
+    last_name: str
+    short_name: str
     km: int
     km_str: str
     rclass_info: str

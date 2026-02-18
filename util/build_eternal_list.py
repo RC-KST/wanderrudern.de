@@ -7,6 +7,8 @@ from dataclasses import dataclass
 from typing import NoReturn
 import functools as ft
 import locale
+import arbitration
+
 #locale.setlocale(locale.LC_ALL, 'de_DE.UTF-8')
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
@@ -61,6 +63,14 @@ def main():
     entries_list = list(filter(person_is_eligible, entries_list))
     print(f"Ignored: {cli_args['ignore_persons']}")
     entries_list = list(filter(lambda c: c.name not in cli_args['ignore_persons'], entries_list))
+
+    # Arbitration
+    names = list(arbitration.split_names(map(lambda key: entries[key].name, entries)))
+    arb_stat = arbitration.ArbitrationState(iter(names))
+    arb_stat.compute_shorthands()
+    for _, entry_key in enumerate(entries):
+        splitted = entry_key.split(' ', 1)
+        entries[entry_key].name = arb_stat.lookup((splitted[0], splitted[1]))
 
     write_file(cli_args["output_file"], header, entries_list)
 
