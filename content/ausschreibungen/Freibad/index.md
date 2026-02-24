@@ -14,6 +14,7 @@ Da wollen wir natürlich mit Booten und Ruderergometern dabei sein.
 
 Wir brauchen daher jede Menge Ruderer, die bei dieser Werbeveranstaltung mit machen.
 Es soll in den Becken probe gerudert werden, außerdem werden wir einen Werbestand mit Ergometern aufbauen.
+Das Fest geht von 9-19 Uhr, zum Aufbauen sollten wir 2 Stunden vorher da sein.
 
 Für alle die nach den Tagen der offenen Tür ihre Arbeitsstunden immer noch nicht voll haben, der Werbeeinsatz zählt als Arbeitsstunden.
 
