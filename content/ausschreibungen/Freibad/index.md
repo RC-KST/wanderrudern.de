@@ -17,4 +17,4 @@ Wir brauchen daher jede Menge Ruderer, die bei dieser Werbeveranstaltung mit mac
 
 Für alle die nach den Tagen der offenen Tür ihre Arbeitsstunden immer noch nicht voll haben, der Werbeeinsatz zählt als Arbeitsstunden.
 
-![Glienicker Brücke](./images/Glienicker_Bruecke_Feuerwerk_2025.jpg)
+![Schwimmbecken Kiebitzberge](./images/Freibad-Kiebitzberge-50-m-Sportbecken-scaled.jpg)
