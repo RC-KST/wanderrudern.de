@@ -12,7 +12,7 @@ images:
 
 ## Frühjahrs- Aufräumen auf dem Grundstück
 
-![Bastei](./images/bastei2024.jpg)
+![Arbeitseinsatz](./images/Arbeitseinsatz-Januar2024-Hangbefestigung.jpg)
 
 - Laub von den Dächern und aus den Rinnen und von den übrigen Bodenflächen holen
 
