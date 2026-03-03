@@ -4,8 +4,6 @@ author: "Stefan"
 begin: "2026-03-14"
 title: Arbeitseinsatz März 2026
 images:
-- src: "images/100_0627.jpg"
-  title: Barke auf der Elbe
 ---
 
 # 14. März 2026 von 10 - 15 Uhr
