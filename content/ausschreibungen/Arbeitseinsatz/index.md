@@ -24,5 +24,4 @@ images:
 
 # Zur Verpflegung der fleissigen Helfer wird der Grill angeworfen. Es dürfen gerne ein paar selbstgemachte Salate mitgebracht werden.
 
-
 ## Achtung der nächste Arbeitseinsatz ist am 18. April, eine Woche vor den Tagen der offenen Tür.
