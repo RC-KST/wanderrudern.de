@@ -1,15 +1,9 @@
 ---
-draft: false
-title: Elbe Marathon 2026
-#author: "Stefan"
-begin: 2026-02-27
-end: 2026-03-02
-date: 2026-03-04
-gewässer:
-- elbe
-länder:
-- deutschland
-typen: wanderfahrt
+author: "Stefan"
+begin: "2025-07-07"
+date: "2025-07-07T01:00:00+02:00"
+gewässer: 
+- griebnitzsee
 images:
 - src: images/E-Vierer-Start-in-Meissen.jpeg
   title: Ablegen Meissen E-Vierer mit Steuermann
@@ -37,7 +31,17 @@ images:
   title: Ruderer in Coswig am Ziel
 - src: images/Dreier-Coswig.jpg
   title: C-Dreier Ruderboot in Coswig
-  ---
+länder: 
+- deutschland
+title: Einer Ruderkurs
+typen: veranstaltung
+---
+
+
+
+
+
+
 
 
 ![Sieger](images/Sieger11-steden2025.jpg)
