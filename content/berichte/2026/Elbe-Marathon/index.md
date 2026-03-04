@@ -9,23 +9,23 @@ images:
   title: Ablegen Meissen E-Vierer mit Steuermann
 - src: images/Meissen-Start.jpeg
   title: Start in Meißen
-- src: images/Meissen-Abendessen.jpg
+- src: images/Meissen-Abendessen.jpeg
   title: Abendessen in Meissen
 - src: images/Rest-Elbsandstein.jpeg
   title: Berge an der Elbe
-- src: images/Albrechtsburg-von-der-Elbe.jpg
+- src: images/Albrechtsburg-von-der-Elbe.jpeg
   title: Albrechtsburg Meißen
 - src: images/Timo-Simone-Elbe.jpeg
   title: Zweier auf der Elbe
-- src: images/Uferbild-Elbe.jpg
+- src: images/Uferbild-Elbe.jpeg
   title: Ufer der Elbe
-- src: images/Torgau-Burg.jpeg
+- src: images/Torgau-Burg.jpg
   title: Torgau auf der Burg
-- src: images/Gruenkohlessen-Torgau.jpg
+- src: images/Gruenkohlessen-Torgau.jpeg
   title: Grünkohlessen Torgau
-- src: images/Ablegen-Torgau.jpeg
+- src: images/Ablegen-Torgau.jpg
   title: Start in Torgau
-- src: images/C3x-Elbe.jpg
+- src: images/C3x-Elbe.jpeg
   title: C3x- Ruderboot auf der Elbe
 - src: images/Coswig-am-Ziel.jpeg
   title: Ruderer in Coswig am Ziel
@@ -44,4 +44,4 @@ typen: wanderfahrt
 
 
 
-![Sieger](images/Sieger11-steden2025.jpg)
+![Albrechtsburg in Meißen](images/Albrechtsburg-von-der-Elbe.jpeg)
