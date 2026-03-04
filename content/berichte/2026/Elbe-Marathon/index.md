@@ -1,9 +1,9 @@
 ---
 author: "Stefan"
-begin: "2025-07-07"
-date: "2025-07-07T01:00:00+02:00"
+begin: "2026-02-28"
+date: "2026-03-04"
 gewässer: 
-- griebnitzsee
+- elbe
 images:
 - src: images/E-Vierer-Start-in-Meissen.jpeg
   title: Ablegen Meissen E-Vierer mit Steuermann
