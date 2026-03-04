@@ -33,8 +33,8 @@ images:
   title: C-Dreier Ruderboot in Coswig
 länder: 
 - deutschland
-title: Einer Ruderkurs
-typen: veranstaltung
+title: Elbe-Marathon 2026
+typen: wanderfahrt
 ---
 
 
