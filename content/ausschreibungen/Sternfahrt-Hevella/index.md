@@ -15,7 +15,7 @@ Hier machen wir eine länger Pause, treffen uns mit anderen Ruderern und stärke
 Die Strecke beträgt 2 x 21 km.
 Damit ist das eine gute Trainingstrecke für alle, die dieses Jahr vielleicht auch mal Wanderfahrten mitmachen wollen.
 
-Oder auch als gutes Training für die Ruderer die auf der EUREGA Anfang Mai starte wollen.
+Oder auch als gutes Training für die Ruderer, die auf der EUREGA Anfang Mai starten wollen.
 
 Oder für alle die das Kuchenbüffet bei Hevella genießen wollen.
 
