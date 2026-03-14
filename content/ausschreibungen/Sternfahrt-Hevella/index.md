@@ -10,7 +10,7 @@ images:
 ## Samstag 28. März 2026
 
 Wir starten am Samstag früh um 10 Uhr und rudern zur Rudererparty nach Spandau.
-Hier machen wir eine länger Pause, treffen us mit anderen Ruderern und stärken uns für den Rückweg.
+Hier machen wir eine länger Pause, treffen uns mit anderen Ruderern und stärken uns für den Rückweg.
 
 Die Strecke beträgt 2 x 21 km.
 Damit ist das eine gute Trainingstrecke für alle, die dieses Jahr vielleicht auch mal Wanderfahrten mitmachen wollen.
