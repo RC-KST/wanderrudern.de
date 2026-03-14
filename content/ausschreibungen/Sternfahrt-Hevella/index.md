@@ -9,8 +9,6 @@ images:
 
 ## Samstag 28. März 2026
 
-![Sternfahrt Hevella](./images/Hevella-Sternfahrt.jpg)
-
 Wir starten am Samstag früh um 10 Uhr und rudern zur Rudererparty nach Spandau.
 Hier machen wir eine länger Pause, treffen us mit den anderen Ruderern und stärken uns für den Rückweg.
 
@@ -20,3 +18,5 @@ Oder auch als gutes Training für die Ruderer die auf der EUREGA Anfang Mai star
 Oder für alle die das Kuchenbüffet bei Hevella genießen wollen.
 
 Bitte meldet euch bei Luise an.
+
+![Sternfahrt Hevella](./images/Hevella-Sternfahrt.jpg)
