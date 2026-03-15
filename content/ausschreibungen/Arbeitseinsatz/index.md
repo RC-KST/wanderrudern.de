@@ -20,5 +20,7 @@ Zur Verpflegung der fleissigen Helfer wird der Grill angeworfen. Es dürfen gern
 
 ## Achtung am folgenden Wochenende finden die Tage der offenen Tür statt.
 Dafür werden alle Helfer benötigt. Wir müssen nicht nur den Gästen das Rudern in den Booten und auf dem Ruderergometer nahe bringen, sondern die Gäste müssen auch verpflegt werden.
-Verkauf von Grillgut, Salaten, Kuchen, Getränken, Waffeln. Wer noch weitere Ideen hat, kann sich gerne melden.
+Verkauf von Grillgut, Salaten, Kuchen, Getränken, Waffeln.
+
+Wer noch weitere Ideen hat, kann sich gerne melden.
 Es wäre schön, wenn Kuchen- und Salatspenden mitgebracht werden.
