@@ -5,7 +5,7 @@ begin: "2026-05-01"
 title: Baumblüte in Werder
 images:
 ---
-# Am ersten Mai zur Bäumblüte nach Werder rudern
+# Am ersten Mai zur Baumblüte nach Werder rudern
 
 ## wer möchte, kann auch nur eine Teilstrecke rudern
 
