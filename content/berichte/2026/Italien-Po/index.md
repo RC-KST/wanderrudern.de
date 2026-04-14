@@ -60,9 +60,61 @@ images:
   title: Selbstgemachtes Frühstück in der Villa Anconetta
 - src: images/Kuechendienst.jpg
   title: Ruderer schnippeln für das Abendessen
-  
-
-länder: 
+- src: images/Ponton-Bruecke-Po-di-Maestra.jpg
+  title: Ponton Brücke auf dem Po-di-Maestra leicht durchfahrbar
+- src: images/Ponton-Bruecke-Sile-Ruderboot.jpg
+  title: Ponton Brücke der Sile nicht so leicht passierbar
+- src: images/Quarto-d-Altino-Anlegerstelle-Ruderboote.jpg
+  title: Anlegerstelle in Quarto d´Alino
+- src: images/Rialto-Bruecke-Ruderboot.jpg
+  title: Ruderboot vor der Rialto Brücke
+- src: images/Ruderboot-Bruecke-Po.jpg
+  title: Ruderboot auf dem Po  
+- src: images/Ruderboot-Canale-Grande.jpg
+  title: Ruderboot auf dem Canale Grande
+- src: images/Ruderboot-Markusplatz.jpg
+  title: Ruderboot vor dem Markusplatz in Venedig
+- src: images/Ruderboot-Ponton-Bruecke.jpg
+  title: Mit flach legen unter der Ponton Brücke auf dem Po di Maestra
+- src: images/Ruderboot-Adri.jpg
+  title: Ruderboot auf der Adria
+- src: images/Ruderboot-Adria-Downtown.jpg
+  title: Ruderboot im Stadtzentrum von Adria
+- src: images/Ruderboote-Venedig.jpg
+  title: Ruderboote in Venedig
+- src: images/Ruderboote-auf-der-Sandbank.jpg
+  title: Ruderboote auf der Sandbank 
+- src: images/Ruderboote-strand-Adria.jpg
+  title: Ruderer Pause am Strand der Adria
+- src: images/Ruderer-Canale-Bianco.jpg
+  title: Ruderer am Canale Bianco 
+- src: images/Ruderer-Chioggia.jpg
+  title: Ruderer in Chioggia  
+- src: images/Schlamm-im-Stemmbrett.jpg
+  title: Verschlammte Rudererbeine im Stemmbrett
+- src: images/Schlamm.jpg
+  title: Uferschlamm am Po
+- src: images/Schlammschlacht-Ruderboote-Po.jpg
+  title: Durch den Schlamm zu den Booten
+- src: images/Schwarze-Schwaene-Po-Delta.jpg
+  title: Schwarze Schwäne im Po-Delta
+- src: images/Sile-Muendung-Adria.jpg
+  title: Über die Sile die Adria erreicht      
+- src: images/Steuerfrau-Ruderboot-Po.jpg
+  title: Steuerfrau auf dem Po
+- src: images/Ticino-Start-Pavia.jpg
+  title: Start der Ruderboote in Pavia auf dem Ticino
+- src: images/Timo-auf-der-Planke.jpg
+  title: Nicht ganz legaler Zugang zum Steg
+- src: images/Vierer-Ruderboot-Po.jpg
+  title: Vierer Ruderboot auf dem Po
+- src: images/Villa-Anconetta.jpg
+  title: Prunkvolles Quartier am Canale Bianco
+- src: images/Vogel-Lagune-Venedig.jpg
+  title: Seltsamer Vogel in der Lagune von Venedig
+- src: images/Werft-Po-di-Levante.jpg
+  title: Fährschiff im Bau am Po di Levante              
+ länder: 
 - italien
 title: Po von Pavia nach Venedig
 typen: wanderfahrt
