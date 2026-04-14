@@ -42,8 +42,25 @@ images:
   title: Ruderboot auf dem Po di Maestre
 - src: images/E-Zweier-vor-Venedig.jpg
   title: Ruderboot Zweier vor der Kulisse von Venedig
-
-
+- src: images/Einfahrt-Canale-Grande-Ruderboot.jpg
+  title: Ruderboot bei der Einfahrt nach Venedig
+- src: images/Einsteigen-Ruderboot.jpg
+  title: Einstieg ins Ruderboot
+- src: images/Eisdiele-Adria.jpg
+  title: Ruderer plündern die Eisdiele in Adria
+- src: images/Endpunkt-Jesolo.jpg
+  title: Endpunkt der Wanderfahrt am Strand von Jesolo
+- src: images/Es-gibt-Pizza-Italien2026.jpg
+  title: Häufiges Abendessen Pizza
+- src: images/Fahrrinne-Venedig.jpg
+  title: Ruderboot vor der Hauptfahrrinne zur Lagune von Venedig
+- src: images/Flamingo-Lagune.png
+  title: Wir haben auch Flamingos gesehen
+- src: images/Fruehstueck-Villa-Anconetta.jpg
+  title: Selbstgemachtes Frühstück in der Villa Anconetta
+- src: images/Kuechendienst.jpg
+  title: Ruderer schnippeln für das Abendessen
+  
 
 länder: 
 - italien
