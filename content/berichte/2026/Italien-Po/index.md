@@ -65,7 +65,7 @@ images:
 - src: images/Ponton-Bruecke-Sile-Ruderboot.jpg
   title: Ponton Brücke der Sile nicht so leicht passierbar
 - src: images/Quarto-d-Altino-Anlegerstelle-Ruderboote.jpg
-  title: Anlegerstelle in Quarto d´Alino
+  title: Anlegerstelle in Quarto d Alino
 - src: images/Rialto-Bruecke-Ruderboot.jpg
   title: Ruderboot vor der Rialto Brücke
 - src: images/Ruderboot-Bruecke-Po.jpg
