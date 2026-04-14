@@ -21,4 +21,4 @@ typen: wanderfahrt
 
 
 
-![Albrechtsburg in Meißen](images/Albrechtsburg-von-der-Elbe.jpeg)
+![Ruderboot vor dem Markusplatz in Venedig](images/Ruderboot-Markusplatz.jpg)
