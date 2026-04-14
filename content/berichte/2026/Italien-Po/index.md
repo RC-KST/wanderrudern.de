@@ -113,8 +113,9 @@ images:
 - src: images/Vogel-Lagune-Venedig.jpg
   title: Seltsamer Vogel in der Lagune von Venedig
 - src: images/Werft-Po-di-Levante.jpg
-  title: Fährschiff im Bau am Po di Levante              
- länder: 
+  title: Fährschiff im Bau am Po di Levante
+             
+länder: 
 - italien
 title: Po von Pavia nach Venedig
 typen: wanderfahrt
@@ -122,6 +123,7 @@ typen: wanderfahrt
 
 # Osterwanderfahrt durch Italien
 
+## Über den Ticino, den Po, die Lagune von Venedig, die Sile bis zur Adria
 
 
 ![Ruderboot vor dem Markusplatz in Venedig](images/Ruderboot-Markusplatz.jpg)
