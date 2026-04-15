@@ -111,7 +111,7 @@ images:
 - src: images/Villa-Anconetta.jpg
   title: Prunkvolles Quartier am Canale Bianco
 - src: images/Vogel-Lagune-Venedig.jpg
-  title: Seltsamer Vogel in der Lagune von Venedig
+  title: Ibis in der Lagune von Venedig
 - src: images/Werft-Po-di-Levante.jpg
   title: Fährschiff im Bau am Po di Levante
              
