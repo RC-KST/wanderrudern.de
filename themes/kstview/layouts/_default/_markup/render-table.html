@@ -1,7 +1,7 @@
 <table class="min-w-80 border border-gray-200"
   {{- range $k, $v := .Attributes }}
     {{- if $v }}
-      {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+      {{- printf " %s=%q" $k $v | safe.HTMLAttr }}
     {{- end }}
   {{- end }}>
   <thead class="text-white">
@@ -10,7 +10,7 @@
         {{- range . }}
           <th class="py-2 px-3"
             {{- with .Alignment }}
-              {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+              {{- printf " style=%q" (printf "text-align: %s" .) | safe.HTMLAttr }}
             {{- end -}}
           >
             {{- .Text -}}
@@ -25,7 +25,7 @@
         {{- range . }}
           <td class="py-2 px-3 text-start border border-gray-300"
             {{- with .Alignment }}
-              {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+              {{- printf " style=%q" (printf "text-align: %s" .) | safe.HTMLAttr }}
             {{- end -}}
           >
             {{- .Text -}}

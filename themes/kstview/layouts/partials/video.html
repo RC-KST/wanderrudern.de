@@ -6,6 +6,12 @@
 {{- with .with_controls }}{{ $with_controls = . }}{{ end }}
 {{- $muted := true }}
 {{- with .muted }}{{ $muted = . }}{{ end }}
+{{- $fullwidth := false }}
+{{- with .FullWidth }}{{ $fullwidth = . }}{{ end }}
+{{- $title := "" }}
+{{- with .Title }}{{ $title = . }}{{ end }}
+{{- $plaintext := "This video is not supported by your browser" }}
+{{- with .PlainText }}{{ $plaintext = . }}{{ end }}
 
 
 {{- $resource := page.Resources.Get .Destination }}
@@ -16,19 +22,19 @@
 
 <figure class="mx-3 flex flex-col items-center">
     <video
-        class="max-w-full h-auto max-h-96"
+            class="max-w-full h-auto {{ if $fullwidth }}{{ else }}max-h-96{{ end }}"
         {{ if $with_controls }}controls{{ end }}
         {{ if $muted }}muted{{ end }}
         controlsList="nodownload"
         oncontextmenu="return false;"
         preload="{{ $preload }}">
         <source src="{{ $resource.Permalink }}" type="{{ $resource.MediaType }}"/>
-        This video is not supported by your browser
+        {{ $plaintext | safe.HTML }}
     </video>
 
-    {{- with .Title }}
+    {{- with $title }}
     <div class="flex flex-col items-center mb-3">
-      <figcaption>{{ . }}</figcaption>
+      <figcaption>{{ . | safe.HTML }}</figcaption>
     </div>
     {{- end }}
 </figure>

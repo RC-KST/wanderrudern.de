@@ -1,19 +1,19 @@
 {{/*
-    Embed a video
+    Embed an image with more options
 
     'title', 'plaintext' and 'small' attributes are optional
 
     Usage:
 
     ```
-    {{< video src="url" title="title" small="true" plaintext="This video shows a bear" >}}
+    {{< image src="url" title="title" small="true" plaintext="This video shows a bear" >}}
     ```
 */}}
 
 {{- $src := .Get "src" }}
 {{- $title := .Get "title" }}
 {{- $plaintext := .Get "plaintext" }}
-{{- $small := false }}
+{{- $small := true }}
 {{- with .Get "small" }}
     {{- if eq . "false"}}
         {{- $small = false }}
@@ -23,7 +23,7 @@
         {{- else }} {{ errorf "small has to be one of 'true' or 'false', but was '%q'" . }} {{- end }}
     {{- end }}
 {{- end }}
-{{- partial "video" (dict
+{{- partial "image" (dict
     "Destination" $src
     "Title" $title
     "FullWidth" (not $small)

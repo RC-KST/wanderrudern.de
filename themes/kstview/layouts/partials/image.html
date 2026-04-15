@@ -2,12 +2,23 @@
 {{- if and (not $resource) page.CurrentSection }}
     {{- $resource = page.CurrentSection.Resources.Get .Destination }}
 {{ end }}
+{{- $plaintext := "" }}
+{{- with .PlainText }}{{ $plaintext = . }}{{ end }}
+{{- $title := "" }}
+{{- with .Title }}{{ $title = . }}{{ end }}
+{{- $destination := "" }}
+{{- with .Destination }}{{ $destination = . }}{{ end }}
+{{- $attributes := (slice ) }} 
+{{- with .Attributes }}{{ $attributes = . }}{{ end }}
+{{- $fullwidth := false }}
+{{- with .FullWidth }}{{ $fullwidth = . }}{{ end }}
+
 
 {{- $src := "" }}
 {{- if $resource }}
     {{- $src = $resource.Permalink }}
 {{- else }}
-    {{- $u := urls.Parse .Destination -}}
+    {{- $u := urls.Parse $destination -}}
     {{- $src = $u.String -}}
     {{- if not $u.IsAbs -}}
       {{- $path := strings.TrimPrefix "./" $u.Path -}}
@@ -23,16 +34,16 @@
     {{- end -}}
 {{- end }}
 <figure class="mx-3 flex flex-col items-center">
-    <img src="{{ $src }}" class="my-3 max-w-full h-auto max-h-96"
-      {{- with .PlainText }} alt="{{ . }}" {{- end -}}
-      {{- with .Title }} title="{{ . }}" {{- end -}}
-      {{- range $k, $v := .Attributes -}}
+    <img src="{{ $src }}" class="my-3 max-w-full h-auto {{ if $fullwidth }}{{ else }}max-h-96{{ end }}"
+      {{- with $plaintext }} alt="{{ . }}" {{- end -}}
+      {{- with $title }}{{ printf "title=%q" . | safe.HTMLAttr }}{{- end -}}
+      {{- range $k, $v := $attributes -}}
         {{- if $v -}}
-          {{- printf " %s=%q" $k ($v | transform.HTMLEscape) | safeHTMLAttr -}}
+          {{- printf " %s=%q" $k ($v | transform.HTMLEscape) | safe.HTMLAttr -}}
         {{- end -}}
       {{- end -}}
     >
-    {{- with .Title }}
+    {{- with $title }}
     <div class="flex flex-col items-center mb-3">
       <figcaption>{{ . }}</figcaption>
     </div>
