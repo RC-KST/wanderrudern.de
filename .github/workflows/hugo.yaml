@@ -34,7 +34,7 @@ jobs:
     environment:
       name: wanderrudern.de
     env:
-      HUGO_VERSION: 0.152.2
+      HUGO_VERSION: 0.160.0
     steps:
       - name: workspace
         run: echo ${GITHUB_WORKSPACE}
@@ -52,12 +52,12 @@ jobs:
           #- name: Install pnpm
           #  run: "curl -fsSL https://get.pnpm.io/install.sh | sh - && source ~/.bashrc && pnpm --version"
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: recursive
           lfs: true
       - name: Cache node modules
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             node_modules
@@ -65,7 +65,7 @@ jobs:
           restore-keys: |
             node_modules-
       - name: Cache resources and buildstate
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             resources
@@ -162,7 +162,7 @@ jobs:
           sudo apt-get install -y lftp python3
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: recursive
 
@@ -171,7 +171,7 @@ jobs:
 
       - name: Restore cache hashfile
         if: "${{ ! contains(github.event.head_commit.message, '[full]') }}"
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: util_hashing/hashes.chk
           key: hashes-${{ hashfiles('**') }}
@@ -185,7 +185,7 @@ jobs:
       #    path: ./util_hashing/
           
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: site-output-artifact
           path: public
