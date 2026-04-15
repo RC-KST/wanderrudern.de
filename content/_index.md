@@ -36,6 +36,31 @@ title: Home
 {{% /col %}}
 {{< /column-layout >}}
 
+{{< separator >}}
+{{< column-layout >}}
+    {{< col >}}
+        {{< image src="./images/Tag-der-offenen-Tuer.png" small="false" plaintext="Tag der offenenen Tür" >}}
+    {{< /col >}}
+    {{% col %}}
+**Neugierig aufs Rudern?**
+
+Dann besuchen Sie unseren Tag der offenen Tür beim Ruderclub Kleinmachnow-Stahnsdorf-Teltow an der Schleuse Kleinmachnow.
+
+Probieren Sie aus, wie es ist, in einem echten Sport-Ruderboot zu sitzen, ganz egal, ob Sie zum ersten Mal einsteigen oder eine frühere Leidenschaft wieder aufleben lassen möchten.
+
+Vielleicht ist genau jetzt der richtige Moment, Ihren neuen Lieblingssport (neu) zu entdecken.
+
+- 📆 25. & 26. April 2026
+- 🕚 11:00–18:00 Uhr
+- 📍 Bäkepromenade 1, 14532 Stahnsdorf
+
+Wir freuen uns auf Ihren Besuch!
+    {{% /col %}}
+
+
+{{< /column-layout >}}
+{{< separator >}}
+
 {{< column-layout >}}
     {{< col >}}
         {{% v 2 %}}
