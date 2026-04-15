@@ -125,5 +125,19 @@ typen: wanderfahrt
 
 ## Über den Ticino, den Po, die Lagune von Venedig, die Sile bis zur Adria
 
+Da Ostern dieses Jahr bereits recht früh lag, entschieden wir uns für eine Wanderfahrt im hoffentlich sonnigen Süden. 
+Das stimmte schon mal Tagestemperaturen zwischen 18 und 24 Grad und zwei Wochen lang nicht ein Tropfen Regen.
+
+Der Anhängertransport reiste mit einem Zwischenstop beim Ulmer Ruderclub nach Pavia an. Die restliche Teilnehmer trudelten im Laufe des Samstag Abend mit Zug und Flugzeug in unserer einfachen Pension in Pavia ein.
+Die Pizzeria in fußläufiger Entfernungen kannten wir noch vom letzten Mal. Preiswert, gut und ausreichende Portionen.
+
+Am nächsten Morgen setzten wir am Steg des Universitätsrudervereins die Boote in den Ticino. 
+Sandbänke und Treibgut, welches sich an Untiefen und den Brückenpfeilern festgesetzt hatte, erforderte volle Konzentration der Steuerleute. Gerade in der Stadtdurchfahrt durch Pavia sollte man nicht träumen.
+Danach wurde das navigieren etwas leichter, aber der Wasserstand war ungewöhnlich niedrig. Die Steuerleute waren gefordert.
+Nach 10 km mündete der Ticino in den Po, der führte allerdings auch nicht viel Wasser und die Strömung liess nach.
+Die Ufer waren recht hoch, aber am Horizont waren immer wieder Berge zu bewundern, so dass die Strecke interessant war.
+
+
+
 
 ![Ruderboot vor dem Markusplatz in Venedig](images/Ruderboot-Markusplatz.jpg)
