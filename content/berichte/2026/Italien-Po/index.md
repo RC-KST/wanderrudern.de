@@ -144,6 +144,19 @@ Der zweite Rudertag führte wieder durch absolute Einsamkeit nach Cremona. Nach 
 Nachdem wir rund 15m nach unten geschleust waren, ging es den erstaunlicherweise strömenden Schleusenkanal abwärts. Nach einige Kilometern erreichten wir wieder den Fluss. Mit dem Neubau der Schleuse hatte sich wohl die Kilometrierung des Po verschoben, so dass wir erst nach 41 Kilometern Cremona erreichten.
 Unser Quartier (Vita Residence) war in einem Vorort auf dem Steuerbordufer, so dass wir von Cremona nicht viel zu sehen bekamen. Die Appartements waren gut ausgestattet, so dass wir selbst kochen konnten. Die Umgebung ist allerdings etwas runter gekommen, ein Supermarkt oder eine Eisdiel waren zumindest zu Fuß nicht erreichbar, Fußgänger sind hier wohl nicht vorgesehen.
 
+Weiter ging es bei viel Sonnenschein aber heute nur 14 Grad, dieses Mal allerdings mit etwas Gegenwind. Unterwegs waren ab und zu mal Häuser und ganz vereinzelt mal ein paar Ortschaften zu sehen, aber trotzdem hatten wir den Fluß für uns alleine.
+Der Landdienst hatte nach 65 Kilometern eine gewaltige Sandbank, direkt unterhalb des Hotels gefunden. Schön zum Anlegen direkt hinter der Brücke. Die Sandbank war fester Sand, der Aufstieg zum ein paar Meter höher gelegenen Ufer dagegen war schlammig und stellte für einige Ruderer eine ziemliche Herausforderung dar.
+Die Albergo del Po war ein modernes Hotel mit schönen Zimmer, tolle Lage direkt am Stadtrand. Das Abendessen war OK, wenn auch die Portionen etwas größer hätten sein können. Aber von einer Trattoria del Pesce (Fisch) hätte man vielleicht auch Fisch auf der Karte erwartet.
+Dafür genossen wir den Luxus der Zimmer.
+
+Heute fehlte glücklicherweise der Gegenwind, aber bei weiter 14 Grad war mußte der Steuerman einen Pullover anziehen.
+Anzeichen von Zivilisation am Ufer waren selten. 
+Der Versuch nach 52 km möglichst nah an unsere Pension Polirone heran zu kommen führte uns in einen Altarm (bitte nicht von oben einfahren, wenn man kein Hochwasser hat). Wir ruderten den Altarm etwa 700m aufwärts, hier gab es festes Ufer und keinen Schlamm beim Anlegen. Der Ort war weitere zwei Kilometer landeinwärts.
+Die Pension war in einem historischen Haus, nett ausgestattete Zimmer, sogar mit Küche. Wenn wir das gewußt hätten, wäre auch selbst kochen möglich gewesen. 
+Der Landdienst hatte in einer preiswerten, aber sehr guten Pizzeria reserviert.
+Wichtigstes Detail war jedoch die Weinhandlung direkt gegenüber der Pension. Vernünftigerweise deckten wir uns für die nächsten Tage ein.
+
+
 
 
 
