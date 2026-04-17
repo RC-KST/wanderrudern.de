@@ -234,6 +234,9 @@ Zum Schluß ging es raus auf die Adria und noch 3 km südwärts nach Cavallino-T
 
 ____________________________________________________________________________________________________________________________________________________________
 ## Für Nachahmer:
-Wir hatten extremes Glück mit dem Wetter, kaum Wind, keinen Regen. Sowohl die Lagune, als auch die Adria sind Meeresgewässer. C-Boote, insbesondere ohne Abdeckungen haben auf solchen Strecken nichts verloren. Nehmt E- oder D-Boote.
+Wir hatten extremes Glück mit dem Wetter, kaum Wind, keinen Regen. Sowohl die Lagune, als auch die Adria sind Meeresgewässer. 
+C-Boote, insbesondere ohne Abdeckungen haben auf solchen Strecken nichts verloren. Nehmt E- oder D-Boote.
+
 Es ist schon schwierig genug Hotels in halbwegs sinvollen Abständen zu finden. Die Herausforderung vor Ort ist, die Boote aus dem Wasser zu bekommen. Der Landdienst muss erfahren sein und die Mannschaft leidensfähig genug durch Wasser und Schlamm zu laufen.
+
 Erfreulicherweise sind die italienischen Frühstücke besser geworden. Es gibt jetzt meist ein Frühstück, das man auch als Ruderer ausreichend findet.
