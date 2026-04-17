@@ -202,6 +202,8 @@ Leider war danach der Weg zum Hotel wesentlich weiter, als geplant, da ein paar 
 Das Grand Hotel als Quartier hatten wir nicht aus Snobismus gebucht, sondern dank eines Sondertarif war es preiswerter als unser etwas grusliges Quartier vom letzten Mal. Auch wenn wir nur die "einfachen" ganz oben hatten, war das noch immer purer Luxus.
 Für das Abendessen hatte der Landdienst dann auch eine nahe gelegene Pizzeria reserviert. Erstaunlicherweise dieselbe wie beim letzten Mal, obwohl Martin das erste Mal dabei war und unabhängig dieselbe gewählt hatte.
 
+![Ruderboot vor dem Markusplatz in Venedig](images/Ruderboot-Markusplatz.jpg)
+
 Nächstes Ziel Venedig. Dafür ging es zunächst auf der Lagune entlang der langgestreckten Insel Pellestrina und Lido 25 km nordwärts. Beim Überqueren der zwei Zufahrten zur Lagune musste man hier etwas aufpassen, wenn Verkehr zum oder vom Meer quer kommt. Die Zufahrt zwischen den Inseln ist die Hauptverbindung zu den Häfen von Venedig.
 Schließlich bogen wir Richtung Venedig ab und reihten uns in den Verkehr des Canale Grande ein.
 Das ist natürlich eigentlich nicht erlaubt, aber wenn man einen guten Steuermann hat und eine Mannschaft die gut reagiert und nicht Back- und Steuerbord verwechselt, geht das. Da wir ersten gegen 15 Uhr ankamen war auch der Verkehr von UPS, DPD und sonstigen Transportern schon recht gering. Diese Boote stellen das größte Risiko dar, da sie vollkommen rücksichtslos, teilweise selbstmörderisch fahren. Vaporettos sind dagegen extrem rücksichtsvoll. Taxis sind etwas wild, können aber gut manövrieren. Gondeln sind öfter im Weg, aber da sie langsam sind, kann man sie umrunden.
@@ -217,9 +219,22 @@ Der Kanal hat daher keine Flußströmung, nur die Flut schob uns etwas aufwärts
 Zunächst hat der Kanal nur leicht befestigte Ufer. Je weiter man nach Norden kommt desto mehr rudert man entlang stärker befestigter Ufer mit Sumpfwiesen und halb abgetrennten Lagunen neben einem. Schließlich erreicht man das Festland, die Ufer werden höher es wachsen Büsche und schließlich Bäume am Ufer.
 Bei Portegrandi erreicht man eine Schleuse. Da ein Motorboot auch schleusen wollte, kamen wir dieses Mal problemlos durch.
 Hier trifft man auf den richtigen Fluß, den wir gegen die mittlere Strömung aufwärts rudern mussten, um zu unserem Hotel in Quarto d´Altino zu kommen.
+Landdienst Simone hatte glücklicherweise die einzige mögliche Anlegestelle im Ort gefunden, so dass wir unsere Boote auf einer Uferwiese lagern konnten. Ruderstrecke 34 km.
+Das Hotel war nur wenige Meter entfernt und unterwegs lag sogar noch die örtliche Eisdiele.
+Die Zimmer waren recht eng, aber für Ruderer reichte es. Gegenüber lag ein Supermarkt und die Pizzeria für das Abendessen war auch nicht weit.
+
+Der letzte Rudertag ging es die Sile flussabwärts bis zur Mündung in Jesolo. Eine längere Strecke mit etwas Strömung flussabwärts. Als besondere Schikane war unterwegs mal wiedr eine Ponton Brücke, die sich nicht so leicht passieren liess. In der Mitte waren irgendwelche Stahlträger sehr unschön montiert, aber nahe am Ufer kam man durch. Da wir mit der Strömung fuhren, ruderten wir rückwärts auf die Brücke zu, damit man im Notfall den Durchfahrversuch abbrechen kann. Alle Boote kamen gut durch.
+Zum Schluß ging es raus auf die Adria und noch 3 km südwärts nach Cavallino-Treporti. Die Boote wurden aufgeladen und wir quartierten uns in unser Hotel ein. Eine Pizzeria war auch nah dran.
+
+
+
+Für Nachahmer:
+Wir hatten extremes Glück mit dem Wetter, kaum Wind, keinen Regen. Sowohl die Lagune, als auch die Adria sind Meeresgewässer. C-Boote, insbesondere ohne Abdeckungen haben auf solchen Strecken nichts verloren. Nehmt E- oder D-Boote.
+Es ist schon schwierig genug Hotels in halbwegs sinvollen Abständen zu finden. Die Herausforderung vor Ort ist, die Boote aus dem Wasser zu bekommen. Der Landdienst muss erfahren sein und die Mannschaft leidensfähig genug durch Wasser und Schlamm zu laufen.
+Erfreulicherweise sind die italienischen Frühstücke besser geworden. Es gibt jetzt meist ein Frühstück, das man auch als Ruderer ausreichend findet.
 
 
 
 
 
-![Ruderboot vor dem Markusplatz in Venedig](images/Ruderboot-Markusplatz.jpg)
+
