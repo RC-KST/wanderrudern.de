@@ -177,7 +177,7 @@ Zwei Kilometer nach den Ablegen zweigt vom Hauptarm der Po die Maistra ab. Ein s
 Zum Anfang liegen nur auf Backbord einige Lagunen neben dem Kanal, nach der Pontonbrücke hat man an beiden Ufern abgetrennte Lagunen und schließlich erreicht man die Adria.
 Da wir zunächst noch ablaufenden Wasser hatten, ging es zügig vorwärts.
 Auf der Adria ging es entlang einer langgestreckten Insel 6 km nordwärts zur Mündung des Po di Levante.
-Notfalls hätte man die Strecke auch über eine sehr flache Lagune hinter der Insel umgehen können, aber da es praktisch windstill war, gönnten wir uns die Küste.
+Notfalls hätte man die Strecke auch über eine sehr flache Lagune hinter der Insel umgehen können, aber da es praktisch windstill und 24 Grad warm war, gönnten wir uns die Küste.
 Nun ruderten wir den Po die Levante aufwärts, einen mittelgroßen Flußarm, der eigentlich vom stömenden Po durch eine Schleuse abgetrennt ist. Leider hatte inzwischen die Ebbe eingesetzt, so dass wir uns doch ziemlich gegen die Tide aufwärts quälen mussten.
 Vorbei an der Werft von Porto Viro mit einer großen, fast fertigen Fähre erreichte wir nach 49 Kilometern den Canal Bianco. 
 Hier dirigierte uns der Landdienst zu einem Steg am Hauptarm. Unser Hotel lag an einem, durch ein Wehr abgetrennten Nebenarm.
@@ -188,6 +188,16 @@ Am nächsten Tag machten wir nur eine Tagestour nach Adria. Da waren wir doch sc
 Dafür ging es den Canale Bianco aufwärts, eine ausgebaute Schifffahrtstraße, nicht sonderlich reizvoll. Ursprünglich ging dieser Kanal durch die Orte, die Neubaustrecke umgeht die Ortskerne. Wir bogen oberhalb von Adria in den alten Kanal ab. Hier ist die strecke wunderschön man rudert direkt in den Ortskern. Hier machten wir eine längere Pause in einer Eisdiele und einem Cafe.
 Leider scheiterte die komplette Durchfahrt an einer zu flachen Brücke im Ortszentrum, so dass wir wieder die obere Einfahrt nutzen mussten. Nach 31 Kilometern erreichten wir wieder unser Quartier in der Villa Anconetta.
 
+Nun sollte es aber endlich in Richtung Lagune von Venedig gehen. Wir folgten dem Canal Po Brondolo. Dieser Kanal läuft paralell zur Küste etwa 5-10 km landeinwärts. Er ist nicht wirklich interessant und sehr gerade.
+Nach etwa 10 km erreicht man die quer zum Kanal fließende Etsch. Theoretisch, wenn man durch die davor liegende Schleuse kommt. Wir beim letzten Mal ist eine Telefonnummer angegeben, an die niemand rangeht. Da die Schleuse auf Fernbedienung umgestellt ist, findet man auch keinen Schleusenwart. 
+Wir hatten Glück im Gegenverkeht kam ein Frachtschiff aus der Schleuse und wir drängelten uns danach agressiv in die Schleusenkammer. Die Kameras hatten uns auf jeden Fall erfasst. Die schon schließende Schleuse öffnete sich wieder. Allerdings schaltete die Ampel nicht auf grün. Nach einigem Überlegen fuhren wir bei roter Ampel ein (wen interessiere in Italien schon rote Ampeln.....) und wurden geschleust.
+Eigentlich hätten wir hinter der Etsch in der Fortsetzung des Kanals wieder aufwärts geschleust werden müssen, aber der VL bog in die Etsch flussabwärts ein. Mit den Worten so einen Mist tue ich mir nicht noch mal an. Nach 12 km Etsch erreichten wir die Adria.
+Weitere drei Kilometer nordwärts, vorbei an der Mündung der Brenta, gönnten wir uns erst mal eine längere Strandpause.
+Man hätte von hier über die Brenta unser Ziel Chioggia erreichen können, aber da es praktisch windstill war und die südliche Einfahrt durch hässliche Industriegebiete geht, entschlossen wir uns für die nördliche Einfahrt nach Chioggia.
+Nach 5 km nordwärts ging es in die Lagune hinein. Hier herrscht reger Verkehr mit großen Fischerbooten und entsprechender Wellengang, aber die Einfahrt ist breit und die E-Boote vertragen Wellen, so dass wir gut durchkamen.
+Unser Landdienst verzweifelte währenddessen an der Suche nach eine Anlegestelle. Wir hatten es schriftlich, dass wir unsere Boote beim Circolo Nautico Chioggia lagern dürften. Leider waren die "Wassersportler" vor Ort anderer Meinung. Martin hatte einen anderen Yachtclub gefunden, wor wir nach schweren Bedenken unsere Boote für 50 Euro pro Boot lagern dürften. 
+Allerdings hatten die Ruderboote im Fischereihafen eine Sliprampe gefunden bei der man die Boote kostenlos herausnehmen und in einer verwilderten Grünanlage lageren konnten.
+Nachteil an der Rampe rauschten ständig die Schiffe vorbei, mit entsprechenden Wellenschlag. Ein paar Schuhe waren danach naß, aber alle Leute und die Boote blieben unbeschädigt.
 
 
 
