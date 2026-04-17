@@ -166,6 +166,24 @@ Die Tide war beim Rudern noch kaum zu merken, aber beim Anlanden. Die heftigste 
 Unser Quartier (Locanda la petite Maison) lag im Ortszentrum an einer gut befahrenen Durchgangsstraße. Westliche Seite der Straße die Gaststätte, östliche Seite die Zimmer. Alle Zimmer schön, aber teilweise noch nicht ganz fertig restauriert.
 Dafür gab es ein sehr gutes Abendessen (meist Pizza) und ein hervorragendes Frühstück
 
+Nach der morgendlichen Schlammschlacht ging es weiter ins Delta hinein. Leider hatten wir heute direkten Gegenwind, nur 1-2 Windstärken aber gegen die Flußströmung bauten sich leichte Wellen von maximal 20cm auf. Für unsere gedeckten E-Boote natürlich kein Problem, aber einige Teilnehmer waren überrascht. 
+Es ging vorbei an der Schleuse von Porto Viro (Kanal nach Venedig), da wir zunächst weiter ins Delta wollten.
+Da die Strecke nach Porto Tolle nur 22 km waren kamen wir bereits früh an. 
+Der Landdienst hatte einen Steg des Schiffahrtsamts ausgesucht. Die Landbrücke (mit Geländer) war nicht ans Ufer gelegt, aber die WSA Leute hatten einen stabilen U-Träger zum Ufer gelegt. Wie auf einem Piratenschiff gingen also alle Ruderer über die Planke.
+Unser Hotel war recht vornehm und das Abendessen entsprechend teuer, aber sehr gut. Und es gab jetzt auch wirklich Fisch auf der Karte.
+
+Der VL war bereits bei Sonnenaufgang mit dem Auto unterwegs, um zu kontrollieren, ob die Pontonbrücke über den Po di Maistra überhaupt passierbar wäre. Zum Frühstück kam die erlösende Meldung, ja es geht, zieht die Köpfe ein.
+Zwei Kilometer nach den Ablegen zweigt vom Hauptarm der Po die Maistra ab. Ein sehr schmaler Flußarm, breit genug zum rudern, aber nicht viel mehr. 
+Zum Anfang liegen nur auf Backbord einige Lagunen neben dem Kanal, nach der Pontonbrücke hat man an beiden Ufern abgetrennte Lagunen und schließlich erreicht man die Adria.
+Da wir zunächst noch ablaufenden Wasser hatten, ging es zügig vorwärts.
+Auf der Adria ging es entlang einer langgestreckten Insel 6 km nordwärts zur Mündung des Po di Levante.
+Notfalls hätte man die Strecke auch über eine sehr flache Lagune hinter der Insel umgehen können, aber da es praktisch windstill war, gönnten wir uns die Küste.
+Nun ruderten wir den Po die Levante aufwärts, einen mittelgroßen Flußarm, der eigentlich vom stömenden Po durch eine Schleuse abgetrennt ist. Leider hatte inzwischen die Ebbe eingesetzt, so dass wir uns doch ziemlich gegen die Tide aufwärts quälen mussten.
+Vorbei an der Werft von Porto Viro mit einer großen, fast fertigen Fähre erreichte wir nach 49 Kilometern den Canal Bianco. 
+Hier dirigierte uns der Landdienst zu einem Steg am Hauptarm. Unser Hotel lag an einem, durch ein Wehr abgetrennten Nebenarm.
+Die Villa Anconetta ist ein herrschaftlicher Landsitz mit großer Parkanlage. Wir hatten etliche Appartements im Nebengebäude. Sehr schöne Zimmer mit Küche, so dass wir selbst kochen konnten. Essen gehen wäre hier auch schwierig geworden, die Villa liegt weit außerhalb des Ortes.
+Gleichzeit wurde im Haupthaus und im Garten ein Kindergeburtstag mit 70 Gäste gefeiert. Ansage des VL an die kleinen und großen Ruderer: keiner geht auf die Hüpfburg und erschreckt die Kinder.
+
 
 
 
