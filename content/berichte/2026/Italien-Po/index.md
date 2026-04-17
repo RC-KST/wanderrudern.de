@@ -198,7 +198,9 @@ Nach 5 km nordwärts ging es in die Lagune hinein. Hier herrscht reger Verkehr m
 Unser Landdienst verzweifelte währenddessen an der Suche nach eine Anlegestelle. Wir hatten es schriftlich, dass wir unsere Boote beim Circolo Nautico Chioggia lagern dürften. Leider waren die "Wassersportler" vor Ort anderer Meinung. Martin hatte einen anderen Yachtclub gefunden, wor wir nach schweren Bedenken unsere Boote für 50 Euro pro Boot lagern dürften. 
 Allerdings hatten die Ruderboote im Fischereihafen eine Sliprampe gefunden bei der man die Boote kostenlos herausnehmen und in einer verwilderten Grünanlage lageren konnten.
 Nachteil an der Rampe rauschten ständig die Schiffe vorbei, mit entsprechenden Wellenschlag. Ein paar Schuhe waren danach naß, aber alle Leute und die Boote blieben unbeschädigt.
-
+Leider war danach der Weg zum Hotel wesentlich weiter, als geplant, da ein paar Kanäle ohne Brücken im Weg waren, schwimmen wäre schneller gegangen. So mussten wir erst weit nach Süden, über die einzige Brücke und dann wieder nach Norden zum Grand Hotel laufen.
+Das Grand Hotel als Quartier hatten wir nicht aus Snobismus gebucht, sondern dank eines Sondertarif war es preiswerter als unser etwas grusliges Quartier vom letzten Mal. Auch wenn wir nur die "einfachen" ganz oben hatten, war das noch immer purer Luxus.
+Für das Abendessen hatte der Landdienst dann auch eine nahe gelegene Pizzeria reserviert. Erstaunlicherweise dieselbe wie beim letzten Mal, obwohl Martin das erste Mal dabei war und unabhängig dieselbe gewählt hatte.
 
 
 
