@@ -189,21 +189,34 @@ Dafür ging es den Canale Bianco aufwärts, eine ausgebaute Schifffahrtstraße, 
 Leider scheiterte die komplette Durchfahrt an einer zu flachen Brücke im Ortszentrum, so dass wir wieder die obere Einfahrt nutzen mussten. Nach 31 Kilometern erreichten wir wieder unser Quartier in der Villa Anconetta.
 
 Nun sollte es aber endlich in Richtung Lagune von Venedig gehen. Wir folgten dem Canal Po Brondolo. Dieser Kanal läuft paralell zur Küste etwa 5-10 km landeinwärts. Er ist nicht wirklich interessant und sehr gerade.
-Nach etwa 10 km erreicht man die quer zum Kanal fließende Etsch. Theoretisch, wenn man durch die davor liegende Schleuse kommt. Wir beim letzten Mal ist eine Telefonnummer angegeben, an die niemand rangeht. Da die Schleuse auf Fernbedienung umgestellt ist, findet man auch keinen Schleusenwart. 
-Wir hatten Glück im Gegenverkeht kam ein Frachtschiff aus der Schleuse und wir drängelten uns danach agressiv in die Schleusenkammer. Die Kameras hatten uns auf jeden Fall erfasst. Die schon schließende Schleuse öffnete sich wieder. Allerdings schaltete die Ampel nicht auf grün. Nach einigem Überlegen fuhren wir bei roter Ampel ein (wen interessiere in Italien schon rote Ampeln.....) und wurden geschleust.
+Nach etwa 10 km erreicht man die quer zum Kanal fließende Etsch. Theoretisch, wenn man durch die davor liegende Schleuse kommt. Wie beim letzten Mal ist eine Telefonnummer angegeben, an die niemand rangeht. Da die Schleuse auf Fernbedienung umgestellt ist, findet man auch keinen Schleusenwart. 
+Wir hatten Glück im Gegenverkehr kam ein Frachtschiff aus der Schleuse und wir drängelten uns danach agressiv in die Schleusenkammer. Die Kameras hatten uns auf jeden Fall erfasst. Die schon schließende Schleuse öffnete sich wieder. Allerdings schaltete die Ampel nicht auf grün. Nach einigem Überlegen fuhren wir bei roter Ampel ein (wen interessieren in Italien schon rote Ampeln.....) und wurden geschleust.
 Eigentlich hätten wir hinter der Etsch in der Fortsetzung des Kanals wieder aufwärts geschleust werden müssen, aber der VL bog in die Etsch flussabwärts ein. Mit den Worten so einen Mist tue ich mir nicht noch mal an. Nach 12 km Etsch erreichten wir die Adria.
 Weitere drei Kilometer nordwärts, vorbei an der Mündung der Brenta, gönnten wir uns erst mal eine längere Strandpause.
 Man hätte von hier über die Brenta unser Ziel Chioggia erreichen können, aber da es praktisch windstill war und die südliche Einfahrt durch hässliche Industriegebiete geht, entschlossen wir uns für die nördliche Einfahrt nach Chioggia.
 Nach 5 km nordwärts ging es in die Lagune hinein. Hier herrscht reger Verkehr mit großen Fischerbooten und entsprechender Wellengang, aber die Einfahrt ist breit und die E-Boote vertragen Wellen, so dass wir gut durchkamen.
 Unser Landdienst verzweifelte währenddessen an der Suche nach eine Anlegestelle. Wir hatten es schriftlich, dass wir unsere Boote beim Circolo Nautico Chioggia lagern dürften. Leider waren die "Wassersportler" vor Ort anderer Meinung. Martin hatte einen anderen Yachtclub gefunden, wor wir nach schweren Bedenken unsere Boote für 50 Euro pro Boot lagern dürften. 
 Allerdings hatten die Ruderboote im Fischereihafen eine Sliprampe gefunden bei der man die Boote kostenlos herausnehmen und in einer verwilderten Grünanlage lageren konnten.
-Nachteil an der Rampe rauschten ständig die Schiffe vorbei, mit entsprechenden Wellenschlag. Ein paar Schuhe waren danach naß, aber alle Leute und die Boote blieben unbeschädigt.
+Nachteil an der Rampe rauschten ständig die Schiffe vorbei, mit entsprechenden Wellenschlag. Ein paar Schuhe waren danach naß, aber alle Leute und die Boote blieben unbeschädigt. Ruderstrecke 36 km und Neuwasser für WaWa und Stefan.
 Leider war danach der Weg zum Hotel wesentlich weiter, als geplant, da ein paar Kanäle ohne Brücken im Weg waren, schwimmen wäre schneller gegangen. So mussten wir erst weit nach Süden, über die einzige Brücke und dann wieder nach Norden zum Grand Hotel laufen.
 Das Grand Hotel als Quartier hatten wir nicht aus Snobismus gebucht, sondern dank eines Sondertarif war es preiswerter als unser etwas grusliges Quartier vom letzten Mal. Auch wenn wir nur die "einfachen" ganz oben hatten, war das noch immer purer Luxus.
 Für das Abendessen hatte der Landdienst dann auch eine nahe gelegene Pizzeria reserviert. Erstaunlicherweise dieselbe wie beim letzten Mal, obwohl Martin das erste Mal dabei war und unabhängig dieselbe gewählt hatte.
 
+Nächstes Ziel Venedig. Dafür ging es zunächst auf der Lagune entlang der langgestreckten Insel Pellestrina und Lido 25 km nordwärts. Beim Überqueren der zwei Zufahrten zur Lagune musste man hier etwas aufpassen, wenn Verkehr zum oder vom Meer quer kommt. Die Zufahrt zwischen den Inseln ist die Hauptverbindung zu den Häfen von Venedig.
+Schließlich bogen wir Richtung Venedig ab und reihten uns in den Verkehr des Canale Grande ein.
+Das ist natürlich eigentlich nicht erlaubt, aber wenn man einen guten Steuermann hat und eine Mannschaft die gut reagiert und nicht Back- und Steuerbord verwechselt, geht das. Da wir ersten gegen 15 Uhr ankamen war auch der Verkehr von UPS, DPD und sonstigen Transportern schon recht gering. Diese Boote stellen das größte Risiko dar, da sie vollkommen rücksichtslos, teilweise selbstmörderisch fahren. Vaporettos sind dagegen extrem rücksichtsvoll. Taxis sind etwas wild, können aber gut manövrieren. Gondeln sind öfter im Weg, aber da sie langsam sind, kann man sie umrunden.
+Es versteht sich von selbst, dass man keinen Berufsverkehr behindert!
+Alle Boote kamen gut durch die Rialto Brücke, das letzte Boot wurde dahinter leider von der Polizei in einen Nebenkanal verwiesen, aber sonst ging alles gut.
+Für Nachahmer: auf keine Fall den Canale Grande bis zum Bahnhof rudern, da ist man wirklich ein Verkehrshindernis, biegt vor in den Canal Cannaregio ab. Unter der Treporti Brücke extrem aufpassen, der Gegenverkehr ist schwer zu sehen. Berufsschifffahrt hat hier natürlich auch Vorfahrt!
+Nach der Durchfahrt folgten wir noch 3,5 km der Brücke nach Venedig und legten beim Ruderclub im Mestre an. 
+Nachdem wir noch ein paar Dokumente unterzeichnet hatten, durften wir unsere Boote hier lagern (wir hatten uns natürlich vorher angemeldet).Ruderstrecke 36 km
+Unsere Hütten auf dem Campingplatz Venezia war nur 2 km entfernt. Die Hütten waren ein wenig eng, aber die Terassen waren groß, so dass wir zum Abendessen draußen sitzen konnten.
 
-
+Am nächsten Morgen ging es die Lagune weiter nach Norden. Zunächst noch auf bekannten Routen, vorbei an Murano, Burano und Torcello. Nun bogen wir aber von der offenen Lagune  in den Fluss Sile ab. Eigentlich ist das ein Kanal, weil Mündung der Sile nach außerhalb der Lagune verlegt ist, damit das Geschiebe des Flusses nicht die Lagune verstopft.
+Der Kanal hat daher keine Flußströmung, nur die Flut schob uns etwas aufwärts.
+Zunächst hat der Kanal nur leicht befestigte Ufer. Je weiter man nach Norden kommt desto mehr rudert man entlang stärker befestigter Ufer mit Sumpfwiesen und halb abgetrennten Lagunen neben einem. Schließlich erreicht man das Festland, die Ufer werden höher es wachsen Büsche und schließlich Bäume am Ufer.
+Bei Portegrandi erreicht man eine Schleuse. Da ein Motorboot auch schleusen wollte, kamen wir dieses Mal problemlos durch.
+Hier trifft man auf den richtigen Fluß, den wir gegen die mittlere Strömung aufwärts rudern mussten, um zu unserem Hotel in Quarto d´Altino zu kommen.
 
 
 
