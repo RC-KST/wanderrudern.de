@@ -233,7 +233,7 @@ Zum Schluß ging es raus auf die Adria und noch 3 km südwärts nach Cavallino-T
 
 
 ____________________________________________________________________________________________________________________________________________________________
-## Für Nachahmer:
+### Für Nachahmer:
 Wir hatten extremes Glück mit dem Wetter, kaum Wind, keinen Regen. Sowohl die Lagune, als auch die Adria sind Meeresgewässer. 
 C-Boote, insbesondere ohne Abdeckungen haben auf solchen Strecken nichts verloren. Nehmt E- oder D-Boote.
 
