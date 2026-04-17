@@ -184,6 +184,12 @@ Hier dirigierte uns der Landdienst zu einem Steg am Hauptarm. Unser Hotel lag an
 Die Villa Anconetta ist ein herrschaftlicher Landsitz mit großer Parkanlage. Wir hatten etliche Appartements im Nebengebäude. Sehr schöne Zimmer mit Küche, so dass wir selbst kochen konnten. Essen gehen wäre hier auch schwierig geworden, die Villa liegt weit außerhalb des Ortes.
 Gleichzeit wurde im Haupthaus und im Garten ein Kindergeburtstag mit 70 Gäste gefeiert. Ansage des VL an die kleinen und großen Ruderer: keiner geht auf die Hüpfburg und erschreckt die Kinder.
 
+Am nächsten Tag machten wir nur eine Tagestour nach Adria. Da waren wir doch schon gestern? Ja Adria die Stadt nicht das Meer. Nach dieser Stadt ist das Meer benannt. Die lag im Mittelalter an der Küste, jetzt aber 25 km landeinwärts.
+Dafür ging es den Canale Bianco aufwärts, eine ausgebaute Schifffahrtstraße, nicht sonderlich reizvoll. Ursprünglich ging dieser Kanal durch die Orte, die Neubaustrecke umgeht die Ortskerne. Wir bogen oberhalb von Adria in den alten Kanal ab. Hier ist die strecke wunderschön man rudert direkt in den Ortskern. Hier machten wir eine längere Pause in einer Eisdiele und einem Cafe.
+Leider scheiterte die komplette Durchfahrt an einer zu flachen Brücke im Ortszentrum, so dass wir wieder die obere Einfahrt nutzen mussten. Nach 31 Kilometern erreichten wir wieder unser Quartier in der Villa Anconetta.
+
+
+
 
 
 
