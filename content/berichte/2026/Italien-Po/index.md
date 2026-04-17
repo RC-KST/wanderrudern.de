@@ -156,6 +156,17 @@ Die Pension war in einem historischen Haus, nett ausgestattete Zimmer, sogar mit
 Der Landdienst hatte in einer preiswerten, aber sehr guten Pizzeria reserviert.
 Wichtigstes Detail war jedoch die Weinhandlung direkt gegenüber der Pension. Vernünftigerweise deckten wir uns für die nächsten Tage ein.
 
+Der nächste brachte wieder Sonne satt und 18 Grad. Langsam nahm die Zahl der Ortschafte am Fluß etwas zu. Auch tauchten vermehrt Industrieanlagen auf, von denen aber die meisten den Eindruck machten, als seien sie nicht mehr in Betrieb.
+Das Ziel Ochiobello nach 76 Kilometern mit seinem 4* Geschäftsreisehotel (Unibello) nah am Fluß war eigentliche eine gute Idee des VL. Leider lag das Hotel in einem Gewerbegebiet und der eigentlich direkte Zugang zum Ufer war durch eine defekte Brücke über einen Nebengraben versperrt.
+Da die Preise im Hotelrestaurant außerhalb unseres Etat lagen und darüber hinaus eine Pizzeria nur wenige Meter von unserem Anlegesteg entfernt war, wurden die Ruderer zunächst zumm Abendessen gebracht und danach ins Hotel.
+Die Hotelzimmer waren gut und das Frühstück reichhaltig. Weiterer Vorteil wir konnten auf dem Parkplatz unseren Anhänger gut parken.
+
+Bei über 20 Grad und Dauersonne genoßen wir den heutigen Tag. Die Landschaft wurde noch flacher, wir näherten uns dem Delta. Kurz vor dem Ziel Bottrighe zweigte mit dem Po de Goro der südlichste Arm des Po Deltas ab. 
+Die Tide war beim Rudern noch kaum zu merken, aber beim Anlanden. Die heftigste Schlammschlacht der Fahrt. Man versank teilweise mehr als knietief im Schlamm. Die Boote wurde weit genug auf dem Schlamm gezogen, damit sie flutsicher lagen. Lars verzweifelte weil er gerade das Auto geputzt hatte. Ruderstrecke heute 55 Kilometer.
+Unser Quartier (Locanda la petite Maison) lag im Ortszentrum an einer gut befahrenen Durchgangsstraße. Westliche Seite der Straße die Gaststätte, östliche Seite die Zimmer. Alle Zimmer schön, aber teilweise noch nicht ganz fertig restauriert.
+Dafür gab es ein sehr gutes Abendessen (meist Pizza) und ein hervorragendes Frühstück
+
+
 
 
 
