@@ -36,6 +36,7 @@ title: Home
 {{% /col %}}
 {{< /column-layout >}}
 
+[
 {{< separator >}}
 {{< column-layout >}}
     {{< col >}}
@@ -57,9 +58,9 @@ Vielleicht ist genau jetzt der richtige Moment, Ihren neuen Lieblingssport (neu)
 Wir freuen uns auf Ihren Besuch!
     {{% /col %}}
 
-
 {{< /column-layout >}}
 {{< separator >}}
+]: #
 
 {{< column-layout >}}
     {{< col >}}
