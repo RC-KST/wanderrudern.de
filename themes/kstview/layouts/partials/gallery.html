@@ -46,11 +46,19 @@
     </div>
     <script type="text/javascript">
 
+
     const gallery = document.getElementById("gallery-container");
     let images_len = 0;
+    let touch_state = initTouchState(function(evt) {
+        if (evt === "swipe_left") {
+            incModal(-1);
+        } else if (evt === "swipe_right") {
+            incModal(1);
+        } else if (evt === "pinch_out") {
+            closeModal();
+        }
+    }, document.getElementById("gallery-modal"));
     {
-
-
         const container_images = gallery.getElementsByClassName("gallery-container-image");
         images_len = container_images.length;
         for (let i = 0; i < container_images.length; i++) container_images[i].addEventListener("click", function() {
@@ -117,6 +125,8 @@
         let img = document.getElementById("gallery-modal-image");
         img.setAttribute("src", image_href);
         //img.style.backgroundImage = `url(${image_href})`;
+        
+        touch_state.enabled = true;
     }
 
     function modelOpen() {
@@ -124,6 +134,8 @@
     }
 
     function closeModal() {
+        touch_state.enabled = false;
+
         slide = -1;
         window.onscroll = undefined;
         xoffset = -1;
