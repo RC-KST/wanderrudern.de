@@ -125,6 +125,10 @@ function initTouchState(callback, element) {
                 state.callback(out_evt);
             }
 
+        }
+
+        for (let i = 0; i < evt.changedTouches.length; i++) {
+            let id = evt.changedTouches[i].identifier;
             delete state.touches[id];
         }
     });

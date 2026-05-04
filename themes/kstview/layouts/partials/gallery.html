@@ -51,9 +51,9 @@
     let images_len = 0;
     let touch_state = initTouchState(function(evt) {
         if (evt === "swipe_left") {
-            incModal(-1);
-        } else if (evt === "swipe_right") {
             incModal(1);
+        } else if (evt === "swipe_right") {
+            incModal(-1);
         } else if (evt === "pinch_out") {
             closeModal();
         }
