@@ -83,7 +83,7 @@ function initTouchState(callback, element) {
                 state.touches[id] = new SingleTouchState();
                 state.touches[id].position = { x: ctouch.pageX, y: ctouch.pageY };
             }
-            evt.preventDefault();
+            //evt.preventDefault();
         }
     });
     element.addEventListener("touchmove", (evt) => {
@@ -99,7 +99,7 @@ function initTouchState(callback, element) {
                     vsub(new_pos, state.touches[id].position));
                 state.touches[id].position = new_pos;
             }
-            evt.preventDefault();
+            //evt.preventDefault();
         }
     });
     element.addEventListener("touchend", (evt) => {
