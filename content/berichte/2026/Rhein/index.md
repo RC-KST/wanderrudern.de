@@ -33,3 +33,8 @@ typen: wanderfahrt
 
 # Langes Wochenende auf dem Rhein von Darmstadt nach Bonn
 
+![Schiffsdichte auf dem Rhein](images/Schiffe-Rhein.jpg)
+
+
+
+
