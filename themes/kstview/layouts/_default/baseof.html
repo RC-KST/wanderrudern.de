@@ -7,6 +7,7 @@
         {{- partial "head-meta.html" . -}}
 
         <script type="text/javascript" src="{{ (resources.Get "/js/cookies.js").Permalink }}"></script>
+        <script type="text/javascript" src="{{ (resources.Get "/js/touch.js").Permalink }}"></script>
         <link rel="icon" type="image/x-icon" href="{{- (resources.Get site.Params.icon_image).Permalink -}}"/>
 
         {{- $styles := resources.Get "css/styles.css"
