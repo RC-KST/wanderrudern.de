@@ -2,6 +2,11 @@ _merge: shallow
 title: Ruderclub Kleinmachnow Stahnsdorf Teltow e.V.
 baseURL: https://wanderrudern.de
 theme: kstview
+languages:
+  de:
+    locale: de-DE
+    label: Deutsch
+    weight: 2
 languageCode: de
 defaultContentLanguage: de
 
