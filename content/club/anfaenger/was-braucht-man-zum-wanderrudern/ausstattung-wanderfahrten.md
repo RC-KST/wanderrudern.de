@@ -5,21 +5,11 @@ weight: 70
 
 # Was muss man mitnehmen, wenn man auf Wanderfahrt gehen will?
 
-## Wanderfahrt mit Landdienst  = Hauptgepäck wird nicht im Boot transportiert
-
-
-
-Wer noch nie im Ruderboot gesessen hat und es lernen möchte besucht am besten einen unserer Ruderkurse.
-
-Hier bekommt man die Grundlagen des Ruderns erklärt. 
-Wir nutzen dafür sichere breite Boote. Niemand muss Angst haben ins Wasser zu fallen.
-
-Nächste Ruderkurse
-
-### Ruderkurs Erwachsene, 10 Termine, Kosten 100 Euro
-
-| Montag    | Mittwoch  | Samstag   |
-|-----------|-----------|-----------|
+## Wanderfahrt mit Landdienst  = Hauptgepäck wird nicht im Boot, sodern im Auto transportiert
+Großes Gepäck muss nicht wasserdicht verpackt sein. Rollkoffer oder übergroße Reisetaschen sind trotzdem nicht die beste Wahl. Im schlimmsten Fall muss der Autofahrer das Gepäck weit schleppen. Gepäckstücke mit Tragegurten sind besser.
+ 
+| Hotelquartiere    | Mattenquartiere  | Zeltquartiere   |
+|-------------------|------------------|-----------------|
 | 27.04.26  |           |           |
 |           | 06.05.26  |           |
 | 11.05.26  |           |           |
