@@ -5,7 +5,7 @@ weight: 70
 
 # Was muss man mitnehmen, wenn man auf Wanderfahrt gehen will?
 
-## Wanderfahrt mit Landdienst  = Hauptgepäck wird nicht im Boot, sondern im Auto transportiert
+## Wanderfahrt mit Landdienst  = Hauptgepäck wird im Auto transportiert
 Großes Gepäck muss nicht wasserdicht verpackt sein. Rollkoffer oder übergroße Reisetaschen sind trotzdem nicht die beste Wahl. Im schlimmsten Fall muss der Autofahrer das Gepäck weit schleppen. Gepäckstücke mit Tragegurten sind besser.
 Ein wasserdichter Extrabeutel für das Bootsgepäck ist unbedingt nötig. Wenn die Regenjacke im Auto liegt, hilft sie nicht.
 
