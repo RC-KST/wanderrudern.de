@@ -53,8 +53,7 @@ Bitte guckt im Internet nach preiswerten Varianten. Achtet auf die Materialstär
 
 ### Allgemeines Material + Küche  wird vom Club mitgenommen
 - Zelte
-- Küchenausstattung wird zentral mitgenommen
-- Töpfe, Pfannen, Induktionsplatte, Gaskocher
+- Küchenausstattung, Töpfe, Pfannen, Induktionsplatte, Gaskocher
 - Besteck, Geschirr, Becher, Spüli, Schwämme, Geschirrhandtücher
 - Haltbare Lebensmittel für Frühstück + Abendessen
 - Frische Sachen werden unterwegs gekauft, wann immer das möglich ist
