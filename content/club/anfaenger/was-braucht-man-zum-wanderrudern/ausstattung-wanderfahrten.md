@@ -10,12 +10,13 @@ Großes Gepäck muss nicht wasserdicht verpackt sein. Rollkoffer oder übergroß
 Ein wasserdichter Extrabeutel für das Bootsgepäck ist unbedingt nötig. Wenn die Regenjacke im Auto liegt, hilft sie nicht.
 
 ## Wanderfahrt ohne Landdienst  = Alles Gepäck im Boot
-Alles Gepäck muss wasserdicht verpackt sein. Rollkoffer oder übergroße Reisetaschen sind absolut verboten. Der Ruderer muss das Gepäck tragen können. Große Gepäckstücke ohne Tragegurte sind eine extrem schlechte Idee.
-Ein wasserdichter Extrabeutel für das Tagesgepäck ist unbedingt nötig. Wenn die Regenjacke im großen Beutel im Bug liegt , kommt man da nicht gut ran.
+Alles Gepäck muss wasserdicht verpackt sein. Rollkoffer oder übergroße Reisetaschen sind absolut verboten. Ruderer müssen das Gepäck tragen können. Große Gepäckstücke ohne Tragegurte sind eine extrem schlechte Idee.
+Ein wasserdichter Extrabeutel für das Tagesgepäck ist unbedingt nötig. Wenn die Regenjacke im großen Beutel im Bug liegt , kommt man nicht gut ran.
 
 ### Ins Bootsgepäck gehören: 
 - Regenjacke
 - Regenhose
+- Wasserschuhe/Wassersandalen (es gibt nicht überall Stege)
 - Sonnenhut
 - Badesachen, Handtuch
 - Fleece Pullover (auch im Sommer)
@@ -23,6 +24,7 @@ Ein wasserdichter Extrabeutel für das Tagesgepäck ist unbedingt nötig. Wenn d
 - Sonnencreme, nötige Medikamente, Pflaster
 - Trinkflasche (beschriftet mit eurem Namen)
 - 8/10/13er Schlüssel, Stemmbrettschraube, Handy, Feuerzeug oder Magnesiumstab, Geld
+
  Alles andere kommt ins Großgepäck entweder im Landdienst oder im Bug und Heck des Ruderbootes.
 
 ### Großgepäck
