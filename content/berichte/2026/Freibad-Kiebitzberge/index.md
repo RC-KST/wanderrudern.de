@@ -23,4 +23,4 @@ typen: wanderfahrt
 
 
 
-![Proberudern im Schwimmbad](images/Ruderjolle-Schwimmbad.jpg)
+![Proberudern im Schwimmbad](images/Ruderjolle-Schwimmbad.jpeg)
