@@ -1,5 +1,8 @@
-#languageCode: de
-#defaultContentLanguage: de
+languages:
+  de:
+    locale: de-DE
+    label: Deutsch
+    weight: 2
 relativeUrls: true
 timeout: "120"
 
