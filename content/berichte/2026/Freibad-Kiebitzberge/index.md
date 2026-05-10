@@ -20,3 +20,7 @@ typen: wanderfahrt
 ---
 
 # Mit dem Ruderboot im Schwimmbad
+
+
+
+![Proberudern im Schwimmbad](images/Ruderjolle-Schwimmbad.jpg)
