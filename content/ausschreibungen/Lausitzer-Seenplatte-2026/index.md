@@ -2,7 +2,7 @@
 draft: false
 author: "Stefan"
 begin: "2026-10-02"
-title: Lausitzer Seeplatte
+title: Lausitzer Seenplatte
 images:
 - src: images/Lausitzer-Seenland.jpg
   title: Überblick über das Lausitzer Seenland
