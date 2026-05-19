@@ -11,5 +11,5 @@ images:
 
 ### Erstbefahrung der neuen Seenplatte
 
-![Loreley](./images/Loreleyfelsen.jpeg)
+![Loreley](./images/Lausitz-Seen.png)
 
