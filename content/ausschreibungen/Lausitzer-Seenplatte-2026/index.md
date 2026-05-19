@@ -4,8 +4,8 @@ author: "Stefan"
 begin: "2026-10-02"
 title: Lausitzer Seeplatte
 images:
-- src: "Baumgarten C4x+ im Lorelei Hafen EUREGA 2024.jpg"
-  title: Lorelei Hafen
+- src: "Lausitzer-Seenland.jpg"
+  title: Überblick über das Lausitzer Seenland
 ---
 ## 2. -4. Oktober
 
@@ -21,7 +21,7 @@ Die Ruderstrecken werden bei 30-35 km liegen. Daher ist die Fahrt auch für Anf�
 Als Highlights gibt es zwei Schiffstunnel zwischen Geierswalder- und Senftenberger See (mit einer Schleuse) mit zusammen 164m Länge.
 
 Wir haben zwei Ferienwohnungen mit zusammen 12 Betten. 
-Essen wir selbst zubereitet. Alle Teilnehmer beteiligen sich daran.
+Essen wird selbst zubereitet. Alle Teilnehmer beteiligen sich daran.
 Achtung es ist nahezu aussichtslos weitere Quartiere zu bekommen. Wer sich zuerst anmeldet bekommt die Plätze.
 
 ![Loreley](./images/Lausitz-Seen.png)
