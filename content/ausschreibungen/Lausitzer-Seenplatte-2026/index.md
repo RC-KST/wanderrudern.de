@@ -4,8 +4,12 @@ author: "Stefan"
 begin: "2026-10-02"
 title: Lausitzer Seeplatte
 images:
-- src: "Lausitzer-Seenland.jpg"
+- src: images/Lausitzer-Seenland.jpg
   title: Überblick über das Lausitzer Seenland
+- src: images/Kanal-Sackgasse2013.jpg
+  title: Sackgasse am Sonrnoer Kanal 2013
+- src: images/Ruderboote-am-Partwitzer-See2013.jpg
+  title: Ruderboote Partwitzer See 2013
 ---
 ## 2. -4. Oktober
 
@@ -24,5 +28,8 @@ Wir haben zwei Ferienwohnungen mit zusammen 12 Betten.
 Essen wird selbst zubereitet. Alle Teilnehmer beteiligen sich daran.
 Achtung es ist nahezu aussichtslos weitere Quartiere zu bekommen. Wer sich zuerst anmeldet bekommt die Plätze.
 
-![Loreley](./images/Lausitz-Seen.png)
+Die Bilder sind teilweise von 2013, als die ersten drei Seen eröffnet werden sollten. In Wirklichkeit waren es nur zwei Seen, was erst kurz vorher bekannt gegeben wurde.
+Aber dieses Mal soll es wirklick klappen.
+
+![Karte Lausitzer Seenland](./images/Lausitz-Seen.png)
 
