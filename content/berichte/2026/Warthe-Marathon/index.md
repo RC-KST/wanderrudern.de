@@ -27,9 +27,11 @@ images:
   title: Ruderer unter dem Regenbogen in Posen
 länder: 
 - polen
-title: Warthe Marathon von Kolo bis Gorzow Mai 2026 
+title: 392 km die Warthe abwärts 
 typen: wanderfahrt
 ---
+
+# Warthe von Kolo bis Gorzow Mai 2026
 
 Die Warthe (polnisch Warta) hat eine Länge von 808 Kilometern. Sie entspringt im Krakauer Jura und mündet bei Küstrin in die Oder. 
 Die viertägige Marathonfahrt auf der Warthe wird seit etwa 10 Jahren regelmäßig ins Frühjahrsprogramm aufgenommen und ist ein Ausdauer-Ruder-Ereignis für hartgesottene Ruderer mit 392 km Länge.
