@@ -74,4 +74,4 @@ Stefan hatte den Bus mit dem Hänger in Gorzow abgestellt und war mit der Bahn d
 
 Eine herausfordernde Tour, die gut organisiert war und mit vielen Eindrücken einer weiten, unberührten Flusslandschaft und einer eingespielten Ruder-Kameradschaft im Gedächtnis bleiben wird.
 
-![Schiffsdichte auf dem Rhein](images/Schiffe-Rhein.jpg)
+![Regenbogen über Posen](images/Regenbogen-Posen.jpg)
