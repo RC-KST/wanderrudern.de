@@ -54,6 +54,8 @@ Die Warthe machte keine scharfen Kurven. Es gab keine Anzeichen für Mäander-Du
 
 Ein wunderbarer Regenbogen belohnte uns bei der Durchfahrt durch Posen. Unser Landdienst stand winkend am Ufer und wies uns auf unseren Anlandeplatz hin, der aus einem 1 Meter hohen Gestrüpp aus Brennnesseln, Schilf und jungen Bäumchen bestand, in das wir die Boote mit vereinter Anstrengung hineinzogen und schoben. 
 
+![Regenbogen über Posen](images/Regenbogen-Posen.jpg)
+
 Wir waren gut in vier Wohncontainern untergebracht, die nur wenige Meter von unsren Booten entfernt auf einer Anhöhe über dem Fluss lagen. An diesen Abend kochten wir selbst ein Mahl aus Piroggen, den polnischen Teigtaschen, die auch angebrannt gut schmecken. Nach dem anstrengenden Rudertag fielen wir alle wie die Steine ins Bett.
 
 Am Samstagmorgen gelang es uns, ohne Schwierigkeiten unsere Boote im Gebüsch wiederzufinden und zu Wasser zu bringen. Wie an den anderen Tagen auch wurde über Bug ein- und ausgestiegen. 
@@ -65,6 +67,8 @@ Anscheinend waren die Uferwiesen hier weniger sumpfig, so dass Rinderhaltung pra
 
 Am Abend legten wir die Boote auf einer nassen Wiese direkt hinter der Fähre von Stary Zatom. Übernachtungsplatz war ein Bauernhof, wo wir im Wohnzimmer reichlich bewirtet wurden. Schade, dass die Sprachbarriere keinen weiteren Kontakt mit unseren Gastgebern zuließ.
 
+![Polnisches Abendessen](images/Abendessen-Stary-Zatom.jpg)
+
 Am Sonntag übernahm Stefan den Landdienst, um uns in Skwierzyna mit Eis zu erwarten.  
 Die Strecke bis Gorzow betrug 80 km. Das Wetter war trocken und die Luft kühl. Die Warthe wurde breiter und langsamer. 
 
@@ -74,4 +78,4 @@ Stefan hatte den Bus mit dem Hänger in Gorzow abgestellt und war mit der Bahn d
 
 Eine herausfordernde Tour, die gut organisiert war und mit vielen Eindrücken einer weiten, unberührten Flusslandschaft und einer eingespielten Ruder-Kameradschaft im Gedächtnis bleiben wird.
 
-![Regenbogen über Posen](images/Regenbogen-Posen.jpg)
+
