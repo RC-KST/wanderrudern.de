@@ -5,26 +5,26 @@ date: "2026-05-20"
 gewässer: 
 - warthe
 images:
-- src: images/ErfelderAltrhein.jpg
-  title: Start am Erfelder Altrhein
-- src: images/Binger-Loch.jpg
-  title: Einfahrt ins Binger Loch
-- src: images/Container-Frachter-Rhein.jpg
-  title: Containerfrachter neben dem Ruderboot
-- src: images/Eltville.jpg
-  title: Kulisse von Eltville
-- src: images/Frachter-Rennen.jpg
-  title: Frachter überholt Kreuzfahrer
-- src: images/Hotel-Bacharach.jpg
-  title: Unsere Unterkunft in Bacharach
-- src: images/Timo-Lorelei.jpg
-  title: An der Lorelei
-- src: images/Kaub-Rhein.jpg
-  title: Vor Kaub
-- src: images/Treppe-Neuwied.jpg
-  title: Ruderverein Neuwied
-- src: images/Bacharach-Sandbank.jpg
-  title: Sandbank vor der Anlegestelle in Bacharach
+- src: images/Pydry-Kloster.jpg
+  title: Klosteranlage in Pyzdry
+- src: images/Regen-Warthe.jpg
+  title: Regen über den Ruderern auf der Warthe
+- src: images/Ruderboot-Stary-Zatom.jpg
+  title: Ruderboot am Ufer der Warthe in Stary Zatom
+- src: images/Ruderboot-Warthe.jpg
+  title: Ruderboot auf der Warthe
+- src: images/Ruderer-Warthe-Eispause.jpg
+  title: Eisessen auf der Warthe
+- src: images/Ruderjugend-Warthe.jpg
+  title: Jugend Ruderboot Warthe Marathon
+- src: images/Seilfaehre-Zeichen.jpg
+  title: Korrekte Auszeichnung einer Hochseilfähre
+- src: images/Sierakow-Warthe.jpg
+  title: Anfahrt auf Sierakow
+- src: images/Stoerche-Warthe.jpg
+  title: Störche an der Warthe
+- src: images/Wolfgang-Regenbogen.jpg
+  title: Ruderer unter dem Regenbogen in Posen
 länder: 
 - polen
 title: Warthe Marathon von Kolo bis Gorzow Mai 2026 
