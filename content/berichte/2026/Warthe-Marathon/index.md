@@ -70,7 +70,7 @@ Die Strecke bis Gorzow betrug 80 km. Das Wetter war trocken und die Luft kühl. 
 
 Eine Hügelkette mit blühenden wilden Pflaumenbäumen begleitet uns im Norden nach der Einmündung der Netze. Ein Motorboot begegnete uns vor Gorzow. 
 
-Stefan hatte den Bus mit dem Hänger in Gorzow abgestellt und war mit der Bahn direkt nach Berlin zurückgekehrt.  Wir landeten die Boote auf einer breiten Sandbank in Gorzow und verluden auf den Hänger. Zum Glück klappte es mit dem zweiten Schlüssel und Martin führ uns die 190 km sicher wie immer zurück Kleinmachnow, wo wir glücklich um 19:30 Uhr eintrafen. 
+Stefan hatte den Bus mit dem Hänger in Gorzow abgestellt und war mit der Bahn direkt nach Berlin zurückgekehrt.  Wir landeten die Boote auf einer breiten Sandbank in Gorzow und verluden auf den Hänger. Zum Glück klappte es mit dem zweiten Schlüssel und Martin fuhr uns die 190 km sicher wie immer zurück Kleinmachnow, wo wir glücklich um 19:30 Uhr eintrafen. 
 
 Eine herausfordernde Tour, die gut organisiert war und mit vielen Eindrücken einer weiten, unberührten Flusslandschaft und einer eingespielten Ruder-Kameradschaft im Gedächtnis bleiben wird.
 
