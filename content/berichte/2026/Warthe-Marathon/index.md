@@ -44,6 +44,8 @@ Diese Einteilung wurde für die gesamte Fahrt beibehalten. Kolo liegt in der Woi
 
 Die Warthe ist ein weitgehend unregulierter Fluss. Wild wird der Fluss nur durch schiebendes Hochwasser, dass die weiten Flussbögen überschwemmt und die Prallseiten einreißt.  Ein weiter Himmel spannte sich über einer flachen Landschaft mit vereinzelten Baumgruppen und hier und dort einmal ein weit entfernter Kirchturm einer Ortschaft.
 
+![Warhe Auenlandschaft](images/Warthe-Aue.jpg)
+
 Die Luft war kühl und wir waren froh, als der Wind zum Nachmittag nachließ. Am frühen Abend hatten wird die 92 km bis Pyzdry geschafft. Beim örtlichen Yachthafen nahmen wir die Boote heraus und fuhren zu unserem üblichen Quartier beim Obstbauern, wo wir hervorragend bewirtet wurden. 
 
 Freitagmorgen wachten wir auf bei grauem Himmel und dem Geprassel von Regen auf das Wellblechdach der Scheunentreppe. Unsere liebenswürdigen Gastgeber trugen mehrere Tablett-Ladungen mit Brot, Eieren, Wurst, Käse, Aufschnitt heran und wir genossen ein schönes Frühstück, während wir alle einem Regentag nicht gerne entgegensahen.
