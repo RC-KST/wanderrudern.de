@@ -67,7 +67,7 @@ Anscheinend waren die Uferwiesen hier weniger sumpfig, so dass Rinderhaltung pra
 
 Am Abend legten wir die Boote auf einer nassen Wiese direkt hinter der Fähre von Stary Zatom. Übernachtungsplatz war ein Bauernhof, wo wir im Wohnzimmer reichlich bewirtet wurden. Schade, dass die Sprachbarriere keinen weiteren Kontakt mit unseren Gastgebern zuließ.
 
-![Polnisches Abendessen](images/Abendessen-Stary-Zatom.jpg)
+![Polnisches Abendessen](images/Abendessem-Stary-Zatom.jpg)
 
 Am Sonntag übernahm Stefan den Landdienst, um uns in Skwierzyna mit Eis zu erwarten.  
 Die Strecke bis Gorzow betrug 80 km. Das Wetter war trocken und die Luft kühl. Die Warthe wurde breiter und langsamer. 
