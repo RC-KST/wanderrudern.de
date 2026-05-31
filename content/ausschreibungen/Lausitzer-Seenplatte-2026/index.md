@@ -10,6 +10,8 @@ images:
   title: Sackgasse am Sonrnoer Kanal 2013
 - src: images/Ruderboote-am-Partwitzer-See2013.jpg
   title: Ruderboote Partwitzer See 2013
+- src: images/Quartier-Geierswalde.jpg
+  title: Ferienwohnungen in Geierswalde
 ---
 ## 2. -4. Oktober
 
@@ -24,9 +26,9 @@ Anreise ist am Freitag Nachmittag, Rückreise Sonntag Abend.
 Die Ruderstrecken werden bei 30-35 km liegen. Daher ist die Fahrt auch für Anfänger gut geeignet.
 Als Highlights gibt es zwei Schiffstunnel zwischen Geierswalder- und Senftenberger See (mit einer Schleuse) mit zusammen 164m Länge.
 
-Wir haben zwei Ferienwohnungen mit zusammen 16 Betten. 
+Wir haben zwei Ferienwohnungen mit zusammen 16 Betten auf einem Bauernhof in Seenähe.
 Essen wird selbst zubereitet. Alle Teilnehmer beteiligen sich daran.
-Achtung es ist nahezu aussichtslos weitere Quartiere zu bekommen. Wer sich zuerst anmeldet bekommt die Plätze.
+Der Bauernhof hat unter anderem Alpakas, wer die nach dem Rudern streicheln möchte, ist hier richtig.
 
 Die Bilder sind teilweise von 2013, als die ersten drei Seen eröffnet werden sollten. In Wirklichkeit waren es nur zwei Seen, was erst kurz vorher bekannt gegeben wurde.
 Aber dieses Mal soll es wirklich klappen.
