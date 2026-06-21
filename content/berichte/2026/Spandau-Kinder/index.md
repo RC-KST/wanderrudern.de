@@ -26,4 +26,4 @@ typen: wanderfahrt
 ---
 
 
-![Mitternacht zur Sonnenwende](images//Mitternachtsbaden-Spandau.jpg)
+![Mitternacht zur Sonnenwende](images/Mitternachtsbaden-Spandau.jpg)
