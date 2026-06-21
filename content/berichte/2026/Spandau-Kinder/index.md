@@ -38,7 +38,7 @@ Wenden auf dem Fliess ist für einen Vierer ziemlich knapp.
 
 Vom Steg des Tegler Ruderclubs spazierten wir nach Alt-Tegel zur Eisdiele.
 
-Die Temperaturen waren wieder über 30 Grad, aber heute bei teilweise bedeckten Himmel.
+Die Temperaturen waren wieder über 30 Grad, aber heute bei teilweise bedeckten Himmel. 
 
 Den Rückweg beschleunigten wir etwas, da für 15 Uhr eine Gewitterwarnung vorlag. Die stimmte dann zwar nicht, aber dafür waren wir früh zurück, so dass ausgiebig gebadet werden konnte.
 Spätabends wurde noch Fußball geguckt, so dass die Kinder erst sehr spät ins Bett kamen.
