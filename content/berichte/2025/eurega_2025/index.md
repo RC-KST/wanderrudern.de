@@ -38,7 +38,7 @@ Das Wetter war, bis auf ein paar Tropfen, mit angenehmen Temperaturen und bewöl
 Ca. 20 Kilometer vor dem Ziel holte uns der QuadTiger ein, was unsere Mannschaft noch einmal immens motivierte.
 Wir lieferten uns ein erbittertes Rennen, das bis zur Ziellinie anhielt und bei dem am Ende auch die Mannschaft "Row with the Flow" mit einstieg.
 
-![Zieleinfahrt](./images/zieleinfahrt.jpg)
+![Zieleinfahrt](images/zieleinfahrt.jpg)
 
 Das Boot ging als viertes in der Gesamtwertung und als drittes in unserer Klasse (Männer) mit einer Zeit von 5:39:09 in Bonn über die Ziellinie.
 Nachdem das Boot aus dem Wasser gebracht war, ging es für uns vor allem um das abbauen des Bootes, während Felix vom Landdienst der Lahn-Wanderfahrenden eingesammelt und zurück nach Sankt Goar gebracht wurde, um den Bootshänger und unser Gepäck nach Bonn zu holen.
@@ -56,7 +56,7 @@ Nachdem alle Boote abgeriggert, aufgeladen und das Zubehör verstaut war, fuhren
 
 Ein besonderer Dank gilt Stefan, der uns erlaubte, einen Platz auf dem Hänger für unser Boot zu nutzen, sodass wir mit wenig Mehraufwand an der EUREGA teilnehmen konnten.
 
-![Mannschaft im Ziel](./images/mannschaft_im_ziel.jpg)
+![Mannschaft im Ziel](images/mannschaft_im_ziel.jpg)
 
 Pegelstände:
 

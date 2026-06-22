@@ -37,7 +37,7 @@ images:
   title: "Shannon vor der untergehenden Sonne"
 - src: images/zieleinfahrt.jpg
   title: "Zieleinfahrt im Dunkeln"
-- src: images/mannschaft-am-ziel.jpg
+- src: "images/mannschaft-am-ziel.jpg"
   title: "Zielfoto"
 - src: images/hand-zustand.jpg
   title: "Hände nach 160 km"
