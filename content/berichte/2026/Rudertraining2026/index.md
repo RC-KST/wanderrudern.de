@@ -7,7 +7,8 @@ gewässer:
 images:
 - src: images/BRC-Motorboot-am-Steg.jpg
   title: Trainermotorboot am Steg
-- src: images/Gig-Vierer-Fortbildung.jpg
+     
+- src: "images/Gig-Vierer-Fortbildung.jpg"
   title: Marathon-C-Vierer 
 - src: images/Marathon-Vierer-Trainer.jpg
   title: Trainer bei den Baumgarten C-Vierern
@@ -40,4 +41,4 @@ Nach einer weiteren Besprechung in der Gruppe und einem abschließenden Feedback
 
 Ein herzliches Dankeschön möchten wir an dieser Stelle allen helfenden Händen aussprechen. Der Dank geht an Wolfgang für die Bereitstellung einer Übernachtungsmöglichkeit, an Martin für die Steuerhilfe sowie an den Berliner Ruderclub für das Ausleihen des Trainermotorbootes.
 
-![Marathon Gig-Vierer](images//Gig-Vierer-Fortbildung.jpg)
+![Marathon Gig-Vierer](images/Gig-Vierer-Fortbildung.jpg)
