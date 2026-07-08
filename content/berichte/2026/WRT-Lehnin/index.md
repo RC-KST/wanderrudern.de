@@ -4,6 +4,7 @@ begin: "2026-07-03"
 date: "2026-07-08"
 gewässer: 
 - havel
+- emster kanal
 images:
 - src: images/Emster-Kanal.jpg
   title: Im Dauerregen durch den Emster Kanal
@@ -17,10 +18,10 @@ images:
   title: Rückfahrt im Sturm über den Jungfernsee
 - src: images/WRT-Party.jpg
   title: WRT Party trotz Regenwetter
-- src: images/Gewittersturm-Spandau.jpg
-  title: Gewitter + Wolkenbruch in Spandau
+- src: images/WRT-Shirts.jpg
+  title: Ruderer wieder in Stahnsdorf
 länder: 
 - deutschland
-title: Jugend Anfängerwochenende Spandau 
+title: Wanderrudertreffen in Lehnin 
 typen: wanderfahrt
 ---
