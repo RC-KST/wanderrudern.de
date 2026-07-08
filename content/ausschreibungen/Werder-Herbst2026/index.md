@@ -4,13 +4,13 @@ author: "Stefan"
 begin: "2026-11-20"
 title: Werder im November
 images:
-- src: "images/Werder-Steg.jpg"
-  title: Rudern im Schnee
+- src: "images/Werder-November.jpg"
+  title: Tim
 
 ---
 ## 06.- 08. März 2026
 
-![Werder Ruderclub](./images/RC-KST-Boote-Werder2019.jpg)
+![Werder Ruderclub](./images/Werder-November.jpg)
 
 Anfängerfreundliche Wanderfahrt nach Werder. Wir starten am Freitagnachmittag und rudern zum Ruderclub Werder. (25 km)
 Hier übernachten wir zwei Nächte auf Bettenquartier.
