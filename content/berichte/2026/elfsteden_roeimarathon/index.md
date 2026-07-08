@@ -128,9 +128,29 @@ Nachts wurde es natürlich dementsprechend noch kälter. Bis zu 6 Grad wurde uns
 Gerade mit dem Auskühlen während der Steuerpausen war das die Haupt-Schwierigkeit dieses Rennens.
 
 Um ca. 3:30 Uhr fuhren wir in die blaue Stunde hinein, die Steuerpausen wurden weniger kalt und unser Flutscheinwerfer am Bug musste nur noch ab und zu eingeschaltet werden.
-Mit der aufgehenden Sonne, bekamen wir die Information, dass nun doch aufgrund des starken Windes die vorher bekannt gegebene verkürzte Strecke gefahren wurde,  hieß, dass statt 210 km nur ca. 180 km gefahren wurden.
-Während dem größten Teil der Strecke
-Ungefähr 30 km vor dem Ende bekamen wir die Info, dass wir  der Stempelstellen
+Mit der aufgehenden Sonne, bekamen wir die Information, dass nun doch aufgrund des starken Windes die vorher bekannt gegebene verkürzte Strecke gefahren wurde.
+Dies hieß, dass statt 210 km nur ca. 180 km gefahren wurden.
+
+Während dem größten Teil der Strecke waren wir das dritte Boot in unserer Klasse.
+Doch ungefähr 30 km vor dem Ende bekamen wurde uns an einer der Stempelstellen gesagt, das nächste Boot unserer Klasse sei nur wenige Minuten vor uns!
+Von diesem Punkt an fing für uns die Verfolgungsjagd an und somit der Kampf um den zweiten Platz der Klasse.
+Nach ca. 10 Kilometern bekamen wir sie endlich in unser Blickfeld und konnten uns weiter heran arbeiten, bis wir sie ca. 10-15 km vor dem Ziel überholten.
+Von da an hielten wir unseren Platz in der Gesamtwertung und fuhren als Platz 14 über die Ziellinie.
+
+## Nach dem Rennen
+
+Nachdem das Boot erst einmal aus dem Wasser gehoben war, wurde sich frisch gemacht, gegessen und sich mit anderen Ruderern unterhalten.
+Darauf hin wurde unser Auto mit allem, was wir nicht mehr im Boot brauchten, eingeladen und wir überführten den Zweier wieder zum Campingplatz.
+Dor wurden alle Aufbauten und jegliche Technik aus dem Boot ausgebaut und die ursprüngliche Ausstattung wiederhergestellt.
+Nach dem Abriggern trugen wir das Boot zum Hänger und luden unser Material hinein.
+Daraufhin ging es für uns ins Bett.
+
+Den nächsten Tag nutzten wir für unsere Rückfahrt.
+Nach den letzten Aufräumarbeiten ging es für uns mit dem Auto zurück nach Köln und von dort aus zurück nach Berlin.
+
+Für uns war es dieses Jahr eine sehr schöne Veranstaltung, auch, wenn das Wetter nicht sonderlich gut war.
+Ein Dank geht an den ARC Rhenus Bonn für den Transport unseres Bootes und an Michi, dass er sich um unser Boot und deren Ausstattung gekümmert hat und auch noch zugestimmt hat, mit uns zu fahren!
+
 
 Zeiten der 3er-Bullen-Klasse:
 - 7. Platz (1. iK): 18:09:34h (Startnr. 19)
