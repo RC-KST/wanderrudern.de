@@ -43,3 +43,5 @@ In Lehnin fand eine gut organisierte große Party mit über 100 Ruderern statt. 
 Sonntag gab es dann zwar trockenes Wetter, aber weiter stürmischen Wind bis 6 Beaufort. Da der Wind etwas gedreht hatte zunächst schräg von vorne, aber mit erreichen der Havel war es dann Schiebewind.
 Wir flogen geradezu nach Hause, bei 60km Strecke waren wir für diese Hilfe dankbar.
 Trotzdem nicht gerade ein gemütliches Sommerwetter.
+
+![Wanderrudertreffen Lehnin](images/WRT-Party.jpg)
