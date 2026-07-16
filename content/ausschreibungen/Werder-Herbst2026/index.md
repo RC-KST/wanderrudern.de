@@ -8,7 +8,7 @@ images:
   title: Tim
 
 ---
-## 06.- 08. März 2026
+## 20.- 22. November 2026
 
 ![Werder Ruderclub](./images/Werder-November.jpg)
 
