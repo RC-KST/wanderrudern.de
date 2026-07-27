@@ -47,7 +47,61 @@ images:
 - src: images/Vasa-museum.jpg
   title: Im Vasa Museum
 - src: images/Wohnzimmer-gistholmen.jpg
-  title: Unsere Hütte in Gistholmen    
+  title: Unsere Hütte in Gistholmen
+- src: images/abkuerzung.jpg
+  title: Schmaler Durchstich, gerade noch ruderbar
+- src: images/anike-inrigger.jpg
+  title: Anike im Inrigger
+- src: images/anike-ruderboot.jpg
+  title: Anike auf Schlag
+- src: images/aussenschaeren.jpg
+  title: Weit in den Aussenschären
+- src: images/blondine-inrigger.jpg
+  title: Blodine im Inrigger
+- src: images/bueffet-silja.jpg
+  title: Büffet auf der Silha Serenade
+- src: images/einfahrt-helsinki.jpg
+  title: Einfahrt nach Helsinki
+- src: images/eisdiele.jpg
+  title: 10km gerudert zum Eis essen
+- src: images/felsenkueste.jpg
+  title: Felsenküste
+- src: images/girlie-felsenkueste.jpg
+  title: Kleine Meerjungfrau
+- src: images/gistholem-steg.jpg
+  title: Steg auf der Insel Gistholmen
+- src: images/gustaf-gitarre.jpg
+  title: Korsham Abendmusik
+- src: images/huette-am-wasser.jpg
+  title: Hütte
+- src: images/huette-korsham.jpg
+  title: Quartier in Korsham
+- src: images/inrigger-in-schaeren.jpg
+  title: Ruderboot in den Schären
+- src: images/inrigger-klippen.jpg
+  title: Inrigger vor Klippen
+- src: images/inrigger-lars-maria.jpg
+  title: Lars + Maria im Ruderboot
+- src: images/inrigger-wellen.jpg
+  title: Wellen
+- src: images/inselschutz.jpg
+  title: Windschutz hinter Inseln
+- src: images/klippe-gistholmen.jpg
+  title: Klippen von Gistholmen
+- src: images/klippen-im-wasser.jpg
+  title: Flachstellen zwischen den Schären
+
+
+
+
+
+
+
+
+
+
+
+
 länder: 
 - schweden
 title: Stockholmer Schärengarten 
