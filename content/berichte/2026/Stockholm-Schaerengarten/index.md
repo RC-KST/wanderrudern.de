@@ -19,7 +19,7 @@ Von hier 650km nach Norden zum Ruderverein Lidingö. Boote abladen und riggern d
 
 Der erste Rudertag führte uns in die Stockholmer Innenstadt. Zunächst nach Djurgarden. Hier wurden die Boote an einem Steg festgemacht und das Vasa Museum besichtigt.
 Danach wurde Lars direkt vor dem Parlamentsgebäude eingeladen, der mit dem Nachtzug angereist war. Vom Boot aus konnten wir diverese Sehenswürdigkeiten bewundern. Sogar die Wachablösung marschierte am Ufer vorbei.
-Zurück nach Lidingö erwischte uns leider ein heftiger Platzregen (Wetterbericht hatte eine Stunde leichten Nieselregen versprochen). Bei der Stockholer Rudergesellschaft konnten wir uns danach trocken legenDen Rest des Rückwegs schien wieder die Sonne.
+Zurück nach Lidingö erwischte uns leider ein heftiger Platzregen (Wetterbericht hatte eine Stunde leichten Nieselregen versprochen). Bei der Stockholer Rudergesellschaft konnten wir uns danach trocken legenDen Rest des Rückwegs schien wieder die Sonne. 
 
 ![Quartiere](images/Stockholm-Quartiere.png)
 
