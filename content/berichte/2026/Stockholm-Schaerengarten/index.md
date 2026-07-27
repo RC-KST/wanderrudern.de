@@ -90,18 +90,81 @@ images:
   title: Klippen von Gistholmen
 - src: images/klippen-im-wasser.jpg
   title: Flachstellen zwischen den Schären
-
-
-
-
-
-
-
-
-
-
-
-
+- src: images/korsham-kueche.jpg
+  title: Küche in Korsham
+- src: images/korsham-wohnzimmer.jpg
+  title: Wohnzimmer Korsham
+- src: images/lidingoe-steg.jpg
+  title: Chillen auf dem Steg des Rudervereins
+- src: images/lidingoe.jpg
+  title: Lidingö
+- src: images/mitternachtsshow.jpg
+  title: Show auf der Silja Serenade
+- src: images/raues-wetter.jpg
+  title: Raues Wetter
+- src: images/ruderboot-aussenschaeren.jpg
+  title: Ruderboot in den Aussenschären
+- src: images/ruderboot-kueste.jpg
+  title: Ruderboot ziemlich weit draußen
+- src: images/ruderboot-schaeren.jpg
+  title: Ruderboot in den Schären
+- src: images/ruerboot-ostsee.jpg
+  title: Ruderboot auf der Ostsee
+- src: images/ruderer-schloss.jpg
+  title: Im Stockholmer Schloß
+- src: images/ruderer-stockholm.jpg
+  title: Ruderer in Stockholm
+- src: images/ruderverein-lidingoe.jpg
+  title: Bootsanhänger vor dem Ruderverein Lidingö
+- src: images/schaeren-jwd.jpg
+  title: Ruderboot an der Grenze zur offenen Ostsee
+- src: images/schaeren.jpg
+  title: Schären
+- src: images/schaerenkueste.jpg
+  title: Schärenküste
+- src: images/schnellboot.jpg
+  title: Modernes Foil-Boot
+- src: images/schnellfaehre.jpg
+  title: Schnelle Schärenfähre
+- src: images/schwedische-haeuser.jpg
+  title: Häuser auf einer Schäreninsel
+- src: images/schwedischer-hafen.jpg
+  title: Hafen
+- src: images/silha-schiff-maria.jpg
+  title: Ruderboot vor der Silja Symphony
+- src: images/sonnenuntergang-silja-serenade.jpg
+  title: Sonnenuntergang Silja Line
+- src: images/steg-eisdiele.jpg
+  title: Anlegesteg für die Eisdiele
+- src: images/steuermann-nervoes.jpg
+  title: Flache und schmale Durchfahrt
+- src: images/Badestelle-korsham.jpg
+  title: Badestelle Klippen Korsham
+- src: images/stockholm-marktplatz.jpg
+  title: Stockholmer Marktplatz
+- src: images/terasse-korsham.jpg
+  title: Terasse in Korsham
+- src: images/timo-kanone.jpg
+  title: Kanonen vor Helsinki
+- src: images/timo-ruderboot.jpg
+  title: Timo im Ruderboot
+- src: images/timo-vor-insel.jpg
+  title: Timo vor Insel
+- src: images/trailer-lidingoe.jpg
+  title: Bootsahänger beim Ruderclub Lidingö
+- src: images/u-boot.jpg
+  title: Im U-Boot vor Helsinki
+- src: images/verkehr-zu-viel.jpg
+  title: Dichter Motorbootverkehr vor Stockholm
+- src: images/viking-hafeneinfahr.jpg
+  title: Viking-Line Schiff Einfahrt nach Helsinki
+- src: images/wandern-gistholmen.jpg
+  title: Wanderung über Gistholmen
+- src: images/wohnzimmer-moeja.jpg
+  title: Quartier in Möja
+- src: images/zelt-aufbau.jpg
+  title: Wir üben ein Zelt aufzubauen
+      
 länder: 
 - schweden
 title: Stockholmer Schärengarten 
