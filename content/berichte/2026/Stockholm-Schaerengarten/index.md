@@ -6,8 +6,8 @@ gewässer:
 - ostsee
 - stockholm schärengarten
 images:
-- src: images/Emster-Kanal.jpg
-  title: Im Dauerregen durch den Emster Kanal
+- src: images/Badestelle-korsham.jpg
+  title: Badestelle Klippen Korsham
 länder: 
 - schweden
 title: Stockholmer Schärengarten 
