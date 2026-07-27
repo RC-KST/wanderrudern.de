@@ -16,4 +16,4 @@ typen: wanderfahrt
 
 
 
-![Wanderrudertreffen Lehnin](images/WRT-Party.jpg)
+![Quartiere](images/Stockholm-Quartiere.png)
