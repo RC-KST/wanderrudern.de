@@ -34,3 +34,4 @@ Alle 3-5 Tage Einkaufsmöglichkeiten
 ![Saimaa Landkarte](./images/Saimaa-Landkarte-neu.jpg)
 
 
+[Saimaa 2019](/berichte/2019/saimaa_2019)
