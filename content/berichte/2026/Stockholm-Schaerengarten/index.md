@@ -237,7 +237,18 @@ Die Hütten lagen oben auf einer Klippe mit grandioser Aussicht über das Wasser
 Am Nachmittag wurde das Wetter besser, so dass wir noch Erkundungstouren über die Insel starten konnten. Auch ein Saunabesuch konnte gemacht werden.
 
 Da wir unseren Quartierwechsel verschoben hatten, blieb uns von Gistholmen nur eine Tagestour. Bei wieder bestem Sommerwetter umrundeten wir die gesamte nördlich gelegene Inselgruppe. Der erste Stopp war in Finnham, hier gab es einen Kiosk mit Eisverkauf. Der Kiosk hatte sogar einen eigenen Steg für Leute die mit dem Boot einkaufen kommen.
-Der Rückweg brachte etwas Schiebewind. Der kam allerdings von schräg hinten, so dass man durchaus aufpasse musst, wieviel Schiebewind man wirklich haben wollte, oder doch besser die eine oder andere Insel zum Schutz nutzen wollte.
+Der Rückweg brachte etwas Schiebewind. Der kam allerdings von schräg hinten, so dass man durchaus aufpasse musst, wieviel Schiebewind man wirklich haben wollte, oder doch besser die eine oder andere Insel zum Schutz nutzen wollte. 
+Es fiel auch wieder auf, dass selbst hier, weit draußen im Schärengürtel ein dichter Verkehr von Schärenfähren unterwegs war. 
+
+Am letzten Rudertag ging es wieder heimwärts zum Ruderclub Lidingö. Da wir ziemlich weit außen waren, eine lange Strecke durch die Inseln. Lars hatte eine optimierte Route geplant. Weite Strecken nicht über die Fahrrinnen, sondern durch winzige Durchfahrten.
+
+Die erste Hälft lief auch alles gut, es gab mal einen kurzen Schauer, der Wind war sogar leicht schiebend. 20 km vor Stockholm baute sich dann eine schwarze Wand vor uns auf, glücklicherweise kein Gewitter, "nur" Regen.
+Ansage an die Ruderer, alles Regenzeug anziehen, das wird heftig. Ein zweistündiger Platzregen brach über uns herein. Das 300m entfernte Ufer war im Regen nicht mehr zu erkennen. Der Steuermann hatte als zusätzliche Aufgabe: Wasser schöpfen.
+Kurz vor dem Ruderclub ließ der Regen etwas nach, aber beim Blick auf das Regenradar wurde die gewünschte Pause wieder abgebrochen. Das nächste Starkregengebiet kam gleich nach.
+Wir vertäuten die Ruderboote am Steg, stürmten ins Haus und versuchten uns trocken zu legen.
+Merke ein wasserdichter Beutel bringt nicht viel, wenn er offen ist.
+
+
 
 
 
