@@ -16,7 +16,7 @@ images:
 
 # 30. Juni. - 25. Juli 2027
 
-![Saimaa Landkarte](../content/berichte/2025/Saimaa2025/Saimaa2025.mp4)
+![Video](./././berichte/2025/Saimaa2025/Saimaa2025.mp4)
 
 Start am Mittwoch Mittag zur Fähre nach Rostock, weiter nach Stockholm, Fähre nach Helsinki.
 
