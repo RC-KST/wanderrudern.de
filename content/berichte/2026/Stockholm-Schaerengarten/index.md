@@ -272,9 +272,12 @@ Am Morgen ging es mit dem Auto  650 km zurück nach Trelleborg und mit der Nacht
 
 
 Hinweis für Nachahmer:
+
 Wir sind mit gesteuerten Inrigger Doppeldreiern gerudert. Einer davon unterbesetzt, um das Gepäck unterzubringen.
 Keinesfalls sollte man das mit C-Booten machen. Gepäckwanderfahrten mit C-Booten auf Großgewässern sind eine sehr dumme Idee.
+
 Leute die solche Fahrten mit ungedeckten Booten machen sind potentielle Selbstmörder.
+
 In den Außenschären gilt: Es kann Tage geben, an denen man nicht rudern kann!
 
 ![Inrigger 3x+](images/Baumgarten_Inrigger_am_Eyjafjördur_2022.jpg)
