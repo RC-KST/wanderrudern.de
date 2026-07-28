@@ -244,13 +244,36 @@ Am letzten Rudertag ging es wieder heimwärts zum Ruderclub Lidingö. Da wir zie
 
 Die erste Hälft lief auch alles gut, es gab mal einen kurzen Schauer, der Wind war sogar leicht schiebend. 20 km vor Stockholm baute sich dann eine schwarze Wand vor uns auf, glücklicherweise kein Gewitter, "nur" Regen.
 Ansage an die Ruderer, alles Regenzeug anziehen, das wird heftig. Ein zweistündiger Platzregen brach über uns herein. Das 300m entfernte Ufer war im Regen nicht mehr zu erkennen. Der Steuermann hatte als zusätzliche Aufgabe: Wasser schöpfen.
+
 Kurz vor dem Ruderclub ließ der Regen etwas nach, aber beim Blick auf das Regenradar wurde die gewünschte Pause wieder abgebrochen. Das nächste Starkregengebiet kam gleich nach.
 Wir vertäuten die Ruderboote am Steg, stürmten ins Haus und versuchten uns trocken zu legen.
+
 Merke ein wasserdichter Beutel bringt nicht viel, wenn er offen ist.
 
+Der Dauerregen hielt die ganze Nacht an, erst am nächsten Morgen zeigte sich wieder die Sonne.
+Vor dem Frühstück wurden die Boote aus dem Wasser genommen und aufgeladen.
+
+Danach machten wir uns landfein, packten unser Fährgepäck und fuhren mit Bus und U-Bahn nach Stockholm. Die Stadtbesichtigung erstreckte sich nur auf Riddarholmen und Gamla-Stan, da wir ja schon um 14 Uhr am Fährterminal der Silja Line sein wollten.
+
+Nachdem wir auf der Silja Serenade unsere Kabinen bezogen hatten (ganz unten, die billigsten) genossen wir die Fahrt durch die Stockholmer Schären mal ohne Rudern.
+Besonderes Highlight das All-you-can-eat Büffet. Nach zwei Wochen Fahrtenessen eindeutig ein Upgrade.
+
+Danach gab es die Shows im Nachtclub, die Heckbar, die Shopping-Mall und natürlich Gustavs Auftritt beim Karaoke in der Disco.
+
+Nach dem Anlegen in Helsinki am nächsten Morgen galt es die Highlights von Helsinki zu besuchen. Hier zeigte sich was persönlich als Highlight empfunden wird. Gustav + Moritz Innenstadt und danach zurück aufs Schiff, Sauna + Schwimmbad, der Rest auf die Festungsinsel im Hafen mit Kanonen und U-Boot. Wobei Anike + Timo sich danach zum Shoppen absetzten, Ergebnis eine Tafel Schokolade.
+Alle waren pünktlich zur Abfahrt zurück auf dem Schiff.
+
+Auch auf der Rückfahrt nach Stockholm wurde das Kreuzfahrt Erlebnis genossen.
+
+Am Morgen ging es mit dem Auto  650 km zurück nach Trelleborg und mit der Nachtfähre nach Rostock.
 
 
 
+Hinweis für Nachahmer:
+Wir sind mit gesteuerten Inrigger Doppeldreiern gerudert. Einer davon unterbesetzt, um das Gepäck unterzubringen.
+Keinesfalls sollte man das mit C-Booten machen. Gepäckwanderfahrten mit C-Booten auf Großgewässern sind eine sehr dumme Idee.
+Leute die solche Fahrten mit ungedeckten Booten machen sind potentielle Selbstmörder.
+In den Außenschären gilt: Es kann Tage geben, an denen man nicht rudern kann!
 
 
 
