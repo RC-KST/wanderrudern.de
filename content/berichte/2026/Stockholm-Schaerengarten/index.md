@@ -182,5 +182,19 @@ Vom Boot aus konnten wir diverese Sehenswürdigkeiten bewundern. Sogar die Wacha
 Zurück nach Lidingö erwischte uns leider ein heftiger Platzregen (Wetterbericht hatte eine Stunde leichten Nieselregen versprochen). Bei der Stockholmer Rudergesellschaft konnten wir uns danach trocken legen. 
 Den Rest des Rückwegs schien wieder die Sonne. 
 
+Am nächsten Tag wurden die Boote mit Gepäck für zwei Wochen beladen und wir starteten in Richtung der Außenschären. 
+Nachdem wir die Hauptfahrrinne überquert hatten, ging es in enge Durchfahrten zwischen großen Inseln, teilweise gerade breit genug für ein Ruderboot. Dann wieder größere Wasserflächen mit einigem Wind, aber nichts was uns wirklich Schwierigkeiten bereitete.
+Schließlich erreichten wir den Campingplatz Ingarö. Direkt neben dem Badestrand fanden wir eine Rampe, an der wir unsere Boote heraus nehmen konnten. Unsere Hütten lagen ein Stück vom Strand entfernt. Das Gepäck musste geschleppt werden. Erst dann stellten wir fest, dass man die Boote auch auf der anderen Seite des Campingplatz hätten anlegen können. Das wäre näher an den Hütten gewesen. Gut zu wissen für das nächste Mal.
+
+Die nächste Etappe sollte uns an den Rand der Innenschären führen. Der zunehmende Nordwind stellte da durchaus ein Problem dar. Die eigentlich geplante Strecke über die Südroute vorbei an Saltsjöbaden war daher keine gute Idee. Daher wählten wir eine Nordroute, die uns längere Zeit Windschutz bot. Zunächst engere Durchfahrten und danach ein langgestreckter Fjord. Dort bot uns das Nordufer weiteren Windschutz. Erst eine große Bucht nach Norden stellte eine gewisse Herausforderung für die Steuerleute und die Ruderer dar.
+Dazu kamen noch die Wellen von schnell fahrenden Schärenfähren und riesigen, gut motorisierten Motorbooten. Auch einige Segler nutzen den starken Wind. 
+Bei Stavsnäs erreichten wir eine riesige Wasserfläche, offen nach Nordosten. Wir drehten nach Süden ab und gingen vor den Wind.
+Auf der Seekarte hatten wir eine gestrichelte Route gefunden, die nicht nur abkürzte, sondern auch Windschutz bot. Glücklicherweise war diese Route fahrbar, allerdings waren die Gräben auf Spreewald-Niveau. Im Unterschied zum Spreewald aber mit riesigen Felsen links und recht.
+Danach wurde das Gewässer wieder größer und wir kamen mit Schiebewind gut vorwärts und erreichten Korshamn. 
+Wir fanden eine sumpfige Anlegestelle nur 400m von unserem Quartier. Wir schleppten die schweren Boote aus dem Wasser und liefen zu unserem Ferienhaus für die nächsten vier Tage.
+
+Diese Ferienhaus war das beste der ganzen Fahrt. Ein zweistöckiges historisches Blockhaus. Große Terrasse, komplette Küche, Wohnzimmer und 6 Betten und ein Sofa. Der Vermieter zeigte uns eine nahe gelegene Badestelle an den Klippen und gab uns auch den Tipp für einen warmen Badesee (Süßwasser) in nur 500m Entfernung.
+
+
 ![Quartiere](images/Stockholm-Quartiere.png)
 
