@@ -11,7 +11,7 @@ images:
 - src: "images/Hardangerfjord2.jpg"
   title: Hardangerfjord
 ---
-# 01. - 18. Juli 2027
+# 01. - 18. Juli 2027   Möglicherweise auf 2028 verschoben
 
 ![Hardangerfjord](./images/Hardangerfjord1.jpg)
 
