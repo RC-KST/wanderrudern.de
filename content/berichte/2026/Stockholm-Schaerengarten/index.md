@@ -205,6 +205,41 @@ Zum Schluss guckten wir noch in Stavsnäs vorbei. Hier ist etwa 500m vom Strand 
 Am Ende fanden wir auch in Korshamn, eine Bucht weiter von unserem Quartier einen Kiosk. Der hatte nur Eis und Getränke, aber genau das hatten wir auch gesucht.
 Die Jugend ging dann noch im Süßwasser baden und auf den Klippen klettern.
 
+Nach der nördlichen Runde vom Vortag ging es dieses Mal weiter südlich. Wir hatten auf Google Maps eine Strandbar auf der Insel Idöborg gefunden. Nach längerer Runde um die Insel Nämdö, erreichten wir die Strandbar. Leider legten hier auch einige Schärenfähren an, so dass die Insel völlig überlaufen war und das Niveau der Strandbar entsprach nicht unserer Preisklasse. Glücklicherweise gab es auch einen Kiosk mit Eisverkauf. 
+
+Nach kurzer Pause ging es weiter, erst mal mit einem Rennen zwischen dem Zweier und dem Dreier. Leider hatten die Steuerleute dabei etwas die Richtung übersehen. Der VL stellte plötzlich fest, dass die Sonne aus der falschen Richtung schien. Wir stellten fest, dass wir uns wohl etwas verirrt hatten. Nicht so einfach den richtige Weg zu finden, wenn man zwischen hunderten Inseln unterwegs ist.
+Mit einem ziemliche Umweg fanden wir doch unsere Weg zurück nach Korshamn.
+
+Nun mussten wir uns von unserem Luxus-Quartier verabschieden. Der nächste Quartierwechsel nach Söder-Möja stand an.
+Wegen einigem Nordwind entschieden wir uns ostwärts (Meerseitig) von Runmarö zu rudern und danach Deckung durch die Inselgruppen südöstlich von Möja zu nutzen.
+Die heftigsten Wellen kamen jedoch wieder von schnellen Schärenfähren.
+Am Nachmittag erreichten wir Söder Möja und nach einigem Suchen fanden wir auch unsere Hütte. Diese lag in 2.Reihe hinter dem Ufer. Das Gepäckschleppen war dieses Mal nicht so weit. Ein Boot konnten wir auf einen winzigen Strand heben, das andere am Steg befestigen.
+Nach dem Luxus der letzten Tage, war die Hütte diesmal sehr einfach. Eine Küche ein Wohnzimmer mit Sofa und 5 Betten, dazu eine Außentoilette. Alles guter Standard für Skandinavien.
+
+Nach einem kurzen Abstecher zur Nachbarinsel Möja zum Shoppen, wieder mehr Chips als andere Verpflegung, ging es auf eine große Runde um die Inselgruppe östlich von Möja. Enge Durchfahrten durch Inseln, dann wieder Wasser bis zum Horizont, die offene Ostsee neben uns. Wieder bei bestem Wetter und Sonnenschein, genossen wir den schwedischen Sommer.
+
+Timo, Anike und Gustav ruderten am Abend noch einmal zum Shoppen nach Möja.
+
+Der vom Wetterbericht angekündigte Sturmtag, war um einen Tag verschoben. Trotzdem hatte der Wind deutlich zugenommen. Daher ging es heute nur einmal um Södermöja herum und zum Eis nach Möja.
+Wegen der kurzen Ruderstrecke drehte allerdings die Jugend ziemlich frei. Einfach nicht ausgelastet.
+
+Heute erwischte uns der angedrohte Sturm nun wirklich. Eigentlich hätten wir heute den Quartierwechsel nach Gistholmen machen sollen. Glücklicherweise konnten wir das um einen Tag verschieben.
+Leider hatte war jetzt auch für den morgigen Tag weiter Sturm vorhergesagt. Was uns etwas nervös machte. Der Abstand zum nächsten Quartier betrug nur 10 km, allerdings Luftlinie und ziemlich direkt nach Norden.
+
+Wir hatten eine Route ausgetüftelt, die zwar wesentlich länger war, aber mehr Inselschutz bot. Leider mit drei sehr offenen Stellen, die schlimmste gleich zum Anfang.
+Daher wurde am Abend noch mal ein Boot aufs Wasser gebracht, um sich diese Stelle anzusehen. Die war nicht sehr schön und der Testlauf war natürlich ohne Gepäck und mit den vier härtesten Ruderern besetzt (nicht Gendergerecht eine davon weiblich)
+
+Am nächsten Morgen bliess der Wind immer noch mit 7 Beaufort aus Nord. Wir gingen aufs Wasser. Die erste Stelle war etwas harmloser als beim Probelauf am Vortag. Der Wind hatte um ein paar Grad gedreht, so dass wir ziemlich trocken rüber kamen. Danach ging es ziemlich geschützt durch Inseln. Die beiden offenen Stellen waren nicht schön, aber fahrbar.
+Am meisten gelitten haben die Steuerleute, es war kalt und regnerisch. Nach 22 km erreichten wir Gistholmen bereits kurz nach dem Mittag.
+Erfreulicherweise waren unsere Hütten schon bezugsfertig, so dass wir uns im warmen und trockenen erholen konnten.
+Die Hütten lagen oben auf einer Klippe mit grandioser Aussicht über das Wasser.
+
+Am Nachmittag wurde das Wetter besser, so dass wir noch Erkundungstouren über die Insel starten konnten. Auch ein Saunabesuch konnte gemacht werden.
+
+Da wir unseren Quartierwechsel verschoben hatten, blieb uns von Gistholmen nur eine Tagestour. Bei wieder bestem Sommerwetter umrundeten wir die gesamte nördlich gelegene Inselgruppe. Der erste Stopp war in Finnham, hier gab es einen Kiosk mit Eisverkauf. Der Kiosk hatte sogar einen eigenen Steg für Leute die mit dem Boot einkaufen kommen.
+Der Rückweg brachte etwas Schiebewind. Der kam allerdings von schräg hinten, so dass man durchaus aufpasse musst, wieviel Schiebewind man wirklich haben wollte, oder doch besser die eine oder andere Insel zum Schutz nutzen wollte.
+
+
 
 
 
