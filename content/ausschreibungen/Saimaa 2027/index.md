@@ -16,9 +16,8 @@ images:
 
 # 30. Juni. - 25. Juli 2027
 
-![Saimaa Landkarte](./images/Saimaa-Landkarte-neu.jpg)
 
-Start am Mittwoch Mittag zur Fähre nach Rostock, weiter nach Stockholm Fähre nach Helsinki.
+Start am Mittwoch Mittag zur Fähre nach Rostock, weiter nach Stockholm, Fähre nach Helsinki.
 
 Wanderfahrt für Jugendliche und jung gebliebene Erwachsene
 
@@ -31,4 +30,7 @@ Kein Landdienst, alles Gepäck wird in den Booten transportiert
 19 Rudertage
 
 Alle 3-5 Tage Einkaufsmöglichkeiten
+
+![Saimaa Landkarte](./images/Saimaa-Landkarte-neu.jpg)
+
 
