@@ -4,9 +4,12 @@ author: "Stefan"
 begin: "2027-06-30"
 title: Finnland Saimaa
 images:
-- src: "images/Eidfjorden.jpg"
-  title: Eidfjord
-
+- src: "images/Ruderboot-Felseninsel2025.jpg"
+  title: Felseninsel
+- src: "images/Sonnenuntergang-Nationalpark-Saimaa2025.jpg"
+  title: Sonnenuntergang Mitternacht  
+- src: "images/Umrundung-Olavlinna2025.jpg"
+  title: Festung Olavlinna
 ---
 
 # Jugendwanderfahrt auf der größten Seenplatte Europas
