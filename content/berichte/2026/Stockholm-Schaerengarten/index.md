@@ -202,6 +202,8 @@ Diese Ferienhaus war das beste der ganzen Fahrt. Ein zweistöckiges historisches
 Die nächste Tagesfahrt (ohne Gepäck) führte uns jenseits der großen Inselwelten, die Korshamn vorgelagert sind, bis an den Rand der offenen Ostsee. Bei Dauersonne und 23 Grad hatten wir Bilderbuchwetter. Bei Wind bis zu 4 Beaufort ließ es sich noch gut rudern, wenn man ab und zu Inselschutz ausnutze.
 Zum Schluss guckten wir noch in Stavsnäs vorbei. Hier ist etwa 500m vom Strand der einzige Supermarkt der Umgebung. Die Fahrtenküche brauchte eigentlich noch keinen Nachschub, aber die Chips- und Süßkramvorräte der Jugend waren einigermaßen erschöpft.
 
+![Rudern im Schwimmbad](./images/Ruderjolle-Schwimmbad.mp4)
+
 Am Ende fanden wir auch in Korshamn, eine Bucht weiter von unserem Quartier einen Kiosk. Der hatte nur Eis und Getränke, aber genau das hatten wir auch gesucht.
 Die Jugend ging dann noch im Süßwasser baden und auf den Klippen klettern.
 
