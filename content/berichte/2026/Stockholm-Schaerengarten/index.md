@@ -269,6 +269,8 @@ Am Morgen ging es mit dem Auto  650 km zurück nach Trelleborg und mit der Nacht
 
 
 
+
+
 Hinweis für Nachahmer:
 Wir sind mit gesteuerten Inrigger Doppeldreiern gerudert. Einer davon unterbesetzt, um das Gepäck unterzubringen.
 Keinesfalls sollte man das mit C-Booten machen. Gepäckwanderfahrten mit C-Booten auf Großgewässern sind eine sehr dumme Idee.
