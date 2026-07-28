@@ -277,7 +277,7 @@ Keinesfalls sollte man das mit C-Booten machen. Gepäckwanderfahrten mit C-Boote
 Leute die solche Fahrten mit ungedeckten Booten machen sind potentielle Selbstmörder.
 In den Außenschären gilt: Es kann Tage geben, an denen man nicht rudern kann!
 
-![Inrigger 3x+](images/Baumgarten_Inrigger_am_Eyjafjördur_2022)
+![Inrigger 3x+](images/Baumgarten_Inrigger_am_Eyjafjördur_2022.jpg)
 
 
 
