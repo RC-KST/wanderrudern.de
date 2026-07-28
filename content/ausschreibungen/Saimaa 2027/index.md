@@ -28,7 +28,7 @@ Die Hälfte der Übernachtungen im Zelt, der Rest in Hütten.
 
 Kein Landdienst, alles Gepäck wird in den Booten transportiert
 
-19 Rudertage
+19 Rudertage, Sonnenuntergang 23 Uhr, Sonnenaufgang 3 Uhr
 
 Alle 3-5 Tage Einkaufsmöglichkeiten
 
