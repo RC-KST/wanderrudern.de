@@ -28,3 +28,6 @@ Bei 13 Rudertagen ist eine gute Kondition nötig.
 Diese Fahrt bietet sich gut als "Frühjahrs-Traininglager" an. Danach ist man auf jeden Fall fit für die Saison.
 
 ![Umtragen an der Mossoni- Donau](./images/Wehr_Mossoni_einsetzen2025.jpg)
+
+![Umtragen an der Mossoni- Donau](./images/CIM0805.jpg)
+
