@@ -29,5 +29,5 @@ Diese Fahrt bietet sich gut als "Frühjahrs-Traininglager" an. Danach ist man au
 
 ![Umtragen an der Mossoni- Donau](./images/Wehr_Mossoni_einsetzen2025.jpg)
 
-![Kroatien](./images/CIM0805.JPG)
+![Kroatien Drava Mündung](./images/CIMG0805.JPG)
 
