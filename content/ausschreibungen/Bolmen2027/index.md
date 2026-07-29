@@ -1,14 +1,16 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2027-07-23"
+begin: "2027-08-06"
 title: Schweden Bolmen
 images:
 
 ---
-# 23. Juli - 1. August 2027
+# 6. - 15. August 2027
 
-![Hardangerfjord](./images/18825c.jpg)
+## Letze Woche der Sommerferien 
+
+![Quartier Bolmen](./images/18825c.jpg)
 
 Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg. 240 km bis zu unseren Hütten auf Bolmsö.
 Rückreise erfolgt eine Woche später am Samstagnachmittag, wir nehmen die Nachtfähre ab Trelleborg und sind Sonntag Mittag wieder zur Hause.
