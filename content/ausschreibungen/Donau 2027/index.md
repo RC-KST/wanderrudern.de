@@ -24,8 +24,7 @@ Drei Quartiere sind Mattenlager in Ruderclubs, der Rest sind Bettenquartiere.
 
 Die Fahrt richtet sich an Ruderer aller Altersklassen. Auch Anfänger aus 2026 können teilnehmen, aber alle Teilnehmer machen bitte keine 3 Monate Winterpause.
 Bei 13 Rudertagen ist eine gute Kondition nötig. 
+
 Diese Fahrt bietet sich gut als "Frühjahrs-Traininglager" an. Danach ist man auf jeden Fall fit für die Saison.
 
 ![Umtragen an der Mossoni- Donau](./images/Wehr_Mossoni_einsetzen2025.jpg)
-
-
