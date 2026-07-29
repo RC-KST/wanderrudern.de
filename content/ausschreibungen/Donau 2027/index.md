@@ -12,10 +12,10 @@ images:
 
 ## Osterferien, 8 Urlaubstage für Arbeitnehmer nötig 
 
-![Donau bei Budapest](./images/Blick_ueber-Budapest.jpg)
+![Donau bei Budapest](./images/Blick_ueber_Budapest.jpg)
 
 
 Wir machen Tagesfahrten zwischen 30 und 50 km. 
 Diese Wanderfahrt richtet sich auch an Anfänger aller Altersklassen und Ruderer die eine entspannte Wanderfahrt, ohne Quartierwechsel suchen.
 
-![Bolmen Landkarte](./images/Wehr_Mossoni-einsetzen2025.jpg)
+![Bolmen Landkarte](./images/Wehr_Mossoni_einsetzen2025.jpg)
