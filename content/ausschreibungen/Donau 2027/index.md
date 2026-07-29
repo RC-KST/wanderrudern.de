@@ -2,11 +2,11 @@
 draft: false
 author: "Stefan"
 begin: "2027-03-19"
-title: Donau Tulln - Ilok
+title: Donau von Tulln nach Ilok
 images:
 
 ---
-# Donau Österreich - Slowakei - Ungarn - Kroatien
+# Österreich - Slowakei - Ungarn - Kroatien
 
 # 19. März - 4. April 2027
 
