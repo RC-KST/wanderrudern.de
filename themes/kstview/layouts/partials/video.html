@@ -15,9 +15,14 @@
 
 
 {{- $resource := page.Resources.Get .Destination }}
+{{/* fall back to local resources of one page hierarchy higher */}}
 {{- if and (not $resource) page.CurrentSection }}
     {{- $resource = page.CurrentSection.Resources.Get .Destination }}
 {{ end }}
+{{/* fall back to global resources */}}
+{{- if (not $resource) }}
+    {{- $resource = resources.Get .Destination }}
+{{- end }}
 
 
 <figure class="mx-3 flex flex-col items-center">

@@ -1,7 +1,13 @@
 {{- $resource := page.Resources.Get .Destination }}
+{{/* fall back to local resources of one page hierarchy higher */}}
 {{- if and (not $resource) page.CurrentSection }}
     {{- $resource = page.CurrentSection.Resources.Get .Destination }}
 {{ end }}
+{{/* fall back to global resources */}}
+{{- if (not $resource) }}
+    {{- $resource = resources.Get .Destination }}
+{{- end }}
+
 {{- $plaintext := "" }}
 {{- with .PlainText }}{{ $plaintext = . }}{{ end }}
 {{- $title := "" }}
@@ -21,16 +27,16 @@
     {{- $u := urls.Parse $destination -}}
     {{- $src = $u.String -}}
     {{- if not $u.IsAbs -}}
-      {{- $path := strings.TrimPrefix "./" $u.Path -}}
-      {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
-        {{- $src = .Permalink -}}
-        {{- with $u.RawQuery -}}
-          {{- $src = printf "%s?%s" $src . -}}
+        {{- $path := strings.TrimPrefix "./" $u.Path -}}
+        {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+            {{- $src = .Permalink -}}
+            {{- with $u.RawQuery -}}
+                {{- $src = printf "%s?%s" $src . -}}
+            {{- end -}}
+            {{- with $u.Fragment -}}
+                {{- $src = printf "%s#%s" $src . -}}
+            {{- end -}}
         {{- end -}}
-        {{- with $u.Fragment -}}
-          {{- $src = printf "%s#%s" $src . -}}
-        {{- end -}}
-      {{- end -}}
     {{- end -}}
 {{- end }}
 <figure class="mx-3 flex flex-col items-center">

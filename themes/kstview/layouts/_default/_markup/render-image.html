@@ -1,8 +1,13 @@
 {{- $destination := .Destination }}
-{{- $resource := page.Resources.Get $destination }}
+{{- $resource := page.Resources.Get .Destination }}
+{{/* fall back to local resources of one page hierarchy higher */}}
 {{- if and (not $resource) page.CurrentSection }}
-  {{- $resource = page.CurrentSection.Resources.Get $destination }}
+    {{- $resource = page.CurrentSection.Resources.Get .Destination }}
 {{ end }}
+{{/* fall back to global resources */}}
+{{- if (not $resource) }}
+    {{- $resource = resources.Get .Destination }}
+{{- end }}
 
 {{- if $resource }}
   {{- if eq $resource.MediaType.MainType "video"}}
@@ -11,15 +16,10 @@
       "Title" .Title
       "PlainText" .PlainText
       "FullWidth" true) }}
-  {{- else if eq $resource.MediaType.MainType "image"}}
-    {{- partial "image.html" (dict
-        "Destination" .Destination
-        "Title" .Title
-        "PlainText" .PlainText
-        "Attributes" .Attributes
-        "FullWidth" false) }}
   {{- else }}
-      {{- warnf "(Page %v (%v)) Media resource '%v' is of unknown media type '%v'" page.Path  page.Title $destination $resource.MediaType.MainType }}
+      {{- if not (eq $resource.MediaType.MainType "image") }}
+          {{- warnf "(Page %v (%v)) Media resource '%v' is of unknown media type '%v'" page.Path  page.Title $destination $resource.MediaType.MainType }}
+      {{- end }}
       {{- partial "image.html" (dict
         "Destination" .Destination
         "Title" .Title
