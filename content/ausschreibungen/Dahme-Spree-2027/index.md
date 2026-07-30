@@ -4,9 +4,6 @@ author: "Stefan"
 begin: "2027-05-14"
 title: Dahme-Spree-Umfahrt 
 images:
-- src: "images/RIMG0003.jpg"
-  title: Rudern im Schnee
-
 ---
 # Pfingstwanderfahrt
 
