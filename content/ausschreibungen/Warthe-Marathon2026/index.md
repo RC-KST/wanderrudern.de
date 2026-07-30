@@ -2,7 +2,7 @@
 draft: false
 author: "Stefan"
 begin: "2027-05-05"
-title: Warthe Marathon 2026
+title: Warthe Marathon 2027
 images:
 
 ---
