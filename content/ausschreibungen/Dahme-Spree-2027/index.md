@@ -14,11 +14,14 @@ images:
 
 ![Winterrudern](./images/RIMG0003.jpg)
 
-Anfängerfreundliche Wanderfahrt nach Spandau. Wir starten am Freitagnachmittag nach Spandau. Hier haben wir für 2 Nächte Quartier bei einem Ruderclub. (ca. 30 km)
+Die schönste Brandenburger Wanderruderstrecke.
 
-Samstag rudern wir eine Tagestour nach Birkenwerder (ca. 30km).
+Die Dahme aufwärts bis Märkisch Buchholz, hier wechseln wir auf den Spree-Dahme-Umflutkanal. Dann die Spree abwärts über Beeskow und Fürstenwalde zurück nach Berlin.
 
-Sonntag geht es wieder zurück nach Stahnsdorf (ca. 30 km).
+Wir starten Freitag Nachmittag in Stahnsdorf. Am Dienstag deponieren wir unsere Boote in Grünau. 
+Am folgenden Sonntag rudern wir die Boot zurück nach Stahnsdorf.
 
-2-3 Leute nehmen an der LRV- Versammlung in Birkenwerder teil, der Rest geht einfach rudern.
+Die Strecken sind nicht übermäßig lang, aber etwas Kondition ist nötig.
+
+Vermutlich wird eine Übernachtung im Zelt erfolgen, den Rest übernachten wir in Bootshäusern, teilweise Bettenquartiere.
 
