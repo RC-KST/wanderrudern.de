@@ -12,7 +12,7 @@ images:
 
 ## 14.-18. Mai 2027
 
-![Winterrudern](./images/RIMG0003.jpg)
+![Dahme](./images/Idylle-an-der-Dahme-DS09.jpg)
 
 Die schönste Brandenburger Wanderruderstrecke.
 
@@ -25,3 +25,6 @@ Die Strecken sind nicht übermäßig lang, aber etwas Kondition ist nötig.
 
 Vermutlich wird eine Übernachtung im Zelt erfolgen, den Rest übernachten wir in Bootshäusern, teilweise Bettenquartiere.
 
+![Landkarte Dahme-Spree-Umfahrt](./images/Karte-grosse-umfahrt.gif)
+
+![Dahme](./images/Dahm.jpg)
