@@ -18,7 +18,7 @@ Nächste Ruderkurse
 | 26.04.27  | 28.04.27  |           |
 | 03.05.27  |           |           |
 | 10.05.27  | 12.05.27  |           |
-| 24.05.27  | 26.05.27  | 29.05.27          |
+| 24.05.27  | 26.05.27  | 29.05.27  |
 
 Wochentermine 17:30, Samstag 10:00
 
@@ -36,7 +36,7 @@ Abschluss des Ruderkurses am Samstag 29.5.. mit einer gemeinsamen Ausfahrt nach 
 
 Wochentermine 16:30, Samstag 10:00
 
-### 2. Ruderkurs Jugend, 11 Termine, Kosten 60 Euro 
+### 2. Ruderkurs Jugend, 12 Termine, Kosten 60 Euro 
 
 | Dienstag  | Donerstag | Samstag   |
 |-----------|-----------|-----------|
@@ -45,5 +45,6 @@ Wochentermine 16:30, Samstag 10:00
 | 04.05.27  |           |           |
 | 11.05.27  | 13.05.27  |           |
 |           | 20.05.27  |           |
+| 25.05.27  | 27.05.27  |           |
 
 Wochentermine 16:30, Samstag 10:00
