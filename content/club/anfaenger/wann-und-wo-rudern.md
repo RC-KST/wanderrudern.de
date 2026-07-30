@@ -14,7 +14,7 @@ Einen Blick auf unser Ruderrevier können Sie [hier](./ruderrevier.md) werfen.
 ### Wann können Anfänger kommen?
 Anfänger können jederzeit zu einem der [Sporttermine](../../club/wochentermine.md) kommen.
 
-Im Mai startet ein  Anfänger- Ruderkurs für Erwachsene. Der Kurs für die Jugendlichen startet im März.
+Ende April startet ein  Anfänger- Ruderkurs für Erwachsene. Die Kurse für die Jugendlichen startet im März und Ende April.
 
 ### Was kostet das Rudern beim RC KST?
 [Preistabelle](../anfaenger/mitgliedschaft/index.md)
