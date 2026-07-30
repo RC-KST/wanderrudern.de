@@ -1,14 +1,14 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2026-05-13"
+begin: "2027-05-05"
 title: Warthe Marathon 2026
 images:
 
 ---
 # Warthe Kolo - Gorzow
 
-## 13. - 17. Mai 2026
+## 05. - 09. Mai 2027
 
 Dies ist eine Extrem-Marathonfahrt. Wer gemütlich Wanderrudern will, der melde sich bitte Pfingsten an. Diese Fahrt ist absolut ungeeignet für Anfänger und Untrainierte.
 Es werden 390 km in 4 Rudertagen gerudert.
