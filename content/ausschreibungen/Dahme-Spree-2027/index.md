@@ -27,4 +27,4 @@ Vermutlich wird eine Übernachtung im Zelt erfolgen, den Rest übernachten wir i
 
 ![Landkarte Dahme-Spree-Umfahrt](./images/Karte-grosse-umfahrt.gif)
 
-![Dahme](./images/Dahm.jpg)
+![Auf der Dahme](./images/LingLing-Dahme-2013.jpg)
