@@ -12,7 +12,7 @@ images:
 
 ## 14.-18. Mai 2027
 
-![Dahme](./images/Idylle -an-der-Dahme-DS09.jpg)
+![Dahme](./images/Idylle-an-der-Dahme-DS09.jpg)
 
 Die schönste Brandenburger Wanderruderstrecke.
 
