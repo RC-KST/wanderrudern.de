@@ -16,7 +16,7 @@ Die schönste Brandenburger Wanderruderstrecke.
 Die Dahme aufwärts bis Märkisch Buchholz, hier wechseln wir auf den Spree-Dahme-Umflutkanal. Dann die Spree abwärts über Beeskow und Fürstenwalde zurück nach Berlin.
 
 Wir starten Freitag Nachmittag in Stahnsdorf. Am Dienstag deponieren wir unsere Boote in Grünau. 
-Am folgenden Sonntag rudern wir die Boot zurück nach Stahnsdorf.
+Am folgenden Sonntag rudern wir die Boote zurück nach Stahnsdorf.
 
 Die Strecken sind nicht übermäßig lang, aber etwas Kondition ist nötig.
 
