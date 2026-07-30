@@ -25,6 +25,10 @@ Die Strecken sind nicht übermäßig lang, aber etwas Kondition ist nötig.
 
 Vermutlich wird eine Übernachtung im Zelt erfolgen, den Rest übernachten wir in Bootshäusern, teilweise Bettenquartiere.
 
+Diese Fahrt eignet sich besonders für Jugendliche, die auf eine der Sommerfahrten nach Skandinavien mitwollen.
+
+Aber natürlich auch für alle anderen Altersklassen inklusive der Anfänger von 2026.
+
 ![Landkarte Dahme-Spree-Umfahrt](./images/Karte-grosse-umfahrt.gif)
 
 ![Auf der Dahme](./images/LingLing-Dahme-2013.jpg)
