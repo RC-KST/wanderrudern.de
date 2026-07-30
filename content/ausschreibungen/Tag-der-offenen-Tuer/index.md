@@ -1,8 +1,8 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2026-04-25"
-title: Tage der offenen Tür 2026 
+begin: "2027-04-17"
+title: Tage der offenen Tür 2027 
 images:
 - src: "images/Grillchef.jpg"
   title: Verpflegung vom Grill
@@ -14,7 +14,7 @@ images:
 
 ## Proberudern für Alle
 
-### 25./26. April 2026     11-18 Uhr
+### 17./18. April 2027     11-18 Uhr
 
 ![Tag der offenen Tür](./images/Tag-der-offenen-Tuer.jpg)
 
