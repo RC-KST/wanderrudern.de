@@ -28,3 +28,4 @@ Bei 14 Rudertagen ist eine gute Kondition nötig.
 
 ![Passau in die Ilz](./images/Passau.mp4)
 
+![Kloster Melk](./images/20250416_210825.jpg)
