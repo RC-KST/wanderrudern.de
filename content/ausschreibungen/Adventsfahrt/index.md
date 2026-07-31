@@ -20,7 +20,7 @@ images:
 ![Bastei](./images/bastei2024.jpg)
 
 Anreise am Freitagnachmittag mit 2 Kleinbussen nach Lovosice.
-Am Samstag fahren wir durch das Elbsandsteingebirge nach Decin, wo wir im Aqua Hotel übernachten. Hier gibt es eine geheizten Außenpool (inklusive), alternativ Innenpool und Sauna (Aufpreis)
+Am Samstag fahren wir durch das Elbsandsteingebirge nach Decin, wo wir im Aqua Hotel übernachten. Hier gibt es einen geheizten Außenpool (inklusive), alternativ Innenpool und Sauna (Aufpreis)
 
 Den Sonntag  rudern wir weiter bis Pirna.
 
