@@ -21,11 +21,10 @@ Die Quartiere sind meist Mattenlager in Ruderclubs, vermutlich fünf Mal Bettenq
 
 Wir haben zwei Abende in Wien, Schönbrunn, Hofburg, Prater, Kahlenberg, Nußdorf sollte man sich ansehen.
 
-![Donau bei Budapest](./images/Blick_ueber_Budapest.jpg)
+![Donau bei Budapest](./images/Donaudurchbruch.jpg)
 
 Die Fahrt richtet sich an Ruderer aller Altersklassen. Auch Anfänger aus 2026 können teilnehmen.
 Bei 14 Rudertagen ist eine gute Kondition nötig. 
 
-![Umtragen an der Mossoni- Donau](./images/Wehr_Mossoni_einsetzen2025.jpg)
+![Umtragen an der Mossoni- Donau](./images/Passau.mp4)
 
-![Kroatien Drava Mündung](./images/CIMG0805.JPG)
