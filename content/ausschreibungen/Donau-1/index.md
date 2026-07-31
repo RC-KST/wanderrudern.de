@@ -21,10 +21,10 @@ Die Quartiere sind meist Mattenlager in Ruderclubs, vermutlich fünf Mal Bettenq
 
 Wir haben zwei Abende in Wien, Schönbrunn, Hofburg, Prater, Kahlenberg, Nußdorf sollte man sich ansehen.
 
-![Donau bei Budapest](./images/Donaudurchbruch.jpg)
+![Donaudurchbruch Weltenburg](./images/Donaudurchbruch.jpg)
 
 Die Fahrt richtet sich an Ruderer aller Altersklassen. Auch Anfänger aus 2026 können teilnehmen.
 Bei 14 Rudertagen ist eine gute Kondition nötig. 
 
-![Umtragen an der Mossoni- Donau](./images/Passau.mp4)
+![Passau in die Ilz](./images/Passau.mp4)
 
