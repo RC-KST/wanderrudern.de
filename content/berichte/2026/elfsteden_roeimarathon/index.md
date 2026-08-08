@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 author: Paul
 title: "40. Elfsteden Roeimarathon"
 typen: marathon
 begin: 2026-05-13
 end: 2026-05-16
-date: 2026-06-17
+date: 2026-08-06
 gewässer:
 - Ie
 - Rie
@@ -73,14 +73,13 @@ nicht genug waren, wollten wir uns auch den diesjährigen Elfsteden Roeimarathon
 Dieser 210 Kilometer lange Marathon ist der längste, der zu diesem Zeitpunkt in den Niederlanden veranstaltet wird und umfasst
 eine vielfältige Strecke durch verschiedene Städte um Leeuwarden herum.
 Von offenen Seen zu vollen Grachten innerhalb enger Städte sowie Kanäle in freier Natur ist alles dabei.
-Üblicherweise werden die C-Zweier, die in diesem Format genutzt werden, von Staffeln as 12 Personen gerudert,
-die sich in regelmäßigen Abständen nach eigenem Ermessen abwechseln können.
+Üblicherweise werden hier C-Gig Doppelzweier mit Mannschaften aus 12 Personen gerudert, die sich in regelmäßigen Abständen nach eigenem Ermessen abwechseln können.
 Wem das zu viel Aufwand ist, oder falls man einfach nur etwas verrückt ist, ist es auch möglich, diese Strecke auch als sogenannte 'Bullen'-Mannschaft zu anzutreten.
 Also nur in einer einzigen Mannschaft ohne Tausch zu fahren.
 
 ## Die Vorbereitungen
 
-Nachdem Tim diese Veranstaltung bereits im letzten Jahr ([2025](../../2025/11-Steden-Roeimarathon 2025/index.md)) bestritten hatte und äußerst erfolgreich war, wollten wir dieses Jahr noch einmal daran teilnehmen.
+Nachdem Tim diese Veranstaltung bereits im letzten Jahr ([2025](../../2025/11-Steden-Roeimarathon-2025/index.md)) bestritten hatte und äußerst erfolgreich war, wollten wir dieses Jahr noch einmal daran teilnehmen.
 Wir fanden einen dritten Mitstreiter - Michi, der and dieser Veranstaltung schon einige Male teilgenommen hatte.
 Darunter sowohl zu dritt, als auch als Staffel in verschiedenen Größen.
 
@@ -116,10 +115,10 @@ Danach fuhren wir wieder zum Ruderverein, wo wir unser Boot zu Wasser ließen un
 
 ## Start und das Rennen
 
-Der Start lag weiter 5km vom Ruderverein entfernt.
+Der Start lag 5km vom Ruderverein entfernt.
 Dorthin fuhren wir gemütlich, zum Glück regnete es auf dem nur kurz und nicht allzu stark.
 Gestartet wurde anhand der Startnummer, was für uns (Nr. 25) bedeutete, dass wir verhältnismäßig wenige Boote vor uns hatten.
-Gerade auf der ersten Strecke Richtung Borkum kam uns das sehr zugute, da an der ersten Stempelstelle dadurch noch wenig los war. 
+Gerade auf der ersten Strecke Richtung Dokkum kam uns das sehr zugute, da an der ersten Stempelstelle dadurch noch wenig los war. 
 Auf dieser Strecke fuhren wir hin und auch zurück, was hieß, dass alle Boote hinter uns uns auf dem Rückweg entgegen kamen.
 Der Abend lief soweit ruhig ab, das Feld zog sich etwas auseinander, was das Rudern und Steuern deutlich angenehmer machte.
 In der Nacht kamen wir auch gut mit unserem Tempo voran.
@@ -135,7 +134,7 @@ Während dem größten Teil der Strecke waren wir das dritte Boot in unserer Kla
 Doch ungefähr 30 km vor dem Ende bekamen wurde uns an einer der Stempelstellen gesagt, das nächste Boot unserer Klasse sei nur wenige Minuten vor uns!
 Von diesem Punkt an fing für uns die Verfolgungsjagd an und somit der Kampf um den zweiten Platz der Klasse.
 Nach ca. 10 Kilometern bekamen wir sie endlich in unser Blickfeld und konnten uns weiter heran arbeiten, bis wir sie ca. 10-15 km vor dem Ziel überholten.
-Von da an hielten wir unseren Platz in der Gesamtwertung und fuhren als Platz 14 über die Ziellinie.
+Von da an hielten wir unseren 2. Platz in unserer Wertungsklasse und  fuhren als Platz 14 in der Gesamtwertung über die Ziellinie.
 
 ## Nach dem Rennen
 
@@ -151,9 +150,8 @@ Nach den letzten Aufräumarbeiten ging es für uns mit dem Auto zurück nach Kö
 Für uns war es dieses Jahr eine sehr schöne Veranstaltung, auch, wenn das Wetter nicht sonderlich gut war.
 Ein Dank geht an den ARC Rhenus Bonn für den Transport unseres Bootes und an Michi, dass er sich um unser Boot und deren Ausstattung gekümmert hat und auch noch zugestimmt hat, mit uns zu fahren!
 
-
 Zeiten der 3er-Bullen-Klasse:
-- 7. Platz (1. iK): 18:09:34h (Startnr. 19)
-- 14. Platz (2. iK): 18:33:02h (Startnr. 25)
-- 17. Platz (3. iK): 18:41:54 (Startnr. 16)
+- 7. Platz (1. Bullenklasse): 18:09:34h (Startnr. 19)
+- 14. Platz (2. Bullenklasse): 18:33:02h (Startnr. 25)
+- 17. Platz (3. Bullenklasse): 18:41:54 (Startnr. 16)
 
