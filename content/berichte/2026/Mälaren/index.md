@@ -84,6 +84,9 @@ title: Mälaren August 2026
 typen: wanderfahrt
 ---
 
+Dieses Jahr gab es außer der Schärenwanderfahrt noch eine weitere Fahrt auf der Süßwasserseite von Stockholm, auf dem Mälaren.
 
-![Quartiere](images/Stockholm-Quartiere.png)
+
+
+![Quartiere](images/Ruderboot-Drottningholm.jpg)
 
