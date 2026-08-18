@@ -86,6 +86,8 @@ typen: wanderfahrt
 
 Dieses Jahr gab es außer der Schärenwanderfahrt noch eine weitere Fahrt auf der Süßwasserseite von Stockholm, auf dem Mälaren.
 
+Während die erste Fahrt auf dem Salzwasser eine Bewegungsfahrt war, hatten wir dieses Mal ein Luxus- Standquartier auf der Insel Färingsö.
+
 
 
 ![Drottningholm](images/Ruderboote-Drottningholm.jpg)
