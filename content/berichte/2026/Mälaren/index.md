@@ -51,7 +51,7 @@ images:
   title: Ruderboot vor einer Klippe
 - src: images/Ruderboot.jpg
   title: Baumgarten E-Boot
-- src: images/Ruderboot-Drottningholm.jpg
+- src: images/Ruderboote-Drottningholm.jpg
   title: Ruderboot vor Schloss Drottningholm
 - src: images/Ruderer-Drottningholm.jpg
   title: Ruderer vor Drottningholm  
@@ -88,5 +88,5 @@ Dieses Jahr gab es außer der Schärenwanderfahrt noch eine weitere Fahrt auf de
 
 
 
-![Quartiere](images/Ruderboot-Drottningholm.jpg)
+![Drottningholm](images/Ruderboote-Drottningholm.jpg)
 
