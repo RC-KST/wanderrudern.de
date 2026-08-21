@@ -7,17 +7,17 @@ title: Home
 
 {{< slider id="home" >}}
     {{< slider-entry
-        text="Saimaa 2025 Bericht ist online, inklusive Video!"
-        img="images/saimaa_video_standbild.png"
-        href="berichte/2025/Saimaa2025/index.md" >}},
-    {{< slider-entry
-        text="Der Steg ist da!"
-        img="bundle/backdrops/club-gelaende.jpg"
-        href="./berichte/2024/stegeinweihung_2024/index.md" >}} 
-    {{< slider-entry
         text="Äquatorpreisträger in Kleinmachnow"
         img="bundle/backdrops/griebnitzsee-anfang-skiff.jpg"
         href="./neuigkeiten/2023/äqutorpreisträger/index.md" >}},
+    {{< slider-entry
+        text="Mälaren Wanderfahrt Bericht veröffentlicht"
+        img="images/Ruderboote-Drottningholm.jpg"
+        href="berichte/2026/Mälaren/index.md" >}}
+    {{< slider-entry
+        text="Erster Platz bei der EUREGA"
+        img="images/eurega_2026_siegerehrung.jpeg"
+        href="berichte/2026/eurega/index.md" >}},
 {{< /slider >}}
 
 {{< column-layout >}}

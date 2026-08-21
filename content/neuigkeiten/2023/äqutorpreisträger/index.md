@@ -16,11 +16,8 @@ images:
 - src: "./images/Äquatorpreis_4-fach_Stefan_2023.jpg"
   title: "Stefan vierfacher Äquatorpreis"
 
-title: Äquatorpreisträger des RC KST
+title: Äquatorpreisträger des Ruderclub KST
 ---
-
-# Äquatorpreisträger des Ruderclub KST
-
 
 Der Äquatorpreis des Deutschen Ruderverbands ist die höchste Auszeichnung für einen Wanderruderer.
 
@@ -37,4 +34,5 @@ Darüber hinaus haben [Patrik](../../../berichte/2021/aquatorpreis_patrik/) und 
 Stefan erreichte sogar den, sehr seltenen vierfachen Äquatorpreis.
 
 
-{{< separator >}} {{< gallery >}}
+{{< separator >}}
+{{< gallery >}}
