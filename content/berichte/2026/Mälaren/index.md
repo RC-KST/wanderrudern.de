@@ -94,6 +94,8 @@ Dieser See erstreckt sich von der Stockholmer Innenstadt 120 km landeinwärts un
 
 Unser Ferienhaus lag etwa 25 km von Stockholm entfernt auf der Insel Färingsö. Ein großes Hauptgebäude und etliche Nebengebäude mit 24 Betten. Dazu eine Industrieküche und ein großer Speisesaal.
 
+![Abendessen](images/Abendessen.jpg)
+
 Am Nachmittag trudelten die langsam alle Ruderer ein und wir luden am örtlichen Badestrand die Boote ab. Die Zufahrt war etwas eng, aber wir hatten erfahrene Anhängerfahrer.
 Dazu besuchten uns noch Felix und Sinah, die auf Rückweg von ihrem Norwegen Urlaub bei uns Station machten.
 
