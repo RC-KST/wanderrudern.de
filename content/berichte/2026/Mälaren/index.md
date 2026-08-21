@@ -116,6 +116,8 @@ Da wieder wenig Wind und Sonne angesagt war, wagten wir uns auf die lange Südst
 Die Insel ist auf jeden Fall sehenswert, wir gönnten uns zwei Stunden Touristenprogramm.
 Danach ging es wieder zurück, alles zusammen 42 Ruderkilometer.
 
+![Björkö](images/Björkö-Ruderboot.jpg)
+
 Am letzten Rudertag hatte die Temperatur noch mehr zugenommen, bis 28 Grad. Wir ruderten zum Strandbad Ekerö. Einige Ruderer waren etwas nervös, da wir dafür die Strecke passieren mussten, die uns vor einigen Tagen mit hohe Wellen gefordert hatte. Dieses Mal war alles friedlich und wir genossen die Badepause am Sandstrand.
 Das Jugendboot legte sogar auf dem Rückweg noch einmal an einem Strand an und sprang ins Wasser.
 
