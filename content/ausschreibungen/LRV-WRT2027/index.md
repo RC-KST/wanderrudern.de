@@ -6,10 +6,6 @@ title: LRV Wanderrudertreffen 2027 Stahnsdorf
 images:
 - src: "Badefloss Lehnin WRT 2011.jpg"
   title: Badefloss
-- src: "images/Emster Kanal Lehnin 2011.jpg"
-  title: Ruderboot Emster Kanal
-- src: "images/Sockbrot am Lagerfeuer Lehnin 2011.jpg"
-  title: Stockbrot am Lagerfeuer
 ---
 # Wanderrudertreffen 2027 in Stahnsdorf
 
@@ -18,7 +14,9 @@ images:
 ## 03. - 05. September 2027
 
 ## Freitag 
-Anreise ab 15 Uhr, Abendessen im Ruderclub
+Anreise ab 15 Uhr
+- wer möchte dreht schon eine kleine Runde im Boot
+- Abendessen im Ruderclub
 
 ## Samstag 
 - Frühstück 8 Uhr im Ruderclub
@@ -36,6 +34,6 @@ Anreise ab 15 Uhr, Abendessen im Ruderclub
 - alternativ Betten- Quartiere in eigener Verantwortung
 - Bootsplätze werden gestellt
 - Anmeldung bis 4. Juli per Mail: info@wanderrudern.de
-- Kosten 65 Euro enthalten sind Mattenquartier, Ruderplatz, Frühstücke, Mittagessen am Samstag, T-Shirt
+- Kosten 65 Euro enthalten sind Mattenquartier, Ruderplatz, Frühstück, Mittagessen am Samstag, T-Shirt
 
 Mehr Infos folgen!
