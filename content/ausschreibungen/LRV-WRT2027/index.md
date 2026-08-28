@@ -30,7 +30,7 @@ Anreise ab 15 Uhr
 - Abreise der Gäste
 
 ## Allgemeines
-- Matten- Quartiere in der nahe gelegenen Turnhalle der Gorki- Schule
+- Matten- Quartiere in einer nahe gelegenen Turnhalle
 - alternativ Betten- Quartiere in eigener Verantwortung
 - Bootsplätze werden gestellt
 - Anmeldung bis 4. Juli per Mail: info@wanderrudern.de
