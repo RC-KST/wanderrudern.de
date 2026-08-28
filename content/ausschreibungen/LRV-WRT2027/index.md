@@ -38,5 +38,6 @@ Anreise ab 15 Uhr
 
 ![Ruderstrecken](./images/WRT2027.png)
 
+6- Insel Runde: Glienicke, Pfaueninsel, Kälberwerder, Imchen, Lindwerder, Schwanwerder
 
 Mehr Infos folgen!
