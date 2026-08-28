@@ -36,4 +36,7 @@ Anreise ab 15 Uhr
 - Anmeldung bis 4. Juli per Mail: info@wanderrudern.de
 - Kosten 65 Euro enthalten sind Mattenquartier, Ruderplatz, Frühstück, Mittagessen am Samstag, T-Shirt
 
+![Ruderstrecken](./images/WRT2027.png)
+
+
 Mehr Infos folgen!
