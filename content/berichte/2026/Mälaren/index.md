@@ -84,7 +84,7 @@ title: Mälaren August 2026
 typen: wanderfahrt
 ---
 
-Dieses Jahr gab es außer der Schärenwanderfahrt noch eine weitere Fahrt auf der Süßwasserseite von Stockholm, auf den Mälaren.
+Dieses Jahr gab es außer der Schärenwanderfahrt noch eine weitere Fahrt auf der Süßwasserseite von Stockholm, auf dem Mälaren.
 
 Während die erste Fahrt auf dem Salzwasser eine Bewegungsfahrt war, hatten wir dieses Mal ein Luxus- Standquartier auf der Insel Färingsö.
 
@@ -96,7 +96,7 @@ Unser Ferienhaus lag etwa 25 km von Stockholm entfernt auf der Insel Färingsö.
 
 ![Abendessen](images/Abendessen.jpg)
 
-Am Nachmittag trudelten die langsam alle Ruderer ein und wir luden am örtlichen Badestrand die Boote ab. Die Zufahrt war etwas eng, aber wir hatten erfahrene Anhängerfahrer.
+Am Nachmittag trudelten langsam alle Ruderer ein und wir luden am örtlichen Badestrand die Boote ab. Die Zufahrt war etwas eng, aber wir hatten erfahrene Anhängerfahrer.
 Dazu besuchten uns noch Felix und Sinah, die auf Rückweg von ihrem Norwegen Urlaub bei uns Station machten.
 
 Der erste Rudertag begrüßte uns mit strahlendem Sonnenschein, 23 Grad und leider auch 4 Beaufort Wind. Wir umrundeten die Insel Färingsö nördlich. Leider erwies sich eine Durchfahrt in der Wassersportkarte als vollkommen unfahrbar, so dass wir einen Umweg ruderten mussten. Schließlich erreichten wir Schloss Svartsö, das an einem schmalen Kanal, windgeschützt lag. Hier gab es nicht nur ein Cafe, sondern heute auch eine Ausstellung historischer Autos.
