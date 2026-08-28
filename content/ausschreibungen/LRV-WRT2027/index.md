@@ -17,5 +17,25 @@ images:
 
 ## 03. - 05. September 2027
 
+## Freitag 
+Anreise ab 15 Uhr, Abendessen im Ruderclub
+
+## Samstag 
+- Frühstück 8 Uhr im Ruderclub
+- Tagestour 6- Insel-Runde, 35 km, Mittagspause nach 20 km in der Lieper Bucht
+- Abendessen und Party im Ruderclub
+ 
+## Sonntag
+- Frühstück 8 Uhr im Ruderclub
+- Tagestour Potsdam Freundschaftsinsel, 22 km
+- Nachmittag Kuchenbüffet im Club
+- Abreise der Gäste
+
+## Allgemeines
+- Matten- Quartiere in der nahe gelegenen Turnhalle der Gorki- Schule
+- alternativ Betten- Quartiere in eigener Verantwortung
+- Bootsplätze werden gestellt
+- Anmeldung bis 4. Juli per Mail: info@wanderrudern.de
+- Kosten 65 Euro enthalten sind Mattenquartier, Ruderplatz, Frühstücke, Mittagessen am Samstag, T-Shirt
 
 Mehr Infos folgen!
