@@ -32,7 +32,7 @@ Anreise ab 15 Uhr
 ## Allgemeines
 - Matten- Quartiere in einer nahe gelegenen Turnhalle
 - alternativ Betten- Quartiere in eigener Verantwortung
-- Bootsplätze werden gestellt
+- Bootsplätze werden gestellt, wer über eigenen Kiel anreisen möchte darf das natürlich
 - Anmeldung bis 4. Juli per Mail: info@wanderrudern.de
 - Kosten 65 Euro enthalten sind Mattenquartier, Ruderplatz, Frühstück, Mittagessen am Samstag, T-Shirt
 
