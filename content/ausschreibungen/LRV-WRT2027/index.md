@@ -4,8 +4,8 @@ author: "Stefan"
 begin: "2027-09-03"
 title: LRV Wanderrudertreffen 2027 Stahnsdorf
 images:
-- src: "Badefloss Lehnin WRT 2011.jpg"
-  title: Badefloss
+#- src: "./images/WRT2027.png"
+#  title: Badefloss Lehnin WRT 2011
 ---
 # Wanderrudertreffen 2027 in Stahnsdorf
 
