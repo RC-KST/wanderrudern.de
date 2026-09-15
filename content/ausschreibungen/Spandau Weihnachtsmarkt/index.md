@@ -4,10 +4,6 @@ author: "Stefan"
 begin: "2026-12-12"
 title: Spandauer Weihnachtsmarkt
 images:
-- src: "IMG_3359.jpg"
-  title: Sonnenuntergang in Spandau
-- src: "IMG_3361.jpg"
-  title: Bootshaus Brandenburgia
 ---
 # Ausflug zum Spandauer Weihnachtsmarkt 
 
@@ -22,4 +18,4 @@ Eine Übernachtung ist nicht vorgesehen. Wer gerne in Spandau übernachten möch
 Die Strecken sind kurz, so dass auch Anfänger problemlos mitrudern können.
 
 
-![Bild](./images/Zitadelle.jpg)
+![Bild](./images/Weihnacchtsdeko_Lovosice_2024.jpg)
