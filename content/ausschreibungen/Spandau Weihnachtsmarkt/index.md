@@ -18,4 +18,4 @@ Eine Übernachtung ist nicht vorgesehen. Wer gerne in Spandau übernachten möch
 Die Strecken sind kurz, so dass auch Anfänger problemlos mitrudern können.
 
 
-![Bild](./images/Weihnacchtsdeko_Lovosice_2024.jpg)
+![Bild](./images/Weihnachtsdeko_Lovosice_2024.jpg)
