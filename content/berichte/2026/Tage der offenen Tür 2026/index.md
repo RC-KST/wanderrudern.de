@@ -30,4 +30,4 @@ Der anschließende Anfängerkurs mit 39 Teilnehmer war neuer Rekord. Nach 10 Rud
 
 ![Rudersteg in Stahnsdorf](images/Steg-Stahnsdorf.jpg)
 
-![Barke vor der Schleuse](images/Tag-der-offenen-Tuer2026.jpg)
+![Anfänger auf dem Rudersteg](images/Tag-der-offenen-Tuer2026.jpg)
