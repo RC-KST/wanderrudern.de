@@ -18,11 +18,16 @@ images:
 - src: images/Party2025.jpg
   title: Tag der offenen Tür
 ---
+![Barke vor der Schleuse](images/Barke-Kleinmachnow.jpg)
 
 Ende April fanden unsere Tage der offenen Tür statt. Bei gutem Wetter waren wieder unzählige Besucher auf unserem Clubgelände am Teltowkanal.
 Samstag und Sonntag waren pausenlos 4-5 Boote im Einsatz, um allen Gästen das Proberudern zu ermöglichen.
 Unser Catering- Team war auch gut beschäftigt damit niemand hungrig oder durstig blieb.
 Wir hoffen, dass es allen gefallen hat und wir zahlreiche neue Ruderer gewonnen haben.
-![Boote im Einsatz](images/Boote_am_Steg_T2025.jpg)
+![Barke vor der Schleuse](images/Stahnsdorf-Proberudern.jpg)
 
 Der anschließende Anfängerkurs mit 39 Teilnehmer war neuer Rekord. Nach 10 Ruderterminen traten viele der Neuen in den Ruderclub ein.
+
+![Rudersteg in Stahnsdorf](images/Steg-Stahnsdorf.jpg)
+
+![Barke vor der Schleuse](images/Tag-der-offenen-Tuer2026.jpg)
