@@ -25,167 +25,132 @@ typen: wanderfahrt
 
 ![Wasserkarte Irland](images/Shannon-Erne-Wasserweg.jpg)
 
-Nach sieben Jahren (Fahrtbericht hier) zog es uns wieder auf die Grüne Insel. Da wir bei
-unserer Nord-Süd-Inselquerung 2019 damit konfrontiert waren, ab dem Lough Derg auf
-dem Shannon nicht mehr so recht weiterzukommen, wurde die Tour diesmal nicht als
-reine Bewegungsfahrt mit täglichem Quartierwechsel geplant, sondern wir blieben auch
-mal zwei Tage an demselben Ort zur Erkundung umliegender Gewässer.
+Nach sieben Jahren (Fahrtbericht hier) zog es uns wieder auf die Grüne Insel. 
+
+Da wir bei unserer Nord-Süd-Inselquerung 2019 damit konfrontiert waren, ab dem Lough Derg auf dem Shannon nicht mehr so recht weiterzukommen, wurde die Tour diesmal nicht als
+reine Bewegungsfahrt mit täglichem Quartierwechsel geplant, sondern wir blieben auch mal zwei Tage an demselben Ort zur Erkundung umliegender Gewässer.
+
 26. August
-Während ein Teil unserer zwölfköpfigen Mannschaft mit dem Flugzeug (einer sogar mit
-der Bahn!) anreiste, zwängten sich bereits am Mittwochmittag sieben Leute in Martins
-Van, hinten dran zwei Zweier+ (Findenfjord, Eyafjördur) und der Vierer+ Bandak. Entspannung
-kommt nach zwei Staus und Chaos ums Duisburger Kreuz erst nach Überquerung
-des Rheins auf, als sich abzeichnet, daß die Fähre in Dünkirchen wohl erreicht werden
-würde. Bei 900 Kilometern weiß man ja nie, was alles dazwischenkommt, und die
-100km/h-Zulassung unseres Anhängers wird hier und da ein wenig überbeansprucht.
+Während ein Teil unserer zwölfköpfigen Mannschaft mit dem Flugzeug (einer sogar mit der Bahn!) anreiste, zwängten sich bereits am Mittwochmittag sieben Leute in Martins Van, hinten dran zwei Zweier+ (Findenfjord, Eyafjördur) und der Vierer+ Bandak.
+
+Entspannung kommt nach zwei Staus und Chaos ums Duisburger Kreuz erst nach Überquerung des Rheins auf, als sich abzeichnet, daß die Fähre in Dünkirchen wohl erreicht werden würde. 
+
+Bei 900 Kilometern weiß man ja nie, was alles dazwischenkommt, und die 100km/h-Zulassung unseres Anhängers wird hier und da ein wenig überbeansprucht.
+
 Tief in der Nacht finden wir dann noch Zeit für eine einstündige Pause am Strand in Middelkerke.
-Gegen vier Uhr morgens heißt es dann schwungvoll die Fährrampe hochzufahren
-- um im Bauch des Schiffes zu erfahren, mangels Wendeplatz für unsere 17,5-Meter-
-Fuhre wieder rückwärts herunter zu müssen, unten zu wenden und rückwärts wieder
-hochzufahren (Die DFDS-Einweiser arbeiten zwar professionell, trotzdem hat man bei
-derartigen Manövern mitten in der Nacht ein mulmiges Gefühl).
+
+Gegen vier Uhr morgens heißt es dann schwungvoll die Fährrampe hochzufahren - um im Bauch des Schiffes zu erfahren, mangels Wendeplatz für unsere 17,5-Meter- Fuhre wieder rückwärts herunter zu müssen, unten zu wenden und rückwärts wieder hochzufahren (Die DFDS-Einweiser arbeiten zwar professionell, trotzdem hat man bei derartigen Manövern mitten in der Nacht ein mulmiges Gefühl).
+
 27. August
-"Erholung auf See": Spätes und gutes "Full-Irish"-Frühstück; dann ein recht gewürzarmes
-Mittagessen und bald auch noch ein üppiges Abendessen - insgesamt bietet DFDS
-einen angenehmen Aufenthalt mit sehr viel Platz zum Ausruhen; draußen an Deck ist es
-sonnig, aber stürmisch. England zieht in wenigen Kilometern Entfernung vorbei.
+"Erholung auf See": Spätes und gutes "Full-Irish"-Frühstück; dann ein recht gewürzarmes Mittagessen und bald auch noch ein üppiges Abendessen - insgesamt bietet DFDS einen angenehmen Aufenthalt mit sehr viel Platz zum Ausruhen; draußen an Deck ist es sonnig, aber stürmisch. England zieht in wenigen Kilometern Entfernung vorbei.
+
 28. August
-Um fünf Uhr starten wir von Rosslare aus in den Linksverkehr, zunächst auf nebligen und
-sehr(!) engen Straßen; rund um Dublin dann dichter Berufsverkehr und Regen; schon um
-halb zehn sind wir aber bei schönstem Sonnenschein an unserem nordirischen Quartier in
-Blaney am Lough Erne (Inishbeg Cottages). Wir haben einen Steg, ein riesiges altmodisches
-Wohnhaus mit fünf Schlafzimmern und ein kleines Haus für zwei. Und eine nette
-Wirtin, schon vor Jahrzehnten aus Süddeutschland nach Ulster ausgewandert.
-Sechs Ruderer gehen angesichts des Superwetters gleich aufs Wasser zu einer ersten
-Nachmittagsrunde auf dem Lough Erne; am Spätnachmittag trudeln die Flugreisenden
-am Busbahnhof in Enniskillen ein.
+Um fünf Uhr starten wir von Rosslare aus in den Linksverkehr, zunächst auf nebligen und sehr(!) engen Straßen; rund um Dublin dann dichter Berufsverkehr und Regen; schon um halb zehn sind wir aber bei schönstem Sonnenschein an unserem nordirischen Quartier in Blaney am Lough Erne (Inishbeg Cottages).
+
+Wir haben einen Steg, ein riesiges altmodisches Wohnhaus mit fünf Schlafzimmern und ein kleines Haus für zwei. Und eine nette Wirtin, schon vor Jahrzehnten aus Süddeutschland nach Ulster ausgewandert.
+
+Sechs Ruderer gehen angesichts des Superwetters gleich aufs Wasser zu einer ersten Nachmittagsrunde auf dem Lough Erne; am Spätnachmittag trudeln die Flugreisenden am Busbahnhof in Enniskillen ein.
+
 29. August
-Es gießt und gießt - wir trauen uns gar nicht aus dem Haus. Erst am Nachmittag geht es
-dann auf den See zu einer 25-km-Tour rund um Davy's Island und White Island mit den
-in Stein gehauenen mysteriösen Porträts aus dem 6. Jahrhundert. Die Skulpturen wurden
-vermutlich von den Wikingern bei einem Raubzug im 9. Jahrhundert erbeutet und
-schließlich 400 Jahre später in den Bau einer inzwischen verfallenen Kirche integriert.
-Anschließend haben wir den See überquert und auch noch die hoch über dem Lough Erne
-liegende Ruine von Tully Castle besichtigt (Anlegen dank vorhandener Motorbootstege
-jeweils problemlos).
+Es gießt und gießt - wir trauen uns gar nicht aus dem Haus.
+
+Erst am Nachmittag geht es dann auf den See zu einer 25-km-Tour rund um Davy's Island und White Island mit den in Stein gehauenen mysteriösen Porträts aus dem 6. Jahrhundert. Die Skulpturen wurden vermutlich von den Wikingern bei einem Raubzug im 9. Jahrhundert erbeutet und schließlich 400 Jahre später in den Bau einer inzwischen verfallenen Kirche integriert.
+
+Anschließend haben wir den See überquert und auch noch die hoch über dem Lough Erne liegende Ruine von Tully Castle besichtigt (Anlegen dank vorhandener Motorbootstege jeweils problemlos).
+
 30. August
-Heute wagen wir uns schon um zehn Uhr hinaus. Es ist nicht gerade sonnig, zeitweise
-auch etwas ungemütlich, aber wir schaffen es trocken bis zur Dulrush Lodge am westlichen
-Ende des Lough Erne und genießen dort die ortsüblichen Heiß- und Kaltgetränke.
-Die durchaus bedrohlichen Regenwolken auf dem Rückweg entleeren sich glücklicherweise
-nicht über uns; dem Vernehmen nach sollen sie allerdings das eine Boot, das schon
-auf dem Hinweg früher umgekehrt ist, voll erwischt haben.
+Heute wagen wir uns schon um zehn Uhr hinaus. Es ist nicht gerade sonnig, zeitweise auch etwas ungemütlich, aber wir schaffen es trocken bis zur Dulrush Lodge am westlichen Ende des Lough Erne und genießen dort die ortsüblichen Heiß- und Kaltgetränke.
+
+Die durchaus bedrohlichen Regenwolken auf dem Rückweg entleeren sich glücklicherweise nicht über uns; dem Vernehmen nach sollen sie allerdings das eine Boot, das schon auf dem Hinweg früher umgekehrt ist, voll erwischt haben.
+
 31. August
-Während der Landdienst den sperrigen Bootsanhänger bereits einige Stationen ins Zentrum
-der Insel voranzieht (interessant ist das Nichtvorhandensein einer erkennbaren EUAußengrenze
-zum EU-Staat Irland), liegt für die Ruderer nur eine Kurzstrecke an zu den
-Ferienwohnungen ("Watersedge Apartments" - empfehlenswert) in Enniskillen, die wir
-bereits von der 2019er Reise kennen. Die Boote lassen wir nach dem Besuch der Klosterruinen
-von Devenish Island und Umfahrung der Enniskillener Altstadt kurzerhand an der
-Marina unterhalb der Unterkunft, wo sie augenscheinlich bis zum nächsten Morgen niemanden
-stören. Abends im Pub genießt unsere Hann.-Mündener Ruderkameradin das
-erste Guinness ihres Lebens.
+Während der Landdienst den sperrigen Bootsanhänger bereits einige Stationen ins Zentrum der Insel voranzieht (interessant ist das Nichtvorhandensein einer erkennbaren EU-Außengrenze zum EU-Staat Irland).
+
+Liegt für die Ruderer nur eine Kurzstrecke an zu den Ferienwohnungen ("Watersedge Apartments" - empfehlenswert) in Enniskillen, die wir bereits von der 2019er Reise kennen.
+
+Die Boote lassen wir nach dem Besuch der Klosterruinen von Devenish Island und Umfahrung der Enniskillener Altstadt kurzerhand an der Marina unterhalb der Unterkunft, wo sie augenscheinlich bis zum nächsten Morgen niemanden stören.
+
+Abends im Pub genießt unsere Hann.-Mündener Ruderkameradin das erste Guinness ihres Lebens.
+
 01. September
-Es geht den Erne 47 Kilometer aufwärts bis zum Castle Saunderson, einem riesigen Pfadfinderheim
-unmittelbar an der Grenze Irlands zum United Kingdom. Zunächst ist alles
-ganz einfach und es regnet auch nicht, aber dann erwischt es uns ausgerechnet auf dem
-windigen Upper Lough Erne. Zwischen all den Inseln ist die Orientierung nicht einfach,
-zumal weder Kartenmaterial noch elektronische Hilfsmittel so richtig wasserfest sind. Um
-zum Ziel zu gelangen, muß der Erne verlassen werden, wir biegen nach Osten auf den
-Quivvy Lough ab und landen am Ende richtig im Finn River beim Scout Center. Die abgelegene
-Anlage mit Großküche und turnhallengroßem Speisesaal steht uns ganz allein zur
-Verfügung - das ist schon fast unheimlich. Für die vorangegangene Strapaze werden wir
-mit einem beeindruckenden Regenbogen belohnt. Obwohl ziemlich durchgefroren, duschen
-alle nur ganz kurz: Unter der nicht regulierbaren Dusche wird man fast abgebrüht.
-02. September
-Heute steht die zweite Langstrecke an; auf dem Shannon-Erne-Waterway sind die ersten
-Schleusen zu bewältigen. Die Schleusenkarte (10 Schleusungen für 6,35 Pfund) haben
-wir schon in Enniskillen gekauft; die Selbstbedienung am Steuerstand an Land klappt
-reibungslos; die Landschaft ist mit Schafen und vielen bunten Kühen gesprenkelt und
-sehr abwechslungsreich. Abwechslungsreich ist leider auch das Wetter. Trotzdem gutgelaunt
-erreichen wir gegen acht unser Quartier am Aghoo Lock Nr. 4 - eine Art Herrenhaus
-mit stilvoller Einrichtung und am Morgen ausgezeichnetem Frühstück im Wintergarten.
-Das Abendessen vom Chinese Take Away von Ballinamore konnte demgegenüber so gar
-nicht überzeugen; leider hatten wir übersehen, daß die letzte ordentliche Bewertung auf
-Tripadvisor von 2019 stammt.
-03. September
-Nur 27 Kilometer, aber 13 Schleusen! Endlich angekommen und diesmal wirklich völlig
-durchnäßt, sind ALLE überzeugt, die Zählung von Waterways Ireland sei grob lückenhaft
-und man habe mindestens 18-mal geschleust … "Wir begreifen die Dinge nicht, wie sie an
-sich sind, sondern wie sie uns erscheinen" (Kant).
-Zum Glück können wir im kleinen Hafen (backbord) von Leitrim Village anlegen und zwei
-nur wenige Meter entfernte nette Ferienhäuser beziehen. Irgendwann ist dann auch der
-Kampf mit der Herdtechnik (nichts nervt mehr als "moderne" Kochfelder, deren Sensoren
-auf jede Berührung mit feuchten Fingern mit Not-Aus reagieren) beendet und das
-Abendessen steht auf dem Tisch.
-04. September
-Wir bleiben in den Ferienhäusern und wollen heute auf dem parallel zum (nicht ruderbaren
-Shannon-Oberlauf) verlaufenden Kanal nach Norden zum Lough Allen aufwärts rudern.
-Schon die erste Schleuse stellt erhebliche Ansprüche an die Haltekraft der Bugleute.
-Weiter geht es mit back- und steuerbords je 20 cm Uferabstand und ständigen "Ruder-
-lang-"Kommandos. Dazu Sturm von vorne - wir beenden die Ausfahrt nach einer weiteren
-Schleusung auf dem Acres Lough.
-Zwar kennen Ruderer keine Mittagspause, wohl aber irische Schleusenwarte; so überbrücken
-wir die Zeit an Land; es gibt neben dem großen Steg nicht nur ein (verwaistes) Tourist
-Office, sondern auch ein (geöffnetes) Café, außerdem in anderthalb Kilometer Entfernung
-die Shed Distillery von Drumshanbo mit wirklich feinen Spirituosen, aber auch viel
-Merchandising-Klimbim und natürlich entsprechendem Reisebus-Publikum.
-Abends im Pub genießen wir die Live-Musik - noch im abgelegensten irischen Kaff geht
-am Wochenende die Post ab und selbst an normalen Werktagen treffen sich Freunde und
-Familien bei Bier und Cider und nicht "auf Facebook".
-05. September
-Heute soll es zur regionalen Metropole Carrick-on-Shannon gehen, und zwar mit einem
-Abstecher zum Lough Key, um dort beim Forest & Activity Park einzukehren. Der Schleusenwart
-an der östlichen Seezufahrt macht uns einen Strich durch die Rechnung: Er will
-erst gar nicht schleusen; dann will er die Ruderboote unmittelbar am Wassereinlauf positionieren
-und tobt rum, als die erfahrenen Wanderruderer ihre Bedenken äußern. Nachdem
-der gute Mann vor Wut torkelnd auch noch rücklings über einen Poller stürzt, wird
-uns klar: Der wurde am Vorabend aus dem Pub geschmissen und hat irgendwas intus,
-was ihm nicht bekommen ist. Wir verlassen die Schleuse flußabwärts, bevor er uns womöglich
-nach seiner Mittagspause den Rückweg vom See abschneidet.
-Wir begnügen uns sodann mit einer gründlichen Erkundung des Lough Drumharlow und
-erreichen nach 30 Kilometern den Ruderclub in Carrick-on-Shannon, wo wir sehr freundlich
-aufgenommen werden.
-In Carrick-on-Shannon ist Hen-Party-Time, Gruppen nicht durchweg geschmackssicher
-aufgetakelter Mädels unterschiedlicher Altersklassen ziehen durch die Kneipen, ebenso -
-aber von ihnen streng nach Geschlecht getrennt - sind auch unzählige Kerle unterwegs.
-Der Ort erinnert an Drosselgasse und Ballermann. Ganz RCKST-untypisch haben wir zum
-Glück im vielfach prämierten "The Oarsman" zwei Tische gebucht und speisen dort zu
-(noch) erträglichen Preisen ganz ausgezeichnet und vom Partyvolk unbelästigt.
-Mitten in Carrick sind wir in einem geräumigen und durchaus stilvoll eingerichteten Altbau
-untergekommen; ein offenbar erst kurze Zeit zurückliegender Wasserschaden und
-eine mit Wohlwollen als improvisiert zu bezeichnende elektrische Ausstattung trüben das
-Wohlbefinden allerdings. Besser als die Unterkunft vor sieben Jahren ist es aber allemal.
-06. September
-Es sind nur 27 Kilometer bis zum Gasthaus "The Silver Eel" am westlichen Ende des
-Grange Lough, aber die haben es in sich: Zunächst geht es den Shannon herab und dann
-nach steuerbord in den Jamestown Canal, wo wir an der Albert Lock wegen des Andrangs
-von Hausbooten das erste und einzige Mal längere Zeit auf eine Schleusung warten müssen.
+Es geht den Erne 47 Kilometer aufwärts bis zum Castle Saunderson, einem riesigen Pfadfinderheim unmittelbar an der Grenze Irlands zum United Kingdom.
+
+Zunächst ist alles ganz einfach und es regnet auch nicht, aber dann erwischt es uns ausgerechnet auf dem windigen Upper Lough Erne.
+Zwischen all den Inseln ist die Orientierung nicht einfach, zumal weder Kartenmaterial noch elektronische Hilfsmittel so richtig wasserfest sind.
+
+Um zum Ziel zu gelangen, muß der Erne verlassen werden, wir biegen nach Osten auf den Quivvy Lough ab und landen am Ende richtig im Finn River beim Scout Center. 
+
+Die abgelegene Anlage mit Großküche und turnhallengroßem Speisesaal steht uns ganz allein zur Verfügung - das ist schon fast unheimlich.
+
+Für die vorangegangene Strapaze werden wir mit einem beeindruckenden Regenbogen belohnt. Obwohl ziemlich durchgefroren, duschen alle nur ganz kurz: Unter der nicht regulierbaren Dusche wird man fast abgebrüht.
+
+3. September
+Heute steht die zweite Langstrecke an; auf dem Shannon-Erne-Waterway sind die ersten Schleusen zu bewältigen.
+
+Die Schleusenkarte (10 Schleusungen für 6,35 Pfund) haben wir schon in Enniskillen gekauft; die Selbstbedienung am Steuerstand an Land klappt reibungslos; die Landschaft ist mit Schafen und vielen bunten Kühen gesprenkelt und sehr abwechslungsreich. Abwechslungsreich ist leider auch das Wetter. 
+
+Trotzdem gutgelaunt erreichen wir gegen acht unser Quartier am Aghoo Lock Nr. 4 - eine Art Herrenhaus mit stilvoller Einrichtung und am Morgen ausgezeichnetem Frühstück im Wintergarten.
+
+Das Abendessen vom Chinese Take Away von Ballinamore konnte demgegenüber so gar nicht überzeugen; leider hatten wir übersehen, daß die letzte ordentliche Bewertung auf Tripadvisor von 2019 stammt.
+
+5. September
+Nur 27 Kilometer, aber 13 Schleusen!
+
+Endlich angekommen und diesmal wirklich völlig durchnäßt, sind ALLE überzeugt, die Zählung von Waterways Ireland sei grob lückenhaft und man habe mindestens 18-mal geschleust … 
+
+"Wir begreifen die Dinge nicht, wie sie an sich sind, sondern wie sie uns erscheinen" (Kant).
+
+Zum Glück können wir im kleinen Hafen (backbord) von Leitrim Village anlegen und zwei nur wenige Meter entfernte nette Ferienhäuser beziehen. 
+
+Irgendwann ist dann auch der Kampf mit der Herdtechnik (nichts nervt mehr als "moderne" Kochfelder, deren Sensoren auf jede Berührung mit feuchten Fingern mit Not-Aus reagieren) beendet und das Abendessen steht auf dem Tisch.
+
+7. September
+Wir bleiben in den Ferienhäusern und wollen heute auf dem parallel zum (nicht ruderbaren Shannon-Oberlauf) verlaufenden Kanal nach Norden zum Lough Allen aufwärts rudern.
+
+Schon die erste Schleuse stellt erhebliche Ansprüche an die Haltekraft der Bugleute. Weiter geht es mit back- und steuerbords je 20 cm Uferabstand und ständigen "Ruder-
+lang-"Kommandos. 
+
+Dazu Sturm von vorne - wir beenden die Ausfahrt nach einer weiteren Schleusung auf dem Acres Lough.
+
+Zwar kennen Ruderer keine Mittagspause, wohl aber irische Schleusenwarte; so überbrücken wir die Zeit an Land; es gibt neben dem großen Steg nicht nur ein (verwaistes) Tourist Office, sondern auch ein (geöffnetes) Café, außerdem in anderthalb Kilometer Entfernung die Shed Distillery von Drumshanbo mit wirklich feinen Spirituosen, aber auch viel Merchandising-Klimbim und natürlich entsprechendem Reisebus-Publikum.
+
+Abends im Pub genießen wir die Live-Musik - noch im abgelegensten irischen Kaff geht am Wochenende die Post ab und selbst an normalen Werktagen treffen sich Freunde und Familien bei Bier und Cider und nicht "auf Facebook".
+
+9. September
+Heute soll es zur regionalen Metropole Carrick-on-Shannon gehen, und zwar mit einem Abstecher zum Lough Key, um dort beim Forest & Activity Park einzukehren.
+
+Der Schleusenwart an der östlichen Seezufahrt macht uns einen Strich durch die Rechnung: Er will erst gar nicht schleusen; dann will er die Ruderboote unmittelbar am Wassereinlauf positionieren und tobt rum, als die erfahrenen Wanderruderer ihre Bedenken äußern. Nachdem der gute Mann vor Wut torkelnd auch noch rücklings über einen Poller stürzt, wird uns klar: Der wurde am Vorabend aus dem Pub geschmissen und hat irgendwas intus, was ihm nicht bekommen ist. 
+
+Wir verlassen die Schleuse flußabwärts, bevor er uns womöglich nach seiner Mittagspause den Rückweg vom See abschneidet.
+Wir begnügen uns sodann mit einer gründlichen Erkundung des Lough Drumharlow und erreichen nach 30 Kilometern den Ruderclub in Carrick-on-Shannon, wo wir sehr freundlich aufgenommen werden.
+
+In Carrick-on-Shannon ist Hen-Party-Time, Gruppen nicht durchweg geschmackssicher aufgetakelter Mädels unterschiedlicher Altersklassen ziehen durch die Kneipen, ebenso - aber von ihnen streng nach Geschlecht getrennt - sind auch unzählige Kerle unterwegs.
+
+Der Ort erinnert an Drosselgasse und Ballermann. Ganz RCKST-untypisch haben wir zum Glück im vielfach prämierten "The Oarsman" zwei Tische gebucht und speisen dort zu (noch) erträglichen Preisen ganz ausgezeichnet und vom Partyvolk unbelästigt.
+
+Mitten in Carrick sind wir in einem geräumigen und durchaus stilvoll eingerichteten Altbau untergekommen; ein offenbar erst kurze Zeit zurückliegender Wasserschaden und eine mit Wohlwollen als improvisiert zu bezeichnende elektrische Ausstattung trüben das Wohlbefinden allerdings. Besser als die Unterkunft vor sieben Jahren ist es aber allemal.
+
+11. September
+Es sind nur 27 Kilometer bis zum Gasthaus "The Silver Eel" am westlichen Ende des Grange Lough, aber die haben es in sich: Zunächst geht es den Shannon herab und dann nach steuerbord in den Jamestown Canal, wo wir an der Albert Lock wegen des Andrangs von Hausbooten das erste und einzige Mal längere Zeit auf eine Schleusung warten müssen.
+
 Anders als gestern ist der Schleusenwart hilfsbereit und zuvorkommend.
-Nachdem wir den Kanal verlassen haben und wieder auf dem Shannon sind, erwischen
-uns auf Lough Tap und Lough Boderg heftiger Wind und Regen von vorn und Steuermann/-
-frau hat keine Chance: Es gibt nur einen Weg und der geht frontal da durch! Es
-werden nasse und extrem anstrengende fünf Kilometer, bis wir nach Westen vom
-Shannon abbiegen und es etwas ruhiger wird. Aber auch die letzten zehn Kilometer bis
-zum Quartier ziehen sich hin; der Regen ist wechselnd intensiv und am Ende werden wir
-nochmal so richtig durchnäßt.
-"The Silver Eel" ist ein liebevoll geführter Gasthof mit gutem und preiswertem Essen und
-üppigem Frühstück. Wie schon vor sieben Jahren waren wir sehr dankbar für die üppigen
-überdachten Terrassenflächen, wo sich die Ruderkleidung gut trocknen läßt. Leider ist
-das Objekt "for sale", so daß eine Weiterempfehlung nur unter Vorbehalt erfolgen kann.
-07. September
-Abendlicher und nächtlicher Sturm hatte Teile der Mannschaft zunächst zweifeln lassen,
-ob es am heutigen Tag gelingen würde, sicher zum Shannon zurück und dann bis Lanesborough
-zu gelangen. Wie auch immer: Den Grange-Lough-Seitenarm bis zum Shannon
-zu bewältigen, war mit Schiebewind eine Freude, und auf Lough Boderg und Lough Bofin
-lief es dann auch viel besser als zunächst befürchtet - kein Vergleich mit dem gestrigen
-Coastal Rowing. 41 Kilometer, am Ziel in Lanesborough ein Yachthafen mit gleich zwei
-ruderbootgeeigneten Rampen und ein Haus ("Riverside Marina Apartments") mit zwei
-großzügig geschnittenen und perfekt ausgestatteten Ferienwohnungen gleich daneben.
-Zum Supermarkt nur wenige hundert Meter - es wurde gut eingekauft und an zwei Abenden
-lecker gegessen mit Blick auf den Fluß und das (stillgelegte) Torfkraftwerk am anderen
-Ufer.
-08. September
+
+Nachdem wir den Kanal verlassen haben und wieder auf dem Shannon sind, erwischen uns auf Lough Tap und Lough Boderg heftiger Wind und Regen von vorn und Steuermann/-frau hat keine Chance: Es gibt nur einen Weg und der geht frontal da durch! 
+Es werden nasse und extrem anstrengende fünf Kilometer, bis wir nach Westen vom Shannon abbiegen und es etwas ruhiger wird. Aber auch die letzten zehn Kilometer bis zum Quartier ziehen sich hin; der Regen ist wechselnd intensiv und am Ende werden wir nochmal so richtig durchnäßt.
+
+"The Silver Eel" ist ein liebevoll geführter Gasthof mit gutem und preiswertem Essen und üppigem Frühstück. 
+Wie schon vor sieben Jahren waren wir sehr dankbar für die üppigen überdachten Terrassenflächen, wo sich die Ruderkleidung gut trocknen läßt. 
+
+Leider ist das Objekt "for sale", so daß eine Weiterempfehlung nur unter Vorbehalt erfolgen kann.
+
+13. September
+Abendlicher und nächtlicher Sturm hatte Teile der Mannschaft zunächst zweifeln lassen, ob es am heutigen Tag gelingen würde, sicher zum Shannon zurück und dann bis Lanesborough zu gelangen.
+
+Wie auch immer: Den Grange-Lough-Seitenarm bis zum Shannon zu bewältigen, war mit Schiebewind eine Freude, und auf Lough Boderg und Lough Bofin lief es dann auch viel besser als zunächst befürchtet - kein Vergleich mit dem gestrigen Coastal Rowing. 41 Kilometer, am Ziel in Lanesborough ein Yachthafen mit gleich zwei ruderbootgeeigneten Rampen und ein Haus ("Riverside Marina Apartments") mit zwei großzügig geschnittenen und perfekt ausgestatteten Ferienwohnungen gleich daneben.
+
+Zum Supermarkt nur wenige hundert Meter - es wurde gut eingekauft und an zwei Abenden lecker gegessen mit Blick auf den Fluß und das (stillgelegte) Torfkraftwerk am anderen Ufer.
+
+15. September
 Windbedingt wird das Standquartier in Lanesborough nicht zu einer Ausfahrt zum berüchtigten
 Lough Ree genutzt; stattdessen geht es nochmal elf Kilometer den Shannon hoch
 zur Schleuse von Cloondara und danach sechs Kilometer den Camlin River herauf und
@@ -193,7 +158,7 @@ wieder zurück - absolutes Genußrudern im Zickzack durch die Wiesen. Irritierte
 hektische Schwäne, Sonne, Wolken, Natur und sonst nichts. Die Mittagsruhe des Schleusenwarts
 bietet die willkommene Gelegenheit zur Einkehr im Richmond Inn am Anfang
 des (nicht ruderbaren) Royal Canal.
-09. September
+16. September
 Nun müssen wir doch den Lough Ree durchqueren, vor sieben Jahren eine heikle Erfahrung,
 weil wir morgens vom Ostufer starten und uns gegen den Sturm von Westen
 durchkämpfen mußten. Diesmal "nur" Seitenwind; man kann unter Land rudern und alle
@@ -206,7 +171,7 @@ und indischer Provenienz, um sich schon gegen halb acht in der 200 Jahre alten
 Jahre 900 errichtet) wieder zusammenzufinden. Da unser Quartier eng und recht laut ist,
 gibt es einen guten Grund, es in dem Pub bei Live-Musik und Guinness, Beamish, Smithwick's,
 Apple Cider oder dem hauseigenen Whiskey recht lange auszuhalten.
-10. September
+17. September
 Nach Banagher wird es nach üppigem Frühstück im Athloner "Beans & Leaves Café" eine
 lange Etappe ganz ohne Sonne. Wir nehmen uns anderthalb Stunden Zeit für die Besichtigung
 der beeindruckenden ehemaligen Klosteranlage Clonmacnoise, deren Geschichte
@@ -223,7 +188,7 @@ Unsere Zimmer im Dun Cromain B&B sind bei Ankunft noch nicht fertig; mit dem Aut
 holen wir erst einmal (ausgezeichnete) Pizza von Gianni's Take Away und gönnen uns
 während der Wartezeit in der gegenüberliegenden Bar von Simon Lyons ein erstes Guinness,
 bevor dort der Bingo-Abend beginnt.
-11. September
+18. September
 Die letzte Teilstrecke führt uns nach Portumna an der Einfahrt zum Lough Derg. Die Tour
 verläuft unspektakulär und regenfrei; die Schleusung am Victoria Lock verläuft problemlos
 und die Brücke von Banagher sieht man schon etliche Kilometer vorab am Horizont.
@@ -234,7 +199,7 @@ fast durchweg von vorn - hinter uns. Zwei Leute fahren nochmal 111 Kilometer hoc
 Silver Eel nach Grange, um den dort zwischengelagerten Anhänger zu holen, danach gibt
 es ein gutes und reichhaltiges Abendessen und die letzten Guinness im gut besetzten
 Pub.
-12. September
+19. September
 Abriggern und Aufladen - danach Besichtigung des vor zweihundert Jahren abgebrannten,
 aber als Museum wiederhergerichteten Schlosses und der Schloßgärten, in dem an
 Gemüse, Obst, Blumen und Sträuchern all das zu wachsen scheint, was das irische Klima
@@ -252,11 +217,11 @@ Am Fährhafen müssen wir erst gegen 23:00 Uhr sein, so daß uns noch Zeit für 
 Stadtbummel in Wexford bleibt: Dort ist wider Erwarten ordentlich was los und wir bekommen
 leckere Fish & Chips. Auf die Fähre geht's diesmal problemlos und es gibt gegen
 ein Uhr sogar noch ein richtiges Abendessen und ein nun wirklich letztes Guinness.
-13. September
+20. September
 Die "Erholung auf See" wird essend und lesend verdöst; erstaunlicherweise sind es draußen
 an Deck über 20 Grad und man kann sich dort einfach mal auf einer Bank hinhauen
 ohne zu frieren. Früh geht es ins Bett, weil wir am
-14. September
+21. September
 schon um halb eins geweckt werden und an Land müssen. Es folgen wieder 900 Kilometer;
 hell wird es erst in Westfalen. Zwei Nicht-Berliner Ruderinnen fahren ab Hannover
 mit dem Zug weiter; nach einer Erholungspause an der ehemaligen Grenzkontrolle geht
