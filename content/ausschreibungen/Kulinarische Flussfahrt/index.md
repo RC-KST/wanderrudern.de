@@ -11,5 +11,5 @@ Multimedia-Show zu den Wanderfahrtzielen im Jahr 2027 mit länderspezifischem Es
 
 Im Clab Stahnsdorf, Bäkedamm 2, 16 Uhr
 
-![Ruderer bei der Baumblüte](./images/Ruderer_bei_der_Baumbluete_2017.jpg)
+![Finnland einsame Insel](./images/Hietasaari-Insel.jpg)
 
