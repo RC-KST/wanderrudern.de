@@ -1,11 +1,11 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2026-01-10"
+begin: "2027-01-23"
 title: Obmannskurs Erwachsene
 images:
 ---
-## 10.- 11. Januar 2026
+## 23.- 24. Januar 2027
 
 ![Obmannskurs](./images/Obmannskurs-2025.jpg)
 
