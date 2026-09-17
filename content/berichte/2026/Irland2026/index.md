@@ -23,4 +23,4 @@ typen: wanderfahrt
 
 
 
-![Ruderboot vor dem Markusplatz in Venedig](images/Ruderboot-Markusplatz.jpg)
+![Wasserkarte Irland](images/Shannon-Erne-Wasserweg.jpg)
