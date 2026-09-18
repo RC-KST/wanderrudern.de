@@ -102,175 +102,149 @@ Zwar kennen Ruderer keine Mittagspause, wohl aber irische Schleusenwarte; so üb
 Abends im Pub genießen wir die Live-Musik - noch im abgelegensten irischen Kaff geht am Wochenende die Post ab und selbst an normalen Werktagen treffen sich Freunde und Familien bei Bier und Cider und nicht auf Facebook.
 
 5. September
-Heute soll es zur regionalen Metropole Carrick-on-Shannon gehen, und zwar mit einem
-Abstecher zum Lough Key, um dort beim Forest &amp; Activity Park einzukehren. Der
-Schleusenwart an der östlichen Seezufahrt macht uns einen Strich durch die Rechnung:
-Er will erst gar nicht schleusen; dann will er die Ruderboote unmittelbar am
-Wassereinlauf positionieren und tobt rum, als die erfahrenen Wanderruderer ihre
-Bedenken äußern.
-Nachdem der gute Mann wutschnaubend torkelnd auch noch rücklings über einen Poller
-stürzt, wird uns klar: Der wurde am Vorabend aus dem Pub geschmissen und hat
-irgendwas intus, was ihm nicht bekommen ist. Wir verlassen die Schleuse flußabwärts,
-bevor er uns womöglich nach seiner Mittagspause den Rückweg vom See abschneidet.
-Wir begnügen uns sodann mit einer gründlichen Erkundung des Lough Drumharlow und
-erreichen nach 30 Kilometern den Ruderclub in Carrick-on-Shannon, wo wir sehr
-freundlich aufgenommen werden.
-In Carrick-on-Shannon ist Hen-Party-Time, Gruppen nicht durchweg geschmackssicher
-aufgetakelter Mädels unterschiedlicher Altersklassen ziehen durch die Kneipen, ebenso -
-aber von ihnen streng nach Geschlecht getrennt - sind auch unzählige Kerle unterwegs.
-Der Ort erinnert an Drosselgasse und Ballermann. Ganz RCKST-untypisch haben wir zum
-Glück im vielfach prämierten &quot;The Oarsman&quot; zwei Tische gebucht und speisen dort zu
-(noch) erträglichen Preisen ganz ausgezeichnet und vom Partyvolk unbelästigt.
-Mitten in Carrick sind wir in einem geräumigen und durchaus stilvoll eingerichteten
-Altbau untergekommen; ein offenbar erst kurze Zeit zurückliegender Wasserschaden und
-eine mit Wohlwollen als improvisiert zu bezeichnende elektrische Ausstattung trüben das
-Wohlbefinden allerdings. Besser als die Unterkunft vor sieben Jahren ist es aber allemal.
-7. September
-Es sind nur 27 Kilometer bis zum Gasthaus &quot;The Silver Eel&quot; am westlichen Ende des
-Grange Lough, aber die haben es in sich: Zunächst geht es den Shannon herab und dann
-nach steuerbord in den Jamestown Canal, wo wir an der Albert Lock wegen des Andrangs
-von Hausbooten das erste und einzige Mal längere Zeit auf eine Schleusung warten
-müssen. Anders als gestern ist der Schleusenwart hilfsbereit und zuvorkommend.
-Nachdem wir den Kanal verlassen haben und wieder auf dem Shannon sind, erwischen
-uns auf Lough Tap und Lough Boderg heftiger Wind und Regen von vorn und
-Steuermann/-frau hat keine Chance: Es gibt nur einen Weg und der geht frontal da
-durch! Es werden nasse und extrem anstrengende fünf Kilometer, bis wir nach Westen
-vom Shannon abbiegen und es etwas ruhiger wird. Aber auch die letzten zehn Kilometer
+Heute soll es zur regionalen Metropole Carrick-on-Shannon gehen, und zwar mit einem Abstecher zum Lough Key, um dort beim Forest &amp; Activity Park einzukehren.
 
-bis zum Quartier ziehen sich hin; der Regen ist wechselnd intensiv und am Ende werden
-wir nochmal so richtig durchnäßt.
-&quot;The Silver Eel&quot; ist ein liebevoll geführter Gasthof mit gutem und preiswertem Essen und
-üppigem Frühstück. Wie schon vor sieben Jahren waren wir sehr dankbar für die üppigen
-überdachten Terrassenflächen, wo sich die Ruderkleidung gut trocknen läßt. Leider ist
-das Objekt &quot;for sale&quot;, so daß eine Weiterempfehlung nur unter Vorbehalt erfolgen kann.
+Der Schleusenwart an der östlichen Seezufahrt macht uns einen Strich durch die Rechnung:
+Er will erst gar nicht schleusen; dann will er die Ruderboote unmittelbar am Wassereinlauf positionieren und tobt rum, als die erfahrenen Wanderruderer ihre Bedenken äußern.
+
+Nachdem der gute Mann wutschnaubend torkelnd auch noch rücklings über einen Poller stürzt, wird uns klar: Der wurde am Vorabend aus dem Pub geschmissen und hat irgendwas intus, was ihm nicht bekommen ist. 
+
+Wir verlassen die Schleuse flußabwärts, bevor er uns womöglich nach seiner Mittagspause den Rückweg vom See abschneidet.
+Wir begnügen uns sodann mit einer gründlichen Erkundung des Lough Drumharlow und erreichen nach 30 Kilometern den Ruderclub in Carrick-on-Shannon, wo wir sehr freundlich aufgenommen werden.
+
+In Carrick-on-Shannon ist Hen-Party-Time, Gruppen nicht durchweg geschmackssicher aufgetakelter Mädels unterschiedlicher Altersklassen ziehen durch die Kneipen, ebenso -aber von ihnen streng nach Geschlecht getrennt - sind auch unzählige Kerle unterwegs.
+
+Der Ort erinnert an Drosselgasse und Ballermann. 
+
+Ganz RCKST-untypisch haben wir zum Glück im vielfach prämierten The Oarsman zwei Tische gebucht und speisen dort zu (noch) erträglichen Preisen ganz ausgezeichnet und vom Partyvolk unbelästigt.
+
+Mitten in Carrick sind wir in einem geräumigen und durchaus stilvoll eingerichteten Altbau untergekommen; ein offenbar erst kurze Zeit zurückliegender Wasserschaden und eine mit Wohlwollen als improvisiert zu bezeichnende elektrische Ausstattung trüben das Wohlbefinden allerdings. 
+Besser als die Unterkunft vor sieben Jahren ist es aber allemal.
+
+6. September
+Es sind nur 27 Kilometer bis zum Gasthaus "The Silver Eel" am westlichen Ende des Grange Lough, aber die haben es in sich:
+Zunächst geht es den Shannon herab und dann nach steuerbord in den Jamestown Canal, wo wir an der Albert Lock wegen des Andrangs von Hausbooten das erste und einzige Mal längere Zeit auf eine Schleusung warten
+müssen.
+Anders als gestern ist der Schleusenwart hilfsbereit und zuvorkommend.
+
+Nachdem wir den Kanal verlassen haben und wieder auf dem Shannon sind, erwischen uns auf Lough Tap und Lough Boderg heftiger Wind und Regen von vorn und Steuermann/-frau hat keine Chance: 
+Es gibt nur einen Weg und der geht frontal da durch!
+Es werden nasse und extrem anstrengende fünf Kilometer, bis wir nach Westen vom Shannon abbiegen und es etwas ruhiger wird. 
+
+Aber auch die letzten zehn Kilometer bis zum Quartier ziehen sich hin; der Regen ist wechselnd intensiv und am Ende werden wir nochmal so richtig durchnäßt.
+
+The Silver Eel ist ein liebevoll geführter Gasthof mit gutem und preiswertem Essen und üppigem Frühstück. 
+Wie schon vor sieben Jahren waren wir sehr dankbar für die üppigen überdachten Terrassenflächen, wo sich die Ruderkleidung gut trocknen läßt. 
+
+Leider ist das Objekt "for sale", so daß eine Weiterempfehlung nur unter Vorbehalt erfolgen kann.
+
 07. September
-Abendlicher und nächtlicher Sturm hatte Teile der Mannschaft zunächst zweifeln lassen,
-ob es am heutigen Tag gelingen würde, sicher zum Shannon zurück und dann bis
-Lanesborough zu gelangen. Wie auch immer: Den Grange-Lough-Seitenarm bis zum
-Shannon zu bewältigen, war mit Schiebewind eine Freude, und auf Lough Boderg und
-Lough Bofin lief es dann auch viel besser als zunächst befürchtet - kein Vergleich mit
-dem gestrigen Coastal Rowing.
-41 Kilometer, am Ziel in Lanesborough ein Yachthafen mit gleich zwei
-ruderbootgeeigneten Rampen und ein Haus (&quot;Riverside Marina Apartments&quot;) mit zwei
-großzügig geschnittenen und perfekt ausgestatteten Ferienwohnungen gleich daneben.
-Zum Supermarkt nur wenige hundert Meter - es wurde gut eingekauft und an zwei
-Abenden lecker gegessen mit Blick auf den Fluß und das (stillgelegte) Torfkraftwerk am
-anderen Ufer.
-08. September
-Windbedingt wird das Standquartier in Lanesborough nicht zu einer Ausfahrt zum
-berüchtigten Lough Ree genutzt; stattdessen geht es nochmal elf Kilometer den Shannon
-hoch zur Schleuse von Cloondara und danach sechs Kilometer den Camlin River herauf
-und wieder zurück - absolutes Genußrudern im Zickzack durch die Wiesen. Irritierte
-Kühe, hektische Schwäne, Sonne, Wolken, Natur und sonst nichts. Die Mittagsruhe des
-Schleusenwarts bietet die willkommene Gelegenheit zur Einkehr im Richmond Inn am
-Anfang des (nicht ruderbaren) Royal Canal.
-09. September
-Nun müssen wir doch den Lough Ree durchqueren, vor sieben Jahren eine heikle
-Erfahrung, weil wir morgens vom Ostufer starten und uns gegen den Sturm von Westen
-durchkämpfen mußten. Diesmal &quot;nur&quot; Seitenwind; man kann unter Land rudern und alle
-kommen wohlbehalten in Athlone an. Dank an die sehr hilfsbereiten Kameraden vom
-Athlone Boat Club mitten in der Stadt, wo unsere Boote problemlos gelagert werden
-konnten!
-Die Ruderer beziehen vier Zimmer(chen) über einem vor kurzem geschlossenen Altstadt-
-Pub und verteilen sich sodann auf diverse Restaurants italienischer, libanesischer und
-indischer Provenienz, um sich schon gegen halb acht in der 200 Jahre alten &quot;Sean&#39;s Bar&quot;
-am Standort des womöglich ältesten Gasthauses der Welt (angeblich im Jahre 900
-errichtet) wieder zusammenzufinden. Da unser Quartier eng und recht laut ist, gibt es
-einen guten Grund, es in dem Pub bei Live-Musik und Guinness, Beamish, Smithwick&#39;s,
-Apple Cider oder dem hauseigenen Whiskey recht lange auszuhalten.
+Abendlicher und nächtlicher Sturm hatte Teile der Mannschaft zunächst zweifeln lassen, ob es am heutigen Tag gelingen würde, sicher zum Shannon zurück und dann bis
+Lanesborough zu gelangen.
+
+Wie auch immer: Den Grange-Lough-Seitenarm bis zum Shannon zu bewältigen, war mit Schiebewind eine Freude, und auf Lough Boderg und
+Lough Bofin lief es dann auch viel besser als zunächst befürchtet - kein Vergleich mit dem gestrigen Coastal Rowing.
+
+41 Kilometer, am Ziel in Lanesborough ein Yachthafen mit gleich zwei ruderbootgeeigneten Rampen und ein Haus ("Riverside Marina Apartments") mit zwei großzügig geschnittenen und perfekt ausgestatteten Ferienwohnungen gleich daneben.
+
+Zum Supermarkt nur wenige hundert Meter - es wurde gut eingekauft und an zwei Abenden lecker gegessen mit Blick auf den Fluß und das (stillgelegte) Torfkraftwerk am anderen Ufer.
+
+8. September
+Windbedingt wird das Standquartier in Lanesborough nicht zu einer Ausfahrt zum berüchtigten Lough Ree genutzt; stattdessen geht es nochmal elf Kilometer den Shannon hoch zur Schleuse von Cloondara und danach sechs Kilometer den Camlin River herauf und wieder zurück - absolutes Genußrudern im Zickzack durch die Wiesen.
+
+Irritierte Kühe, hektische Schwäne, Sonne, Wolken, Natur und sonst nichts. Die Mittagsruhe des Schleusenwarts bietet die willkommene Gelegenheit zur Einkehr im Richmond Inn am Anfang des (nicht ruderbaren) Royal Canal.
+
+9. September
+Nun müssen wir doch den Lough Ree durchqueren, vor sieben Jahren eine heikle Erfahrung, weil wir morgens vom Ostufer starten und uns gegen den Sturm von Westen durchkämpfen mußten. Diesmal nur Seitenwind; man kann unter Land rudern und alle kommen wohlbehalten in Athlone an.
+
+Dank an die sehr hilfsbereiten Kameraden vom Athlone Boat Club mitten in der Stadt, wo unsere Boote problemlos gelagert werden konnten!
+
+Die Ruderer beziehen vier Zimmer(chen) über einem vor kurzem geschlossenen Altstadt-Pub und verteilen sich sodann auf diverse Restaurants italienischer, libanesischer und indischer Provenienz, um sich schon gegen halb acht in der 200 Jahre alten Seans Bar; am Standort des womöglich ältesten Gasthauses der Welt (angeblich im Jahre 900 errichtet) wieder zusammenzufinden. 
+
+Da unser Quartier eng und recht laut ist, gibt es einen guten Grund, es in dem Pub bei Live-Musik und Guinness, Beamish, Smithwicks, Apple Cider oder dem hauseigenen Whiskey recht lange auszuhalten.
+
 10. September
-Nach Banagher wird es nach üppigem Frühstück im Athloner &quot;Beans &amp; Leaves Café&quot; eine
-lange Etappe ganz ohne Sonne.
-Wir nehmen uns anderthalb Stunden Zeit für die Besichtigung der beeindruckenden
-ehemaligen Klosteranlage Clonmacnoise, deren Geschichte 1.500 Jahre zurückreicht;
-jüngstes Bauwerk ist der Pavillon, in dem der Besuch von Johannes Paul II. in Jahre 1979
-gewürdigt wird. Der Blick vom Klosterhügel über die umgebende wolkenverhangene Fluß-
-und Wiesenlandschaft ist beeindruckend, läßt uns aber auch erkennen, daß die zweite
-Tageshälfte noch einiges zu bieten haben wird. So kommt es auch: Unter den Augen am
+Nach Banagher wird es nach üppigem Frühstück im Athloner Beans Leaves Café eine lange Etappe ganz ohne Sonne.
 
-Ufer stoisch verharrender Pferde, Rinder und Schafe geht ein Schauer nach dem anderen
-auf uns nieder; die Strecke zieht sich und am Ende gibt es noch einen richtigen
-Wolkenbruch. Während zwei Boote im Yachthafen Platz finden, muß das dritte Boot
-jenseits der historischen Brücke am gegenüberliegenden Ufer am Steg eines
-Schwimmbeckens(!) vertäut werden, am Ende der wohl praktischere Liegeplatz.
-Unsere Zimmer im Dun Cromain B&amp;B sind bei Ankunft noch nicht fertig; mit dem Auto
-holen wir erst einmal (ausgezeichnete) Pizza von Gianni&#39;s Take Away und gönnen uns
-während der Wartezeit in der gegenüberliegenden Bar von Simon Lyons ein erstes
-Guinness, bevor dort der Bingo-Abend beginnt.
+Wir nehmen uns anderthalb Stunden Zeit für die Besichtigung der beeindruckenden ehemaligen Klosteranlage Clonmacnoise, deren Geschichte 1.500 Jahre zurückreicht; jüngstes Bauwerk ist der Pavillon, in dem der Besuch von Johannes Paul II. in Jahre 1979 gewürdigt wird. 
+
+Der Blick vom Klosterhügel über die umgebende wolkenverhangene Fluß- und Wiesenlandschaft ist beeindruckend, läßt uns aber auch erkennen, daß die zweite Tageshälfte noch einiges zu bieten haben wird. 
+
+So kommt es auch: Unter den Augen am Ufer stoisch verharrender Pferde, Rinder und Schafe geht ein Schauer nach dem anderen auf uns nieder; die Strecke zieht sich und am Ende gibt es noch einen richtigen
+Wolkenbruch. 
+Während zwei Boote im Yachthafen Platz finden, muß das dritte Boot jenseits der historischen Brücke am gegenüberliegenden Ufer am Steg eines Schwimmbeckens(!) vertäut werden, am Ende der wohl praktischere Liegeplatz.
+
+Unsere Zimmer im Dun Cromain sind bei Ankunft noch nicht fertig; mit dem Auto holen wir erst einmal (ausgezeichnete) Pizza von Giannis Take Away und gönnen uns während der Wartezeit in der gegenüberliegenden Bar von Simon Lyons ein erstes Guinness, bevor dort der Bingo-Abend beginnt.
+
 11. September
-Die letzte Teilstrecke führt uns nach Portumna an der Einfahrt zum Lough Derg. Die Tour
-verläuft unspektakulär und regenfrei; die Schleusung am Victoria Lock verläuft
-problemlos und die Brücke von Portumna sieht man schon etliche Kilometer vorab am
-Horizont. Nach ein paar Wellen kommen wir am Yachthafen am Schloßpark von Portumna
-an und lagern die Boote. Alle ahnen, daß es vor der morgigen Verladung keine Ausfahrt
-mehr geben wird; es liegen schließlich schon 463 Kilometer an 15 Rudertagen mit
-einigem Regen und viel Wind - fast durchweg von vorn - hinter uns. Zwei Leute fahren
-nochmal 111 Kilometer hoch zum Silver Eel nach Grange, um den dort
-zwischengelagerten Anhänger zu holen, danach gibt es ein gutes und reichhaltiges
-Abendessen und die letzten Guinness im gut besetzten Pub.
-12. September
-Abriggern und Aufladen - danach Besichtigung des vor zweihundert Jahren
-abgebrannten, aber als Museum wiederhergerichteten Schlosses und der Schloßgärten, in
-dem an Gemüse, Obst, Blumen und Sträuchern all das zu wachsen scheint, was das
-irische Klima verträgt. Die mit Auto und Booten Angereisten verlassen gegen 14:00 Uhr
-das Quartier, eine Ferienwohnung, die wie die gesamte vielleicht 25 Jahre alte
-Wohnanlage noch nie die sprichwörtlichen &quot;besseren Zeiten gesehen&quot; haben dürfte: Das
-ehemalige &quot;Bauträgerprojekt&quot; strotzt vor Bauschäden. Spontan kommt der Gedanke, den
-verfallenden Hotelneubau nebenan als Seminarzentrum für Bauschadensgutachter
-wiederzubeleben.
-Die Rückfahrt über schmale bis wirklich enge Landstraßen enthält eine 25 Kilometer
-lange Single-Track-Strecke durchs Hochmoor mit grandiosen Aussichten; die Begegnung
-mit einem Pulk entgegenkommender Fahrzeuge verläuft nur deswegen reibungslos, weil
-es sich um Ford- und Wolseley-Oldtimer aus den 60er und 70er Jahren handelt, die nicht
-so ausladend sind wie aktuell übliche SUV-Klumpenautos.
-Am Fährhafen müssen wir erst gegen 23:00 Uhr sein, so daß uns noch Zeit für einen
-Stadtbummel in Wexford bleibt: Dort ist wider Erwarten ordentlich was los und wir
-bekommen leckere Fish &amp; Chips. Auf die Fähre geht&#39;s diesmal problemlos und es gibt
-gegen ein Uhr sogar noch ein richtiges Abendessen und ein nun wirklich letztes Guinness.
-13. September
-Die &quot;Erholung auf See&quot; wird essend und lesend verdöst; erstaunlicherweise sind es
-draußen an Deck über 20 Grad und man kann sich dort einfach mal auf einer Bank
-hinhauen ohne zu frieren. Früh geht es ins Bett, weil wir am
-14. September
-schon um halb eins geweckt werden und an Land müssen. Es folgen wieder 900
-Kilometer; hell wird es erst in Westfalen. Zwei Nicht-Berliner Ruderinnen fahren ab
-Hannover mit dem Zug weiter; nach einer Erholungspause an der ehemaligen
-Grenzkontrolle wird Sachsen-Anhalt reibungslos durchquert und wir sind am Mittag
-wieder zuhause.
+Die letzte Teilstrecke führt uns nach Portumna an der Einfahrt zum Lough Derg.
 
-Es war eine zeitweilig anstrengende, aber stets unterhaltsame Wanderfahrt mit ganz viel
-Landschaft, ganz viel Wetter (welchem, das lassen wir mal dahingestellt), bis auf die
-Windrichtung (von vorn) sehr abwechslungsreichen Tagesetappen, spektakulären Ruinen
-(nein, gemeint ist nicht das letzte Quartier) und genußreichen Gaststättenbesuchen.
-Meist haben wir selber kochen können (Dank an fantasiereiche und gut organisierte
-Protagonisten); ansonsten haben auch die professionellen Versorger unseren Ansprüchen
-standhalten können. Einen Unterschied zwischen Nordirland (UK) und der Republik Irland
-macht für den Touristen nur die Währung und der Hinweis auf den Wechsel von km/h zu
-mph an der Grenze. Die Menschen in Irland zeigten sich stets interessiert, hilfsbereit und
-(mit Ausnahme eines einzigen Schleusenwarts) freundlich, man grüßt sich auf der
-Straße, und trotz der Corona-Delle gibt es in jeder irischen Dorfstraße noch immer
-mehrere Pubs, in denen sich die Generationen treffen.
-Es wird zügig gefahren trotz zum großen Teil sehr enger Straßen und teils
-jahrhundertealter Brückenbauten, zu Fuß oder per Fahrrad möchte man da nicht
-unterwegs sein. Aggressiv oder rücksichtslos ist man aber nicht - vielleicht führt gerade
-die Beengtheit dazu, daß man überall aufeinander achtgibt.
-Durchweg hat man der Geographie entsprechend mit Wind und Wellen zu rechnen und
-muß auf entsprechende abgedeckte Boote zurückgreifen können. Stege findet man nicht
-gerade an jeder Ecke; &quot;wildes&quot; Anlegen ist nur schwer möglich, da es an den Ufern fast
-nur Steine und keinen Sand gibt. Strömung ist eher vernachlässigbar. Die Schleusen sind
-meist ziemlich alt, die Schleusentore undicht. Es ist nicht immer einfach, die Boote in der
-Schleuse festzuhalten. Seile sind zu empfehlen; zum Festhalten gibt es keine Leitern,
-sondern nur glitschige Ketten oft an ungünstiger Position. Da die Schleusen irgendwo
-verstreut in der Wildnis liegen, sollte man sich das für UK und IRL gültige 10er-
+Die Tour verläuft unspektakulär und regenfrei; die Schleusung am Victoria Lock verläuft problemlos und die Brücke von Portumna sieht man schon etliche Kilometer vorab am Horizont. 
+
+Nach ein paar Wellen kommen wir am Yachthafen am Schloßpark von Portumna an und lagern die Boote. 
+Alle ahnen, daß es vor der morgigen Verladung keine Ausfahrt mehr geben wird; es liegen schließlich schon 463 Kilometer an 15 Rudertagen mit einigem Regen und viel Wind - fast durchweg von vorn - hinter uns. 
+
+Zwei Leute fahren nochmal 111 Kilometer hoch zum Silver Eel nach Grange, um den dort zwischengelagerten Anhänger zu holen, danach gibt es ein gutes und reichhaltiges Abendessen und die letzten Guinness im gut besetzten Pub.
+
+12. September
+Abriggern und Aufladen - danach Besichtigung des vor zweihundert Jahren abgebrannten, aber als Museum wiederhergerichteten Schlosses und der Schloßgärten, in dem an Gemüse, Obst, Blumen und Sträuchern all das zu wachsen scheint, was das irische Klima verträgt.
+
+Die mit Auto und Booten Angereisten verlassen gegen 14:00 Uhr das Quartier, eine Ferienwohnung, die wie die gesamte vielleicht 25 Jahre alte Wohnanlage noch nie die sprichwörtlichen besseren Zeiten gesehen haben dürfte: 
+
+Das ehemalige Bauträgerprojekt strotzt vor Bauschäden. Spontan kommt der Gedanke, den verfallenden Hotelneubau nebenan als Seminarzentrum für Bauschadensgutachter wiederzubeleben.
+
+Die Rückfahrt über schmale bis wirklich enge Landstraßen enthält eine 25 Kilometer lange Single-Track-Strecke durchs Hochmoor mit grandiosen Aussichten; die Begegnung mit einem Pulk entgegenkommender Fahrzeuge verläuft nur deswegen reibungslos, weil es sich um Ford- und Wolseley-Oldtimer aus den 60er und 70er Jahren handelt, die nicht so ausladend sind wie aktuell übliche SUV-Klumpenautos.
+
+Am Fährhafen müssen wir erst gegen 23:00 Uhr sein, so daß uns noch Zeit für einen Stadtbummel in Wexford bleibt:
+
+Dort ist wider Erwarten ordentlich was los und wir bekommen leckere Fish & Chips.
+
+Auf die Fähre geht es diesmal problemlos und es gibt gegen ein Uhr sogar noch ein richtiges Abendessen und ein nun wirklich letztes Guinness.
+
+13. September
+Die Erholung auf See wird essend und lesend verdöst; erstaunlicherweise sind es draußen an Deck über 20 Grad und man kann sich dort einfach mal auf einer Bank hinhauen ohne zu frieren.
+Früh geht es ins Bett, weil wir am
+
+14. September
+schon um halb eins geweckt werden und an Land müssen.
+Es folgen wieder 900 Kilometer; hell wird es erst in Westfalen.
+
+Zwei Nicht-Berliner Ruderinnen fahren ab Hannover mit dem Zug weiter; nach einer Erholungspause an der ehemaligen Grenzkontrolle wird Sachsen-Anhalt reibungslos durchquert und wir sind am Mittag wieder zuhause.
+
+Es war eine zeitweilig anstrengende, aber stets unterhaltsame Wanderfahrt mit ganz viel Landschaft, ganz viel Wetter (welchem, das lassen wir mal dahingestellt), bis auf die Windrichtung (von vorn) sehr abwechslungsreichen Tagesetappen, spektakulären Ruinen (nein, gemeint ist nicht das letzte Quartier) und genußreichen Gaststättenbesuchen.
+
+Meist haben wir selber kochen können (Dank an fantasiereiche und gut organisierte Protagonisten); ansonsten haben auch die professionellen Versorger unseren Ansprüchen standhalten können. 
+
+Einen Unterschied zwischen Nordirland (UK) und der Republik Irland macht für den Touristen nur die Währung und der Hinweis auf den Wechsel von km/h zu mph an der Grenze.
+
+Die Menschen in Irland zeigten sich stets interessiert, hilfsbereit und (mit Ausnahme eines einzigen Schleusenwarts) freundlich, man grüßt sich auf der Straße, und trotz der Corona-Delle gibt es in jeder irischen Dorfstraße noch immer mehrere Pubs, in denen sich die Generationen treffen.
+
+Es wird zügig gefahren trotz zum großen Teil sehr enger Straßen und teils jahrhundertealter Brückenbauten, zu Fuß oder per Fahrrad möchte man da nicht unterwegs sein. 
+
+Aggressiv oder rücksichtslos ist man aber nicht - vielleicht führt gerade die Beengtheit dazu, daß man überall aufeinander achtgibt.
+
+Durchweg hat man der Geographie entsprechend mit Wind und Wellen zu rechnen und muß auf entsprechende abgedeckte Boote zurückgreifen können. 
+
+Stege findet man nicht gerade an jeder Ecke; wildes Anlegen ist nur schwer möglich, da es an den Ufern fast nur Steine und keinen Sand gibt. Strömung ist eher vernachlässigbar. 
+
+Die Schleusen sind meist ziemlich alt, die Schleusentore undicht. 
+Es ist nicht immer einfach, die Boote in der Schleuse festzuhalten.
+
+Seile sind zu empfehlen; zum Festhalten gibt es keine Leitern, sondern nur glitschige Ketten oft an ungünstiger Position. 
+
+Da die Schleusen irgendwo verstreut in der Wildnis liegen, sollte man sich das für UK und IRL gültige 10er-
 Schleusenticket für die gesamten Erne-Shannon-Waterways vorab in der Stadt besorgen.
-Die Qualität der Unterkünfte ist breit gestaffelt; dank des vorherigen Rechercheaufwands
-und der Erfahrung von der letzten Tour haben wir uns fast überall gut untergebracht
-gesehen. Kompromisse muß man bei der Ausstattung der Küchen machen (wenig
-Besteck und Geschirr, lahme Herde, tückisch: Ein-/Ausschalter für Kühlschrank an der
-Wand wie ein Lichtschalter); die Funktionalität von Sanitäranlagen erschließt sich
-manchmal nicht auf Anhieb. Wenn irgendwo zwei Betten stehen, so haben sie regelmäßig
-nur eine gemeinsame Decke; es soll Nutzerpaare geben, die dies nicht goutieren.
-Rettungswesten sollten zumindest an Bord sein, ansonsten: Regenzeug, Regenzeug,
-Regenzeug. Keineswegs regnet es immer, aber es regnet immer mal wieder (sog.
-gelegentlicher Regen, auf irisch: &quot;Breacbháisteach&quot;).
+
+Die Qualität der Unterkünfte ist breit gestaffelt; dank des vorherigen Rechercheaufwands und der Erfahrung von der letzten Tour haben wir uns fast überall gut untergebracht
+gesehen. 
+
+Kompromisse muß man bei der Ausstattung der Küchen machen (wenig Besteck und Geschirr, lahme Herde, tückisch: Ein-/Ausschalter für Kühlschrank an der
+Wand wie ein Lichtschalter); die Funktionalität von Sanitäranlagen erschließt sich manchmal nicht auf Anhieb. 
+
+Wenn irgendwo zwei Betten stehen, so haben sie regelmäßig nur eine gemeinsame Decke; es soll Nutzerpaare geben, die dies nicht goutieren.
+
+Rettungswesten sollten zumindest an Bord sein, ansonsten: Regenzeug, Regenzeug, Regenzeug. 
+
+Keineswegs regnet es immer, aber es regnet immer mal wieder (sog. gelegentlicher Regen, auf irisch: Breacbháisteach).
+
 Slán go fóill (Auf Wiedersehen bis bald einmal!)
