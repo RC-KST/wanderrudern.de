@@ -35,12 +35,6 @@
                 "backdrop_image" (resources.Get site.Params.backdrop_image).Permalink
             )
         -}}
-        {{ $style_main := resources.Get "sass/main.scss" | css.Sass $css_options | resources.Minify }}
-        <link rel="stylesheet" href={{ $style_main.Permalink }}>
-        {{- $style_slideshow := resources.Get "sass/slideshow.scss" | css.Sass | resources.Minify }}
-        <link rel="stylesheet" href={{ $style_slideshow.Permalink }}>
-
-        <!--{{ $style_bericht := resources.Get "sass/bericht.scss" | css.Sass | resources.Minify }}-->
 
         {{- with .OutputFormats.Get "rss" }}
             {{- printf `<link rel="%s" type="%s" href="%s" title="%s"></link>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
