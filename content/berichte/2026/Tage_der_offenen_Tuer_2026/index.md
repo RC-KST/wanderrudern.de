@@ -1,22 +1,14 @@
 ---
 draft: false
 title: Tage der offenen Tür 2026
-#author: "Stefan"
 begin: 2026-04-25
-end: 202-04-26
+end: 2026-04-26
 date: 2025-05-30
 gewässer:
 - teltowkanal
 länder:
 - deutschland
 typen: veranstaltung
-images:
-- src: images/Boote_am_Steg_T2025.jpg
-  title: Ruderboote beim Tag der offenen Tür 2025
-- src: images/Barke_T2025.jpg
-  title: Barke auf dem Teltowkanal
-- src: images/Party2025.jpg
-  title: Tag der offenen Tür
 ---
 ![Barke vor der Schleuse](images/Barke-Kleinmachnow.jpg)
 
