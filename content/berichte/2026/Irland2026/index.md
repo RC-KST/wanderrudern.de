@@ -20,7 +20,7 @@ Bericht von Martin
 
 ![Wasserkarte Irland](images/Shannon-Erne-Wasserweg.jpg)
 
-Nach sieben Jahren (Fahrtbericht hier) zog es uns wieder auf die Grüne Insel. Da wir bei unserer Nord-Süd-Inselquerung 2019 damit konfrontiert waren, ab dem Lough Derg auf
+Nach sieben Jahren ([Irland 2019](/berichte/2019/saimaa2025)) zog es uns wieder auf die Grüne Insel. Da wir bei unserer Nord-Süd-Inselquerung 2019 damit konfrontiert waren, ab dem Lough Derg auf
 dem Shannon nicht mehr so recht weiterzukommen, wurde die Tour diesmal nicht als reine Bewegungsfahrt mit täglichem Quartierwechsel geplant, sondern wir blieben auch
 mal zwei Tage an demselben Ort zur Erkundung umliegender Gewässer.
 
