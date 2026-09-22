@@ -1,5 +1,5 @@
 ---
-author: "Stefan"
+author: "Martin"
 begin: "2026-08-26"
 date: "2026-09-16"
 gewässer:
@@ -15,6 +15,8 @@ typen: wanderfahrt
 ---
 
 # Herbstwanderfahrt durch Irland
+
+Bericht von Martin
 
 ![Wasserkarte Irland](images/Shannon-Erne-Wasserweg.jpg)
 
