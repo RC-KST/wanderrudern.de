@@ -113,24 +113,27 @@ function initTouchState(callback, element) {
                     out_evt = "click";
                 } else {
                     let cm = state.touches[id].movement;
-                    if (Math.abs(cm.x) > state.off_axis_ratio * Math.abs(cm.y)) {
+                    let no_pinch = Object.keys(state.touches).length == 1;
+                    let on_axis = Math.abs(cm.x) > state.off_axis_ratio * Math.abs(cm.y);
+                    if (no_pinch && on_axis) {
                         out_evt = (cm.x < 0) ? "swipe_left" : "swipe_right";
                     } else {
                         out_evt = "click"; // Workaround for now
                     }
                 }
             }
+            console.log("Emitting out event:", out_evt);
 
             if (state.callback !== null) {
                 state.callback(out_evt);
             }
-
         }
 
         for (let i = 0; i < evt.changedTouches.length; i++) {
             let id = evt.changedTouches[i].identifier;
             delete state.touches[id];
         }
+        console.log("touchend", state.touches)
     });
     element.addEventListener("touchcancel", (evt) => {
         for (let i = 0; i < evt.changedTouches.length; i++) {
@@ -138,6 +141,7 @@ function initTouchState(callback, element) {
             delete state.touches[id];
         }
         //evt.preventDefault();
+        console.log("touchcancel", state.touches)
     });
     return state;
 }
