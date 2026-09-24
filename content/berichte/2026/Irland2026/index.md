@@ -16,7 +16,6 @@ typen: wanderfahrt
 
 # Herbstwanderfahrt durch Irland
 
-Bericht von Martin
 
 ![Wasserkarte Irland](images/Shannon-Erne-Wasserweg.jpg)
 
