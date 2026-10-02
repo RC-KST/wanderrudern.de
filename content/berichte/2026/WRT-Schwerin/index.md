@@ -35,10 +35,11 @@ Da die Schweriner RG etwas knapp am Bootsplätzen war, haben wir unsere Barke mi
 Das Einsetzen an der Slip-Rampe ging nur mit einigen Schwierigkeiten, da die Rampe einen zu steilen Knick hatte. Aber mit etwas basteln klappte es dann doch.
 
 Samstag ging es mit rund 220 Ruderern auf einer Runde um den Schweriner See. Wegen des Windes auf einer etwas veränderten Strecke.
-Der Abend im Festzelt litt etwas unter Knappheit am Büffet, aber zum Schluss wurde jeder satt.
+Der Abend im Festzelt litt ein wenig unter Knappheit am Büffet, aber zum Schluss wurde jeder satt.
+Allerdings gab es auch "all you can drink" was wir für eine nicht so schlaue Idee hielten.....
 
 Am Sonntag erhielten wir unseren Winsauerpreis im festlichen Rahmen des Neustädtischen Palais.
 
-Damit wir auch 2026 wieder erfolgreichster Deutscher Wanderruderverein werden, ist hier der Aufruf an Wanderfahrten teilzunehmen und insbesondere wäre es schön, wenn möglichste viele Ruderer ihren Jahreswettbewerb schaffen.
+## Damit wir auch 2026 wieder erfolgreichster Deutscher Wanderruderverein werden, ist hier der Aufruf an Wanderfahrten teilzunehmen und insbesondere wäre es schön, wenn möglichste viele Ruderer ihren Jahreswettbewerb schaffen.
 Je nach Alter braucht man dazu 200-800 km. Davon müssen 100-160 km auf Wanderfahrt oder auf Tagesfahrten über 30 km erbracht werden.
 
