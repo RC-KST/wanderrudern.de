@@ -5,9 +5,12 @@ date: "2026-10-02"
 gewässer: 
 - schweriner see
 images:
-- src: images/Emster-Kanal.jpg
-  title: Im Dauerregen durch den Emster Kanal
-
+- src: images/Barke-Schwerin.jpg
+  title: Kleinmachnower Barke vor dem Schloss Schwerin
+- src: images/Barke-Schweriner-See.jpg
+  title: Kleinmachnower Barke in Schwerin
+- src: images/Festzelt-Schwerin.jpg
+  title: Festzelt beim Wanderrudertreffen in Schwerin
 länder: 
 - deutschland
 title: Wanderrudertreffen in Schwerin 
