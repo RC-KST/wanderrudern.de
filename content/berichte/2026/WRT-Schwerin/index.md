@@ -26,6 +26,8 @@ Gewertet werden hier die Wanderruderkilometer des Vereins und die Zahl der Teiln
 
 Der RC KST hat diesen Preis offiziell zum 15. Mal gewonnen (17. Mal wenn man die beiden Corona Jahre mitrechnet)
 
+![Winsauerpreis 2026](images/Winsauerpreis-2026.jpg)
+
 Da die Schweriner RG etwas knapp am Bootsplätzen war, haben wir unsere Barke mitgebracht.
 Das Einsetzen an der Slip-Rampe ging nur mit einigen Schwierigkeiten, da die Rampe einen zu steilen Knick hatte. Aber mit etwas basteln klappte es dann doch.
 
@@ -37,4 +39,3 @@ Am Sonntag erhielten wir unseren Winsauerpreis im festlichen Rahmen des Neustäd
 Damit wir auch 2026 wieder erfolgreichster Deutscher Wanderruderverein werden, ist hier der Aufruf an Wanderfahrten teilzunehmen und insbesondere wäre es schön, wenn möglichste viele Ruderer ihren Jahreswettbewerb schaffen.
 Je nach Alter braucht man dazu 200-800 km. Davon müssen 100-160 km auf Wanderfahrt oder auf Tagesfahrten über 30 km erbracht werden.
 
-![Wanderrudertreffen Lehnin](images/WRT-Party.jpg)
