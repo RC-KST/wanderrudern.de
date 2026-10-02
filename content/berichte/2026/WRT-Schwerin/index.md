@@ -16,7 +16,7 @@ typen: wanderfahrt
 
 # Winsauer Preis geht wieder an den RC KST
 
-## RC KST Deutschlands erfolgreichster Wanderruderverein (mittelgroße Verein)
+## RC KST Deutschlands erfolgreichster Wanderruderverein (mittelgroße Vereine)
 
 Das Deutsche Wanderrudertreffen fand dieses Jahr in Schwerin statt.
 Im Rahmen des Wanderrudertreffens wird jedes Jahr der Winsauerpreis für die erfolgreichsten Wanderrudervereine Deutschlands verliehen.
