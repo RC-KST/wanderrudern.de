@@ -1,5 +1,5 @@
 ---
-author: "Stefan"
+author: "Martin"
 begin: "2026-08-26"
 date: "2026-09-16"
 gewässer:
@@ -12,13 +12,94 @@ länder:
 - irland
 title: Erne + Shannon 
 typen: wanderfahrt
+images:
+- src: images/260826_MiddelkerkeBelgien.jpg
+- src: images/260827_Dünkirchen.jpg
+- src: images/260827vorEngland.jpg
+- src: images/260828ErsteAusfahrtLowerLoughErne.jpg
+- src: images/260829LoughErneBlickausdemHaus.jpg
+- src: images/260829LoughErneWohnraum.jpg
+- src: images/260829LoweerLoughErneIMG_8671.jpg
+- src: images/260829TullyCastle.jpg
+- src: images/260830LoughErne.jpg
+- src: images/260830LoughErneRückfahrt.jpg
+- src: images/260831Enniskillen.jpg
+- src: images/260831_PubEnniskillen.jpg
+- src: images/260901RiverErne.jpg
+- src: images/260901Saunderson.jpg
+- src: images/260901SaundersonRegenbogen.jpg
+- src: images/260901UpperLoughErne.jpg
+- src: images/260901UpperLoughErneLandsitz.jpg
+- src: images/260902Fahrrinnenmarkierung.jpg
+- src: images/260902SchleuseWoodfordRiver.jpg
+- src: images/260902Sonne.jpg
+- src: images/260903BallinamoreFrühstück.jpg
+- src: images/260903BallinamoreMaria.jpg
+- src: images/260903BallinamoreSchleuse1.jpg
+- src: images/260903KurzvorLeitrimVillage.jpg
+- src: images/260903Schleuse11von13.jpg
+- src: images/260904AbwärtsschleusenSeitenkanal.jpg
+- src: images/260904DrumleageLockTor.jpg
+- src: images/260904DrumleagueLockUnterwasser.jpg
+- src: images/260904LeitrimVillageQuartier.jpg
+- src: images/260904ShannonSeitenkanal.jpg
+- src: images/260905AnkunftCarrick-on-Shannon.jpg
+- src: images/260905Digestif.jpg
+- src: images/260905EssenimOrsman.jpg
+- src: images/260905ShonnonvorCarrick.jpg
+- src: images/260906BlickausdemZimmer.jpg
+- src: images/260906GrangeLough.jpg
+- src: images/260906LoughBodergSturm.jpg
+- src: images/260907GrangeStart.jpg
+- src: images/260907LanesboroughLändlicheEinkaufsstätte.jpg
+- src: images/260907SilverEelGrangeFrühstück.jpg
+- src: images/260908CamlinRiver2.jpg
+- src: images/260908FeWoAbendessen.jpg
+- src: images/260908HafenCloondara.jpg
+- src: images/260908Kanalbrücke.jpg
+- src: images/260908Schleusenkanal.jpg
+- src: images/260908ShannonAbend.jpg
+- src: images/260909AthloneAltstadt.jpg
+- src: images/260909AthloneEssen.jpg
+- src: images/260909AthloneSean'sBar.jpg
+- src: images/260909AthloneeinigeZapfhähne.jpg
+- src: images/260909AthloneimältestenPubderWelt.jpg
+- src: images/260909BooteAthlone.jpg
+- src: images/260910BanagherAnlegenamPool.jpg
+- src: images/260910BanagherPanorama.jpg
+- src: images/260910BanagherPub2.jpg
+- src: images/260910Baum.jpg
+- src: images/260910Clonmacnoise2.jpg
+- src: images/260910Clonmacnoise3.jpg
+- src: images/260910DirtyOldTown.jpg
+- src: images/260910Pferde.jpg
+- src: images/260910Regen1.jpg
+- src: images/260910Regen4.jpg
+- src: images/260910Rinder.jpg
+- src: images/260910Wind1.jpg
+- src: images/260911Goodbye.jpg
+- src: images/260911LoughDergZiel.jpg
+- src: images/260911PortumnaCastle.jpg
+- src: images/260911PortumnaPub.jpg
+- src: images/260911VictoriaLockAnleger.jpg
+- src: images/260912PortumnaGarten1.jpg
+- src: images/260912PortumnaLaden.jpg
+- src: images/260912PortumnaSchloßpark.jpg
+- src: images/260912QuartierPortumna.jpg
+- src: images/260912RückreiseHochmoor1.jpg
+- src: images/260912RückreiseOldtimerGegenverkehr.jpg
+- src: images/260912WexfordStadtrundgang.jpg
+- src: images/260913aufSeevorFrankreich.jpg
+- src: images/LanesboroughWhg2.jpg
+- src: images/Shannon-Erne-Wasserweg.jpg
 ---
 
 # Herbstwanderfahrt durch Irland
 
+
 ![Wasserkarte Irland](images/Shannon-Erne-Wasserweg.jpg)
 
-Nach sieben Jahren (Fahrtbericht hier) zog es uns wieder auf die Grüne Insel. Da wir bei unserer Nord-Süd-Inselquerung 2019 damit konfrontiert waren, ab dem Lough Derg auf
+Nach sieben Jahren ([Irland 2019](/berichte/2019/irland_shannon_2019)) zog es uns wieder auf die Grüne Insel. Da wir bei unserer Nord-Süd-Inselquerung 2019 damit konfrontiert waren, ab dem Lough Derg auf
 dem Shannon nicht mehr so recht weiterzukommen, wurde die Tour diesmal nicht als reine Bewegungsfahrt mit täglichem Quartierwechsel geplant, sondern wir blieben auch
 mal zwei Tage an demselben Ort zur Erkundung umliegender Gewässer.
 
