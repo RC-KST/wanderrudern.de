@@ -7,7 +7,9 @@ images:
 ---
 # Vorstellung der Veranstaltungen 2027
 
-Multimedia-Show zu den Wanderfahrtzielen im Jahr 2027 mit länderspezifischem Essen zu den einzelnen Reisezielen.
+## Samstag 16.1. ab 16 Uhr
+
+Multimedia-Show zu den Wanderfahrtzielen im Jahr 2027 mit länderspezifischem Essen zu den einzelnen Reisezielen. 
 
 Im Clab Stahnsdorf, Bäkedamm 2, 16 Uhr
 

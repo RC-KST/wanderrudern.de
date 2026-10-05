@@ -1,7 +1,7 @@
 ---
 draft: false
 author: "Stefan"
-begin: "2028-02-26"
+begin: "2027-02-26"
 title: Elbe Marathon 2027
 images:
 
