@@ -47,10 +47,10 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
-          #- name: Install pnpm
-          #  run: "curl -fsSL https://get.pnpm.io/install.sh | sh - && source ~/.bashrc && pnpm --version"
+      #- name: Install Dart Sass
+      #  run: sudo snap install dart-sass
+      #- name: Install pnpm
+      #  run: "curl -fsSL https://get.pnpm.io/install.sh | sh - && source ~/.bashrc && pnpm --version"
       - name: Checkout
         uses: actions/checkout@v6
         with:
@@ -125,7 +125,7 @@ jobs:
 
       - name: Save cache hashfile
         #if: "${{ !contains(github.event.head_commit.message, '[full]') }}"
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: util_hashing/hashes.chk
           key: hashes-${{ hashfiles('**') }}
