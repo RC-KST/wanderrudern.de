@@ -26,6 +26,6 @@ Sowohl die Landschaft, als auch die Städte am Fluss sind wirklich sehenswert.
 Die Fahrt richtet sich an Ruderer aller Altersklassen. Auch Anfänger aus 2026 können teilnehmen.
 Bei 15 Rudertagen ist eine gute Kondition nötig. 
 
-![Passau in die Ilz](./images/Passau.mp4)
+![Mainschleife](./images/Weinberge-Mainschleife-MDK2015.jpg)
 
-![Kloster Melk](./images/20250416_210825.jpg)
+![Mainschleife](./images/Mainschleife-MDK2015.jpg)
