@@ -3,8 +3,6 @@ title: Impressum
 weight: 100
 ---
 
-## Impressum
-
 RC Kleinmachnow-Stahnsdorf-Teltow e.V.  
 Bäkepromenade 1  
 Ende der Bäkepromenade  
