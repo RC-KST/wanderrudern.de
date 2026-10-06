@@ -13,13 +13,19 @@ images:
 ## Herbstferien, 10 Urlaubstage für Arbeitnehmer nötig 
 
 Wir fahren mit Landdienst zunächst die Donau abwärts, passieren dann beim Kloster Weltenburg den Donaudurchbruch.
+
 Bei Kehlheim biegen wir in den Main-Donau-Kanal ab. Dieser führt zunächst durch das Altmühl, bevor er zur höchstgelegenen Wasserstraße Europas aufsteigt.
+
 Wir passieren Nürnberg, Erlangen und erreichen bei Bamberg den Main.
+
 Diesen geht es abwärts durch den Spessart, vorbei an Schweinfurt, Kitzingen, Würzburg und Marktheidenfeld.
+
 Bei Aschaffenburg geht es in die Rheinebene.
 Am letzten Tag erreichen wir den Main.
 
 Sowohl die Landschaft, als auch die Städte am Fluss sind wirklich sehenswert.
+
+Quartiere häufiger Ruderclubs, aber zwischendurch auch Hotels.
 
 ![Donaudurchbruch Weltenburg](./images/Donaudurchbruch.jpg)
 
