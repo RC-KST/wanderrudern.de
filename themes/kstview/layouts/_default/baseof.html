@@ -14,8 +14,6 @@
             | postCSS (dict "config" "../../assets/css/postcss.config.js") }}
         {{- $styles := $styles | minify | fingerprint | css.PostCSS }}
 
-        {{- $styles = $styles | minify | fingerprint | resources.PostProcess -}}
-
         <link rel="stylesheet" href="{{ $styles.Permalink }}" />
         <style>
             @font-face {

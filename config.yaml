@@ -7,7 +7,6 @@ languages:
     locale: de-DE
     label: Deutsch
     weight: 2
-languageCode: de
 defaultContentLanguage: de
 
 staticDir:
