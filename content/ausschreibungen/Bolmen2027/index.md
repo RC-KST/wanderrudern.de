@@ -26,4 +26,4 @@ Diese Wanderfahrt richtet sich auch an Anfänger aller Altersklassen und Ruderer
 
 ![Bolmen Landkarte](./images/bolmen-unnen.jpg)
 
-![Wohnzimmer](./images/Wohnzimmer.png)
+![Wohnzimmer](./images/Wohnzimmmer.png)
