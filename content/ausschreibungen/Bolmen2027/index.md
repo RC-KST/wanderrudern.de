@@ -10,7 +10,7 @@ images:
 
 ## Letze Woche der Sommerferien 
 
-![Quartier Bolmen](./images/18825c.jpg)
+![Quartier Bolmen](./images/10115.jpg)
 
 Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg. 240 km bis zu unseren Hütten auf Bolmsö.
 Rückreise erfolgt eine Woche später am Samstagnachmittag, wir nehmen die Nachtfähre ab Trelleborg und sind Sonntag Mittag wieder zur Hause.
@@ -24,3 +24,6 @@ Wir machen Tagesfahrten zwischen 30 und 50 km.
 Diese Wanderfahrt richtet sich auch an Anfänger aller Altersklassen und Ruderer die eine entspannte Wanderfahrt, ohne Quartierwechsel suchen.
 
 ![Bolmen Landkarte](./images/bolmen-unnen.jpg)
+
+![Quartier Bolmen](./images/Wohnzimmer.png)
+
