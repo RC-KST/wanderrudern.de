@@ -12,13 +12,13 @@ images:
 
 ![Quartier Bolmen](./images/18825c.jpg)
 
-Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg. 240 km bis zu unseren Hütten auf Bolmsö.
+Wir nehmen die Nachtfähre am Freitag ab Rostock. Start in Stahnsdorf gegen 16 Uhr. Fähre Rostock 23 Uhr. Samstag 7 Uhr in Trelleborg. 250 km bis zu unserem Quartier.
 Rückreise erfolgt eine Woche später am Samstagnachmittag, wir nehmen die Nachtfähre ab Trelleborg und sind Sonntag Mittag wieder zur Hause.
 
-Unser Quartier liegt auf der Insel Bolmsö mitten im größten See Smalands, dem Bolmen.
-Wir haben Betten in zwei großen Ferienhäusern mitten im Wald, 600m zur Badestelle/Bootseinsetzstelle.
-Frühstück + Abendessen machen wir selbst. Wir haben eine Großküche im Haus und einen großen Grillplatz.
-Volleyballfeld und Tischtennisplatte sind auch vor Ort.
+Unser Quartier liegt am Nordende des Bolmen, dem größten See Smalands.
+Wir haben Betten in drei Ferienhäusern auf dem Liljenäs Gård, 600m zur Badestelle/Bootseinsetzstelle.
+Das Hauptgebäude ist ein historischer Bau von 1760 mit 8 Doppelzimmern und einem großen Speisesaal.
+Frühstück + Abendessen machen wir selbst.
 
 Wir machen Tagesfahrten zwischen 30 und 50 km. 
 Diese Wanderfahrt richtet sich auch an Anfänger aller Altersklassen und Ruderer die eine entspannte Wanderfahrt, ohne Quartierwechsel suchen.
