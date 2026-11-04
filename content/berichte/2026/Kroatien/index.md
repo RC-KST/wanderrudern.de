@@ -22,3 +22,4 @@ typen: wanderfahrt
 
 ![Kroatien Steilküste](images/Steilkueste.jpg)
 
+![Kleine Neretva](images/Mala-Neretva.jpg)
