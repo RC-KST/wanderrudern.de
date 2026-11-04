@@ -38,5 +38,5 @@ typen: wanderfahrt
 
 ![Baumgarten Inrigger 3x+](images/Baumgarten-Inrigger.jpg)
 
-![Baumgarten Inrigger 3x+](images/Baumgarten-Inrigger.jpg)
+![Kroatien Steilküste](images/Steilkueste.jpg)
 
