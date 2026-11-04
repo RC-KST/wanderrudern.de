@@ -39,7 +39,7 @@ Der Senftenberger See wurde bereits zu DDR Zeiten geflutet, weitere Seen kamen n
 Allerdings waren die Versprechen zu Nutzbarkeit stets etwas optimistisch.
 2013 wurden uns drei Seen versprochen, 4 Wochen vor dem Eröffnungstermin waren es dann nur noch zwei und die Eröffnungsveranstaltung geriet zur peinlichen Farce. 
 
-[Lausitz 2013](/berichte/2013/saimaa_2019-2)
+[Lausitz 2013](/berichte/2013/lausitzer_seenplatte_20131)
 
 Nun war für 2026 die Nutzung für fünf Seen angekündigt und zu unserem Erstaunen wurden auch Anfang Juli wirklich alle drei Seen zur Nutzung frei gegeben.
 
