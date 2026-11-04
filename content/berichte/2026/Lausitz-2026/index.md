@@ -56,6 +56,9 @@ Der Tunnel selbst ist hell beleuchtet und wenn man die Mitte trifft auch ruderba
 Die Pause im Hafenbecken von Großräschen ist leider eigentlich für Ruderboote nicht erlaubt, nur für Yachten. Wir fanden einen Platz im recht leeren Hafenbecken und sogar eine offene Kneipe, der allerdings am Samstag Mittag schon das Eis (aber nicht das Bier) ausgegangen war.
 Die Wasserqualität am Hafenbecken war katastrophal. Baden würde man am daneben liegenden Strand sicher nicht.
 
+![Landkarte](images/Hafen-grossraeschen.jpg)
+
+
 Zurück ging es auf direktem Weg über den Sedlitzer See, vorbei am "Rostigen Nagel" zurück nach Geierswalde.
 Einige Ruderer bestiegen den Aussichtsturm "Rostiger Nagel". Erfreulicherweise sogar ohne Eintritt.
 
@@ -69,9 +72,8 @@ Wir drehten eine große Seerunde (nicht um die Insel, das ist gesperrt) und legt
 Fazit: Die Seenplatte braucht noch einige Zeit, damit man sie wirklich nutzen kann. Gerade an den beiden neuesten Seen ist praktisch keine Möglichkeit zum Anlegen am Strand, weil fast alle Ufer instabil sind und die Wasserqualität lädt hier zum maximal zum Bootfahren, aber nicht zum Baden ein.
 
 Leider setzen anscheinend viele Übernachtungseinrichtungen sehr auf Luxustourismus. Hoffen wir, dass sie ihr Publikum finden. Aber wer Preise bis zu 100 Euro/Person/Nacht aufruft muss dann auch liefern.
+
 Von dieser Kritik sind unsere Ferienwohnungen rund um Tätzschwitz ausdrücklich ausgenommen. Super Unterkünfte zu realistischen Preisen. Speziell das "Gelbe Haus" mit insgesamt 18 Betten ist ei ideales Quartier für eine Gruppe Wassersportler.
-
-
 
 ![Landkarte](images/Lausitz-Seen.png)
 
