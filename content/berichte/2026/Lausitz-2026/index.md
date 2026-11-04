@@ -33,3 +33,9 @@ typen: wanderfahrt
 ---
 
 # Auf künstlichen Seen in der Lausitz
+
+
+
+
+![Abendessen](images/Lausitz-Seen.png)
+
