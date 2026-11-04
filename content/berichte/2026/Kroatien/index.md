@@ -36,6 +36,7 @@ typen: wanderfahrt
 # Auf Adria und Neretva
 
 
-![Landkarte](images/Hafen-grossraeschen.jpg)
+![Baumgarten Inrigger 3x+](images/Baumgarten-Inrigger.jpg)
 
+![Baumgarten Inrigger 3x+](images/Baumgarten-Inrigger.jpg)
 
