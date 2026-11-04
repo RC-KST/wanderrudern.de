@@ -38,6 +38,9 @@ Die Lausitzer Seenplatte ist eine künstlich angelegte Seenplatte, die aus den e
 Der Senftenberger See wurde bereits zu DDR Zeiten geflutet, weitere Seen kamen nach der Wende hinzu.
 Allerdings waren die Versprechen zu Nutzbarkeit stets etwas optimistisch.
 2013 wurden uns drei Seen versprochen, 4 Wochen vor dem Eröffnungstermin waren es dann nur noch zwei und die Eröffnungsveranstaltung geriet zur peinlichen Farce. 
+
+[Lausitz 2013](/berichte/2013/saimaa_2019-2)
+
 Nun war für 2026 die Nutzung für fünf Seen angekündigt und zu unserem Erstaunen wurden auch Anfang Juli wirklich alle drei Seen zur Nutzung frei gegeben.
 
 Anfang Oktober machten wir uns mit 6 Vierern auf dem Anhänger nach Tätzschwitz bei Geierswalde am Geierswalder See. Wir hatten zwei Ferienwohnungen im Ort und eine weitere im Nachbarort. Alle sehr gut ausgestattet, die größte "Das gelbe Haus" herausragend und uneingeschränkt zu empfehlen.
