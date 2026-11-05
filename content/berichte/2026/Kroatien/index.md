@@ -40,6 +40,7 @@ Das mit der Gaststätte zur Mittagspause scheiterte. Der Ort Diuba Stonska war e
 Wir machten Pause an einem kleinen Strand, bevor es wieder zurück ging.
 Heute war uns Aeolus nicht ganz so gnädig, aber der Gegenwind hielt sich in Grenzen.
 Bei durchgehender Sonne und 23 Grad schafften wir die 43 km recht entspannt.
+In Blace hatten wir jetzt die ideale Anlegestelle gefunden. Direkt am Kirchenstrand konnte man entspannt anlegen und die Boote lagern.
 
 ![Kroatien Steilküste](images/Steilkueste.jpg)
 
@@ -83,6 +84,7 @@ Wir kamen bereits am frühen Nachmittag zurück, allerdings kam das Gewitter ers
 Heute hatten wir den ablandigen Wind etwas unterschätzt. Wir folgten der Küste nördlich nach Ploce, das ging noch. Leider bogen wir dann in den Hafen ab, um ins Delta zu kommen. Allerdings pfiff der Wind genau aus dieser Richtung durch das Tal.
 Wir kämpften uns bei heftigen Wind in den Hafen herein, teilweise jeder Schlag nur zentimeterweise vorwärts, bis wir endlich die schützenden Gräben erreichten.
 Wir folgten dem nördlichsten Arm des Neretva Deltas, der in einer Sackgasse in einem Tallkessel endete. Ein großer Sumpfteich, auf drei Seiten von Bergen umgeben.
+Das nördliche Delta war etwas weniger mandarinenlastig, dafür viel Oliven und vereinzelt Feigen- und Granatapfelbäume.
 
 Auf dem Rückweg haben wir noch an einem Straßenstrand (Ufer der Neretva) angelegt und größere Menge Mandarinen nachgekauft. Der Verbrauch der Ruderer ist hoch.
 
@@ -113,11 +115,3 @@ Die war nämlich, bei diesem Wind auch alles andere als angenehm zu fahren.
 Am späten Abend kam auch der Anhängertransport in Regensburg an. (wie immer vielen Dank an den Regensburger RK für die unkomplizierte Übernachtung)
 
 Sonntag war es dann nur noch ein Katzensprung zurück nach Stahnsdorf.
-
-
-
-
-
-
-
-
