@@ -103,6 +103,8 @@ Der Rückweg ging etwas entspannter, so dass wir kurz vor Sonnenuntergang nach 4
 Die Abschlusstour führte uns den Fjord nach Süden, bis direkt vor die bosnische Grenze, nach Klek.
 Selten einen so toten Badeort gefunden. Es hatte wirklich nichts offen, aber der Strand war schön und wir sonnten uns auf den Bänken der Uferpromenade.
 
+![Inrigger vor Steilküste](images/Inrigger-steilkueste.jpg)
+
 Am Nachmittag luden wir auf und machten uns reisefertig für den sehr frühen Aufbruch am nächsten Morgen.
 
 Die Rückfahrt lief besonders für den Anhängertransport anstrengender als geplant. Vom Velebit Gebirge fiel der Bora herab. Für LKW, Busse und Anhänger war die Autobahn gesperrt.
