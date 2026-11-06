@@ -9,10 +9,6 @@ images:
   title: Abendessen vor dem Quartier
 - src: images/Armada.jpg
   title: Ruderboote in der Lausitz
-- src: images/Hafen-grossraeschen.jpg
-  title: Hafen Großräschen
-- src: images/Lausitz-Seen.png
-  title: Landkarte Lausitzer Seen
 - src: images/Ruderboote-Lausitz.jpg
   title: Ruderboote in der Lausitz
 - src: images/Schleuse.jpg
@@ -38,6 +34,7 @@ Die Lausitzer Seenplatte ist eine künstlich angelegte Seenplatte, die aus den e
 Der Senftenberger See wurde bereits zu DDR Zeiten geflutet, weitere Seen kamen nach der Wende hinzu.
 Allerdings waren die Versprechen zu Nutzbarkeit stets etwas optimistisch.
 2013 wurden uns drei Seen versprochen, 4 Wochen vor dem Eröffnungstermin waren es dann nur noch zwei und die Eröffnungsveranstaltung geriet zur peinlichen Farce. 
+
 
 [Lausitz 2013](/berichte/2013/lausitzer_seenplatte_20131)
 
